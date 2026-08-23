@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-08-23T19:15:20+02:00",
+  "generado": "2026-08-23T19:43:34+02:00",
   "titulares": [
     {
-      "titular": "Oblak evita el tercero de Buchanan",
+      "titular": "Alfonso, profesor en Londres, cuenta su experiencia en una tutoría con una familia española: \"Tenían la certeza de que los ingleses no los entendían\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T18:57:48+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/laliga/20260823/1004218797/atletico-de-madrid-villarreal-partido-futbol-hoy-en-directo-laliga-ea-sports-primera-ext-pau.html"
+      "fecha": "2026-08-23T19:22:12+02:00",
+      "enlace": "https://www.mundodeportivo.com/tressesenta/20260823/1004218952/alfonso-profesor-londres-cuenta-experiencia-tutoria-familia-espanola-tenian-certeza-ingleses-no-entendian-dct.html"
     },
     {
-      "titular": "Se pone en marcha la Selección española masculina",
+      "titular": "Un mes para los 40 y Giroud sigue marcando estos tremendos golazos",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T18:53:52+02:00",
-      "enlace": "https://www.mundodeportivo.com/baloncesto/basket-feb/20260823/1004218944/lunes-pone-marcha-seleccion-masculina.html"
+      "fecha": "2026-08-23T19:15:57+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/ligue-1/20260823/1004218950/mes-40-giroud-sigue-marcando-tremendos-golazos.html"
     },
     {
       "titular": "Las portadas en Inglaterra con Arteta son para verlas...",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/rayo/2026/08/21/camello-agotados-situacion-distancia-tres-partes.html"
     },
     {
-      "titular": "Javier Berdejo y el precioso recuerdo a su amigo Jorge Casado: le dedica su debut con el Real Zaragoza y lleva tatuada una frase suya",
+      "titular": "Sonoro empate en el Metropolitano",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/futbol/javier-berdejo-precioso-recuerdo-amigo-133594143"
+      "enlace": "https://www.sport.es/es/noticias/laliga/sonoro-empate-metropolitano-133590320"
     },
     {
-      "titular": "El ASVEL añade más poder ofensivo con el base puertorriqueño Tremont Waters",
+      "titular": "Víctor Muñoz endulza el debut de Araujo",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/baloncesto/euroliga/asvel-anade-ofensivo-base-puertorriqueno-133593689"
+      "enlace": "https://www.sport.es/es/noticias/premier-league/victor-munoz-endulza-debut-araujo-133593304"
     },
     {
-      "titular": "Alonso, optimista: \"Sí, con este chasis, sí. Y con el motor, tenemos unas dos o tres carreras para optimizarlo\"",
+      "titular": "Pogacar no baja nunca el listón: \"Podía haber ganado la segunda etapa de La Vuelta\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T18:49:04+02:00",
-      "enlace": "https://www.mundodeportivo.com/motor/f1/20260823/1004218940/alonso-optimista-futuro-chasis-motor-dos-tres-carreras-optimizarlo.html"
+      "fecha": "2026-08-23T19:13:33+02:00",
+      "enlace": "https://www.mundodeportivo.com/ciclismo/vuelta-espana/20260823/1004218949/pogacar-no-baja-nunca-liston-podia-haber-ganado-segunda-etapa-vuelta.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 17,
+    "antiguedad_minima_min": 21,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 3924,
+        "antiguedad_min": 3952,
         "descartados_por_gancho": 12
       },
       {
@@ -98,9 +98,9 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 142,
+        "items": 140,
         "error": null,
-        "antiguedad_min": 17,
+        "antiguedad_min": 21,
         "descartados_por_gancho": 7
       },
       {

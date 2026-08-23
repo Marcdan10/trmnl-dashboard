@@ -2,7 +2,7 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "ultimas",
-  "generado": "2026-08-23T19:15:25+02:00",
+  "generado": "2026-08-23T19:43:39+02:00",
   "titulares": [
     {
       "titular": "Italia investiga por homicidio involuntario a los padres de la niña sin vacunar que murió de difteria",
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 51,
+    "antiguedad_minima_min": 79,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 3258,
+        "antiguedad_min": 3286,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 3185,
+        "antiguedad_min": 3214,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 29,
         "error": null,
-        "antiguedad_min": 51,
+        "antiguedad_min": 79,
         "descartados_por_gancho": 1
       },
       {
