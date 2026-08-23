@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-08-23T21:43:56+02:00",
+  "generado": "2026-08-23T22:14:50+02:00",
   "titulares": [
     {
-      "titular": "Mark Ruffalo responde a las acusaciones de antisemitismo: \"Criticar al primer ministro israelí, no es criticar a los judíos\"",
+      "titular": "0-0: El Sabadell perdona en la primera parte y suma un nuevo punto en Castalia",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T21:26:26+02:00",
-      "enlace": "https://www.mundodeportivo.com/elotromundo/gente/20260823/1004218978/mark-ruffalo-responde-acusaciones-antisemitismo-paramount-criticar-acciones-primer-ministro-israeli-no-criticar-judios-dct.html"
+      "fecha": "2026-08-23T21:42:37+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/liga-segunda-division/20260823/1004218983/0-0-sabadell-perdona-primera-parte-suma-nuevo-punto-castalia.html"
     },
     {
-      "titular": "Haz que la vuelta al colegio sea lo más divertida posible con este combo de Lidl",
+      "titular": "1-0: El Getafe redondea su semana fantástica",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T21:19:15+02:00",
-      "enlace": "https://www.mundodeportivo.com/actualidad/20260823/1004218970/haz-vuelta-colegio-tus-hijos-sea-divertida-posible-combo-lidl-fiambrera-botella-agua-6-euros-smd.html"
+      "fecha": "2026-08-23T21:35:27+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/laliga/20260823/1004218929/getafe-redondea-semana-fantastica.html"
     },
     {
       "titular": "Las portadas en Inglaterra con Arteta son para verlas...",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/rayo/2026/08/21/camello-agotados-situacion-distancia-tres-partes.html"
     },
     {
-      "titular": "Amine Noua sigue ganando peso con Francia",
+      "titular": "Soria sujeta al Getafe y Ünal remata al Racing",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/baloncesto/amine-noua-sigue-ganando-peso-133596379"
+      "enlace": "https://www.sport.es/es/noticias/laliga/1-0-soria-sujeta-getafe-133596434"
     },
     {
-      "titular": "Stade Rennais - PSG, en directo: sigue el partido de la Ligue 1, en vivo hoy",
+      "titular": "Raphinha: Yo me lo guiso, yo me lo como... Con dedicatoria a su hijo",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/futbol-internacional/stade-rennais-psg-directo-sigue-133589538"
+      "enlace": "https://www.sport.es/es/noticias/barca/raphinha-guiso-dedicatoria-hijo-133596530"
     },
     {
-      "titular": "Un experto en climatización: \"Un aire acondicionado encendido 8 horas gasta menos de un euro al día\"",
+      "titular": "Saltan las alarmas en Movistar Team con el comunicado médico de su líder Uijtdebroeks",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T21:12:45+02:00",
-      "enlace": "https://www.mundodeportivo.com/actualidad/20260823/1004218980/pablo-garcia-experto-climatizacion-aire-acondicionado-encendido-8-horas-gastar-euro-dia-dct.html"
+      "fecha": "2026-08-23T21:34:16+02:00",
+      "enlace": "https://www.mundodeportivo.com/ciclismo/vuelta-espana/20260823/1004218984/saltan-alarmas-movistar-team-comunicado-medico-lider-uijtdebroeks-caida-vuelta.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 17,
+    "antiguedad_minima_min": 32,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 4073,
+        "antiguedad_min": 4104,
         "descartados_por_gancho": 12
       },
       {
@@ -98,16 +98,16 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 139,
+        "items": 141,
         "error": null,
-        "antiguedad_min": 17,
-        "descartados_por_gancho": 7
+        "antiguedad_min": 32,
+        "descartados_por_gancho": 6
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 49,
+        "items": 50,
         "error": null,
         "antiguedad_min": null,
         "descartados_por_gancho": 0
