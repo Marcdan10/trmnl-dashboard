@@ -2,8 +2,19 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-08-24T01:14:43+02:00",
+  "generado": "2026-08-24T01:43:22+02:00",
   "titulares": [
+    {
+      "titular": "Desaparecido un empresario burgalés tras caer por la borda de su barco cerca de Italia",
+      "medios": [
+        "El País",
+        "La Vanguardia",
+        "ABC"
+      ],
+      "consenso": 3,
+      "fecha": "2026-08-24T01:26:09+02:00",
+      "enlace": "https://www.abc.es/espana/castilla-leon/desaparecido-empresario-burgales-tras-caer-borda-embarcacion-20260823170100-nt.html"
+    },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
       "medios": [
@@ -32,15 +43,6 @@
       "enlace": "https://www.lavanguardia.com/internacional/20260823/11618197/crisis-ensanan-europa.html"
     },
     {
-      "titular": "Salud íntima: errores que ponen en riesgo tu microbiota vaginal y puedes evitar fácilmente",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-24T01:11:11+02:00",
-      "enlace": "https://www.abc.es/bienestar/salud-intima-errores-ponen-riesgo-microbiota-vaginal-20260819011041-nt.html"
-    },
-    {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
       "medios": [
         "RTVE"
@@ -50,15 +52,6 @@
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
     },
     {
-      "titular": "Feijóo ahonda en la “crisis de salud pública” en Ceuta",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-23T20:47:40+02:00",
-      "enlace": "https://elpais.com/espana/2026-08-23/feijoo-ahonda-en-la-crisis-de-salud-publica-en-ceuta.html"
-    },
-    {
       "titular": "Bruselas suaviza sus políticas climáticas por la presión de la industria y de algunos países",
       "medios": [
         "La Vanguardia"
@@ -66,6 +59,15 @@
       "consenso": 1,
       "fecha": "2026-08-23T06:00:00+02:00",
       "enlace": "https://www.lavanguardia.com/internacional/20260823/11618202/bruselas-suaviza-politicas-climaticas-presion-industria-paises.html"
+    },
+    {
+      "titular": "El 'efecto Paula Echevarría': así es la brillante estrategia con la que Daniella Bustamante ha debutado a sus 18 años",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-24T01:25:43+02:00",
+      "enlace": "https://www.abc.es/espana/efecto-paula-echevarria-brillante-estrategia-daniella-bustamante-20260821012520-nt.html"
     }
   ],
   "salud": {
@@ -74,7 +76,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 3,
+    "antiguedad_minima_min": 17,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +84,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2211849,
+        "antiguedad_min": 2211878,
         "descartados_por_gancho": 0
       },
       {
@@ -99,26 +101,26 @@
         "ok": true,
         "items": 135,
         "error": null,
-        "antiguedad_min": 68,
+        "antiguedad_min": 97,
         "descartados_por_gancho": 7
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 115,
+        "items": 114,
         "error": null,
-        "antiguedad_min": 59,
-        "descartados_por_gancho": 18
+        "antiguedad_min": 88,
+        "descartados_por_gancho": 19
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 24,
+        "items": 22,
         "error": null,
-        "antiguedad_min": 3,
-        "descartados_por_gancho": 1
+        "antiguedad_min": 17,
+        "descartados_por_gancho": 3
       }
     ]
   }

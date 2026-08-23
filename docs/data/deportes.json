@@ -2,7 +2,7 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-08-24T01:14:49+02:00",
+  "generado": "2026-08-24T01:43:29+02:00",
   "titulares": [
     {
       "titular": "Festival de un Barça sin ariete, pero con pólvora",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 30,
+    "antiguedad_minima_min": 53,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 4284,
+        "antiguedad_min": 4312,
         "descartados_por_gancho": 12
       },
       {
@@ -100,8 +100,8 @@
         "ok": true,
         "items": 138,
         "error": null,
-        "antiguedad_min": 30,
-        "descartados_por_gancho": 7
+        "antiguedad_min": 53,
+        "descartados_por_gancho": 6
       },
       {
         "medio": "Sport",
