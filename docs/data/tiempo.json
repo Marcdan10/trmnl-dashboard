@@ -1,18 +1,10 @@
 {
   "ciudad": "Barcelona",
-  "generado": "2026-08-23T15:45:13",
+  "generado": "2026-08-23T16:18:04",
   "horas": [
     {
-      "hora": "16",
-      "temp": 30,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "sol"
-    },
-    {
       "hora": "17",
-      "temp": 30,
+      "temp": 29,
       "prob": 0,
       "mm": 0,
       "mostrar_prob": false,
@@ -52,7 +44,7 @@
     },
     {
       "hora": "22",
-      "temp": 27,
+      "temp": 26,
       "prob": 0,
       "mm": 0,
       "mostrar_prob": false,
@@ -84,7 +76,7 @@
     },
     {
       "hora": "02",
-      "temp": 24,
+      "temp": 25,
       "prob": 0,
       "mm": 0,
       "mostrar_prob": false,
@@ -92,6 +84,14 @@
     },
     {
       "hora": "03",
+      "temp": 24,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "nube"
+    },
+    {
+      "hora": "04",
       "temp": 24,
       "prob": 0,
       "mm": 0,
@@ -105,7 +105,7 @@
       "max": 30,
       "min": 23,
       "prob": 43,
-      "mm": 2.3,
+      "mm": 1.5,
       "mostrar_prob": true,
       "destacar": false,
       "icono": "lluvia"
@@ -113,7 +113,7 @@
     {
       "etiqueta": "mar 25",
       "max": 33,
-      "min": 23,
+      "min": 24,
       "prob": 10,
       "mm": 0,
       "mostrar_prob": true,
@@ -125,7 +125,7 @@
       "max": 29,
       "min": 23,
       "prob": 10,
-      "mm": 0,
+      "mm": 0.1,
       "mostrar_prob": true,
       "destacar": false,
       "icono": "nube"
@@ -142,28 +142,28 @@
     },
     {
       "etiqueta": "vie 28",
-      "max": 31,
-      "min": 21,
+      "max": 33,
+      "min": 23,
       "prob": 3,
-      "mm": 0,
+      "mm": 0.3,
       "mostrar_prob": false,
       "destacar": false,
       "icono": "nube"
     },
     {
       "etiqueta": "sáb 29",
-      "max": 31,
-      "min": 17,
+      "max": 29,
+      "min": 21,
       "prob": 0,
       "mm": 0,
       "mostrar_prob": false,
       "destacar": false,
-      "icono": "nube"
+      "icono": "sol"
     },
     {
       "etiqueta": "dom 30",
-      "max": 30,
-      "min": 20,
+      "max": 31,
+      "min": 19,
       "prob": 2,
       "mm": 0,
       "mostrar_prob": false,

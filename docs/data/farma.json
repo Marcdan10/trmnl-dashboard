@@ -2,8 +2,17 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "ultimas",
-  "generado": "2026-08-23T17:45:12+02:00",
+  "generado": "2026-08-23T18:18:04+02:00",
   "titulares": [
+    {
+      "titular": "La realidad virtual ayuda a retener la práctica pero no la teoría al estudiar",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-23T18:08:29+02:00",
+      "enlace": "https://www.redaccionmedica.com/formacion/estudiantes/20260823/la-realidad-virtual-ayuda-retener-la-practica-pero-no-teoria-al-estudiar/349519_0.html"
+    },
     {
       "titular": "Muere el anestesista Manuel Montero Arias, el colegiado más antiguo de Cáceres",
       "medios": [
@@ -12,15 +21,6 @@
       "consenso": 1,
       "fecha": "2026-08-23T16:42:40+02:00",
       "enlace": "https://www.redaccionmedica.com/autonomias/20260823/muere-manuel-montero-arias-el-medico-colegiado-mas-antiguo-de-caceres-los-anos/349516_0.html"
-    },
-    {
-      "titular": "Mejor horario para retener talento médico ante la desigualdad salarial autonómica",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-23T16:19:42+02:00",
-      "enlace": "https://www.redaccionmedica.com/profesionales/20260823/mejor-horario-para-retener-talento-medico-ante-la-desigualdad-salarial-autonomica/349325_0.html"
     },
     {
       "titular": "Cofares se prepara para la nueva era del medicamento con 25 millones de inversión",
@@ -59,13 +59,13 @@
       "enlace": "https://elglobalfarma.com/politica/curso-aceleron-normativo-farmaceutico-tres-leyes-clave-marcan-final-legislatura/"
     },
     {
-      "titular": "La tecnología pionera del 12 de Octubre para frenar la odisea diagnóstica de patologías mitocondriales",
+      "titular": "Mejor horario para retener talento médico ante la desigualdad salarial autonómica",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T14:12:46+02:00",
-      "enlace": "https://www.redaccionmedica.com/innovacion/20260823/la-tecnologia-pionera-del-de-octubre-para-frenar-la-odisea-diagnostica-patologias-mitocondriales/349397_0.html"
+      "fecha": "2026-08-23T16:19:42+02:00",
+      "enlace": "https://www.redaccionmedica.com/profesionales/20260823/mejor-horario-para-retener-talento-medico-ante-la-desigualdad-salarial-autonomica/349325_0.html"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 62,
+    "antiguedad_minima_min": 9,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 3168,
+        "antiguedad_min": 3201,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 3095,
+        "antiguedad_min": 3128,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 29,
         "error": null,
-        "antiguedad_min": 62,
+        "antiguedad_min": 9,
         "descartados_por_gancho": 1
       },
       {
