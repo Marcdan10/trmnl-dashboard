@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-08-23T20:55:32+02:00",
+  "generado": "2026-08-23T21:18:56+02:00",
   "titulares": [
     {
-      "titular": "\"Yo creo que Cristóbal Colón ya había estado en América antes\"",
+      "titular": "Flick, sobre Balde: \"No está al cien por cien\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T20:22:04+02:00",
-      "enlace": "https://www.mundodeportivo.com/actualidad/20260823/1004218913/carlos-leon-arqueologo-marino-creo-cristobal-colon-habia-america-smd-hst.html"
+      "fecha": "2026-08-23T20:55:52+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260823/1004218975/flick-sobre-balde-no-cien-cien.html"
     },
     {
-      "titular": "Simeone, sobre Julián: \"Mientras los ugadores estén en el Atlético, a muerte con ellos\"",
+      "titular": "Elche - Barcelona, la previa en directo",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T20:15:51+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20260823/1004218966/simeone-sobre-julian-julian-ugadores-esten-atletico-muerte.html"
+      "fecha": "2026-08-23T20:55:45+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260823/1004218639/elche-barcelona-directo-laliga-ea-sports-primera-division-futbol.html"
     },
     {
       "titular": "Las portadas en Inglaterra con Arteta son para verlas...",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/rayo/2026/08/21/camello-agotados-situacion-distancia-tres-partes.html"
     },
     {
-      "titular": "Stade Rennais - PSG, en directo: sigue el partido de la Ligue 1, en vivo hoy",
+      "titular": "Xavi Hernández confirma su 'staff' en Países Bajos: Sergio Alegre, su hermano Óscar... ¡Y Ruud van Nistelrooy!",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/futbol-internacional/stade-rennais-psg-directo-sigue-133589538"
+      "enlace": "https://www.sport.es/es/noticias/futbol-internacional/xavi-hernandez-confirma-staff-paises-133596019"
     },
     {
-      "titular": "Dónde ver el Elche - Barcelona de LaLiga por TV, en directo y online",
+      "titular": "El Huesca intenta fichar a Iranzo, aunque la decisión del central es firme para venir al Real Zaragoza",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/barca/donde-ver-elche-barcelona-laliga-tv-directo-133595115"
+      "enlace": "https://www.sport.es/es/noticias/futbol/huesca-fichar-iranzo-decision-central-133596131"
     },
     {
-      "titular": "Primer once liguero de Flick, con sorpresa",
+      "titular": "Malas noticias para Rafa Jódar antes del US Open",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T20:14:16+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260823/1004218965/primer-once-liguero-flick-sorpresa.html"
+      "fecha": "2026-08-23T20:37:19+02:00",
+      "enlace": "https://www.mundodeportivo.com/tenis/20260823/1004218967/malas-noticias-rafa-jodar-us-open.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 33,
+    "antiguedad_minima_min": 23,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 4024,
+        "antiguedad_min": 4048,
         "descartados_por_gancho": 12
       },
       {
@@ -98,10 +98,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 140,
+        "items": 141,
         "error": null,
-        "antiguedad_min": 33,
-        "descartados_por_gancho": 6
+        "antiguedad_min": 23,
+        "descartados_por_gancho": 5
       },
       {
         "medio": "Sport",
