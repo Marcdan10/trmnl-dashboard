@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-08-23T23:15:43+02:00",
+  "generado": "2026-08-23T23:44:16+02:00",
   "titulares": [
     {
-      "titular": "2-2: Ferran Torres resucita al PSG frente al Rennes",
+      "titular": "1-1: Los 'RedSticks', a semifinales del Mundial",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T22:50:47+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/ligue-1/20260823/1004219010/ferran-torres-resucita-psg-frente-rennes.html"
+      "fecha": "2026-08-23T23:07:32+02:00",
+      "enlace": "https://www.mundodeportivo.com/hockey-hierba/20260823/1004219015/1-1-redsticks-semifinales-mundial.html"
     },
     {
-      "titular": "El título de Palou se aplaza ante la mirada de Trump en Washington",
+      "titular": "¡Fuerte cabreo de Canales al ser sustituido!",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T22:46:05+02:00",
-      "enlace": "https://www.mundodeportivo.com/motor/indycar/20260823/1004219007/titulo-palau-aplaza-mirada-trump-washington.html"
+      "fecha": "2026-08-23T23:00:20+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/racing-santander/20260823/1004219012/fuerte-cabreo-canales-sustituido.html"
     },
     {
       "titular": "Las portadas en Inglaterra con Arteta son para verlas...",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/rayo/2026/08/21/camello-agotados-situacion-distancia-tres-partes.html"
     },
     {
-      "titular": "El FC Cartagena se lleva el Trofeo Carabela de Plata frente a la Minera",
+      "titular": "El Barça arranca a ritmo de campeón con un enorme Raphinha y destroza al Elche",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/futbol/segunda-rfef/fc-cartagena-lleva-trofeo-carabela-133597619"
+      "enlace": "https://www.sport.es/es/noticias/barca/cronica-elche-barca-liga-raphinha-goles-133596371"
     },
     {
-      "titular": "Problemas para Álex Palou que deja su quinto campeonato de Indycar para Milwaukee",
+      "titular": "Despegue inmediato: el CD Tenerife también derrota al Almería",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/motor/problemas-alex-palou-deja-quinto-campeonato-indycar-milwaukee-cronica-resultados-washington-dc-133597141"
+      "enlace": "https://www.sport.es/es/noticias/futbol/segunda-rfef/despegue-inmediato-cd-tenerife-derrota-133597770"
     },
     {
-      "titular": "Adeyemi le devuelve la confianza a Flick con su primer gol oficial con el Barça",
+      "titular": "2-2: Ferran Torres resucita al PSG frente al Rennes",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T22:41:31+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260823/1004219008/adeyemi-le-devuelve-confianza-flick-primer-gol-oficial-barca.html"
+      "fecha": "2026-08-23T22:50:47+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/ligue-1/20260823/1004219010/ferran-torres-resucita-psg-frente-rennes.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 24,
+    "antiguedad_minima_min": 36,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 4164,
+        "antiguedad_min": 4193,
         "descartados_por_gancho": 12
       },
       {
@@ -98,9 +98,9 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 140,
+        "items": 139,
         "error": null,
-        "antiguedad_min": 24,
+        "antiguedad_min": 36,
         "descartados_por_gancho": 4
       },
       {

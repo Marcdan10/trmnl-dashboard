@@ -2,16 +2,25 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-08-23T23:15:38+02:00",
+  "generado": "2026-08-23T23:44:12+02:00",
   "titulares": [
     {
-      "titular": "Elche - Barcelona en directo | Fermín se apunta a la goleada con el cuarto",
+      "titular": "Elche - Barcelona en directo | El Barcelona se da un festín ante el Elche en su estreno en la Liga",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T23:10:31+02:00",
+      "fecha": "2026-08-23T23:32:35+02:00",
       "enlace": "https://elpais.com/deportes/futbol/2026-08-23/elche-barcelona-en-directo-el-partido-de-la-liga-en-vivo.html"
+    },
+    {
+      "titular": "Álex Palou naufraga en la carrera de Trump por las calles de Washington",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-23T23:30:47+02:00",
+      "enlace": "https://www.abc.es/deportes/indycar-washington-20260823200113-nt.html"
     },
     {
       "titular": "Doblete de Ferran Torres en sus primeros 45 minutos con el PSG",
@@ -41,15 +50,6 @@
       "enlace": "https://www.abc.es/deportes/atletico-madrid/xxxx-20260823161400-nt.html"
     },
     {
-      "titular": "El mejor Alonso del año suma puntos en una accidentada carrera",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-23T21:08:13+02:00",
-      "enlace": "https://www.abc.es/deportes/formula-1/mejor-alonso-ano-suma-puntos-carrera-accidentada-20260823172105-nt.html"
-    },
-    {
       "titular": "Alonso se ilusiona tras puntuar en Zandvoort: “Me encanta este coche... más por llegar”",
       "medios": [
         "La Vanguardia"
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 5,
+    "antiguedad_minima_min": 11,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2211730,
+        "antiguedad_min": 2211759,
         "descartados_por_gancho": 0
       },
       {
@@ -99,7 +99,7 @@
         "ok": true,
         "items": 136,
         "error": null,
-        "antiguedad_min": 5,
+        "antiguedad_min": 11,
         "descartados_por_gancho": 6
       },
       {
@@ -108,7 +108,7 @@
         "ok": true,
         "items": 120,
         "error": null,
-        "antiguedad_min": 20,
+        "antiguedad_min": 49,
         "descartados_por_gancho": 20
       },
       {
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 23,
         "error": null,
-        "antiguedad_min": 53,
+        "antiguedad_min": 13,
         "descartados_por_gancho": 2
       }
     ]
