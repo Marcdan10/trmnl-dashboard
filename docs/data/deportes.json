@@ -2,7 +2,7 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-08-24T00:15:10+02:00",
+  "generado": "2026-08-24T00:46:02+02:00",
   "titulares": [
     {
       "titular": "Festival de un Barça sin ariete, pero con pólvora",
@@ -14,13 +14,13 @@
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260823/1004218971/elche-barca.html"
     },
     {
-      "titular": "La crónica del Elche-Barça | El vendaval culé arrolla al Elche de Anselmi",
+      "titular": "Flick: \"Hoy he visto mucho potencial\"",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/elche/cronica-elche-barca-vendaval-cule-133598489"
+      "enlace": "https://www.sport.es/es/noticias/barca/flick-hoy-he-visto-potencial-133598872"
     },
     {
       "titular": "Las portadas en Inglaterra con Arteta son para verlas...",
@@ -41,13 +41,13 @@
       "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20260823/1004218898/cerezo-atiza-barca-tema-julian-no-han-altura.html"
     },
     {
-      "titular": "¡Los 'RedSticks', a unas semifinales veinte años después!",
+      "titular": "La crónica del Elche-Barça | El vendaval culé arrolla al Elche de Anselmi",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/deportes/redsticks-semifinales-veinte-anos-despues-133597793"
+      "enlace": "https://www.sport.es/es/noticias/elche/cronica-elche-barca-vendaval-cule-133598489"
     },
     {
       "titular": "\"Si hubiese estado fresco no habríamos perdido\"",
@@ -59,13 +59,13 @@
       "enlace": "https://www.marca.com/futbol/rayo/2026/08/21/camello-agotados-situacion-distancia-tres-partes.html"
     },
     {
-      "titular": "Derbi en el ático de Segunda: UD Las Palmas y Tenerife gobiernan la tabla",
+      "titular": "¡Los 'RedSticks', a unas semifinales veinte años después!",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/las-palmas/derbi-atico-segunda-ud-palmas-133597910"
+      "enlace": "https://www.sport.es/es/noticias/deportes/redsticks-semifinales-veinte-anos-despues-133597793"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 22,
+    "antiguedad_minima_min": 40,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 4224,
+        "antiguedad_min": 4255,
         "descartados_por_gancho": 12
       },
       {
@@ -98,10 +98,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 140,
+        "items": 139,
         "error": null,
-        "antiguedad_min": 22,
-        "descartados_por_gancho": 5
+        "antiguedad_min": 40,
+        "descartados_por_gancho": 6
       },
       {
         "medio": "Sport",

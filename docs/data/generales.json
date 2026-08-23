@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-08-24T00:15:05+02:00",
+  "generado": "2026-08-24T00:45:56+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 9,
+    "antiguedad_minima_min": 39,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2211790,
+        "antiguedad_min": 2211820,
         "descartados_por_gancho": 0
       },
       {
@@ -97,19 +97,19 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 136,
+        "items": 135,
         "error": null,
-        "antiguedad_min": 9,
-        "descartados_por_gancho": 6
+        "antiguedad_min": 39,
+        "descartados_por_gancho": 7
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 120,
+        "items": 119,
         "error": null,
-        "antiguedad_min": 80,
-        "descartados_por_gancho": 20
+        "antiguedad_min": 40,
+        "descartados_por_gancho": 21
       },
       {
         "medio": "ABC",
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 24,
         "error": null,
-        "antiguedad_min": 22,
+        "antiguedad_min": 53,
         "descartados_por_gancho": 1
       }
     ]
