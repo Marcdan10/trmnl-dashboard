@@ -2,7 +2,7 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-08-23T11:30:47+02:00",
+  "generado": "2026-08-23T11:51:25+02:00",
   "titulares": [
     {
       "titular": "¡Balde, fuera de la lista de convocados del Barça para Elche!",
@@ -14,13 +14,13 @@
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260823/1004218781/lista-convocados-barca-elche-tres-fichajes-seis-filial.html"
     },
     {
-      "titular": "Largie Ramazani sigue pendiente del vestuario del Valencia CF",
+      "titular": "Haaland se rapa y dice adiós a su icónica coleta",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/valencia/largie-ramazani-sigue-pendiente-vestuario-133583469"
+      "enlace": "https://www.sport.es/es/noticias/futbol-internacional/haaland-rapa-dice-adios-iconica-133583539"
     },
     {
       "titular": "Las portadas en Inglaterra con Arteta son para verlas...",
@@ -41,13 +41,13 @@
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260823/1004218803/borussia-dortmund-barcelona-cerrar-fichaje-hector-fort.html"
     },
     {
-      "titular": "Cristina Romagosa, experta en nutrición: \"Es importante evitar las cenas copiosas pues no solo van a hacer que aumentemos de peso, sino que van a dificultar que conciliemos el sueño\"",
+      "titular": "Málaga CF - RC Deportivo: Horario y dónde ver en TV y online la primera jornada de LaLiga EA Sports",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/actualidad/cristina-romagosa-experta-nutricion-importante-evitar-cenas-copiosas-133581800"
+      "enlace": "https://www.sport.es/es/noticias/futbol/malaga-cf-rc-deportivo-horario-133583625"
     },
     {
       "titular": "\"Si hubiese estado fresco no habríamos perdido\"",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 5,
+    "antiguedad_minima_min": 25,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 3460,
+        "antiguedad_min": 3480,
         "descartados_por_gancho": 12
       },
       {
@@ -100,7 +100,7 @@
         "ok": true,
         "items": 148,
         "error": null,
-        "antiguedad_min": 5,
+        "antiguedad_min": 25,
         "descartados_por_gancho": 5
       },
       {
