@@ -1,0 +1,54 @@
+{
+  "_comentario": "Cada pantalla agrupa varios feeds. 'peso' sube o baja la prioridad de un medio al elegir el destacado. Los URL marcados con 'verificar': true no se han comprobado todavía; el script informa de cuáles fallan para que se puedan corregir.",
+
+  "generales": {
+    "titulo": "Titulares",
+    "max_titulares": 7,
+    "feeds": [
+      { "medio": "RTVE",           "url": "https://api2.rtve.es/rss/temas_noticias.xml", "peso": 1.2, "verificar": true },
+      { "medio": "EFE",            "url": "https://efe.com/feed/", "peso": 1.2, "verificar": true },
+      { "medio": "El País",        "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada", "peso": 1.0, "verificar": true },
+      { "medio": "La Vanguardia",  "url": "https://www.lavanguardia.com/rss/home.xml", "peso": 1.0, "verificar": true },
+      { "medio": "ABC",            "url": "https://www.abc.es/rss/2.0/portada/", "peso": 1.0, "verificar": true }
+    ]
+  },
+
+  "economia": {
+    "titulo": "Economía",
+    "max_titulares": 7,
+    "feeds": [
+      { "medio": "Expansión",      "url": "https://e00-expansion.uecdn.es/rss/portada.xml", "peso": 1.0, "verificado": "2026-08-23" },
+      { "medio": "Cinco Días",     "url": "https://feeds.elpais.com/mrss-s/pages/cincodias/site/cincodias.elpais.com/portada", "peso": 1.0, "verificar": true },
+      { "medio": "El Economista",  "url": "https://www.eleconomista.es/rss/rss-category.php?category=portada", "peso": 0.9, "verificar": true },
+      { "medio": "Invertia",       "url": "https://www.elespanol.com/invertia/rss/", "peso": 0.9, "verificar": true },
+      { "medio": "INE",            "url": "https://www.ine.es/dyngs/Prensa/rss.htm", "peso": 1.4, "verificar": true },
+      { "medio": "Banco de España","url": "https://www.bde.es/wbe/es/rss/noticias.xml", "peso": 1.4, "verificar": true }
+    ]
+  },
+
+  "deportes": {
+    "titulo": "Deportes",
+    "max_titulares": 7,
+    "feeds": [
+      { "medio": "Marca",            "url": "https://e00-marca.uecdn.es/rss/portada.xml", "peso": 0.8, "verificado": "2026-08-23", "nota": "titulares tipo gancho, calidad baja" },
+      { "medio": "AS",               "url": "https://as.com/rss/tags/ultimas_noticias.xml", "peso": 0.9, "verificar": true },
+      { "medio": "Mundo Deportivo",  "url": "https://www.mundodeportivo.com/rss/home.xml", "peso": 1.0, "verificar": true },
+      { "medio": "Sport",            "url": "https://www.sport.es/es/rss/last-news/news.xml", "peso": 1.0, "verificar": true },
+      { "medio": "NBA",              "url": "https://www.nba.com/rss/nba_rss.xml", "peso": 1.0, "verificar": true }
+    ]
+  },
+
+  "farma": {
+    "titulo": "Farma y sanidad",
+    "max_titulares": 7,
+    "feeds": [
+      { "medio": "Diariofarma",      "url": "https://diariofarma.com/feed", "peso": 1.1, "verificar": true },
+      { "medio": "El Global",        "url": "https://elglobal.es/feed/", "peso": 1.1, "verificar": true },
+      { "medio": "Redacción Médica", "url": "https://www.redaccionmedica.com/rss/", "peso": 1.0, "verificar": true },
+      { "medio": "PMFarma",          "url": "https://www.pmfarma.es/rss/noticias.xml", "peso": 0.9, "verificar": true },
+      { "medio": "AEMPS",            "url": "https://www.aemps.gob.es/rss/notas-informativas.xml", "peso": 1.5, "verificar": true },
+      { "medio": "EMA",              "url": "https://www.ema.europa.eu/en/rss.xml", "peso": 1.4, "verificar": true },
+      { "medio": "FiercePharma",     "url": "https://www.fiercepharma.com/rss/xml", "peso": 1.0, "verificar": true }
+    ]
+  }
+}

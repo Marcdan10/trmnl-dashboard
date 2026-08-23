@@ -1,0 +1,53 @@
+name: Actualizar datos
+
+# El cron de GitHub no baja de 5 minutos y ademas se retrasa cuando hay carga,
+# asi que estos horarios son orientativos, no puntuales. No pasa nada: TRMNL
+# lee el JSON cuando el dispositivo pide pantalla, no cuando nosotros escribimos.
+#
+# GitHub desactiva los workflows programados en repositorios sin actividad
+# durante 60 dias. Como aqui hacemos commit en cada ejecucion, el repositorio
+# nunca queda inactivo y el problema no se da.
+
+on:
+  schedule:
+    - cron: "*/30 * * * *"    # noticias y tiempo, cada media hora
+  workflow_dispatch:           # boton manual para probar
+
+permissions:
+  contents: write
+
+concurrency:
+  group: actualizar
+  cancel-in-progress: false
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # continue-on-error en ambos: si un dia se cae Open-Meteo no queremos
+      # perder tambien la actualizacion de titulares, y viceversa.
+      - name: Noticias
+        continue-on-error: true
+        run: python scripts/fetch_news.py --modo auto
+
+      - name: Tiempo
+        continue-on-error: true
+        run: python scripts/fetch_weather.py
+
+      - name: Publicar
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/data
+          if git diff --staged --quiet; then
+            echo "Sin cambios, no se hace commit."
+          else
+            git commit -m "datos: $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
