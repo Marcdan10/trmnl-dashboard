@@ -1,26 +1,17 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "ultimas",
-  "generado": "2026-08-23T23:44:21+02:00",
+  "modo": "portadas",
+  "generado": "2026-08-24T00:15:14+02:00",
   "titulares": [
     {
-      "titular": "Italia investiga por homicidio involuntario a los padres de la niña sin vacunar que murió de difteria",
+      "titular": "Más de un millón de altas en la plataforma de historia clínica de la Fundación IDIS",
       "medios": [
-        "Redacción Médica"
+        "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T18:23:53+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/internacional/20260823/italia-investiga-por-homicidio-involuntario-los-padres-de-la-nina-sin-vacunar-que-murio-difteria/349520_0.html"
-    },
-    {
-      "titular": "¿Hacia el blindaje de fármacos veterinarios 'made in UE'? De incentivos a aranceles con los antibióticos como reto",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-23T18:13:17+02:00",
-      "enlace": "https://www.redaccionmedica.com/empresas/industria-farmaceutica/20260823/farmacos-veterinarios-made-in-ue-incentivos-aranceles-antibioticos/349408_0.html"
+      "fecha": "2026-08-21T12:56:57+02:00",
+      "enlace": "https://diariofarma.com/2026/08/21/la-historia-clinica-compartida-de-la-fundacion-idis-mihc-supera-el-millon-de-altas"
     },
     {
       "titular": "Cofares se prepara para la nueva era del medicamento con 25 millones de inversión",
@@ -32,13 +23,13 @@
       "enlace": "https://elglobalfarma.com/farmacia/cofares-nueva-era-medicamento-25-millones-inversion/"
     },
     {
-      "titular": "Más de un millón de altas en la plataforma de historia clínica de la Fundación IDIS",
+      "titular": "¿Hacia el blindaje de fármacos veterinarios 'made in UE'? De incentivos a aranceles con los antibióticos como reto",
       "medios": [
-        "Diariofarma"
+        "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-08-21T12:56:57+02:00",
-      "enlace": "https://diariofarma.com/2026/08/21/la-historia-clinica-compartida-de-la-fundacion-idis-mihc-supera-el-millon-de-altas"
+      "fecha": "2026-08-23T18:13:17+02:00",
+      "enlace": "https://www.redaccionmedica.com/empresas/industria-farmaceutica/20260823/farmacos-veterinarios-made-in-ue-incentivos-aranceles-antibioticos/349408_0.html"
     },
     {
       "titular": "La SEMG muestra su apoyo a los profesionales sanitarios de Ceuta",
@@ -59,13 +50,22 @@
       "enlace": "https://elglobalfarma.com/politica/curso-aceleron-normativo-farmaceutico-tres-leyes-clave-marcan-final-legislatura/"
     },
     {
-      "titular": "La realidad virtual ayuda a retener la práctica pero no la teoría en la formación sanitaria",
+      "titular": "Mejor horario para retener talento médico ante la desigualdad salarial autonómica",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T18:08:29+02:00",
-      "enlace": "https://www.redaccionmedica.com/formacion/estudiantes/20260823/la-realidad-virtual-ayuda-retener-la-practica-pero-no-teoria-al-estudiar/349519_0.html"
+      "fecha": "2026-08-23T16:19:42+02:00",
+      "enlace": "https://www.redaccionmedica.com/profesionales/20260823/mejor-horario-para-retener-talento-medico-ante-la-desigualdad-salarial-autonomica/349325_0.html"
+    },
+    {
+      "titular": "Más consultas en urgencias por patologías asociadas al calor y la actividades estivales",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-20T12:21:29+02:00",
+      "enlace": "https://diariofarma.com/2026/08/20/mas-consultas-en-urgencias-por-patologias-asociadas-al-calor-y-la-actividades-estivales"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 320,
+    "antiguedad_minima_min": 351,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 3527,
+        "antiguedad_min": 3558,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 3454,
+        "antiguedad_min": 3485,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 29,
         "error": null,
-        "antiguedad_min": 320,
+        "antiguedad_min": 351,
         "descartados_por_gancho": 1
       },
       {

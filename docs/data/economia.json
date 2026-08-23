@@ -1,71 +1,71 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "ultimas",
-  "generado": "2026-08-23T23:44:15+02:00",
+  "modo": "portadas",
+  "generado": "2026-08-24T00:15:07+02:00",
   "titulares": [
     {
-      "titular": "Indukern mantiene las ventas en 456 millones e invierte un 2% más",
+      "titular": "La fusión de 'servicers' inmobiliarios moviliza 1.000 millones en compras",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T22:05:37+02:00",
-      "enlace": "https://www.expansion.com/catalunya/2026/08/23/6a8b51c6e5fdea09478b45a1.html"
+      "fecha": "2026-08-24T00:00:33+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/08/24/6a88884b468aeb4d088b459e.html"
     },
     {
-      "titular": "Home Capital vende dos edificios en Barcelona por 13 millones",
+      "titular": "Las grandes fortunas se lanzan a invertir en bancos y firmas de inversión",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T21:53:28+02:00",
-      "enlace": "https://www.expansion.com/catalunya/2026/08/23/6a8b4f73e5fdeaf9538b4598.html"
+      "fecha": "2026-08-24T00:00:34+02:00",
+      "enlace": "https://www.expansion.com/empresas/banca/2026/08/24/6a8893eae5fdea6f488b4571.html"
     },
     {
-      "titular": "España y otros cinco países piden a la UE un impuesto a los beneficios de las petroleras por la guerra de Irán",
+      "titular": "Apple y Samsung ganan terreno en España frente a los móviles chinos",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T18:57:24+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/08/23/6a8afa19468aeba91e8b45a7.html"
+      "fecha": "2026-08-24T00:00:35+02:00",
+      "enlace": "https://www.expansion.com/empresas/tecnologia/2026/08/24/6a8b3300468aeb16068b4581.html"
     },
     {
-      "titular": "Uno de cada cinco contratos firmados en julio duraron menos de una semana",
+      "titular": "ACS se alía a Alstom para pujar por el tren de alta velocidad de Australia",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T15:18:14+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/08/23/6a8af21fe5fdea7e628b4591.html"
+      "fecha": "2026-08-24T00:01:23+02:00",
+      "enlace": "https://www.expansion.com/empresas/inmobiliario/2026/08/24/6a8b3481468aebd76d8b45aa.html"
     },
     {
-      "titular": "Cuerpo viaja a Ceuta para avanzar en un plan de apoyo a las empresas",
+      "titular": "Cetelem hace una fuerte dotación por las tarjetas 'revolving'",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T14:38:47+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/08/23/6a8ae6f3e5fdead7528b458e.html"
+      "fecha": "2026-08-24T00:01:24+02:00",
+      "enlace": "https://www.expansion.com/empresas/banca/2026/08/24/6a6ce391468aeb50388b4599.html"
     },
     {
-      "titular": "CaixaBank financia con 2.500 millones de euros al sector turístico en el primer semestre",
+      "titular": "Banca Generali estudia la oferta de Monte Paschi",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T14:06:50+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/08/23/6a8ae099468aeb9f3a8b458f.html"
+      "fecha": "2026-08-24T00:01:25+02:00",
+      "enlace": "https://www.expansion.com/empresas/banca/2026/08/24/6a8b2ff9468aeb09378b4597.html"
     },
     {
-      "titular": "Así es Chris Xu, el fundador de Shein conocido como el \"directivo más anónimo del mundo\"",
+      "titular": "Las aseguradoras abrirán el nuevo curso pendientes de las catástrofes",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T13:25:58+02:00",
-      "enlace": "https://www.expansion.com/empresas/distribucion/2026/08/23/6a8ab75f468aeb0c368b45af.html"
+      "fecha": "2026-08-24T00:01:49+02:00",
+      "enlace": "https://www.expansion.com/empresas/seguros/2026/08/24/6a88a1d9468aebd76d8b4577.html"
     }
   ],
   "salud": {
@@ -78,16 +78,16 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 98,
+    "antiguedad_minima_min": 11,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 69,
+        "items": 60,
         "error": null,
-        "antiguedad_min": 98,
-        "descartados_por_gancho": 1
+        "antiguedad_min": 11,
+        "descartados_por_gancho": 0
       },
       {
         "medio": "Cinco Días",

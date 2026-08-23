@@ -1,63 +1,9 @@
 {
   "pantalla": "generales",
   "titulo": "Titulares",
-  "modo": "ultimas",
-  "generado": "2026-08-23T23:44:12+02:00",
+  "modo": "portadas",
+  "generado": "2026-08-24T00:15:05+02:00",
   "titulares": [
-    {
-      "titular": "Elche - Barcelona en directo | El Barcelona se da un festín ante el Elche en su estreno en la Liga",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-23T23:32:35+02:00",
-      "enlace": "https://elpais.com/deportes/futbol/2026-08-23/elche-barcelona-en-directo-el-partido-de-la-liga-en-vivo.html"
-    },
-    {
-      "titular": "Álex Palou naufraga en la carrera de Trump por las calles de Washington",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-23T23:30:47+02:00",
-      "enlace": "https://www.abc.es/deportes/indycar-washington-20260823200113-nt.html"
-    },
-    {
-      "titular": "Doblete de Ferran Torres en sus primeros 45 minutos con el PSG",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-23T22:54:56+02:00",
-      "enlace": "https://www.lavanguardia.com/deportes/futbol/20260823/11618670/doblete-ferran-torres-primeros-45-minutos-psg.html"
-    },
-    {
-      "titular": "Alarmante debut de Iraola en el Liverpool",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-23T22:37:18+02:00",
-      "enlace": "https://elpais.com/deportes/futbol/2026-08-23/alarmante-debut-de-iraola-en-el-liverpool.html"
-    },
-    {
-      "titular": "Julián Álvarez ignora a un Metropolitano que no le perdona",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-23T22:22:02+02:00",
-      "enlace": "https://www.abc.es/deportes/atletico-madrid/xxxx-20260823161400-nt.html"
-    },
-    {
-      "titular": "Alonso se ilusiona tras puntuar en Zandvoort: “Me encanta este coche... más por llegar”",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-23T21:03:40+02:00",
-      "enlace": "https://www.lavanguardia.com/deportes/20260823/11618649/ilusionante-mensaje-alonso-puntuar-zandvoort-me-encanta-coche-mas-llegar-lol.html"
-    },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
       "medios": [
@@ -66,6 +12,60 @@
       "consenso": 1,
       "fecha": "2022-06-10T01:05:00+02:00",
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
+    },
+    {
+      "titular": "Elma Saiz: “Algunos quieren inmigrantes, pero sin derechos. Quieren ciudadanos de primera y de segunda”",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-23T05:30:01+02:00",
+      "enlace": "https://elpais.com/espana/2026-08-23/elma-saiz-algunos-quieren-inmigrantes-pero-sin-derechos-quieren-ciudadanos-de-primera-y-de-segunda.html"
+    },
+    {
+      "titular": "El clima extremo se ensaña con Europa y agrava su crisis política",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-23T06:00:00+02:00",
+      "enlace": "https://www.lavanguardia.com/internacional/20260823/11618197/crisis-ensanan-europa.html"
+    },
+    {
+      "titular": "El Barça se estrena fulminando al Elche",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-23T23:52:13+02:00",
+      "enlace": "https://www.abc.es/deportes/futbol/cronica-elche-barcelona-20260823164415-nt.html"
+    },
+    {
+      "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
+      "medios": [
+        "RTVE"
+      ],
+      "consenso": 1,
+      "fecha": "2022-06-10T00:03:00+02:00",
+      "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
+    },
+    {
+      "titular": "Feijóo ahonda en la “crisis de salud pública” en Ceuta",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-23T20:47:40+02:00",
+      "enlace": "https://elpais.com/espana/2026-08-23/feijoo-ahonda-en-la-crisis-de-salud-publica-en-ceuta.html"
+    },
+    {
+      "titular": "Bruselas suaviza sus políticas climáticas por la presión de la industria y de algunos países",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-23T06:00:00+02:00",
+      "enlace": "https://www.lavanguardia.com/internacional/20260823/11618202/bruselas-suaviza-politicas-climaticas-presion-industria-paises.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 11,
+    "antiguedad_minima_min": 9,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2211759,
+        "antiguedad_min": 2211790,
         "descartados_por_gancho": 0
       },
       {
@@ -99,7 +99,7 @@
         "ok": true,
         "items": 136,
         "error": null,
-        "antiguedad_min": 11,
+        "antiguedad_min": 9,
         "descartados_por_gancho": 6
       },
       {
@@ -108,17 +108,17 @@
         "ok": true,
         "items": 120,
         "error": null,
-        "antiguedad_min": 49,
+        "antiguedad_min": 80,
         "descartados_por_gancho": 20
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 23,
+        "items": 24,
         "error": null,
-        "antiguedad_min": 13,
-        "descartados_por_gancho": 2
+        "antiguedad_min": 22,
+        "descartados_por_gancho": 1
       }
     ]
   }

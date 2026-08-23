@@ -1,26 +1,26 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "ultimas",
-  "generado": "2026-08-23T23:44:16+02:00",
+  "modo": "portadas",
+  "generado": "2026-08-24T00:15:10+02:00",
   "titulares": [
     {
-      "titular": "1-1: Los 'RedSticks', a semifinales del Mundial",
+      "titular": "Festival de un Barça sin ariete, pero con pólvora",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T23:07:32+02:00",
-      "enlace": "https://www.mundodeportivo.com/hockey-hierba/20260823/1004219015/1-1-redsticks-semifinales-mundial.html"
+      "fecha": "2026-08-23T23:27:11+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260823/1004218971/elche-barca.html"
     },
     {
-      "titular": "¡Fuerte cabreo de Canales al ser sustituido!",
+      "titular": "La crónica del Elche-Barça | El vendaval culé arrolla al Elche de Anselmi",
       "medios": [
-        "Mundo Deportivo"
+        "Sport"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T23:00:20+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/racing-santander/20260823/1004219012/fuerte-cabreo-canales-sustituido.html"
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/elche/cronica-elche-barca-vendaval-cule-133598489"
     },
     {
       "titular": "Las portadas en Inglaterra con Arteta son para verlas...",
@@ -32,6 +32,24 @@
       "enlace": "https://www.marca.com/futbol/album/2026/08/21/portadas-dia.html"
     },
     {
+      "titular": "Cerezo atiza al Barça por el tema Julián: \"No han estado a la altura\"",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-23T16:49:36+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20260823/1004218898/cerezo-atiza-barca-tema-julian-no-han-altura.html"
+    },
+    {
+      "titular": "¡Los 'RedSticks', a unas semifinales veinte años después!",
+      "medios": [
+        "Sport"
+      ],
+      "consenso": 1,
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/deportes/redsticks-semifinales-veinte-anos-despues-133597793"
+    },
+    {
       "titular": "\"Si hubiese estado fresco no habríamos perdido\"",
       "medios": [
         "Marca"
@@ -41,31 +59,13 @@
       "enlace": "https://www.marca.com/futbol/rayo/2026/08/21/camello-agotados-situacion-distancia-tres-partes.html"
     },
     {
-      "titular": "El Barça arranca a ritmo de campeón con un enorme Raphinha y destroza al Elche",
+      "titular": "Derbi en el ático de Segunda: UD Las Palmas y Tenerife gobiernan la tabla",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/barca/cronica-elche-barca-liga-raphinha-goles-133596371"
-    },
-    {
-      "titular": "Despegue inmediato: el CD Tenerife también derrota al Almería",
-      "medios": [
-        "Sport"
-      ],
-      "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/futbol/segunda-rfef/despegue-inmediato-cd-tenerife-derrota-133597770"
-    },
-    {
-      "titular": "2-2: Ferran Torres resucita al PSG frente al Rennes",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-23T22:50:47+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/ligue-1/20260823/1004219010/ferran-torres-resucita-psg-frente-rennes.html"
+      "enlace": "https://www.sport.es/es/noticias/las-palmas/derbi-atico-segunda-ud-palmas-133597910"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 36,
+    "antiguedad_minima_min": 22,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 4193,
+        "antiguedad_min": 4224,
         "descartados_por_gancho": 12
       },
       {
@@ -98,10 +98,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 139,
+        "items": 140,
         "error": null,
-        "antiguedad_min": 36,
-        "descartados_por_gancho": 4
+        "antiguedad_min": 22,
+        "descartados_por_gancho": 5
       },
       {
         "medio": "Sport",

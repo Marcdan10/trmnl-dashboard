@@ -1,30 +1,14 @@
 {
   "ciudad": "Barcelona",
-  "generado": "2026-08-23T21:44:21",
+  "generado": "2026-08-23T22:15:15",
   "horas": [
-    {
-      "hora": "22",
-      "temp": 26,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "luna"
-    },
-    {
-      "hora": "23",
-      "temp": 26,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "luna"
-    },
     {
       "hora": "00",
       "temp": 26,
       "prob": 0,
       "mm": 0,
       "mostrar_prob": false,
-      "icono": "luna"
+      "icono": "nube"
     },
     {
       "hora": "01",
@@ -44,15 +28,15 @@
     },
     {
       "hora": "03",
-      "temp": 24,
+      "temp": 25,
       "prob": 0,
       "mm": 0,
       "mostrar_prob": false,
-      "icono": "nube"
+      "icono": "luna"
     },
     {
       "hora": "04",
-      "temp": 24,
+      "temp": 25,
       "prob": 0,
       "mm": 0,
       "mostrar_prob": false,
@@ -76,7 +60,7 @@
     },
     {
       "hora": "07",
-      "temp": 23,
+      "temp": 24,
       "prob": 0,
       "mm": 0,
       "mostrar_prob": false,
@@ -84,7 +68,7 @@
     },
     {
       "hora": "08",
-      "temp": 23,
+      "temp": 24,
       "prob": 0,
       "mm": 0,
       "mostrar_prob": false,
@@ -97,15 +81,31 @@
       "mm": 0,
       "mostrar_prob": false,
       "icono": "sol"
+    },
+    {
+      "hora": "10",
+      "temp": 27,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "nube"
+    },
+    {
+      "hora": "11",
+      "temp": 28,
+      "prob": 10,
+      "mm": 0,
+      "mostrar_prob": true,
+      "icono": "nube"
     }
   ],
   "dias": [
     {
       "etiqueta": "lun 24",
       "max": 30,
-      "min": 23,
+      "min": 24,
       "prob": 45,
-      "mm": 4.8,
+      "mm": 4.5,
       "mostrar_prob": true,
       "destacar": false,
       "icono": "lluvia"
@@ -113,7 +113,7 @@
     {
       "etiqueta": "mar 25",
       "max": 33,
-      "min": 24,
+      "min": 23,
       "prob": 10,
       "mm": 0,
       "mostrar_prob": true,
@@ -132,8 +132,8 @@
     },
     {
       "etiqueta": "jue 27",
-      "max": 31,
-      "min": 24,
+      "max": 30,
+      "min": 25,
       "prob": 26,
       "mm": 0,
       "mostrar_prob": true,
@@ -142,10 +142,10 @@
     },
     {
       "etiqueta": "vie 28",
-      "max": 32,
-      "min": 23,
+      "max": 31,
+      "min": 24,
       "prob": 15,
-      "mm": 0.3,
+      "mm": 0,
       "mostrar_prob": true,
       "destacar": false,
       "icono": "nube"
