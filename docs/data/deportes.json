@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-08-23T20:19:54+02:00",
+  "generado": "2026-08-23T20:55:32+02:00",
   "titulares": [
-    {
-      "titular": "Elche - Barcelona, la previa en directo",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-23T19:58:54+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260823/1004218639/elche-barcelona-directo-laliga-ea-sports-primera-division-futbol.html"
-    },
     {
       "titular": "\"Yo creo que Cristóbal Colón ya había estado en América antes\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T19:53:03+02:00",
+      "fecha": "2026-08-23T20:22:04+02:00",
       "enlace": "https://www.mundodeportivo.com/actualidad/20260823/1004218913/carlos-leon-arqueologo-marino-creo-cristobal-colon-habia-america-smd-hst.html"
+    },
+    {
+      "titular": "Simeone, sobre Julián: \"Mientras los ugadores estén en el Atlético, a muerte con ellos\"",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-23T20:15:51+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20260823/1004218966/simeone-sobre-julian-julian-ugadores-esten-atletico-muerte.html"
     },
     {
       "titular": "Las portadas en Inglaterra con Arteta son para verlas...",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/rayo/2026/08/21/camello-agotados-situacion-distancia-tres-partes.html"
     },
     {
-      "titular": "Xavi Espart y Raphinha, las grandes novedades en el once del Barça",
+      "titular": "Stade Rennais - PSG, en directo: sigue el partido de la Ligue 1, en vivo hoy",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/barca/xavi-espart-raphinha-grandes-novedades-133593807"
+      "enlace": "https://www.sport.es/es/noticias/futbol-internacional/stade-rennais-psg-directo-sigue-133589538"
     },
     {
-      "titular": "Lucas Núñez y Víctor Jr se ven cara a cara en la segunda jornada de LaLiga Hypermotion",
+      "titular": "Dónde ver el Elche - Barcelona de LaLiga por TV, en directo y online",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/valencia/lucas-nunez-victor-jr-ven-133595130"
+      "enlace": "https://www.sport.es/es/noticias/barca/donde-ver-elche-barcelona-laliga-tv-directo-133595115"
     },
     {
-      "titular": "1-0: Álvaro Rodríguez de la victoria al Eibar",
+      "titular": "Primer once liguero de Flick, con sorpresa",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T19:44:08+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/liga-segunda-division/20260823/1004218959/alvaro-rodriguez-victoria-eibar.html"
+      "fecha": "2026-08-23T20:14:16+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260823/1004218965/primer-once-liguero-flick-sorpresa.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 20,
+    "antiguedad_minima_min": 33,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 3989,
+        "antiguedad_min": 4024,
         "descartados_por_gancho": 12
       },
       {
@@ -98,9 +98,9 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 139,
+        "items": 140,
         "error": null,
-        "antiguedad_min": 20,
+        "antiguedad_min": 33,
         "descartados_por_gancho": 6
       },
       {

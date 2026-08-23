@@ -2,8 +2,44 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-08-23T20:19:50+02:00",
+  "generado": "2026-08-23T20:55:28+02:00",
   "titulares": [
+    {
+      "titular": "Elche - Barcelona en directo | Adeyemi es titular en la delantera y Christensen en la zaga",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-23T20:48:34+02:00",
+      "enlace": "https://elpais.com/deportes/futbol/2026-08-23/elche-barcelona-en-directo-el-partido-de-la-liga-en-vivo.html"
+    },
+    {
+      "titular": "Duelo de titanes Pogacar-Van Aert y triunfo de Brennan",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-23T20:41:22+02:00",
+      "enlace": "https://www.abc.es/deportes/ciclismo/duelo-titanes-pogacarvan-aert-triunfo-brenan-20260823180201-nt.html"
+    },
+    {
+      "titular": "Taxistas denuncian que los crucerista pierden barcos y aviones por culpa del caos del puerto",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-23T20:23:01+02:00",
+      "enlace": "https://www.lavanguardia.com/local/barcelona/20260823/11618641/taxistas-denuncian-crucerista-pierden-barcos-aviones-culpa-caos-puerto.html"
+    },
+    {
+      "titular": "Julián Alvarez juega y escucha los reproches de la hinchada del Atlético en el empate ante el Villarreal",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-23T20:16:50+02:00",
+      "enlace": "https://elpais.com/deportes/futbol/2026-08-23/julian-alvarez-juega-y-escucha-los-reproches-de-la-hinchada-del-atletico-en-el-empate-ante-el-villarreal.html"
+    },
     {
       "titular": "Julián Álvarez ignora a un Metropolitano que no le perdona",
       "medios": [
@@ -14,49 +50,13 @@
       "enlace": "https://www.abc.es/deportes/atletico-madrid/xxxx-20260823161400-nt.html"
     },
     {
-      "titular": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Feijóo reclama a Sánchez decretar el confinamiento por “riesgo sanitario” de los migrantes con sarna y tuberculosis",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-23T20:05:57+02:00",
-      "enlace": "https://elpais.com/espana/2026-08-23/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html"
-    },
-    {
-      "titular": "El Liverpool salva un empate de penalti provocado por Víctor Muñoz en el debut de Araújo",
+      "titular": "El Barça debuta en Liga frente al Elche",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T19:54:28+02:00",
-      "enlace": "https://www.lavanguardia.com/deportes/20260823/11618636/liverpool-salva-empate-penalti-provocado-victor-munoz-debut-araujo.html"
-    },
-    {
-      "titular": "Paulo Vilca, politólogo: “Hay heridas profundas en el sur andino por la represión de 2023”",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-23T19:49:54+02:00",
-      "enlace": "https://www.lavanguardia.com/internacional/20260823/11606529/paulo-vilca-politologo-hay-heridas-profundas-sur-andino-represion-2023.html"
-    },
-    {
-      "titular": "Feijóo pide confinar a los inmigrantes del asalto a Ceuta por riesgo sanitario y Sanidad habla de medida desmesurada",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-23T19:34:53+02:00",
-      "enlace": "https://www.abc.es/espana/feijoo-pide-confinar-inmigrantes-asalto-ceuta-riesgo-20260823193030-nt.html"
-    },
-    {
-      "titular": "Brennan culmina la jugada maestra del Visma en la Vuelta a España",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-23T18:36:31+02:00",
-      "enlace": "https://elpais.com/deportes/ciclismo/2026-08-23/brennan-culmina-la-jugada-maestra-del-visma-en-la-vuelta-a-espana.html"
+      "fecha": "2026-08-23T20:00:16+02:00",
+      "enlace": "https://www.lavanguardia.com/deportes/futbol/20260823/11618626/elche-barcelona-laliga-ea-sports-partido-futbol-hoy-en-directo.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 7,
+    "antiguedad_minima_min": 6,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2211554,
+        "antiguedad_min": 2211590,
         "descartados_por_gancho": 0
       },
       {
@@ -97,18 +97,18 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 134,
+        "items": 135,
         "error": null,
-        "antiguedad_min": 13,
+        "antiguedad_min": 6,
         "descartados_por_gancho": 6
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 119,
+        "items": 120,
         "error": null,
-        "antiguedad_min": 25,
+        "antiguedad_min": 32,
         "descartados_por_gancho": 21
       },
       {
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 24,
         "error": null,
-        "antiguedad_min": 7,
+        "antiguedad_min": 14,
         "descartados_por_gancho": 1
       }
     ]
