@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-08-23T18:49:52+02:00",
+  "generado": "2026-08-23T19:15:15+02:00",
   "titulares": [
     {
       "titular": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Feijóo reclama a Sánchez decretar el confinamiento por “riesgo sanitario” de los migrantes con sarna y tuberculosis",
@@ -10,8 +10,26 @@
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T18:39:53+02:00",
+      "fecha": "2026-08-23T19:10:00+02:00",
       "enlace": "https://elpais.com/espana/2026-08-23/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html"
+    },
+    {
+      "titular": "El Atlético pincha en casa con el Villarreal",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-23T19:06:16+02:00",
+      "enlace": "https://www.abc.es/deportes/atletico-madrid/atletico-madrid-villarreal-directo-resultado-ganador-goles-20260823094756-di.html"
+    },
+    {
+      "titular": "Duelo de titanes Pogacar-Van Aert y triunfo de Brenan",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-23T19:04:00+02:00",
+      "enlace": "https://www.abc.es/deportes/ciclismo/duelo-titanes-pogacarvan-aert-triunfo-brenan-20260823180201-nt.html"
     },
     {
       "titular": "Brennan culmina la jugada maestra del Visma en la Vuelta a España",
@@ -23,40 +41,22 @@
       "enlace": "https://elpais.com/deportes/ciclismo/2026-08-23/brennan-culmina-la-jugada-maestra-del-visma-en-la-vuelta-a-espana.html"
     },
     {
-      "titular": "Empata el Villarreal y el Metropolitano recibe de uñas a Julián",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-23T18:35:13+02:00",
-      "enlace": "https://www.abc.es/deportes/atletico-madrid/atletico-madrid-villarreal-directo-resultado-ganador-goles-20260823094756-di.html"
-    },
-    {
-      "titular": "Feijóo afirma que sabía desde abril que el equipo de Ayuso buscaba una alternativa a la sede de Sol",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-23T18:20:01+02:00",
-      "enlace": "https://www.abc.es/espana/feijoo-dice-tras-polemica-atico-ayuso-buscaba-20260823115729-nt.html"
-    },
-    {
-      "titular": "El Metropolitano recibe con una sonora pitada a Julián Álvarez",
+      "titular": "El etíope Yomif Kejelcha, récord del mundo de media maratón",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T17:25:00+02:00",
-      "enlace": "https://www.lavanguardia.com/deportes/atletico-de-madrid/20260823/11618598/metropolitano-recibe-sonora-pitada-julian-alvarez.html"
+      "fecha": "2026-08-23T17:51:24+02:00",
+      "enlace": "https://www.lavanguardia.com/deportes/otros-deportes/20260823/11618615/etiope-yomif-kejelcha-record-mundo-media-maraton.html"
     },
     {
-      "titular": "Investigan la muerte violenta de un hombre en La Ràpita (Montsià)",
+      "titular": "Muere un buceador mientras realizaba una inmersión en Almería",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T17:20:36+02:00",
-      "enlace": "https://www.lavanguardia.com/sucesos/20260823/11618593/investigan-muerte-violenta-hombre-rapita-montsia.html"
+      "fecha": "2026-08-23T17:38:20+02:00",
+      "enlace": "https://www.lavanguardia.com/local/andalucia/20260823/11618616/muere-buceador-realizaba-inmersion-almeria.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 9,
+    "antiguedad_minima_min": 5,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2211464,
+        "antiguedad_min": 2211490,
         "descartados_por_gancho": 0
       },
       {
@@ -97,19 +97,19 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 136,
+        "items": 134,
         "error": null,
-        "antiguedad_min": 9,
-        "descartados_por_gancho": 5
+        "antiguedad_min": 5,
+        "descartados_por_gancho": 6
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 118,
+        "items": 120,
         "error": null,
-        "antiguedad_min": 84,
-        "descartados_por_gancho": 22
+        "antiguedad_min": 83,
+        "descartados_por_gancho": 21
       },
       {
         "medio": "ABC",
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 24,
         "error": null,
-        "antiguedad_min": 14,
+        "antiguedad_min": 8,
         "descartados_por_gancho": 1
       }
     ]

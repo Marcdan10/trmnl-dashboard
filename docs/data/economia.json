@@ -2,8 +2,17 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-08-23T18:49:55+02:00",
+  "generado": "2026-08-23T19:15:18+02:00",
   "titulares": [
+    {
+      "titular": "España y otros cinco países piden a la UE un impuesto a los beneficios de las petroleras por la guerra de Irán",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-23T18:57:24+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/08/23/6a8afa19468aeba91e8b45a7.html"
+    },
     {
       "titular": "Uno de cada cinco contratos firmados en julio duraron menos de una semana",
       "medios": [
@@ -57,15 +66,6 @@
       "consenso": 1,
       "fecha": "2026-08-23T12:52:33+02:00",
       "enlace": "https://www.expansion.com/sociedad/2026/08/23/6a8ac5f5e5fdea09478b458a.html"
-    },
-    {
-      "titular": "Puente acusa a Ryanair de \"disfrazar sus problemas\" de falta de aviones con su presión sobre las tasas",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-23T12:01:55+02:00",
-      "enlace": "https://www.expansion.com/empresas/transporte/2026/08/23/6a8ac12ce5fdea53398b459b.html"
     }
   ],
   "salud": {
@@ -78,7 +78,7 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 211,
+    "antiguedad_minima_min": 17,
     "detalle": [
       {
         "medio": "Expansión",
@@ -86,7 +86,7 @@
         "ok": true,
         "items": 69,
         "error": null,
-        "antiguedad_min": 211,
+        "antiguedad_min": 17,
         "descartados_por_gancho": 1
       },
       {

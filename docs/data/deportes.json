@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-08-23T18:49:58+02:00",
+  "generado": "2026-08-23T19:15:20+02:00",
   "titulares": [
     {
-      "titular": "Penalti a favor de los 'groguets'",
+      "titular": "Oblak evita el tercero de Buchanan",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T18:26:59+02:00",
+      "fecha": "2026-08-23T18:57:48+02:00",
       "enlace": "https://www.mundodeportivo.com/futbol/laliga/20260823/1004218797/atletico-de-madrid-villarreal-partido-futbol-hoy-en-directo-laliga-ea-sports-primera-ext-pau.html"
     },
     {
-      "titular": "Norris no piensa en el campeonato. \"Voy a una carrera a la vez\"",
+      "titular": "Se pone en marcha la Selección española masculina",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T18:25:02+02:00",
-      "enlace": "https://www.mundodeportivo.com/motor/f1/20260823/1004218931/norris-no-piensa-campeonato-carrera-vez.html"
+      "fecha": "2026-08-23T18:53:52+02:00",
+      "enlace": "https://www.mundodeportivo.com/baloncesto/basket-feb/20260823/1004218944/lunes-pone-marcha-seleccion-masculina.html"
     },
     {
       "titular": "Las portadas en Inglaterra con Arteta son para verlas...",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/rayo/2026/08/21/camello-agotados-situacion-distancia-tres-partes.html"
     },
     {
-      "titular": "El proyecto del Espanyol 2026-27 gana crédito en dos jornadas",
+      "titular": "Javier Berdejo y el precioso recuerdo a su amigo Jorge Casado: le dedica su debut con el Real Zaragoza y lleva tatuada una frase suya",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/espanyol/proyecto-espanyol-2026-27-gana-133582466"
+      "enlace": "https://www.sport.es/es/noticias/futbol/javier-berdejo-precioso-recuerdo-amigo-133594143"
     },
     {
-      "titular": "Quim Vidal firma en Escocia el mejor resultado de su carrera en el DP World Tour",
+      "titular": "El ASVEL añade más poder ofensivo con el base puertorriqueño Tremont Waters",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/deportes/golf/quim-vidal-firma-escocia-mejor-133592244"
+      "enlace": "https://www.sport.es/es/noticias/baloncesto/euroliga/asvel-anade-ofensivo-base-puertorriqueno-133593689"
     },
     {
-      "titular": "Así queda la clasificación general de La Vuelta después de que Hayter arrebatara por momentos el liderato a Pogacar",
+      "titular": "Alonso, optimista: \"Sí, con este chasis, sí. Y con el motor, tenemos unas dos o tres carreras para optimizarlo\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T18:18:15+02:00",
-      "enlace": "https://www.mundodeportivo.com/ciclismo/vuelta-espana/20260823/1004218928/asi-queda-clasificacion-general-vuelta-hayter-arrebatara-momentos-liderato-pogacar.html"
+      "fecha": "2026-08-23T18:49:04+02:00",
+      "enlace": "https://www.mundodeportivo.com/motor/f1/20260823/1004218940/alonso-optimista-futuro-chasis-motor-dos-tres-carreras-optimizarlo.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 22,
+    "antiguedad_minima_min": 17,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 3899,
+        "antiguedad_min": 3924,
         "descartados_por_gancho": 12
       },
       {
@@ -98,9 +98,9 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 143,
+        "items": 142,
         "error": null,
-        "antiguedad_min": 22,
+        "antiguedad_min": 17,
         "descartados_por_gancho": 7
       },
       {
