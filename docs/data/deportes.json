@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-08-23T16:17:15+02:00",
+  "generado": "2026-08-23T16:47:18+02:00",
   "titulares": [
     {
-      "titular": "Ya hay once del Atlético: la decisión de Simeone respecto a Julián Álvarez",
+      "titular": "Final sin premio en Sassnitz para el equipo español de SailGP",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T15:56:44+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20260823/1004218886/hay-once-atletico-decision-simeone-respecto-julian-alvarez.html"
+      "fecha": "2026-08-23T16:22:26+02:00",
+      "enlace": "https://www.mundodeportivo.com/vela/20260823/1004218893/final-premio-sassnitz-equipo-espanol-sailgp.html"
     },
     {
-      "titular": "Beitia o Marrero destacan entre los primeros realistas que se quedan sin minutos",
+      "titular": "Ya ha entrado en vigor en toda la Unión Europea: adiós a los sobres de salsas en hoteles, bares y restaurantes",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T15:34:13+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-sociedad/20260823/1004218883/beitia-marrero-destacan-primeros-realistas-quedan-minutos.html"
+      "fecha": "2026-08-23T16:16:40+02:00",
+      "enlace": "https://www.mundodeportivo.com/actualidad/20260823/1004218890/entrado-vigor-toda-union-europea-adios-sobres-salsas-hoteles-bares-restaurantes.html"
     },
     {
       "titular": "Las portadas en Inglaterra con Arteta son para verlas...",
@@ -50,22 +50,23 @@
       "enlace": "https://www.sport.es/es/noticias/premier-league/manchester-city-bournemouth-directo-sigue-133587531"
     },
     {
-      "titular": "Baño de barcelonismo de Sandro Rosell, eufórico sobre la barra de un restaurante",
+      "titular": "El Sporting oficializa la llegada de Antonio Casas, undécimo fichaje del verano",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/barca/bano-barcelonismo-sandro-rosell-euforico-133588905"
+      "enlace": "https://www.sport.es/es/noticias/futbol/sporting-oficializa-llegada-antonio-casas-133589925"
     },
     {
-      "titular": "Sigue la etapa 2 de la Vuelta de España, en directo",
+      "titular": "Sigue en directo la carrera del GP de Zandvoort",
       "medios": [
-        "Mundo Deportivo"
+        "Mundo Deportivo",
+        "Sport"
       ],
-      "consenso": 1,
-      "fecha": "2026-08-23T15:29:37+02:00",
-      "enlace": "https://www.mundodeportivo.com/ciclismo/20260823/1004218861/vuelta-a-espana-2026-ciclismo-hoy-en-directo-etapa-2-ext-pau.html"
+      "consenso": 2,
+      "fecha": "2026-08-23T16:12:49+02:00",
+      "enlace": "https://www.mundodeportivo.com/motor/f1/20260823/1004218635/f1-directo-carrera-gp-paises-bajos-formula-1-zandvoort.html"
     }
   ],
   "salud": {
@@ -74,7 +75,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 20,
+    "antiguedad_minima_min": 24,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +83,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 3746,
+        "antiguedad_min": 3776,
         "descartados_por_gancho": 12
       },
       {
@@ -100,7 +101,7 @@
         "ok": true,
         "items": 143,
         "error": null,
-        "antiguedad_min": 20,
+        "antiguedad_min": 24,
         "descartados_por_gancho": 6
       },
       {
