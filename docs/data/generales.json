@@ -2,15 +2,33 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-08-23T17:15:55+02:00",
+  "generado": "2026-08-23T17:45:00+02:00",
   "titulares": [
     {
-      "titular": "GP de Países Bajos en directo | Se reanuda la carrera tras la bandera roja provocada por un accidente de Verstappen",
+      "titular": "El nuevo look de Haaland: adiós al pelo largo",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-23T17:34:40+02:00",
+      "enlace": "https://www.abc.es/gente/nuevo-look-haaland-adios-pelo-largo-20260823130654-nt.html"
+    },
+    {
+      "titular": "Irán y sus murales: cómo el régimen de los ayatolás trata de convencer al mundo con su propaganda",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-23T17:32:06+02:00",
+      "enlace": "https://www.abc.es/internacional/iran-murales-regimen-ayatolas-trata-convencer-mundo-20260820012838-nt.html"
+    },
+    {
+      "titular": "GP de Países Bajos en directo | Norris vence en Zandvoort y logra su segunda victoria consecutiva",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T17:12:45+02:00",
+      "fecha": "2026-08-23T17:17:59+02:00",
       "enlace": "https://elpais.com/deportes/formula-1/2026-08-23/gp-de-paises-bajos-en-directo-la-carrera-de-formula-1-en-vivo.html"
     },
     {
@@ -19,26 +37,8 @@
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T17:12:44+02:00",
+      "fecha": "2026-08-23T17:14:25+02:00",
       "enlace": "https://elpais.com/deportes/formula-1/2026-08-22/aston-martin-chasco-en-chasco-alonso-arrancara-el-18-tras-evidenciarse-la-ternura-del-nuevo-motor-honda.html"
-    },
-    {
-      "titular": "Argentina no se vende, pero el 5% de sus tierras son ya de propiedad extranjera",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-23T17:09:51+02:00",
-      "enlace": "https://www.abc.es/internacional/debate-tierras-argentina-principales-duenos-extranjeros-20260817021227-nt.html"
-    },
-    {
-      "titular": "Desaparecido un empresario burgalés tras caer por la borda de su embarcación",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-23T17:07:33+02:00",
-      "enlace": "https://www.abc.es/espana/castilla-leon/desaparecido-empresario-burgales-tras-caer-borda-embarcacion-20260823170100-nt.html"
     },
     {
       "titular": "“Cambiaría estos cinco materiales de cocina para reducir la exposición a tóxicos”",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 3,
+    "antiguedad_minima_min": 10,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2211370,
+        "antiguedad_min": 2211399,
         "descartados_por_gancho": 0
       },
       {
@@ -99,7 +99,7 @@
         "ok": true,
         "items": 137,
         "error": null,
-        "antiguedad_min": 3,
+        "antiguedad_min": 27,
         "descartados_por_gancho": 5
       },
       {
@@ -108,7 +108,7 @@
         "ok": true,
         "items": 119,
         "error": null,
-        "antiguedad_min": 15,
+        "antiguedad_min": 44,
         "descartados_por_gancho": 22
       },
       {
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 24,
         "error": null,
-        "antiguedad_min": 6,
+        "antiguedad_min": 10,
         "descartados_por_gancho": 1
       }
     ]

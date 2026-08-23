@@ -2,26 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-08-23T17:16:00+02:00",
+  "generado": "2026-08-23T17:45:06+02:00",
   "titulares": [
     {
-      "titular": "Inicio para olvidar del Aston Villa de Emery",
+      "titular": "Momo Cho se marcha al final al Hull City pero la Real ingresará menos de lo que parecía",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T16:55:52+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/premier-league/20260823/1004218891/inicio-olvidar-aston-villa-emery.html"
+      "fecha": "2026-08-23T17:26:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-sociedad/20260823/1004218907/momo-cho-marcha-hull-city-real-ingresara-parecia.html"
     },
     {
-      "titular": "Sigue en directo la carrera del GP de Zandvoort",
+      "titular": "Julián se lleva una sonora pitada de la afición del Atlético",
       "medios": [
-        "Mundo Deportivo",
-        "Sport"
+        "Mundo Deportivo"
       ],
-      "consenso": 2,
-      "fecha": "2026-08-23T16:50:29+02:00",
-      "enlace": "https://www.mundodeportivo.com/motor/f1/20260823/1004218635/f1-directo-carrera-gp-paises-bajos-formula-1-2026-zandvoort.html"
+      "consenso": 1,
+      "fecha": "2026-08-23T17:15:44+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260823/1004218906/julian-lleva-sonora-pitada-aficion-atletico.html"
     },
     {
       "titular": "Las portadas en Inglaterra con Arteta son para verlas...",
@@ -42,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/rayo/2026/08/21/camello-agotados-situacion-distancia-tres-partes.html"
     },
     {
-      "titular": "La defensa saca adelante la primera victoria de Maresca en el City",
+      "titular": "Así queda la clasificación de la Vuelta a España 2026 hoy tras la etapa 2",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/premier-league/defensa-saca-adelante-primera-victoria-133588247"
+      "enlace": "https://www.sport.es/es/noticias/ciclismo/clasificacion-vuelta-espana-2026-etapa-2-133590190"
     },
     {
-      "titular": "Mourinho pasa de acusar a Vinicius de \"hacer el tonto\" a denunciar \"bullying\" contra él",
+      "titular": "Roig Negueroles en Madrid: Iñigo, la plantilla, el mercado y los objetivos del Villarreal... \"No nos ponemos límites\"",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/real-madrid/mourinho-pasa-acusar-vinicius-tonto-bullying-real-madrid-133589279"
+      "enlace": "https://www.sport.es/es/noticias/villarreal/roig-negueroles-madrid-inigo-plantilla-133590713"
     },
     {
-      "titular": "Cerezo atiza al Barça por el tema Julián: \"No han estado a la altura\"",
+      "titular": "Norris tumba al líder y Alonso firma una remontada magistral",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T16:49:36+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20260823/1004218898/cerezo-atiza-barca-tema-julian-no-han-altura.html"
+      "fecha": "2026-08-23T17:14:11+02:00",
+      "enlace": "https://www.mundodeportivo.com/motor/f1/20260823/1004218904/norris-tumba-lider-alonso-firma-remontada-magistral.html"
     }
   ],
   "salud": {
@@ -75,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 20,
+    "antiguedad_minima_min": 19,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +82,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 3805,
+        "antiguedad_min": 3834,
         "descartados_por_gancho": 12
       },
       {
@@ -99,9 +98,9 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 144,
+        "items": 145,
         "error": null,
-        "antiguedad_min": 20,
+        "antiguedad_min": 19,
         "descartados_por_gancho": 6
       },
       {
