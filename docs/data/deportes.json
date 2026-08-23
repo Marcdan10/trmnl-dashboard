@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-08-23T21:18:56+02:00",
+  "generado": "2026-08-23T21:43:56+02:00",
   "titulares": [
     {
-      "titular": "Flick, sobre Balde: \"No está al cien por cien\"",
+      "titular": "Mark Ruffalo responde a las acusaciones de antisemitismo: \"Criticar al primer ministro israelí, no es criticar a los judíos\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T20:55:52+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260823/1004218975/flick-sobre-balde-no-cien-cien.html"
+      "fecha": "2026-08-23T21:26:26+02:00",
+      "enlace": "https://www.mundodeportivo.com/elotromundo/gente/20260823/1004218978/mark-ruffalo-responde-acusaciones-antisemitismo-paramount-criticar-acciones-primer-ministro-israeli-no-criticar-judios-dct.html"
     },
     {
-      "titular": "Elche - Barcelona, la previa en directo",
+      "titular": "Haz que la vuelta al colegio sea lo más divertida posible con este combo de Lidl",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T20:55:45+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260823/1004218639/elche-barcelona-directo-laliga-ea-sports-primera-division-futbol.html"
+      "fecha": "2026-08-23T21:19:15+02:00",
+      "enlace": "https://www.mundodeportivo.com/actualidad/20260823/1004218970/haz-vuelta-colegio-tus-hijos-sea-divertida-posible-combo-lidl-fiambrera-botella-agua-6-euros-smd.html"
     },
     {
       "titular": "Las portadas en Inglaterra con Arteta son para verlas...",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/rayo/2026/08/21/camello-agotados-situacion-distancia-tres-partes.html"
     },
     {
-      "titular": "Xavi Hernández confirma su 'staff' en Países Bajos: Sergio Alegre, su hermano Óscar... ¡Y Ruud van Nistelrooy!",
+      "titular": "Amine Noua sigue ganando peso con Francia",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/futbol-internacional/xavi-hernandez-confirma-staff-paises-133596019"
+      "enlace": "https://www.sport.es/es/noticias/baloncesto/amine-noua-sigue-ganando-peso-133596379"
     },
     {
-      "titular": "El Huesca intenta fichar a Iranzo, aunque la decisión del central es firme para venir al Real Zaragoza",
+      "titular": "Stade Rennais - PSG, en directo: sigue el partido de la Ligue 1, en vivo hoy",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/futbol/huesca-fichar-iranzo-decision-central-133596131"
+      "enlace": "https://www.sport.es/es/noticias/futbol-internacional/stade-rennais-psg-directo-sigue-133589538"
     },
     {
-      "titular": "Malas noticias para Rafa Jódar antes del US Open",
+      "titular": "Un experto en climatización: \"Un aire acondicionado encendido 8 horas gasta menos de un euro al día\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T20:37:19+02:00",
-      "enlace": "https://www.mundodeportivo.com/tenis/20260823/1004218967/malas-noticias-rafa-jodar-us-open.html"
+      "fecha": "2026-08-23T21:12:45+02:00",
+      "enlace": "https://www.mundodeportivo.com/actualidad/20260823/1004218980/pablo-garcia-experto-climatizacion-aire-acondicionado-encendido-8-horas-gastar-euro-dia-dct.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 23,
+    "antiguedad_minima_min": 17,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 4048,
+        "antiguedad_min": 4073,
         "descartados_por_gancho": 12
       },
       {
@@ -98,10 +98,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 141,
+        "items": 139,
         "error": null,
-        "antiguedad_min": 23,
-        "descartados_por_gancho": 5
+        "antiguedad_min": 17,
+        "descartados_por_gancho": 7
       },
       {
         "medio": "Sport",
