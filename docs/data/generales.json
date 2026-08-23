@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-08-23T13:15:45+02:00",
+  "generado": "2026-08-23T13:44:06+02:00",
   "titulares": [
     {
       "titular": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Feijóo reclama a Sánchez decretar el confinamiento en Ceuta por “riesgo sanitario” de sarna y tuberculosis",
@@ -10,7 +10,7 @@
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T13:14:33+02:00",
+      "fecha": "2026-08-23T13:41:26+02:00",
       "enlace": "https://elpais.com/espana/2026-08-23/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html"
     },
     {
@@ -19,17 +19,26 @@
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T13:06:54+02:00",
+      "fecha": "2026-08-23T13:18:53+02:00",
       "enlace": "https://www.abc.es/gente/nuevo-look-haaland-adios-pelo-largo-20260823130654-nt.html"
     },
     {
-      "titular": "Investigan el hallazgo de dos cadáveres en plena calle en un pueblo de León",
+      "titular": "Mourinho se estrena mostrando su versión más serena",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T13:03:40+02:00",
-      "enlace": "https://www.abc.es/espana/castilla-leon/investigan-hallazgo-dos-cadaveres-plena-calle-pueblo-20260823125151-nt.html"
+      "fecha": "2026-08-23T13:13:27+02:00",
+      "enlace": "https://www.abc.es/deportes/futbol/x-20260822234134-nt.html"
+    },
+    {
+      "titular": "Buscan a un empresario español que cayó de su barco entre Sicilia y Grecia",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-23T12:44:29+02:00",
+      "enlace": "https://www.lavanguardia.com/local/paisvasco/20260823/11618537/buscan-empresario-espanol-cayo-barco-sicilia-grecia.html"
     },
     {
       "titular": "El drástico cambio de look de Haaland: se rapa el pelo y sorprende con su nueva imagen",
@@ -39,15 +48,6 @@
       "consenso": 1,
       "fecha": "2026-08-23T12:35:09+02:00",
       "enlace": "https://www.lavanguardia.com/clic/20260823/11618534/drastico-cambio-look-haaland-rapa-pelo-sorprende-nueva-imagen-lol.html"
-    },
-    {
-      "titular": "Investigan una agresión sexual a una joven en Alpicat",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-23T12:16:41+02:00",
-      "enlace": "https://www.lavanguardia.com/local/lleida/20260823/11618527/investigan-agresion-sexual-joven-alpicat.html"
     },
     {
       "titular": "Moreno pide al Gobierno reactivar una unidad de la Guardia Civil contra el narcotráfico desmantelada por Interior en 2022",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 1,
+    "antiguedad_minima_min": 2,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2211130,
+        "antiguedad_min": 2211159,
         "descartados_por_gancho": 0
       },
       {
@@ -97,9 +97,9 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 137,
+        "items": 138,
         "error": null,
-        "antiguedad_min": 1,
+        "antiguedad_min": 2,
         "descartados_por_gancho": 4
       },
       {
@@ -108,7 +108,7 @@
         "ok": true,
         "items": 119,
         "error": null,
-        "antiguedad_min": 40,
+        "antiguedad_min": 59,
         "descartados_por_gancho": 23
       },
       {
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 24,
         "error": null,
-        "antiguedad_min": 8,
+        "antiguedad_min": 25,
         "descartados_por_gancho": 1
       }
     ]

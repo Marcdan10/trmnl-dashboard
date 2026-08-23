@@ -2,8 +2,26 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-08-23T13:15:48+02:00",
+  "generado": "2026-08-23T13:44:09+02:00",
   "titulares": [
+    {
+      "titular": "Así es Chris Xu, el fundador de Shein conocido como el \"directivo más anónimo del mundo\"",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-23T13:25:58+02:00",
+      "enlace": "https://www.expansion.com/empresas/distribucion/2026/08/23/6a8ab75f468aeb0c368b45af.html"
+    },
+    {
+      "titular": "La factura eléctrica apunta a una subida del 20% en agosto",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-23T13:17:26+02:00",
+      "enlace": "https://www.expansion.com/empresas/energia/2026/08/23/6a8ad3cfe5fdeade1c8b459b.html"
+    },
     {
       "titular": "La vuelta al cole supondrá un gasto de hasta 1.849 euros por hijo",
       "medios": [
@@ -48,24 +66,6 @@
       "consenso": 1,
       "fecha": "2026-08-22T20:57:34+02:00",
       "enlace": "https://www.expansion.com/inmobiliario/2026/08/22/6a89a209468aeb26388b458e.html"
-    },
-    {
-      "titular": "Ránking de las grandes cotizadas: los grupos del Ibex suben la deuda neta un 2,4% hasta junio",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-22T20:57:33+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/08/22/6a7c4fff468aeb65678b4573.html"
-    },
-    {
-      "titular": "Ralph Lauren triunfa con la moda de regreso a la oficina",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-22T20:04:03+02:00",
-      "enlace": "https://www.expansion.com/economia/financial-times/2026/08/22/6a89e23de5fdeaf9538b4585.html"
     }
   ],
   "salud": {
@@ -78,7 +78,7 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 23,
+    "antiguedad_minima_min": 18,
     "detalle": [
       {
         "medio": "Expansión",
@@ -86,7 +86,7 @@
         "ok": true,
         "items": 69,
         "error": null,
-        "antiguedad_min": 23,
+        "antiguedad_min": 18,
         "descartados_por_gancho": 1
       },
       {
