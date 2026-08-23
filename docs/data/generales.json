@@ -2,16 +2,43 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-08-23T12:17:05+02:00",
+  "generado": "2026-08-23T12:48:10+02:00",
   "titulares": [
+    {
+      "titular": "El drástico cambio de look de Haaland: se rapa el pelo y sorprende con su nueva imagen",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-23T12:35:09+02:00",
+      "enlace": "https://www.lavanguardia.com/clic/20260823/11618534/drastico-cambio-look-haaland-rapa-pelo-sorprende-nueva-imagen-lol.html"
+    },
     {
       "titular": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Feijóo reclama a Sánchez decretar el confinamiento en Ceuta por “riesgo sanitario” de sarna y tuberculosis",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T12:00:14+02:00",
+      "fecha": "2026-08-23T12:31:19+02:00",
       "enlace": "https://elpais.com/espana/2026-08-23/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html"
+    },
+    {
+      "titular": "Investigan una agresión sexual a una joven en Alpicat",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-23T12:16:41+02:00",
+      "enlace": "https://www.lavanguardia.com/local/lleida/20260823/11618527/investigan-agresion-sexual-joven-alpicat.html"
+    },
+    {
+      "titular": "Malestar de los guardias civiles destinados en Senegal: incendios intencionados de coches y bichos en la cocina",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-23T12:09:32+02:00",
+      "enlace": "https://www.abc.es/espana/malestar-guardias-civiles-destinados-senegal-incendios-intencionados-20260823105215-nt.html"
     },
     {
       "titular": "El falso BMW que delató a Carlitos, «el rey del butrón», y su nueva alianza serbio-rumana",
@@ -23,40 +50,13 @@
       "enlace": "https://www.abc.es/espana/madrid/falso-bmw-delato-carlitos-rey-butron-nueva-20260820012644-nt.html"
     },
     {
-      "titular": "Irán y sus murales: cómo el régimen de los ayatolás trata de convencer al mundo con su propaganda",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-23T11:50:44+02:00",
-      "enlace": "https://www.abc.es/internacional/iran-murales-regimen-ayatolas-trata-convencer-mundo-20260820012838-nt.html"
-    },
-    {
-      "titular": "Moreno pide al Gobierno reactivar una unidad de la Guardia Civil contra el narcotráfico que desmanteló en 2022",
+      "titular": "Moreno pide al Gobierno reactivar una unidad de la Guardia Civil contra el narcotráfico desmantelada por Interior en 2022",
       "medios": [
         "El País"
       ],
       "consenso": 1,
       "fecha": "2026-08-23T11:47:57+02:00",
       "enlace": "https://elpais.com/espana/2026-08-23/moreno-pide-al-gobierno-que-reactive-la-unidad-de-la-guardia-civil-contra-el-narcotrafico.html"
-    },
-    {
-      "titular": "Balde, fuera de la lista para viajar a Elche por decisión de Flick",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-23T11:34:25+02:00",
-      "enlace": "https://www.lavanguardia.com/deportes/fc-barcelona/20260823/11618517/balde-fuera-lista-viajar-elche-decision-flick.html"
-    },
-    {
-      "titular": "Espí, el vecino de Mourinho que desayuna, come y cena cada día con él: “No está en la Luna”",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-23T11:30:47+02:00",
-      "enlace": "https://www.lavanguardia.com/deportes/real-madrid/20260823/11618409/espi-vecino-mourinho-desayuna-come-cena-dia-esta-luna.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 16,
+    "antiguedad_minima_min": 13,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2211072,
+        "antiguedad_min": 2211103,
         "descartados_por_gancho": 0
       },
       {
@@ -90,7 +90,7 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 429",
+        "error": "HTTP 500",
         "antiguedad_min": null
       },
       {
@@ -106,10 +106,10 @@
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 120,
+        "items": 119,
         "error": null,
-        "antiguedad_min": 42,
-        "descartados_por_gancho": 22
+        "antiguedad_min": 13,
+        "descartados_por_gancho": 23
       },
       {
         "medio": "ABC",
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 23,
         "error": null,
-        "antiguedad_min": 21,
+        "antiguedad_min": 38,
         "descartados_por_gancho": 2
       }
     ]

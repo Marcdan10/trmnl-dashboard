@@ -2,7 +2,7 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "ultimas",
-  "generado": "2026-08-23T12:17:13+02:00",
+  "generado": "2026-08-23T12:48:27+02:00",
   "titulares": [
     {
       "titular": "Feijóo pide confinar Ceuta por \"riesgo sanitario\" ante los casos de tuberculosis, sarna y gastroenteritis",
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 22,
+    "antiguedad_minima_min": 53,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 2840,
+        "antiguedad_min": 2871,
         "descartados_por_gancho": 0
       },
       {
@@ -93,17 +93,17 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 2767,
+        "antiguedad_min": 2798,
         "descartados_por_gancho": 0
       },
       {
         "medio": "Redacción Médica",
         "url": "https://www.redaccionmedica.com/rss/",
         "ok": true,
-        "items": 30,
+        "items": 29,
         "error": null,
-        "antiguedad_min": 22,
-        "descartados_por_gancho": 0
+        "antiguedad_min": 53,
+        "descartados_por_gancho": 1
       },
       {
         "medio": "PMFarma",
