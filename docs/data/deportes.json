@@ -2,7 +2,7 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-08-24T00:46:02+02:00",
+  "generado": "2026-08-24T01:14:49+02:00",
   "titulares": [
     {
       "titular": "Festival de un Barça sin ariete, pero con pólvora",
@@ -14,13 +14,13 @@
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260823/1004218971/elche-barca.html"
     },
     {
-      "titular": "Flick: \"Hoy he visto mucho potencial\"",
+      "titular": "Anselmi tras la derrota del Elche: \"El resultado daña la imagen que quisimos dar\"",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/barca/flick-hoy-he-visto-potencial-133598872"
+      "enlace": "https://www.sport.es/es/noticias/elche/anselmi-derrota-elche-resultado-dana-133599109"
     },
     {
       "titular": "Las portadas en Inglaterra con Arteta son para verlas...",
@@ -41,13 +41,13 @@
       "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20260823/1004218898/cerezo-atiza-barca-tema-julian-no-han-altura.html"
     },
     {
-      "titular": "La crónica del Elche-Barça | El vendaval culé arrolla al Elche de Anselmi",
+      "titular": "Flick: \"Hoy he visto mucho potencial\"",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/elche/cronica-elche-barca-vendaval-cule-133598489"
+      "enlace": "https://www.sport.es/es/noticias/elche/flick-hoy-he-visto-potencial-133599056"
     },
     {
       "titular": "\"Si hubiese estado fresco no habríamos perdido\"",
@@ -59,13 +59,13 @@
       "enlace": "https://www.marca.com/futbol/rayo/2026/08/21/camello-agotados-situacion-distancia-tres-partes.html"
     },
     {
-      "titular": "¡Los 'RedSticks', a unas semifinales veinte años después!",
+      "titular": "Esta es la portada de SPORT, hoy lunes 24 de agosto de 2026",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/deportes/redsticks-semifinales-veinte-anos-despues-133597793"
+      "enlace": "https://www.sport.es/es/noticias/la-portada-de-sport/portada-sport-hoy-lunes-24-133598498"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 40,
+    "antiguedad_minima_min": 30,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 4255,
+        "antiguedad_min": 4284,
         "descartados_por_gancho": 12
       },
       {
@@ -98,10 +98,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 139,
+        "items": 138,
         "error": null,
-        "antiguedad_min": 40,
-        "descartados_por_gancho": 6
+        "antiguedad_min": 30,
+        "descartados_por_gancho": 7
       },
       {
         "medio": "Sport",

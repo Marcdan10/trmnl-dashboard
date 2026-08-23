@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-08-24T00:45:56+02:00",
+  "generado": "2026-08-24T01:14:43+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -32,13 +32,13 @@
       "enlace": "https://www.lavanguardia.com/internacional/20260823/11618197/crisis-ensanan-europa.html"
     },
     {
-      "titular": "El Barça se estrena fulminando al Elche",
+      "titular": "Salud íntima: errores que ponen en riesgo tu microbiota vaginal y puedes evitar fácilmente",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T23:52:13+02:00",
-      "enlace": "https://www.abc.es/deportes/futbol/cronica-elche-barcelona-20260823164415-nt.html"
+      "fecha": "2026-08-24T01:11:11+02:00",
+      "enlace": "https://www.abc.es/bienestar/salud-intima-errores-ponen-riesgo-microbiota-vaginal-20260819011041-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 39,
+    "antiguedad_minima_min": 3,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2211820,
+        "antiguedad_min": 2211849,
         "descartados_por_gancho": 0
       },
       {
@@ -99,17 +99,17 @@
         "ok": true,
         "items": 135,
         "error": null,
-        "antiguedad_min": 39,
+        "antiguedad_min": 68,
         "descartados_por_gancho": 7
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 119,
+        "items": 115,
         "error": null,
-        "antiguedad_min": 40,
-        "descartados_por_gancho": 21
+        "antiguedad_min": 59,
+        "descartados_por_gancho": 18
       },
       {
         "medio": "ABC",
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 24,
         "error": null,
-        "antiguedad_min": 53,
+        "antiguedad_min": 3,
         "descartados_por_gancho": 1
       }
     ]
