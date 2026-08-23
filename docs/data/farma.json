@@ -2,7 +2,7 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "ultimas",
-  "generado": "2026-08-23T15:10:50+02:00",
+  "generado": "2026-08-23T15:52:51+02:00",
   "titulares": [
     {
       "titular": "La tecnología pionera del 12 de Octubre para frenar la odisea diagnóstica de patologías mitocondriales",
@@ -23,6 +23,15 @@
       "enlace": "https://www.redaccionmedica.com/politica/20260823/garcia-tilda-de-contraproducente-el-confinamiento-ceuta-planteado-por-feijoo-podria-ser-mas-danino-que-beneficioso/349517_0.html"
     },
     {
+      "titular": "Cofares se prepara para la nueva era del medicamento con 25 millones de inversión",
+      "medios": [
+        "El Global"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-21T14:09:35+02:00",
+      "enlace": "https://elglobalfarma.com/farmacia/cofares-nueva-era-medicamento-25-millones-inversion/"
+    },
+    {
       "titular": "Más de un millón de altas en la plataforma de historia clínica de la Fundación IDIS",
       "medios": [
         "Diariofarma"
@@ -41,6 +50,15 @@
       "enlace": "https://diariofarma.com/2026/08/21/la-semg-muestra-su-apoyo-a-los-sanitarios-de-ceuta"
     },
     {
+      "titular": "Un curso de acelerón normativo farmacéutico: las tres leyes clave que marcan el final de la legislatura",
+      "medios": [
+        "El Global"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-21T08:38:33+02:00",
+      "enlace": "https://elglobalfarma.com/politica/curso-aceleron-normativo-farmaceutico-tres-leyes-clave-marcan-final-legislatura/"
+    },
+    {
       "titular": "Feijóo pide confinar Ceuta por \"riesgo sanitario\" ante los casos de tuberculosis, sarna y gastroenteritis",
       "medios": [
         "Redacción Médica"
@@ -48,36 +66,17 @@
       "consenso": 1,
       "fecha": "2026-08-23T11:54:51+02:00",
       "enlace": "https://www.redaccionmedica.com/politica/20260823/feijoo-pide-confinar-ceuta-por-riesgo-sanitario-ante-los-casos-de-tuberculosis-sarna-gastroenteritis/349515_0.html"
-    },
-    {
-      "titular": "El suelo pélvico exige un abordaje multidisciplinar: \"Normalizamos la incontinencia\"",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-23T11:51:29+02:00",
-      "enlace": "https://www.redaccionmedica.com/profesionales/20260823/el-suelo-pelvico-exige-un-abordaje-multidisciplinar-normalizamos-la-incontinencia/349338_0.html"
-    },
-    {
-      "titular": "Más de 150 militares piden garantías higiénico-sanitarias a su llegada a Ceuta tras el brote de sarna",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-23T10:31:50+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20260823/mas-de-militares-piden-garantias-higienico-sanitarias-su-llegada-ceuta-tras-el-brote-sarna/349513_0.html"
     }
   ],
   "salud": {
     "feeds_totales": 7,
-    "feeds_ok": 3,
+    "feeds_ok": 4,
     "feeds_caidos": [
-      "El Global",
       "PMFarma",
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 58,
+    "antiguedad_minima_min": 100,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -85,16 +84,17 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 3013,
+        "antiguedad_min": 3055,
         "descartados_por_gancho": 0
       },
       {
         "medio": "El Global",
         "url": "https://elglobal.es/feed/",
-        "ok": false,
-        "items": 0,
-        "error": "URLError: <urlopen error timed out>",
-        "antiguedad_min": null
+        "ok": true,
+        "items": 10,
+        "error": null,
+        "antiguedad_min": 2983,
+        "descartados_por_gancho": 0
       },
       {
         "medio": "Redacción Médica",
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 29,
         "error": null,
-        "antiguedad_min": 58,
+        "antiguedad_min": 100,
         "descartados_por_gancho": 1
       },
       {

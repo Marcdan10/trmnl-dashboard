@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-08-23T15:10:26+02:00",
+  "generado": "2026-08-23T15:52:46+02:00",
   "titulares": [
     {
-      "titular": "Susto que pudo acabar en tragedia: a un campeón del mundo se le cae un cristal en México",
+      "titular": "El Barça de fútbol sala cierra la pretemporada con buenas sensaciones",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T14:46:16+02:00",
-      "enlace": "https://www.mundodeportivo.com/padel/mas-padel/20260823/1004218857/susto-pudo-acabar-tragedia-campeon-mundo-le-rompe-cristal-mexico.html"
+      "fecha": "2026-08-23T15:26:37+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260823/1004218872/barca-futbol-sala-cierra-pretemporada-buenas-sensaciones.html"
     },
     {
-      "titular": "Sigue en directo la carrera de Fórmula 1 en Zandvoort",
+      "titular": "Laporta prefiere no hablar con el mercado en ebullición",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T14:35:48+02:00",
-      "enlace": "https://www.mundodeportivo.com/motor/f1/20260823/1004218635/f1-directo-carrera-gp-paises-bajos-formula-1-zandvoort.html"
+      "fecha": "2026-08-23T15:23:43+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260823/1004218876/laporta-prefiere-no-hablar-mercado-ebullicion.html"
     },
     {
       "titular": "Las portadas en Inglaterra con Arteta son para verlas...",
@@ -41,31 +41,32 @@
       "enlace": "https://www.marca.com/futbol/rayo/2026/08/21/camello-agotados-situacion-distancia-tres-partes.html"
     },
     {
-      "titular": "El padre de Fermín López: “Con 18 años, antes de ir a Linares, él prefirió seguir viviendo en La Masia en lugar de buscarse un piso como ya tuvo que hacer en Linares. El trato que tuvo fue espectacular”",
+      "titular": "Manchester City - Bournemouth, en directo: sigue el partido de la Premier League, en vivo hoy",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/barca/padre-fermin-lopez-18-anos-133584379"
+      "enlace": "https://www.sport.es/es/noticias/premier-league/manchester-city-bournemouth-directo-sigue-133587531"
     },
     {
-      "titular": "Atlético de Madrid - Villarreal: siga en directo la segunda jornada de LaLiga EA Sports 2026-27",
+      "titular": "La Vuelta se cita hoy con la historia del Tour",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/laliga/atletico-madrid-villarreal-siga-directo-133587927"
+      "enlace": "https://www.sport.es/es/noticias/ciclismo/vuelta-cita-hoy-historia-tour-tourmalet-sergi-lopez-egea-133588648"
     },
     {
-      "titular": "¿Qué necesita Alex Palou para ser campeón en Washington?",
+      "titular": "Peligroso accidente de Verstappen en Zandvoort",
       "medios": [
-        "Mundo Deportivo"
+        "Mundo Deportivo",
+        "Sport"
       ],
-      "consenso": 1,
-      "fecha": "2026-08-23T14:34:49+02:00",
-      "enlace": "https://www.mundodeportivo.com/motor/indycar/20260823/1004218868/necesita-alex-palou-campeon-washington.html"
+      "consenso": 2,
+      "fecha": "2026-08-23T15:21:20+02:00",
+      "enlace": "https://www.mundodeportivo.com/motor/f1/20260823/1004218879/peligroso-accidente-verstappen-zandvoort.html"
     }
   ],
   "salud": {
@@ -74,7 +75,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 24,
+    "antiguedad_minima_min": 26,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +83,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 3679,
+        "antiguedad_min": 3722,
         "descartados_por_gancho": 12
       },
       {
@@ -100,14 +101,14 @@
         "ok": true,
         "items": 146,
         "error": null,
-        "antiguedad_min": 24,
+        "antiguedad_min": 26,
         "descartados_por_gancho": 6
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 49,
+        "items": 48,
         "error": null,
         "antiguedad_min": null,
         "descartados_por_gancho": 0

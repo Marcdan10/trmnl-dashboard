@@ -2,8 +2,17 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-08-23T15:10:23+02:00",
+  "generado": "2026-08-23T15:52:43+02:00",
   "titulares": [
+    {
+      "titular": "Uno de cada cinco contratos firmados en julio duraron menos de una semana",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-23T15:18:14+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/08/23/6a8af21fe5fdea7e628b4591.html"
+    },
     {
       "titular": "Cuerpo viaja a Ceuta para abordar con empresas el apoyo económico tras la crisis migratoria",
       "medios": [
@@ -57,15 +66,6 @@
       "consenso": 1,
       "fecha": "2026-08-23T12:01:55+02:00",
       "enlace": "https://www.expansion.com/empresas/transporte/2026/08/23/6a8ac12ce5fdea53398b459b.html"
-    },
-    {
-      "titular": "Los fondos de pensiones perderán 74.000 millones hasta 2040 si no se incluyen incentivos",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-23T11:44:23+02:00",
-      "enlace": "https://www.expansion.com/ahorro/pensiones/2026/08/23/6a8abc75468aeb26388b459f.html"
     }
   ],
   "salud": {
@@ -78,7 +78,7 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 31,
+    "antiguedad_minima_min": 34,
     "detalle": [
       {
         "medio": "Expansión",
@@ -86,7 +86,7 @@
         "ok": true,
         "items": 69,
         "error": null,
-        "antiguedad_min": 31,
+        "antiguedad_min": 34,
         "descartados_por_gancho": 1
       },
       {

@@ -2,15 +2,15 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-08-23T15:10:20+02:00",
+  "generado": "2026-08-23T15:52:39+02:00",
   "titulares": [
     {
-      "titular": "GP de Países Bajos en directo | Un accidente de Verstappen provoca una bandera roja",
+      "titular": "GP de Países Bajos en directo | Se reanuda la carrera tras la bandera roja provocada por un accidente de Verstappen",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T15:09:06+02:00",
+      "fecha": "2026-08-23T15:49:06+02:00",
       "enlace": "https://elpais.com/deportes/formula-1/2026-08-23/gp-de-paises-bajos-en-directo-la-carrera-de-formula-1-en-vivo.html"
     },
     {
@@ -19,44 +19,44 @@
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T15:09:05+02:00",
+      "fecha": "2026-08-23T15:49:05+02:00",
       "enlace": "https://elpais.com/deportes/formula-1/2026-08-22/aston-martin-chasco-en-chasco-alonso-arrancara-el-18-tras-evidenciarse-la-ternura-del-nuevo-motor-honda.html"
     },
     {
-      "titular": "Del Sahara a Ceuta y Melilla, la frontera que Marruecos quiere mover",
+      "titular": "La Guardia Civil investiga el hallazgo de dos amigos muertos en plena calle en un pueblo de León",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T14:57:27+02:00",
-      "enlace": "https://www.abc.es/espana/sahara-ceuta-melilla-frontera-marruecos-quiere-mover-20260823013246-nt.html"
+      "fecha": "2026-08-23T15:32:24+02:00",
+      "enlace": "https://www.abc.es/espana/castilla-leon/investigan-hallazgo-dos-cadaveres-plena-calle-pueblo-20260823125151-nt.html"
     },
     {
-      "titular": "El sistema Mohamed VI: un reino donde todas las decisiones conducen al Palacio",
+      "titular": "El nuevo look de Haaland: adiós al pelo largo",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T14:56:51+02:00",
-      "enlace": "https://www.abc.es/espana/manda-marruecos-20260822013230-nt.html"
+      "fecha": "2026-08-23T15:11:47+02:00",
+      "enlace": "https://www.abc.es/gente/nuevo-look-haaland-adios-pelo-largo-20260823130654-nt.html"
     },
     {
-      "titular": "Un grupo de intelectuales piden la liberación del periodista argelino Ayoub Aïssiou",
+      "titular": "Multitudinaria manifestación en Jaca para pedir responsabilidades por el incendio de Riglos",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T14:17:59+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20260823/11618554/grupo-intelectuales-piden-sanchez-macron-liberacion-periodista-argelino-ayoub-aissiou.html"
+      "fecha": "2026-08-23T14:57:47+02:00",
+      "enlace": "https://www.lavanguardia.com/vida/20260823/11618559/multitudinaria-manifestacion-jaca-pedir-responsabilidades-incendio-riglos.html"
     },
     {
-      "titular": "Si no quieres gastarte un dineral en un móvil para tu hijo, estos 7 no llegan a los 200 euros y son los que más recomiendo",
+      "titular": "Ellie Ellis, la adolescente que ha “conquistado” el algoritmo de TikTok sin que nadie sepa cómo",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T14:00:00+02:00",
-      "enlace": "https://www.lavanguardia.com/comprar/tecnologia/20260823/11617626/quieres-gastarte-dineral-movil-hijo-7-llegan-200-euros-son-mas-recomiendo-mkt-alie.html"
+      "fecha": "2026-08-23T14:47:47+02:00",
+      "enlace": "https://www.lavanguardia.com/vida/20260823/11618558/ellie-ellis-adolescente-conquistado-algoritmo-tiktok-nadie-como.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 1,
+    "antiguedad_minima_min": 3,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2211245,
+        "antiguedad_min": 2211287,
         "descartados_por_gancho": 0
       },
       {
@@ -97,10 +97,10 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 138,
+        "items": 137,
         "error": null,
-        "antiguedad_min": 1,
-        "descartados_por_gancho": 4
+        "antiguedad_min": 3,
+        "descartados_por_gancho": 5
       },
       {
         "medio": "La Vanguardia",
@@ -108,7 +108,7 @@
         "ok": true,
         "items": 119,
         "error": null,
-        "antiguedad_min": 52,
+        "antiguedad_min": 54,
         "descartados_por_gancho": 23
       },
       {
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 24,
         "error": null,
-        "antiguedad_min": 12,
+        "antiguedad_min": 20,
         "descartados_por_gancho": 1
       }
     ]
