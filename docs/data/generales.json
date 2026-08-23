@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-08-23T16:47:13+02:00",
+  "generado": "2026-08-23T17:15:55+02:00",
   "titulares": [
     {
       "titular": "GP de Países Bajos en directo | Se reanuda la carrera tras la bandera roja provocada por un accidente de Verstappen",
@@ -10,7 +10,7 @@
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T16:43:05+02:00",
+      "fecha": "2026-08-23T17:12:45+02:00",
       "enlace": "https://elpais.com/deportes/formula-1/2026-08-23/gp-de-paises-bajos-en-directo-la-carrera-de-formula-1-en-vivo.html"
     },
     {
@@ -19,44 +19,44 @@
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T16:43:05+02:00",
+      "fecha": "2026-08-23T17:12:44+02:00",
       "enlace": "https://elpais.com/deportes/formula-1/2026-08-22/aston-martin-chasco-en-chasco-alonso-arrancara-el-18-tras-evidenciarse-la-ternura-del-nuevo-motor-honda.html"
     },
     {
-      "titular": "Un terremoto de magnitud 6,2 sacude la región de Hokkaido en Japón",
+      "titular": "Argentina no se vende, pero el 5% de sus tierras son ya de propiedad extranjera",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T16:34:16+02:00",
-      "enlace": "https://www.abc.es/internacional/terremoto-magnitud-sacude-region-hokkaido-japon-20260823161342-nt.html"
+      "fecha": "2026-08-23T17:09:51+02:00",
+      "enlace": "https://www.abc.es/internacional/debate-tierras-argentina-principales-duenos-extranjeros-20260817021227-nt.html"
     },
     {
-      "titular": "Mourinho sale en defensa de Vinicius: «Recibe bullying de los adversarios y del público»",
+      "titular": "Desaparecido un empresario burgalés tras caer por la borda de su embarcación",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T16:25:58+02:00",
-      "enlace": "https://www.abc.es/deportes/futbol/mourinho-sale-defensa-vinicius-recibe-bullying-adversarios-20260823001905-nt.html"
+      "fecha": "2026-08-23T17:07:33+02:00",
+      "enlace": "https://www.abc.es/espana/castilla-leon/desaparecido-empresario-burgales-tras-caer-borda-embarcacion-20260823170100-nt.html"
     },
     {
-      "titular": "Multitudinaria manifestación en Jaca para pedir responsabilidades por el incendio de Riglos",
+      "titular": "“Cambiaría estos cinco materiales de cocina para reducir la exposición a tóxicos”",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T14:57:47+02:00",
-      "enlace": "https://www.lavanguardia.com/vida/20260823/11618559/multitudinaria-manifestacion-jaca-pedir-responsabilidades-incendio-riglos.html"
+      "fecha": "2026-08-23T17:00:00+02:00",
+      "enlace": "https://www.lavanguardia.com/comprar/deporte-salud/20260823/11611963/blanca-gomez-psiconeuroinmunologa-cambiaria-cinco-materiales-cocina-reducir-exposicion-toxicos.html"
     },
     {
-      "titular": "Ellie Ellis, la adolescente que ha “conquistado” el algoritmo de TikTok sin que nadie sepa cómo",
+      "titular": "Duelo de humanidad en la valla ceutí y combate robótico en Pekín, entre las imágenes del día.",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T14:47:47+02:00",
-      "enlace": "https://www.lavanguardia.com/vida/20260823/11618558/ellie-ellis-adolescente-conquistado-algoritmo-tiktok-nadie-como.html"
+      "fecha": "2026-08-23T16:50:52+02:00",
+      "enlace": "https://www.lavanguardia.com/fotos/20260823/11618539/duelo-humanidad-valla-ceuti-combate-robotico-pekin-imagenes-dia.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 4,
+    "antiguedad_minima_min": 3,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2211342,
+        "antiguedad_min": 2211370,
         "descartados_por_gancho": 0
       },
       {
@@ -99,7 +99,7 @@
         "ok": true,
         "items": 137,
         "error": null,
-        "antiguedad_min": 4,
+        "antiguedad_min": 3,
         "descartados_por_gancho": 5
       },
       {
@@ -108,8 +108,8 @@
         "ok": true,
         "items": 119,
         "error": null,
-        "antiguedad_min": 109,
-        "descartados_por_gancho": 23
+        "antiguedad_min": 15,
+        "descartados_por_gancho": 22
       },
       {
         "medio": "ABC",
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 24,
         "error": null,
-        "antiguedad_min": 12,
+        "antiguedad_min": 6,
         "descartados_por_gancho": 1
       }
     ]

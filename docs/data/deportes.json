@@ -2,25 +2,26 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-08-23T16:47:18+02:00",
+  "generado": "2026-08-23T17:16:00+02:00",
   "titulares": [
     {
-      "titular": "Final sin premio en Sassnitz para el equipo español de SailGP",
+      "titular": "Inicio para olvidar del Aston Villa de Emery",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T16:22:26+02:00",
-      "enlace": "https://www.mundodeportivo.com/vela/20260823/1004218893/final-premio-sassnitz-equipo-espanol-sailgp.html"
+      "fecha": "2026-08-23T16:55:52+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/premier-league/20260823/1004218891/inicio-olvidar-aston-villa-emery.html"
     },
     {
-      "titular": "Ya ha entrado en vigor en toda la Unión Europea: adiós a los sobres de salsas en hoteles, bares y restaurantes",
+      "titular": "Sigue en directo la carrera del GP de Zandvoort",
       "medios": [
-        "Mundo Deportivo"
+        "Mundo Deportivo",
+        "Sport"
       ],
-      "consenso": 1,
-      "fecha": "2026-08-23T16:16:40+02:00",
-      "enlace": "https://www.mundodeportivo.com/actualidad/20260823/1004218890/entrado-vigor-toda-union-europea-adios-sobres-salsas-hoteles-bares-restaurantes.html"
+      "consenso": 2,
+      "fecha": "2026-08-23T16:50:29+02:00",
+      "enlace": "https://www.mundodeportivo.com/motor/f1/20260823/1004218635/f1-directo-carrera-gp-paises-bajos-formula-1-2026-zandvoort.html"
     },
     {
       "titular": "Las portadas en Inglaterra con Arteta son para verlas...",
@@ -41,32 +42,31 @@
       "enlace": "https://www.marca.com/futbol/rayo/2026/08/21/camello-agotados-situacion-distancia-tres-partes.html"
     },
     {
-      "titular": "Manchester City - Bournemouth, en directo: sigue el partido de la Premier League, en vivo hoy",
+      "titular": "La defensa saca adelante la primera victoria de Maresca en el City",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/premier-league/manchester-city-bournemouth-directo-sigue-133587531"
+      "enlace": "https://www.sport.es/es/noticias/premier-league/defensa-saca-adelante-primera-victoria-133588247"
     },
     {
-      "titular": "El Sporting oficializa la llegada de Antonio Casas, undécimo fichaje del verano",
+      "titular": "Mourinho pasa de acusar a Vinicius de \"hacer el tonto\" a denunciar \"bullying\" contra él",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/futbol/sporting-oficializa-llegada-antonio-casas-133589925"
+      "enlace": "https://www.sport.es/es/noticias/real-madrid/mourinho-pasa-acusar-vinicius-tonto-bullying-real-madrid-133589279"
     },
     {
-      "titular": "Sigue en directo la carrera del GP de Zandvoort",
+      "titular": "Cerezo atiza al Barça por el tema Julián: \"No han estado a la altura\"",
       "medios": [
-        "Mundo Deportivo",
-        "Sport"
+        "Mundo Deportivo"
       ],
-      "consenso": 2,
-      "fecha": "2026-08-23T16:12:49+02:00",
-      "enlace": "https://www.mundodeportivo.com/motor/f1/20260823/1004218635/f1-directo-carrera-gp-paises-bajos-formula-1-zandvoort.html"
+      "consenso": 1,
+      "fecha": "2026-08-23T16:49:36+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20260823/1004218898/cerezo-atiza-barca-tema-julian-no-han-altura.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 24,
+    "antiguedad_minima_min": 20,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 3776,
+        "antiguedad_min": 3805,
         "descartados_por_gancho": 12
       },
       {
@@ -99,9 +99,9 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 143,
+        "items": 144,
         "error": null,
-        "antiguedad_min": 24,
+        "antiguedad_min": 20,
         "descartados_por_gancho": 6
       },
       {
