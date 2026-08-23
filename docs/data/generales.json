@@ -2,43 +2,43 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-08-23T18:17:52+02:00",
+  "generado": "2026-08-23T18:49:52+02:00",
   "titulares": [
     {
-      "titular": "Adrián Lastra: «Es normal que a muchos futbolistas se les vuele la cabeza y se vuelvan gilipollas»",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-23T18:06:49+02:00",
-      "enlace": "https://www.abc.es/deportes/adrian-lastra-normal-futbolistas-vuele-cabeza-vuelvan-20260821012114-nt.html"
-    },
-    {
-      "titular": "Duelo de titanes Pogacar-Van Aert y triunfo de Brenan",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-23T18:02:36+02:00",
-      "enlace": "https://www.abc.es/deportes/ciclismo/duelo-titanes-pogacarvan-aert-triunfo-brenan-20260823180201-nt.html"
-    },
-    {
-      "titular": "Feijóo, sobre el ático de Ayuso: “Patrimonio de Madrid deberá explicar por qué compró un local que no se puede destinar a oficina”",
+      "titular": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Feijóo reclama a Sánchez decretar el confinamiento por “riesgo sanitario” de los migrantes con sarna y tuberculosis",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T18:01:34+02:00",
-      "enlace": "https://elpais.com/espana/madrid/2026-08-23/feijoo-sobre-el-atico-de-ayuso-patrimonio-de-madrid-debera-explicar-por-que-compro-un-local-que-no-se-puede-destinar-a-oficina.html"
+      "fecha": "2026-08-23T18:39:53+02:00",
+      "enlace": "https://elpais.com/espana/2026-08-23/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html"
     },
     {
-      "titular": "La Universitat Catalana d’Estiu cierra su 58ª edición afirmando sentirse “maltratada” por el Govern de Illa",
+      "titular": "Brennan culmina la jugada maestra del Visma en la Vuelta a España",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T17:59:33+02:00",
-      "enlace": "https://elpais.com/espana/catalunya/2026-08-23/la-universitat-catalana-destiu-cierra-su-58-edicion-afirmando-sentirse-maltratada-por-el-govern-de-illa.html"
+      "fecha": "2026-08-23T18:36:31+02:00",
+      "enlace": "https://elpais.com/deportes/ciclismo/2026-08-23/brennan-culmina-la-jugada-maestra-del-visma-en-la-vuelta-a-espana.html"
+    },
+    {
+      "titular": "Empata el Villarreal y el Metropolitano recibe de uñas a Julián",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-23T18:35:13+02:00",
+      "enlace": "https://www.abc.es/deportes/atletico-madrid/atletico-madrid-villarreal-directo-resultado-ganador-goles-20260823094756-di.html"
+    },
+    {
+      "titular": "Feijóo afirma que sabía desde abril que el equipo de Ayuso buscaba una alternativa a la sede de Sol",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-23T18:20:01+02:00",
+      "enlace": "https://www.abc.es/espana/feijoo-dice-tras-polemica-atico-ayuso-buscaba-20260823115729-nt.html"
     },
     {
       "titular": "El Metropolitano recibe con una sonora pitada a Julián Álvarez",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 11,
+    "antiguedad_minima_min": 9,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2211432,
+        "antiguedad_min": 2211464,
         "descartados_por_gancho": 0
       },
       {
@@ -97,9 +97,9 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 137,
+        "items": 136,
         "error": null,
-        "antiguedad_min": 16,
+        "antiguedad_min": 9,
         "descartados_por_gancho": 5
       },
       {
@@ -108,7 +108,7 @@
         "ok": true,
         "items": 118,
         "error": null,
-        "antiguedad_min": 52,
+        "antiguedad_min": 84,
         "descartados_por_gancho": 22
       },
       {
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 24,
         "error": null,
-        "antiguedad_min": 11,
+        "antiguedad_min": 14,
         "descartados_por_gancho": 1
       }
     ]

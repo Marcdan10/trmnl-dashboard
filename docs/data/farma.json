@@ -2,25 +2,25 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "ultimas",
-  "generado": "2026-08-23T18:18:04+02:00",
+  "generado": "2026-08-23T18:50:04+02:00",
   "titulares": [
     {
-      "titular": "La realidad virtual ayuda a retener la práctica pero no la teoría al estudiar",
+      "titular": "Italia investiga por homicidio involuntario a los padres de la niña sin vacunar que murió de difteria",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T18:08:29+02:00",
-      "enlace": "https://www.redaccionmedica.com/formacion/estudiantes/20260823/la-realidad-virtual-ayuda-retener-la-practica-pero-no-teoria-al-estudiar/349519_0.html"
+      "fecha": "2026-08-23T18:23:53+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/internacional/20260823/italia-investiga-por-homicidio-involuntario-los-padres-de-la-nina-sin-vacunar-que-murio-difteria/349520_0.html"
     },
     {
-      "titular": "Muere el anestesista Manuel Montero Arias, el colegiado más antiguo de Cáceres",
+      "titular": "¿Hacia el blindaje de fármacos veterinarios 'made in UE'? De incentivos a aranceles con los antibióticos como reto",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T16:42:40+02:00",
-      "enlace": "https://www.redaccionmedica.com/autonomias/20260823/muere-manuel-montero-arias-el-medico-colegiado-mas-antiguo-de-caceres-los-anos/349516_0.html"
+      "fecha": "2026-08-23T18:13:17+02:00",
+      "enlace": "https://www.redaccionmedica.com/empresas/industria-farmaceutica/20260823/farmacos-veterinarios-made-in-ue-incentivos-aranceles-antibioticos/349408_0.html"
     },
     {
       "titular": "Cofares se prepara para la nueva era del medicamento con 25 millones de inversión",
@@ -59,13 +59,13 @@
       "enlace": "https://elglobalfarma.com/politica/curso-aceleron-normativo-farmaceutico-tres-leyes-clave-marcan-final-legislatura/"
     },
     {
-      "titular": "Mejor horario para retener talento médico ante la desigualdad salarial autonómica",
+      "titular": "La realidad virtual ayuda a retener la práctica pero no la teoría en la formación sanitaria",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T16:19:42+02:00",
-      "enlace": "https://www.redaccionmedica.com/profesionales/20260823/mejor-horario-para-retener-talento-medico-ante-la-desigualdad-salarial-autonomica/349325_0.html"
+      "fecha": "2026-08-23T18:08:29+02:00",
+      "enlace": "https://www.redaccionmedica.com/formacion/estudiantes/20260823/la-realidad-virtual-ayuda-retener-la-practica-pero-no-teoria-al-estudiar/349519_0.html"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 9,
+    "antiguedad_minima_min": 26,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 3201,
+        "antiguedad_min": 3233,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 3128,
+        "antiguedad_min": 3160,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 29,
         "error": null,
-        "antiguedad_min": 9,
+        "antiguedad_min": 26,
         "descartados_por_gancho": 1
       },
       {

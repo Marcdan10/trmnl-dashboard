@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-08-23T18:17:58+02:00",
+  "generado": "2026-08-23T18:49:58+02:00",
   "titulares": [
     {
-      "titular": "Alivio en el Fenerbahce: \"El estado de salud general de nuestro jugador es bueno\"",
+      "titular": "Penalti a favor de los 'groguets'",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T17:55:45+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/internacional/20260823/1004218917/alivio-fenerbahce-salud-general-nuestro-jugador-bueno.html"
+      "fecha": "2026-08-23T18:26:59+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/laliga/20260823/1004218797/atletico-de-madrid-villarreal-partido-futbol-hoy-en-directo-laliga-ea-sports-primera-ext-pau.html"
     },
     {
-      "titular": "Sitúan al Nottingham Forest en la 'pole' por Casadó",
+      "titular": "Norris no piensa en el campeonato. \"Voy a una carrera a la vez\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T17:47:57+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260823/1004218914/situan-nottingham-forest-pole-casado.html"
+      "fecha": "2026-08-23T18:25:02+02:00",
+      "enlace": "https://www.mundodeportivo.com/motor/f1/20260823/1004218931/norris-no-piensa-campeonato-carrera-vez.html"
     },
     {
       "titular": "Las portadas en Inglaterra con Arteta son para verlas...",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/rayo/2026/08/21/camello-agotados-situacion-distancia-tres-partes.html"
     },
     {
-      "titular": "Un robot chino supera el récord mundial humano de atletismo de los 100 metros en Pekín",
+      "titular": "El proyecto del Espanyol 2026-27 gana crédito en dos jornadas",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/deportes/robot-chino-supera-record-mundial-133588604"
+      "enlace": "https://www.sport.es/es/noticias/espanyol/proyecto-espanyol-2026-27-gana-133582466"
     },
     {
-      "titular": "Valencia Basket inicia la pretemporada con solo cuatro jugadoras del primer equipo",
+      "titular": "Quim Vidal firma en Escocia el mejor resultado de su carrera en el DP World Tour",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/baloncesto/valencia-basket-inicia-pretemporada-cuatro-133592278"
+      "enlace": "https://www.sport.es/es/noticias/deportes/golf/quim-vidal-firma-escocia-mejor-133592244"
     },
     {
-      "titular": "Robert Lewandowski celebra 38 años rodeado de su familia: el romántico mensaje de Anna",
+      "titular": "Así queda la clasificación general de La Vuelta después de que Hayter arrebatara por momentos el liderato a Pogacar",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T17:47:22+02:00",
-      "enlace": "https://www.mundodeportivo.com/vaya-mundo/20260823/1004218912/robert-lewandowski-celebra-38-anos-rodeado-familia-romantico-mensaje-anna-dct.html"
+      "fecha": "2026-08-23T18:18:15+02:00",
+      "enlace": "https://www.mundodeportivo.com/ciclismo/vuelta-espana/20260823/1004218928/asi-queda-clasificacion-general-vuelta-hayter-arrebatara-momentos-liderato-pogacar.html"
     }
   ],
   "salud": {
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 3867,
+        "antiguedad_min": 3899,
         "descartados_por_gancho": 12
       },
       {
@@ -98,16 +98,16 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 141,
+        "items": 143,
         "error": null,
         "antiguedad_min": 22,
-        "descartados_por_gancho": 8
+        "descartados_por_gancho": 7
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 48,
+        "items": 49,
         "error": null,
         "antiguedad_min": null,
         "descartados_por_gancho": 0
