@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-08-23T13:44:06+02:00",
+  "generado": "2026-08-23T14:26:24+02:00",
   "titulares": [
     {
       "titular": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Feijóo reclama a Sánchez decretar el confinamiento en Ceuta por “riesgo sanitario” de sarna y tuberculosis",
@@ -10,8 +10,17 @@
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T13:41:26+02:00",
+      "fecha": "2026-08-23T14:22:54+02:00",
       "enlace": "https://elpais.com/espana/2026-08-23/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html"
+    },
+    {
+      "titular": "Aston Martin, de chasco en chasco: Alonso arrancará el 18º tras evidenciarse la ternura del nuevo motor Honda",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-23T14:20:05+02:00",
+      "enlace": "https://elpais.com/deportes/formula-1/2026-08-22/aston-martin-chasco-en-chasco-alonso-arrancara-el-18-tras-evidenciarse-la-ternura-del-nuevo-motor-honda.html"
     },
     {
       "titular": "El nuevo look de Haaland: Adiós al pelo largo",
@@ -50,15 +59,6 @@
       "enlace": "https://www.lavanguardia.com/clic/20260823/11618534/drastico-cambio-look-haaland-rapa-pelo-sorprende-nueva-imagen-lol.html"
     },
     {
-      "titular": "Moreno pide al Gobierno reactivar una unidad de la Guardia Civil contra el narcotráfico desmantelada por Interior en 2022",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-23T11:47:57+02:00",
-      "enlace": "https://elpais.com/espana/2026-08-23/moreno-pide-al-gobierno-que-reactive-la-unidad-de-la-guardia-civil-contra-el-narcotrafico.html"
-    },
-    {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
       "medios": [
         "RTVE"
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 2,
+    "antiguedad_minima_min": 3,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2211159,
+        "antiguedad_min": 2211201,
         "descartados_por_gancho": 0
       },
       {
@@ -99,7 +99,7 @@
         "ok": true,
         "items": 138,
         "error": null,
-        "antiguedad_min": 2,
+        "antiguedad_min": 3,
         "descartados_por_gancho": 4
       },
       {
@@ -108,7 +108,7 @@
         "ok": true,
         "items": 119,
         "error": null,
-        "antiguedad_min": 59,
+        "antiguedad_min": 101,
         "descartados_por_gancho": 23
       },
       {
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 24,
         "error": null,
-        "antiguedad_min": 25,
+        "antiguedad_min": 67,
         "descartados_por_gancho": 1
       }
     ]
