@@ -2,16 +2,25 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-08-23T22:46:40+02:00",
+  "generado": "2026-08-23T23:15:38+02:00",
   "titulares": [
     {
-      "titular": "Elche - Barcelona en directo | Comienza la segunda mitad en el Martínez Valero",
+      "titular": "Elche - Barcelona en directo | Fermín se apunta a la goleada con el cuarto",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T22:41:50+02:00",
+      "fecha": "2026-08-23T23:10:31+02:00",
       "enlace": "https://elpais.com/deportes/futbol/2026-08-23/elche-barcelona-en-directo-el-partido-de-la-liga-en-vivo.html"
+    },
+    {
+      "titular": "Doblete de Ferran Torres en sus primeros 45 minutos con el PSG",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-23T22:54:56+02:00",
+      "enlace": "https://www.lavanguardia.com/deportes/futbol/20260823/11618670/doblete-ferran-torres-primeros-45-minutos-psg.html"
     },
     {
       "titular": "Alarmante debut de Iraola en el Liverpool",
@@ -50,15 +59,6 @@
       "enlace": "https://www.lavanguardia.com/deportes/20260823/11618649/ilusionante-mensaje-alonso-puntuar-zandvoort-me-encanta-coche-mas-llegar-lol.html"
     },
     {
-      "titular": "Flick, muy duro con Balde: “No está aquí al 100%”",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-23T21:01:54+02:00",
-      "enlace": "https://www.lavanguardia.com/deportes/fc-barcelona/20260823/11618658/flick-duro-balde-esta-100.html"
-    },
-    {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
       "medios": [
         "RTVE"
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 4,
+    "antiguedad_minima_min": 5,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2211701,
+        "antiguedad_min": 2211730,
         "descartados_por_gancho": 0
       },
       {
@@ -99,7 +99,7 @@
         "ok": true,
         "items": 136,
         "error": null,
-        "antiguedad_min": 4,
+        "antiguedad_min": 5,
         "descartados_por_gancho": 6
       },
       {
@@ -108,7 +108,7 @@
         "ok": true,
         "items": 120,
         "error": null,
-        "antiguedad_min": 102,
+        "antiguedad_min": 20,
         "descartados_por_gancho": 20
       },
       {
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 23,
         "error": null,
-        "antiguedad_min": 24,
+        "antiguedad_min": 53,
         "descartados_por_gancho": 2
       }
     ]
