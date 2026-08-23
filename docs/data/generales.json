@@ -2,34 +2,34 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-08-23T22:14:45+02:00",
+  "generado": "2026-08-23T22:46:40+02:00",
   "titulares": [
     {
-      "titular": "Elche - Barcelona en directo | Raphinha adelanta al Barça de penalti",
+      "titular": "Elche - Barcelona en directo | Comienza la segunda mitad en el Martínez Valero",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T22:08:35+02:00",
+      "fecha": "2026-08-23T22:41:50+02:00",
       "enlace": "https://elpais.com/deportes/futbol/2026-08-23/elche-barcelona-en-directo-el-partido-de-la-liga-en-vivo.html"
     },
     {
-      "titular": "Al menos 30 muertos tras el derrumbe de un vertedero en Guinea-Conakry",
+      "titular": "Alarmante debut de Iraola en el Liverpool",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T22:06:34+02:00",
-      "enlace": "https://elpais.com/internacional/2026-08-23/al-menos-30-muertos-tras-el-derrumbe-de-un-vertedero-en-guinea-conakry.html"
+      "fecha": "2026-08-23T22:37:18+02:00",
+      "enlace": "https://elpais.com/deportes/futbol/2026-08-23/alarmante-debut-de-iraola-en-el-liverpool.html"
     },
     {
-      "titular": "Raphinha, de penalti, abre el marcador en Elche",
+      "titular": "Julián Álvarez ignora a un Metropolitano que no le perdona",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T21:53:57+02:00",
-      "enlace": "https://www.abc.es/deportes/futbol/elche-barcelona-directo-resultado-ganador-goles-partido-20260823100849-di.html"
+      "fecha": "2026-08-23T22:22:02+02:00",
+      "enlace": "https://www.abc.es/deportes/atletico-madrid/xxxx-20260823161400-nt.html"
     },
     {
       "titular": "El mejor Alonso del año suma puntos en una accidentada carrera",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 6,
+    "antiguedad_minima_min": 4,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2211669,
+        "antiguedad_min": 2211701,
         "descartados_por_gancho": 0
       },
       {
@@ -97,9 +97,9 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 135,
+        "items": 136,
         "error": null,
-        "antiguedad_min": 6,
+        "antiguedad_min": 4,
         "descartados_por_gancho": 6
       },
       {
@@ -108,17 +108,17 @@
         "ok": true,
         "items": 120,
         "error": null,
-        "antiguedad_min": 71,
+        "antiguedad_min": 102,
         "descartados_por_gancho": 20
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 24,
+        "items": 23,
         "error": null,
-        "antiguedad_min": 20,
-        "descartados_por_gancho": 1
+        "antiguedad_min": 24,
+        "descartados_por_gancho": 2
       }
     ]
   }
