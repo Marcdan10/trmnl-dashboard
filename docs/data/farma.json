@@ -1,3 +1,143 @@
 {
-  "pendiente": "se rellena en la primera ejecucion del workflow"
+  "pantalla": "farma",
+  "titulo": "Farma y sanidad",
+  "modo": "portadas",
+  "generado": "2026-08-23T11:30:52+02:00",
+  "titulares": [
+    {
+      "titular": "Más de un millón de altas en la plataforma de historia clínica de la Fundación IDIS",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-21T12:56:57+02:00",
+      "enlace": "https://diariofarma.com/2026/08/21/la-historia-clinica-compartida-de-la-fundacion-idis-mihc-supera-el-millon-de-altas"
+    },
+    {
+      "titular": "Cofares se prepara para la nueva era del medicamento con 25 millones de inversión",
+      "medios": [
+        "El Global"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-21T14:09:35+02:00",
+      "enlace": "https://elglobalfarma.com/farmacia/cofares-nueva-era-medicamento-25-millones-inversion/"
+    },
+    {
+      "titular": "Entre la bata y los fogones: Yu, la médica de Familia que ha abierto un puesto de gyozas",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-23T10:02:52+02:00",
+      "enlace": "https://www.redaccionmedica.com/profesionales/20260823/entre-la-bata-los-fogones-yu-medica-de-familia-que-ha-abierto-un-puesto-gyozas/349297_0.html"
+    },
+    {
+      "titular": "La SEMG muestra su apoyo a los profesionales sanitarios de Ceuta",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-21T12:39:06+02:00",
+      "enlace": "https://diariofarma.com/2026/08/21/la-semg-muestra-su-apoyo-a-los-sanitarios-de-ceuta"
+    },
+    {
+      "titular": "Un curso de acelerón normativo farmacéutico: las tres leyes clave que marcan el final de la legislatura",
+      "medios": [
+        "El Global"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-21T08:38:33+02:00",
+      "enlace": "https://elglobalfarma.com/politica/curso-aceleron-normativo-farmaceutico-tres-leyes-clave-marcan-final-legislatura/"
+    },
+    {
+      "titular": "'No' de los tutores MIR al nuevo diploma de acreditación: \"El colectivo no necesita más papeles, sabe que está capacitado\"",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-22T17:58:32+02:00",
+      "enlace": "https://www.redaccionmedica.com/formacion/mir/20260822/no-de-los-tutores-mir-al-nuevo-diploma-acreditacion-el-colectivo-no-necesita-mas-papeles-sabe-que-esta-capacitado/349327_0.html"
+    },
+    {
+      "titular": "Más consultas en urgencias por patologías asociadas al calor y la actividades estivales",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-20T12:21:29+02:00",
+      "enlace": "https://diariofarma.com/2026/08/20/mas-consultas-en-urgencias-por-patologias-asociadas-al-calor-y-la-actividades-estivales"
+    }
+  ],
+  "salud": {
+    "feeds_totales": 7,
+    "feeds_ok": 4,
+    "feeds_caidos": [
+      "PMFarma",
+      "AEMPS",
+      "EMA"
+    ],
+    "antiguedad_minima_min": 58,
+    "detalle": [
+      {
+        "medio": "Diariofarma",
+        "url": "https://diariofarma.com/feed",
+        "ok": true,
+        "items": 35,
+        "error": null,
+        "antiguedad_min": 2793,
+        "descartados_por_gancho": 0
+      },
+      {
+        "medio": "El Global",
+        "url": "https://elglobal.es/feed/",
+        "ok": true,
+        "items": 10,
+        "error": null,
+        "antiguedad_min": 2721,
+        "descartados_por_gancho": 0
+      },
+      {
+        "medio": "Redacción Médica",
+        "url": "https://www.redaccionmedica.com/rss/",
+        "ok": true,
+        "items": 30,
+        "error": null,
+        "antiguedad_min": 58,
+        "descartados_por_gancho": 0
+      },
+      {
+        "medio": "PMFarma",
+        "url": "https://www.pmfarma.es/rss/noticias.xml",
+        "ok": false,
+        "items": 0,
+        "error": "HTTP 404",
+        "antiguedad_min": null
+      },
+      {
+        "medio": "AEMPS",
+        "url": "https://www.aemps.gob.es/rss/notas-informativas.xml",
+        "ok": false,
+        "items": 0,
+        "error": "HTTP 404",
+        "antiguedad_min": null
+      },
+      {
+        "medio": "EMA",
+        "url": "https://www.ema.europa.eu/en/rss.xml",
+        "ok": false,
+        "items": 0,
+        "error": "HTTP 404",
+        "antiguedad_min": null
+      },
+      {
+        "medio": "FiercePharma",
+        "url": "https://www.fiercepharma.com/rss/xml",
+        "ok": true,
+        "items": 0,
+        "error": null,
+        "antiguedad_min": null,
+        "descartados_por_gancho": 0
+      }
+    ]
+  }
 }

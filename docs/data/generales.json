@@ -1,3 +1,125 @@
 {
-  "pendiente": "se rellena en la primera ejecucion del workflow"
+  "pantalla": "generales",
+  "titulo": "Titulares",
+  "modo": "portadas",
+  "generado": "2026-08-23T11:30:43+02:00",
+  "titulares": [
+    {
+      "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
+      "medios": [
+        "RTVE"
+      ],
+      "consenso": 1,
+      "fecha": "2022-06-10T01:05:00+02:00",
+      "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
+    },
+    {
+      "titular": "El clima extremo se ensaña con Europa y agrava su crisis política",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-23T06:00:00+02:00",
+      "enlace": "https://www.lavanguardia.com/internacional/20260823/11618197/crisis-ensanan-europa.html"
+    },
+    {
+      "titular": "Noche de violencia en Ceuta: tres marroquíes detenidos por robar a un guardia civil y una chica agredida con una navaja en el cuello",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-23T11:19:07+02:00",
+      "enlace": "https://www.abc.es/espana/noche-violencia-ceuta-tres-marroquies-detenidos-robar-20260823111907-nt.html"
+    },
+    {
+      "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
+      "medios": [
+        "RTVE"
+      ],
+      "consenso": 1,
+      "fecha": "2022-06-10T00:03:00+02:00",
+      "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
+    },
+    {
+      "titular": "Elma Saiz: “Algunos quieren inmigrantes, pero sin derechos. Quieren ciudadanos de primera y de segunda”",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-23T05:30:01+02:00",
+      "enlace": "https://elpais.com/espana/2026-08-23/elma-saiz-algunos-quieren-inmigrantes-pero-sin-derechos-quieren-ciudadanos-de-primera-y-de-segunda.html"
+    },
+    {
+      "titular": "Bruselas suaviza sus políticas climáticas por la presión de la industria y de algunos países",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-23T06:00:00+02:00",
+      "enlace": "https://www.lavanguardia.com/internacional/20260823/11618202/bruselas-suaviza-politicas-climaticas-presion-industria-paises.html"
+    },
+    {
+      "titular": "Rodrigo Sorogoyen y Victoria Luengo, en el abismo emocional de 'El ser querido'",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-23T11:05:40+02:00",
+      "enlace": "https://www.abc.es/cultura/rodrigo-sorogoyen-victoria-luengo-abismo-emocional-querido-20260823012428-nt.html"
+    }
+  ],
+  "salud": {
+    "feeds_totales": 5,
+    "feeds_ok": 4,
+    "feeds_caidos": [
+      "EFE"
+    ],
+    "antiguedad_minima_min": 11,
+    "detalle": [
+      {
+        "medio": "RTVE",
+        "url": "https://api2.rtve.es/rss/temas_noticias.xml",
+        "ok": true,
+        "items": 40,
+        "error": null,
+        "antiguedad_min": 2211025,
+        "descartados_por_gancho": 0
+      },
+      {
+        "medio": "EFE",
+        "url": "https://efe.com/feed/",
+        "ok": false,
+        "items": 0,
+        "error": "HTTP 500",
+        "antiguedad_min": null
+      },
+      {
+        "medio": "El País",
+        "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
+        "ok": true,
+        "items": 137,
+        "error": null,
+        "antiguedad_min": 15,
+        "descartados_por_gancho": 4
+      },
+      {
+        "medio": "La Vanguardia",
+        "url": "https://www.lavanguardia.com/rss/home.xml",
+        "ok": true,
+        "items": 120,
+        "error": null,
+        "antiguedad_min": 43,
+        "descartados_por_gancho": 22
+      },
+      {
+        "medio": "ABC",
+        "url": "https://www.abc.es/rss/2.0/portada/",
+        "ok": true,
+        "items": 23,
+        "error": null,
+        "antiguedad_min": 11,
+        "descartados_por_gancho": 2
+      }
+    ]
+  }
 }
