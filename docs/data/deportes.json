@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-08-23T15:52:46+02:00",
+  "generado": "2026-08-23T16:17:15+02:00",
   "titulares": [
     {
-      "titular": "El Barça de fútbol sala cierra la pretemporada con buenas sensaciones",
+      "titular": "Ya hay once del Atlético: la decisión de Simeone respecto a Julián Álvarez",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T15:26:37+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260823/1004218872/barca-futbol-sala-cierra-pretemporada-buenas-sensaciones.html"
+      "fecha": "2026-08-23T15:56:44+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20260823/1004218886/hay-once-atletico-decision-simeone-respecto-julian-alvarez.html"
     },
     {
-      "titular": "Laporta prefiere no hablar con el mercado en ebullición",
+      "titular": "Beitia o Marrero destacan entre los primeros realistas que se quedan sin minutos",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T15:23:43+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260823/1004218876/laporta-prefiere-no-hablar-mercado-ebullicion.html"
+      "fecha": "2026-08-23T15:34:13+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-sociedad/20260823/1004218883/beitia-marrero-destacan-primeros-realistas-quedan-minutos.html"
     },
     {
       "titular": "Las portadas en Inglaterra con Arteta son para verlas...",
@@ -50,23 +50,22 @@
       "enlace": "https://www.sport.es/es/noticias/premier-league/manchester-city-bournemouth-directo-sigue-133587531"
     },
     {
-      "titular": "La Vuelta se cita hoy con la historia del Tour",
+      "titular": "Baño de barcelonismo de Sandro Rosell, eufórico sobre la barra de un restaurante",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/ciclismo/vuelta-cita-hoy-historia-tour-tourmalet-sergi-lopez-egea-133588648"
+      "enlace": "https://www.sport.es/es/noticias/barca/bano-barcelonismo-sandro-rosell-euforico-133588905"
     },
     {
-      "titular": "Peligroso accidente de Verstappen en Zandvoort",
+      "titular": "Sigue la etapa 2 de la Vuelta de España, en directo",
       "medios": [
-        "Mundo Deportivo",
-        "Sport"
+        "Mundo Deportivo"
       ],
-      "consenso": 2,
-      "fecha": "2026-08-23T15:21:20+02:00",
-      "enlace": "https://www.mundodeportivo.com/motor/f1/20260823/1004218879/peligroso-accidente-verstappen-zandvoort.html"
+      "consenso": 1,
+      "fecha": "2026-08-23T15:29:37+02:00",
+      "enlace": "https://www.mundodeportivo.com/ciclismo/20260823/1004218861/vuelta-a-espana-2026-ciclismo-hoy-en-directo-etapa-2-ext-pau.html"
     }
   ],
   "salud": {
@@ -75,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 26,
+    "antiguedad_minima_min": 20,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +82,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 3722,
+        "antiguedad_min": 3746,
         "descartados_por_gancho": 12
       },
       {
@@ -99,9 +98,9 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 146,
+        "items": 143,
         "error": null,
-        "antiguedad_min": 26,
+        "antiguedad_min": 20,
         "descartados_por_gancho": 6
       },
       {

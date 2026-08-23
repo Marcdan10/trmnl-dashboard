@@ -2,7 +2,7 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "ultimas",
-  "generado": "2026-08-23T15:52:51+02:00",
+  "generado": "2026-08-23T16:17:21+02:00",
   "titulares": [
     {
       "titular": "La tecnología pionera del 12 de Octubre para frenar la odisea diagnóstica de patologías mitocondriales",
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 100,
+    "antiguedad_minima_min": 124,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 3055,
+        "antiguedad_min": 3080,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 2983,
+        "antiguedad_min": 3007,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 29,
         "error": null,
-        "antiguedad_min": 100,
+        "antiguedad_min": 124,
         "descartados_por_gancho": 1
       },
       {
