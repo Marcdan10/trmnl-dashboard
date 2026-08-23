@@ -2,16 +2,16 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-08-23T14:26:24+02:00",
+  "generado": "2026-08-23T15:10:20+02:00",
   "titulares": [
     {
-      "titular": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Feijóo reclama a Sánchez decretar el confinamiento en Ceuta por “riesgo sanitario” de sarna y tuberculosis",
+      "titular": "GP de Países Bajos en directo | Un accidente de Verstappen provoca una bandera roja",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T14:22:54+02:00",
-      "enlace": "https://elpais.com/espana/2026-08-23/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html"
+      "fecha": "2026-08-23T15:09:06+02:00",
+      "enlace": "https://elpais.com/deportes/formula-1/2026-08-23/gp-de-paises-bajos-en-directo-la-carrera-de-formula-1-en-vivo.html"
     },
     {
       "titular": "Aston Martin, de chasco en chasco: Alonso arrancará el 18º tras evidenciarse la ternura del nuevo motor Honda",
@@ -19,44 +19,44 @@
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T14:20:05+02:00",
+      "fecha": "2026-08-23T15:09:05+02:00",
       "enlace": "https://elpais.com/deportes/formula-1/2026-08-22/aston-martin-chasco-en-chasco-alonso-arrancara-el-18-tras-evidenciarse-la-ternura-del-nuevo-motor-honda.html"
     },
     {
-      "titular": "El nuevo look de Haaland: Adiós al pelo largo",
+      "titular": "Del Sahara a Ceuta y Melilla, la frontera que Marruecos quiere mover",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T13:18:53+02:00",
-      "enlace": "https://www.abc.es/gente/nuevo-look-haaland-adios-pelo-largo-20260823130654-nt.html"
+      "fecha": "2026-08-23T14:57:27+02:00",
+      "enlace": "https://www.abc.es/espana/sahara-ceuta-melilla-frontera-marruecos-quiere-mover-20260823013246-nt.html"
     },
     {
-      "titular": "Mourinho se estrena mostrando su versión más serena",
+      "titular": "El sistema Mohamed VI: un reino donde todas las decisiones conducen al Palacio",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T13:13:27+02:00",
-      "enlace": "https://www.abc.es/deportes/futbol/x-20260822234134-nt.html"
+      "fecha": "2026-08-23T14:56:51+02:00",
+      "enlace": "https://www.abc.es/espana/manda-marruecos-20260822013230-nt.html"
     },
     {
-      "titular": "Buscan a un empresario español que cayó de su barco entre Sicilia y Grecia",
+      "titular": "Un grupo de intelectuales piden la liberación del periodista argelino Ayoub Aïssiou",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T12:44:29+02:00",
-      "enlace": "https://www.lavanguardia.com/local/paisvasco/20260823/11618537/buscan-empresario-espanol-cayo-barco-sicilia-grecia.html"
+      "fecha": "2026-08-23T14:17:59+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20260823/11618554/grupo-intelectuales-piden-sanchez-macron-liberacion-periodista-argelino-ayoub-aissiou.html"
     },
     {
-      "titular": "El drástico cambio de look de Haaland: se rapa el pelo y sorprende con su nueva imagen",
+      "titular": "Si no quieres gastarte un dineral en un móvil para tu hijo, estos 7 no llegan a los 200 euros y son los que más recomiendo",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T12:35:09+02:00",
-      "enlace": "https://www.lavanguardia.com/clic/20260823/11618534/drastico-cambio-look-haaland-rapa-pelo-sorprende-nueva-imagen-lol.html"
+      "fecha": "2026-08-23T14:00:00+02:00",
+      "enlace": "https://www.lavanguardia.com/comprar/tecnologia/20260823/11617626/quieres-gastarte-dineral-movil-hijo-7-llegan-200-euros-son-mas-recomiendo-mkt-alie.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 3,
+    "antiguedad_minima_min": 1,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2211201,
+        "antiguedad_min": 2211245,
         "descartados_por_gancho": 0
       },
       {
@@ -99,7 +99,7 @@
         "ok": true,
         "items": 138,
         "error": null,
-        "antiguedad_min": 3,
+        "antiguedad_min": 1,
         "descartados_por_gancho": 4
       },
       {
@@ -108,7 +108,7 @@
         "ok": true,
         "items": 119,
         "error": null,
-        "antiguedad_min": 101,
+        "antiguedad_min": 52,
         "descartados_por_gancho": 23
       },
       {
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 24,
         "error": null,
-        "antiguedad_min": 67,
+        "antiguedad_min": 12,
         "descartados_por_gancho": 1
       }
     ]

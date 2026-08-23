@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-08-23T14:26:34+02:00",
+  "generado": "2026-08-23T15:10:26+02:00",
   "titulares": [
     {
-      "titular": "Ferran Adrià: \"Hay jetas que cogen a un becario y no le pagan. Si no te dan los números, sube los precios\"",
+      "titular": "Susto que pudo acabar en tragedia: a un campeón del mundo se le cae un cristal en México",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T13:59:05+02:00",
-      "enlace": "https://www.mundodeportivo.com/foodie/20260823/1004218852/ferran-adria-cocinero-catalan-hay-jetas-les-falta-persona-cogen-becario-no-le-pagan-no-perdona-falta-trabajo-pagale-no-te-dan-numeros-sube-precios-xef-dct.html"
+      "fecha": "2026-08-23T14:46:16+02:00",
+      "enlace": "https://www.mundodeportivo.com/padel/mas-padel/20260823/1004218857/susto-pudo-acabar-tragedia-campeon-mundo-le-rompe-cristal-mexico.html"
     },
     {
-      "titular": "Novedades en el Málaga con una salida de última hora",
+      "titular": "Sigue en directo la carrera de Fórmula 1 en Zandvoort",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T13:55:29+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/20260823/1004218851/novedades-malaga-salida-ultima-hora.html"
+      "fecha": "2026-08-23T14:35:48+02:00",
+      "enlace": "https://www.mundodeportivo.com/motor/f1/20260823/1004218635/f1-directo-carrera-gp-paises-bajos-formula-1-zandvoort.html"
     },
     {
       "titular": "Las portadas en Inglaterra con Arteta son para verlas...",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/rayo/2026/08/21/camello-agotados-situacion-distancia-tres-partes.html"
     },
     {
-      "titular": "Buksa, tras firmar con el Mallorca: \"El año pasado estuve en la isla como turista y vi el partido contra el Celta\"",
+      "titular": "El padre de Fermín López: “Con 18 años, antes de ir a Linares, él prefirió seguir viviendo en La Masia en lugar de buscarse un piso como ya tuvo que hacer en Linares. El trato que tuvo fue espectacular”",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/mallorca/buksa-firmar-mallorca-ano-pasado-133587511"
+      "enlace": "https://www.sport.es/es/noticias/barca/padre-fermin-lopez-18-anos-133584379"
     },
     {
-      "titular": "El Unicaja hace piña en la Feria",
+      "titular": "Atlético de Madrid - Villarreal: siga en directo la segunda jornada de LaLiga EA Sports 2026-27",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/baloncesto/unicaja-pina-feria-133587390"
+      "enlace": "https://www.sport.es/es/noticias/laliga/atletico-madrid-villarreal-siga-directo-133587927"
     },
     {
-      "titular": "Sánchez Martínez y las nuevas normas de arbitraje: \"Teníamos que poner de nuestra parte para tener más continuidad\"",
+      "titular": "¿Qué necesita Alex Palou para ser campeón en Washington?",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T13:30:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260823/1004218839/sanchez-martinez-nuevas-normas-arbitraje-teniamos-poner-nuestra-parte-continuidad.html"
+      "fecha": "2026-08-23T14:34:49+02:00",
+      "enlace": "https://www.mundodeportivo.com/motor/indycar/20260823/1004218868/necesita-alex-palou-campeon-washington.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 27,
+    "antiguedad_minima_min": 24,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 3635,
+        "antiguedad_min": 3679,
         "descartados_por_gancho": 12
       },
       {
@@ -98,16 +98,16 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 148,
+        "items": 146,
         "error": null,
-        "antiguedad_min": 27,
+        "antiguedad_min": 24,
         "descartados_por_gancho": 6
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 50,
+        "items": 49,
         "error": null,
         "antiguedad_min": null,
         "descartados_por_gancho": 0

@@ -2,8 +2,26 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-08-23T14:26:32+02:00",
+  "generado": "2026-08-23T15:10:23+02:00",
   "titulares": [
+    {
+      "titular": "Cuerpo viaja a Ceuta para abordar con empresas el apoyo económico tras la crisis migratoria",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-23T14:38:47+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/08/23/6a8ae6f3e5fdead7528b458e.html"
+    },
+    {
+      "titular": "CaixaBank financia con 2.500 millones de euros al sector turístico en el primer semestre",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-23T14:06:50+02:00",
+      "enlace": "https://www.expansion.com/empresas/banca/2026/08/23/6a8ae099468aeb9f3a8b458f.html"
+    },
     {
       "titular": "Así es Chris Xu, el fundador de Shein conocido como el \"directivo más anónimo del mundo\"",
       "medios": [
@@ -48,24 +66,6 @@
       "consenso": 1,
       "fecha": "2026-08-23T11:44:23+02:00",
       "enlace": "https://www.expansion.com/ahorro/pensiones/2026/08/23/6a8abc75468aeb26388b459f.html"
-    },
-    {
-      "titular": "Paramount y el estado de California mantendrán conversaciones sobre la fusión con Warner",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-23T11:21:38+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/08/23/6a8aba19e5fdead74c8b4572.html"
-    },
-    {
-      "titular": "Cuánto cuestan los alquileres en las grandes capitales",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-22T20:57:34+02:00",
-      "enlace": "https://www.expansion.com/inmobiliario/2026/08/22/6a89a209468aeb26388b458e.html"
     }
   ],
   "salud": {
@@ -78,7 +78,7 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 60,
+    "antiguedad_minima_min": 31,
     "detalle": [
       {
         "medio": "Expansión",
@@ -86,7 +86,7 @@
         "ok": true,
         "items": 69,
         "error": null,
-        "antiguedad_min": 60,
+        "antiguedad_min": 31,
         "descartados_por_gancho": 1
       },
       {
