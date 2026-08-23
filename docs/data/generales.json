@@ -2,25 +2,16 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-08-23T19:43:30+02:00",
+  "generado": "2026-08-23T20:19:50+02:00",
   "titulares": [
     {
-      "titular": "Alcaldes de la Costa Dourada piden reformar la vía del tren para evitar nuevas inundaciones",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-23T19:29:54+02:00",
-      "enlace": "https://www.lavanguardia.com/local/barcelona/20260823/11618633/alcaldes-costa-dourada-piden-reformar-tren-evitar-nuevas-inundaciones.html"
-    },
-    {
-      "titular": "Duelo de titanes Pogacar-Van Aert y triunfo de Brenan",
+      "titular": "Julián Álvarez ignora a un Metropolitano que no le perdona",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T19:14:05+02:00",
-      "enlace": "https://www.abc.es/deportes/ciclismo/duelo-titanes-pogacarvan-aert-triunfo-brenan-20260823180201-nt.html"
+      "fecha": "2026-08-23T20:12:21+02:00",
+      "enlace": "https://www.abc.es/deportes/atletico-madrid/xxxx-20260823161400-nt.html"
     },
     {
       "titular": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Feijóo reclama a Sánchez decretar el confinamiento por “riesgo sanitario” de los migrantes con sarna y tuberculosis",
@@ -28,26 +19,35 @@
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T19:10:00+02:00",
+      "fecha": "2026-08-23T20:05:57+02:00",
       "enlace": "https://elpais.com/espana/2026-08-23/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html"
     },
     {
-      "titular": "El Atlético pincha en casa con el Villarreal",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-23T19:06:16+02:00",
-      "enlace": "https://www.abc.es/deportes/atletico-madrid/atletico-madrid-villarreal-directo-resultado-ganador-goles-20260823094756-di.html"
-    },
-    {
-      "titular": "El inicio de la época de Brennan, el heredero de Cavendish",
+      "titular": "El Liverpool salva un empate de penalti provocado por Víctor Muñoz en el debut de Araújo",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T18:48:52+02:00",
-      "enlace": "https://www.lavanguardia.com/deportes/20260823/11618624/inicio-epoca-brennan-heredero-cavendish.html"
+      "fecha": "2026-08-23T19:54:28+02:00",
+      "enlace": "https://www.lavanguardia.com/deportes/20260823/11618636/liverpool-salva-empate-penalti-provocado-victor-munoz-debut-araujo.html"
+    },
+    {
+      "titular": "Paulo Vilca, politólogo: “Hay heridas profundas en el sur andino por la represión de 2023”",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-23T19:49:54+02:00",
+      "enlace": "https://www.lavanguardia.com/internacional/20260823/11606529/paulo-vilca-politologo-hay-heridas-profundas-sur-andino-represion-2023.html"
+    },
+    {
+      "titular": "Feijóo pide confinar a los inmigrantes del asalto a Ceuta por riesgo sanitario y Sanidad habla de medida desmesurada",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-23T19:34:53+02:00",
+      "enlace": "https://www.abc.es/espana/feijoo-pide-confinar-inmigrantes-asalto-ceuta-riesgo-20260823193030-nt.html"
     },
     {
       "titular": "Brennan culmina la jugada maestra del Visma en la Vuelta a España",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 13,
+    "antiguedad_minima_min": 7,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2211518,
+        "antiguedad_min": 2211554,
         "descartados_por_gancho": 0
       },
       {
@@ -99,7 +99,7 @@
         "ok": true,
         "items": 134,
         "error": null,
-        "antiguedad_min": 33,
+        "antiguedad_min": 13,
         "descartados_por_gancho": 6
       },
       {
@@ -108,7 +108,7 @@
         "ok": true,
         "items": 119,
         "error": null,
-        "antiguedad_min": 13,
+        "antiguedad_min": 25,
         "descartados_por_gancho": 21
       },
       {
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 24,
         "error": null,
-        "antiguedad_min": 29,
+        "antiguedad_min": 7,
         "descartados_por_gancho": 1
       }
     ]

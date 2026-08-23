@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-08-23T19:43:34+02:00",
+  "generado": "2026-08-23T20:19:54+02:00",
   "titulares": [
     {
-      "titular": "Alfonso, profesor en Londres, cuenta su experiencia en una tutoría con una familia española: \"Tenían la certeza de que los ingleses no los entendían\"",
+      "titular": "Elche - Barcelona, la previa en directo",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T19:22:12+02:00",
-      "enlace": "https://www.mundodeportivo.com/tressesenta/20260823/1004218952/alfonso-profesor-londres-cuenta-experiencia-tutoria-familia-espanola-tenian-certeza-ingleses-no-entendian-dct.html"
+      "fecha": "2026-08-23T19:58:54+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260823/1004218639/elche-barcelona-directo-laliga-ea-sports-primera-division-futbol.html"
     },
     {
-      "titular": "Un mes para los 40 y Giroud sigue marcando estos tremendos golazos",
+      "titular": "\"Yo creo que Cristóbal Colón ya había estado en América antes\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T19:15:57+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/ligue-1/20260823/1004218950/mes-40-giroud-sigue-marcando-tremendos-golazos.html"
+      "fecha": "2026-08-23T19:53:03+02:00",
+      "enlace": "https://www.mundodeportivo.com/actualidad/20260823/1004218913/carlos-leon-arqueologo-marino-creo-cristobal-colon-habia-america-smd-hst.html"
     },
     {
       "titular": "Las portadas en Inglaterra con Arteta son para verlas...",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/rayo/2026/08/21/camello-agotados-situacion-distancia-tres-partes.html"
     },
     {
-      "titular": "Sonoro empate en el Metropolitano",
+      "titular": "Xavi Espart y Raphinha, las grandes novedades en el once del Barça",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/laliga/sonoro-empate-metropolitano-133590320"
+      "enlace": "https://www.sport.es/es/noticias/barca/xavi-espart-raphinha-grandes-novedades-133593807"
     },
     {
-      "titular": "Víctor Muñoz endulza el debut de Araujo",
+      "titular": "Lucas Núñez y Víctor Jr se ven cara a cara en la segunda jornada de LaLiga Hypermotion",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/premier-league/victor-munoz-endulza-debut-araujo-133593304"
+      "enlace": "https://www.sport.es/es/noticias/valencia/lucas-nunez-victor-jr-ven-133595130"
     },
     {
-      "titular": "Pogacar no baja nunca el listón: \"Podía haber ganado la segunda etapa de La Vuelta\"",
+      "titular": "1-0: Álvaro Rodríguez de la victoria al Eibar",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T19:13:33+02:00",
-      "enlace": "https://www.mundodeportivo.com/ciclismo/vuelta-espana/20260823/1004218949/pogacar-no-baja-nunca-liston-podia-haber-ganado-segunda-etapa-vuelta.html"
+      "fecha": "2026-08-23T19:44:08+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/liga-segunda-division/20260823/1004218959/alvaro-rodriguez-victoria-eibar.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 21,
+    "antiguedad_minima_min": 20,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 3952,
+        "antiguedad_min": 3989,
         "descartados_por_gancho": 12
       },
       {
@@ -98,10 +98,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 140,
+        "items": 139,
         "error": null,
-        "antiguedad_min": 21,
-        "descartados_por_gancho": 7
+        "antiguedad_min": 20,
+        "descartados_por_gancho": 6
       },
       {
         "medio": "Sport",
