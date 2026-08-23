@@ -1,26 +1,26 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "portadas",
-  "generado": "2026-08-23T11:51:25+02:00",
+  "modo": "ultimas",
+  "generado": "2026-08-23T12:17:09+02:00",
   "titulares": [
     {
-      "titular": "¡Balde, fuera de la lista de convocados del Barça para Elche!",
+      "titular": "Cómo hacer croquetas caseras como hace mi madre: yo pensaba que todo dependía de la bechamel, pero la diferencia estaba en dejar la masa toda la noche en la nevera",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T11:06:13+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260823/1004218781/lista-convocados-barca-elche-tres-fichajes-seis-filial.html"
+      "fecha": "2026-08-23T11:45:47+02:00",
+      "enlace": "https://www.mundodeportivo.com/foodie/recetas/20260823/1004218691/croquetas-mi-madre-fallo-no-bechamel-horas-nevera-nadie-respeta.html"
     },
     {
-      "titular": "Haaland se rapa y dice adiós a su icónica coleta",
+      "titular": "Guido pide “ambición y unión” tras los primeros pitos en Mestalla",
       "medios": [
-        "Sport"
+        "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/futbol-internacional/haaland-rapa-dice-adios-iconica-133583539"
+      "fecha": "2026-08-23T11:40:14+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/valencia/20260823/1004218821/guido-pide-ambicion-union-primeros-pitos-mestalla.html"
     },
     {
       "titular": "Las portadas en Inglaterra con Arteta son para verlas...",
@@ -32,24 +32,6 @@
       "enlace": "https://www.marca.com/futbol/album/2026/08/21/portadas-dia.html"
     },
     {
-      "titular": "El Borussia Dortmund, en Barcelona para cerrar el fichaje de Hèctor Fort",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-23T10:15:48+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260823/1004218803/borussia-dortmund-barcelona-cerrar-fichaje-hector-fort.html"
-    },
-    {
-      "titular": "Málaga CF - RC Deportivo: Horario y dónde ver en TV y online la primera jornada de LaLiga EA Sports",
-      "medios": [
-        "Sport"
-      ],
-      "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/futbol/malaga-cf-rc-deportivo-horario-133583625"
-    },
-    {
       "titular": "\"Si hubiese estado fresco no habríamos perdido\"",
       "medios": [
         "Marca"
@@ -59,13 +41,31 @@
       "enlace": "https://www.marca.com/futbol/rayo/2026/08/21/camello-agotados-situacion-distancia-tres-partes.html"
     },
     {
-      "titular": "Un central depende de Balde o Koundé",
+      "titular": "Horas clave para Julián: el recibimiento que puede cambiarlo todo",
+      "medios": [
+        "Sport"
+      ],
+      "consenso": 1,
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/barca/horas-clave-julian-recibimiento-cambiarlo-133584252"
+    },
+    {
+      "titular": "Atlético de Madrid - Villarreal: horario y dónde ver el partido de LaLiga EA Sports por TV, online y en directo",
+      "medios": [
+        "Sport"
+      ],
+      "consenso": 1,
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/laliga/atletico-madrid-villarreal-horario-ver-133469131"
+    },
+    {
+      "titular": "\"Stoner es alguien que siempre está observando, pero elige con cuidado el momento para hablar\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T06:30:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260823/1004218750/central-depende-balde-kounde.html"
+      "fecha": "2026-08-23T11:35:55+02:00",
+      "enlace": "https://www.mundodeportivo.com/motor/motogp/20260823/1004218819/stoner-alguien-siempre-esta-observando-elige-cuidado-momento-hablar-no-dicen-constantemente-piensan-palabras-son-invaluables-smd.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 25,
+    "antiguedad_minima_min": 31,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 3480,
+        "antiguedad_min": 3506,
         "descartados_por_gancho": 12
       },
       {
@@ -100,8 +100,8 @@
         "ok": true,
         "items": 148,
         "error": null,
-        "antiguedad_min": 25,
-        "descartados_por_gancho": 5
+        "antiguedad_min": 31,
+        "descartados_por_gancho": 6
       },
       {
         "medio": "Sport",

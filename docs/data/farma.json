@@ -1,17 +1,26 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "portadas",
-  "generado": "2026-08-23T11:51:31+02:00",
+  "modo": "ultimas",
+  "generado": "2026-08-23T12:17:13+02:00",
   "titulares": [
     {
-      "titular": "Más de un millón de altas en la plataforma de historia clínica de la Fundación IDIS",
+      "titular": "Feijóo pide confinar Ceuta por \"riesgo sanitario\" ante los casos de tuberculosis, sarna y gastroenteritis",
       "medios": [
-        "Diariofarma"
+        "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-08-21T12:56:57+02:00",
-      "enlace": "https://diariofarma.com/2026/08/21/la-historia-clinica-compartida-de-la-fundacion-idis-mihc-supera-el-millon-de-altas"
+      "fecha": "2026-08-23T11:54:51+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/20260823/feijoo-pide-confinar-ceuta-por-riesgo-sanitario-ante-los-casos-de-tuberculosis-sarna-gastroenteritis/349515_0.html"
+    },
+    {
+      "titular": "El suelo pélvico exige un abordaje multidisciplinar: \"Normalizamos la incontinencia\"",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-23T11:51:29+02:00",
+      "enlace": "https://www.redaccionmedica.com/profesionales/20260823/el-suelo-pelvico-exige-un-abordaje-multidisciplinar-normalizamos-la-incontinencia/349338_0.html"
     },
     {
       "titular": "Cofares se prepara para la nueva era del medicamento con 25 millones de inversión",
@@ -23,13 +32,13 @@
       "enlace": "https://elglobalfarma.com/farmacia/cofares-nueva-era-medicamento-25-millones-inversion/"
     },
     {
-      "titular": "Entre la bata y los fogones: Yu, la médica de Familia que ha abierto un puesto de gyozas",
+      "titular": "Más de un millón de altas en la plataforma de historia clínica de la Fundación IDIS",
       "medios": [
-        "Redacción Médica"
+        "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T10:02:52+02:00",
-      "enlace": "https://www.redaccionmedica.com/profesionales/20260823/entre-la-bata-los-fogones-yu-medica-de-familia-que-ha-abierto-un-puesto-gyozas/349297_0.html"
+      "fecha": "2026-08-21T12:56:57+02:00",
+      "enlace": "https://diariofarma.com/2026/08/21/la-historia-clinica-compartida-de-la-fundacion-idis-mihc-supera-el-millon-de-altas"
     },
     {
       "titular": "La SEMG muestra su apoyo a los profesionales sanitarios de Ceuta",
@@ -50,22 +59,13 @@
       "enlace": "https://elglobalfarma.com/politica/curso-aceleron-normativo-farmaceutico-tres-leyes-clave-marcan-final-legislatura/"
     },
     {
-      "titular": "'No' de los tutores MIR al nuevo diploma de acreditación: \"El colectivo no necesita más papeles, sabe que está capacitado\"",
+      "titular": "Más de 150 militares piden garantías higiénico-sanitarias a su llegada a Ceuta tras el brote de sarna",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-08-22T17:58:32+02:00",
-      "enlace": "https://www.redaccionmedica.com/formacion/mir/20260822/no-de-los-tutores-mir-al-nuevo-diploma-acreditacion-el-colectivo-no-necesita-mas-papeles-sabe-que-esta-capacitado/349327_0.html"
-    },
-    {
-      "titular": "Más consultas en urgencias por patologías asociadas al calor y la actividades estivales",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-20T12:21:29+02:00",
-      "enlace": "https://diariofarma.com/2026/08/20/mas-consultas-en-urgencias-por-patologias-asociadas-al-calor-y-la-actividades-estivales"
+      "fecha": "2026-08-23T10:31:50+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20260823/mas-de-militares-piden-garantias-higienico-sanitarias-su-llegada-ceuta-tras-el-brote-sarna/349513_0.html"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 79,
+    "antiguedad_minima_min": 22,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 2814,
+        "antiguedad_min": 2840,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 2741,
+        "antiguedad_min": 2767,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 79,
+        "antiguedad_min": 22,
         "descartados_por_gancho": 0
       },
       {

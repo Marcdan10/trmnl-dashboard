@@ -1,26 +1,35 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "portadas",
-  "generado": "2026-08-23T11:51:22+02:00",
+  "modo": "ultimas",
+  "generado": "2026-08-23T12:17:07+02:00",
   "titulares": [
     {
-      "titular": "Carney dice que Canadá tomará represalias por los aranceles de EEUU desde el 8 de septiembre",
+      "titular": "Puente acusa a Ryanair de \"disfrazar sus problemas\" de falta de aviones con su presión sobre las tasas",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-08-22T19:26:58+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/08/22/6a89d91de5fdeaac2a8b4580.html"
+      "fecha": "2026-08-23T12:01:55+02:00",
+      "enlace": "https://www.expansion.com/empresas/transporte/2026/08/23/6a8ac12ce5fdea53398b459b.html"
     },
     {
-      "titular": "Ránking de las grandes cotizadas: los grupos del Ibex suben la deuda neta un 2,4% hasta junio",
+      "titular": "Los fondos de pensiones perderán 74.000 millones hasta 2040 si no se incluyen incentivos",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-08-22T20:57:33+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/08/22/6a7c4fff468aeb65678b4573.html"
+      "fecha": "2026-08-23T11:44:23+02:00",
+      "enlace": "https://www.expansion.com/ahorro/pensiones/2026/08/23/6a8abc75468aeb26388b459f.html"
+    },
+    {
+      "titular": "Paramount y el estado de California mantendrán conversaciones sobre la fusión con Warner",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-23T11:21:38+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/08/23/6a8aba19e5fdead74c8b4572.html"
     },
     {
       "titular": "Cuánto cuestan los alquileres en las grandes capitales",
@@ -32,40 +41,31 @@
       "enlace": "https://www.expansion.com/inmobiliario/2026/08/22/6a89a209468aeb26388b458e.html"
     },
     {
-      "titular": "Las mejores ofertas para el ahorro conservador",
+      "titular": "Ránking de las grandes cotizadas: los grupos del Ibex suben la deuda neta un 2,4% hasta junio",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-08-21T23:57:03+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/08/21/6a88b220e5fdeab2388b45a7.html"
+      "fecha": "2026-08-22T20:57:33+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/08/22/6a7c4fff468aeb65678b4573.html"
     },
     {
-      "titular": "Valores tranquilos y con buenos dividendos para batir la inflación",
+      "titular": "Ralph Lauren triunfa con la moda de regreso a la oficina",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-08-21T23:54:42+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/08/21/6a88a791e5fdeadf1e8b45b9.html"
+      "fecha": "2026-08-22T20:04:03+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/08/22/6a89e23de5fdeaf9538b4585.html"
     },
     {
-      "titular": "Los fondos monetarios más atractivos para proteger el ahorro",
+      "titular": "Las 'ballenas' del bitcoin retornan azuzadas por la caída de precios",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-08-21T23:56:04+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/08/21/6a8891d5e5fdeadf1e8b45b1.html"
-    },
-    {
-      "titular": "Ibiza y Formentera, las islas de verano de Ramón Freixa",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-21T23:17:31+02:00",
-      "enlace": "https://www.expansion.com/directivos/estilo-vida/rincones-gastronomicos/2026/08/21/6a8845f2e5fdea5d7e8b4575.html"
+      "fecha": "2026-08-22T19:53:00+02:00",
+      "enlace": "https://www.expansion.com/mercados/criptomonedas/2026/08/22/6a89e026e5fdea6f488b458a.html"
     }
   ],
   "salud": {
@@ -78,7 +78,7 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 6,
+    "antiguedad_minima_min": 15,
     "detalle": [
       {
         "medio": "Expansión",
@@ -86,7 +86,7 @@
         "ok": true,
         "items": 69,
         "error": null,
-        "antiguedad_min": 6,
+        "antiguedad_min": 15,
         "descartados_por_gancho": 1
       },
       {
