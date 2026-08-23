@@ -2,8 +2,35 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-08-23T12:48:10+02:00",
+  "generado": "2026-08-23T13:15:45+02:00",
   "titulares": [
+    {
+      "titular": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Feijóo reclama a Sánchez decretar el confinamiento en Ceuta por “riesgo sanitario” de sarna y tuberculosis",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-23T13:14:33+02:00",
+      "enlace": "https://elpais.com/espana/2026-08-23/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html"
+    },
+    {
+      "titular": "El nuevo look de Haaland: Adiós al pelo largo",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-23T13:06:54+02:00",
+      "enlace": "https://www.abc.es/gente/nuevo-look-haaland-adios-pelo-largo-20260823130654-nt.html"
+    },
+    {
+      "titular": "Investigan el hallazgo de dos cadáveres en plena calle en un pueblo de León",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-23T13:03:40+02:00",
+      "enlace": "https://www.abc.es/espana/castilla-leon/investigan-hallazgo-dos-cadaveres-plena-calle-pueblo-20260823125151-nt.html"
+    },
     {
       "titular": "El drástico cambio de look de Haaland: se rapa el pelo y sorprende con su nueva imagen",
       "medios": [
@@ -14,15 +41,6 @@
       "enlace": "https://www.lavanguardia.com/clic/20260823/11618534/drastico-cambio-look-haaland-rapa-pelo-sorprende-nueva-imagen-lol.html"
     },
     {
-      "titular": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Feijóo reclama a Sánchez decretar el confinamiento en Ceuta por “riesgo sanitario” de sarna y tuberculosis",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-23T12:31:19+02:00",
-      "enlace": "https://elpais.com/espana/2026-08-23/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html"
-    },
-    {
       "titular": "Investigan una agresión sexual a una joven en Alpicat",
       "medios": [
         "La Vanguardia"
@@ -30,24 +48,6 @@
       "consenso": 1,
       "fecha": "2026-08-23T12:16:41+02:00",
       "enlace": "https://www.lavanguardia.com/local/lleida/20260823/11618527/investigan-agresion-sexual-joven-alpicat.html"
-    },
-    {
-      "titular": "Malestar de los guardias civiles destinados en Senegal: incendios intencionados de coches y bichos en la cocina",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-23T12:09:32+02:00",
-      "enlace": "https://www.abc.es/espana/malestar-guardias-civiles-destinados-senegal-incendios-intencionados-20260823105215-nt.html"
-    },
-    {
-      "titular": "El falso BMW que delató a Carlitos, «el rey del butrón», y su nueva alianza serbio-rumana",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-23T11:55:36+02:00",
-      "enlace": "https://www.abc.es/espana/madrid/falso-bmw-delato-carlitos-rey-butron-nueva-20260820012644-nt.html"
     },
     {
       "titular": "Moreno pide al Gobierno reactivar una unidad de la Guardia Civil contra el narcotráfico desmantelada por Interior en 2022",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 13,
+    "antiguedad_minima_min": 1,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2211103,
+        "antiguedad_min": 2211130,
         "descartados_por_gancho": 0
       },
       {
@@ -99,7 +99,7 @@
         "ok": true,
         "items": 137,
         "error": null,
-        "antiguedad_min": 16,
+        "antiguedad_min": 1,
         "descartados_por_gancho": 4
       },
       {
@@ -108,17 +108,17 @@
         "ok": true,
         "items": 119,
         "error": null,
-        "antiguedad_min": 13,
+        "antiguedad_min": 40,
         "descartados_por_gancho": 23
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 23,
+        "items": 24,
         "error": null,
-        "antiguedad_min": 38,
-        "descartados_por_gancho": 2
+        "antiguedad_min": 8,
+        "descartados_por_gancho": 1
       }
     ]
   }
