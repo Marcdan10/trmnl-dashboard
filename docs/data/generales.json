@@ -2,62 +2,61 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-08-24T13:21:20+02:00",
+  "generado": "2026-08-24T13:52:03+02:00",
   "titulares": [
-    {
-      "titular": "Ayuso esquiva la polémica con Feijóo sobre el ático que compró la Comunidad: «Está en venta, 'chao, pescao'»",
-      "medios": [
-        "El País",
-        "ABC"
-      ],
-      "consenso": 2,
-      "fecha": "2026-08-24T12:58:22+02:00",
-      "enlace": "https://www.abc.es/espana/madrid/ayuso-esquiva-polemica-feijoo-sobre-atico-compro-20260824122429-nt.html"
-    },
     {
       "titular": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Elma Saiz considera una “irresponsabilidad mayúscula” las declaraciones de Feijóo sobre confinar Ceuta",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T12:36:14+02:00",
+      "fecha": "2026-08-24T13:48:33+02:00",
       "enlace": "https://elpais.com/espana/2026-08-24/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html"
     },
     {
-      "titular": "Aruberuto Makoto (Alberto Alonso) desaparece de las redes tras acosar sexualmente en directo a una joven",
+      "titular": "El precio de los pisos en alquiler en Idealista y Fotocasa, en el punto de mira del Gobierno",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T12:28:23+02:00",
-      "enlace": "https://www.abc.es/gente/aruberuto-makoto-alberto-alonso-desaparece-redes-tras-20260824122823-nt.html"
+      "fecha": "2026-08-24T13:40:14+02:00",
+      "enlace": "https://www.abc.es/economia/gobierno-quiere-inmobiliarias-informen-precio-limite-alquiler-20260819013129-nt.html"
     },
     {
-      "titular": "Lo que se sabe de la desaparición del empresario burgalés tras caer al mar en Italia: desatención y una mujer destrozada",
+      "titular": "Cuida de tu mascota con las mejores tiendas de animales de 2026: ¿cuáles son?",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T12:08:00+02:00",
-      "enlace": "https://www.abc.es/espana/castilla-leon/sabe-desaparicion-empresario-burgales-tras-caer-mar-20260824114509-nt.html"
+      "fecha": "2026-08-24T13:40:04+02:00",
+      "enlace": "https://www.abc.es/favorito/cuida-mascota-mejores-tiendas-animales-2026-20260824095318-nt.html"
     },
     {
-      "titular": "Brad Pitt visitará el festival de San Sebastián para presentar 'En el corazón de la bestia'",
+      "titular": "Muere un trabajador al volcar la máquina que manejaba en el parque de Enrique Tierno Galván de Madrid",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-24T13:22:56+02:00",
+      "enlace": "https://elpais.com/espana/madrid/2026-08-24/muere-un-trabajador-al-volcar-la-maquina-que-manejaba-en-el-parque-de-enrique-tierno-galvan-de-madrid.html"
+    },
+    {
+      "titular": "León XIV conoce al saxofonista de los Blues Brothers, uno de sus ídolos de su juventud",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T11:58:00+02:00",
-      "enlace": "https://www.lavanguardia.com/cultura/20260824/11618949/brad-pitt-visitara-festival-san-sebastian-presentar-corazon-bestia.html"
+      "fecha": "2026-08-24T13:06:05+02:00",
+      "enlace": "https://www.lavanguardia.com/gente/20260824/11619015/mision-dios-leon-xiv-conoce-saxofonista-blues-brothers-idolos-juventud.html"
     },
     {
-      "titular": "Cae el líder del clan familiar de los Fanchos en la operación con 1.400 kilos de cocaína en A Pobra",
+      "titular": "El balón de la 'Mano de Dios' de Maradona se vende por más de tres millones de dólares",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T11:39:34+02:00",
-      "enlace": "https://www.lavanguardia.com/local/galicia/20260824/11618933/cae-lider-clan-familiar-fanchos-operacion-1-400-kilos-cocaina-pobra.html"
+      "fecha": "2026-08-24T12:53:09+02:00",
+      "enlace": "https://www.lavanguardia.com/deportes/20260824/11619010/balon-mano-dios-maradona-vende-2-9-millones.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -75,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 22,
+    "antiguedad_minima_min": 3,
     "detalle": [
       {
         "medio": "RTVE",
@@ -83,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2212576,
+        "antiguedad_min": 2212607,
         "descartados_por_gancho": 0
       },
       {
@@ -100,17 +99,17 @@
         "ok": true,
         "items": 136,
         "error": null,
-        "antiguedad_min": 45,
+        "antiguedad_min": 3,
         "descartados_por_gancho": 7
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 103,
+        "items": 106,
         "error": null,
-        "antiguedad_min": 83,
-        "descartados_por_gancho": 19
+        "antiguedad_min": 45,
+        "descartados_por_gancho": 18
       },
       {
         "medio": "ABC",
@@ -118,7 +117,7 @@
         "ok": true,
         "items": 23,
         "error": null,
-        "antiguedad_min": 22,
+        "antiguedad_min": 11,
         "descartados_por_gancho": 2
       }
     ]

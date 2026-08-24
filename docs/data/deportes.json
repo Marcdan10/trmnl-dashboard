@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-08-24T13:21:26+02:00",
+  "generado": "2026-08-24T13:52:08+02:00",
   "titulares": [
     {
-      "titular": "Balde se entrena con normalidad a la espera de aclarar su futuro",
+      "titular": "Alcaraz y Serena Williams ya tienen hora de inicio en el US Open",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T12:46:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260824/1004219184/balde-entrena-normalidad-espera-aclarar-futuro.html"
+      "fecha": "2026-08-24T13:19:27+02:00",
+      "enlace": "https://www.mundodeportivo.com/tenis/open-usa/20260824/1004219191/alcaraz-serena-williams-hora-inicio-us-open.html"
     },
     {
-      "titular": "Un descartado que hace goles con esmoquin",
+      "titular": "Maffeo: \"Hice cosas mal, pero quien piensa que soy difícil no me conoce\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T12:38:21+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/sevilla/20260824/1004219181/descartado-goles-esmoquin.html"
+      "fecha": "2026-08-24T13:19:24+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/valencia/20260824/1004219196/maffeo-hice-cosas-mal-piensa-dificil-no-me-conoce.html"
     },
     {
       "titular": "Las portadas en Inglaterra con Arteta son para verlas...",
@@ -41,32 +41,31 @@
       "enlace": "https://www.marca.com/futbol/rayo/2026/08/21/camello-agotados-situacion-distancia-tres-partes.html"
     },
     {
-      "titular": "Andre Agassi: \"Djokovic, Federer y Nadal jugaron de maneras muy diferentes, y cada uno fue genial a su manera. Y ahora ves a Alcaraz, que juega como los tres cuando quiere”",
+      "titular": "Ebrima, baja en la selección por lesión",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/tenis/andre-agassi-djokovic-federer-nadal-133608043"
+      "enlace": "https://www.sport.es/es/noticias/barca/ebrima-baja-seleccion-lesion-133612032"
     },
     {
-      "titular": "Giorgi Kochorashvili explica su encaje en el Sevilla: \"Soy un 6 o un 8, más bien un 8\"",
+      "titular": "De capitán a capitán del Villarreal: El aval de Gerard Moreno a Iñigo Pérez",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/sevilla/giorgi-kochorashvili-explica-encaje-sevilla-133610524"
+      "enlace": "https://www.sport.es/es/noticias/villarreal/capitan-capitan-villarreal-aval-gerard-133612393"
     },
     {
-      "titular": "El Barça denuncia el uso desproporcionado de fuerza contra sus seguidores y la retirada de esteladas",
+      "titular": "Xavi Espart amplía su repertorio",
       "medios": [
-        "Mundo Deportivo",
-        "Sport"
+        "Mundo Deportivo"
       ],
-      "consenso": 2,
-      "fecha": "2026-08-24T12:38:03+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260824/1004219178/barca-denuncia-desproporcionado-fuerza-seguidores-retirada-esteladas.html"
+      "consenso": 1,
+      "fecha": "2026-08-24T13:16:53+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260824/1004219160/xavi-espart-amplia-repertorio.html"
     }
   ],
   "salud": {
@@ -75,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 35,
+    "antiguedad_minima_min": 32,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +82,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 5010,
+        "antiguedad_min": 5041,
         "descartados_por_gancho": 12
       },
       {
@@ -99,9 +98,9 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 139,
+        "items": 140,
         "error": null,
-        "antiguedad_min": 35,
+        "antiguedad_min": 32,
         "descartados_por_gancho": 7
       },
       {
