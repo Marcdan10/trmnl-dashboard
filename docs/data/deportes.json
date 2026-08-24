@@ -1,26 +1,26 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "ultimas",
-  "generado": "2026-08-24T23:54:31+02:00",
+  "modo": "portadas",
+  "generado": "2026-08-25T00:18:55+02:00",
   "titulares": [
     {
-      "titular": "La Real Sociedad busca la fórmula para llevarse a Héctor Fort",
+      "titular": "Julián sigue alimentando el sueño del Barça",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T23:03:44+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260824/1004219384/real-sociedad-busca-formula-llevarse-hector-fort.html"
+      "fecha": "2026-08-24T22:52:35+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260824/1004219387/julian-sigue-alimentando-sueno-barca.html"
     },
     {
-      "titular": "Hay acuerdo con el Chelsea y Sarr va a ser el primer fichaje de la Real",
+      "titular": "Esta es la portada de SPORT, hoy martes 24 de agosto de 2026",
       "medios": [
-        "Mundo Deportivo"
+        "Sport"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T22:57:01+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-sociedad/20260824/1004219388/hay-acuerdo-chelsea-sarr-primer-fichaje-real.html"
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/la-portada-de-sport/portada-sport-hoy-martes-24-133626973"
     },
     {
       "titular": "Las portadas en Inglaterra con Arteta son para verlas...",
@@ -32,6 +32,24 @@
       "enlace": "https://www.marca.com/futbol/album/2026/08/21/portadas-dia.html"
     },
     {
+      "titular": "La viral explicación del tema Julián Álvarez: \"Gil Marín montó en cólera\"",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-24T10:57:12+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20260824/1004219140/viral-explicacion-tema-julian-alvarez-gil-marin-monto-colera.html"
+    },
+    {
+      "titular": "Yeremay, un sueño cumplido y un regreso para sembrar esperanza",
+      "medios": [
+        "Sport"
+      ],
+      "consenso": 1,
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/futbol/yeremay-sueno-cumplido-regreso-sembrar-133627453"
+    },
+    {
       "titular": "\"Si hubiese estado fresco no habríamos perdido\"",
       "medios": [
         "Marca"
@@ -41,31 +59,13 @@
       "enlace": "https://www.marca.com/futbol/rayo/2026/08/21/camello-agotados-situacion-distancia-tres-partes.html"
     },
     {
-      "titular": "Chupe neutraliza a Aubameyang y reparte los puntos en el Málaga-Deportivo",
-      "medios": [
-        "Sport"
-      ],
-      "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/laliga/chupe-neutraliza-aubameyang-reparte-puntos-133626891"
-    },
-    {
-      "titular": "El Mallorca paga sus errores en las áreas",
-      "medios": [
-        "Sport"
-      ],
-      "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/mallorca/mallorca-paga-errores-areas-133627047"
-    },
-    {
-      "titular": "Federer dice que le habría encantado enfrentarse a Carlos Alcaraz",
+      "titular": "1-1: Málaga y Deportivo firman un empate de Primera",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T22:56:33+02:00",
-      "enlace": "https://www.mundodeportivo.com/tenis/open-usa/20260824/1004219385/federer-dice-le-habria-encantado-enfrentarse-carlos-alcaraz.html"
+      "fecha": "2026-08-24T23:43:58+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/laliga/20260824/1004219396/malaga-deportivo-firman-empate-primera.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 50,
+    "antiguedad_minima_min": 28,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 5643,
+        "antiguedad_min": 5668,
         "descartados_por_gancho": 12
       },
       {
@@ -98,10 +98,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 140,
+        "items": 141,
         "error": null,
-        "antiguedad_min": 50,
-        "descartados_por_gancho": 4
+        "antiguedad_min": 28,
+        "descartados_por_gancho": 3
       },
       {
         "medio": "Sport",

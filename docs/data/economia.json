@@ -1,44 +1,26 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "ultimas",
-  "generado": "2026-08-24T23:54:28+02:00",
+  "modo": "portadas",
+  "generado": "2026-08-25T00:18:52+02:00",
   "titulares": [
     {
-      "titular": "El Gobierno anuncia un plan de choque para la crisis de Ceuta: mando único y ayudas para las empresas",
+      "titular": "El subsidio para mayores de 52 años inflará el gasto en pensiones de jubilación en casi 9.500 millones",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T20:15:16+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/08/24/6a8c5fcfe5fdea8d758b4594.html"
+      "fecha": "2026-08-24T12:17:05+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/08/24/6a8c1022e5fdeafa358b457a.html"
     },
     {
-      "titular": "La plantilla de Airbus en España vota mantener la huelga indefinida",
+      "titular": "KPMG Australia despide a cientos de empleados y reduce el salario de sus socios tras un escándalo de auditoría",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T20:08:02+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/08/24/6a8c8880468aeb09518b4583.html"
-    },
-    {
-      "titular": "EEUU lanza la operación 'Paria Económico' para bloquear las fuentes de ingresos de Irán",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-24T19:27:20+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/08/24/6a8c7ee5468aeb3e078b458c.html"
-    },
-    {
-      "titular": "ACS entra en un proyecto de fibra óptica de 308 millones en Australia",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-24T17:55:27+02:00",
-      "enlace": "https://www.expansion.com/empresas/inmobiliario/2026/08/24/6a8c68bae5fdead8348b458c.html"
+      "fecha": "2026-08-24T14:37:37+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/08/24/6a8c3b0e468aebe6458b457c.html"
     },
     {
       "titular": "El Ibex recupera los 20.000 puntos en el inicio de una semana marcada por los bancos centrales y Nvidia",
@@ -50,22 +32,40 @@
       "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/08/24/6a8bd70be5fdea35478b456d.html"
     },
     {
-      "titular": "El Gobierno Vasco y Jainaga piden autorización a la CNMV para lanzar la opa sobre Azkoyen por 244,5 millones",
+      "titular": "EEUU lanza la operación 'Paria Económico' para bloquear las fuentes de ingresos de Irán",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T17:11:05+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/08/24/6a8c5f05468aebd55c8b4589.html"
+      "fecha": "2026-08-24T19:27:20+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/08/24/6a8c7ee5468aeb3e078b458c.html"
     },
     {
-      "titular": "Colombia y Perú se alinean con la política de seguridad de Trump",
+      "titular": "Trump, señalado por el coste al bolsillo de la guerra comercial con Canadá",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T16:31:38+02:00",
-      "enlace": "https://www.expansion.com/latinoamerica/2026/08/24/6a8b57ece5fdeabf618b456f.html"
+      "fecha": "2026-08-24T14:17:19+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/08/24/6a8c34d3e5fdea7c448b4574.html"
+    },
+    {
+      "titular": "Las grandes fortunas se lanzan a invertir en bancos y firmas de inversión",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-24T00:00:34+02:00",
+      "enlace": "https://www.expansion.com/empresas/banca/2026/08/24/6a8893eae5fdea6f488b4571.html"
+    },
+    {
+      "titular": "Warsh intenta tranquilizar a los inversores ante las señales de tensión económica",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-24T09:43:58+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/08/24/6a8bf5b6e5fdea0b2f8b457f.html"
     }
   ],
   "salud": {
@@ -78,7 +78,7 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 219,
+    "antiguedad_minima_min": 243,
     "detalle": [
       {
         "medio": "Expansión",
@@ -86,7 +86,7 @@
         "ok": true,
         "items": 69,
         "error": null,
-        "antiguedad_min": 219,
+        "antiguedad_min": 243,
         "descartados_por_gancho": 0
       },
       {

@@ -1,63 +1,9 @@
 {
   "pantalla": "generales",
   "titulo": "Titulares",
-  "modo": "ultimas",
-  "generado": "2026-08-24T23:54:25+02:00",
+  "modo": "portadas",
+  "generado": "2026-08-25T00:18:49+02:00",
   "titulares": [
-    {
-      "titular": "Atención, se rueda: bólidos y pilotos disfrutan en el estreno de Madring",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-24T23:28:39+02:00",
-      "enlace": "https://www.abc.es/deportes/formula-1/curvas-madring-ponen-prueba-escasas-semanas-recibir-20260824204327-nt.html"
-    },
-    {
-      "titular": "Dos desaparecidos bajo los escombros tras el paso de un tornado en Francia",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-24T23:19:09+02:00",
-      "enlace": "https://www.abc.es/internacional/dos-desaparecidos-bajo-escombros-tras-paso-tornado-20260824225002-nt.html"
-    },
-    {
-      "titular": "António Costa, evacuado a un refugio en Kyiv tras sonar las alarmas por un posible ataque ruso",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-24T22:48:15+02:00",
-      "enlace": "https://www.lavanguardia.com/internacional/20260824/11619379/antonio-costa-evacuado-refugio-kyiv-sonar-alarmas-posible-ataque-ruso.html"
-    },
-    {
-      "titular": "Abelardo de la Espriella ordena la deportación inmediata de los inmigrantes irregulares: “Se van, es una decisión política”",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-24T21:59:40+02:00",
-      "enlace": "https://elpais.com/america-colombia/2026-08-24/abelardo-de-la-espriella-ordena-la-deportacion-inmediata-de-los-inmigrantes-irregulares-se-van-es-una-decision-politica.html"
-    },
-    {
-      "titular": "Un centenar de palomas aparecen muertas en el Port de Tarragona a causa del temporal",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-24T21:59:33+02:00",
-      "enlace": "https://elpais.com/espana/catalunya/2026-08-24/un-centenar-de-palomas-aparecen-muertas-en-el-port-de-tarragona-a-causa-del-temporal.html"
-    },
-    {
-      "titular": "La plantilla de Airbus vota a favor de continuar con la huelga indefinida",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-24T19:53:54+02:00",
-      "enlace": "https://www.lavanguardia.com/economia/20260824/11619345/plantilla-airbus-vota-favor-continuar-huelga-indefinida.html"
-    },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
       "medios": [
@@ -66,6 +12,61 @@
       "consenso": 1,
       "fecha": "2022-06-10T01:05:00+02:00",
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
+    },
+    {
+      "titular": "Sánchez acepta casi un mes después crear un mando único para la crisis de Ceuta dirigido por Ángel Víctor Torres",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-24T17:48:13+02:00",
+      "enlace": "https://elpais.com/espana/2026-08-24/sanchez-acepta-casi-un-mes-despues-crear-un-mando-unico-para-la-crisis-de-ceuta-dirigido-por-angel-victor-torres.html"
+    },
+    {
+      "titular": "El Gobierno creará un mando único dirigido por el ministro Torres para gestionar la crisis de Ceuta",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-24T17:16:46+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20260824/11619263/gobierno-constituira-mando-unico-dirigido-ministro-torres-gestionar-crisis-ceuta.html"
+    },
+    {
+      "titular": "El 'Día D económico' de Trump contra Irán se queda por ahora en una nueva amenaza",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-24T23:50:26+02:00",
+      "enlace": "https://www.abc.es/internacional/eeuu-impondra-sanciones-sectores-economicos-vitales-mantienen-20260824193820-nt.html"
+    },
+    {
+      "titular": "Sánchez convoca el Consejo de Seguridad Nacional 26 días después del estallido de la crisis de Ceuta",
+      "medios": [
+        "El País",
+        "La Vanguardia"
+      ],
+      "consenso": 2,
+      "fecha": "2026-08-24T19:06:37+02:00",
+      "enlace": "https://elpais.com/espana/2026-08-24/sanchez-convoca-el-consejo-de-seguridad-nacional-26-dias-despues-del-estallido-de-la-crisis-de-ceuta.html"
+    },
+    {
+      "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
+      "medios": [
+        "RTVE"
+      ],
+      "consenso": 1,
+      "fecha": "2022-06-10T00:03:00+02:00",
+      "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
+    },
+    {
+      "titular": "Sanidad y comunidades acuerdan enviar 45.000 vacunas a Ceuta",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-24T15:14:43+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20260824/11619185/sanidad-comunidades-acuerdan-enviar-25-000-vacunas-ceuta-afrontar-crisis-migratoria.html"
     }
   ],
   "salud": {
@@ -74,7 +75,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 25,
+    "antiguedad_minima_min": 11,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +83,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2213209,
+        "antiguedad_min": 2213233,
         "descartados_por_gancho": 0
       },
       {
@@ -99,7 +100,7 @@
         "ok": true,
         "items": 141,
         "error": null,
-        "antiguedad_min": 114,
+        "antiguedad_min": 11,
         "descartados_por_gancho": 4
       },
       {
@@ -108,7 +109,7 @@
         "ok": true,
         "items": 116,
         "error": null,
-        "antiguedad_min": 66,
+        "antiguedad_min": 90,
         "descartados_por_gancho": 14
       },
       {
@@ -117,7 +118,7 @@
         "ok": true,
         "items": 24,
         "error": null,
-        "antiguedad_min": 25,
+        "antiguedad_min": 28,
         "descartados_por_gancho": 1
       }
     ]

@@ -1,26 +1,17 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "ultimas",
-  "generado": "2026-08-24T23:54:38+02:00",
+  "modo": "portadas",
+  "generado": "2026-08-25T00:19:01+02:00",
   "titulares": [
     {
-      "titular": "El 12 de Octubre logra frenar el 97% de fibrilaciones auriculares con esta técnica de alto voltaje",
+      "titular": "El auge de China augura un nuevo escenario mundial para la innovación",
       "medios": [
-        "Redacción Médica"
+        "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T18:11:57+02:00",
-      "enlace": "https://www.redaccionmedica.com/innovacion/20260824/el-de-octubre-logra-frenar-el-fibrilaciones-auriculares-con-esta-tecnica-alto-voltaje/349571_0.html"
-    },
-    {
-      "titular": "La vacunación obligatoria en Ceuta se supedita a un alto riesgo epidemiológico",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-24T18:09:23+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20260824/la-vacunacion-obligatoria-en-ceuta-se-supedita-un-alto-riesgo-epidemiologico/349563_0.html"
+      "fecha": "2026-08-24T08:38:59+02:00",
+      "enlace": "https://diariofarma.com/2026/08/24/el-auge-de-china-augura-un-nuevo-escenario-mundial-para-la-innovacion"
     },
     {
       "titular": "La Farmacia al completo rechaza el plan para liberalizar el sector de la CNMC",
@@ -32,22 +23,13 @@
       "enlace": "https://elglobalfarma.com/farmacia/farmacia-rechaza-plan-liberalizar-sector-cnmc/"
     },
     {
-      "titular": "Cerca de 200 ponentes invitarán a reflexionar sobre el presente y futuro de la profesión en el 24 Congreso Nacional Farmacéutico",
+      "titular": "La vacunación obligatoria en Ceuta se supedita a un alto riesgo epidemiológico",
       "medios": [
-        "El Global"
+        "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T11:55:03+02:00",
-      "enlace": "https://elglobalfarma.com/farmacia/ponentes-reflexion-presente-futuro-profesion-24-congreso-nacional-farmaceutico/"
-    },
-    {
-      "titular": "El auge de China augura un nuevo escenario mundial para la innovación",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-24T08:38:59+02:00",
-      "enlace": "https://diariofarma.com/2026/08/24/el-auge-de-china-augura-un-nuevo-escenario-mundial-para-la-innovacion"
+      "fecha": "2026-08-24T18:09:23+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20260824/la-vacunacion-obligatoria-en-ceuta-se-supedita-un-alto-riesgo-epidemiologico/349563_0.html"
     },
     {
       "titular": "Más de un millón de altas en la plataforma de historia clínica de la Fundación IDIS",
@@ -59,13 +41,31 @@
       "enlace": "https://diariofarma.com/2026/08/21/la-historia-clinica-compartida-de-la-fundacion-idis-mihc-supera-el-millon-de-altas"
     },
     {
-      "titular": "CSIF exige un Comité de Seguridad y Salud propio para los sanitarios en Ceuta",
+      "titular": "Cerca de 200 ponentes invitarán a reflexionar sobre el presente y futuro de la profesión en el 24 Congreso Nacional Farmacéutico",
+      "medios": [
+        "El Global"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-24T11:55:03+02:00",
+      "enlace": "https://elglobalfarma.com/farmacia/ponentes-reflexion-presente-futuro-profesion-24-congreso-nacional-farmaceutico/"
+    },
+    {
+      "titular": "La farmacia busca ganar peso en el alzhéimer: \"Podemos detectar las primeras señales\"",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T18:08:27+02:00",
-      "enlace": "https://www.redaccionmedica.com/profesionales/20260824/csif-exige-un-comite-de-seguridad-salud-propio-para-los-sanitarios-en-ceuta/349574_0.html"
+      "fecha": "2026-08-24T16:48:19+02:00",
+      "enlace": "https://www.redaccionmedica.com/profesionales/farmacia/20260824/la-farmacia-busca-ganar-peso-en-el-alzheimer-podemos-detectar-las-primeras-senales/349544_0.html"
+    },
+    {
+      "titular": "La SEMG muestra su apoyo a los profesionales sanitarios de Ceuta",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-21T12:39:06+02:00",
+      "enlace": "https://diariofarma.com/2026/08/21/la-semg-muestra-su-apoyo-a-los-sanitarios-de-ceuta"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 342,
+    "antiguedad_minima_min": 367,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 915,
+        "antiguedad_min": 939,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 573,
+        "antiguedad_min": 597,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 342,
+        "antiguedad_min": 367,
         "descartados_por_gancho": 0
       },
       {
