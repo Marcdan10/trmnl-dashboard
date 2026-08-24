@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-08-24T05:30:14+02:00",
+  "generado": "2026-08-24T06:38:32+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -14,31 +14,31 @@
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
     },
     {
-      "titular": "Elma Saiz: “Algunos quieren inmigrantes, pero sin derechos. Quieren ciudadanos de primera y de segunda”",
+      "titular": "La larga escalada de la vivienda: las casas duplican el precio tras 12 años de subidas ininterrumpidas",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T05:30:01+02:00",
-      "enlace": "https://elpais.com/espana/2026-08-23/elma-saiz-algunos-quieren-inmigrantes-pero-sin-derechos-quieren-ciudadanos-de-primera-y-de-segunda.html"
+      "fecha": "2026-08-24T05:45:01+02:00",
+      "enlace": "https://elpais.com/economia/vivienda/2026-08-24/la-larga-escalada-de-la-vivienda-las-casas-duplican-el-precio-tras-12-anos-de-subidas-ininterrumpidas.html"
     },
     {
-      "titular": "El clima extremo se ensaña con Europa y agrava su crisis política",
+      "titular": "El diseño de virus con IA dispara las alarmas sobre la bioseguridad",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T06:00:00+02:00",
-      "enlace": "https://www.lavanguardia.com/internacional/20260823/11618197/crisis-ensanan-europa.html"
+      "fecha": "2026-08-24T06:00:00+02:00",
+      "enlace": "https://www.lavanguardia.com/vida/20260824/11618644/diseno-virus-ia-alerta-investigadores-sobre-bioseguridad.html"
     },
     {
-      "titular": "Venezuela, Colombia, Indonesia, Granada... ¿está temblando más la Tierra?",
+      "titular": "Un exbanquero español advierte a los ciudadanos que tengan sus ahorros en el banco",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T01:42:28+02:00",
-      "enlace": "https://www.abc.es/ciencia/venezuela-colombia-indonesia-granada-aumentando-numero-terremotos-20260818013907-nt.html"
+      "fecha": "2026-08-24T06:00:15+02:00",
+      "enlace": "https://www.abc.es/recreo/exbanquero-espanol-advierte-ciudadanos-ahorros-banco-dia-20260824060000-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -50,22 +50,22 @@
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
     },
     {
-      "titular": "Feijóo ahonda en la “crisis de salud pública” en Ceuta",
+      "titular": "La crisis sin resolver de Ceuta aterriza en un Congreso que calienta para elecciones",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T20:47:40+02:00",
-      "enlace": "https://elpais.com/espana/2026-08-23/feijoo-ahonda-en-la-crisis-de-salud-publica-en-ceuta.html"
+      "fecha": "2026-08-24T05:45:01+02:00",
+      "enlace": "https://elpais.com/espana/2026-08-24/la-crisis-sin-resolver-de-ceuta-aterriza-en-un-congreso-que-calienta-para-elecciones.html"
     },
     {
-      "titular": "Bruselas suaviza sus políticas climáticas por la presión de la industria y de algunos países",
+      "titular": "Venezuela, Colombia, Indonesia, Granada... ¿está temblando más la Tierra?",
       "medios": [
-        "La Vanguardia"
+        "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T06:00:00+02:00",
-      "enlace": "https://www.lavanguardia.com/internacional/20260823/11618202/bruselas-suaviza-politicas-climaticas-presion-industria-paises.html"
+      "fecha": "2026-08-24T01:42:28+02:00",
+      "enlace": "https://www.abc.es/ciencia/venezuela-colombia-indonesia-granada-aumentando-numero-terremotos-20260818013907-nt.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 227,
+    "antiguedad_minima_min": 8,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2212105,
+        "antiguedad_min": 2212173,
         "descartados_por_gancho": 0
       },
       {
@@ -97,19 +97,19 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 135,
+        "items": 131,
         "error": null,
-        "antiguedad_min": 324,
-        "descartados_por_gancho": 7
+        "antiguedad_min": 8,
+        "descartados_por_gancho": 8
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 114,
+        "items": 115,
         "error": null,
-        "antiguedad_min": 243,
-        "descartados_por_gancho": 19
+        "antiguedad_min": 38,
+        "descartados_por_gancho": 18
       },
       {
         "medio": "ABC",
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 24,
         "error": null,
-        "antiguedad_min": 227,
+        "antiguedad_min": 38,
         "descartados_por_gancho": 1
       }
     ]

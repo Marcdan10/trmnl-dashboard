@@ -2,7 +2,7 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "portadas",
-  "generado": "2026-08-24T05:30:22+02:00",
+  "generado": "2026-08-24T06:38:42+02:00",
   "titulares": [
     {
       "titular": "Más de un millón de altas en la plataforma de historia clínica de la Fundación IDIS",
@@ -23,13 +23,13 @@
       "enlace": "https://elglobalfarma.com/farmacia/cofares-nueva-era-medicamento-25-millones-inversion/"
     },
     {
-      "titular": "¿Hacia el blindaje de fármacos veterinarios 'made in UE'? De incentivos a aranceles con los antibióticos como reto",
+      "titular": "El maltrato a mascotas como 'lupa' de la violencia machista: \"Es más frecuente de lo que se piensa\"",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T18:13:17+02:00",
-      "enlace": "https://www.redaccionmedica.com/empresas/industria-farmaceutica/20260823/farmacos-veterinarios-made-in-ue-incentivos-aranceles-antibioticos/349408_0.html"
+      "fecha": "2026-08-24T05:01:00+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20260824/el-maltrato-mascotas-como-lupa-de-la-violencia-machista-es-mas-frecuente-lo-que-se-piensa/349472_0.html"
     },
     {
       "titular": "La SEMG muestra su apoyo a los profesionales sanitarios de Ceuta",
@@ -50,13 +50,13 @@
       "enlace": "https://elglobalfarma.com/politica/curso-aceleron-normativo-farmaceutico-tres-leyes-clave-marcan-final-legislatura/"
     },
     {
-      "titular": "Mejor horario para retener talento médico ante la desigualdad salarial autonómica",
+      "titular": "Redacción Médica domina la prensa sanitaria en julio: triplica la audiencia de su competidor más cercano",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T16:19:42+02:00",
-      "enlace": "https://www.redaccionmedica.com/profesionales/20260823/mejor-horario-para-retener-talento-medico-ante-la-desigualdad-salarial-autonomica/349325_0.html"
+      "fecha": "2026-08-24T05:15:00+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20260824/redaccion-medica-domina-la-prensa-sanitaria-en-julio-triplica-audiencia-de-su-competidor-mas-cercano/349465_0.html"
     },
     {
       "titular": "Más consultas en urgencias por patologías asociadas al calor y la actividades estivales",
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 666,
+    "antiguedad_minima_min": 28,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 3873,
+        "antiguedad_min": 3941,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 3800,
+        "antiguedad_min": 3869,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 29,
         "error": null,
-        "antiguedad_min": 666,
+        "antiguedad_min": 28,
         "descartados_por_gancho": 1
       },
       {

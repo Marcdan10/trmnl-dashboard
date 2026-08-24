@@ -1,15 +1,7 @@
 {
   "ciudad": "Barcelona",
-  "generado": "2026-08-24T03:30:23",
+  "generado": "2026-08-24T04:38:43",
   "horas": [
-    {
-      "hora": "04",
-      "temp": 25,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "nube"
-    },
     {
       "hora": "05",
       "temp": 24,
@@ -40,7 +32,7 @@
       "prob": 0,
       "mm": 0,
       "mostrar_prob": false,
-      "icono": "nube"
+      "icono": "sol"
     },
     {
       "hora": "09",
@@ -56,7 +48,7 @@
       "prob": 0,
       "mm": 0,
       "mostrar_prob": false,
-      "icono": "nube"
+      "icono": "sol"
     },
     {
       "hora": "11",
@@ -76,7 +68,7 @@
     },
     {
       "hora": "13",
-      "temp": 30,
+      "temp": 29,
       "prob": 15,
       "mm": 0,
       "mostrar_prob": true,
@@ -92,9 +84,17 @@
     },
     {
       "hora": "15",
-      "temp": 31,
+      "temp": 30,
       "prob": 50,
       "mm": 0,
+      "mostrar_prob": true,
+      "icono": "nube"
+    },
+    {
+      "hora": "16",
+      "temp": 29,
+      "prob": 35,
+      "mm": 0.4,
       "mostrar_prob": true,
       "icono": "nube"
     }
@@ -112,10 +112,10 @@
     },
     {
       "etiqueta": "mié 26",
-      "max": 29,
+      "max": 28,
       "min": 23,
       "prob": 3,
-      "mm": 0.1,
+      "mm": 0,
       "mostrar_prob": false,
       "destacar": false,
       "icono": "nube"
@@ -133,7 +133,7 @@
     {
       "etiqueta": "vie 28",
       "max": 31,
-      "min": 24,
+      "min": 25,
       "prob": 5,
       "mm": 0,
       "mostrar_prob": false,
@@ -142,23 +142,23 @@
     },
     {
       "etiqueta": "sáb 29",
-      "max": 29,
-      "min": 21,
+      "max": 30,
+      "min": 19,
       "prob": 1,
       "mm": 0,
       "mostrar_prob": false,
       "destacar": false,
-      "icono": "sol"
+      "icono": "nube"
     },
     {
       "etiqueta": "dom 30",
       "max": 31,
-      "min": 19,
-      "prob": 2,
+      "min": 22,
+      "prob": 0,
       "mm": 0,
       "mostrar_prob": false,
       "destacar": false,
-      "icono": "sol"
+      "icono": "nube"
     },
     {
       "etiqueta": "lun 31",
@@ -168,7 +168,7 @@
       "mm": 0,
       "mostrar_prob": false,
       "destacar": false,
-      "icono": "sol"
+      "icono": "nube"
     }
   ],
   "aviso": {
