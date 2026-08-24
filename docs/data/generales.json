@@ -2,61 +2,61 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-08-24T13:52:03+02:00",
+  "generado": "2026-08-24T14:35:58+02:00",
   "titulares": [
     {
-      "titular": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Elma Saiz considera una “irresponsabilidad mayúscula” las declaraciones de Feijóo sobre confinar Ceuta",
+      "titular": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Sánchez convoca al Consejo de Seguridad Nacional 26 días después del inicio de la crisis migratoria de Ceuta",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T13:48:33+02:00",
+      "fecha": "2026-08-24T14:29:10+02:00",
       "enlace": "https://elpais.com/espana/2026-08-24/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html"
     },
     {
-      "titular": "El precio de los pisos en alquiler en Idealista y Fotocasa, en el punto de mira del Gobierno",
+      "titular": "El apoyo de grandes países de la UE acerca el impuesto extraordinario a las petroleras que pide España",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T13:40:14+02:00",
-      "enlace": "https://www.abc.es/economia/gobierno-quiere-inmobiliarias-informen-precio-limite-alquiler-20260819013129-nt.html"
+      "fecha": "2026-08-24T14:21:27+02:00",
+      "enlace": "https://www.abc.es/economia/apoyo-grandes-paises-ue-acerca-impuesto-extraordinario-20260824141726-nt.html"
     },
     {
-      "titular": "Cuida de tu mascota con las mejores tiendas de animales de 2026: ¿cuáles son?",
+      "titular": "El Barça muy bien, pero contra el Elche",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T13:40:04+02:00",
-      "enlace": "https://www.abc.es/favorito/cuida-mascota-mejores-tiendas-animales-2026-20260824095318-nt.html"
+      "fecha": "2026-08-24T14:20:17+02:00",
+      "enlace": "https://www.abc.es/deportes/futbol/barca-bien-elche-20260824141654-nt.html"
     },
     {
-      "titular": "Muere un trabajador al volcar la máquina que manejaba en el parque de Enrique Tierno Galván de Madrid",
+      "titular": "Los océanos del planeta registran la temperatura más alta desde que hay datos",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T13:22:56+02:00",
-      "enlace": "https://elpais.com/espana/madrid/2026-08-24/muere-un-trabajador-al-volcar-la-maquina-que-manejaba-en-el-parque-de-enrique-tierno-galvan-de-madrid.html"
+      "fecha": "2026-08-24T14:19:09+02:00",
+      "enlace": "https://elpais.com/clima-y-medio-ambiente/2026-08-24/los-oceanos-del-planeta-registran-la-temperatura-mas-alta-desde-que-hay-datos.html"
     },
     {
-      "titular": "León XIV conoce al saxofonista de los Blues Brothers, uno de sus ídolos de su juventud",
+      "titular": "Qué suplemento elegir según lo que tu cuerpo necesita: descanso, estrés, piel, digestión o deporte",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T13:06:05+02:00",
-      "enlace": "https://www.lavanguardia.com/gente/20260824/11619015/mision-dios-leon-xiv-conoce-saxofonista-blues-brothers-idolos-juventud.html"
+      "fecha": "2026-08-24T14:01:02+02:00",
+      "enlace": "https://www.lavanguardia.com/comprar/deporte-salud/20260630/11572673/que-suplemento-elegir-cuerpo-te-pide-gritos-descanso-estres-piel-digestion-deporte-mkt-bele.html"
     },
     {
-      "titular": "El balón de la 'Mano de Dios' de Maradona se vende por más de tres millones de dólares",
+      "titular": "Laporta da el pistoletazo de salida al centenario del Barça de baloncesto",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T12:53:09+02:00",
-      "enlace": "https://www.lavanguardia.com/deportes/20260824/11619010/balon-mano-dios-maradona-vende-2-9-millones.html"
+      "fecha": "2026-08-24T14:00:27+02:00",
+      "enlace": "https://www.lavanguardia.com/deportes/baloncesto/20260824/11619047/laporta-da-pistoletazo-salida-centenario-barca-baloncesto.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 3,
+    "antiguedad_minima_min": 6,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2212607,
+        "antiguedad_min": 2212650,
         "descartados_por_gancho": 0
       },
       {
@@ -99,7 +99,7 @@
         "ok": true,
         "items": 136,
         "error": null,
-        "antiguedad_min": 3,
+        "antiguedad_min": 6,
         "descartados_por_gancho": 7
       },
       {
@@ -108,17 +108,17 @@
         "ok": true,
         "items": 106,
         "error": null,
-        "antiguedad_min": 45,
+        "antiguedad_min": 34,
         "descartados_por_gancho": 18
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 23,
+        "items": 25,
         "error": null,
-        "antiguedad_min": 11,
-        "descartados_por_gancho": 2
+        "antiguedad_min": 14,
+        "descartados_por_gancho": 0
       }
     ]
   }

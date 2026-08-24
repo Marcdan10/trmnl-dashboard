@@ -2,8 +2,35 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-08-24T13:52:05+02:00",
+  "generado": "2026-08-24T14:36:01+02:00",
   "titulares": [
+    {
+      "titular": "Trump, señalado por el coste al bolsillo de los estadounidenses de la guerra comercial con Canadá",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-24T14:17:19+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/08/24/6a8c34d3e5fdea7c448b4574.html"
+    },
+    {
+      "titular": "La UE se queda aún más atrás de EEUU en la carrera por los minerales críticos",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-24T14:12:14+02:00",
+      "enlace": "https://www.expansion.com/economia-sostenible/2026/08/24/6a8c3296468aeb77478b45a9.html"
+    },
+    {
+      "titular": "Robles acude mañana al Congreso para explicar la crisis en Ceuta con el foco en el CNI y el papel de Marruecos",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-24T13:41:47+02:00",
+      "enlace": "https://www.expansion.com/economia/politica/2026/08/24/6a8c2df8468aebff7e8b4581.html"
+    },
     {
       "titular": "Seis ofertas pugnan por un contrato del CTTI de 376 millones",
       "medios": [
@@ -39,33 +66,6 @@
       "consenso": 1,
       "fecha": "2026-08-24T12:44:33+02:00",
       "enlace": "https://www.expansion.com/empresas/2026/08/24/6a8c1dc9468aebd9458b457a.html"
-    },
-    {
-      "titular": "El subsidio para mayores de 52 años inflará el gasto en pensiones de jubilación en casi 9.500 millones",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-24T12:17:05+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/08/24/6a8c1022e5fdeafa358b457a.html"
-    },
-    {
-      "titular": "MyInvestor alcanza el millón de clientes",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-24T11:43:50+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/08/24/6a8c11e0468aeb77478b4596.html"
-    },
-    {
-      "titular": "La delegación de Sanidad ya está en Ceuta para evaluar el impacto de la crisis migratoria en la atención sanitaria",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-24T11:36:19+02:00",
-      "enlace": "https://www.expansion.com/directivos/estilo-vida/salud/2026/08/24/6a8c1091468aeb13548b457c.html"
     }
   ],
   "salud": {
@@ -78,7 +78,7 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 49,
+    "antiguedad_minima_min": 18,
     "detalle": [
       {
         "medio": "Expansión",
@@ -86,7 +86,7 @@
         "ok": true,
         "items": 63,
         "error": null,
-        "antiguedad_min": 49,
+        "antiguedad_min": 18,
         "descartados_por_gancho": 0
       },
       {

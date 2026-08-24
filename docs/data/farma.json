@@ -2,8 +2,26 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "ultimas",
-  "generado": "2026-08-24T13:52:14+02:00",
+  "generado": "2026-08-24T14:36:08+02:00",
   "titulares": [
+    {
+      "titular": "La Farmacia al completo rechaza el plan para liberalizar el sector de la CNMC",
+      "medios": [
+        "El Global"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-24T14:21:14+02:00",
+      "enlace": "https://elglobalfarma.com/farmacia/farmacia-rechaza-plan-liberalizar-sector-cnmc/"
+    },
+    {
+      "titular": "El PP prepara una ofensiva parlamentaria contra el Gobierno por la gestión sanitaria en Ceuta",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-24T14:12:09+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/20260824/el-pp-prepara-una-ofensiva-parlamentaria-contra-el-gobierno-por-la-gestion-sanitaria-en-ceuta/349553_0.html"
+    },
     {
       "titular": "La letalidad del ébola en la RD Congo roza el 48%: \"Pronto se agotarán los fondos\"",
       "medios": [
@@ -21,24 +39,6 @@
       "consenso": 1,
       "fecha": "2026-08-24T11:55:03+02:00",
       "enlace": "https://elglobalfarma.com/farmacia/ponentes-reflexion-presente-futuro-profesion-24-congreso-nacional-farmaceutico/"
-    },
-    {
-      "titular": "Canarias da por cerrado el brote de sarampión en Tenerife tras no registrar nuevos casos",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-24T11:52:08+02:00",
-      "enlace": "https://www.redaccionmedica.com/autonomias/20260824/canarias-da-por-cerrado-el-brote-de-sarampion-en-tenerife-tras-no-registrar-nuevos-casos/349532_0.html"
-    },
-    {
-      "titular": "La IA agéntica gana peso en las estrategias de acceso de la industria farmacéutica para automatizar procesos y agilizar la toma de decisiones",
-      "medios": [
-        "El Global"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-24T09:59:49+02:00",
-      "enlace": "https://elglobalfarma.com/industria/ia-agentica-estrategias-acceso-industria-farmaceutica-automatizar-procesos-toma-decisiones/"
     },
     {
       "titular": "El auge de China augura un nuevo escenario mundial para la innovación",
@@ -59,13 +59,13 @@
       "enlace": "https://diariofarma.com/2026/08/21/la-historia-clinica-compartida-de-la-fundacion-idis-mihc-supera-el-millon-de-altas"
     },
     {
-      "titular": "Padilla ya está en Ceuta para evaluar la situación sanitaria tras la crisis migratoria",
+      "titular": "Canarias da por cerrado el brote de sarampión en Tenerife tras no registrar nuevos casos",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T11:46:19+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/20260824/padilla-ya-esta-en-ceuta-para-evaluar-la-situacion-sanitaria-tras-crisis-migratoria/349530_0.html"
+      "fecha": "2026-08-24T11:52:08+02:00",
+      "enlace": "https://www.redaccionmedica.com/autonomias/20260824/canarias-da-por-cerrado-el-brote-de-sarampion-en-tenerife-tras-no-registrar-nuevos-casos/349532_0.html"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 75,
+    "antiguedad_minima_min": 14,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 313,
+        "antiguedad_min": 357,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 117,
+        "antiguedad_min": 14,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 29,
         "error": null,
-        "antiguedad_min": 75,
+        "antiguedad_min": 23,
         "descartados_por_gancho": 1
       },
       {

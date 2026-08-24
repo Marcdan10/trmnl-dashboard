@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-08-24T13:52:08+02:00",
+  "generado": "2026-08-24T14:36:03+02:00",
   "titulares": [
     {
-      "titular": "Alcaraz y Serena Williams ya tienen hora de inicio en el US Open",
+      "titular": "Listado oficial: todos los concursantes confirmados para 'Supervivientes All Stars 2026'",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T13:19:27+02:00",
-      "enlace": "https://www.mundodeportivo.com/tenis/open-usa/20260824/1004219191/alcaraz-serena-williams-hora-inicio-us-open.html"
+      "fecha": "2026-08-24T14:28:17+02:00",
+      "enlace": "https://www.mundodeportivo.com/elotromundo/television/20260824/1004219220/listado-oficial-todos-concursantes-confirmados-supervivientes-all-stars-2026-galeria-dct.html"
     },
     {
-      "titular": "Maffeo: \"Hice cosas mal, pero quien piensa que soy difícil no me conoce\"",
+      "titular": "Víctor Padilla, educador canino: \"El timbre suele anticipar la llegada de personas, algo que puede generar excitación\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T13:19:24+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/valencia/20260824/1004219196/maffeo-hice-cosas-mal-piensa-dificil-no-me-conoce.html"
+      "fecha": "2026-08-24T14:21:24+02:00",
+      "enlace": "https://www.mundodeportivo.com/elotromundo/mascotas/20260824/1004219201/victor-padilla-educador-canino-timbre-suele-anticipar-llegada-personas-generar-emocion-miedo-incertidumbre-excitacion-expt-dct.html"
     },
     {
       "titular": "Las portadas en Inglaterra con Arteta son para verlas...",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/rayo/2026/08/21/camello-agotados-situacion-distancia-tres-partes.html"
     },
     {
-      "titular": "Ebrima, baja en la selección por lesión",
+      "titular": "Mercedes confirma que Antonelli penalizará en Monza por cambiar motor",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/barca/ebrima-baja-seleccion-lesion-133612032"
+      "enlace": "https://www.sport.es/es/noticias/motor/formula1/mercedes-confirma-antonelli-penalizara-monza-133613358"
     },
     {
-      "titular": "De capitán a capitán del Villarreal: El aval de Gerard Moreno a Iñigo Pérez",
+      "titular": "El Valencia Basket de Javi Torralba se estrena con Kamila Borkowska pero sin Alisia Jenkins",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/villarreal/capitan-capitan-villarreal-aval-gerard-133612393"
+      "enlace": "https://www.sport.es/es/noticias/baloncesto/valencia-basket-javi-torralba-estrena-133613948"
     },
     {
-      "titular": "Xavi Espart amplía su repertorio",
+      "titular": "Flick pierde a Ebrima, lesionado, y Pesquer",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T13:16:53+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260824/1004219160/xavi-espart-amplia-repertorio.html"
+      "fecha": "2026-08-24T14:06:57+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260824/1004219210/flick-pierde-ebrima-pesquer.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 32,
+    "antiguedad_minima_min": 7,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 5041,
+        "antiguedad_min": 5085,
         "descartados_por_gancho": 12
       },
       {
@@ -98,9 +98,9 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 140,
+        "items": 141,
         "error": null,
-        "antiguedad_min": 32,
+        "antiguedad_min": 7,
         "descartados_por_gancho": 7
       },
       {
