@@ -2,61 +2,61 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-08-24T15:44:48+02:00",
+  "generado": "2026-08-24T16:35:37+02:00",
   "titulares": [
     {
-      "titular": "Las claves de la vacuna contra el melanoma",
+      "titular": "Villarejo de Salvanés, contra su alcalde por suspender las fiestas: «El pueblo no se toca»",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T15:40:01+02:00",
-      "enlace": "https://www.abc.es/salud/vacuna-melanoma-20260823013059-nt.html"
+      "fecha": "2026-08-24T16:25:19+02:00",
+      "enlace": "https://www.abc.es/espana/madrid/protesta-multitudinaria-alcalde-villarejo-salvanes-suspender-fiestas-20260824132818-nt.html"
     },
     {
-      "titular": "El aislamiento de la viuda de un sargento que mató ETA",
+      "titular": "El Barça arranca la celebración de los cien años de su sección de baloncesto con Laporta al frente",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-24T16:25:16+02:00",
+      "enlace": "https://elpais.com/deportes/baloncesto/2026-08-24/el-barca-arranca-la-celebracion-de-los-cien-anos-de-su-seccion-de-baloncesto-con-laporta-al-frente.html"
+    },
+    {
+      "titular": "El Barça muy bien, pero contra el Elche",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T15:39:30+02:00",
-      "enlace": "https://www.abc.es/espana/extremadura/abandono-viuda-sargento-asesinado-eta-miedo-duele-20260823013254-nt.html"
+      "fecha": "2026-08-24T16:24:34+02:00",
+      "enlace": "https://www.abc.es/deportes/futbol/barca-bien-elche-20260824141654-nt.html"
     },
     {
-      "titular": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Vivas, convocado al Consejo de Seguridad Nacional sobre la crisis migratoria en Ceuta",
+      "titular": "Juan José Mutilba, el empresario burgalés de bidones de agua al que buscan en el Mediterráneo",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T15:36:35+02:00",
-      "enlace": "https://elpais.com/espana/2026-08-24/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html"
+      "fecha": "2026-08-24T16:20:08+02:00",
+      "enlace": "https://elpais.com/espana/2026-08-24/juan-jose-mutilba-el-empresario-burgales-de-bidones-de-agua-al-que-buscan-en-el-mediterraneo.html"
     },
     {
-      "titular": "Back Market te da 25 € de descuento y hasta tres meses de Spotify gratis",
+      "titular": "El mundo en fotografías, las imágenes del día",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T15:10:08+02:00",
-      "enlace": "https://www.lavanguardia.com/comprar/tecnologia/20260817/11613284/back-market-25-euros-descuento-tres-meses-spotify-premium-gratis-estudiante-profesor-mkt-bama.html"
+      "fecha": "2026-08-24T15:25:23+02:00",
+      "enlace": "https://www.lavanguardia.com/fotos/20260824/11619031/mundo-fotografias-imagenes-dia.html"
     },
     {
-      "titular": "Ceuta recibirá 25.000 dosis de vacunas para prevenir enfermedades infecciosas tras la llegada de miles de inmigrantes",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-24T14:55:58+02:00",
-      "enlace": "https://elpais.com/sociedad/2026-08-24/ceuta-recibira-25000-dosis-de-vacunas-para-prevenir-enfermedades-infecciosas-tras-la-llegada-de-miles-de-inmigrantes.html"
-    },
-    {
-      "titular": "La Generalitat pide prudencia por lluvias que podrían dejar 40 litros en media hora esta tarde",
+      "titular": "Sanidad y comunidades acuerdan enviar 25.000 vacunas a Ceuta",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T14:46:58+02:00",
-      "enlace": "https://www.lavanguardia.com/local/catalunya/20260824/11619167/generalitat-pide-prudencia-lluvias-dejar-40-litros-media-hora-tarde.html"
+      "fecha": "2026-08-24T15:14:43+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20260824/11619185/sanidad-comunidades-acuerdan-enviar-25-000-vacunas-ceuta-afrontar-crisis-migratoria.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 4,
+    "antiguedad_minima_min": 10,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2212719,
+        "antiguedad_min": 2212770,
         "descartados_por_gancho": 0
       },
       {
@@ -90,25 +90,25 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 429",
+        "error": "HTTP 500",
         "antiguedad_min": null
       },
       {
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 138,
+        "items": 140,
         "error": null,
-        "antiguedad_min": 8,
-        "descartados_por_gancho": 6
+        "antiguedad_min": 10,
+        "descartados_por_gancho": 4
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 108,
+        "items": 109,
         "error": null,
-        "antiguedad_min": 34,
+        "antiguedad_min": 70,
         "descartados_por_gancho": 18
       },
       {
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 4,
+        "antiguedad_min": 10,
         "descartados_por_gancho": 0
       }
     ]

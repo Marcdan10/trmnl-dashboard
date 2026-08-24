@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-08-24T15:44:52+02:00",
+  "generado": "2026-08-24T16:35:41+02:00",
   "titulares": [
     {
-      "titular": "Belletti: “Estamos ajustando cosas, trabajando los detalles”",
+      "titular": "Ter Stegen y Ona Sellarès ya son padres de su primera hija en común",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T15:24:25+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260824/1004219234/belletti-ajustando-cosas-trabajando-detalles.html"
+      "fecha": "2026-08-24T16:20:59+02:00",
+      "enlace": "https://www.mundodeportivo.com/vaya-mundo/20260824/1004219271/ter-stegen-ona-sellares-son-padres-primera-hija-comun-nombre-han-elegido-dct.html"
     },
     {
-      "titular": "Vuelve LaLiga y los vídeos arbitrales de Real Madrid TV",
+      "titular": "Médicos y entrenadores coinciden: \"Estas personas tienen peor rendimiento y más lesiones\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T15:23:54+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260824/1004219232/vuelve-laliga-videos-arbitrales-real-madrid-tv.html"
+      "fecha": "2026-08-24T16:06:38+02:00",
+      "enlace": "https://www.mundodeportivo.com/running/20260824/1004215456/medicos-deportivos-entrenadores-coinciden-personas-corren-carrera-baja-disponibilidad-energia-peor-rendimiento-mas-riesgo-lesiones-dct.html"
     },
     {
       "titular": "Las portadas en Inglaterra con Arteta son para verlas...",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/rayo/2026/08/21/camello-agotados-situacion-distancia-tres-partes.html"
     },
     {
-      "titular": "Sumar-Compromís, Puigdemont y Rufián critican la carga policial contra un aficionado del Barça en Elche",
+      "titular": "Siete plazas por definir en la parrilla de MotoGP 2027",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/elche/sumar-compromis-puigdemont-rufian-critican-133615601"
+      "enlace": "https://www.sport.es/es/noticias/motor/moto-gp/siete-plazas-definir-parrilla-motogp-133616778"
     },
     {
-      "titular": "Leticia Romero: \"Vamos a seguir teniendo nuestra identidad y a luchar por todo\"",
+      "titular": "Tras un año para olvidar, Almada y Fede Viñas triunfan en México: así les va a los ex del Real Oviedo",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/baloncesto/leticia-romero-seguir-teniendo-identidad-133615542"
+      "enlace": "https://www.sport.es/es/noticias/oviedo/ano-olvidar-almada-fede-vinas-133617191"
     },
     {
-      "titular": "Cucurella, presentado en el Real Madrid",
+      "titular": "Joan Verdú: \"Estamos en Nueva Zelanda entrenando fuerte, con condiciones muy, muy buenas\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T14:57:17+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260824/1004219227/cucurella-presentado-real-madrid.html"
+      "fecha": "2026-08-24T15:58:21+02:00",
+      "enlace": "https://www.mundodeportivo.com/deportes-invierno/20260824/1004219245/joan-verdu-nueva-zelanda-entrenando-fuerte-condiciones-buena-emocionado.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 20,
+    "antiguedad_minima_min": 14,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 5154,
+        "antiguedad_min": 5204,
         "descartados_por_gancho": 12
       },
       {
@@ -98,9 +98,9 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 142,
+        "items": 141,
         "error": null,
-        "antiguedad_min": 20,
+        "antiguedad_min": 14,
         "descartados_por_gancho": 7
       },
       {

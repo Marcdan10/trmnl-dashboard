@@ -2,8 +2,17 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-08-24T15:44:50+02:00",
+  "generado": "2026-08-24T16:35:39+02:00",
   "titulares": [
+    {
+      "titular": "El Ibex comienza la semana por encima de los 20.000 puntos",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-24T16:08:15+02:00",
+      "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/08/24/6a8bd70be5fdea35478b456d.html"
+    },
     {
       "titular": "España planta cara a la Premier: siete clubes suman 5.498 millones en valor de marca",
       "medios": [
@@ -14,7 +23,7 @@
       "enlace": "https://www.expansion.com/directivos/deporte-negocio/2026/08/24/6a8c4277e5fdea84798b4575.html"
     },
     {
-      "titular": "Sánchez convoca al Consejo de Seguridad Nacional para analizar la situación en Ceuta",
+      "titular": "El Consejo de Seguridad Nacional se reunirá el martes para analizar la situación en Ceuta",
       "medios": [
         "Expansión"
       ],
@@ -32,7 +41,7 @@
       "enlace": "https://www.expansion.com/economia/financial-times/2026/08/24/6a8c3b0e468aebe6458b457c.html"
     },
     {
-      "titular": "Trump, señalado por el coste al bolsillo de los estadounidenses de la guerra comercial con Canadá",
+      "titular": "Trump, señalado por el coste al bolsillo de la guerra comercial con Canadá",
       "medios": [
         "Expansión"
       ],
@@ -57,15 +66,6 @@
       "consenso": 1,
       "fecha": "2026-08-24T13:41:47+02:00",
       "enlace": "https://www.expansion.com/economia/politica/2026/08/24/6a8c2df8468aebff7e8b4581.html"
-    },
-    {
-      "titular": "Seis ofertas pugnan por un contrato del CTTI de 376 millones",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-24T13:02:34+02:00",
-      "enlace": "https://www.expansion.com/catalunya/2026/08/24/6a8c24c5e5fdea8d758b457a.html"
     }
   ],
   "salud": {
@@ -78,7 +78,7 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 34,
+    "antiguedad_minima_min": 27,
     "detalle": [
       {
         "medio": "Expansión",
@@ -86,7 +86,7 @@
         "ok": true,
         "items": 65,
         "error": null,
-        "antiguedad_min": 34,
+        "antiguedad_min": 27,
         "descartados_por_gancho": 0
       },
       {
