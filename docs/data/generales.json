@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-08-25T00:51:18+02:00",
+  "generado": "2026-08-25T01:17:13+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -32,13 +32,13 @@
       "enlace": "https://www.lavanguardia.com/politica/20260824/11619263/gobierno-constituira-mando-unico-dirigido-ministro-torres-gestionar-crisis-ceuta.html"
     },
     {
-      "titular": "El 'Día D económico' de Trump contra Irán se queda por ahora en una nueva amenaza",
+      "titular": "Los mayores de 55 también quieren estrenar amistades",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T23:50:26+02:00",
-      "enlace": "https://www.abc.es/internacional/eeuu-impondra-sanciones-sectores-economicos-vitales-mantienen-20260824193820-nt.html"
+      "fecha": "2026-08-25T01:10:08+02:00",
+      "enlace": "https://www.abc.es/familia/mayores/mayores-quieren-estrenar-amistades-20260825010950-nt.html"
     },
     {
       "titular": "Sánchez convoca el Consejo de Seguridad Nacional 26 días después del estallido de la crisis de Ceuta",
@@ -75,7 +75,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 13,
+    "antiguedad_minima_min": 7,
     "detalle": [
       {
         "medio": "RTVE",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2213266,
+        "antiguedad_min": 2213292,
         "descartados_por_gancho": 0
       },
       {
@@ -100,7 +100,7 @@
         "ok": true,
         "items": 142,
         "error": null,
-        "antiguedad_min": 13,
+        "antiguedad_min": 39,
         "descartados_por_gancho": 4
       },
       {
@@ -109,7 +109,7 @@
         "ok": true,
         "items": 116,
         "error": null,
-        "antiguedad_min": 123,
+        "antiguedad_min": 148,
         "descartados_por_gancho": 14
       },
       {
@@ -118,7 +118,7 @@
         "ok": true,
         "items": 24,
         "error": null,
-        "antiguedad_min": 60,
+        "antiguedad_min": 7,
         "descartados_por_gancho": 1
       }
     ]

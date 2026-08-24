@@ -2,7 +2,7 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-08-25T00:51:23+02:00",
+  "generado": "2026-08-25T01:17:19+02:00",
   "titulares": [
     {
       "titular": "Julián sigue alimentando el sueño del Barça",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 61,
+    "antiguedad_minima_min": 24,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 5700,
+        "antiguedad_min": 5726,
         "descartados_por_gancho": 12
       },
       {
@@ -100,7 +100,7 @@
         "ok": true,
         "items": 141,
         "error": null,
-        "antiguedad_min": 61,
+        "antiguedad_min": 24,
         "descartados_por_gancho": 3
       },
       {
