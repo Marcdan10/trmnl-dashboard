@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-08-24T19:56:18+02:00",
+  "generado": "2026-08-24T20:35:11+02:00",
   "titulares": [
     {
-      "titular": "Millán, abogado: \"Si te dan un finiquito, no firmes porque, según lo escrito, podrías estar renunciando a reclamar\"",
+      "titular": "Jordi Cruz revela el mejor truco para el salmorejo perfecto: \"Así, los sabores se integrarán mejor\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T19:23:34+02:00",
-      "enlace": "https://www.mundodeportivo.com/actualidad/20260824/1004219330/andres-millan-abogado-te-dan-finiquito-acuerdo-no-firmes-escrito-podrias-renunciando-reclamar-despido-hacerlo-te-impedira-acceso-tribunales-dct.html"
+      "fecha": "2026-08-24T20:22:20+02:00",
+      "enlace": "https://www.mundodeportivo.com/foodie/20260824/1004219343/jordi-cruz-cocinero-catalan-salmorejo-perfecto-puedes-prepararlo-horas-antelacion-dia-sabores-integraran-todavia-mejor-sirvelo-buen-aceite-oliva-xef-dct.html"
     },
     {
-      "titular": "Emegha podría dejar el Chelsea de Xabi Alonso semanas después de su llegada",
+      "titular": "Granollers - Barça, en directo | Final Supercopa Catalunya",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T19:19:53+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/20260824/1004219331/emegha-dejar-chelsea-xabi-alonso-semanas-llegada.html"
+      "fecha": "2026-08-24T20:16:35+02:00",
+      "enlace": "https://www.mundodeportivo.com/balonmano/20260824/1004219294/granollers-barca-supercopa-catalunya-balonmano.html"
     },
     {
       "titular": "Las portadas en Inglaterra con Arteta son para verlas...",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/rayo/2026/08/21/camello-agotados-situacion-distancia-tres-partes.html"
     },
     {
-      "titular": "Buenas noticias con Juan Hernández: ya adelanta plazos",
+      "titular": "Fulham - Chelsea, en directo: partido de la Premier League, hoy en vivo",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/barca/buenas-noticias-juan-hernandez-adelanta-133622521"
+      "enlace": "https://www.sport.es/es/noticias/premier-league/fulham-chelsea-directo-partido-premier-133623628"
     },
     {
-      "titular": "Estos son los actos conmemorativos previstos para celebrar el Centenario del Barça de basket",
+      "titular": "Kroos lo tiene claro: \"Kvaratskhelia es el número 1\"",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/baloncesto-barca/son-actos-conmemorativos-previstos-celebrar-133620572"
+      "enlace": "https://www.sport.es/es/noticias/futbol-internacional/kroos-claro-kvaratskhelia-numero-1-133624577"
     },
     {
-      "titular": "Así ha celebrado Espí en la intimidad su fichaje por el Madrid",
+      "titular": "Erola Jons responde a las críticas por su polémico papel en La Vuelta",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T19:07:44+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260824/1004219327/asi-celebrado-espi-intimidad-fichaje-madrid.html"
+      "fecha": "2026-08-24T20:12:40+02:00",
+      "enlace": "https://www.mundodeportivo.com/vaya-mundo/20260824/1004219338/erola-jons-responde-criticas-polemico-papel-vuelta-seguir-dandole-marcha-dct.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 32,
+    "antiguedad_minima_min": 12,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 5405,
+        "antiguedad_min": 5444,
         "descartados_por_gancho": 12
       },
       {
@@ -98,10 +98,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 139,
+        "items": 140,
         "error": null,
-        "antiguedad_min": 32,
-        "descartados_por_gancho": 8
+        "antiguedad_min": 12,
+        "descartados_por_gancho": 7
       },
       {
         "medio": "Sport",
@@ -110,7 +110,7 @@
         "items": 49,
         "error": null,
         "antiguedad_min": null,
-        "descartados_por_gancho": 0
+        "descartados_por_gancho": 1
       },
       {
         "medio": "NBA",

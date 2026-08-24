@@ -2,8 +2,17 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-08-24T19:56:15+02:00",
+  "generado": "2026-08-24T20:35:09+02:00",
   "titulares": [
+    {
+      "titular": "La plantilla de Airbus en España vota mantener la huelga indefinida",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-24T20:08:02+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/08/24/6a8c8880468aeb09518b4583.html"
+    },
     {
       "titular": "EEUU lanza la operación 'Paria Económico' para bloquear las fuentes de ingresos de Irán",
       "medios": [
@@ -57,15 +66,6 @@
       "consenso": 1,
       "fecha": "2026-08-24T16:31:38+02:00",
       "enlace": "https://www.expansion.com/latinoamerica/2026/08/24/6a8b57ece5fdeabf618b456f.html"
-    },
-    {
-      "titular": "España planta cara a la Premier: siete clubes suman 5.498 millones en valor de marca",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-24T15:10:06+02:00",
-      "enlace": "https://www.expansion.com/directivos/deporte-negocio/2026/08/24/6a8c4277e5fdea84798b4575.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 28,
+    "antiguedad_minima_min": 27,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 68,
+        "items": 69,
         "error": null,
-        "antiguedad_min": 28,
+        "antiguedad_min": 27,
         "descartados_por_gancho": 0
       },
       {

@@ -2,25 +2,35 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-08-24T19:56:12+02:00",
+  "generado": "2026-08-24T20:35:06+02:00",
   "titulares": [
     {
-      "titular": "EE.UU. impondrá sanciones a «todos los sectores económicos vitales» que mantienen al «régimen tiránico» de Irán",
+      "titular": "El castillo que Mark Zuckerberg ha comprado por 20 millones de euros en Irlanda",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T19:53:35+02:00",
-      "enlace": "https://www.abc.es/internacional/eeuu-impondra-sanciones-sectores-economicos-vitales-mantienen-20260824193820-nt.html"
+      "fecha": "2026-08-24T20:12:30+02:00",
+      "enlace": "https://www.abc.es/summum/living/casas/mark-zuckerberg-compra-imponente-castillo-irlandes-millones-20260824094643-nt.html"
     },
     {
-      "titular": "El Gobierno aprueba un mando único para Ceuta casi un mes después de la crisis migratoria",
+      "titular": "Del Birkin al Lady Dior: cinco bolsos con nombre propio que han marcado la historia de la moda",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T19:51:38+02:00",
-      "enlace": "https://www.abc.es/espana/gobierno-aprueba-mando-unico-ceuta-mes-despues-20260824170506-nt.html"
+      "fecha": "2026-08-24T20:12:05+02:00",
+      "enlace": "https://www.abc.es/estilo/moda/bolsos-iconicos-nombre-propio-20260824170420-nt.html"
+    },
+    {
+      "titular": "Ayuso esquiva la polémica con Feijóo sobre el ático que compró la Comunidad: «Está en venta, 'chao, pescao'»",
+      "medios": [
+        "El País",
+        "ABC"
+      ],
+      "consenso": 2,
+      "fecha": "2026-08-24T20:10:51+02:00",
+      "enlace": "https://www.abc.es/espana/madrid/ayuso-esquiva-polemica-feijoo-sobre-atico-compro-20260824122429-nt.html"
     },
     {
       "titular": "Estados Unidos da un ultimátum a cualquier país “lo suficientemente loco” como para seguir negociando con Irán",
@@ -30,15 +40,6 @@
       "consenso": 1,
       "fecha": "2026-08-24T19:34:21+02:00",
       "enlace": "https://elpais.com/internacional/2026-08-24/estados-unidos-da-un-ultimatum-a-cualquier-pais-lo-suficientemente-loco-como-para-seguir-negociando-con-iran.html"
-    },
-    {
-      "titular": "La empresa pública Móstoles Desarrollo retira el contrato de catering de casi un millón y asegura que lo ajustará",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-24T19:29:53+02:00",
-      "enlace": "https://elpais.com/espana/madrid/2026-08-24/la-empresa-publica-mostoles-desarrollo-retira-el-contrato-de-catering-de-casi-un-millon-y-asegura-que-lo-ajustara.html"
     },
     {
       "titular": "Las memorias de Jason Arday se publicarán esta semana para “honrar sus deseos”",
@@ -74,7 +75,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 2,
+    "antiguedad_minima_min": 22,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +83,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2212971,
+        "antiguedad_min": 2213010,
         "descartados_por_gancho": 0
       },
       {
@@ -99,7 +100,7 @@
         "ok": true,
         "items": 141,
         "error": null,
-        "antiguedad_min": 21,
+        "antiguedad_min": 60,
         "descartados_por_gancho": 4
       },
       {
@@ -108,7 +109,7 @@
         "ok": true,
         "items": 114,
         "error": null,
-        "antiguedad_min": 30,
+        "antiguedad_min": 69,
         "descartados_por_gancho": 16
       },
       {
@@ -117,7 +118,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 2,
+        "antiguedad_min": 22,
         "descartados_por_gancho": 0
       }
     ]
