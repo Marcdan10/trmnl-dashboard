@@ -2,8 +2,17 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-08-24T22:57:17+02:00",
+  "generado": "2026-08-24T23:28:00+02:00",
   "titulares": [
+    {
+      "titular": "Xabi Alonso se impone a Arbeloa en el derbi de los amigos",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-24T23:00:34+02:00",
+      "enlace": "https://www.abc.es/deportes/futbol/xabi-alonso-impone-arbeloa-derbi-amigos-20260824225609-nt.html"
+    },
     {
       "titular": "Dos desaparecidos bajo los escombros tras el paso de un tornado en Francia",
       "medios": [
@@ -14,13 +23,13 @@
       "enlace": "https://www.abc.es/internacional/dos-desaparecidos-bajo-escombros-tras-paso-tornado-20260824225002-nt.html"
     },
     {
-      "titular": "El 'Día D económico' de Trump contra Irán se queda por ahora en una nueva amenaza",
+      "titular": "António Costa, evacuado a un refugio en Kyiv tras sonar las alarmas por un posible ataque ruso",
       "medios": [
-        "ABC"
+        "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T22:17:09+02:00",
-      "enlace": "https://www.abc.es/internacional/eeuu-impondra-sanciones-sectores-economicos-vitales-mantienen-20260824193820-nt.html"
+      "fecha": "2026-08-24T22:48:15+02:00",
+      "enlace": "https://www.lavanguardia.com/internacional/20260824/11619379/antonio-costa-evacuado-refugio-kyiv-sonar-alarmas-posible-ataque-ruso.html"
     },
     {
       "titular": "Abelardo de la Espriella ordena la deportación inmediata de los inmigrantes irregulares: “Se van, es una decisión política”",
@@ -50,15 +59,6 @@
       "enlace": "https://www.lavanguardia.com/economia/20260824/11619345/plantilla-airbus-vota-favor-continuar-huelga-indefinida.html"
     },
     {
-      "titular": "EE.UU. amenaza con usar “todo el alcance” de su poder contra los países con vínculos con Irán",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-24T19:41:12+02:00",
-      "enlace": "https://www.lavanguardia.com/internacional/20260824/11619326/ee-uu-amenaza-alcance-pais-mantenga-vinculos-iran.html"
-    },
-    {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
       "medios": [
         "RTVE"
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 3,
+    "antiguedad_minima_min": 27,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2213152,
+        "antiguedad_min": 2213182,
         "descartados_por_gancho": 0
       },
       {
@@ -99,16 +99,16 @@
         "ok": true,
         "items": 141,
         "error": null,
-        "antiguedad_min": 57,
+        "antiguedad_min": 88,
         "descartados_por_gancho": 4
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 115,
+        "items": 116,
         "error": null,
-        "antiguedad_min": 183,
+        "antiguedad_min": 39,
         "descartados_por_gancho": 14
       },
       {
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 24,
         "error": null,
-        "antiguedad_min": 3,
+        "antiguedad_min": 27,
         "descartados_por_gancho": 1
       }
     ]

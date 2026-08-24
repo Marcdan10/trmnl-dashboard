@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-08-24T22:57:22+02:00",
+  "generado": "2026-08-24T23:28:04+02:00",
   "titulares": [
     {
-      "titular": "¡A Aubameyang se le caen los goles!",
+      "titular": "Julián sigue alimentando el sueño del Barça",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T22:12:17+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/deportivo-coruna/20260824/1004219369/aubameyang-le-caen-goles.html"
+      "fecha": "2026-08-24T22:52:35+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260824/1004219387/julian-sigue-alimentando-sueno-barca.html"
     },
     {
-      "titular": "Descubren un convento medieval oculto durante siglos en Dinamarca",
+      "titular": "Problemas para el Madrid con la F1",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T22:11:07+02:00",
-      "enlace": "https://www.mundodeportivo.com/tressesenta/20260824/1004219354/ponen-manos-obra-construir-campo-futbol-descubren-convento-medieval-oculto-siglos-dinamarca-smd-sbj.html"
+      "fecha": "2026-08-24T22:46:52+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260824/1004219382/problemas-madrid-f1.html"
     },
     {
       "titular": "Las portadas en Inglaterra con Arteta son para verlas...",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/rayo/2026/08/21/camello-agotados-situacion-distancia-tres-partes.html"
     },
     {
-      "titular": "Lucas, de 'Andy y Lucas', se pronuncia tras su complicada operación: \"Ya tengo nariz\"",
+      "titular": "Fredi Álvarez, tras la remontada del Celta Fortuna: «El orgullo que tiene el equipo le hizo levantar el partido»",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/actualidad/lucas-andy-lucas-pronuncia-complicada-133626171"
+      "enlace": "https://www.sport.es/es/noticias/celta-de-vigo/fredi-alvarez-remontada-celta-fortuna-133626720"
     },
     {
-      "titular": "Larcamón aprende del mal comienzo del Sporting",
+      "titular": "El United quiere llevarse cedido a Balde",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/futbol/larcamon-aprende-mal-comienzo-sporting-133626289"
+      "enlace": "https://www.sport.es/es/noticias/barca/united-quiere-llevarse-cedido-balde-133617829"
     },
     {
-      "titular": "29-35: Primer título de la temporada para el Barça en un derbi vibrante",
+      "titular": "Descubren un convento medieval oculto durante siglos en Dinamarca",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T22:06:18+02:00",
-      "enlace": "https://www.mundodeportivo.com/balonmano/20260824/1004219366/29-35-primer-titulo-temporada-barca-derbi-vibrante.html"
+      "fecha": "2026-08-24T22:45:06+02:00",
+      "enlace": "https://www.mundodeportivo.com/tressesenta/20260824/1004219354/ponen-manos-obra-construir-campo-futbol-descubren-convento-medieval-oculto-siglos-dinamarca-smd-sbj.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 45,
+    "antiguedad_minima_min": 35,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 5586,
+        "antiguedad_min": 5617,
         "descartados_por_gancho": 12
       },
       {
@@ -100,8 +100,8 @@
         "ok": true,
         "items": 139,
         "error": null,
-        "antiguedad_min": 45,
-        "descartados_por_gancho": 6
+        "antiguedad_min": 35,
+        "descartados_por_gancho": 5
       },
       {
         "medio": "Sport",
