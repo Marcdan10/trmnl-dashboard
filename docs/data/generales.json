@@ -2,16 +2,35 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-08-24T12:31:22+02:00",
+  "generado": "2026-08-24T13:21:20+02:00",
   "titulares": [
     {
-      "titular": "Ayuso evita el choque con Feijóo y se niega a hablar de la polémica del ático: “Está a la venta, chao ‘pescao”",
+      "titular": "Ayuso esquiva la polémica con Feijóo sobre el ático que compró la Comunidad: «Está en venta, 'chao, pescao'»",
+      "medios": [
+        "El País",
+        "ABC"
+      ],
+      "consenso": 2,
+      "fecha": "2026-08-24T12:58:22+02:00",
+      "enlace": "https://www.abc.es/espana/madrid/ayuso-esquiva-polemica-feijoo-sobre-atico-compro-20260824122429-nt.html"
+    },
+    {
+      "titular": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Elma Saiz considera una “irresponsabilidad mayúscula” las declaraciones de Feijóo sobre confinar Ceuta",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T12:13:56+02:00",
-      "enlace": "https://elpais.com/espana/madrid/2026-08-24/ayuso-evita-el-choque-con-feijoo-y-se-niega-a-hablar-de-la-polemica-del-atico-esta-a-la-venta-chao-pescao.html"
+      "fecha": "2026-08-24T12:36:14+02:00",
+      "enlace": "https://elpais.com/espana/2026-08-24/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html"
+    },
+    {
+      "titular": "Aruberuto Makoto (Alberto Alonso) desaparece de las redes tras acosar sexualmente en directo a una joven",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-24T12:28:23+02:00",
+      "enlace": "https://www.abc.es/gente/aruberuto-makoto-alberto-alonso-desaparece-redes-tras-20260824122823-nt.html"
     },
     {
       "titular": "Lo que se sabe de la desaparición del empresario burgalés tras caer al mar en Italia: desatención y una mujer destrozada",
@@ -21,15 +40,6 @@
       "consenso": 1,
       "fecha": "2026-08-24T12:08:00+02:00",
       "enlace": "https://www.abc.es/espana/castilla-leon/sabe-desaparicion-empresario-burgales-tras-caer-mar-20260824114509-nt.html"
-    },
-    {
-      "titular": "Pepa Romero: «Tenemos todo decidido para la boda, cómo, dónde y cuándo»",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-24T12:04:52+02:00",
-      "enlace": "https://www.abc.es/gente/pepa-romero-decidido-boda-luna-miel-20260820012115-nt.html"
     },
     {
       "titular": "Brad Pitt visitará el festival de San Sebastián para presentar 'En el corazón de la bestia'",
@@ -50,15 +60,6 @@
       "enlace": "https://www.lavanguardia.com/local/galicia/20260824/11618933/cae-lider-clan-familiar-fanchos-operacion-1-400-kilos-cocaina-pobra.html"
     },
     {
-      "titular": "Mark Ruffalo se defiende tras ser calificado de antisemita por Paramount: “Es indignante y deshonesto”",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-24T11:38:23+02:00",
-      "enlace": "https://elpais.com/gente/2026-08-24/mark-ruffalo-se-defiende-tras-ser-calificado-de-antisemita-por-paramount-es-indignante-y-deshonesto.html"
-    },
-    {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
       "medios": [
         "RTVE"
@@ -74,7 +75,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 17,
+    "antiguedad_minima_min": 22,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +83,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2212526,
+        "antiguedad_min": 2212576,
         "descartados_por_gancho": 0
       },
       {
@@ -90,17 +91,17 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 429",
+        "error": "HTTP 500",
         "antiguedad_min": null
       },
       {
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 134,
+        "items": 136,
         "error": null,
-        "antiguedad_min": 17,
-        "descartados_por_gancho": 9
+        "antiguedad_min": 45,
+        "descartados_por_gancho": 7
       },
       {
         "medio": "La Vanguardia",
@@ -108,7 +109,7 @@
         "ok": true,
         "items": 103,
         "error": null,
-        "antiguedad_min": 33,
+        "antiguedad_min": 83,
         "descartados_por_gancho": 19
       },
       {
@@ -117,7 +118,7 @@
         "ok": true,
         "items": 23,
         "error": null,
-        "antiguedad_min": 23,
+        "antiguedad_min": 22,
         "descartados_por_gancho": 2
       }
     ]

@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-08-24T12:31:28+02:00",
+  "generado": "2026-08-24T13:21:26+02:00",
   "titulares": [
     {
-      "titular": "Las directoras de partido de Liga F Moeve afinan su puesta a punto antes del estreno liguero",
+      "titular": "Balde se entrena con normalidad a la espera de aclarar su futuro",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T12:19:27+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/femenino/20260824/1004219176/directoras-partido-liga-f-moeve-afinan-puesta-punto-estreno-liguero.html"
+      "fecha": "2026-08-24T12:46:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260824/1004219184/balde-entrena-normalidad-espera-aclarar-futuro.html"
     },
     {
-      "titular": "Carlos Espí explica cómo fue su fichaje por el Real Madrid",
+      "titular": "Un descartado que hace goles con esmoquin",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T12:14:13+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260824/1004219172/carlos-espi-explica-fichaje-real-madrid.html"
+      "fecha": "2026-08-24T12:38:21+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/sevilla/20260824/1004219181/descartado-goles-esmoquin.html"
     },
     {
       "titular": "Las portadas en Inglaterra con Arteta son para verlas...",
@@ -41,32 +41,32 @@
       "enlace": "https://www.marca.com/futbol/rayo/2026/08/21/camello-agotados-situacion-distancia-tres-partes.html"
     },
     {
-      "titular": "El Barça denuncia el uso “desproporcionado” de la fuerza contra sus aficionados en Elche",
+      "titular": "Andre Agassi: \"Djokovic, Federer y Nadal jugaron de maneras muy diferentes, y cada uno fue genial a su manera. Y ahora ves a Alcaraz, que juega como los tres cuando quiere”",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/barca/barca-denuncia-desproporcionado-fuerza-aficionados-133608669"
+      "enlace": "https://www.sport.es/es/noticias/tenis/andre-agassi-djokovic-federer-nadal-133608043"
     },
     {
-      "titular": "Sensaciones de conducción apasionantes y prestaciones excepcionales: así es el nuevo Peugeot E-208 GTi 100% eléctrico",
+      "titular": "Giorgi Kochorashvili explica su encaje en el Sevilla: \"Soy un 6 o un 8, más bien un 8\"",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/motor/sensaciones-conduccion-apasionantes-prestaciones-excepcionales-peugeot-e208-gti-electrico-133608872"
+      "enlace": "https://www.sport.es/es/noticias/sevilla/giorgi-kochorashvili-explica-encaje-sevilla-133610524"
     },
     {
-      "titular": "Ceferin descarta ser candidato a la FIFA pero vuelve a arremeter contra Infantino",
+      "titular": "El Barça denuncia el uso desproporcionado de fuerza contra sus seguidores y la retirada de esteladas",
       "medios": [
         "Mundo Deportivo",
         "Sport"
       ],
       "consenso": 2,
-      "fecha": "2026-08-24T12:12:03+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/internacional/20260824/1004219169/ceferin-descarta-candidato-fifa-vuelve-pedir-dimision-infantino.html"
+      "fecha": "2026-08-24T12:38:03+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260824/1004219178/barca-denuncia-desproporcionado-fuerza-seguidores-retirada-esteladas.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 12,
+    "antiguedad_minima_min": 35,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 4960,
+        "antiguedad_min": 5010,
         "descartados_por_gancho": 12
       },
       {
@@ -101,17 +101,17 @@
         "ok": true,
         "items": 139,
         "error": null,
-        "antiguedad_min": 12,
+        "antiguedad_min": 35,
         "descartados_por_gancho": 7
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 50,
+        "items": 49,
         "error": null,
         "antiguedad_min": null,
-        "descartados_por_gancho": 0
+        "descartados_por_gancho": 1
       },
       {
         "medio": "NBA",

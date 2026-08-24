@@ -2,8 +2,26 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-08-24T12:31:26+02:00",
+  "generado": "2026-08-24T13:21:24+02:00",
   "titulares": [
+    {
+      "titular": "Singapur ofrece a los padres 55.000 dólares para fomentar la natalidad",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-24T12:48:34+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/08/24/6a8c2180468aeb33518b457e.html"
+    },
+    {
+      "titular": "Buscan a un empresario español que cayó de su barco en alta mar",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-24T12:44:33+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/08/24/6a8c1dc9468aebd9458b457a.html"
+    },
     {
       "titular": "El subsidio para mayores de 52 años inflará el gasto en pensiones de jubilación en casi 9.500 millones",
       "medios": [
@@ -48,24 +66,6 @@
       "consenso": 1,
       "fecha": "2026-08-24T11:11:51+02:00",
       "enlace": "https://www.expansion.com/empresas/2026/08/24/6a8c0ace468aeb45518b4576.html"
-    },
-    {
-      "titular": "Warsh intenta tranquilizar a los inversores ante las señales de tensión económica",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-24T09:43:58+02:00",
-      "enlace": "https://www.expansion.com/economia/financial-times/2026/08/24/6a8bf5b6e5fdea0b2f8b457f.html"
-    },
-    {
-      "titular": "La oferta de alquiler de habitaciones crece un 12% y su precio, un 1%: así está por capitales",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-24T09:40:07+02:00",
-      "enlace": "https://www.expansion.com/inmobiliario/mercado/2026/08/24/6a8bf555468aebb0568b4575.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 14,
+    "antiguedad_minima_min": 32,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 63,
+        "items": 64,
         "error": null,
-        "antiguedad_min": 14,
+        "antiguedad_min": 32,
         "descartados_por_gancho": 0
       },
       {
