@@ -1,17 +1,26 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "portadas",
-  "generado": "2026-08-24T11:40:16+02:00",
+  "modo": "ultimas",
+  "generado": "2026-08-24T12:31:28+02:00",
   "titulares": [
     {
-      "titular": "Juanma Rodríguez cuenta quién es Daniel Giddens, el pívot que ayuda al Unicaja en pretemporada",
+      "titular": "Las directoras de partido de Liga F Moeve afinan su puesta a punto antes del estreno liguero",
       "medios": [
-        "Sport"
+        "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/baloncesto/juanma-rodriguez-cuenta-daniel-giddens-133606814"
+      "fecha": "2026-08-24T12:19:27+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/femenino/20260824/1004219176/directoras-partido-liga-f-moeve-afinan-puesta-punto-estreno-liguero.html"
+    },
+    {
+      "titular": "Carlos Espí explica cómo fue su fichaje por el Real Madrid",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-24T12:14:13+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260824/1004219172/carlos-espi-explica-fichaje-real-madrid.html"
     },
     {
       "titular": "Las portadas en Inglaterra con Arteta son para verlas...",
@@ -23,24 +32,6 @@
       "enlace": "https://www.marca.com/futbol/album/2026/08/21/portadas-dia.html"
     },
     {
-      "titular": "Adeyemi y Gordon ponen el vértigo",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-24T00:44:14+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260824/1004219054/adeyemi-gordon-ponen-vertigo.html"
-    },
-    {
-      "titular": "Djokovic rompe su silencio sobre su decisión de no vacunarse de COVID: \"Es mi libertad de elegir, y ese derecho fundamental le fue quitado a muchísima gente\"",
-      "medios": [
-        "Sport"
-      ],
-      "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/tenis/djokovic-rompe-silencio-decision-vacunarse-133604483"
-    },
-    {
       "titular": "\"Si hubiese estado fresco no habríamos perdido\"",
       "medios": [
         "Marca"
@@ -50,22 +41,32 @@
       "enlace": "https://www.marca.com/futbol/rayo/2026/08/21/camello-agotados-situacion-distancia-tres-partes.html"
     },
     {
-      "titular": "El 1x1 del FC Barcelona ante el Elche CF",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-23T23:28:54+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260823/1004218943/1x1-fc-barcelona-elche-cf.html"
-    },
-    {
-      "titular": "Así está la clasificación de Primera División: el Deportivo, a buscar la zona noble de la Liga EA Sports",
+      "titular": "El Barça denuncia el uso “desproporcionado” de la fuerza contra sus aficionados en Elche",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/futbol/clasificacion-primera-division-deportivo-buscar-133606724"
+      "enlace": "https://www.sport.es/es/noticias/barca/barca-denuncia-desproporcionado-fuerza-aficionados-133608669"
+    },
+    {
+      "titular": "Sensaciones de conducción apasionantes y prestaciones excepcionales: así es el nuevo Peugeot E-208 GTi 100% eléctrico",
+      "medios": [
+        "Sport"
+      ],
+      "consenso": 1,
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/motor/sensaciones-conduccion-apasionantes-prestaciones-excepcionales-peugeot-e208-gti-electrico-133608872"
+    },
+    {
+      "titular": "Ceferin descarta ser candidato a la FIFA pero vuelve a arremeter contra Infantino",
+      "medios": [
+        "Mundo Deportivo",
+        "Sport"
+      ],
+      "consenso": 2,
+      "fecha": "2026-08-24T12:12:03+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/internacional/20260824/1004219169/ceferin-descarta-candidato-fifa-vuelve-pedir-dimision-infantino.html"
     }
   ],
   "salud": {
@@ -74,7 +75,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 15,
+    "antiguedad_minima_min": 12,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +83,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 4909,
+        "antiguedad_min": 4960,
         "descartados_por_gancho": 12
       },
       {
@@ -98,19 +99,19 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 136,
+        "items": 139,
         "error": null,
-        "antiguedad_min": 15,
+        "antiguedad_min": 12,
         "descartados_por_gancho": 7
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 49,
+        "items": 50,
         "error": null,
         "antiguedad_min": null,
-        "descartados_por_gancho": 1
+        "descartados_por_gancho": 0
       },
       {
         "medio": "NBA",

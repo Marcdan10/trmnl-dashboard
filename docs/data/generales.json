@@ -1,9 +1,63 @@
 {
   "pantalla": "generales",
   "titulo": "Titulares",
-  "modo": "portadas",
-  "generado": "2026-08-24T11:40:09+02:00",
+  "modo": "ultimas",
+  "generado": "2026-08-24T12:31:22+02:00",
   "titulares": [
+    {
+      "titular": "Ayuso evita el choque con Feijóo y se niega a hablar de la polémica del ático: “Está a la venta, chao ‘pescao”",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-24T12:13:56+02:00",
+      "enlace": "https://elpais.com/espana/madrid/2026-08-24/ayuso-evita-el-choque-con-feijoo-y-se-niega-a-hablar-de-la-polemica-del-atico-esta-a-la-venta-chao-pescao.html"
+    },
+    {
+      "titular": "Lo que se sabe de la desaparición del empresario burgalés tras caer al mar en Italia: desatención y una mujer destrozada",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-24T12:08:00+02:00",
+      "enlace": "https://www.abc.es/espana/castilla-leon/sabe-desaparicion-empresario-burgales-tras-caer-mar-20260824114509-nt.html"
+    },
+    {
+      "titular": "Pepa Romero: «Tenemos todo decidido para la boda, cómo, dónde y cuándo»",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-24T12:04:52+02:00",
+      "enlace": "https://www.abc.es/gente/pepa-romero-decidido-boda-luna-miel-20260820012115-nt.html"
+    },
+    {
+      "titular": "Brad Pitt visitará el festival de San Sebastián para presentar 'En el corazón de la bestia'",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-24T11:58:00+02:00",
+      "enlace": "https://www.lavanguardia.com/cultura/20260824/11618949/brad-pitt-visitara-festival-san-sebastian-presentar-corazon-bestia.html"
+    },
+    {
+      "titular": "Cae el líder del clan familiar de los Fanchos en la operación con 1.400 kilos de cocaína en A Pobra",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-24T11:39:34+02:00",
+      "enlace": "https://www.lavanguardia.com/local/galicia/20260824/11618933/cae-lider-clan-familiar-fanchos-operacion-1-400-kilos-cocaina-pobra.html"
+    },
+    {
+      "titular": "Mark Ruffalo se defiende tras ser calificado de antisemita por Paramount: “Es indignante y deshonesto”",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-24T11:38:23+02:00",
+      "enlace": "https://elpais.com/gente/2026-08-24/mark-ruffalo-se-defiende-tras-ser-calificado-de-antisemita-por-paramount-es-indignante-y-deshonesto.html"
+    },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
       "medios": [
@@ -12,61 +66,6 @@
       "consenso": 1,
       "fecha": "2022-06-10T01:05:00+02:00",
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
-    },
-    {
-      "titular": "La larga escalada de la vivienda: las casas duplican el precio tras 12 años de subidas ininterrumpidas",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-24T05:45:01+02:00",
-      "enlace": "https://elpais.com/economia/vivienda/2026-08-24/la-larga-escalada-de-la-vivienda-las-casas-duplican-el-precio-tras-12-anos-de-subidas-ininterrumpidas.html"
-    },
-    {
-      "titular": "El diseño de virus con IA dispara las alarmas sobre la bioseguridad",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-24T06:00:00+02:00",
-      "enlace": "https://www.lavanguardia.com/vida/20260824/11618644/diseno-virus-ia-alerta-investigadores-sobre-bioseguridad.html"
-    },
-    {
-      "titular": "Pepa Romero: «Tenemos todo decidido para la boda y la luna de miel»",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-24T11:16:58+02:00",
-      "enlace": "https://www.abc.es/gente/pepa-romero-decidido-boda-luna-miel-20260820012115-nt.html"
-    },
-    {
-      "titular": "Desaparecido un empresario burgalés tras caer por la borda de su barco cerca de Italia",
-      "medios": [
-        "El País",
-        "ABC"
-      ],
-      "consenso": 2,
-      "fecha": "2026-08-24T11:04:02+02:00",
-      "enlace": "https://www.abc.es/espana/castilla-leon/desaparecido-empresario-burgales-tras-caer-borda-embarcacion-20260823170100-nt.html"
-    },
-    {
-      "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
-      "medios": [
-        "RTVE"
-      ],
-      "consenso": 1,
-      "fecha": "2022-06-10T00:03:00+02:00",
-      "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
-    },
-    {
-      "titular": "Exiliados por el precio de la vivienda: los baleares se lanzan a comprar casa en Asturias",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-24T06:00:00+02:00",
-      "enlace": "https://www.lavanguardia.com/economia/20260824/11618630/exiliados-precio-vivienda-baleares-lanzan-comprar-casa-asturias.html"
     }
   ],
   "salud": {
@@ -75,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 4,
+    "antiguedad_minima_min": 17,
     "detalle": [
       {
         "medio": "RTVE",
@@ -83,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2212475,
+        "antiguedad_min": 2212526,
         "descartados_por_gancho": 0
       },
       {
@@ -91,16 +90,16 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 500",
+        "error": "HTTP 429",
         "antiguedad_min": null
       },
       {
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 133,
+        "items": 134,
         "error": null,
-        "antiguedad_min": 4,
+        "antiguedad_min": 17,
         "descartados_por_gancho": 9
       },
       {
@@ -109,7 +108,7 @@
         "ok": true,
         "items": 103,
         "error": null,
-        "antiguedad_min": 37,
+        "antiguedad_min": 33,
         "descartados_por_gancho": 19
       },
       {

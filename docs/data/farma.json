@@ -1,17 +1,35 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "portadas",
-  "generado": "2026-08-24T11:40:20+02:00",
+  "modo": "ultimas",
+  "generado": "2026-08-24T12:31:34+02:00",
   "titulares": [
     {
-      "titular": "El auge de China augura un nuevo escenario mundial para la innovación",
+      "titular": "Cerca de 200 ponentes invitarán a reflexionar sobre el presente y futuro de la profesión en el 24 Congreso Nacional Farmacéutico",
       "medios": [
-        "Diariofarma"
+        "El Global"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T08:38:59+02:00",
-      "enlace": "https://diariofarma.com/2026/08/24/el-auge-de-china-augura-un-nuevo-escenario-mundial-para-la-innovacion"
+      "fecha": "2026-08-24T11:55:03+02:00",
+      "enlace": "https://elglobalfarma.com/farmacia/ponentes-reflexion-presente-futuro-profesion-24-congreso-nacional-farmaceutico/"
+    },
+    {
+      "titular": "Canarias da por cerrado el brote de sarampión en Tenerife tras no registrar nuevos casos",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-24T11:52:08+02:00",
+      "enlace": "https://www.redaccionmedica.com/autonomias/20260824/canarias-da-por-cerrado-el-brote-de-sarampion-en-tenerife-tras-no-registrar-nuevos-casos/349532_0.html"
+    },
+    {
+      "titular": "Padilla ya está en Ceuta para evaluar la situación sanitaria tras la crisis migratoria",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-24T11:46:19+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/20260824/padilla-ya-esta-en-ceuta-para-evaluar-la-situacion-sanitaria-tras-crisis-migratoria/349530_0.html"
     },
     {
       "titular": "La IA agéntica gana peso en las estrategias de acceso de la industria farmacéutica para automatizar procesos y agilizar la toma de decisiones",
@@ -23,13 +41,13 @@
       "enlace": "https://elglobalfarma.com/industria/ia-agentica-estrategias-acceso-industria-farmaceutica-automatizar-procesos-toma-decisiones/"
     },
     {
-      "titular": "De la implicación excesiva a la despersonalización: así avanza el burnout en la sanidad",
+      "titular": "El auge de China augura un nuevo escenario mundial para la innovación",
       "medios": [
-        "Redacción Médica"
+        "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T11:02:48+02:00",
-      "enlace": "https://www.redaccionmedica.com/profesionales/20260824/de-la-implicacion-excesiva-despersonalizacion-asi-avanza-el-burnout-en-sanidad/349433_0.html"
+      "fecha": "2026-08-24T08:38:59+02:00",
+      "enlace": "https://diariofarma.com/2026/08/24/el-auge-de-china-augura-un-nuevo-escenario-mundial-para-la-innovacion"
     },
     {
       "titular": "Más de un millón de altas en la plataforma de historia clínica de la Fundación IDIS",
@@ -41,31 +59,13 @@
       "enlace": "https://diariofarma.com/2026/08/21/la-historia-clinica-compartida-de-la-fundacion-idis-mihc-supera-el-millon-de-altas"
     },
     {
-      "titular": "Cofares se prepara para la nueva era del medicamento con 25 millones de inversión",
-      "medios": [
-        "El Global"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-21T14:09:35+02:00",
-      "enlace": "https://elglobalfarma.com/farmacia/cofares-nueva-era-medicamento-25-millones-inversion/"
-    },
-    {
-      "titular": "El maltrato a mascotas como 'lupa' de la violencia machista: \"Es más frecuente de lo que se piensa\"",
+      "titular": "De la implicación excesiva a la despersonalización: así avanza el burnout en la sanidad",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T05:01:00+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20260824/el-maltrato-mascotas-como-lupa-de-la-violencia-machista-es-mas-frecuente-lo-que-se-piensa/349472_0.html"
-    },
-    {
-      "titular": "La SEMG muestra su apoyo a los profesionales sanitarios de Ceuta",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-21T12:39:06+02:00",
-      "enlace": "https://diariofarma.com/2026/08/21/la-semg-muestra-su-apoyo-a-los-sanitarios-de-ceuta"
+      "fecha": "2026-08-24T11:02:48+02:00",
+      "enlace": "https://www.redaccionmedica.com/profesionales/20260824/de-la-implicacion-excesiva-despersonalizacion-asi-avanza-el-burnout-en-sanidad/349433_0.html"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 37,
+    "antiguedad_minima_min": 36,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 181,
+        "antiguedad_min": 232,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 100,
+        "antiguedad_min": 36,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 29,
         "error": null,
-        "antiguedad_min": 37,
+        "antiguedad_min": 39,
         "descartados_por_gancho": 1
       },
       {
