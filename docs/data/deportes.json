@@ -2,7 +2,7 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-08-25T00:18:55+02:00",
+  "generado": "2026-08-25T00:51:23+02:00",
   "titulares": [
     {
       "titular": "Julián sigue alimentando el sueño del Barça",
@@ -14,13 +14,13 @@
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260824/1004219387/julian-sigue-alimentando-sueno-barca.html"
     },
     {
-      "titular": "Esta es la portada de SPORT, hoy martes 24 de agosto de 2026",
+      "titular": "Funes, tras el empate frente al Deportivo: \"El punto sabe a poco\"",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/la-portada-de-sport/portada-sport-hoy-martes-24-133626973"
+      "enlace": "https://www.sport.es/es/noticias/futbol/funes-empate-frente-deportivo-punto-133627647"
     },
     {
       "titular": "Las portadas en Inglaterra con Arteta son para verlas...",
@@ -41,13 +41,13 @@
       "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20260824/1004219140/viral-explicacion-tema-julian-alvarez-gil-marin-monto-colera.html"
     },
     {
-      "titular": "Yeremay, un sueño cumplido y un regreso para sembrar esperanza",
+      "titular": "Las notas de los jugadores del Málaga CF en el empate contra el Deportivo",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/futbol/yeremay-sueno-cumplido-regreso-sembrar-133627453"
+      "enlace": "https://www.sport.es/es/noticias/futbol/notas-jugadores-malaga-cf-empate-133627588"
     },
     {
       "titular": "\"Si hubiese estado fresco no habríamos perdido\"",
@@ -59,13 +59,13 @@
       "enlace": "https://www.marca.com/futbol/rayo/2026/08/21/camello-agotados-situacion-distancia-tres-partes.html"
     },
     {
-      "titular": "1-1: Málaga y Deportivo firman un empate de Primera",
+      "titular": "El United prefiere una cesión por Balde",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T23:43:58+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/laliga/20260824/1004219396/malaga-deportivo-firman-empate-primera.html"
+      "fecha": "2026-08-24T21:12:45+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260824/1004219352/united-prefiere-cesion-balde.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 28,
+    "antiguedad_minima_min": 61,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 5668,
+        "antiguedad_min": 5700,
         "descartados_por_gancho": 12
       },
       {
@@ -100,17 +100,17 @@
         "ok": true,
         "items": 141,
         "error": null,
-        "antiguedad_min": 28,
+        "antiguedad_min": 61,
         "descartados_por_gancho": 3
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 47,
+        "items": 48,
         "error": null,
         "antiguedad_min": null,
-        "descartados_por_gancho": 2
+        "descartados_por_gancho": 1
       },
       {
         "medio": "NBA",

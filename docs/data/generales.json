@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-08-25T00:18:49+02:00",
+  "generado": "2026-08-25T00:51:18+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -75,7 +75,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 11,
+    "antiguedad_minima_min": 13,
     "detalle": [
       {
         "medio": "RTVE",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2213233,
+        "antiguedad_min": 2213266,
         "descartados_por_gancho": 0
       },
       {
@@ -98,9 +98,9 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 141,
+        "items": 142,
         "error": null,
-        "antiguedad_min": 11,
+        "antiguedad_min": 13,
         "descartados_por_gancho": 4
       },
       {
@@ -109,7 +109,7 @@
         "ok": true,
         "items": 116,
         "error": null,
-        "antiguedad_min": 90,
+        "antiguedad_min": 123,
         "descartados_por_gancho": 14
       },
       {
@@ -118,7 +118,7 @@
         "ok": true,
         "items": 24,
         "error": null,
-        "antiguedad_min": 28,
+        "antiguedad_min": 60,
         "descartados_por_gancho": 1
       }
     ]
