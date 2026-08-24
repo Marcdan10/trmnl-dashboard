@@ -2,62 +2,61 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-08-24T20:35:06+02:00",
+  "generado": "2026-08-24T21:23:39+02:00",
   "titulares": [
     {
-      "titular": "El castillo que Mark Zuckerberg ha comprado por 20 millones de euros en Irlanda",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-24T20:12:30+02:00",
-      "enlace": "https://www.abc.es/summum/living/casas/mark-zuckerberg-compra-imponente-castillo-irlandes-millones-20260824094643-nt.html"
-    },
-    {
-      "titular": "Del Birkin al Lady Dior: cinco bolsos con nombre propio que han marcado la historia de la moda",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-24T20:12:05+02:00",
-      "enlace": "https://www.abc.es/estilo/moda/bolsos-iconicos-nombre-propio-20260824170420-nt.html"
-    },
-    {
-      "titular": "Ayuso esquiva la polémica con Feijóo sobre el ático que compró la Comunidad: «Está en venta, 'chao, pescao'»",
-      "medios": [
-        "El País",
-        "ABC"
-      ],
-      "consenso": 2,
-      "fecha": "2026-08-24T20:10:51+02:00",
-      "enlace": "https://www.abc.es/espana/madrid/ayuso-esquiva-polemica-feijoo-sobre-atico-compro-20260824122429-nt.html"
-    },
-    {
-      "titular": "Estados Unidos da un ultimátum a cualquier país “lo suficientemente loco” como para seguir negociando con Irán",
+      "titular": "Dos cascos azules de la ONU mueren en una emboscada en Sudán del Sur",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T19:34:21+02:00",
-      "enlace": "https://elpais.com/internacional/2026-08-24/estados-unidos-da-un-ultimatum-a-cualquier-pais-lo-suficientemente-loco-como-para-seguir-negociando-con-iran.html"
+      "fecha": "2026-08-24T21:17:38+02:00",
+      "enlace": "https://elpais.com/internacional/2026-08-24/dos-cascos-azules-de-la-onu-mueren-en-una-emboscada-en-sudan-del-sur.html"
     },
     {
-      "titular": "Las memorias de Jason Arday se publicarán esta semana para “honrar sus deseos”",
+      "titular": "El reparto de comida a los inmigrantes: «Cada día sois más y no hay para todos»",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-24T20:56:20+02:00",
+      "enlace": "https://www.abc.es/espana/reparto-comida-inmigrantes-trampolin-20260824205425-nt.html"
+    },
+    {
+      "titular": "Trump aprieta el pulso comercial con Canadá: anuncia aranceles del 50% a los automóviles y al acero",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-24T20:51:31+02:00",
+      "enlace": "https://www.abc.es/internacional/trump-aprieta-pulso-comercial-canada-anuncia-aranceles-20260824182629-nt.html"
+    },
+    {
+      "titular": "Armenia acelera su acercamiento a la UE pese a la presión de Rusia",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-24T20:31:01+02:00",
+      "enlace": "https://elpais.com/internacional/2026-08-24/armenia-acelera-su-acercamiento-a-la-ue-pese-a-la-presion-de-rusia.html"
+    },
+    {
+      "titular": "La plantilla de Airbus vota a favor de continuar con la huelga indefinida",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T19:25:56+02:00",
-      "enlace": "https://www.lavanguardia.com/vida/20260824/11619334/memorias-jason-arday-publicaran-semana-honrar-deseos.html"
+      "fecha": "2026-08-24T19:53:54+02:00",
+      "enlace": "https://www.lavanguardia.com/economia/20260824/11619345/plantilla-airbus-vota-favor-continuar-huelga-indefinida.html"
     },
     {
-      "titular": "Shein se estrenará por fin en bolsa para captar unos 1.500 millones de euros",
+      "titular": "EE.UU. amenaza con usar “todo el alcance” de su poder contra los países con vínculos con Irán",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T19:13:54+02:00",
-      "enlace": "https://www.lavanguardia.com/economia/20260824/11619261/shein-salida-bolsa-debut-septiembre.html"
+      "fecha": "2026-08-24T19:41:12+02:00",
+      "enlace": "https://www.lavanguardia.com/internacional/20260824/11619326/ee-uu-amenaza-alcance-pais-mantenga-vinculos-iran.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -75,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 22,
+    "antiguedad_minima_min": 6,
     "detalle": [
       {
         "medio": "RTVE",
@@ -83,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2213010,
+        "antiguedad_min": 2213058,
         "descartados_por_gancho": 0
       },
       {
@@ -91,7 +90,7 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 429",
+        "error": "HTTP 500",
         "antiguedad_min": null
       },
       {
@@ -100,17 +99,17 @@
         "ok": true,
         "items": 141,
         "error": null,
-        "antiguedad_min": 60,
+        "antiguedad_min": 6,
         "descartados_por_gancho": 4
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 114,
+        "items": 115,
         "error": null,
-        "antiguedad_min": 69,
-        "descartados_por_gancho": 16
+        "antiguedad_min": 89,
+        "descartados_por_gancho": 14
       },
       {
         "medio": "ABC",
@@ -118,7 +117,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 22,
+        "antiguedad_min": 27,
         "descartados_por_gancho": 0
       }
     ]
