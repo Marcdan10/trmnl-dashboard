@@ -1,15 +1,7 @@
 {
   "ciudad": "Barcelona",
-  "generado": "2026-08-24T02:20:13",
+  "generado": "2026-08-24T03:30:23",
   "horas": [
-    {
-      "hora": "03",
-      "temp": 25,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "nube"
-    },
     {
       "hora": "04",
       "temp": 25,
@@ -69,23 +61,23 @@
     {
       "hora": "11",
       "temp": 28,
-      "prob": 10,
+      "prob": 3,
       "mm": 0,
-      "mostrar_prob": true,
+      "mostrar_prob": false,
       "icono": "nube"
     },
     {
       "hora": "12",
       "temp": 29,
-      "prob": 15,
+      "prob": 3,
       "mm": 0,
-      "mostrar_prob": true,
+      "mostrar_prob": false,
       "icono": "nube"
     },
     {
       "hora": "13",
       "temp": 30,
-      "prob": 33,
+      "prob": 15,
       "mm": 0,
       "mostrar_prob": true,
       "icono": "nube"
@@ -93,7 +85,15 @@
     {
       "hora": "14",
       "temp": 30,
-      "prob": 45,
+      "prob": 23,
+      "mm": 0,
+      "mostrar_prob": true,
+      "icono": "nube"
+    },
+    {
+      "hora": "15",
+      "temp": 31,
+      "prob": 50,
       "mm": 0,
       "mostrar_prob": true,
       "icono": "nube"
@@ -104,9 +104,9 @@
       "etiqueta": "mar 25",
       "max": 33,
       "min": 23,
-      "prob": 10,
+      "prob": 8,
       "mm": 0,
-      "mostrar_prob": true,
+      "mostrar_prob": false,
       "destacar": false,
       "icono": "nube"
     },
@@ -114,7 +114,7 @@
       "etiqueta": "mié 26",
       "max": 29,
       "min": 23,
-      "prob": 6,
+      "prob": 3,
       "mm": 0.1,
       "mostrar_prob": false,
       "destacar": false,
@@ -124,7 +124,7 @@
       "etiqueta": "jue 27",
       "max": 30,
       "min": 25,
-      "prob": 26,
+      "prob": 21,
       "mm": 0,
       "mostrar_prob": true,
       "destacar": false,
@@ -134,9 +134,9 @@
       "etiqueta": "vie 28",
       "max": 31,
       "min": 24,
-      "prob": 15,
+      "prob": 5,
       "mm": 0,
-      "mostrar_prob": true,
+      "mostrar_prob": false,
       "destacar": false,
       "icono": "nube"
     },
@@ -144,7 +144,7 @@
       "etiqueta": "sáb 29",
       "max": 29,
       "min": 21,
-      "prob": 0,
+      "prob": 1,
       "mm": 0,
       "mostrar_prob": false,
       "destacar": false,
