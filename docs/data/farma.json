@@ -2,7 +2,7 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "portadas",
-  "generado": "2026-08-24T09:52:53+02:00",
+  "generado": "2026-08-24T10:40:26+02:00",
   "titulares": [
     {
       "titular": "El auge de China augura un nuevo escenario mundial para la innovación",
@@ -14,13 +14,13 @@
       "enlace": "https://diariofarma.com/2026/08/24/el-auge-de-china-augura-un-nuevo-escenario-mundial-para-la-innovacion"
     },
     {
-      "titular": "Cofares se prepara para la nueva era del medicamento con 25 millones de inversión",
+      "titular": "La IA agéntica gana peso en las estrategias de acceso de la industria farmacéutica para automatizar procesos y agilizar la toma de decisiones",
       "medios": [
         "El Global"
       ],
       "consenso": 1,
-      "fecha": "2026-08-21T14:09:35+02:00",
-      "enlace": "https://elglobalfarma.com/farmacia/cofares-nueva-era-medicamento-25-millones-inversion/"
+      "fecha": "2026-08-24T09:59:49+02:00",
+      "enlace": "https://elglobalfarma.com/industria/ia-agentica-estrategias-acceso-industria-farmaceutica-automatizar-procesos-toma-decisiones/"
     },
     {
       "titular": "El maltrato a mascotas como 'lupa' de la violencia machista: \"Es más frecuente de lo que se piensa\"",
@@ -41,13 +41,13 @@
       "enlace": "https://diariofarma.com/2026/08/21/la-historia-clinica-compartida-de-la-fundacion-idis-mihc-supera-el-millon-de-altas"
     },
     {
-      "titular": "Un curso de acelerón normativo farmacéutico: las tres leyes clave que marcan el final de la legislatura",
+      "titular": "Cofares se prepara para la nueva era del medicamento con 25 millones de inversión",
       "medios": [
         "El Global"
       ],
       "consenso": 1,
-      "fecha": "2026-08-21T08:38:33+02:00",
-      "enlace": "https://elglobalfarma.com/politica/curso-aceleron-normativo-farmaceutico-tres-leyes-clave-marcan-final-legislatura/"
+      "fecha": "2026-08-21T14:09:35+02:00",
+      "enlace": "https://elglobalfarma.com/farmacia/cofares-nueva-era-medicamento-25-millones-inversion/"
     },
     {
       "titular": "Redacción Médica domina la prensa sanitaria en julio: triplica la audiencia de su competidor más cercano",
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 73,
+    "antiguedad_minima_min": 40,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 73,
+        "antiguedad_min": 121,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 4063,
+        "antiguedad_min": 40,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 29,
         "error": null,
-        "antiguedad_min": 222,
+        "antiguedad_min": 270,
         "descartados_por_gancho": 1
       },
       {

@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-08-24T09:52:44+02:00",
+  "generado": "2026-08-24T10:40:15+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -32,13 +32,13 @@
       "enlace": "https://www.lavanguardia.com/vida/20260824/11618644/diseno-virus-ia-alerta-investigadores-sobre-bioseguridad.html"
     },
     {
-      "titular": "La plataforma de moda china Shein quiere recaudar 1.700 millones de dólares con su salida a Bolsa",
+      "titular": "Enes Kanter, que asegura sentirse mujer, la lía en un partido de la liga femenina",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T09:28:18+02:00",
-      "enlace": "https://www.abc.es/economia/plataforma-moda-china-shein-quiere-recaudar-1700-20260824092343-nt.html"
+      "fecha": "2026-08-24T09:59:05+02:00",
+      "enlace": "https://www.abc.es/deportes/baloncesto/enes-kanter-lia-grada-partido-wnba-20260824092018-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -50,22 +50,22 @@
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
     },
     {
-      "titular": "La crisis sin resolver de Ceuta aterriza en un Congreso que calienta para elecciones",
+      "titular": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Elma Saiz considera una “irresponsabilidad mayúscula” las declaraciones de Feijóo sobre confinar Ceuta",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T05:45:01+02:00",
-      "enlace": "https://elpais.com/espana/2026-08-24/la-crisis-sin-resolver-de-ceuta-aterriza-en-un-congreso-que-calienta-para-elecciones.html"
+      "fecha": "2026-08-24T10:30:00+02:00",
+      "enlace": "https://elpais.com/espana/2026-08-24/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html"
     },
     {
-      "titular": "Máxima alarma en Noruega: «La salud del Rey Harald se ha deteriorado»",
+      "titular": "Cuida de tu mascota con las mejores tiendas de animales de 2026: ¿cuáles son?",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T09:23:10+02:00",
-      "enlace": "https://www.abc.es/gente/maxima-alarma-noruega-salud-rey-harald-deteriorado-20260824092310-nt.html"
+      "fecha": "2026-08-24T09:53:19+02:00",
+      "enlace": "https://www.abc.es/favorito/cuida-mascota-mejores-tiendas-animales-2026-20260824095318-nt.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 8,
+    "antiguedad_minima_min": 10,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2212367,
+        "antiguedad_min": 2212415,
         "descartados_por_gancho": 0
       },
       {
@@ -99,17 +99,17 @@
         "ok": true,
         "items": 131,
         "error": null,
-        "antiguedad_min": 8,
+        "antiguedad_min": 10,
         "descartados_por_gancho": 8
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 103,
+        "items": 104,
         "error": null,
-        "antiguedad_min": 71,
-        "descartados_por_gancho": 20
+        "antiguedad_min": 25,
+        "descartados_por_gancho": 19
       },
       {
         "medio": "ABC",
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 23,
         "error": null,
-        "antiguedad_min": 24,
+        "antiguedad_min": 41,
         "descartados_por_gancho": 2
       }
     ]
