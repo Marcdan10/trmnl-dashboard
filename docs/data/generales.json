@@ -2,16 +2,16 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-08-24T19:05:51+02:00",
+  "generado": "2026-08-24T19:56:12+02:00",
   "titulares": [
     {
-      "titular": "Los ocho herederos de Del Vecchio y la batalla por Ray-Ban: un imperio de 55.000 millones",
+      "titular": "EE.UU. impondrá sanciones a «todos los sectores económicos vitales» que mantienen al «régimen tiránico» de Irán",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T18:55:49+02:00",
-      "enlace": "https://www.abc.es/gente/ocho-herederos-disputan-imperio-55000-millones-rayban-20260824142726-nt.html"
+      "fecha": "2026-08-24T19:53:35+02:00",
+      "enlace": "https://www.abc.es/internacional/eeuu-impondra-sanciones-sectores-economicos-vitales-mantienen-20260824193820-nt.html"
     },
     {
       "titular": "El Gobierno aprueba un mando único para Ceuta casi un mes después de la crisis migratoria",
@@ -19,44 +19,44 @@
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T18:55:12+02:00",
+      "fecha": "2026-08-24T19:51:38+02:00",
       "enlace": "https://www.abc.es/espana/gobierno-aprueba-mando-unico-ceuta-mes-despues-20260824170506-nt.html"
     },
     {
-      "titular": "Mor Fabrizio Plessi, artista entre Venècia i Mallorca",
+      "titular": "Estados Unidos da un ultimátum a cualquier país “lo suficientemente loco” como para seguir negociando con Irán",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T18:48:03+02:00",
-      "enlace": "https://elpais.com/quadern/2026-08-24/mor-fabrizio-plessi-artista-entre-venecia-i-mallorca.html"
+      "fecha": "2026-08-24T19:34:21+02:00",
+      "enlace": "https://elpais.com/internacional/2026-08-24/estados-unidos-da-un-ultimatum-a-cualquier-pais-lo-suficientemente-loco-como-para-seguir-negociando-con-iran.html"
     },
     {
-      "titular": "Enrique de Inglaterra deja su puesto en el consejo de una controvertida ONG africana",
+      "titular": "La empresa pública Móstoles Desarrollo retira el contrato de catering de casi un millón y asegura que lo ajustará",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T18:42:56+02:00",
-      "enlace": "https://elpais.com/gente/2026-08-24/enrique-de-inglaterra-deja-su-puesto-en-el-consejo-de-una-controvertida-ong-africana.html"
+      "fecha": "2026-08-24T19:29:53+02:00",
+      "enlace": "https://elpais.com/espana/madrid/2026-08-24/la-empresa-publica-mostoles-desarrollo-retira-el-contrato-de-catering-de-casi-un-millon-y-asegura-que-lo-ajustara.html"
     },
     {
-      "titular": "Jainaga y otros inversores vascos piden permiso a la CNMV para lanzar su opa por Azkoyen",
+      "titular": "Las memorias de Jason Arday se publicarán esta semana para “honrar sus deseos”",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T18:29:05+02:00",
-      "enlace": "https://www.lavanguardia.com/dinero/20260824/11619309/jainaga-otros-inversores-vascos-piden-permiso-cnmv-lanzar-opa-azkoyen.html"
+      "fecha": "2026-08-24T19:25:56+02:00",
+      "enlace": "https://www.lavanguardia.com/vida/20260824/11619334/memorias-jason-arday-publicaran-semana-honrar-deseos.html"
     },
     {
-      "titular": "Casquero denuncia ”637 amenazas de muerte” tras su rifirrafe con un periodista durante el Getafe-Racing",
+      "titular": "Shein se estrenará por fin en bolsa para captar unos 1.500 millones de euros",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T18:03:21+02:00",
-      "enlace": "https://www.lavanguardia.com/clic/20260824/11619291/casquero-denuncia-637-amenazas-muerte-rifirrafe-periodista-getafe-racing-lol.html"
+      "fecha": "2026-08-24T19:13:54+02:00",
+      "enlace": "https://www.lavanguardia.com/economia/20260824/11619261/shein-salida-bolsa-debut-septiembre.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 10,
+    "antiguedad_minima_min": 2,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2212920,
+        "antiguedad_min": 2212971,
         "descartados_por_gancho": 0
       },
       {
@@ -90,7 +90,7 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 500",
+        "error": "HTTP 429",
         "antiguedad_min": null
       },
       {
@@ -99,7 +99,7 @@
         "ok": true,
         "items": 141,
         "error": null,
-        "antiguedad_min": 17,
+        "antiguedad_min": 21,
         "descartados_por_gancho": 4
       },
       {
@@ -108,8 +108,8 @@
         "ok": true,
         "items": 114,
         "error": null,
-        "antiguedad_min": 36,
-        "descartados_por_gancho": 18
+        "antiguedad_min": 30,
+        "descartados_por_gancho": 16
       },
       {
         "medio": "ABC",
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 10,
+        "antiguedad_min": 2,
         "descartados_por_gancho": 0
       }
     ]

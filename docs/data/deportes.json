@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-08-24T19:05:56+02:00",
+  "generado": "2026-08-24T19:56:18+02:00",
   "titulares": [
     {
-      "titular": "Acuerdo del Newcastle con el Manchester City por el ex azulgrana Nico González",
+      "titular": "Millán, abogado: \"Si te dan un finiquito, no firmes porque, según lo escrito, podrías estar renunciando a reclamar\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T18:41:28+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/20260824/1004219317/acuerdo-newcastle-manchester-city-ex-azulgrana-nico-gonzalez.html"
+      "fecha": "2026-08-24T19:23:34+02:00",
+      "enlace": "https://www.mundodeportivo.com/actualidad/20260824/1004219330/andres-millan-abogado-te-dan-finiquito-acuerdo-no-firmes-escrito-podrias-renunciando-reclamar-despido-hacerlo-te-impedira-acceso-tribunales-dct.html"
     },
     {
-      "titular": "Un año sin Verónica Echegui: repasamos el legado y su trayectoria",
+      "titular": "Emegha podría dejar el Chelsea de Xabi Alonso semanas después de su llegada",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T18:33:53+02:00",
-      "enlace": "https://www.mundodeportivo.com/elotromundo/gente/20260824/1004219302/ano-veronica-echegui-repasamos-legado-trayectoria-grandes-actrices-dct.html"
+      "fecha": "2026-08-24T19:19:53+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/20260824/1004219331/emegha-dejar-chelsea-xabi-alonso-semanas-llegada.html"
     },
     {
       "titular": "Las portadas en Inglaterra con Arteta son para verlas...",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/rayo/2026/08/21/camello-agotados-situacion-distancia-tres-partes.html"
     },
     {
-      "titular": "El secreto del entrenador Sergio Peinado para transformar tu cuerpo: la clave no está en el gimnasio, sino en tu mente",
+      "titular": "Buenas noticias con Juan Hernández: ya adelanta plazos",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/outdoor/secreto-entrenador-sergio-peinado-transformar-133608709"
+      "enlace": "https://www.sport.es/es/noticias/barca/buenas-noticias-juan-hernandez-adelanta-133622521"
     },
     {
-      "titular": "'Superlópez\", el nuevo héroe de los Wolves",
+      "titular": "Estos son los actos conmemorativos previstos para celebrar el Centenario del Barça de basket",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/celta-de-vigo/superlopez-nuevo-heroe-wolves-133622313"
+      "enlace": "https://www.sport.es/es/noticias/baloncesto-barca/son-actos-conmemorativos-previstos-celebrar-133620572"
     },
     {
-      "titular": "La última vez que el granizo obligó a suspender una carrera ciclista fue en el Tour de 2019",
+      "titular": "Así ha celebrado Espí en la intimidad su fichaje por el Madrid",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T18:31:47+02:00",
-      "enlace": "https://www.mundodeportivo.com/ciclismo/vuelta-espana/20260824/1004219316/precedentes-ultima-vez-granizo-obligo-suspender-carrera-ciclista-tour-2019-asalto-bernal-clasificacion-general.html"
+      "fecha": "2026-08-24T19:07:44+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260824/1004219327/asi-celebrado-espi-intimidad-fichaje-madrid.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 24,
+    "antiguedad_minima_min": 32,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 5355,
+        "antiguedad_min": 5405,
         "descartados_por_gancho": 12
       },
       {
@@ -98,10 +98,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 140,
+        "items": 139,
         "error": null,
-        "antiguedad_min": 24,
-        "descartados_por_gancho": 7
+        "antiguedad_min": 32,
+        "descartados_por_gancho": 8
       },
       {
         "medio": "Sport",

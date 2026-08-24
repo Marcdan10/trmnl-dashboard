@@ -2,8 +2,26 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-08-24T19:05:55+02:00",
+  "generado": "2026-08-24T19:56:15+02:00",
   "titulares": [
+    {
+      "titular": "EEUU lanza la operación 'Paria Económico' para bloquear las fuentes de ingresos de Irán",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-24T19:27:20+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/08/24/6a8c7ee5468aeb3e078b458c.html"
+    },
+    {
+      "titular": "El Gobierno anuncia un plan de choque para la crisis de Ceuta: mando único y ayudas para las empresas",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-24T18:31:06+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/08/24/6a8c5fcfe5fdea8d758b4594.html"
+    },
     {
       "titular": "ACS entra en un proyecto de fibra óptica de 308 millones en Australia",
       "medios": [
@@ -23,15 +41,6 @@
       "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/08/24/6a8bd70be5fdea35478b456d.html"
     },
     {
-      "titular": "El Gobierno anuncia un plan de choque para la crisis de Ceuta: mando único y ayudas para las empresas",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-24T17:37:31+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/08/24/6a8c5fcfe5fdea8d758b4594.html"
-    },
-    {
       "titular": "El Gobierno Vasco y Jainaga piden autorización a la CNMV para lanzar la opa sobre Azkoyen por 244,5 millones",
       "medios": [
         "Expansión"
@@ -48,15 +57,6 @@
       "consenso": 1,
       "fecha": "2026-08-24T16:31:38+02:00",
       "enlace": "https://www.expansion.com/latinoamerica/2026/08/24/6a8b57ece5fdeabf618b456f.html"
-    },
-    {
-      "titular": "EEUU elevará al 50% los aranceles sobre el acero y los automóviles canadienses",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-24T16:09:54+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/08/24/6a8c4f14e5fdead82e8b457a.html"
     },
     {
       "titular": "España planta cara a la Premier: siete clubes suman 5.498 millones en valor de marca",
@@ -78,7 +78,7 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 70,
+    "antiguedad_minima_min": 28,
     "detalle": [
       {
         "medio": "Expansión",
@@ -86,7 +86,7 @@
         "ok": true,
         "items": 68,
         "error": null,
-        "antiguedad_min": 70,
+        "antiguedad_min": 28,
         "descartados_por_gancho": 0
       },
       {
