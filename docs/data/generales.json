@@ -2,43 +2,43 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-08-24T21:52:57+02:00",
+  "generado": "2026-08-24T22:22:39+02:00",
   "titulares": [
     {
-      "titular": "Milei atribuye el caso de su exasesor preso en Bolivia a una conspiración de Lula, Evo Morales y “el castrochavismo”",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-24T21:43:17+02:00",
-      "enlace": "https://elpais.com/argentina/2026-08-24/milei-atribuye-el-caso-de-su-exasesor-preso-en-bolivia-a-una-conspiracion-de-lula-evo-morales-y-el-castrochavismo.html"
-    },
-    {
-      "titular": "Macron anuncia tres parques “como Disneyland” en París financiados por Arabia Saudí",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-24T21:41:00+02:00",
-      "enlace": "https://elpais.com/internacional/2026-08-24/macron-anuncia-tres-parques-como-disneyland-en-paris-financiados-por-arabia-saudi.html"
-    },
-    {
-      "titular": "EE.UU. anuncia su campaña para el aislamiento financiero de Irán, pero no menciona a su principal apoyo, China",
+      "titular": "El reparto de comida a los inmigrantes: «Cada día sois más y no hay para todos»",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T21:39:00+02:00",
-      "enlace": "https://www.abc.es/internacional/eeuu-impondra-sanciones-sectores-economicos-vitales-mantienen-20260824193820-nt.html"
+      "fecha": "2026-08-24T22:00:00+02:00",
+      "enlace": "https://www.abc.es/espana/reparto-comida-inmigrantes-trampolin-20260824205425-nt.html"
     },
     {
-      "titular": "Villarejo de Salvanés, contra su alcalde por las fiestas",
+      "titular": "Un centenar de palomas aparecen muertas en el Port de Tarragona a causa del temporal",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-24T21:59:33+02:00",
+      "enlace": "https://elpais.com/espana/catalunya/2026-08-24/un-centenar-de-palomas-aparecen-muertas-en-el-port-de-tarragona-a-causa-del-temporal.html"
+    },
+    {
+      "titular": "Guía sobre el estreñimiento: remedios y soluciones",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T21:16:54+02:00",
-      "enlace": "https://www.abc.es/espana/madrid/protesta-multitudinaria-alcalde-villarejo-salvanes-suspender-fiestas-20260824132818-nt.html"
+      "fecha": "2026-08-24T21:59:07+02:00",
+      "enlace": "https://www.abc.es/recetasderechupete/guia-sobre-el-estrenimiento-remedios-caseros-y-soluciones-para-toda-la-familia/135630/"
+    },
+    {
+      "titular": "Ryan amarga con sus paradas el estreno de Ramis en Osasuna",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-24T21:50:03+02:00",
+      "enlace": "https://elpais.com/deportes/futbol/2026-08-24/ryan-amarga-con-sus-paradas-el-estreno-de-ramis-en-osasuna.html"
     },
     {
       "titular": "La plantilla de Airbus vota a favor de continuar con la huelga indefinida",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 9,
+    "antiguedad_minima_min": 22,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2213087,
+        "antiguedad_min": 2213117,
         "descartados_por_gancho": 0
       },
       {
@@ -90,16 +90,16 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 500",
+        "error": "HTTP 429",
         "antiguedad_min": null
       },
       {
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 142,
+        "items": 141,
         "error": null,
-        "antiguedad_min": 9,
+        "antiguedad_min": 23,
         "descartados_por_gancho": 4
       },
       {
@@ -108,17 +108,17 @@
         "ok": true,
         "items": 115,
         "error": null,
-        "antiguedad_min": 119,
+        "antiguedad_min": 148,
         "descartados_por_gancho": 14
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 25,
+        "items": 24,
         "error": null,
-        "antiguedad_min": 13,
-        "descartados_por_gancho": 0
+        "antiguedad_min": 22,
+        "descartados_por_gancho": 1
       }
     ]
   }
