@@ -2,16 +2,16 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-08-24T10:40:20+02:00",
+  "generado": "2026-08-24T11:40:16+02:00",
   "titulares": [
     {
-      "titular": "Oficial: Trackhouse Aprilia ficha a Enea Bastianini",
+      "titular": "Juanma Rodríguez cuenta quién es Daniel Giddens, el pívot que ayuda al Unicaja en pretemporada",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/motor/moto-gp/oficial-trackhouse-aprilia-ficha-enea-133604303"
+      "enlace": "https://www.sport.es/es/noticias/baloncesto/juanma-rodriguez-cuenta-daniel-giddens-133606814"
     },
     {
       "titular": "Las portadas en Inglaterra con Arteta son para verlas...",
@@ -32,13 +32,13 @@
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260824/1004219054/adeyemi-gordon-ponen-vertigo.html"
     },
     {
-      "titular": "La insólita situación que vivió Ferran Torres al volver a su hotel en Rennes",
+      "titular": "Djokovic rompe su silencio sobre su decisión de no vacunarse de COVID: \"Es mi libertad de elegir, y ese derecho fundamental le fue quitado a muchísima gente\"",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/futbol-internacional/insolita-situacion-vivio-ferran-torres-133603639"
+      "enlace": "https://www.sport.es/es/noticias/tenis/djokovic-rompe-silencio-decision-vacunarse-133604483"
     },
     {
       "titular": "\"Si hubiese estado fresco no habríamos perdido\"",
@@ -50,22 +50,22 @@
       "enlace": "https://www.marca.com/futbol/rayo/2026/08/21/camello-agotados-situacion-distancia-tres-partes.html"
     },
     {
-      "titular": "'Palo' monumental a Vinicius: \"Nadie quiere un jugador así en su club\"",
+      "titular": "El 1x1 del FC Barcelona ante el Elche CF",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T08:02:19+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260824/1004219078/vinicius.html"
+      "fecha": "2026-08-23T23:28:54+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260823/1004218943/1x1-fc-barcelona-elche-cf.html"
     },
     {
-      "titular": "Esto ocurre en tu cuerpo si comes aguacate todos los días: regula el azúcar y mejora la digestión",
+      "titular": "Así está la clasificación de Primera División: el Deportivo, a buscar la zona noble de la Liga EA Sports",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/salud/que-pasa-si-comes-aguacates-todos-los-dias-120363521"
+      "enlace": "https://www.sport.es/es/noticias/futbol/clasificacion-primera-division-deportivo-buscar-133606724"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 14,
+    "antiguedad_minima_min": 15,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 4849,
+        "antiguedad_min": 4909,
         "descartados_por_gancho": 12
       },
       {
@@ -98,19 +98,19 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 137,
+        "items": 136,
         "error": null,
-        "antiguedad_min": 14,
-        "descartados_por_gancho": 6
+        "antiguedad_min": 15,
+        "descartados_por_gancho": 7
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 48,
+        "items": 49,
         "error": null,
         "antiguedad_min": null,
-        "descartados_por_gancho": 2
+        "descartados_por_gancho": 1
       },
       {
         "medio": "NBA",

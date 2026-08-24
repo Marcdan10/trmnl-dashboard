@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-08-24T10:40:15+02:00",
+  "generado": "2026-08-24T11:40:09+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -32,13 +32,23 @@
       "enlace": "https://www.lavanguardia.com/vida/20260824/11618644/diseno-virus-ia-alerta-investigadores-sobre-bioseguridad.html"
     },
     {
-      "titular": "Enes Kanter, que asegura sentirse mujer, la lía en un partido de la liga femenina",
+      "titular": "Pepa Romero: «Tenemos todo decidido para la boda y la luna de miel»",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T09:59:05+02:00",
-      "enlace": "https://www.abc.es/deportes/baloncesto/enes-kanter-lia-grada-partido-wnba-20260824092018-nt.html"
+      "fecha": "2026-08-24T11:16:58+02:00",
+      "enlace": "https://www.abc.es/gente/pepa-romero-decidido-boda-luna-miel-20260820012115-nt.html"
+    },
+    {
+      "titular": "Desaparecido un empresario burgalés tras caer por la borda de su barco cerca de Italia",
+      "medios": [
+        "El País",
+        "ABC"
+      ],
+      "consenso": 2,
+      "fecha": "2026-08-24T11:04:02+02:00",
+      "enlace": "https://www.abc.es/espana/castilla-leon/desaparecido-empresario-burgales-tras-caer-borda-embarcacion-20260823170100-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -50,22 +60,13 @@
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
     },
     {
-      "titular": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Elma Saiz considera una “irresponsabilidad mayúscula” las declaraciones de Feijóo sobre confinar Ceuta",
+      "titular": "Exiliados por el precio de la vivienda: los baleares se lanzan a comprar casa en Asturias",
       "medios": [
-        "El País"
+        "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T10:30:00+02:00",
-      "enlace": "https://elpais.com/espana/2026-08-24/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html"
-    },
-    {
-      "titular": "Cuida de tu mascota con las mejores tiendas de animales de 2026: ¿cuáles son?",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-24T09:53:19+02:00",
-      "enlace": "https://www.abc.es/favorito/cuida-mascota-mejores-tiendas-animales-2026-20260824095318-nt.html"
+      "fecha": "2026-08-24T06:00:00+02:00",
+      "enlace": "https://www.lavanguardia.com/economia/20260824/11618630/exiliados-precio-vivienda-baleares-lanzan-comprar-casa-asturias.html"
     }
   ],
   "salud": {
@@ -74,7 +75,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 10,
+    "antiguedad_minima_min": 4,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +83,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2212415,
+        "antiguedad_min": 2212475,
         "descartados_por_gancho": 0
       },
       {
@@ -97,18 +98,18 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 131,
+        "items": 133,
         "error": null,
-        "antiguedad_min": 10,
-        "descartados_por_gancho": 8
+        "antiguedad_min": 4,
+        "descartados_por_gancho": 9
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 104,
+        "items": 103,
         "error": null,
-        "antiguedad_min": 25,
+        "antiguedad_min": 37,
         "descartados_por_gancho": 19
       },
       {
@@ -117,7 +118,7 @@
         "ok": true,
         "items": 23,
         "error": null,
-        "antiguedad_min": 41,
+        "antiguedad_min": 23,
         "descartados_por_gancho": 2
       }
     ]

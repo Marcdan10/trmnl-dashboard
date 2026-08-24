@@ -2,16 +2,16 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "portadas",
-  "generado": "2026-08-24T10:40:18+02:00",
+  "generado": "2026-08-24T11:40:13+02:00",
   "titulares": [
     {
-      "titular": "La fusión de 'servicers' inmobiliarios moviliza 1.000 millones en compras",
+      "titular": "Los 50 sectores que tiran de la creación de empleo",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
       "fecha": "2026-08-24T00:00:33+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/08/24/6a88884b468aeb4d088b459e.html"
+      "enlace": "https://www.expansion.com/sociedad/2026/08/24/6a8ade59e5fdea6f488b4593.html"
     },
     {
       "titular": "Las grandes fortunas se lanzan a invertir en bancos y firmas de inversión",
@@ -23,15 +23,6 @@
       "enlace": "https://www.expansion.com/empresas/banca/2026/08/24/6a8893eae5fdea6f488b4571.html"
     },
     {
-      "titular": "La Primera de Expansión sobre Singular Bank, Samsung, Apple, Shein, Alibaba y empleo",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-24T07:34:52+02:00",
-      "enlace": "https://www.expansion.com/podcasts/la-primera-de-expansion/2026/08/24/6a8bd37fe5fdea06198b4590.html"
-    },
-    {
       "titular": "Cetelem hace una fuerte dotación por las tarjetas 'revolving'",
       "medios": [
         "Expansión"
@@ -39,6 +30,15 @@
       "consenso": 1,
       "fecha": "2026-08-24T00:01:24+02:00",
       "enlace": "https://www.expansion.com/empresas/banca/2026/08/24/6a6ce391468aeb50388b4599.html"
+    },
+    {
+      "titular": "Santander UK prevé cerrar oficinas de TSB a partir de 2028",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-24T00:01:50+02:00",
+      "enlace": "https://www.expansion.com/empresas/banca/2026/08/24/6a8b3157e5fdea1f7f8b4585.html"
     },
     {
       "titular": "Warsh intenta tranquilizar a los inversores ante las señales de tensión económica",
@@ -59,13 +59,13 @@
       "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/08/24/6a8bd70be5fdea35478b456d.html"
     },
     {
-      "titular": "Banca Generali estudia la oferta de Monte Paschi",
+      "titular": "Shein espera recaudar hasta 1.513 millones con su salida a Bolsa el 1 de septiembre",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T00:01:25+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/08/24/6a8b2ff9468aeb09378b4597.html"
+      "fecha": "2026-08-24T11:11:51+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/08/24/6a8c0ace468aeb45518b4576.html"
     }
   ],
   "salud": {
@@ -78,7 +78,7 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 56,
+    "antiguedad_minima_min": 28,
     "detalle": [
       {
         "medio": "Expansión",
@@ -86,7 +86,7 @@
         "ok": true,
         "items": 65,
         "error": null,
-        "antiguedad_min": 56,
+        "antiguedad_min": 28,
         "descartados_por_gancho": 0
       },
       {

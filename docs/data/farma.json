@@ -2,7 +2,7 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "portadas",
-  "generado": "2026-08-24T10:40:26+02:00",
+  "generado": "2026-08-24T11:40:20+02:00",
   "titulares": [
     {
       "titular": "El auge de China augura un nuevo escenario mundial para la innovación",
@@ -23,13 +23,13 @@
       "enlace": "https://elglobalfarma.com/industria/ia-agentica-estrategias-acceso-industria-farmaceutica-automatizar-procesos-toma-decisiones/"
     },
     {
-      "titular": "El maltrato a mascotas como 'lupa' de la violencia machista: \"Es más frecuente de lo que se piensa\"",
+      "titular": "De la implicación excesiva a la despersonalización: así avanza el burnout en la sanidad",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T05:01:00+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20260824/el-maltrato-mascotas-como-lupa-de-la-violencia-machista-es-mas-frecuente-lo-que-se-piensa/349472_0.html"
+      "fecha": "2026-08-24T11:02:48+02:00",
+      "enlace": "https://www.redaccionmedica.com/profesionales/20260824/de-la-implicacion-excesiva-despersonalizacion-asi-avanza-el-burnout-en-sanidad/349433_0.html"
     },
     {
       "titular": "Más de un millón de altas en la plataforma de historia clínica de la Fundación IDIS",
@@ -50,13 +50,13 @@
       "enlace": "https://elglobalfarma.com/farmacia/cofares-nueva-era-medicamento-25-millones-inversion/"
     },
     {
-      "titular": "Redacción Médica domina la prensa sanitaria en julio: triplica la audiencia de su competidor más cercano",
+      "titular": "El maltrato a mascotas como 'lupa' de la violencia machista: \"Es más frecuente de lo que se piensa\"",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T05:15:00+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20260824/redaccion-medica-domina-la-prensa-sanitaria-en-julio-triplica-audiencia-de-su-competidor-mas-cercano/349465_0.html"
+      "fecha": "2026-08-24T05:01:00+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20260824/el-maltrato-mascotas-como-lupa-de-la-violencia-machista-es-mas-frecuente-lo-que-se-piensa/349472_0.html"
     },
     {
       "titular": "La SEMG muestra su apoyo a los profesionales sanitarios de Ceuta",
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 40,
+    "antiguedad_minima_min": 37,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 121,
+        "antiguedad_min": 181,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 40,
+        "antiguedad_min": 100,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 29,
         "error": null,
-        "antiguedad_min": 270,
+        "antiguedad_min": 37,
         "descartados_por_gancho": 1
       },
       {
