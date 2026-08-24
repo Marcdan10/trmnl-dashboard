@@ -2,16 +2,34 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-08-24T22:22:39+02:00",
+  "generado": "2026-08-24T22:57:17+02:00",
   "titulares": [
     {
-      "titular": "El reparto de comida a los inmigrantes: «Cada día sois más y no hay para todos»",
+      "titular": "Dos desaparecidos bajo los escombros tras el paso de un tornado en Francia",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T22:00:00+02:00",
-      "enlace": "https://www.abc.es/espana/reparto-comida-inmigrantes-trampolin-20260824205425-nt.html"
+      "fecha": "2026-08-24T22:54:13+02:00",
+      "enlace": "https://www.abc.es/internacional/dos-desaparecidos-bajo-escombros-tras-paso-tornado-20260824225002-nt.html"
+    },
+    {
+      "titular": "El 'Día D económico' de Trump contra Irán se queda por ahora en una nueva amenaza",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-24T22:17:09+02:00",
+      "enlace": "https://www.abc.es/internacional/eeuu-impondra-sanciones-sectores-economicos-vitales-mantienen-20260824193820-nt.html"
+    },
+    {
+      "titular": "Abelardo de la Espriella ordena la deportación inmediata de los inmigrantes irregulares: “Se van, es una decisión política”",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-24T21:59:40+02:00",
+      "enlace": "https://elpais.com/america-colombia/2026-08-24/abelardo-de-la-espriella-ordena-la-deportacion-inmediata-de-los-inmigrantes-irregulares-se-van-es-una-decision-politica.html"
     },
     {
       "titular": "Un centenar de palomas aparecen muertas en el Port de Tarragona a causa del temporal",
@@ -21,24 +39,6 @@
       "consenso": 1,
       "fecha": "2026-08-24T21:59:33+02:00",
       "enlace": "https://elpais.com/espana/catalunya/2026-08-24/un-centenar-de-palomas-aparecen-muertas-en-el-port-de-tarragona-a-causa-del-temporal.html"
-    },
-    {
-      "titular": "Guía sobre el estreñimiento: remedios y soluciones",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-24T21:59:07+02:00",
-      "enlace": "https://www.abc.es/recetasderechupete/guia-sobre-el-estrenimiento-remedios-caseros-y-soluciones-para-toda-la-familia/135630/"
-    },
-    {
-      "titular": "Ryan amarga con sus paradas el estreno de Ramis en Osasuna",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-24T21:50:03+02:00",
-      "enlace": "https://elpais.com/deportes/futbol/2026-08-24/ryan-amarga-con-sus-paradas-el-estreno-de-ramis-en-osasuna.html"
     },
     {
       "titular": "La plantilla de Airbus vota a favor de continuar con la huelga indefinida",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 22,
+    "antiguedad_minima_min": 3,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2213117,
+        "antiguedad_min": 2213152,
         "descartados_por_gancho": 0
       },
       {
@@ -90,7 +90,7 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 429",
+        "error": "HTTP 500",
         "antiguedad_min": null
       },
       {
@@ -99,7 +99,7 @@
         "ok": true,
         "items": 141,
         "error": null,
-        "antiguedad_min": 23,
+        "antiguedad_min": 57,
         "descartados_por_gancho": 4
       },
       {
@@ -108,7 +108,7 @@
         "ok": true,
         "items": 115,
         "error": null,
-        "antiguedad_min": 148,
+        "antiguedad_min": 183,
         "descartados_por_gancho": 14
       },
       {
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 24,
         "error": null,
-        "antiguedad_min": 22,
+        "antiguedad_min": 3,
         "descartados_por_gancho": 1
       }
     ]
