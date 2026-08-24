@@ -2,16 +2,16 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "portadas",
-  "generado": "2026-08-24T07:33:22+02:00",
+  "generado": "2026-08-24T08:43:20+02:00",
   "titulares": [
     {
-      "titular": "Más de un millón de altas en la plataforma de historia clínica de la Fundación IDIS",
+      "titular": "El auge de China augura un nuevo escenario mundial para la innovación",
       "medios": [
         "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-08-21T12:56:57+02:00",
-      "enlace": "https://diariofarma.com/2026/08/21/la-historia-clinica-compartida-de-la-fundacion-idis-mihc-supera-el-millon-de-altas"
+      "fecha": "2026-08-24T08:38:59+02:00",
+      "enlace": "https://diariofarma.com/2026/08/24/el-auge-de-china-augura-un-nuevo-escenario-mundial-para-la-innovacion"
     },
     {
       "titular": "Cofares se prepara para la nueva era del medicamento con 25 millones de inversión",
@@ -32,13 +32,13 @@
       "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20260824/el-maltrato-mascotas-como-lupa-de-la-violencia-machista-es-mas-frecuente-lo-que-se-piensa/349472_0.html"
     },
     {
-      "titular": "La SEMG muestra su apoyo a los profesionales sanitarios de Ceuta",
+      "titular": "Más de un millón de altas en la plataforma de historia clínica de la Fundación IDIS",
       "medios": [
         "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-08-21T12:39:06+02:00",
-      "enlace": "https://diariofarma.com/2026/08/21/la-semg-muestra-su-apoyo-a-los-sanitarios-de-ceuta"
+      "fecha": "2026-08-21T12:56:57+02:00",
+      "enlace": "https://diariofarma.com/2026/08/21/la-historia-clinica-compartida-de-la-fundacion-idis-mihc-supera-el-millon-de-altas"
     },
     {
       "titular": "Un curso de acelerón normativo farmacéutico: las tres leyes clave que marcan el final de la legislatura",
@@ -59,13 +59,13 @@
       "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20260824/redaccion-medica-domina-la-prensa-sanitaria-en-julio-triplica-audiencia-de-su-competidor-mas-cercano/349465_0.html"
     },
     {
-      "titular": "Más consultas en urgencias por patologías asociadas al calor y la actividades estivales",
+      "titular": "La SEMG muestra su apoyo a los profesionales sanitarios de Ceuta",
       "medios": [
         "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-08-20T12:21:29+02:00",
-      "enlace": "https://diariofarma.com/2026/08/20/mas-consultas-en-urgencias-por-patologias-asociadas-al-calor-y-la-actividades-estivales"
+      "fecha": "2026-08-21T12:39:06+02:00",
+      "enlace": "https://diariofarma.com/2026/08/21/la-semg-muestra-su-apoyo-a-los-sanitarios-de-ceuta"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 83,
+    "antiguedad_minima_min": 4,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 3996,
+        "antiguedad_min": 4,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 3923,
+        "antiguedad_min": 3993,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 29,
         "error": null,
-        "antiguedad_min": 83,
+        "antiguedad_min": 153,
         "descartados_por_gancho": 1
       },
       {

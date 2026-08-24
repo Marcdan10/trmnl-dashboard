@@ -2,7 +2,7 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-08-24T07:33:16+02:00",
+  "generado": "2026-08-24T08:43:15+02:00",
   "titulares": [
     {
       "titular": "Festival de un Barça sin ariete, pero con pólvora",
@@ -14,13 +14,13 @@
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260823/1004218971/elche-barca.html"
     },
     {
-      "titular": "Lío en la WNBA: ¡Enes Kanter se encara con una jugadora y acaba expulsado!",
+      "titular": "La prensa francesa alucina con Ferran Torres tras su estelar debut: \"El campeón del mundo salva al PSG\"",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/baloncesto/nba/lio-wnba-enes-kanter-encara-133601085"
+      "enlace": "https://www.sport.es/es/noticias/futbol-internacional/psg/prensa-francesa-alucina-ferran-torres-133601672"
     },
     {
       "titular": "Las portadas en Inglaterra con Arteta son para verlas...",
@@ -41,13 +41,13 @@
       "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20260823/1004218898/cerezo-atiza-barca-tema-julian-no-han-altura.html"
     },
     {
-      "titular": "La planificación del Real Zaragoza: un remate final del mercado tranquilo y con dos dudas",
+      "titular": "Málaga-Deportivo: Siempre La Rosaleda",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/futbol/planificacion-real-zaragoza-remate-final-133601058"
+      "enlace": "https://www.sport.es/es/noticias/futbol/malaga-deportivo-rosaleda-133601939"
     },
     {
       "titular": "\"Si hubiese estado fresco no habríamos perdido\"",
@@ -59,13 +59,13 @@
       "enlace": "https://www.marca.com/futbol/rayo/2026/08/21/camello-agotados-situacion-distancia-tres-partes.html"
     },
     {
-      "titular": "El Zamora CF entra en semana de competición: la Primera RFEF regresa al Ruta de la Plata",
+      "titular": "Mercado de fichajes, hoy, en directo: última hora de FC Barcelona, Real Madrid y todas las altas y bajas de las grandes ligas",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/futbol/segunda-rfef/zamora-cf-entra-semana-competicion-133601064"
+      "enlace": "https://www.sport.es/es/noticias/mercado-fichajes/mercado-fichajes-hoy-directo-ultima-133601753"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 7,
+    "antiguedad_minima_min": 22,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 4662,
+        "antiguedad_min": 4732,
         "descartados_por_gancho": 12
       },
       {
@@ -100,17 +100,17 @@
         "ok": true,
         "items": 137,
         "error": null,
-        "antiguedad_min": 7,
+        "antiguedad_min": 22,
         "descartados_por_gancho": 4
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 50,
+        "items": 48,
         "error": null,
         "antiguedad_min": null,
-        "descartados_por_gancho": 0
+        "descartados_por_gancho": 2
       },
       {
         "medio": "NBA",

@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-08-24T07:33:10+02:00",
+  "generado": "2026-08-24T08:43:11+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -32,15 +32,6 @@
       "enlace": "https://www.lavanguardia.com/vida/20260824/11618644/diseno-virus-ia-alerta-investigadores-sobre-bioseguridad.html"
     },
     {
-      "titular": "Trump pierde argumentos para su sala de fiestas: la Casa Blanca ya tiene un búnker nuclear",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-24T07:08:24+02:00",
-      "enlace": "https://www.abc.es/internacional/trump-pierde-argumentos-sala-fiestas-casa-blanca-20260824070744-nt.html"
-    },
-    {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
       "medios": [
         "RTVE"
@@ -59,13 +50,22 @@
       "enlace": "https://elpais.com/espana/2026-08-24/la-crisis-sin-resolver-de-ceuta-aterriza-en-un-congreso-que-calienta-para-elecciones.html"
     },
     {
-      "titular": "Un exbanquero español advierte a los ciudadanos que tengan sus ahorros en el banco",
+      "titular": "Un carrete, un viaje: por qué la generación Z está redescubriendo la fotografía analógica",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T06:00:15+02:00",
-      "enlace": "https://www.abc.es/recreo/exbanquero-espanol-advierte-ciudadanos-ahorros-banco-dia-20260824060000-nt.html"
+      "fecha": "2026-08-24T08:34:46+02:00",
+      "enlace": "https://www.abc.es/cultura/carrete-viaje-generacion-redescubriendo-fotografia-analogica-20260811012710-nt.html"
+    },
+    {
+      "titular": "¿Podría la IA llegar a tener conciencia?",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-24T06:00:00+02:00",
+      "enlace": "https://www.lavanguardia.com/tecnologia/20260824/11617299/ia-inteligencia-artificial-robots-humanoides.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 24,
+    "antiguedad_minima_min": 6,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2212228,
+        "antiguedad_min": 2212298,
         "descartados_por_gancho": 0
       },
       {
@@ -97,19 +97,19 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 131,
+        "items": 130,
         "error": null,
-        "antiguedad_min": 63,
+        "antiguedad_min": 6,
         "descartados_por_gancho": 8
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 106,
+        "items": 103,
         "error": null,
-        "antiguedad_min": 55,
-        "descartados_por_gancho": 17
+        "antiguedad_min": 43,
+        "descartados_por_gancho": 20
       },
       {
         "medio": "ABC",
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 24,
         "error": null,
-        "antiguedad_min": 24,
+        "antiguedad_min": 8,
         "descartados_por_gancho": 1
       }
     ]
