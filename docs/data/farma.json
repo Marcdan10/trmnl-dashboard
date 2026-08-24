@@ -2,7 +2,7 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "ultimas",
-  "generado": "2026-08-24T18:28:48+02:00",
+  "generado": "2026-08-24T19:06:00+02:00",
   "titulares": [
     {
       "titular": "El 12 de Octubre logra frenar el 97% de fibrilaciones auriculares con esta técnica de alto voltaje",
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 16,
+    "antiguedad_minima_min": 54,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 589,
+        "antiguedad_min": 626,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 247,
+        "antiguedad_min": 284,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 16,
+        "antiguedad_min": 54,
         "descartados_por_gancho": 0
       },
       {

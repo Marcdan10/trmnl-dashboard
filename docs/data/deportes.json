@@ -2,26 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-08-24T18:28:43+02:00",
+  "generado": "2026-08-24T19:05:56+02:00",
   "titulares": [
     {
-      "titular": "Eto'o reafirma su apoyo a Infantino y pide retomar la privatización del Mundial",
-      "medios": [
-        "Mundo Deportivo",
-        "Sport"
-      ],
-      "consenso": 2,
-      "fecha": "2026-08-24T17:55:26+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/internacional/20260824/1004219303/eto-reafirma-apoyo-infantino-pide-retomar-privatizacion-mundial.html"
-    },
-    {
-      "titular": "Oficial: Anulada la tercera etapa de La Vuelta a 16 kilómetros de meta por una granizada monumental",
+      "titular": "Acuerdo del Newcastle con el Manchester City por el ex azulgrana Nico González",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T17:36:08+02:00",
-      "enlace": "https://www.mundodeportivo.com/ciclismo/vuelta-espana/20260824/1004219297/granizada-monumental-obliga-detener-cuarta-etapa-vuelta.html"
+      "fecha": "2026-08-24T18:41:28+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/20260824/1004219317/acuerdo-newcastle-manchester-city-ex-azulgrana-nico-gonzalez.html"
+    },
+    {
+      "titular": "Un año sin Verónica Echegui: repasamos el legado y su trayectoria",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-24T18:33:53+02:00",
+      "enlace": "https://www.mundodeportivo.com/elotromundo/gente/20260824/1004219302/ano-veronica-echegui-repasamos-legado-trayectoria-grandes-actrices-dct.html"
     },
     {
       "titular": "Las portadas en Inglaterra con Arteta son para verlas...",
@@ -42,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/rayo/2026/08/21/camello-agotados-situacion-distancia-tres-partes.html"
     },
     {
-      "titular": "El talent del patinatge català es projecta als World Skate Games de Paraguai",
+      "titular": "El secreto del entrenador Sergio Peinado para transformar tu cuerpo: la clave no está en el gimnasio, sino en tu mente",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/esport-catala/talent-patinatge-catala-projecta-als-133621208"
+      "enlace": "https://www.sport.es/es/noticias/outdoor/secreto-entrenador-sergio-peinado-transformar-133608709"
     },
     {
-      "titular": "Prohíben fichar al Real Murcia a cinco días del inicio de la liga",
+      "titular": "'Superlópez\", el nuevo héroe de los Wolves",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/futbol/segunda-rfef/prohiben-fichar-real-murcia-cinco-133621215"
+      "enlace": "https://www.sport.es/es/noticias/celta-de-vigo/superlopez-nuevo-heroe-wolves-133622313"
     },
     {
-      "titular": "Fabinho llega a Turquía para jugar con el Trabzonspor de Mohamed Salah",
+      "titular": "La última vez que el granizo obligó a suspender una carrera ciclista fue en el Tour de 2019",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T17:33:26+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/20260824/1004219281/fabinho-llega-turquia-jugar-trabzonspor-mohamed-salah.html"
+      "fecha": "2026-08-24T18:31:47+02:00",
+      "enlace": "https://www.mundodeportivo.com/ciclismo/vuelta-espana/20260824/1004219316/precedentes-ultima-vez-granizo-obligo-suspender-carrera-ciclista-tour-2019-asalto-bernal-clasificacion-general.html"
     }
   ],
   "salud": {
@@ -75,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 33,
+    "antiguedad_minima_min": 24,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +82,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 5317,
+        "antiguedad_min": 5355,
         "descartados_por_gancho": 12
       },
       {
@@ -99,9 +98,9 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 142,
+        "items": 140,
         "error": null,
-        "antiguedad_min": 33,
+        "antiguedad_min": 24,
         "descartados_por_gancho": 7
       },
       {

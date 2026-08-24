@@ -2,16 +2,16 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-08-24T18:28:37+02:00",
+  "generado": "2026-08-24T19:05:51+02:00",
   "titulares": [
     {
-      "titular": "Marruecos dice que los inmigrantes que entraron en Ceuta defendían que la ciudad «es marroquí»",
+      "titular": "Los ocho herederos de Del Vecchio y la batalla por Ray-Ban: un imperio de 55.000 millones",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T18:16:13+02:00",
-      "enlace": "https://www.abc.es/internacional/marruecos-dice-inmigrantes-entraron-ceuta-defendian-ciudad-20260824175454-nt.html"
+      "fecha": "2026-08-24T18:55:49+02:00",
+      "enlace": "https://www.abc.es/gente/ocho-herederos-disputan-imperio-55000-millones-rayban-20260824142726-nt.html"
     },
     {
       "titular": "El Gobierno aprueba un mando único para Ceuta casi un mes después de la crisis migratoria",
@@ -19,44 +19,44 @@
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T18:12:24+02:00",
+      "fecha": "2026-08-24T18:55:12+02:00",
       "enlace": "https://www.abc.es/espana/gobierno-aprueba-mando-unico-ceuta-mes-despues-20260824170506-nt.html"
     },
     {
-      "titular": "El granizo y una tormenta obligan a cancelar la tercera etapa de LaVuelta",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-24T17:55:22+02:00",
-      "enlace": "https://www.lavanguardia.com/deportes/ciclismo/20260824/11619292/granizo-tormenta-obligan-cancelar-tercera-etapa-vuelta.html"
-    },
-    {
-      "titular": "Trump amenaza con aranceles del 50% a coches y acero de Canadá en pleno conflicto comercial",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-24T17:51:48+02:00",
-      "enlace": "https://www.lavanguardia.com/economia/20260824/11619288/trump-amenaza-aranceles-50-coches-acero-canada-pleno-conflicto-comercial.html"
-    },
-    {
-      "titular": "La etapa 3 de La Vuelta se cancela por una fuerte granizada a falta de 15 kilómetros para la meta",
+      "titular": "Mor Fabrizio Plessi, artista entre Venècia i Mallorca",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T17:50:30+02:00",
-      "enlace": "https://elpais.com/deportes/ciclismo/2026-08-24/la-etapa-3-de-la-vuelta-se-cancela-por-una-fuerte-granizada.html"
+      "fecha": "2026-08-24T18:48:03+02:00",
+      "enlace": "https://elpais.com/quadern/2026-08-24/mor-fabrizio-plessi-artista-entre-venecia-i-mallorca.html"
     },
     {
-      "titular": "Sánchez acepta casi un mes después crear un mando único para la crisis de Ceuta dirigido por Ángel Víctor Torres",
+      "titular": "Enrique de Inglaterra deja su puesto en el consejo de una controvertida ONG africana",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T17:48:13+02:00",
-      "enlace": "https://elpais.com/espana/2026-08-24/sanchez-acepta-casi-un-mes-despues-crear-un-mando-unico-para-la-crisis-de-ceuta-dirigido-por-angel-victor-torres.html"
+      "fecha": "2026-08-24T18:42:56+02:00",
+      "enlace": "https://elpais.com/gente/2026-08-24/enrique-de-inglaterra-deja-su-puesto-en-el-consejo-de-una-controvertida-ong-africana.html"
+    },
+    {
+      "titular": "Jainaga y otros inversores vascos piden permiso a la CNMV para lanzar su opa por Azkoyen",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-24T18:29:05+02:00",
+      "enlace": "https://www.lavanguardia.com/dinero/20260824/11619309/jainaga-otros-inversores-vascos-piden-permiso-cnmv-lanzar-opa-azkoyen.html"
+    },
+    {
+      "titular": "Casquero denuncia ”637 amenazas de muerte” tras su rifirrafe con un periodista durante el Getafe-Racing",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-24T18:03:21+02:00",
+      "enlace": "https://www.lavanguardia.com/clic/20260824/11619291/casquero-denuncia-637-amenazas-muerte-rifirrafe-periodista-getafe-racing-lol.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 12,
+    "antiguedad_minima_min": 10,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2212883,
+        "antiguedad_min": 2212920,
         "descartados_por_gancho": 0
       },
       {
@@ -99,7 +99,7 @@
         "ok": true,
         "items": 141,
         "error": null,
-        "antiguedad_min": 38,
+        "antiguedad_min": 17,
         "descartados_por_gancho": 4
       },
       {
@@ -108,7 +108,7 @@
         "ok": true,
         "items": 114,
         "error": null,
-        "antiguedad_min": 33,
+        "antiguedad_min": 36,
         "descartados_por_gancho": 18
       },
       {
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 12,
+        "antiguedad_min": 10,
         "descartados_por_gancho": 0
       }
     ]
