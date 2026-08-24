@@ -2,61 +2,61 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-08-24T16:35:37+02:00",
+  "generado": "2026-08-24T17:33:02+02:00",
   "titulares": [
     {
-      "titular": "Villarejo de Salvanés, contra su alcalde por suspender las fiestas: «El pueblo no se toca»",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-24T16:25:19+02:00",
-      "enlace": "https://www.abc.es/espana/madrid/protesta-multitudinaria-alcalde-villarejo-salvanes-suspender-fiestas-20260824132818-nt.html"
-    },
-    {
-      "titular": "El Barça arranca la celebración de los cien años de su sección de baloncesto con Laporta al frente",
+      "titular": "Última hora de la entrada de inmigrantes a Ceuta, en directo | El Gobierno anuncia un mando único para gestionar la crisis de Ceuta",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T16:25:16+02:00",
-      "enlace": "https://elpais.com/deportes/baloncesto/2026-08-24/el-barca-arranca-la-celebracion-de-los-cien-anos-de-su-seccion-de-baloncesto-con-laporta-al-frente.html"
+      "fecha": "2026-08-24T17:29:07+02:00",
+      "enlace": "https://elpais.com/espana/2026-08-24/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html"
     },
     {
-      "titular": "El Barça muy bien, pero contra el Elche",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-24T16:24:34+02:00",
-      "enlace": "https://www.abc.es/deportes/futbol/barca-bien-elche-20260824141654-nt.html"
-    },
-    {
-      "titular": "Juan José Mutilba, el empresario burgalés de bidones de agua al que buscan en el Mediterráneo",
+      "titular": "Grecia traslada una batería Patriot a Creta por la amenaza iraní a bases de EE UU en Europa",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T16:20:08+02:00",
-      "enlace": "https://elpais.com/espana/2026-08-24/juan-jose-mutilba-el-empresario-burgales-de-bidones-de-agua-al-que-buscan-en-el-mediterraneo.html"
+      "fecha": "2026-08-24T17:26:11+02:00",
+      "enlace": "https://elpais.com/internacional/2026-08-24/grecia-traslada-una-bateria-patriot-a-creta-por-la-amenaza-irani-a-bases-de-ee-uu-en-europa.html"
     },
     {
-      "titular": "El mundo en fotografías, las imágenes del día",
+      "titular": "Ni estrellas imposibles ni errores cosmológicos: el Webb revela qué son los puntos rojos del Universo primitivo",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-24T17:23:21+02:00",
+      "enlace": "https://www.abc.es/ciencia/estrellas-imposibles-errores-cosmologicos-webb-revela-puntos-20260824170004-nt.html"
+    },
+    {
+      "titular": "Erola Jons, la 'influencer' a la que La Vuelta ha apartado de los ciclistas tras su polémica con Pogacar",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-24T17:16:37+02:00",
+      "enlace": "https://www.abc.es/gente/erola-jons-influencer-vuelta-apartado-ciclistas-tras-20260824170845-nt.html"
+    },
+    {
+      "titular": "Londres ayudará a Ucrania a fabricar misiles de largo alcance ante la escasez de Patriots",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T15:25:23+02:00",
-      "enlace": "https://www.lavanguardia.com/fotos/20260824/11619031/mundo-fotografias-imagenes-dia.html"
+      "fecha": "2026-08-24T16:46:31+02:00",
+      "enlace": "https://www.lavanguardia.com/internacional/20260824/11619165/londres-ayudara-kyiv-fabricar-misiles-alcance-escasez-patriots.html"
     },
     {
-      "titular": "Sanidad y comunidades acuerdan enviar 25.000 vacunas a Ceuta",
+      "titular": "Si tus zapatillas de senderismo ya están gastadas, estas Columbia rebajadas son una alternativa que no puedes ignorar",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T15:14:43+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20260824/11619185/sanidad-comunidades-acuerdan-enviar-25-000-vacunas-ceuta-afrontar-crisis-migratoria.html"
+      "fecha": "2026-08-24T16:30:00+02:00",
+      "enlace": "https://www.lavanguardia.com/comprar/moda-belleza/20260824/11618908/tus-zapatillas-senderismo-gastadas-columbia-rebajadas-son-alternativa-puedes-ignorar-mkt-colu.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 10,
+    "antiguedad_minima_min": 3,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2212770,
+        "antiguedad_min": 2212828,
         "descartados_por_gancho": 0
       },
       {
@@ -99,16 +99,16 @@
         "ok": true,
         "items": 140,
         "error": null,
-        "antiguedad_min": 10,
+        "antiguedad_min": 3,
         "descartados_por_gancho": 4
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 109,
+        "items": 110,
         "error": null,
-        "antiguedad_min": 70,
+        "antiguedad_min": 46,
         "descartados_por_gancho": 18
       },
       {
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 10,
+        "antiguedad_min": 9,
         "descartados_por_gancho": 0
       }
     ]

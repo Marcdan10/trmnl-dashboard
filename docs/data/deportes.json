@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-08-24T16:35:41+02:00",
+  "generado": "2026-08-24T17:33:09+02:00",
   "titulares": [
     {
-      "titular": "Ter Stegen y Ona Sellarès ya son padres de su primera hija en común",
+      "titular": "Estos son los mejores remedios caseros para las picaduras de mosquito",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T16:20:59+02:00",
-      "enlace": "https://www.mundodeportivo.com/vaya-mundo/20260824/1004219271/ter-stegen-ona-sellares-son-padres-primera-hija-comun-nombre-han-elegido-dct.html"
+      "fecha": "2026-08-24T17:14:38+02:00",
+      "enlace": "https://www.mundodeportivo.com/pulso/20260824/1004219272/farmaceuticos-coinciden-son-mejores-remedios-caseros-aliviar-molestias-causadas-picaduras-mosquito-dct.html"
     },
     {
-      "titular": "Médicos y entrenadores coinciden: \"Estas personas tienen peor rendimiento y más lesiones\"",
+      "titular": "Batalla, operado con éxito: este es el tiempo estimado de baja",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T16:06:38+02:00",
-      "enlace": "https://www.mundodeportivo.com/running/20260824/1004215456/medicos-deportivos-entrenadores-coinciden-personas-corren-carrera-baja-disponibilidad-energia-peor-rendimiento-mas-riesgo-lesiones-dct.html"
+      "fecha": "2026-08-24T17:13:43+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/rayo-vallecano/20260824/1004219286/batalla-operado-exito-estimado-baja.html"
     },
     {
       "titular": "Las portadas en Inglaterra con Arteta son para verlas...",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/rayo/2026/08/21/camello-agotados-situacion-distancia-tres-partes.html"
     },
     {
-      "titular": "Siete plazas por definir en la parrilla de MotoGP 2027",
+      "titular": "Hugo Garcés deslumbra en la Aqua Hotel Cup: MVP y campeón con el Barça",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/motor/moto-gp/siete-plazas-definir-parrilla-motogp-133616778"
+      "enlace": "https://www.sport.es/es/noticias/futbol-base/hugo-garces-deslumbra-aqua-hotel-133616896"
     },
     {
-      "titular": "Tras un año para olvidar, Almada y Fede Viñas triunfan en México: así les va a los ex del Real Oviedo",
+      "titular": "CA Osasuna - Levante UD: Hora y dónde ver el partido en vivo y en directo online",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/oviedo/ano-olvidar-almada-fede-vinas-133617191"
+      "enlace": "https://www.sport.es/es/noticias/levante/ca-osasuna-levante-ud-hora-133618794"
     },
     {
-      "titular": "Joan Verdú: \"Estamos en Nueva Zelanda entrenando fuerte, con condiciones muy, muy buenas\"",
+      "titular": "Tunde da el salto al fútbol internacional",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T15:58:21+02:00",
-      "enlace": "https://www.mundodeportivo.com/deportes-invierno/20260824/1004219245/joan-verdu-nueva-zelanda-entrenando-fuerte-condiciones-buena-emocionado.html"
+      "fecha": "2026-08-24T17:07:15+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/20260824/1004219284/tunde-da-salto-futbol-internacional.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 14,
+    "antiguedad_minima_min": 18,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 5204,
+        "antiguedad_min": 5262,
         "descartados_por_gancho": 12
       },
       {
@@ -100,17 +100,17 @@
         "ok": true,
         "items": 141,
         "error": null,
-        "antiguedad_min": 14,
+        "antiguedad_min": 18,
         "descartados_por_gancho": 7
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 48,
+        "items": 49,
         "error": null,
         "antiguedad_min": null,
-        "descartados_por_gancho": 1
+        "descartados_por_gancho": 0
       },
       {
         "medio": "NBA",
