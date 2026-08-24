@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-08-24T23:28:04+02:00",
+  "generado": "2026-08-24T23:54:31+02:00",
   "titulares": [
     {
-      "titular": "Julián sigue alimentando el sueño del Barça",
+      "titular": "La Real Sociedad busca la fórmula para llevarse a Héctor Fort",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T22:52:35+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260824/1004219387/julian-sigue-alimentando-sueno-barca.html"
+      "fecha": "2026-08-24T23:03:44+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260824/1004219384/real-sociedad-busca-formula-llevarse-hector-fort.html"
     },
     {
-      "titular": "Problemas para el Madrid con la F1",
+      "titular": "Hay acuerdo con el Chelsea y Sarr va a ser el primer fichaje de la Real",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T22:46:52+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260824/1004219382/problemas-madrid-f1.html"
+      "fecha": "2026-08-24T22:57:01+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-sociedad/20260824/1004219388/hay-acuerdo-chelsea-sarr-primer-fichaje-real.html"
     },
     {
       "titular": "Las portadas en Inglaterra con Arteta son para verlas...",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/rayo/2026/08/21/camello-agotados-situacion-distancia-tres-partes.html"
     },
     {
-      "titular": "Fredi Álvarez, tras la remontada del Celta Fortuna: «El orgullo que tiene el equipo le hizo levantar el partido»",
+      "titular": "Chupe neutraliza a Aubameyang y reparte los puntos en el Málaga-Deportivo",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/celta-de-vigo/fredi-alvarez-remontada-celta-fortuna-133626720"
+      "enlace": "https://www.sport.es/es/noticias/laliga/chupe-neutraliza-aubameyang-reparte-puntos-133626891"
     },
     {
-      "titular": "El United quiere llevarse cedido a Balde",
+      "titular": "El Mallorca paga sus errores en las áreas",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/barca/united-quiere-llevarse-cedido-balde-133617829"
+      "enlace": "https://www.sport.es/es/noticias/mallorca/mallorca-paga-errores-areas-133627047"
     },
     {
-      "titular": "Descubren un convento medieval oculto durante siglos en Dinamarca",
+      "titular": "Federer dice que le habría encantado enfrentarse a Carlos Alcaraz",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T22:45:06+02:00",
-      "enlace": "https://www.mundodeportivo.com/tressesenta/20260824/1004219354/ponen-manos-obra-construir-campo-futbol-descubren-convento-medieval-oculto-siglos-dinamarca-smd-sbj.html"
+      "fecha": "2026-08-24T22:56:33+02:00",
+      "enlace": "https://www.mundodeportivo.com/tenis/open-usa/20260824/1004219385/federer-dice-le-habria-encantado-enfrentarse-carlos-alcaraz.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 35,
+    "antiguedad_minima_min": 50,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 5617,
+        "antiguedad_min": 5643,
         "descartados_por_gancho": 12
       },
       {
@@ -98,10 +98,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 139,
+        "items": 140,
         "error": null,
-        "antiguedad_min": 35,
-        "descartados_por_gancho": 5
+        "antiguedad_min": 50,
+        "descartados_por_gancho": 4
       },
       {
         "medio": "Sport",

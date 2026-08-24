@@ -2,16 +2,16 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-08-24T23:28:00+02:00",
+  "generado": "2026-08-24T23:54:25+02:00",
   "titulares": [
     {
-      "titular": "Xabi Alonso se impone a Arbeloa en el derbi de los amigos",
+      "titular": "Atención, se rueda: bólidos y pilotos disfrutan en el estreno de Madring",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T23:00:34+02:00",
-      "enlace": "https://www.abc.es/deportes/futbol/xabi-alonso-impone-arbeloa-derbi-amigos-20260824225609-nt.html"
+      "fecha": "2026-08-24T23:28:39+02:00",
+      "enlace": "https://www.abc.es/deportes/formula-1/curvas-madring-ponen-prueba-escasas-semanas-recibir-20260824204327-nt.html"
     },
     {
       "titular": "Dos desaparecidos bajo los escombros tras el paso de un tornado en Francia",
@@ -19,7 +19,7 @@
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T22:54:13+02:00",
+      "fecha": "2026-08-24T23:19:09+02:00",
       "enlace": "https://www.abc.es/internacional/dos-desaparecidos-bajo-escombros-tras-paso-tornado-20260824225002-nt.html"
     },
     {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 27,
+    "antiguedad_minima_min": 25,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2213182,
+        "antiguedad_min": 2213209,
         "descartados_por_gancho": 0
       },
       {
@@ -99,7 +99,7 @@
         "ok": true,
         "items": 141,
         "error": null,
-        "antiguedad_min": 88,
+        "antiguedad_min": 114,
         "descartados_por_gancho": 4
       },
       {
@@ -108,7 +108,7 @@
         "ok": true,
         "items": 116,
         "error": null,
-        "antiguedad_min": 39,
+        "antiguedad_min": 66,
         "descartados_por_gancho": 14
       },
       {
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 24,
         "error": null,
-        "antiguedad_min": 27,
+        "antiguedad_min": 25,
         "descartados_por_gancho": 1
       }
     ]
