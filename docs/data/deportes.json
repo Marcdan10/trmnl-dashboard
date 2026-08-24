@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-08-24T21:23:46+02:00",
+  "generado": "2026-08-24T21:53:03+02:00",
   "titulares": [
     {
-      "titular": "Barça Team: \"El Barça agotará todas las vías por Julián\"",
+      "titular": "Granollers - Barça, en directo | Final Supercopa Catalunya",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T20:56:12+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260824/1004219345/barca-team-barca-agotara-todas-vias-julian.html"
+      "fecha": "2026-08-24T21:17:40+02:00",
+      "enlace": "https://www.mundodeportivo.com/balonmano/20260824/1004219294/granollers-barca-supercopa-catalunya-balonmano.html"
     },
     {
-      "titular": "\"No puede ser que algunos jóvenes quieran ir ya a la vivienda definitiva. Yo empecé de alquiler\"",
+      "titular": "El United prefiere una cesión por Balde",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T20:51:31+02:00",
-      "enlace": "https://www.mundodeportivo.com/actualidad/20260824/1004219347/gonzalo-bernardos-economista-empece-viviendo-alquiler-bastantes-anos-me-compre-vivienda-no-jovenes-quieran-vivienda-definitiva-dnr-dct.html"
+      "fecha": "2026-08-24T21:12:45+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260824/1004219352/united-prefiere-cesion-balde.html"
     },
     {
       "titular": "Las portadas en Inglaterra con Arteta son para verlas...",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/rayo/2026/08/21/camello-agotados-situacion-distancia-tres-partes.html"
     },
     {
-      "titular": "Fulham - Chelsea, en directo: partido de la Premier League, hoy en vivo",
+      "titular": "Colapso y naufragio del Andorra en la recta final",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/premier-league/fulham-chelsea-directo-partido-premier-133623628"
+      "enlace": "https://www.sport.es/es/noticias/futbol-catalan/colapso-naufragio-andorra-recta-final-133615618"
     },
     {
-      "titular": "El Deportivo avanza por Adama Traoré, que apunta a ser el octavo fichaje del retorno a Primera",
+      "titular": "El 1x1 de los jugadores del Levante UD ante CA Osasuna",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/futbol/deportivo-avanza-adama-traore-apunta-133625472"
+      "enlace": "https://www.sport.es/es/noticias/levante/1x1-jugadores-levante-ud-ca-133625836"
     },
     {
-      "titular": "Dan por hecho el fichaje de Kenneth Faried por el Baskonia",
+      "titular": "Granada - Mallorca, en directo",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T20:50:28+02:00",
-      "enlace": "https://www.mundodeportivo.com/baloncesto/euroliga/20260824/1004219348/dan-hecho-fichaje-kenneth-faried-baskonia.html"
+      "fecha": "2026-08-24T21:00:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/liga-segunda-division/20260824/1004217819/granada-mallorca-directo-laliga-hypermotion-segunda-division.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 27,
+    "antiguedad_minima_min": 35,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 5493,
+        "antiguedad_min": 5522,
         "descartados_por_gancho": 12
       },
       {
@@ -98,19 +98,19 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 140,
+        "items": 139,
         "error": null,
-        "antiguedad_min": 27,
-        "descartados_por_gancho": 7
+        "antiguedad_min": 35,
+        "descartados_por_gancho": 6
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 48,
+        "items": 47,
         "error": null,
         "antiguedad_min": null,
-        "descartados_por_gancho": 1
+        "descartados_por_gancho": 2
       },
       {
         "medio": "NBA",
