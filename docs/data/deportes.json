@@ -2,25 +2,26 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-08-24T17:33:09+02:00",
+  "generado": "2026-08-24T18:28:43+02:00",
   "titulares": [
     {
-      "titular": "Estos son los mejores remedios caseros para las picaduras de mosquito",
+      "titular": "Eto'o reafirma su apoyo a Infantino y pide retomar la privatización del Mundial",
       "medios": [
-        "Mundo Deportivo"
+        "Mundo Deportivo",
+        "Sport"
       ],
-      "consenso": 1,
-      "fecha": "2026-08-24T17:14:38+02:00",
-      "enlace": "https://www.mundodeportivo.com/pulso/20260824/1004219272/farmaceuticos-coinciden-son-mejores-remedios-caseros-aliviar-molestias-causadas-picaduras-mosquito-dct.html"
+      "consenso": 2,
+      "fecha": "2026-08-24T17:55:26+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/internacional/20260824/1004219303/eto-reafirma-apoyo-infantino-pide-retomar-privatizacion-mundial.html"
     },
     {
-      "titular": "Batalla, operado con éxito: este es el tiempo estimado de baja",
+      "titular": "Oficial: Anulada la tercera etapa de La Vuelta a 16 kilómetros de meta por una granizada monumental",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T17:13:43+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/rayo-vallecano/20260824/1004219286/batalla-operado-exito-estimado-baja.html"
+      "fecha": "2026-08-24T17:36:08+02:00",
+      "enlace": "https://www.mundodeportivo.com/ciclismo/vuelta-espana/20260824/1004219297/granizada-monumental-obliga-detener-cuarta-etapa-vuelta.html"
     },
     {
       "titular": "Las portadas en Inglaterra con Arteta son para verlas...",
@@ -41,31 +42,31 @@
       "enlace": "https://www.marca.com/futbol/rayo/2026/08/21/camello-agotados-situacion-distancia-tres-partes.html"
     },
     {
-      "titular": "Hugo Garcés deslumbra en la Aqua Hotel Cup: MVP y campeón con el Barça",
+      "titular": "El talent del patinatge català es projecta als World Skate Games de Paraguai",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/futbol-base/hugo-garces-deslumbra-aqua-hotel-133616896"
+      "enlace": "https://www.sport.es/es/noticias/esport-catala/talent-patinatge-catala-projecta-als-133621208"
     },
     {
-      "titular": "CA Osasuna - Levante UD: Hora y dónde ver el partido en vivo y en directo online",
+      "titular": "Prohíben fichar al Real Murcia a cinco días del inicio de la liga",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/levante/ca-osasuna-levante-ud-hora-133618794"
+      "enlace": "https://www.sport.es/es/noticias/futbol/segunda-rfef/prohiben-fichar-real-murcia-cinco-133621215"
     },
     {
-      "titular": "Tunde da el salto al fútbol internacional",
+      "titular": "Fabinho llega a Turquía para jugar con el Trabzonspor de Mohamed Salah",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T17:07:15+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/20260824/1004219284/tunde-da-salto-futbol-internacional.html"
+      "fecha": "2026-08-24T17:33:26+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/20260824/1004219281/fabinho-llega-turquia-jugar-trabzonspor-mohamed-salah.html"
     }
   ],
   "salud": {
@@ -74,7 +75,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 18,
+    "antiguedad_minima_min": 33,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +83,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 5262,
+        "antiguedad_min": 5317,
         "descartados_por_gancho": 12
       },
       {
@@ -98,9 +99,9 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 141,
+        "items": 142,
         "error": null,
-        "antiguedad_min": 18,
+        "antiguedad_min": 33,
         "descartados_por_gancho": 7
       },
       {

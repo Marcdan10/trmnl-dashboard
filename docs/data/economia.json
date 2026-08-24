@@ -2,15 +2,33 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-08-24T17:33:07+02:00",
+  "generado": "2026-08-24T18:28:40+02:00",
   "titulares": [
+    {
+      "titular": "ACS entra en un proyecto de fibra óptica de 308 millones en Australia",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-24T17:55:27+02:00",
+      "enlace": "https://www.expansion.com/empresas/inmobiliario/2026/08/24/6a8c68bae5fdead8348b458c.html"
+    },
+    {
+      "titular": "El Ibex recupera los 20.000 puntos en el inicio de una semana marcada por la Fed y Nvidia",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-24T17:38:32+02:00",
+      "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/08/24/6a8bd70be5fdea35478b456d.html"
+    },
     {
       "titular": "El Gobierno anuncia un plan de choque para la crisis de Ceuta: mando único y ayudas para las empresas",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T17:18:39+02:00",
+      "fecha": "2026-08-24T17:37:31+02:00",
       "enlace": "https://www.expansion.com/economia/2026/08/24/6a8c5fcfe5fdea8d758b4594.html"
     },
     {
@@ -41,15 +59,6 @@
       "enlace": "https://www.expansion.com/economia/2026/08/24/6a8c4f14e5fdead82e8b457a.html"
     },
     {
-      "titular": "El Ibex comienza la semana por encima de los 20.000 puntos",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-24T16:08:15+02:00",
-      "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/08/24/6a8bd70be5fdea35478b456d.html"
-    },
-    {
       "titular": "España planta cara a la Premier: siete clubes suman 5.498 millones en valor de marca",
       "medios": [
         "Expansión"
@@ -57,15 +66,6 @@
       "consenso": 1,
       "fecha": "2026-08-24T15:10:06+02:00",
       "enlace": "https://www.expansion.com/directivos/deporte-negocio/2026/08/24/6a8c4277e5fdea84798b4575.html"
-    },
-    {
-      "titular": "KPMG Australia despide a cientos de empleados y reduce el salario de sus socios tras un escándalo de auditoría",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-24T14:37:37+02:00",
-      "enlace": "https://www.expansion.com/economia/financial-times/2026/08/24/6a8c3b0e468aebe6458b457c.html"
     }
   ],
   "salud": {
@@ -78,7 +78,7 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 14,
+    "antiguedad_minima_min": 33,
     "detalle": [
       {
         "medio": "Expansión",
@@ -86,7 +86,7 @@
         "ok": true,
         "items": 68,
         "error": null,
-        "antiguedad_min": 14,
+        "antiguedad_min": 33,
         "descartados_por_gancho": 0
       },
       {
