@@ -2,8 +2,35 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-08-24T14:36:01+02:00",
+  "generado": "2026-08-24T15:44:50+02:00",
   "titulares": [
+    {
+      "titular": "España planta cara a la Premier: siete clubes suman 5.498 millones en valor de marca",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-24T15:10:06+02:00",
+      "enlace": "https://www.expansion.com/directivos/deporte-negocio/2026/08/24/6a8c4277e5fdea84798b4575.html"
+    },
+    {
+      "titular": "Sánchez convoca al Consejo de Seguridad Nacional para analizar la situación en Ceuta",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-24T15:04:30+02:00",
+      "enlace": "https://www.expansion.com/economia/politica/2026/08/24/6a8c415ce5fdeaed228b4577.html"
+    },
+    {
+      "titular": "KPMG Australia despide a cientos de empleados y reduce el salario de sus socios tras un escándalo de auditoría",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-24T14:37:37+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/08/24/6a8c3b0e468aebe6458b457c.html"
+    },
     {
       "titular": "Trump, señalado por el coste al bolsillo de los estadounidenses de la guerra comercial con Canadá",
       "medios": [
@@ -39,33 +66,6 @@
       "consenso": 1,
       "fecha": "2026-08-24T13:02:34+02:00",
       "enlace": "https://www.expansion.com/catalunya/2026/08/24/6a8c24c5e5fdea8d758b457a.html"
-    },
-    {
-      "titular": "El crecimiento del PIB de la OCDE se acelera al 0,5% en el segundo trimestre a pesar de la guerra de Irán",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-24T13:01:19+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/08/24/6a8c247ce5fdea85798b456f.html"
-    },
-    {
-      "titular": "Singapur ofrece a los padres 55.000 dólares para fomentar la natalidad",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-24T12:48:34+02:00",
-      "enlace": "https://www.expansion.com/economia/financial-times/2026/08/24/6a8c2180468aeb33518b457e.html"
-    },
-    {
-      "titular": "Buscan a un empresario español que cayó de su barco en alta mar",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-24T12:44:33+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/08/24/6a8c1dc9468aebd9458b457a.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 18,
+    "antiguedad_minima_min": 34,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 63,
+        "items": 65,
         "error": null,
-        "antiguedad_min": 18,
+        "antiguedad_min": 34,
         "descartados_por_gancho": 0
       },
       {

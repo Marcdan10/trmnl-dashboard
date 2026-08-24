@@ -2,8 +2,17 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "ultimas",
-  "generado": "2026-08-24T14:36:08+02:00",
+  "generado": "2026-08-24T15:44:57+02:00",
   "titulares": [
+    {
+      "titular": "El envío de vacunas a Ceuta cala entre las autonomías con dudas sobre logística",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-24T14:34:06+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/ministerio-sanidad/20260824/el-envio-de-vacunas-ceuta-cala-entre-las-autonomias-con-dudas-sobre-logistica/349562_0.html"
+    },
     {
       "titular": "La Farmacia al completo rechaza el plan para liberalizar el sector de la CNMC",
       "medios": [
@@ -21,15 +30,6 @@
       "consenso": 1,
       "fecha": "2026-08-24T14:12:09+02:00",
       "enlace": "https://www.redaccionmedica.com/politica/20260824/el-pp-prepara-una-ofensiva-parlamentaria-contra-el-gobierno-por-la-gestion-sanitaria-en-ceuta/349553_0.html"
-    },
-    {
-      "titular": "La letalidad del ébola en la RD Congo roza el 48%: \"Pronto se agotarán los fondos\"",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-24T12:36:55+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20260824/la-letalidad-del-ebola-en-la-rd-congo-roza-el-pronto-se-agotaran-los-fondos/349537_0.html"
     },
     {
       "titular": "Cerca de 200 ponentes invitarán a reflexionar sobre el presente y futuro de la profesión en el 24 Congreso Nacional Farmacéutico",
@@ -59,13 +59,13 @@
       "enlace": "https://diariofarma.com/2026/08/21/la-historia-clinica-compartida-de-la-fundacion-idis-mihc-supera-el-millon-de-altas"
     },
     {
-      "titular": "Canarias da por cerrado el brote de sarampión en Tenerife tras no registrar nuevos casos",
+      "titular": "La letalidad del ébola en la RD Congo roza el 48%: \"Pronto se agotarán los fondos\"",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T11:52:08+02:00",
-      "enlace": "https://www.redaccionmedica.com/autonomias/20260824/canarias-da-por-cerrado-el-brote-de-sarampion-en-tenerife-tras-no-registrar-nuevos-casos/349532_0.html"
+      "fecha": "2026-08-24T12:36:55+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20260824/la-letalidad-del-ebola-en-la-rd-congo-roza-el-pronto-se-agotaran-los-fondos/349537_0.html"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 14,
+    "antiguedad_minima_min": 70,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 357,
+        "antiguedad_min": 425,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 14,
+        "antiguedad_min": 83,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 29,
         "error": null,
-        "antiguedad_min": 23,
+        "antiguedad_min": 70,
         "descartados_por_gancho": 1
       },
       {

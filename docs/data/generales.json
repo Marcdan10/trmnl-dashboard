@@ -2,61 +2,61 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-08-24T14:35:58+02:00",
+  "generado": "2026-08-24T15:44:48+02:00",
   "titulares": [
     {
-      "titular": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Sánchez convoca al Consejo de Seguridad Nacional 26 días después del inicio de la crisis migratoria de Ceuta",
+      "titular": "Las claves de la vacuna contra el melanoma",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-24T15:40:01+02:00",
+      "enlace": "https://www.abc.es/salud/vacuna-melanoma-20260823013059-nt.html"
+    },
+    {
+      "titular": "El aislamiento de la viuda de un sargento que mató ETA",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-24T15:39:30+02:00",
+      "enlace": "https://www.abc.es/espana/extremadura/abandono-viuda-sargento-asesinado-eta-miedo-duele-20260823013254-nt.html"
+    },
+    {
+      "titular": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Vivas, convocado al Consejo de Seguridad Nacional sobre la crisis migratoria en Ceuta",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T14:29:10+02:00",
+      "fecha": "2026-08-24T15:36:35+02:00",
       "enlace": "https://elpais.com/espana/2026-08-24/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html"
     },
     {
-      "titular": "El apoyo de grandes países de la UE acerca el impuesto extraordinario a las petroleras que pide España",
+      "titular": "Back Market te da 25 € de descuento y hasta tres meses de Spotify gratis",
       "medios": [
-        "ABC"
+        "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T14:21:27+02:00",
-      "enlace": "https://www.abc.es/economia/apoyo-grandes-paises-ue-acerca-impuesto-extraordinario-20260824141726-nt.html"
+      "fecha": "2026-08-24T15:10:08+02:00",
+      "enlace": "https://www.lavanguardia.com/comprar/tecnologia/20260817/11613284/back-market-25-euros-descuento-tres-meses-spotify-premium-gratis-estudiante-profesor-mkt-bama.html"
     },
     {
-      "titular": "El Barça muy bien, pero contra el Elche",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-24T14:20:17+02:00",
-      "enlace": "https://www.abc.es/deportes/futbol/barca-bien-elche-20260824141654-nt.html"
-    },
-    {
-      "titular": "Los océanos del planeta registran la temperatura más alta desde que hay datos",
+      "titular": "Ceuta recibirá 25.000 dosis de vacunas para prevenir enfermedades infecciosas tras la llegada de miles de inmigrantes",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T14:19:09+02:00",
-      "enlace": "https://elpais.com/clima-y-medio-ambiente/2026-08-24/los-oceanos-del-planeta-registran-la-temperatura-mas-alta-desde-que-hay-datos.html"
+      "fecha": "2026-08-24T14:55:58+02:00",
+      "enlace": "https://elpais.com/sociedad/2026-08-24/ceuta-recibira-25000-dosis-de-vacunas-para-prevenir-enfermedades-infecciosas-tras-la-llegada-de-miles-de-inmigrantes.html"
     },
     {
-      "titular": "Qué suplemento elegir según lo que tu cuerpo necesita: descanso, estrés, piel, digestión o deporte",
+      "titular": "La Generalitat pide prudencia por lluvias que podrían dejar 40 litros en media hora esta tarde",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T14:01:02+02:00",
-      "enlace": "https://www.lavanguardia.com/comprar/deporte-salud/20260630/11572673/que-suplemento-elegir-cuerpo-te-pide-gritos-descanso-estres-piel-digestion-deporte-mkt-bele.html"
-    },
-    {
-      "titular": "Laporta da el pistoletazo de salida al centenario del Barça de baloncesto",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-24T14:00:27+02:00",
-      "enlace": "https://www.lavanguardia.com/deportes/baloncesto/20260824/11619047/laporta-da-pistoletazo-salida-centenario-barca-baloncesto.html"
+      "fecha": "2026-08-24T14:46:58+02:00",
+      "enlace": "https://www.lavanguardia.com/local/catalunya/20260824/11619167/generalitat-pide-prudencia-lluvias-dejar-40-litros-media-hora-tarde.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 6,
+    "antiguedad_minima_min": 4,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2212650,
+        "antiguedad_min": 2212719,
         "descartados_por_gancho": 0
       },
       {
@@ -90,23 +90,23 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 500",
+        "error": "HTTP 429",
         "antiguedad_min": null
       },
       {
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 136,
+        "items": 138,
         "error": null,
-        "antiguedad_min": 6,
-        "descartados_por_gancho": 7
+        "antiguedad_min": 8,
+        "descartados_por_gancho": 6
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 106,
+        "items": 108,
         "error": null,
         "antiguedad_min": 34,
         "descartados_por_gancho": 18
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 14,
+        "antiguedad_min": 4,
         "descartados_por_gancho": 0
       }
     ]

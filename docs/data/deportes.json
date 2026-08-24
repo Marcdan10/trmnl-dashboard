@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-08-24T14:36:03+02:00",
+  "generado": "2026-08-24T15:44:52+02:00",
   "titulares": [
     {
-      "titular": "Listado oficial: todos los concursantes confirmados para 'Supervivientes All Stars 2026'",
+      "titular": "Belletti: “Estamos ajustando cosas, trabajando los detalles”",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T14:28:17+02:00",
-      "enlace": "https://www.mundodeportivo.com/elotromundo/television/20260824/1004219220/listado-oficial-todos-concursantes-confirmados-supervivientes-all-stars-2026-galeria-dct.html"
+      "fecha": "2026-08-24T15:24:25+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260824/1004219234/belletti-ajustando-cosas-trabajando-detalles.html"
     },
     {
-      "titular": "Víctor Padilla, educador canino: \"El timbre suele anticipar la llegada de personas, algo que puede generar excitación\"",
+      "titular": "Vuelve LaLiga y los vídeos arbitrales de Real Madrid TV",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T14:21:24+02:00",
-      "enlace": "https://www.mundodeportivo.com/elotromundo/mascotas/20260824/1004219201/victor-padilla-educador-canino-timbre-suele-anticipar-llegada-personas-generar-emocion-miedo-incertidumbre-excitacion-expt-dct.html"
+      "fecha": "2026-08-24T15:23:54+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260824/1004219232/vuelve-laliga-videos-arbitrales-real-madrid-tv.html"
     },
     {
       "titular": "Las portadas en Inglaterra con Arteta son para verlas...",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/rayo/2026/08/21/camello-agotados-situacion-distancia-tres-partes.html"
     },
     {
-      "titular": "Mercedes confirma que Antonelli penalizará en Monza por cambiar motor",
+      "titular": "Sumar-Compromís, Puigdemont y Rufián critican la carga policial contra un aficionado del Barça en Elche",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/motor/formula1/mercedes-confirma-antonelli-penalizara-monza-133613358"
+      "enlace": "https://www.sport.es/es/noticias/elche/sumar-compromis-puigdemont-rufian-critican-133615601"
     },
     {
-      "titular": "El Valencia Basket de Javi Torralba se estrena con Kamila Borkowska pero sin Alisia Jenkins",
+      "titular": "Leticia Romero: \"Vamos a seguir teniendo nuestra identidad y a luchar por todo\"",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/baloncesto/valencia-basket-javi-torralba-estrena-133613948"
+      "enlace": "https://www.sport.es/es/noticias/baloncesto/leticia-romero-seguir-teniendo-identidad-133615542"
     },
     {
-      "titular": "Flick pierde a Ebrima, lesionado, y Pesquer",
+      "titular": "Cucurella, presentado en el Real Madrid",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T14:06:57+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260824/1004219210/flick-pierde-ebrima-pesquer.html"
+      "fecha": "2026-08-24T14:57:17+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260824/1004219227/cucurella-presentado-real-madrid.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 7,
+    "antiguedad_minima_min": 20,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 5085,
+        "antiguedad_min": 5154,
         "descartados_por_gancho": 12
       },
       {
@@ -98,16 +98,16 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 141,
+        "items": 142,
         "error": null,
-        "antiguedad_min": 7,
+        "antiguedad_min": 20,
         "descartados_por_gancho": 7
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 49,
+        "items": 48,
         "error": null,
         "antiguedad_min": null,
         "descartados_por_gancho": 1
