@@ -1,15 +1,7 @@
 {
   "ciudad": "Barcelona",
-  "generado": "2026-08-24T06:43:21",
+  "generado": "2026-08-24T07:52:54",
   "horas": [
-    {
-      "hora": "07",
-      "temp": 23,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "luna"
-    },
     {
       "hora": "08",
       "temp": 24,
@@ -97,6 +89,14 @@
       "mm": 0.9,
       "mostrar_prob": true,
       "icono": "lluvia"
+    },
+    {
+      "hora": "19",
+      "temp": 24,
+      "prob": 60,
+      "mm": 2.9,
+      "mostrar_prob": true,
+      "icono": "lluvia"
     }
   ],
   "dias": [
@@ -172,9 +172,9 @@
     }
   ],
   "aviso": {
-    "activo": false,
-    "alcance": null,
-    "texto": null
+    "activo": true,
+    "alcance": "horas",
+    "texto": "Lluvia prevista a partir de las 19 h · 60%"
   },
   "atribucion": "Open-Meteo (CC BY 4.0)"
 }

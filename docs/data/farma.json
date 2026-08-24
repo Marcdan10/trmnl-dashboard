@@ -2,7 +2,7 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "portadas",
-  "generado": "2026-08-24T08:43:20+02:00",
+  "generado": "2026-08-24T09:52:53+02:00",
   "titulares": [
     {
       "titular": "El auge de China augura un nuevo escenario mundial para la innovación",
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 4,
+    "antiguedad_minima_min": 73,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 4,
+        "antiguedad_min": 73,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 3993,
+        "antiguedad_min": 4063,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 29,
         "error": null,
-        "antiguedad_min": 153,
+        "antiguedad_min": 222,
         "descartados_por_gancho": 1
       },
       {

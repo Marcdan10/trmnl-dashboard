@@ -2,7 +2,7 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "portadas",
-  "generado": "2026-08-24T08:43:14+02:00",
+  "generado": "2026-08-24T09:52:47+02:00",
   "titulares": [
     {
       "titular": "La fusión de 'servicers' inmobiliarios moviliza 1.000 millones en compras",
@@ -55,7 +55,7 @@
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T08:32:09+02:00",
+      "fecha": "2026-08-24T08:55:00+02:00",
       "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/08/24/6a8bd70be5fdea35478b456d.html"
     },
     {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 11,
+    "antiguedad_minima_min": 57,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 63,
+        "items": 65,
         "error": null,
-        "antiguedad_min": 11,
+        "antiguedad_min": 57,
         "descartados_por_gancho": 0
       },
       {

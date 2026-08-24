@@ -2,25 +2,16 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-08-24T08:43:15+02:00",
+  "generado": "2026-08-24T09:52:48+02:00",
   "titulares": [
     {
-      "titular": "Festival de un Barça sin ariete, pero con pólvora",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-23T23:27:11+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260823/1004218971/elche-barca.html"
-    },
-    {
-      "titular": "La prensa francesa alucina con Ferran Torres tras su estelar debut: \"El campeón del mundo salva al PSG\"",
+      "titular": "Sale a la luz el encuentro secreto entre Gil Marín y Julián Álvarez: \"Pasó en el restaurante Amazónico y se lo prometió\"",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/futbol-internacional/psg/prensa-francesa-alucina-ferran-torres-133601672"
+      "enlace": "https://www.sport.es/es/noticias/atletico-de-madrid/sale-luz-encuentro-secreto-gil-marin-julian-alvarez-restaurante-133602129"
     },
     {
       "titular": "Las portadas en Inglaterra con Arteta son para verlas...",
@@ -32,22 +23,22 @@
       "enlace": "https://www.marca.com/futbol/album/2026/08/21/portadas-dia.html"
     },
     {
-      "titular": "Cerezo atiza al Barça por el tema Julián: \"No han estado a la altura\"",
+      "titular": "Adeyemi y Gordon ponen el vértigo",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-23T16:49:36+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20260823/1004218898/cerezo-atiza-barca-tema-julian-no-han-altura.html"
+      "fecha": "2026-08-24T00:44:14+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260824/1004219054/adeyemi-gordon-ponen-vertigo.html"
     },
     {
-      "titular": "Málaga-Deportivo: Siempre La Rosaleda",
+      "titular": "El Deportivo recupera a su estrella a menos de una semana de recibir al Valencia CF en Riazor",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/futbol/malaga-deportivo-rosaleda-133601939"
+      "enlace": "https://www.sport.es/es/noticias/valencia/deportivo-recupera-estrella-semana-recibir-133603478"
     },
     {
       "titular": "\"Si hubiese estado fresco no habríamos perdido\"",
@@ -59,13 +50,22 @@
       "enlace": "https://www.marca.com/futbol/rayo/2026/08/21/camello-agotados-situacion-distancia-tres-partes.html"
     },
     {
-      "titular": "Mercado de fichajes, hoy, en directo: última hora de FC Barcelona, Real Madrid y todas las altas y bajas de las grandes ligas",
+      "titular": "'Palo' monumental a Vinicius: \"Nadie quiere un jugador así en su club\"",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-24T08:02:19+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260824/1004219078/vinicius.html"
+    },
+    {
+      "titular": "La apuesta de Luis Enrique por Ferran Torres arranca muy bien: \"No ha estado mal el debut, ¿no?\"",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/mercado-fichajes/mercado-fichajes-hoy-directo-ultima-133601753"
+      "enlace": "https://www.sport.es/es/noticias/futbol-internacional/psg/tiron-orejas-luis-enrique-psg-133602680"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 22,
+    "antiguedad_minima_min": 24,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 4732,
+        "antiguedad_min": 4802,
         "descartados_por_gancho": 12
       },
       {
@@ -100,8 +100,8 @@
         "ok": true,
         "items": 137,
         "error": null,
-        "antiguedad_min": 22,
-        "descartados_por_gancho": 4
+        "antiguedad_min": 24,
+        "descartados_por_gancho": 6
       },
       {
         "medio": "Sport",
