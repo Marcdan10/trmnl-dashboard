@@ -2,25 +2,34 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "ultimas",
-  "generado": "2026-08-25T14:40:15+02:00",
+  "generado": "2026-08-25T15:43:41+02:00",
   "titulares": [
     {
-      "titular": "Estados Unidos autoriza el primer robot autónomo para realizar extracciones de sangre",
+      "titular": "Sanidad asegura que se han reducido los casos de sarna y gastroenteritis en Ceuta",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T14:08:23+02:00",
-      "enlace": "https://www.redaccionmedica.com/innovacion/20260825/estados-unidos-autoriza-el-primer-robot-autonomo-para-realizar-extracciones-de-sangre/349607_0.html"
+      "fecha": "2026-08-25T15:26:06+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/20260825/sanidad-asegura-que-se-han-reducido-los-casos-de-sarna-gastroenteritis-en-ceuta/349619_0.html"
     },
     {
-      "titular": "Los MIR piden a Sanidad revisar las Urgencias del Hospital de Canarias: \"Lo que pasa aquí no es ni medio normal\"",
+      "titular": "Satse pide reforzar las plantillas sanitarias ante la \"máxima alerta\" en Ceuta",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T14:01:22+02:00",
-      "enlace": "https://www.redaccionmedica.com/formacion/mir/20260825/los-mir-piden-sanidad-revisar-las-urgencias-del-hospital-de-canarias-lo-que-pasa-aqui-no-es-ni-medio-normal/349595_0.html"
+      "fecha": "2026-08-25T15:18:18+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20260825/satse-pide-reforzar-las-plantillas-sanitarias-ante-la-maxima-alerta-en-ceuta/349617_0.html"
+    },
+    {
+      "titular": "La farmacia afianza su papel en dermatología, pero reclama más formación, protocolos y reconocimiento profesional",
+      "medios": [
+        "El Global"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-25T14:40:10+02:00",
+      "enlace": "https://elglobalfarma.com/farmacia/farmacia-dermatologia-formacion-protocolos-reconocimiento-profesional/"
     },
     {
       "titular": "Padilla: \"No hay emergencia de salud pública en Ceuta\"",
@@ -41,15 +50,6 @@
       "enlace": "https://elglobalfarma.com/industria/ce-aprueba-tecvayli-combinacion-daratumumab-mieloma-multiple-recaida-refractario/"
     },
     {
-      "titular": "La CE aprueba Trodelvy más Keytruda para el tratamiento en primera línea del cáncer de mama triple negativo metastásico PD-L1 positivo",
-      "medios": [
-        "El Global"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-25T12:40:45+02:00",
-      "enlace": "https://elglobalfarma.com/industria/comision-europea-aprueba-trodelvy-keytruda-primera-linea-cancer-mama-triple-negativo-metastasico/"
-    },
-    {
       "titular": "Cada vez más cerca de la cumbre nacional de la profesión",
       "medios": [
         "Diariofarma"
@@ -59,13 +59,13 @@
       "enlace": "https://diariofarma.com/2026/08/25/cada-vez-mas-cerca-de-la-cumbre-nacional-de-la-profesion"
     },
     {
-      "titular": "Paso en firme para el primer hub de ensayos clínicos de Castilla-La Mancha",
+      "titular": "Dimite el tutor MIR de Urgencias del Hospital Universitario de Cáceres por \"motivos profesionales\"",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T12:59:06+02:00",
-      "enlace": "https://www.redaccionmedica.com/autonomias/castilla-mancha/20260825/paso-en-firme-para-el-primer-hub-de-ensayos-clinicos-castilla-la-mancha/349593_0.html"
+      "fecha": "2026-08-25T14:49:23+02:00",
+      "enlace": "https://www.redaccionmedica.com/autonomias/20260825/dimite-el-tutor-mir-de-urgencias-del-hospital-universitario-caceres-por-motivos-profesionales/349606_0.html"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 31,
+    "antiguedad_minima_min": 17,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 87,
+        "antiguedad_min": 150,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 108,
+        "antiguedad_min": 63,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 31,
+        "antiguedad_min": 17,
         "descartados_por_gancho": 0
       },
       {

@@ -2,10 +2,28 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-08-25T14:40:06+02:00",
+  "generado": "2026-08-25T15:43:31+02:00",
   "titulares": [
     {
-      "titular": "El Gobierno aprueba el 'mando único' en Ceuta para la coordinación en la \"devolución y repatriación\" de los inmigrantes",
+      "titular": "Los nuevos patrocinios tras las casas de apuestas en la Premier League",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-25T14:58:52+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/08/25/6a8d9014468aeba82b8b4574.html"
+    },
+    {
+      "titular": "La CNMC exige a Atresmedia separar Clear Channel del resto de su negocio publicitario",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-25T14:57:36+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/08/25/6a8d913fe5fdea1d778b4578.html"
+    },
+    {
+      "titular": "El Gobierno aprueba el 'mando único' en Ceuta",
       "medios": [
         "Expansión"
       ],
@@ -48,24 +66,6 @@
       "consenso": 1,
       "fecha": "2026-08-25T14:12:18+02:00",
       "enlace": "https://www.expansion.com/valencia/2026/08/25/6a8d8282e5fdea42168b456f.html"
-    },
-    {
-      "titular": "Robles subraya que el CNI hizo su trabajo en los días previos a la entrada en Ceuta e informó a Delegación del Gobierno",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-25T13:41:17+02:00",
-      "enlace": "https://www.expansion.com/economia/politica/2026/08/25/6a8d7f58e5fdea3c7b8b456d.html"
-    },
-    {
-      "titular": "Por qué el 'caso Airbus' es más que una rebelión contra la vuelta a la oficina",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-25T13:33:50+02:00",
-      "enlace": "https://www.expansion.com/expansion-empleo/desarrollo-de-carrera/2026/08/24/6a8c17c9e5fdeaac1a8b4578.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 6,
+    "antiguedad_minima_min": 44,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 70,
+        "items": 69,
         "error": null,
-        "antiguedad_min": 6,
+        "antiguedad_min": 44,
         "descartados_por_gancho": 1
       },
       {

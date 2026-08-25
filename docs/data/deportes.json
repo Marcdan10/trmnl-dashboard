@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-08-25T14:40:08+02:00",
+  "generado": "2026-08-25T15:43:34+02:00",
   "titulares": [
     {
-      "titular": "Diomande completa las presentaciones en el Real Madrid",
+      "titular": "Ni la más potente ni la más barata: la batidora que te sirve depende de qué cenas un martes a las nueve",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T14:16:06+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260825/1004219609/diomande-completa-presentaciones-real-madrid.html"
+      "fecha": "2026-08-25T15:00:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/elrecomendador/ofertas/20260825/1004219400/mas-potente-mas-barata-batidora-te-sirve-depende-que-cenas-martes-nueve-mkt-alie.html"
     },
     {
-      "titular": "Una colaboradora de 'Aruseros' sufre una aparatosa caída en pleno directo en laSexta: \"La ha salvado de milagro\"",
+      "titular": "Andreu Blanes, Antonio Martínez y Alain Santamaria, las grandes bazas españolas en una OCC con un nivel brutal",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T14:07:04+02:00",
-      "enlace": "https://www.mundodeportivo.com/elotromundo/television/20260825/1004219606/colaboradora-aruseros-sufre-aparatosa-caida-pleno-directo-lasexta-salvado-pinata-milagro-dct.html"
+      "fecha": "2026-08-25T14:52:47+02:00",
+      "enlace": "https://www.mundodeportivo.com/running/20260825/1004219625/andreu-blanes-antonio-martinez-alain-santamaria-grandes-bazas-espanolas-occ-nivel-brutal.html"
     },
     {
       "titular": "Las portadas en Inglaterra con Arteta son para verlas...",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/rayo/2026/08/21/camello-agotados-situacion-distancia-tres-partes.html"
     },
     {
-      "titular": "Valencia Basket hace oficiales los dorsales para esta temporada",
+      "titular": "Oficial: Alisia Jenkins ya es taronja",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/baloncesto/valencia-basket-oficiales-dorsales-temporada-133643213"
+      "enlace": "https://www.sport.es/es/noticias/baloncesto/oficial-alisia-jenkins-taronja-133644894"
     },
     {
-      "titular": "José Ignacio Navarro admite \"conversaciones con un club\" por Vargas y no descarta la salida de Agoumé aunque no \"está tan cerca\"",
+      "titular": "El desafío de Dani Martín, portero del CD Tenerife: \"Esta temporada tengo más hambre que nunca de demostrar mi nivel\"",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/sevilla/jose-ignacio-navarro-admite-conversaciones-133643186"
+      "enlace": "https://www.sport.es/es/noticias/futbol/segunda-rfef/desafio-dani-martin-portero-cd-133644892"
     },
     {
-      "titular": "Pocos conductores lo saben: lo que hace un grupo de moteros experimentados durante una ruta",
+      "titular": "Adrián Conde, veterinario: \"Si dormimos con nuestra mascota hay un claro riesgo\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T14:06:53+02:00",
-      "enlace": "https://www.mundodeportivo.com/solomoto/20260825/1004219608/pocos-conductores-grupo-moteros-experimentados-ruta-smd.html"
+      "fecha": "2026-08-25T14:40:07+02:00",
+      "enlace": "https://www.mundodeportivo.com/elotromundo/mascotas/20260825/1004219610/adrian-conde-veterinario-dormimos-nuestra-mascota-hay-claro-riesgo-exponemos-expt-dct.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 24,
+    "antiguedad_minima_min": 43,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 6529,
+        "antiguedad_min": 6592,
         "descartados_por_gancho": 12
       },
       {
@@ -100,14 +100,14 @@
         "ok": true,
         "items": 133,
         "error": null,
-        "antiguedad_min": 24,
+        "antiguedad_min": 43,
         "descartados_por_gancho": 4
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 50,
+        "items": 49,
         "error": null,
         "antiguedad_min": null,
         "descartados_por_gancho": 0
