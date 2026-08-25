@@ -2,26 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-08-25T12:58:14+02:00",
+  "generado": "2026-08-25T13:29:33+02:00",
   "titulares": [
     {
-      "titular": "Oficial: El Clásico femenino se jugará en el Spotify Camp Nou",
-      "medios": [
-        "Mundo Deportivo",
-        "Sport"
-      ],
-      "consenso": 2,
-      "fecha": "2026-08-25T12:25:30+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260825/1004219564/oficial-clasico-femenino-jugara-spotify-camp-nou.html"
-    },
-    {
-      "titular": "La mujer de Newey contesta a Lobato e incendia las redes: \"¿Quién?\"",
+      "titular": "\"Rossi, justo antes de la salida, me preguntaba por los neumáticos de los demás. Normalmente, siempre le decía: 'Divirtámonos'. Él me respondía: 'Sí, fácil para ti, que ahora te quedas en el box; yo tengo que salir'\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T12:14:30+02:00",
-      "enlace": "https://www.mundodeportivo.com/motor/f1/20260825/1004219557/mujer-newey-contesta-lobato-e-incendia-redes.html"
+      "fecha": "2026-08-25T12:51:21+02:00",
+      "enlace": "https://www.mundodeportivo.com/motor/motogp/20260825/1004219575/valentino-rossi-parrilla-justo-salida-me-preguntaba-neumaticos-normalmente-siempre-le-decia-divirtamonos-me-respondia-facil-ti-te-quedas-box-salir-smd.html"
+    },
+    {
+      "titular": "Ya hay árbitro para el Real Madrid-Real Sociedad",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-25T12:49:50+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260825/1004219577/hay-arbitro-real-madrid-real-sociedad.html"
     },
     {
       "titular": "Las portadas en Inglaterra con Arteta son para verlas...",
@@ -42,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/rayo/2026/08/21/camello-agotados-situacion-distancia-tres-partes.html"
     },
     {
-      "titular": "Pedri (23 años): \"Mi familia lo es todo para mí, cuando marco siempre me beso la muñeca para dedicarle los goles a mi abuela. Me gustaría ayudar a mi familia con todo lo que ellos quieran, se lo merecen por cómo me han cuidado\"",
+      "titular": "Luis Suárez, el 'otro 9' que sonó par el Barça, negocia con el Nottingham Forest",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/barca/pedri-23-anos-beso-muneca-goles-abuela-familia-133635243"
+      "enlace": "https://www.sport.es/es/noticias/mercado-fichajes/luis-suarez-9-sono-par-133638342"
     },
     {
-      "titular": "Valery, a punto de llegar a la primera división portuguesa tras su efímero paso por el Real Zaragoza",
+      "titular": "La vida bajo la Tribuna de Mestalla: cuando el templo del Valencia CF era el hogar de una familia",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/futbol/valery-punto-llegar-primera-division-133638137"
+      "enlace": "https://www.sport.es/es/noticias/valencia/vida-tribuna-mestalla-templo-valencia-133639240"
     },
     {
-      "titular": "La felicidad de Christensen al llegar a los 100 partidos",
+      "titular": "Müller, Lucas, Hummels y Sommer adquieren un club de la Primera lusa",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T12:13:46+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260825/1004219555/felicidad-christensen-llegar-100-partidos.html"
+      "fecha": "2026-08-25T12:36:23+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/20260825/1004219570/mueller-lucas-hernandez-hummels-sommer-adquieren-club-primera-portuguesa.html"
     }
   ],
   "salud": {
@@ -75,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 32,
+    "antiguedad_minima_min": 38,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +82,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 6427,
+        "antiguedad_min": 6458,
         "descartados_por_gancho": 12
       },
       {
@@ -99,10 +98,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 132,
+        "items": 131,
         "error": null,
-        "antiguedad_min": 32,
-        "descartados_por_gancho": 3
+        "antiguedad_min": 38,
+        "descartados_por_gancho": 4
       },
       {
         "medio": "Sport",

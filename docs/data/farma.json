@@ -2,8 +2,26 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "ultimas",
-  "generado": "2026-08-25T12:58:19+02:00",
+  "generado": "2026-08-25T13:29:40+02:00",
   "titulares": [
+    {
+      "titular": "Padilla: \"No hay emergencia de salud pública en Ceuta\"",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-25T13:12:45+02:00",
+      "enlace": "https://diariofarma.com/2026/08/25/padilla-no-hay-emergencia-de-salud-publica-en-ceuta"
+    },
+    {
+      "titular": "Paso en firme para el primer hub de ensayos clínicos de Castilla-La Mancha",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-25T12:59:06+02:00",
+      "enlace": "https://www.redaccionmedica.com/autonomias/castilla-mancha/20260825/paso-en-firme-para-el-primer-hub-de-ensayos-clinicos-castilla-la-mancha/349593_0.html"
+    },
     {
       "titular": "Cantabria amplía hasta los 7 años la vacunación intranasal contra la gripe",
       "medios": [
@@ -32,15 +50,6 @@
       "enlace": "https://elglobalfarma.com/industria/comision-europea-aprueba-trodelvy-keytruda-primera-linea-cancer-mama-triple-negativo-metastasico/"
     },
     {
-      "titular": "El robot opera con más precisión y el paciente queda igual",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-25T12:08:33+02:00",
-      "enlace": "https://www.redaccionmedica.com/opinion/20260825/el-robot-opera-con-mas-precision-el-paciente-queda-igual/349587_12.html"
-    },
-    {
       "titular": "Cada vez más cerca de la cumbre nacional de la profesión",
       "medios": [
         "Diariofarma"
@@ -50,22 +59,13 @@
       "enlace": "https://diariofarma.com/2026/08/25/cada-vez-mas-cerca-de-la-cumbre-nacional-de-la-profesion"
     },
     {
-      "titular": "El Hospital Puerta de Hierro participa en un estudio genómico sobre cáncer de pulmón",
+      "titular": "El robot opera con más precisión y el paciente queda igual",
       "medios": [
-        "Diariofarma"
+        "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T10:11:22+02:00",
-      "enlace": "https://diariofarma.com/2026/08/25/el-hospital-puerta-de-hierro-participa-en-un-estudio-genomico-sobre-cancer-de-pulmon"
-    },
-    {
-      "titular": "Las ventajas de los GLP-1 orales: «Hay que buscar tratamientos que se adapten a la vida de las personas con obesidad»",
-      "medios": [
-        "El Global"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-25T12:00:28+02:00",
-      "enlace": "https://elglobalfarma.com/industria/beneficios-glp-1-oral-tratamientos-vida-obesidad/"
+      "fecha": "2026-08-25T12:08:33+02:00",
+      "enlace": "https://www.redaccionmedica.com/opinion/20260825/el-robot-opera-con-mas-precision-el-paciente-queda-igual/349587_12.html"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 4,
+    "antiguedad_minima_min": 16,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 166,
+        "antiguedad_min": 16,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 6,
+        "antiguedad_min": 38,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 4,
+        "antiguedad_min": 30,
         "descartados_por_gancho": 0
       },
       {
