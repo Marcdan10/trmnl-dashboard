@@ -2,7 +2,7 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "portadas",
-  "generado": "2026-08-25T10:34:29+02:00",
+  "generado": "2026-08-25T11:28:57+02:00",
   "titulares": [
     {
       "titular": "Cada vez más cerca de la cumbre nacional de la profesión",
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 22,
+    "antiguedad_minima_min": 35,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 22,
+        "antiguedad_min": 77,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 1213,
+        "antiguedad_min": 1267,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 269,
+        "antiguedad_min": 35,
         "descartados_por_gancho": 0
       },
       {

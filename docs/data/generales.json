@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-08-25T10:34:21+02:00",
+  "generado": "2026-08-25T11:28:46+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -14,13 +14,13 @@
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
     },
     {
-      "titular": "Sánchez da un giro a la gestión de la crisis de Ceuta casi un mes después con un mando único y un plan económico",
+      "titular": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Sánchez reúne hoy al Consejo de Seguridad Nacional para abordar la crisis de Ceuta",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T05:45:01+02:00",
-      "enlace": "https://elpais.com/espana/2026-08-25/sanchez-da-un-giro-a-la-gestion-de-la-crisis-de-ceuta-casi-un-mes-despues-con-un-mando-unico-y-un-plan-economico.html"
+      "fecha": "2026-08-25T11:12:55+02:00",
+      "enlace": "https://elpais.com/espana/2026-08-25/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html"
     },
     {
       "titular": "El Gobierno crea el mando único para Ceuta un mes después del asalto",
@@ -32,23 +32,13 @@
       "enlace": "https://www.lavanguardia.com/politica/20260825/11619322/mes-salto-masivo-ceuta-tendra-hoy-autoridad-unica.html"
     },
     {
-      "titular": "Macron y el Príncipe heredero Bin Salman debaten en París rutas alternativas a Ormuz",
+      "titular": "Los mejores relojes deportivos si corres pero no eres atleta: Garmin, Coros, OnePlus y Amazfit",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T09:23:09+02:00",
-      "enlace": "https://www.abc.es/internacional/mohamed-bin-salman-visita-macron-20260824180232-nt.html"
-    },
-    {
-      "titular": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Sánchez reúne hoy al Consejo de Seguridad Nacional para abordar la crisis de Ceuta",
-      "medios": [
-        "El País",
-        "La Vanguardia"
-      ],
-      "consenso": 2,
-      "fecha": "2026-08-25T10:17:06+02:00",
-      "enlace": "https://elpais.com/espana/2026-08-25/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html"
+      "fecha": "2026-08-25T11:27:26+02:00",
+      "enlace": "https://www.abc.es/favorito/electronica/moviles-smartphones/los-mejores-relojes-deportivos-si-corres-20260824103809-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -58,6 +48,15 @@
       "consenso": 1,
       "fecha": "2022-06-10T00:03:00+02:00",
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
+    },
+    {
+      "titular": "Sánchez da un giro a la gestión de la crisis de Ceuta casi un mes después con un mando único y un plan económico",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-25T05:45:01+02:00",
+      "enlace": "https://elpais.com/espana/2026-08-25/sanchez-da-un-giro-a-la-gestion-de-la-crisis-de-ceuta-casi-un-mes-despues-con-un-mando-unico-y-un-plan-economico.html"
     },
     {
       "titular": "El PP exige repatriaciones: “La política social de Marruecos debe hacerla Rabat”",
@@ -75,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 17,
+    "antiguedad_minima_min": 1,
     "detalle": [
       {
         "medio": "RTVE",
@@ -83,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2213849,
+        "antiguedad_min": 2213903,
         "descartados_por_gancho": 0
       },
       {
@@ -98,9 +97,9 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 136,
+        "items": 137,
         "error": null,
-        "antiguedad_min": 17,
+        "antiguedad_min": 15,
         "descartados_por_gancho": 6
       },
       {
@@ -109,7 +108,7 @@
         "ok": true,
         "items": 114,
         "error": null,
-        "antiguedad_min": 31,
+        "antiguedad_min": 64,
         "descartados_por_gancho": 13
       },
       {
@@ -118,7 +117,7 @@
         "ok": true,
         "items": 24,
         "error": null,
-        "antiguedad_min": 71,
+        "antiguedad_min": 1,
         "descartados_por_gancho": 1
       }
     ]

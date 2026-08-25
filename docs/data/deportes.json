@@ -2,7 +2,7 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-08-25T10:34:25+02:00",
+  "generado": "2026-08-25T11:28:52+02:00",
   "titulares": [
     {
       "titular": "El pulso por Julián Alvarez se mantiene",
@@ -14,13 +14,13 @@
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260825/1004219461/pulso-julian-alvarez-mantiene.html"
     },
     {
-      "titular": "Así queda la clasificación de la Vuelta a España 2026 hoy tras la etapa 3",
+      "titular": "Diego, conductor de ambulancia: \"Cobro 2.300 euros por 24 horas trabajando seis días al mes\"",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/ciclismo/queda-clasificacion-vuelta-espana-2026-133617805"
+      "enlace": "https://www.sport.es/es/noticias/economia/diego-conductor-ambulancia-cobro-2-133631939"
     },
     {
       "titular": "Las portadas en Inglaterra con Arteta son para verlas...",
@@ -41,13 +41,13 @@
       "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20260825/1004219510/julian-encuentra-apoyo-expresidente-river.html"
     },
     {
-      "titular": "Etapa 4 de la Vuelta a España 2026 hoy: recorrido, perfil, horario y dónde ver gratis por TV y en directo",
+      "titular": "La despedida epistolar de Dinko Horkas: «La UD Las Palmas fue mucho más que un lugar donde jugué al fútbol, se convirtió en mi casa»",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/ciclismo/etapa-4-vuelta-espana-2026-perfil-recorrido-horario-133596016"
+      "enlace": "https://www.sport.es/es/noticias/las-palmas/despedida-epistolar-dinko-horkas-ud-133634763"
     },
     {
       "titular": "\"Si hubiese estado fresco no habríamos perdido\"",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 13,
+    "antiguedad_minima_min": 40,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 6283,
+        "antiguedad_min": 6338,
         "descartados_por_gancho": 12
       },
       {
@@ -100,17 +100,17 @@
         "ok": true,
         "items": 136,
         "error": null,
-        "antiguedad_min": 13,
+        "antiguedad_min": 40,
         "descartados_por_gancho": 3
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 48,
+        "items": 49,
         "error": null,
         "antiguedad_min": null,
-        "descartados_por_gancho": 2
+        "descartados_por_gancho": 1
       },
       {
         "medio": "NBA",

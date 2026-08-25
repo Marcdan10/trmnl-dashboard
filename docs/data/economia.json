@@ -2,7 +2,7 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "portadas",
-  "generado": "2026-08-25T10:34:24+02:00",
+  "generado": "2026-08-25T11:28:50+02:00",
   "titulares": [
     {
       "titular": "El 90% de las nuevas hipotecas ya se firman a tipo fijo",
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 20,
+    "antiguedad_minima_min": 24,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 67,
+        "items": 68,
         "error": null,
-        "antiguedad_min": 20,
+        "antiguedad_min": 24,
         "descartados_por_gancho": 1
       },
       {
