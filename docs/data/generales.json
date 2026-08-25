@@ -1,9 +1,64 @@
 {
   "pantalla": "generales",
   "titulo": "Titulares",
-  "modo": "portadas",
-  "generado": "2026-08-25T11:28:46+02:00",
+  "modo": "ultimas",
+  "generado": "2026-08-25T12:01:38+02:00",
   "titulares": [
+    {
+      "titular": "Un parlamentario israelí vandaliza un monumento palestino en Cisjordania escoltado por el Ejército",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-25T11:43:01+02:00",
+      "enlace": "https://www.lavanguardia.com/internacional/20260825/11619639/parlamentario-israeli-vandaliza-monumento-palestino-cisjordania-escoltado-ejercito.html"
+    },
+    {
+      "titular": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Sánchez reúne hoy al Consejo de Seguridad Nacional para abordar la crisis de Ceuta",
+      "medios": [
+        "El País",
+        "La Vanguardia"
+      ],
+      "consenso": 2,
+      "fecha": "2026-08-25T11:42:02+02:00",
+      "enlace": "https://elpais.com/espana/2026-08-25/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html"
+    },
+    {
+      "titular": "El consejero señalado por Ayuso y Feijóo para aclarar la compra del ático: “El Gobierno de Madrid ya ha dado sobradas explicaciones”",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-25T11:42:01+02:00",
+      "enlace": "https://elpais.com/espana/madrid/2026-08-25/el-consejero-senalado-por-ayuso-para-dar-explicaciones-sobre-el-atico-el-gobierno-de-madrid-ya-ha-dado-sobradas-explicaciones.html"
+    },
+    {
+      "titular": "Mando único y Consejo de Seguridad Nacional: el Gobierno reacciona un mes después",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-25T11:40:05+02:00",
+      "enlace": "https://www.abc.es/espana/gobierno-trata-recuperar-iniciativa-ceuta-mes-despues-20260825013013-nt.html"
+    },
+    {
+      "titular": "¿Cuáles son las tarifas de luz más baratas en agosto? Ahorra",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-25T11:38:20+02:00",
+      "enlace": "https://www.lavanguardia.com/comprar/finanzas/20260210/11462125/ofertas-tarifas-luz-baratas-ahorrar-factura-mkt-klt.html"
+    },
+    {
+      "titular": "Tania Llasera pide perdón tras sus polémicas declaraciones sobre Lindsay Clancy: «He pasado miedo a salir con mis hijos»",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-25T11:31:05+02:00",
+      "enlace": "https://www.abc.es/gente/tania-llasera-rompe-silencio-tras-polemicas-declaraciones-20260825112523-nt.html"
+    },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
       "medios": [
@@ -12,60 +67,6 @@
       "consenso": 1,
       "fecha": "2022-06-10T01:05:00+02:00",
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
-    },
-    {
-      "titular": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Sánchez reúne hoy al Consejo de Seguridad Nacional para abordar la crisis de Ceuta",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-25T11:12:55+02:00",
-      "enlace": "https://elpais.com/espana/2026-08-25/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html"
-    },
-    {
-      "titular": "El Gobierno crea el mando único para Ceuta un mes después del asalto",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-25T06:00:00+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20260825/11619322/mes-salto-masivo-ceuta-tendra-hoy-autoridad-unica.html"
-    },
-    {
-      "titular": "Los mejores relojes deportivos si corres pero no eres atleta: Garmin, Coros, OnePlus y Amazfit",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-25T11:27:26+02:00",
-      "enlace": "https://www.abc.es/favorito/electronica/moviles-smartphones/los-mejores-relojes-deportivos-si-corres-20260824103809-nt.html"
-    },
-    {
-      "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
-      "medios": [
-        "RTVE"
-      ],
-      "consenso": 1,
-      "fecha": "2022-06-10T00:03:00+02:00",
-      "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
-    },
-    {
-      "titular": "Sánchez da un giro a la gestión de la crisis de Ceuta casi un mes después con un mando único y un plan económico",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-25T05:45:01+02:00",
-      "enlace": "https://elpais.com/espana/2026-08-25/sanchez-da-un-giro-a-la-gestion-de-la-crisis-de-ceuta-casi-un-mes-despues-con-un-mando-unico-y-un-plan-economico.html"
-    },
-    {
-      "titular": "El PP exige repatriaciones: “La política social de Marruecos debe hacerla Rabat”",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-25T06:00:00+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20260825/11619335/pp-exige-repatriaciones-politica-social-marruecos-debe-hacerla-rabat.html"
     }
   ],
   "salud": {
@@ -74,7 +75,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 1,
+    "antiguedad_minima_min": 18,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +83,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2213903,
+        "antiguedad_min": 2213936,
         "descartados_por_gancho": 0
       },
       {
@@ -99,16 +100,16 @@
         "ok": true,
         "items": 137,
         "error": null,
-        "antiguedad_min": 15,
+        "antiguedad_min": 19,
         "descartados_por_gancho": 6
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 114,
+        "items": 113,
         "error": null,
-        "antiguedad_min": 64,
+        "antiguedad_min": 18,
         "descartados_por_gancho": 13
       },
       {
@@ -117,7 +118,7 @@
         "ok": true,
         "items": 24,
         "error": null,
-        "antiguedad_min": 1,
+        "antiguedad_min": 21,
         "descartados_por_gancho": 1
       }
     ]

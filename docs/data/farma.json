@@ -1,9 +1,36 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "portadas",
-  "generado": "2026-08-25T11:28:57+02:00",
+  "modo": "ultimas",
+  "generado": "2026-08-25T12:01:47+02:00",
   "titulares": [
+    {
+      "titular": "Las ventajas de los GLP-1 orales: «Hay que buscar tratamientos que se adapten a la vida de las personas con obesidad y no al revés»",
+      "medios": [
+        "El Global"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-25T12:00:28+02:00",
+      "enlace": "https://elglobalfarma.com/industria/beneficios-glp-1-oral-tratamientos-vida-obesidad/"
+    },
+    {
+      "titular": "Baleares pone en marcha un nuevo sistema para mejorar la valoración médica de las bajas laborales",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-25T11:44:08+02:00",
+      "enlace": "https://www.redaccionmedica.com/autonomias/20260825/baleares-pone-en-marcha-un-nuevo-sistema-para-mejorar-la-valoracion-medica-de-las-bajas-laborales/349585_0.html"
+    },
+    {
+      "titular": "\"El Urbasonazo de las picaduras lleva más pacientes a Urgencias que el miedo al cáncer\"",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-25T11:43:09+02:00",
+      "enlace": "https://www.redaccionmedica.com/virico/20260825/el-urbasonazo-de-las-picaduras-lleva-mas-pacientes-urgencias-que-el-miedo-al-cancer/349580_0.html"
+    },
     {
       "titular": "Cada vez más cerca de la cumbre nacional de la profesión",
       "medios": [
@@ -12,24 +39,6 @@
       "consenso": 1,
       "fecha": "2026-08-25T10:11:47+02:00",
       "enlace": "https://diariofarma.com/2026/08/25/cada-vez-mas-cerca-de-la-cumbre-nacional-de-la-profesion"
-    },
-    {
-      "titular": "La Farmacia al completo rechaza el plan para liberalizar el sector de la CNMC",
-      "medios": [
-        "El Global"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-24T14:21:14+02:00",
-      "enlace": "https://elglobalfarma.com/farmacia/farmacia-rechaza-plan-liberalizar-sector-cnmc/"
-    },
-    {
-      "titular": "El acceso a la salud dental revela el impacto de la pobreza infantil en España",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-25T05:01:00+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20260825/el-acceso-la-salud-dental-revela-el-impacto-de-pobreza-infantil-en-espana/349543_0.html"
     },
     {
       "titular": "El Hospital Puerta de Hierro participa en un estudio genómico sobre cáncer de pulmón",
@@ -41,31 +50,22 @@
       "enlace": "https://diariofarma.com/2026/08/25/el-hospital-puerta-de-hierro-participa-en-un-estudio-genomico-sobre-cancer-de-pulmon"
     },
     {
-      "titular": "Cerca de 200 ponentes invitarán a reflexionar sobre el presente y futuro de la profesión en el 24 Congreso Nacional Farmacéutico",
+      "titular": "La Farmacia al completo rechaza el plan para liberalizar el sector de la CNMC",
       "medios": [
         "El Global"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T11:55:03+02:00",
-      "enlace": "https://elglobalfarma.com/farmacia/ponentes-reflexion-presente-futuro-profesion-24-congreso-nacional-farmaceutico/"
+      "fecha": "2026-08-24T14:21:14+02:00",
+      "enlace": "https://elglobalfarma.com/farmacia/farmacia-rechaza-plan-liberalizar-sector-cnmc/"
     },
     {
-      "titular": "La vacunación obligatoria en Ceuta se supedita a un alto riesgo epidemiológico",
+      "titular": "Sanidad adjudica más de 2,2 millones de euros en tecnología, clases de inglés y medicamentos exclusivos",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T18:09:23+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20260824/la-vacunacion-obligatoria-en-ceuta-se-supedita-un-alto-riesgo-epidemiologico/349563_0.html"
-    },
-    {
-      "titular": "El auge de China augura un nuevo escenario mundial para la innovación",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-24T08:38:59+02:00",
-      "enlace": "https://diariofarma.com/2026/08/24/el-auge-de-china-augura-un-nuevo-escenario-mundial-para-la-innovacion"
+      "fecha": "2026-08-25T11:17:58+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/20260825/sanidad-adjudica-mas-de-millones-euros-en-tecnologia-clases-ingles-medicamentos-exclusivos/349583_0.html"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 35,
+    "antiguedad_minima_min": 1,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 77,
+        "antiguedad_min": 109,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 1267,
+        "antiguedad_min": 1,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 35,
+        "antiguedad_min": 17,
         "descartados_por_gancho": 0
       },
       {

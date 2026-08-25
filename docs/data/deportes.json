@@ -1,26 +1,26 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "portadas",
-  "generado": "2026-08-25T11:28:52+02:00",
+  "modo": "ultimas",
+  "generado": "2026-08-25T12:01:42+02:00",
   "titulares": [
     {
-      "titular": "El pulso por Julián Alvarez se mantiene",
+      "titular": "Afra Blanco, sindicalista: \"Los empresarios seguís viendo a los trabajadores como mercancía y no como personas\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T06:30:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260825/1004219461/pulso-julian-alvarez-mantiene.html"
+      "fecha": "2026-08-25T11:58:04+02:00",
+      "enlace": "https://www.mundodeportivo.com/actualidad/20260825/1004219547/afra-blanco-sindicalista-empresarios-seguis-viendo-trabajadores-mercancia-no-personas-dct.html"
     },
     {
-      "titular": "Diego, conductor de ambulancia: \"Cobro 2.300 euros por 24 horas trabajando seis días al mes\"",
+      "titular": "\"He visto los trofeos y estoy deseando ayudar al Valencia a volver a conseguir todo eso\"",
       "medios": [
-        "Sport"
+        "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/economia/diego-conductor-ambulancia-cobro-2-133631939"
+      "fecha": "2026-08-25T11:54:51+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/valencia/20260825/1004219550/he-visto-trofeos-deseando-ayudar-valencia-volver-conseguir.html"
     },
     {
       "titular": "Las portadas en Inglaterra con Arteta son para verlas...",
@@ -32,24 +32,6 @@
       "enlace": "https://www.marca.com/futbol/album/2026/08/21/portadas-dia.html"
     },
     {
-      "titular": "Julián encuentra apoyo en un expresidente de River: \"Sé cómo eres\"",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-25T10:11:04+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20260825/1004219510/julian-encuentra-apoyo-expresidente-river.html"
-    },
-    {
-      "titular": "La despedida epistolar de Dinko Horkas: «La UD Las Palmas fue mucho más que un lugar donde jugué al fútbol, se convirtió en mi casa»",
-      "medios": [
-        "Sport"
-      ],
-      "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/las-palmas/despedida-epistolar-dinko-horkas-ud-133634763"
-    },
-    {
       "titular": "\"Si hubiese estado fresco no habríamos perdido\"",
       "medios": [
         "Marca"
@@ -59,13 +41,31 @@
       "enlace": "https://www.marca.com/futbol/rayo/2026/08/21/camello-agotados-situacion-distancia-tres-partes.html"
     },
     {
-      "titular": "En Inglaterra hablan de ofensiva y ponen precio a Balde",
+      "titular": "Un manager de MotoGP revela las claves del contrato de Marc Márquez y Ducati",
+      "medios": [
+        "Sport"
+      ],
+      "consenso": 1,
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/motor/moto-gp/manager-motogp-revela-claves-contrato-133634832"
+    },
+    {
+      "titular": "De Goku a ‘Aurameyang’: Pierre-Emerick vuelve a ser la gran sensación de LaLiga a los 37 años",
+      "medios": [
+        "Sport"
+      ],
+      "consenso": 1,
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/laliga/goku-aurameyang-pierre-emerick-vuelve-133630133"
+    },
+    {
+      "titular": "Eterno Alonso: la gesta en Zandvoort que solo tres leyendas habían logrado antes",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T10:21:23+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260825/1004219508/inglaterra-hablan-ofensiva-ponen-precio-balde.html"
+      "fecha": "2026-08-25T11:50:57+02:00",
+      "enlace": "https://www.mundodeportivo.com/motor/f1/20260825/1004219549/eterno-alonso-gesta-zandvoort-tres-leyendas-habian-logrado.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 40,
+    "antiguedad_minima_min": 3,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 6338,
+        "antiguedad_min": 6370,
         "descartados_por_gancho": 12
       },
       {
@@ -98,9 +98,9 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 136,
+        "items": 132,
         "error": null,
-        "antiguedad_min": 40,
+        "antiguedad_min": 3,
         "descartados_por_gancho": 3
       },
       {
