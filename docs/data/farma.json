@@ -1,8 +1,8 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "ultimas",
-  "generado": "2026-08-25T23:51:59+02:00",
+  "modo": "portadas",
+  "generado": "2026-08-26T00:20:02+02:00",
   "titulares": [
     {
       "titular": "La CNMC plantea revisar descuentos y precios para trasladar más ahorros al SNS",
@@ -23,24 +23,6 @@
       "enlace": "https://www.redaccionmedica.com/profesionales/derecho-sanitario/20260825/un-confinamiento-colectivo-en-ceuta-sin-diagnostico-ni-cribado-previos-carece-de-amparo-legal/349629_0.html"
     },
     {
-      "titular": "Los análisis de sangre abren \"una nueva era\" para el diagnóstico de alzhéimer: \"Su precisión ronda el 80%\"",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-25T17:28:05+02:00",
-      "enlace": "https://www.redaccionmedica.com/profesionales/sociedades-cientificas/20260825/los-analisis-de-sangre-abren-una-nueva-era-para-el-diagnostico-alzheimer-su-precision-ronda/349620_0.html"
-    },
-    {
-      "titular": "La farmacia afianza su papel en dermatología, pero reclama más formación, protocolos y reconocimiento profesional",
-      "medios": [
-        "El Global"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-25T14:40:10+02:00",
-      "enlace": "https://elglobalfarma.com/farmacia/farmacia-dermatologia-formacion-protocolos-reconocimiento-profesional/"
-    },
-    {
       "titular": "Padilla asegura que \"no hay emergencia de salud pública en Ceuta\"",
       "medios": [
         "Diariofarma"
@@ -50,33 +32,52 @@
       "enlace": "https://diariofarma.com/2026/08/25/padilla-no-hay-emergencia-de-salud-publica-en-ceuta"
     },
     {
-      "titular": "La CE aprueba Tecvayli en combinación con daratumumab para el mieloma múltiple en recaída o refractario",
-      "medios": [
-        "El Global"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-25T12:51:18+02:00",
-      "enlace": "https://elglobalfarma.com/industria/ce-aprueba-tecvayli-combinacion-daratumumab-mieloma-multiple-recaida-refractario/"
-    },
-    {
-      "titular": "Muere una mujer en Extremadura a causa del virus del Nilo",
+      "titular": "Reconocimiento médico obligatorio: así será el nuevo 'triaje' a pie de frontera para los inmigrantes irregulares",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T16:19:54+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20260825/muere-una-mujer-en-extremadura-causa-del-virus-nilo/349623_0.html"
+      "fecha": "2026-08-25T14:47:15+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/20260825/reconocimiento-medico-obligatorio-asi-sera-el-nuevo-triaje-pie-de-frontera-para-los-inmigrantes-irregulares/349552_0.html"
+    },
+    {
+      "titular": "Cada vez más cerca de la cumbre nacional de la profesión",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-25T10:11:47+02:00",
+      "enlace": "https://diariofarma.com/2026/08/25/cada-vez-mas-cerca-de-la-cumbre-nacional-de-la-profesion"
+    },
+    {
+      "titular": "Sanidad asegura que se han reducido los casos de sarna y gastroenteritis en Ceuta",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-25T15:26:06+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/20260825/sanidad-asegura-que-se-han-reducido-los-casos-de-sarna-gastroenteritis-en-ceuta/349619_0.html"
+    },
+    {
+      "titular": "El Hospital Puerta de Hierro participa en un estudio genómico sobre cáncer de pulmón",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-25T10:11:22+02:00",
+      "enlace": "https://diariofarma.com/2026/08/25/el-hospital-puerta-de-hierro-participa-en-un-estudio-genomico-sobre-cancer-de-pulmon"
     }
   ],
   "salud": {
     "feeds_totales": 7,
-    "feeds_ok": 4,
+    "feeds_ok": 3,
     "feeds_caidos": [
+      "El Global",
       "PMFarma",
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 226,
+    "antiguedad_minima_min": 254,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,17 +85,16 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 226,
+        "antiguedad_min": 254,
         "descartados_por_gancho": 0
       },
       {
         "medio": "El Global",
         "url": "https://elglobal.es/feed/",
-        "ok": true,
-        "items": 10,
-        "error": null,
-        "antiguedad_min": 551,
-        "descartados_por_gancho": 0
+        "ok": false,
+        "items": 0,
+        "error": "URLError: <urlopen error timed out>",
+        "antiguedad_min": null
       },
       {
         "medio": "Redacción Médica",
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 266,
+        "antiguedad_min": 294,
         "descartados_por_gancho": 0
       },
       {

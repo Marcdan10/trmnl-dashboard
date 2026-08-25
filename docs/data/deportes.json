@@ -1,26 +1,26 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "ultimas",
-  "generado": "2026-08-25T23:51:54+02:00",
+  "modo": "portadas",
+  "generado": "2026-08-26T00:19:37+02:00",
   "titulares": [
     {
-      "titular": "0-1: Pablo García lanza al Betis y desencadena otro enfado de Mestalla",
+      "titular": "Premio para Xavi Espart: pasa a ser jugador del primer equipo y llevará el 12",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T23:27:57+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/laliga/20260825/1004219784/valencia-betis.html"
+      "fecha": "2026-08-25T19:20:08+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260825/1004219730/premio-xavi-espart-pasa-jugador-primer-equipo-llevara-12.html"
     },
     {
-      "titular": "\"Los paneles fotovoltaicos no necesitan que el sol les esté dando para generar energía\"",
+      "titular": "Pepelu habla de la falta de gol y la crítica de Mestalla",
       "medios": [
-        "Mundo Deportivo"
+        "Sport"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T23:10:03+02:00",
-      "enlace": "https://www.mundodeportivo.com/actualidad/20260825/1004219738/jorge-gonzalez-experto-placas-solares-paneles-fotovotaicos-funcionan-radiacion-solar-no-necesitan-sol-les-dando-directamente-generar-producir-energia-smd.html"
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/valencia/pepelu-habla-falta-gol-critica-133657199"
     },
     {
       "titular": "Las portadas en Inglaterra con Arteta son para verlas...",
@@ -32,6 +32,24 @@
       "enlace": "https://www.marca.com/futbol/album/2026/08/21/portadas-dia.html"
     },
     {
+      "titular": "El futuro de Brian Fariñas, pendiente de Frenkie de Jong",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-25T14:38:41+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260825/1004219574/futuro-brian-farinas-pendiente-frenkie-jong.html"
+    },
+    {
+      "titular": "El Bodo Glimt vuelve a la Champions y el Celtic hace el ridículo",
+      "medios": [
+        "Sport"
+      ],
+      "consenso": 1,
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/champions/bodo-glimt-vuelve-champions-celtic-133656819"
+    },
+    {
       "titular": "\"Si hubiese estado fresco no habríamos perdido\"",
       "medios": [
         "Marca"
@@ -41,31 +59,13 @@
       "enlace": "https://www.marca.com/futbol/rayo/2026/08/21/camello-agotados-situacion-distancia-tres-partes.html"
     },
     {
-      "titular": "El Barça suma tres posibles rivales para la Champions: quedan cuatro por decidir",
-      "medios": [
-        "Sport"
-      ],
-      "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/barca/barca-suma-tres-posibles-rivales-133655838"
-    },
-    {
-      "titular": "Debacle del Celtic en Austria: el Oviedo se queda sin bonus",
-      "medios": [
-        "Sport"
-      ],
-      "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/oviedo/debacle-celtic-austria-oviedo-queda-133656881"
-    },
-    {
-      "titular": "2-1: Zuk marca en el triunfo de una Sub-18 con Pesquer",
+      "titular": "0-1: Pablo García lanza al Betis y desencadena otro enfado de Mestalla",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T22:51:35+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260825/1004219773/2-1-zuk-marca-triunfo-sub-18-pesquer.html"
+      "fecha": "2026-08-25T23:27:57+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/laliga/20260825/1004219784/valencia-betis.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 23,
+    "antiguedad_minima_min": 25,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 7081,
+        "antiguedad_min": 7108,
         "descartados_por_gancho": 12
       },
       {
@@ -100,17 +100,17 @@
         "ok": true,
         "items": 138,
         "error": null,
-        "antiguedad_min": 23,
+        "antiguedad_min": 25,
         "descartados_por_gancho": 2
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 48,
+        "items": 49,
         "error": null,
         "antiguedad_min": null,
-        "descartados_por_gancho": 2
+        "descartados_por_gancho": 1
       },
       {
         "medio": "NBA",

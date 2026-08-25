@@ -1,9 +1,27 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "ultimas",
-  "generado": "2026-08-25T23:51:52+02:00",
+  "modo": "portadas",
+  "generado": "2026-08-26T00:19:35+02:00",
   "titulares": [
+    {
+      "titular": "La nueva pensión de jubilación se dispara a 1.822 euros al mes: equivale al 88% del sueldo medio",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-25T11:39:22+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/08/25/6a8d4b51e5fdeaba758b458e.html"
+    },
+    {
+      "titular": "Santander, BBVA y CaixaBank se libran del golpe de Basilea III",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-25T00:26:33+02:00",
+      "enlace": "https://www.expansion.com/empresas/banca/2026/08/25/69e8ac28e5fdea30248b458a.html"
+    },
     {
       "titular": "El 80% de la energía de los 'data center' deberá ser renovable",
       "medios": [
@@ -14,13 +32,13 @@
       "enlace": "https://www.expansion.com/empresas/2026/08/25/6a8de7bee5fdea392c8b4579.html"
     },
     {
-      "titular": "SpaceX invertirá 85.500 millones en un centro de lanzamiento de cohetes en Luisiana",
+      "titular": "China avisa: responderá a EEUU si hay sanciones por su apoyo a Irán",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T21:47:52+02:00",
-      "enlace": "https://www.expansion.com/economia-digital/companias/2026/08/25/6a8df13ae5fdeab4728b4596.html"
+      "fecha": "2026-08-25T16:04:59+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/08/25/6a8d9f78468aeb30458b457f.html"
     },
     {
       "titular": "España y Polonia comprarán aviones cisterna a Airbus por 5.400 millones de euros",
@@ -32,40 +50,22 @@
       "enlace": "https://www.expansion.com/empresas/2026/08/25/6a8de1d8468aeb85748b4588.html"
     },
     {
-      "titular": "Dolly Parton, leyenda de la música country, muere a los 80 años",
+      "titular": "Nvidia afronta los resultados bajo máxima presión",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T20:31:19+02:00",
-      "enlace": "https://www.expansion.com/sociedad/2026/08/25/6a8ddf27e5fdeafb2b8b458f.html"
+      "fecha": "2026-08-25T02:21:28+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/08/25/6a8cbbca468aeb3e078b4595.html"
     },
     {
-      "titular": "Robles choca con Marlaska: detalla el aviso del CNI de la crisis en Ceuta",
+      "titular": "Reental compra un palacio en el Pirineo aragonés para apartamentos de lujo",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T19:49:14+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/08/25/6a8dd594e5fdeaeb478b456e.html"
-    },
-    {
-      "titular": "Iberdrola reúne a su comité de dirección en Bilbao para analizar perspectivas",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-25T19:01:24+02:00",
-      "enlace": "https://www.expansion.com/empresas/energia/2026/08/25/6a8dc0bae5fdea71088b458f.html"
-    },
-    {
-      "titular": "Barcelona invertirá 52 millones en reformar la antigua fábrica de La Escocesa",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-25T17:57:16+02:00",
-      "enlace": "https://www.expansion.com/catalunya/2026/08/25/6a8da707e5fdea696d8b4585.html"
+      "fecha": "2026-08-25T12:15:49+02:00",
+      "enlace": "https://www.expansion.com/inmobiliario/mercado/2026/08/25/6a8d6b43468aebf6408b4588.html"
     }
   ],
   "salud": {
@@ -78,7 +78,7 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 51,
+    "antiguedad_minima_min": 79,
     "detalle": [
       {
         "medio": "Expansión",
@@ -86,7 +86,7 @@
         "ok": true,
         "items": 73,
         "error": null,
-        "antiguedad_min": 51,
+        "antiguedad_min": 79,
         "descartados_por_gancho": 1
       },
       {
