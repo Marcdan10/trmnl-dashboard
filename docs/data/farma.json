@@ -2,34 +2,43 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "ultimas",
-  "generado": "2026-08-25T12:01:47+02:00",
+  "generado": "2026-08-25T12:58:19+02:00",
   "titulares": [
     {
-      "titular": "Las ventajas de los GLP-1 orales: «Hay que buscar tratamientos que se adapten a la vida de las personas con obesidad y no al revés»",
+      "titular": "Cantabria amplía hasta los 7 años la vacunación intranasal contra la gripe",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-25T12:53:19+02:00",
+      "enlace": "https://www.redaccionmedica.com/autonomias/20260825/cantabria-amplia-hasta-los-anos-la-vacunacion-intranasal-contra-gripe/349586_0.html"
+    },
+    {
+      "titular": "La CE aprueba Tecvayli en combinación con daratumumab para el mieloma múltiple en recaída o refractario",
       "medios": [
         "El Global"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T12:00:28+02:00",
-      "enlace": "https://elglobalfarma.com/industria/beneficios-glp-1-oral-tratamientos-vida-obesidad/"
+      "fecha": "2026-08-25T12:51:18+02:00",
+      "enlace": "https://elglobalfarma.com/industria/ce-aprueba-tecvayli-combinacion-daratumumab-mieloma-multiple-recaida-refractario/"
     },
     {
-      "titular": "Baleares pone en marcha un nuevo sistema para mejorar la valoración médica de las bajas laborales",
+      "titular": "La CE aprueba Trodelvy más Keytruda para el tratamiento en primera línea del cáncer de mama triple negativo metastásico PD-L1 positivo",
+      "medios": [
+        "El Global"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-25T12:40:45+02:00",
+      "enlace": "https://elglobalfarma.com/industria/comision-europea-aprueba-trodelvy-keytruda-primera-linea-cancer-mama-triple-negativo-metastasico/"
+    },
+    {
+      "titular": "El robot opera con más precisión y el paciente queda igual",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T11:44:08+02:00",
-      "enlace": "https://www.redaccionmedica.com/autonomias/20260825/baleares-pone-en-marcha-un-nuevo-sistema-para-mejorar-la-valoracion-medica-de-las-bajas-laborales/349585_0.html"
-    },
-    {
-      "titular": "\"El Urbasonazo de las picaduras lleva más pacientes a Urgencias que el miedo al cáncer\"",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-25T11:43:09+02:00",
-      "enlace": "https://www.redaccionmedica.com/virico/20260825/el-urbasonazo-de-las-picaduras-lleva-mas-pacientes-urgencias-que-el-miedo-al-cancer/349580_0.html"
+      "fecha": "2026-08-25T12:08:33+02:00",
+      "enlace": "https://www.redaccionmedica.com/opinion/20260825/el-robot-opera-con-mas-precision-el-paciente-queda-igual/349587_12.html"
     },
     {
       "titular": "Cada vez más cerca de la cumbre nacional de la profesión",
@@ -50,22 +59,13 @@
       "enlace": "https://diariofarma.com/2026/08/25/el-hospital-puerta-de-hierro-participa-en-un-estudio-genomico-sobre-cancer-de-pulmon"
     },
     {
-      "titular": "La Farmacia al completo rechaza el plan para liberalizar el sector de la CNMC",
+      "titular": "Las ventajas de los GLP-1 orales: «Hay que buscar tratamientos que se adapten a la vida de las personas con obesidad»",
       "medios": [
         "El Global"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T14:21:14+02:00",
-      "enlace": "https://elglobalfarma.com/farmacia/farmacia-rechaza-plan-liberalizar-sector-cnmc/"
-    },
-    {
-      "titular": "Sanidad adjudica más de 2,2 millones de euros en tecnología, clases de inglés y medicamentos exclusivos",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-25T11:17:58+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/20260825/sanidad-adjudica-mas-de-millones-euros-en-tecnologia-clases-ingles-medicamentos-exclusivos/349583_0.html"
+      "fecha": "2026-08-25T12:00:28+02:00",
+      "enlace": "https://elglobalfarma.com/industria/beneficios-glp-1-oral-tratamientos-vida-obesidad/"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 1,
+    "antiguedad_minima_min": 4,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 109,
+        "antiguedad_min": 166,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 1,
+        "antiguedad_min": 6,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 17,
+        "antiguedad_min": 4,
         "descartados_por_gancho": 0
       },
       {

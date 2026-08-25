@@ -2,8 +2,44 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-08-25T12:01:41+02:00",
+  "generado": "2026-08-25T12:58:12+02:00",
   "titulares": [
+    {
+      "titular": "Reental compra un palacio en el Pirineo aragonés para apartamentos de lujo",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-25T12:15:49+02:00",
+      "enlace": "https://www.expansion.com/inmobiliario/mercado/2026/08/25/6a8d6b43468aebf6408b4588.html"
+    },
+    {
+      "titular": "Un ministro marroquí habla de la liberación de Ceuta y Melilla ante Mohamed VI durante una celebración religiosa",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-25T12:15:46+02:00",
+      "enlace": "https://www.expansion.com/economia/politica/2026/08/25/6a8d6b24e5fdeaf6688b456d.html"
+    },
+    {
+      "titular": "Vía libre para Garamendi: sin rival en las elecciones para presidir la CEOE hasta 2030",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-25T12:08:32+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/08/25/6a8d3d01e5fdeaf4178b4580.html"
+    },
+    {
+      "titular": "La viticultura, al límite: crisis climática, falta de mano de obra y precios a la baja",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-25T11:58:49+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/08/25/6a8caa6c468aeb65358b4592.html"
+    },
     {
       "titular": "La nueva pensión de jubilación se dispara a 1.822 euros al mes: equivale al 88% del sueldo medio",
       "medios": [
@@ -30,42 +66,6 @@
       "consenso": 1,
       "fecha": "2026-08-25T11:04:04+02:00",
       "enlace": "https://www.expansion.com/valencia/2026/08/25/6a8d5a81468aeb5f118b456e.html"
-    },
-    {
-      "titular": "Golpe mundial de Interpol a las redes de estafas financieras por internet",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-25T11:00:20+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/08/25/6a8d5531468aebf6408b457e.html"
-    },
-    {
-      "titular": "La española Taptap Digital adquiere la plataforma de audiencias británica Skyrise",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-25T10:52:54+02:00",
-      "enlace": "https://www.expansion.com/empresas/tecnologia/2026/08/25/6a8c91afe5fdea384c8b457f.html"
-    },
-    {
-      "titular": "Muere Socorro Fernández Larrea, consejera independiente de OHLA",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-25T10:13:31+02:00",
-      "enlace": "https://www.expansion.com/sociedad/2026/08/25/6a8d4e9fe5fdea84798b4596.html"
-    },
-    {
-      "titular": "Los otros síntomas de la crisis de la vivienda",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-25T09:41:00+02:00",
-      "enlace": "https://www.expansion.com/opinion/2026/08/25/6a8d4709468aeb6b078b4571.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 22,
+    "antiguedad_minima_min": 42,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 67,
+        "items": 68,
         "error": null,
-        "antiguedad_min": 22,
+        "antiguedad_min": 42,
         "descartados_por_gancho": 1
       },
       {

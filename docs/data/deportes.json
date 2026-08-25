@@ -2,25 +2,26 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-08-25T12:01:42+02:00",
+  "generado": "2026-08-25T12:58:14+02:00",
   "titulares": [
     {
-      "titular": "Afra Blanco, sindicalista: \"Los empresarios seguís viendo a los trabajadores como mercancía y no como personas\"",
+      "titular": "Oficial: El Clásico femenino se jugará en el Spotify Camp Nou",
       "medios": [
-        "Mundo Deportivo"
+        "Mundo Deportivo",
+        "Sport"
       ],
-      "consenso": 1,
-      "fecha": "2026-08-25T11:58:04+02:00",
-      "enlace": "https://www.mundodeportivo.com/actualidad/20260825/1004219547/afra-blanco-sindicalista-empresarios-seguis-viendo-trabajadores-mercancia-no-personas-dct.html"
+      "consenso": 2,
+      "fecha": "2026-08-25T12:25:30+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260825/1004219564/oficial-clasico-femenino-jugara-spotify-camp-nou.html"
     },
     {
-      "titular": "\"He visto los trofeos y estoy deseando ayudar al Valencia a volver a conseguir todo eso\"",
+      "titular": "La mujer de Newey contesta a Lobato e incendia las redes: \"¿Quién?\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T11:54:51+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/valencia/20260825/1004219550/he-visto-trofeos-deseando-ayudar-valencia-volver-conseguir.html"
+      "fecha": "2026-08-25T12:14:30+02:00",
+      "enlace": "https://www.mundodeportivo.com/motor/f1/20260825/1004219557/mujer-newey-contesta-lobato-e-incendia-redes.html"
     },
     {
       "titular": "Las portadas en Inglaterra con Arteta son para verlas...",
@@ -41,31 +42,31 @@
       "enlace": "https://www.marca.com/futbol/rayo/2026/08/21/camello-agotados-situacion-distancia-tres-partes.html"
     },
     {
-      "titular": "Un manager de MotoGP revela las claves del contrato de Marc Márquez y Ducati",
+      "titular": "Pedri (23 años): \"Mi familia lo es todo para mí, cuando marco siempre me beso la muñeca para dedicarle los goles a mi abuela. Me gustaría ayudar a mi familia con todo lo que ellos quieran, se lo merecen por cómo me han cuidado\"",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/motor/moto-gp/manager-motogp-revela-claves-contrato-133634832"
+      "enlace": "https://www.sport.es/es/noticias/barca/pedri-23-anos-beso-muneca-goles-abuela-familia-133635243"
     },
     {
-      "titular": "De Goku a ‘Aurameyang’: Pierre-Emerick vuelve a ser la gran sensación de LaLiga a los 37 años",
+      "titular": "Valery, a punto de llegar a la primera división portuguesa tras su efímero paso por el Real Zaragoza",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/laliga/goku-aurameyang-pierre-emerick-vuelve-133630133"
+      "enlace": "https://www.sport.es/es/noticias/futbol/valery-punto-llegar-primera-division-133638137"
     },
     {
-      "titular": "Eterno Alonso: la gesta en Zandvoort que solo tres leyendas habían logrado antes",
+      "titular": "La felicidad de Christensen al llegar a los 100 partidos",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T11:50:57+02:00",
-      "enlace": "https://www.mundodeportivo.com/motor/f1/20260825/1004219549/eterno-alonso-gesta-zandvoort-tres-leyendas-habian-logrado.html"
+      "fecha": "2026-08-25T12:13:46+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260825/1004219555/felicidad-christensen-llegar-100-partidos.html"
     }
   ],
   "salud": {
@@ -74,7 +75,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 3,
+    "antiguedad_minima_min": 32,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +83,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 6370,
+        "antiguedad_min": 6427,
         "descartados_por_gancho": 12
       },
       {
@@ -100,7 +101,7 @@
         "ok": true,
         "items": 132,
         "error": null,
-        "antiguedad_min": 3,
+        "antiguedad_min": 32,
         "descartados_por_gancho": 3
       },
       {
