@@ -2,62 +2,62 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-08-25T15:43:27+02:00",
+  "generado": "2026-08-25T16:38:13+02:00",
   "titulares": [
     {
-      "titular": "Carlos Alcaraz y Serena Williams, juntos en el dobles mixto del US Open",
+      "titular": "El Gobierno endurece las leyes de extranjería y asilo en línea con el pacto europeo en plena crisis de Ceuta",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-25T16:34:08+02:00",
+      "enlace": "https://elpais.com/espana/2026-08-25/rueda-de-prensa-del-consejo-de-ministros-en-directo-saiz-torres-y-marlaska-comparecen-tras-la-creacion-del-mando-unico-para-ceuta.html"
+    },
+    {
+      "titular": "El Gobierno reforma la ley de asilo y la de extranjería en medio de la crisis migratoria en Ceuta",
       "medios": [
         "La Vanguardia",
         "ABC"
       ],
       "consenso": 2,
-      "fecha": "2026-08-25T15:27:21+02:00",
-      "enlace": "https://www.abc.es/deportes/tenis/horario-ver-regreso-alcaraz-dobles-mixto-open-20260825093709-nt.html"
+      "fecha": "2026-08-25T16:28:07+02:00",
+      "enlace": "https://www.abc.es/espana/gobierno-reforma-ley-asilo-extranjeria-medio-crisis-20260825134301-nt.html"
     },
     {
-      "titular": "Robles señala a Marlaska por Ceuta: sostiene que Inteligencia hizo su labor y avisó a Interior",
+      "titular": "Guerra de versiones entre Marlaska y Robles sobre los informes que hizo el CNI para avanzar la crisis de Ceuta",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-25T16:25:42+02:00",
+      "enlace": "https://elpais.com/espana/2026-08-25/marlaska-contradice-a-robles-e-insiste-en-que-el-cni-no-informo-de-la-posibilidad-de-una-entrada-masiva-en-ceuta.html"
+    },
+    {
+      "titular": "«Me dijeron que había una pasajera viva»: el relato del marinero que rescató el barco del empresario burgalés desaparecido",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T15:23:25+02:00",
+      "fecha": "2026-08-25T16:22:39+02:00",
+      "enlace": "https://www.abc.es/internacional/dijeron-pasajera-viva-relato-marinero-rescato-barco-20260825130121-nt.html"
+    },
+    {
+      "titular": "Robles señala a Marlaska por Ceuta: sostiene que el CNI hizo su labor y avisó a Interior",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-25T16:21:44+02:00",
       "enlace": "https://www.abc.es/espana/robles-senala-marlaska-sostiene-servicios-inteligencia-hicieron-20260825151503-nt.html"
     },
     {
-      "titular": "El triángulo amoroso que Geena Davis protagonizó en los ochenta y acabó con un corazón roto",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-25T15:15:58+02:00",
-      "enlace": "https://elpais.com/gente/2026-08-25/el-triangulo-amoroso-que-geena-davis-protagonizo-en-los-ochenta-y-acabo-con-un-corazon-roto.html"
-    },
-    {
-      "titular": "El Gobierno aprueba un anteproyecto para reformar las leyes de extranjería y de asilo",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-25T15:05:36+02:00",
-      "enlace": "https://elpais.com/espana/2026-08-25/rueda-de-prensa-del-consejo-de-ministros-en-directo-saiz-torres-y-marlaska-comparecen-tras-la-creacion-del-mando-unico-para-ceuta.html"
-    },
-    {
-      "titular": "La granizada en Tarragona deja un centenar de palomas muertas",
+      "titular": "Declarado un incendio en Collserola cerca de Nou Barris",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T15:03:28+02:00",
-      "enlace": "https://www.lavanguardia.com/local/tarragona/20260825/11619816/granizada-tarragona-deja-centenar-palomas-muertas.html"
-    },
-    {
-      "titular": "Las primeras vueltas de la F3 en el circuito 'Madring' disparan las quejas vecinales",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-25T14:59:27+02:00",
-      "enlace": "https://www.abc.es/espana/madrid/primeras-vueltas-madring-disparan-quejas-vecinales-20260824011526-nt.html"
+      "fecha": "2026-08-25T16:05:27+02:00",
+      "enlace": "https://www.lavanguardia.com/local/barcelona/20260825/11619847/declarado-incendio-collserola-cerca-nou-barris.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -75,7 +75,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 16,
+    "antiguedad_minima_min": 4,
     "detalle": [
       {
         "medio": "RTVE",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2214158,
+        "antiguedad_min": 2214213,
         "descartados_por_gancho": 0
       },
       {
@@ -98,18 +98,18 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 139,
+        "items": 141,
         "error": null,
-        "antiguedad_min": 27,
+        "antiguedad_min": 4,
         "descartados_por_gancho": 3
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 120,
+        "items": 124,
         "error": null,
-        "antiguedad_min": 39,
+        "antiguedad_min": 32,
         "descartados_por_gancho": 12
       },
       {
@@ -118,7 +118,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 16,
+        "antiguedad_min": 10,
         "descartados_por_gancho": 0
       }
     ]

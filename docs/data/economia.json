@@ -2,8 +2,35 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-08-25T15:43:31+02:00",
+  "generado": "2026-08-25T16:38:18+02:00",
   "titulares": [
+    {
+      "titular": "China advierte a EEUU que podría tomar represalias por las sanciones a Irán",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-25T16:04:59+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/08/25/6a8d9f78468aeb30458b457f.html"
+    },
+    {
+      "titular": "El Ibex borra las subidas y se aleja de máximos",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-25T15:52:42+02:00",
+      "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/08/25/6a8d2a89468aeb49718b4581.html"
+    },
+    {
+      "titular": "Dragon Ball Z tendrá un parque temático a las afueras de París",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-25T15:38:41+02:00",
+      "enlace": "https://www.expansion.com/empresas/transporte/2026/08/25/6a8d98aee5fdea71088b4585.html"
+    },
     {
       "titular": "Los nuevos patrocinios tras las casas de apuestas en la Premier League",
       "medios": [
@@ -39,33 +66,6 @@
       "consenso": 1,
       "fecha": "2026-08-25T14:19:41+02:00",
       "enlace": "https://www.expansion.com/empresas/2026/08/25/6a8d7ee7e5fdea62628b456d.html"
-    },
-    {
-      "titular": "Volkswagen eliminará 50.000 empleos en Alemania: \"Todo el mundo tiene que participar\"",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-25T14:17:26+02:00",
-      "enlace": "https://www.expansion.com/empresas/motor/2026/08/25/6a8d86a6468aeb98548b457a.html"
-    },
-    {
-      "titular": "Cómo la salida a Bolsa de Shein fue perdiendo brillo",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-25T14:12:58+02:00",
-      "enlace": "https://www.expansion.com/economia/financial-times/2026/08/25/6a8d858fe5fdea4d168b4573.html"
-    },
-    {
-      "titular": "United Airlines anuncia un vuelo directo de Valencia a Nueva York",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-25T14:12:18+02:00",
-      "enlace": "https://www.expansion.com/valencia/2026/08/25/6a8d8282e5fdea42168b456f.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 44,
+    "antiguedad_minima_min": 33,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 69,
+        "items": 71,
         "error": null,
-        "antiguedad_min": 44,
+        "antiguedad_min": 33,
         "descartados_por_gancho": 1
       },
       {

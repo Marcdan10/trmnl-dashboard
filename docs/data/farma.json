@@ -2,8 +2,17 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "ultimas",
-  "generado": "2026-08-25T15:43:41+02:00",
+  "generado": "2026-08-25T16:38:26+02:00",
   "titulares": [
+    {
+      "titular": "Muere una mujer en Extremadura a causa del virus del Nilo",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-25T16:19:54+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20260825/muere-una-mujer-en-extremadura-causa-del-virus-nilo/349623_0.html"
+    },
     {
       "titular": "Sanidad asegura que se han reducido los casos de sarna y gastroenteritis en Ceuta",
       "medios": [
@@ -12,15 +21,6 @@
       "consenso": 1,
       "fecha": "2026-08-25T15:26:06+02:00",
       "enlace": "https://www.redaccionmedica.com/politica/20260825/sanidad-asegura-que-se-han-reducido-los-casos-de-sarna-gastroenteritis-en-ceuta/349619_0.html"
-    },
-    {
-      "titular": "Satse pide reforzar las plantillas sanitarias ante la \"máxima alerta\" en Ceuta",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-25T15:18:18+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20260825/satse-pide-reforzar-las-plantillas-sanitarias-ante-la-maxima-alerta-en-ceuta/349617_0.html"
     },
     {
       "titular": "La farmacia afianza su papel en dermatología, pero reclama más formación, protocolos y reconocimiento profesional",
@@ -59,13 +59,13 @@
       "enlace": "https://diariofarma.com/2026/08/25/cada-vez-mas-cerca-de-la-cumbre-nacional-de-la-profesion"
     },
     {
-      "titular": "Dimite el tutor MIR de Urgencias del Hospital Universitario de Cáceres por \"motivos profesionales\"",
+      "titular": "Satse pide reforzar las plantillas sanitarias ante la \"máxima alerta\" en Ceuta",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T14:49:23+02:00",
-      "enlace": "https://www.redaccionmedica.com/autonomias/20260825/dimite-el-tutor-mir-de-urgencias-del-hospital-universitario-caceres-por-motivos-profesionales/349606_0.html"
+      "fecha": "2026-08-25T15:18:18+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20260825/satse-pide-reforzar-las-plantillas-sanitarias-ante-la-maxima-alerta-en-ceuta/349617_0.html"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 17,
+    "antiguedad_minima_min": 18,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 150,
+        "antiguedad_min": 205,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 63,
+        "antiguedad_min": 118,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 17,
+        "antiguedad_min": 18,
         "descartados_por_gancho": 0
       },
       {
