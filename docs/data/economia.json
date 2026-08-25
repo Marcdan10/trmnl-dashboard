@@ -2,7 +2,7 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "portadas",
-  "generado": "2026-08-25T07:56:43+02:00",
+  "generado": "2026-08-25T08:41:56+02:00",
   "titulares": [
     {
       "titular": "Norges comprará una cartera de 1.900 pisos de alquiler en España",
@@ -59,13 +59,13 @@
       "enlace": "https://www.expansion.com/economia/2026/08/25/6a8caa6c468aeb65358b4592.html"
     },
     {
-      "titular": "Santander, BBVA y CaixaBank se libran del golpe de Basilea III",
+      "titular": "El Ibex busca los 20.100 puntos",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T00:26:33+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/08/25/69e8ac28e5fdea30248b458a.html"
+      "fecha": "2026-08-25T08:26:05+02:00",
+      "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/08/25/6a8d2a89468aeb49718b4581.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 12,
+    "antiguedad_minima_min": 15,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 62,
+        "items": 64,
         "error": null,
-        "antiguedad_min": 12,
+        "antiguedad_min": 15,
         "descartados_por_gancho": 1
       },
       {
