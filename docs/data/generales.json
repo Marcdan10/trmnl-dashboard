@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-08-25T06:07:35+02:00",
+  "generado": "2026-08-25T07:56:40+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -23,22 +23,22 @@
       "enlace": "https://elpais.com/espana/2026-08-25/sanchez-da-un-giro-a-la-gestion-de-la-crisis-de-ceuta-casi-un-mes-despues-con-un-mando-unico-y-un-plan-economico.html"
     },
     {
-      "titular": "El Gobierno creará un mando único dirigido por el ministro Torres para gestionar la crisis de Ceuta",
+      "titular": "El Gobierno crea el mando único para Ceuta un mes después del asalto",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T17:16:46+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20260824/11619263/gobierno-constituira-mando-unico-dirigido-ministro-torres-gestionar-crisis-ceuta.html"
+      "fecha": "2026-08-25T06:00:00+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20260825/11619322/mes-salto-masivo-ceuta-tendra-hoy-autoridad-unica.html"
     },
     {
-      "titular": "«Más altos, más rápidos, más fuertes»: robots que pulverizan récords humanos",
+      "titular": "Muere Francis Clifford, el recluso que pasó más tiempo encerrado en EE.UU., a los 101 años tras estar más de 70 en prisión",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T04:49:45+02:00",
-      "enlace": "https://www.abc.es/sociedad/robot-corre-rapido-usain-bolt-juegos-olimpicos-20260825012417-nt.html"
+      "fecha": "2026-08-25T07:34:51+02:00",
+      "enlace": "https://www.abc.es/sociedad/muere-francis-clifford-recluso-paso-tiempo-encerrado-20260824210541-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -59,13 +59,13 @@
       "enlace": "https://elpais.com/espana/2026-08-25/robles-reafirmara-la-labor-de-las-fuerzas-armadas-y-la-espanolidad-de-ceuta-en-el-congreso.html"
     },
     {
-      "titular": "Sanidad y comunidades acuerdan enviar 45.000 vacunas a Ceuta",
+      "titular": "El PP exige repatriaciones: “La política social de Marruecos debe hacerla Rabat”",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T15:14:43+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20260824/11619185/sanidad-comunidades-acuerdan-enviar-25-000-vacunas-ceuta-afrontar-crisis-migratoria.html"
+      "fecha": "2026-08-25T06:00:00+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20260825/11619335/pp-exige-repatriaciones-politica-social-marruecos-debe-hacerla-rabat.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 22,
+    "antiguedad_minima_min": 12,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2213582,
+        "antiguedad_min": 2213691,
         "descartados_por_gancho": 0
       },
       {
@@ -97,19 +97,19 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 134,
+        "items": 136,
         "error": null,
-        "antiguedad_min": 22,
+        "antiguedad_min": 12,
         "descartados_por_gancho": 6
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 119,
+        "items": 111,
         "error": null,
-        "antiguedad_min": 331,
-        "descartados_por_gancho": 11
+        "antiguedad_min": 53,
+        "descartados_por_gancho": 14
       },
       {
         "medio": "ABC",
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 24,
         "error": null,
-        "antiguedad_min": 77,
+        "antiguedad_min": 21,
         "descartados_por_gancho": 1
       }
     ]

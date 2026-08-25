@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-08-25T06:07:39+02:00",
+  "generado": "2026-08-25T07:56:44+02:00",
   "titulares": [
     {
-      "titular": "Julián sigue alimentando el sueño del Barça",
+      "titular": "El pulso por Julián Alvarez se mantiene",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T22:52:35+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260824/1004219387/julian-sigue-alimentando-sueno-barca.html"
+      "fecha": "2026-08-25T06:30:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260825/1004219461/pulso-julian-alvarez-mantiene.html"
     },
     {
-      "titular": "El Betis quiere confirmar su buen arranque liguero en Mestalla con Troy Parrott listo para estrenarse",
+      "titular": "El Valencia obliga al Real Zaragoza a seguir a la espera por Iranzo",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/betis/betis-quiere-confirmar-buen-arranque-133628720"
+      "enlace": "https://www.sport.es/es/noticias/futbol/valencia-obliga-real-zaragoza-seguir-133629517"
     },
     {
       "titular": "Las portadas en Inglaterra con Arteta son para verlas...",
@@ -32,22 +32,22 @@
       "enlace": "https://www.marca.com/futbol/album/2026/08/21/portadas-dia.html"
     },
     {
-      "titular": "La viral explicación del tema Julián Álvarez: \"Gil Marín montó en cólera\"",
+      "titular": "Julián sigue alimentando el sueño del Barça",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T10:57:12+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20260824/1004219140/viral-explicacion-tema-julian-alvarez-gil-marin-monto-colera.html"
+      "fecha": "2026-08-24T22:52:35+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260824/1004219387/julian-sigue-alimentando-sueno-barca.html"
     },
     {
-      "titular": "Valencia CF - Real Betis: Segundo intento por la victoria en Mestalla",
+      "titular": "Darío Silva, Salva Ballesta, Nabil Baha, Santi Cazorla, y... ¡Chupe!",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/valencia/valencia-cf-real-betis-segundo-133628709"
+      "enlace": "https://www.sport.es/es/noticias/futbol/dario-silva-salva-ballesta-nabil-133629531"
     },
     {
       "titular": "\"Si hubiese estado fresco no habríamos perdido\"",
@@ -59,13 +59,13 @@
       "enlace": "https://www.marca.com/futbol/rayo/2026/08/21/camello-agotados-situacion-distancia-tres-partes.html"
     },
     {
-      "titular": "El United prefiere una cesión por Balde",
+      "titular": "Pau Sans y Pinilla, de la banda a competir por la mediapunta en el Real Zaragoza",
       "medios": [
-        "Mundo Deportivo"
+        "Sport"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T21:12:45+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260824/1004219352/united-prefiere-cesion-balde.html"
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/futbol/pau-sans-pinilla-banda-competir-133629521"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 314,
+    "antiguedad_minima_min": 31,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 6016,
+        "antiguedad_min": 6126,
         "descartados_por_gancho": 12
       },
       {
@@ -98,19 +98,19 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 141,
+        "items": 137,
         "error": null,
-        "antiguedad_min": 314,
+        "antiguedad_min": 31,
         "descartados_por_gancho": 3
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 48,
+        "items": 47,
         "error": null,
         "antiguedad_min": null,
-        "descartados_por_gancho": 1
+        "descartados_por_gancho": 3
       },
       {
         "medio": "NBA",

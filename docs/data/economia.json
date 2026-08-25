@@ -2,7 +2,7 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "portadas",
-  "generado": "2026-08-25T06:07:37+02:00",
+  "generado": "2026-08-25T07:56:43+02:00",
   "titulares": [
     {
       "titular": "Norges comprará una cartera de 1.900 pisos de alquiler en España",
@@ -14,22 +14,22 @@
       "enlace": "https://www.expansion.com/inmobiliario/mercado/2026/08/25/6a8c696ae5fdea4e4d8b458f.html"
     },
     {
-      "titular": "La oferta de habitaciones en piso compartido se dispara un 80% en 3 años",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-25T02:17:20+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/08/24/6a8c99b1e5fdea85798b4597.html"
-    },
-    {
-      "titular": "El 90% de las nuevas hipotecas ya se firman a tipo fijo",
+      "titular": "Repsol y Moeve pujan por 1.500 millones del Ejército",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
       "fecha": "2026-08-25T02:47:59+02:00",
-      "enlace": "https://www.expansion.com/ahorro/2026/08/25/6a8cb816468aebea0c8b4579.html"
+      "enlace": "https://www.expansion.com/empresas/2026/08/25/6a8c938c468aebbe1c8b4574.html"
+    },
+    {
+      "titular": "La Primera de Expansión sobre Repsol, Moeve, Norges, Nvidia, CaixaBank, SpaceX y Shein",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-25T07:43:57+02:00",
+      "enlace": "https://www.expansion.com/podcasts/la-primera-de-expansion/2026/08/25/6a8d248ee5fdea104a8b458b.html"
     },
     {
       "titular": "CaixaBank controla el 35% del negocio de pagos en la restauración",
@@ -78,7 +78,7 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 199,
+    "antiguedad_minima_min": 12,
     "detalle": [
       {
         "medio": "Expansión",
@@ -86,7 +86,7 @@
         "ok": true,
         "items": 62,
         "error": null,
-        "antiguedad_min": 199,
+        "antiguedad_min": 12,
         "descartados_por_gancho": 1
       },
       {
