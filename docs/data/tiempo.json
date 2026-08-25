@@ -1,15 +1,7 @@
 {
   "ciudad": "Barcelona",
-  "generado": "2026-08-25T06:42:05",
+  "generado": "2026-08-25T07:38:56",
   "horas": [
-    {
-      "hora": "07",
-      "temp": 23,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "nube"
-    },
     {
       "hora": "08",
       "temp": 23,
@@ -97,6 +89,14 @@
       "mm": 0,
       "mostrar_prob": false,
       "icono": "sol"
+    },
+    {
+      "hora": "19",
+      "temp": 30,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "sol"
     }
   ],
   "dias": [
@@ -162,7 +162,7 @@
     },
     {
       "etiqueta": "mar 1",
-      "max": 28,
+      "max": 29,
       "min": 25,
       "prob": 21,
       "mm": 0,

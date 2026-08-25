@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-08-25T08:41:53+02:00",
+  "generado": "2026-08-25T09:38:45+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -32,13 +32,23 @@
       "enlace": "https://www.lavanguardia.com/politica/20260825/11619322/mes-salto-masivo-ceuta-tendra-hoy-autoridad-unica.html"
     },
     {
-      "titular": "Una semana entrenando en Bangtao, el gimnasio de MMA más popular del mundo",
+      "titular": "Macron y el Príncipe heredero Bin Salman debaten en París rutas alternativas a Ormuz",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T08:27:25+02:00",
-      "enlace": "https://www.abc.es/deportes/mma/paraiso-tailandia-bangtao-placer-dolor-20260824012055-nt.html"
+      "fecha": "2026-08-25T09:23:09+02:00",
+      "enlace": "https://www.abc.es/internacional/mohamed-bin-salman-visita-macron-20260824180232-nt.html"
+    },
+    {
+      "titular": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Sánchez reúne hoy al Consejo de Seguridad Nacional para abordar la crisis de Ceuta",
+      "medios": [
+        "El País",
+        "La Vanguardia"
+      ],
+      "consenso": 2,
+      "fecha": "2026-08-25T09:34:02+02:00",
+      "enlace": "https://elpais.com/espana/2026-08-25/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -48,15 +58,6 @@
       "consenso": 1,
       "fecha": "2022-06-10T00:03:00+02:00",
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
-    },
-    {
-      "titular": "Robles reafirmará la labor de las Fuerzas Armadas y la españolidad de Ceuta en el Congreso",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-25T05:45:01+02:00",
-      "enlace": "https://elpais.com/espana/2026-08-25/robles-reafirmara-la-labor-de-las-fuerzas-armadas-y-la-espanolidad-de-ceuta-en-el-congreso.html"
     },
     {
       "titular": "El PP exige repatriaciones: “La política social de Marruecos debe hacerla Rabat”",
@@ -74,7 +75,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 14,
+    "antiguedad_minima_min": 4,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +83,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2213736,
+        "antiguedad_min": 2213793,
         "descartados_por_gancho": 0
       },
       {
@@ -99,26 +100,26 @@
         "ok": true,
         "items": 136,
         "error": null,
-        "antiguedad_min": 57,
+        "antiguedad_min": 4,
         "descartados_por_gancho": 6
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 112,
+        "items": 114,
         "error": null,
-        "antiguedad_min": 48,
+        "antiguedad_min": 42,
         "descartados_por_gancho": 14
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 25,
+        "items": 24,
         "error": null,
-        "antiguedad_min": 14,
-        "descartados_por_gancho": 0
+        "antiguedad_min": 15,
+        "descartados_por_gancho": 1
       }
     ]
   }
