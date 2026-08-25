@@ -2,8 +2,26 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-08-25T21:55:05+02:00",
+  "generado": "2026-08-25T22:21:01+02:00",
   "titulares": [
+    {
+      "titular": "Última hora de la entrada de inmigrantes a Ceuta, en directo | La Delegación del Gobierno en Ceuta contradice a Robles y niega haber recibido información que anticipara la crisis",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-25T22:09:42+02:00",
+      "enlace": "https://elpais.com/espana/2026-08-25/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html"
+    },
+    {
+      "titular": "Dolly Parton, la leyenda de la música country, fallece a los 80 años",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-25T22:09:13+02:00",
+      "enlace": "https://elpais.com/cultura/2026-08-25/muere-dolly-parton-leyenda-de-la-musica-country.html"
+    },
     {
       "titular": "Dolly Parton, la reina madre del country",
       "medios": [
@@ -21,24 +39,6 @@
       "consenso": 1,
       "fecha": "2026-08-25T21:40:28+02:00",
       "enlace": "https://www.abc.es/espana/robles-senala-marlaska-sostiene-servicios-inteligencia-hicieron-20260825151503-nt.html"
-    },
-    {
-      "titular": "Muere Dolly Parton, leyenda de la música country",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-25T21:39:28+02:00",
-      "enlace": "https://elpais.com/cultura/2026-08-25/muere-dolly-parton-leyenda-de-la-musica-country.html"
-    },
-    {
-      "titular": "Cupón diario de la ONCE: comprobar sorteo del martes 25 de agosto",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-25T21:28:48+02:00",
-      "enlace": "https://elpais.com/sorteos/2026-08-25/cupon-diario-de-la-once-comprobar-sorteo-del-martes-25-de-agosto.html"
     },
     {
       "titular": "Fallece a los 80 años Dolly Parton, la reina del country, estrella de Hollywood y sonrisa global",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 9,
+    "antiguedad_minima_min": 11,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2214530,
+        "antiguedad_min": 2214556,
         "descartados_por_gancho": 0
       },
       {
@@ -97,9 +97,9 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 142,
+        "items": 144,
         "error": null,
-        "antiguedad_min": 15,
+        "antiguedad_min": 11,
         "descartados_por_gancho": 4
       },
       {
@@ -108,7 +108,7 @@
         "ok": true,
         "items": 121,
         "error": null,
-        "antiguedad_min": 92,
+        "antiguedad_min": 118,
         "descartados_por_gancho": 10
       },
       {
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 9,
+        "antiguedad_min": 35,
         "descartados_por_gancho": 0
       }
     ]

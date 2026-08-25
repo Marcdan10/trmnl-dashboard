@@ -2,7 +2,7 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-08-25T21:55:10+02:00",
+  "generado": "2026-08-25T22:21:05+02:00",
   "titulares": [
     {
       "titular": "Serena Williams - Alcaraz vs Routtlife - Glasspool, en directo",
@@ -10,17 +10,18 @@
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T21:20:13+02:00",
+      "fecha": "2026-08-25T21:59:03+02:00",
       "enlace": "https://www.mundodeportivo.com/tenis/open-usa/20260825/1004219464/alcaraz-serena-williams-vs-lloyd-glasspool-erin-routtlife-directo-us-open-tenis.html"
     },
     {
-      "titular": "Compás de espera por Bryan Zaragoza",
+      "titular": "Muere Dolly Parton, leyenda del country, a los 80 años",
       "medios": [
-        "Mundo Deportivo"
+        "Mundo Deportivo",
+        "Sport"
       ],
-      "consenso": 1,
-      "fecha": "2026-08-25T21:10:02+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/rcd-espanyol/20260825/1004219757/compas-espera-bryan-zaragoza.html"
+      "consenso": 2,
+      "fecha": "2026-08-25T21:15:09+02:00",
+      "enlace": "https://www.mundodeportivo.com/elotromundo/gente/20260825/1004219758/muere-dolly-parton-legendaria-cantante-country-80-anos-dct.html"
     },
     {
       "titular": "Las portadas en Inglaterra con Arteta son para verlas...",
@@ -41,6 +42,15 @@
       "enlace": "https://www.marca.com/futbol/rayo/2026/08/21/camello-agotados-situacion-distancia-tres-partes.html"
     },
     {
+      "titular": "El homenaje del Spotify Camp Nou a los campeones del mundo, en duda",
+      "medios": [
+        "Sport"
+      ],
+      "consenso": 1,
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/barca/homenaje-spotify-camp-nou-campeones-133655438"
+    },
+    {
       "titular": "Luis Enrique da un 'respiro' a Dembélé",
       "medios": [
         "Sport"
@@ -50,22 +60,13 @@
       "enlace": "https://www.sport.es/es/noticias/futbol-internacional/luis-enrique-da-respiro-dembele-133655288"
     },
     {
-      "titular": "19 años de la trágica desaparición de Madeleine McCann: así es la vida de Sean McCann, su hermano",
-      "medios": [
-        "Sport"
-      ],
-      "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/deportes/natacion/19-anos-tragica-desaparicion-madeleine-133655137"
-    },
-    {
-      "titular": "Sendín, mejor mecánico de España, desvela por qué no compraría un coche nuevo",
+      "titular": "Bryan Zaragoza podría aterrizar este miércoles",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T20:56:51+02:00",
-      "enlace": "https://www.mundodeportivo.com/actualidad/20260825/1004219756/javier-sendin-mejor-mecanico-espana-no-compraria-coche-nuevo-son-mas-caros-mantener-anos-simple-golpe-frontal-declara-siniestro-total-expt-cmt-dct.html"
+      "fecha": "2026-08-25T21:10:02+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/rcd-espanyol/20260825/1004219757/compas-espera-bryan-zaragoza.html"
     }
   ],
   "salud": {
@@ -74,7 +75,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 34,
+    "antiguedad_minima_min": 22,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +83,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 6964,
+        "antiguedad_min": 6990,
         "descartados_por_gancho": 12
       },
       {
@@ -100,7 +101,7 @@
         "ok": true,
         "items": 136,
         "error": null,
-        "antiguedad_min": 34,
+        "antiguedad_min": 22,
         "descartados_por_gancho": 3
       },
       {
