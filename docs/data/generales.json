@@ -2,43 +2,43 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-08-25T19:06:19+02:00",
+  "generado": "2026-08-25T19:54:00+02:00",
   "titulares": [
     {
-      "titular": "Los vecinos de Ceuta tratan de entrar en el hotel en el que estaba el delegado del Gobierno",
+      "titular": "«Ceuta no es un CETI»: los vecinos salen a la calle para reclamar la vuelta a la normalidad",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T19:00:35+02:00",
+      "fecha": "2026-08-25T19:34:58+02:00",
       "enlace": "https://www.abc.es/espana/vecinos-ceuta-tratan-entrar-hotel-delegado-gobierno-20260825185122-nt.html"
     },
     {
-      "titular": "¿Quién comercia con Irán? Los países en la diana de Trump",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-25T18:57:24+02:00",
-      "enlace": "https://elpais.com/internacional/2026-08-25/quien-comercia-con-iran-los-paises-en-la-diana-de-trump.html"
-    },
-    {
-      "titular": "Otro recital de Pogacar sentencia la Vuelta en la etapa 4",
+      "titular": "La Tomatina de Buñol: la pelea entre jóvenes que se convirtió en fiesta internacional",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T18:54:36+02:00",
-      "enlace": "https://www.abc.es/deportes/ciclismo/recital-pogacar-sentencia-vuelta-etapa-20260825175630-nt.html"
+      "fecha": "2026-08-25T19:23:10+02:00",
+      "enlace": "https://www.abc.es/espana/comunidad-valenciana/tomatina-batalla-improvisada-fiesta-internacional-20260825184949-nt.html"
     },
     {
-      "titular": "Robles pide disculpas en el Congreso y reconoce que el Gobierno actuó mal y llegó tarde a Ceuta",
+      "titular": "Xavi Hernández, en su presentación como seleccionador de Países Bajos: “Soy un ganador y estoy aquí para competir”",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T18:44:51+02:00",
-      "enlace": "https://elpais.com/espana/2026-08-25/robles-pide-disculpas-en-el-congreso-y-reconoce-que-el-gobierno-actuo-mal-y-llego-tarde-a-ceuta.html"
+      "fecha": "2026-08-25T19:03:39+02:00",
+      "enlace": "https://elpais.com/deportes/futbol/2026-08-25/xavi-hernandez-en-su-presentacion-como-seleccionador-de-paises-bajos-soy-un-ganador-y-estoy-aqui-para-competir.html"
+    },
+    {
+      "titular": "El Estrecho de Magallanes provoca el primer conflicto diplomático entre los aliados Kast y Milei",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-25T19:01:55+02:00",
+      "enlace": "https://elpais.com/chile/2026-08-25/el-estrecho-de-magallanes-provoca-el-primer-conflicto-diplomatico-entre-los-aliados-kast-y-milei.html"
     },
     {
       "titular": "Otro ministro marroquí reclama la «liberación» de Ceuta y Melilla ante el rey Mohamed VI",
@@ -51,13 +51,13 @@
       "enlace": "https://www.abc.es/espana/ministro-marroqui-reclama-liberacion-ceuta-melilla-ante-20260825140302-nt.html"
     },
     {
-      "titular": "El vídeo viral del enfado de Vinícius con Güler: “¡Arda, pásame una! ¡Siempre igual!”",
+      "titular": "El director de la CIA visita Moscú en un viaje lleno de misterio",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T18:00:15+02:00",
-      "enlace": "https://www.lavanguardia.com/clic/20260825/11619918/video-viral-enfado-vinicius-gueler-arda-pasame-siempre-igual-lol.html"
+      "fecha": "2026-08-25T18:30:54+02:00",
+      "enlace": "https://www.lavanguardia.com/internacional/20260825/11619944/el-director-de-la-cia-visita-moscu-en-una-viaje-lleno-de-misterio.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -75,7 +75,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 5,
+    "antiguedad_minima_min": 19,
     "detalle": [
       {
         "medio": "RTVE",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2214361,
+        "antiguedad_min": 2214408,
         "descartados_por_gancho": 0
       },
       {
@@ -100,7 +100,7 @@
         "ok": true,
         "items": 142,
         "error": null,
-        "antiguedad_min": 8,
+        "antiguedad_min": 50,
         "descartados_por_gancho": 4
       },
       {
@@ -109,8 +109,8 @@
         "ok": true,
         "items": 125,
         "error": null,
-        "antiguedad_min": 66,
-        "descartados_por_gancho": 12
+        "antiguedad_min": 83,
+        "descartados_por_gancho": 11
       },
       {
         "medio": "ABC",
@@ -118,7 +118,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 5,
+        "antiguedad_min": 19,
         "descartados_por_gancho": 0
       }
     ]

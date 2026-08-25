@@ -2,8 +2,17 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-08-25T19:06:22+02:00",
+  "generado": "2026-08-25T19:54:02+02:00",
   "titulares": [
+    {
+      "titular": "Iberdrola reúne a su comité de dirección en Bilbao para analizar perspectivas",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-25T19:01:24+02:00",
+      "enlace": "https://www.expansion.com/empresas/energia/2026/08/25/6a8dc0bae5fdea71088b458f.html"
+    },
     {
       "titular": "Barcelona invertirá 52 millones en reformar la antigua fábrica de La Escocesa",
       "medios": [
@@ -57,15 +66,6 @@
       "consenso": 1,
       "fecha": "2026-08-25T15:38:41+02:00",
       "enlace": "https://www.expansion.com/empresas/transporte/2026/08/25/6a8d98aee5fdea71088b4585.html"
-    },
-    {
-      "titular": "Los nuevos patrocinios tras las casas de apuestas en la Premier League",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-25T14:58:52+02:00",
-      "enlace": "https://www.expansion.com/economia/financial-times/2026/08/25/6a8d9014468aeba82b8b4574.html"
     }
   ],
   "salud": {
@@ -78,7 +78,7 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 69,
+    "antiguedad_minima_min": 52,
     "detalle": [
       {
         "medio": "Expansión",
@@ -86,7 +86,7 @@
         "ok": true,
         "items": 73,
         "error": null,
-        "antiguedad_min": 69,
+        "antiguedad_min": 52,
         "descartados_por_gancho": 1
       },
       {

@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-08-25T19:06:24+02:00",
+  "generado": "2026-08-25T19:54:04+02:00",
   "titulares": [
     {
-      "titular": "Revolución en la portería de la Juventus pese al frustrado fichaje del 'Dibu'",
+      "titular": "\"El modo ECO del lavavajillas es el que más ahorra. El más caro es el intensivo\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T18:52:09+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/oficial/20260825/1004219708/juventus.html"
+      "fecha": "2026-08-25T19:29:55+02:00",
+      "enlace": "https://www.mundodeportivo.com/economia-hogar/20260825/1004219693/javier-dasi-especialista-energia-eco-lavavajillas-ahorra-caro-todos-intensivo-smd.html"
     },
     {
-      "titular": "Aubameyang se reencontrará en Riazor con otro ex del Barça",
+      "titular": "Premio para Xavi Espart: pasa a ser jugador del primer equipo y llevará el dorsal 12",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T18:50:33+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/20260825/1004219713/aubameyang-reencontrara-riazor-ex-barca.html"
+      "fecha": "2026-08-25T19:20:08+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260825/1004219730/premio-xavi-espart-pasa-jugador-primer-equipo-llevara-12.html"
     },
     {
       "titular": "Las portadas en Inglaterra con Arteta son para verlas...",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/rayo/2026/08/21/camello-agotados-situacion-distancia-tres-partes.html"
     },
     {
-      "titular": "Antonio Pérez, fisioterapeuta: \"El 60% de unos gemelos grandes es genética, pero hay tres factores clave\"",
+      "titular": "Alcaraz / Williams - Glasspool / Routliffe hoy, en directo: octavos de final US Open",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/outdoor/antonio-perez-fisioterapeuta-60-gemelos-133645463"
+      "enlace": "https://www.sport.es/es/noticias/tenis/us-open/alcaraz-williams-glasspool-routliffe-hoy-133653112"
     },
     {
-      "titular": "¿A qué hora juegan Alcaraz y Serena Williams en el US Open 2026 hoy y dónde ver los partidos de dobles mixto por TV y en directo?",
+      "titular": "Madrid y Real Sociedad se juegan estar en la Champions",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/tenis/hora-juegan-alcaraz-serena-williams-us-open-dobles-mixto-133635552"
+      "enlace": "https://www.sport.es/es/noticias/champions-femenina/madrid-real-sociedad-juegan-champions-133652795"
     },
     {
-      "titular": "Ya hay fecha para el sorteo del Mundial 2027 femenino de Brasil",
+      "titular": "La psicología habla claro de las personas que prefieren ver series que películas",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T18:49:47+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/femenino/20260825/1004219717/hay-fecha-sorteo-mundial-2027-femenino-brasil.html"
+      "fecha": "2026-08-25T19:16:49+02:00",
+      "enlace": "https://www.mundodeportivo.com/pulso/20260825/1004219714/psicologia-dice-personas-prefieren-ver-series-peliculas-no-les-gusten-mas-necesitan-sumergirse-historia-establecer-vinculos-profundos-personajes-dct.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 14,
+    "antiguedad_minima_min": 24,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 6795,
+        "antiguedad_min": 6843,
         "descartados_por_gancho": 12
       },
       {
@@ -100,17 +100,17 @@
         "ok": true,
         "items": 138,
         "error": null,
-        "antiguedad_min": 14,
+        "antiguedad_min": 24,
         "descartados_por_gancho": 2
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 49,
+        "items": 48,
         "error": null,
         "antiguedad_min": null,
-        "descartados_por_gancho": 0
+        "descartados_por_gancho": 1
       },
       {
         "medio": "NBA",
