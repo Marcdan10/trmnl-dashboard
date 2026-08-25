@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-08-25T20:30:40+02:00",
+  "generado": "2026-08-25T21:26:09+02:00",
   "titulares": [
     {
-      "titular": "La revelación del año tiene un objetivo: \"Es un sueño poder llegar a las Finals de Barcelona\"",
+      "titular": "Serena Williams - Alcaraz vs Routtlife - Glasspool, en directo",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T20:12:42+02:00",
-      "enlace": "https://www.mundodeportivo.com/padel/premier-padel/20260825/1004219721/revelacion-ano-objetivo-sueno-llegar-finals-barcelona.html"
+      "fecha": "2026-08-25T20:50:31+02:00",
+      "enlace": "https://www.mundodeportivo.com/tenis/open-usa/20260825/1004219464/alcaraz-serena-williams-vs-lloyd-glasspool-erin-routtlife-directo-us-open-tenis.html"
     },
     {
-      "titular": "PSV y Girona negocian por Ounahi",
+      "titular": "La IA reconoce cuatro fallos arbitrales en Primera en su primer 'Tiempo de Revisión'",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T20:12:31+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/girona-fc/20260825/1004219745/psv-girona-negocian-ounahi.html"
+      "fecha": "2026-08-25T20:42:57+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/20260825/1004219753/ia-reconoce-cuatro-fallos-arbitrales-primera-primer-revision.html"
     },
     {
       "titular": "Las portadas en Inglaterra con Arteta son para verlas...",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/rayo/2026/08/21/camello-agotados-situacion-distancia-tres-partes.html"
     },
     {
-      "titular": "Xavi Espart se gana a Flick y tendrá dorsal del primer equipo del Barça",
+      "titular": "Couhaib Driouech firma por el Celta hasta 2030",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/barca/xavi-espart-gana-flick-tendra-133653304"
+      "enlace": "https://www.sport.es/es/noticias/celta-de-vigo/couhaib-driouech-firma-celta-2030-133654985"
     },
     {
-      "titular": "Xavi no ve mal ser tercero detrás de Guardiola y Slot: \"No me importa\"",
+      "titular": "Michel Platini: \"Una jugada de Kubala cambió mi vida para siempre\"",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/futbol-internacional/xavi-ve-mal-tercero-detras-133653233"
+      "enlace": "https://www.sport.es/es/noticias/barca/michel-platini-jugada-kubala-cambio-133654767"
     },
     {
-      "titular": "Willy Hernangómez espera un partido \"complicado\" ante Portugal",
+      "titular": "Xavi Pascual ya ha tomado el mando en Dubái",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T20:06:43+02:00",
-      "enlace": "https://www.mundodeportivo.com/baloncesto/basket-feb/20260825/1004219743/willy-hernangomez-espera-partido-complicado-portugal.html"
+      "fecha": "2026-08-25T20:42:44+02:00",
+      "enlace": "https://www.mundodeportivo.com/baloncesto/euroliga/20260825/1004219754/xavi-pascual-tomado-mando-dubai.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 17,
+    "antiguedad_minima_min": 35,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 6879,
+        "antiguedad_min": 6935,
         "descartados_por_gancho": 12
       },
       {
@@ -98,16 +98,16 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 137,
+        "items": 136,
         "error": null,
-        "antiguedad_min": 17,
-        "descartados_por_gancho": 2
+        "antiguedad_min": 35,
+        "descartados_por_gancho": 3
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 48,
+        "items": 49,
         "error": null,
         "antiguedad_min": null,
         "descartados_por_gancho": 1
