@@ -2,8 +2,17 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-08-25T22:54:06+02:00",
+  "generado": "2026-08-25T23:20:55+02:00",
   "titulares": [
+    {
+      "titular": "El 80% de la energía de los 'data center' deberá ser renovable",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-25T23:00:00+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/08/25/6a8de7bee5fdea392c8b4579.html"
+    },
     {
       "titular": "SpaceX invertirá 85.500 millones en un centro de lanzamiento de cohetes en Luisiana",
       "medios": [
@@ -57,15 +66,6 @@
       "consenso": 1,
       "fecha": "2026-08-25T17:57:16+02:00",
       "enlace": "https://www.expansion.com/catalunya/2026/08/25/6a8da707e5fdea696d8b4585.html"
-    },
-    {
-      "titular": "Los bancos frenan el Ibex en su búsqueda de nuevos máximos",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-25T17:38:11+02:00",
-      "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/08/25/6a8d2a89468aeb49718b4581.html"
     }
   ],
   "salud": {
@@ -78,7 +78,7 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 66,
+    "antiguedad_minima_min": 20,
     "detalle": [
       {
         "medio": "Expansión",
@@ -86,7 +86,7 @@
         "ok": true,
         "items": 73,
         "error": null,
-        "antiguedad_min": 66,
+        "antiguedad_min": 20,
         "descartados_por_gancho": 1
       },
       {
