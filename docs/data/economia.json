@@ -2,10 +2,28 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-08-25T16:38:18+02:00",
+  "generado": "2026-08-25T17:36:36+02:00",
   "titulares": [
     {
-      "titular": "China advierte a EEUU que podría tomar represalias por las sanciones a Irán",
+      "titular": "Canadá responde a Trump con aranceles a productos de EEUU por 20.000 millones de dólares",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-25T17:25:53+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/08/25/6a8db3bae5fdea104a8b45b4.html"
+    },
+    {
+      "titular": "Apple anuncia nuevos modelos de Mac Mini y Mac Studio con mejoras de IA",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-25T16:54:59+02:00",
+      "enlace": "https://www.expansion.com/economia-digital/2026/08/25/6a8dac4ee5fdea4d168b457f.html"
+    },
+    {
+      "titular": "China avisa: responderá a EEUU si hay sanciones por su apoyo a Irán",
       "medios": [
         "Expansión"
       ],
@@ -48,24 +66,6 @@
       "consenso": 1,
       "fecha": "2026-08-25T14:57:36+02:00",
       "enlace": "https://www.expansion.com/empresas/2026/08/25/6a8d913fe5fdea1d778b4578.html"
-    },
-    {
-      "titular": "El Gobierno aprueba el 'mando único' en Ceuta",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-25T14:33:14+02:00",
-      "enlace": "https://www.expansion.com/economia/politica/2026/08/25/6a8d85df468aebf2548b4584.html"
-    },
-    {
-      "titular": "Defensa compra sistemas de drones a la filial española de Rheinmetall por 4,4 millones",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-25T14:19:41+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/08/25/6a8d7ee7e5fdea62628b456d.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 33,
+    "antiguedad_minima_min": 10,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 71,
+        "items": 72,
         "error": null,
-        "antiguedad_min": 33,
+        "antiguedad_min": 10,
         "descartados_por_gancho": 1
       },
       {

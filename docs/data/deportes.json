@@ -2,26 +2,8 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-08-25T16:38:20+02:00",
+  "generado": "2026-08-25T17:36:39+02:00",
   "titulares": [
-    {
-      "titular": "Owono sigue sin sitio en el Alavés",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-25T16:24:14+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/20260825/1004219660/owono-sigue-sitio-alaves.html"
-    },
-    {
-      "titular": "Sorpresa en el estadio del Rayo Vallecano: por fin hay videomarcador",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-25T16:19:09+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/rayo-vallecano/20260825/1004219658/sorpresa-estadio-rayo-vallecano-hay-videomarcador.html"
-    },
     {
       "titular": "Las portadas en Inglaterra con Arteta son para verlas...",
       "medios": [
@@ -41,40 +23,59 @@
       "enlace": "https://www.marca.com/futbol/rayo/2026/08/21/camello-agotados-situacion-distancia-tres-partes.html"
     },
     {
-      "titular": "Fechas, horarios y televisión para ver a los internacionales del Unicaja en la Ventana FIBA",
+      "titular": "Así queda la clasificación general de la Vuelta a España 2026 hoy tras la etapa 4: hachazo de Pogacar en Andorra",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/baloncesto/fechas-horarios-television-ver-internacionales-133646560"
+      "enlace": "https://www.sport.es/es/noticias/ciclismo/clasificacion-general-vuelta-espana-etapa-4-133647492"
     },
     {
-      "titular": "La Real de Matarazzo está \"preparada\" para el \"gran desafío\" ante el Real Madrid",
+      "titular": "El PSG, en la recta final del mercado con dos operaciones entre manos: el Liverpool llama a la puerta por Barcola y Mbaye",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/real-madrid/real-matarazzo-preparada-gran-desafio-133645566"
+      "enlace": "https://www.sport.es/es/noticias/futbol-internacional/psg-recta-final-mercado-operaciones-133637586"
     },
     {
-      "titular": "Nuevo incendio en Barcelona: arde Collserola a la altura de Canyelles",
+      "titular": "\"Por favor, pido que el siguiente partido se juegue en Vallecas\"",
       "medios": [
-        "Mundo Deportivo"
+        "Marca"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T16:18:07+02:00",
-      "enlace": "https://www.mundodeportivo.com/actualidad/20260825/1004219656/nuevo-incendio-barcelona-arde-montana-collserola-altura-canyelles-dct.html"
+      "fecha": "2026-08-20T23:46:41+02:00",
+      "enlace": "https://www.marca.com/futbol/rayo/2026/08/20/benat-san-jose-plus-energia-imaginarme-vallecas-lleno.html"
+    },
+    {
+      "titular": "Musiala será baja en la Supercopa pero el Bayern le espera para el debut liguero",
+      "medios": [
+        "Marca"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-20T23:30:33+02:00",
+      "enlace": "https://www.marca.com/futbol/bundesliga/2026/08/20/musiala-sera-baja-final-sabado-bayern-le-espera-debut-liguero.html"
+    },
+    {
+      "titular": "Rayo Vallecano 1-1 Alavés | Resumen LaLiga",
+      "medios": [
+        "Marca"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-20T23:20:11+02:00",
+      "enlace": "https://www.marca.com/futbol/2026/08/20/rayo-vallecano-1-1-alaves-resumen-laliga-video.html"
     }
   ],
   "salud": {
     "feeds_totales": 5,
-    "feeds_ok": 4,
+    "feeds_ok": 3,
     "feeds_caidos": [
+      "Mundo Deportivo",
       "NBA"
     ],
-    "antiguedad_minima_min": 14,
+    "antiguedad_minima_min": 6705,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +83,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 6647,
+        "antiguedad_min": 6705,
         "descartados_por_gancho": 12
       },
       {
@@ -97,11 +98,10 @@
       {
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
-        "ok": true,
-        "items": 133,
-        "error": null,
-        "antiguedad_min": 14,
-        "descartados_por_gancho": 4
+        "ok": false,
+        "items": 0,
+        "error": "IncompleteRead: IncompleteRead(302832 bytes read)",
+        "antiguedad_min": null
       },
       {
         "medio": "Sport",
