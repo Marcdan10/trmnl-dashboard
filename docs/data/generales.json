@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-08-25T05:25:30+02:00",
+  "generado": "2026-08-25T06:07:35+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -14,13 +14,13 @@
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
     },
     {
-      "titular": "Sánchez acepta casi un mes después crear un mando único para la crisis de Ceuta dirigido por Ángel Víctor Torres",
+      "titular": "Sánchez da un giro a la gestión de la crisis de Ceuta casi un mes después con un mando único y un plan económico",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T17:48:13+02:00",
-      "enlace": "https://elpais.com/espana/2026-08-24/sanchez-acepta-casi-un-mes-despues-crear-un-mando-unico-para-la-crisis-de-ceuta-dirigido-por-angel-victor-torres.html"
+      "fecha": "2026-08-25T05:45:01+02:00",
+      "enlace": "https://elpais.com/espana/2026-08-25/sanchez-da-un-giro-a-la-gestion-de-la-crisis-de-ceuta-casi-un-mes-despues-con-un-mando-unico-y-un-plan-economico.html"
     },
     {
       "titular": "El Gobierno creará un mando único dirigido por el ministro Torres para gestionar la crisis de Ceuta",
@@ -41,16 +41,6 @@
       "enlace": "https://www.abc.es/sociedad/robot-corre-rapido-usain-bolt-juegos-olimpicos-20260825012417-nt.html"
     },
     {
-      "titular": "Sánchez convoca el Consejo de Seguridad Nacional 26 días después del estallido de la crisis de Ceuta",
-      "medios": [
-        "El País",
-        "La Vanguardia"
-      ],
-      "consenso": 2,
-      "fecha": "2026-08-24T19:06:37+02:00",
-      "enlace": "https://elpais.com/espana/2026-08-24/sanchez-convoca-el-consejo-de-seguridad-nacional-26-dias-despues-del-estallido-de-la-crisis-de-ceuta.html"
-    },
-    {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
       "medios": [
         "RTVE"
@@ -58,6 +48,15 @@
       "consenso": 1,
       "fecha": "2022-06-10T00:03:00+02:00",
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
+    },
+    {
+      "titular": "Robles reafirmará la labor de las Fuerzas Armadas y la españolidad de Ceuta en el Congreso",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-25T05:45:01+02:00",
+      "enlace": "https://elpais.com/espana/2026-08-25/robles-reafirmara-la-labor-de-las-fuerzas-armadas-y-la-espanolidad-de-ceuta-en-el-congreso.html"
     },
     {
       "titular": "Sanidad y comunidades acuerdan enviar 45.000 vacunas a Ceuta",
@@ -75,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 35,
+    "antiguedad_minima_min": 22,
     "detalle": [
       {
         "medio": "RTVE",
@@ -83,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2213540,
+        "antiguedad_min": 2213582,
         "descartados_por_gancho": 0
       },
       {
@@ -98,10 +97,10 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 142,
+        "items": 134,
         "error": null,
-        "antiguedad_min": 288,
-        "descartados_por_gancho": 4
+        "antiguedad_min": 22,
+        "descartados_por_gancho": 6
       },
       {
         "medio": "La Vanguardia",
@@ -109,7 +108,7 @@
         "ok": true,
         "items": 119,
         "error": null,
-        "antiguedad_min": 289,
+        "antiguedad_min": 331,
         "descartados_por_gancho": 11
       },
       {
@@ -118,7 +117,7 @@
         "ok": true,
         "items": 24,
         "error": null,
-        "antiguedad_min": 35,
+        "antiguedad_min": 77,
         "descartados_por_gancho": 1
       }
     ]
