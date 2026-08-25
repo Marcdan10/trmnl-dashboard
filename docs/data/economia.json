@@ -2,8 +2,53 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-08-25T13:56:04+02:00",
+  "generado": "2026-08-25T14:40:06+02:00",
   "titulares": [
+    {
+      "titular": "El Gobierno aprueba el 'mando único' en Ceuta para la coordinación en la \"devolución y repatriación\" de los inmigrantes",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-25T14:33:14+02:00",
+      "enlace": "https://www.expansion.com/economia/politica/2026/08/25/6a8d85df468aebf2548b4584.html"
+    },
+    {
+      "titular": "Defensa compra sistemas de drones a la filial española de Rheinmetall por 4,4 millones",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-25T14:19:41+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/08/25/6a8d7ee7e5fdea62628b456d.html"
+    },
+    {
+      "titular": "Volkswagen eliminará 50.000 empleos en Alemania: \"Todo el mundo tiene que participar\"",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-25T14:17:26+02:00",
+      "enlace": "https://www.expansion.com/empresas/motor/2026/08/25/6a8d86a6468aeb98548b457a.html"
+    },
+    {
+      "titular": "Cómo la salida a Bolsa de Shein fue perdiendo brillo",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-25T14:12:58+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/08/25/6a8d858fe5fdea4d168b4573.html"
+    },
+    {
+      "titular": "United Airlines anuncia un vuelo directo de Valencia a Nueva York",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-25T14:12:18+02:00",
+      "enlace": "https://www.expansion.com/valencia/2026/08/25/6a8d8282e5fdea42168b456f.html"
+    },
     {
       "titular": "Robles subraya que el CNI hizo su trabajo en los días previos a la entrada en Ceuta e informó a Delegación del Gobierno",
       "medios": [
@@ -21,51 +66,6 @@
       "consenso": 1,
       "fecha": "2026-08-25T13:33:50+02:00",
       "enlace": "https://www.expansion.com/expansion-empleo/desarrollo-de-carrera/2026/08/24/6a8c17c9e5fdeaac1a8b4578.html"
-    },
-    {
-      "titular": "El balón de la 'Mano de Dios' de Maradona se vende por 2,9 millones",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-25T13:30:30+02:00",
-      "enlace": "https://www.expansion.com/directivos/deporte-negocio/2026/08/25/6a8d7c85e5fdeadb678b4570.html"
-    },
-    {
-      "titular": "Nuevas normas de tráfico a partir del 1 de octubre: estos son los principales cambios",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-25T13:16:38+02:00",
-      "enlace": "https://www.expansion.com/empresas/motor/2026/08/25/6a8d7927e5fdea85798b45b4.html"
-    },
-    {
-      "titular": "Reental compra un palacio en el Pirineo aragonés para apartamentos de lujo",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-25T12:15:49+02:00",
-      "enlace": "https://www.expansion.com/inmobiliario/mercado/2026/08/25/6a8d6b43468aebf6408b4588.html"
-    },
-    {
-      "titular": "Un ministro marroquí habla de la liberación de Ceuta y Melilla ante Mohamed VI durante una celebración religiosa",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-25T12:15:46+02:00",
-      "enlace": "https://www.expansion.com/economia/politica/2026/08/25/6a8d6b24e5fdeaf6688b456d.html"
-    },
-    {
-      "titular": "Vía libre para Garamendi: sin rival en las elecciones para presidir la CEOE hasta 2030",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-25T12:08:32+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/08/25/6a8d3d01e5fdeaf4178b4580.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 14,
+    "antiguedad_minima_min": 6,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 67,
+        "items": 70,
         "error": null,
-        "antiguedad_min": 14,
+        "antiguedad_min": 6,
         "descartados_por_gancho": 1
       },
       {

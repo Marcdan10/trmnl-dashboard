@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-08-25T13:56:06+02:00",
+  "generado": "2026-08-25T14:40:08+02:00",
   "titulares": [
     {
-      "titular": "El aviso de Mourinho a la prensa: \"El día que metan mierda…\"",
+      "titular": "Diomande completa las presentaciones en el Real Madrid",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T13:25:02+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260825/1004219591/aviso-mourinho-prensa-dia-metan-mierda.html"
+      "fecha": "2026-08-25T14:16:06+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260825/1004219609/diomande-completa-presentaciones-real-madrid.html"
     },
     {
-      "titular": "Confirmado por Atresmedia: este éxitoso formato de la BBC aterriza en España",
+      "titular": "Una colaboradora de 'Aruseros' sufre una aparatosa caída en pleno directo en laSexta: \"La ha salvado de milagro\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T13:18:26+02:00",
-      "enlace": "https://www.mundodeportivo.com/elotromundo/television/20260825/1004219580/confirmado-atresmedia-exitoso-formato-bbc-studios-nation-s-dumbest-aterriza-espana-dct.html"
+      "fecha": "2026-08-25T14:07:04+02:00",
+      "enlace": "https://www.mundodeportivo.com/elotromundo/television/20260825/1004219606/colaboradora-aruseros-sufre-aparatosa-caida-pleno-directo-lasexta-salvado-pinata-milagro-dct.html"
     },
     {
       "titular": "Las portadas en Inglaterra con Arteta son para verlas...",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/rayo/2026/08/21/camello-agotados-situacion-distancia-tres-partes.html"
     },
     {
-      "titular": "Los puntos positivos del empate del Málaga CF frente al Deportivo",
+      "titular": "Valencia Basket hace oficiales los dorsales para esta temporada",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/futbol/puntos-positivos-empate-malaga-cf-133640653"
+      "enlace": "https://www.sport.es/es/noticias/baloncesto/valencia-basket-oficiales-dorsales-temporada-133643213"
     },
     {
-      "titular": "Gonzalo y Espí, el cambio que se avecina para De la Fuente",
+      "titular": "José Ignacio Navarro admite \"conversaciones con un club\" por Vargas y no descarta la salida de Agoumé aunque no \"está tan cerca\"",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/seleccion/gonzalo-espi-cambio-avecina-fuente-133637650"
+      "enlace": "https://www.sport.es/es/noticias/sevilla/jose-ignacio-navarro-admite-conversaciones-133643186"
     },
     {
-      "titular": "Ferran Torres, el chico de moda, desvela los secretos de su dieta y su gran perdición: \"Intento no comerlo mucho\"",
+      "titular": "Pocos conductores lo saben: lo que hace un grupo de moteros experimentados durante una ruta",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T13:17:36+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/internacional/20260825/1004219590/ferran-torres-chico-moda-desvela-secretos-dieta-gran-perdicion-intento-no-comerlo-realmente-amo.html"
+      "fecha": "2026-08-25T14:06:53+02:00",
+      "enlace": "https://www.mundodeportivo.com/solomoto/20260825/1004219608/pocos-conductores-grupo-moteros-experimentados-ruta-smd.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 31,
+    "antiguedad_minima_min": 24,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 6485,
+        "antiguedad_min": 6529,
         "descartados_por_gancho": 12
       },
       {
@@ -100,17 +100,17 @@
         "ok": true,
         "items": 133,
         "error": null,
-        "antiguedad_min": 31,
+        "antiguedad_min": 24,
         "descartados_por_gancho": 4
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 49,
+        "items": 50,
         "error": null,
         "antiguedad_min": null,
-        "descartados_por_gancho": 1
+        "descartados_por_gancho": 0
       },
       {
         "medio": "NBA",

@@ -2,8 +2,26 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "ultimas",
-  "generado": "2026-08-25T13:56:12+02:00",
+  "generado": "2026-08-25T14:40:15+02:00",
   "titulares": [
+    {
+      "titular": "Estados Unidos autoriza el primer robot autónomo para realizar extracciones de sangre",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-25T14:08:23+02:00",
+      "enlace": "https://www.redaccionmedica.com/innovacion/20260825/estados-unidos-autoriza-el-primer-robot-autonomo-para-realizar-extracciones-de-sangre/349607_0.html"
+    },
+    {
+      "titular": "Los MIR piden a Sanidad revisar las Urgencias del Hospital de Canarias: \"Lo que pasa aquí no es ni medio normal\"",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-25T14:01:22+02:00",
+      "enlace": "https://www.redaccionmedica.com/formacion/mir/20260825/los-mir-piden-sanidad-revisar-las-urgencias-del-hospital-de-canarias-lo-que-pasa-aqui-no-es-ni-medio-normal/349595_0.html"
+    },
     {
       "titular": "Padilla: \"No hay emergencia de salud pública en Ceuta\"",
       "medios": [
@@ -12,24 +30,6 @@
       "consenso": 1,
       "fecha": "2026-08-25T13:12:45+02:00",
       "enlace": "https://diariofarma.com/2026/08/25/padilla-no-hay-emergencia-de-salud-publica-en-ceuta"
-    },
-    {
-      "titular": "Paso en firme para el primer hub de ensayos clínicos de Castilla-La Mancha",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-25T12:59:06+02:00",
-      "enlace": "https://www.redaccionmedica.com/autonomias/castilla-mancha/20260825/paso-en-firme-para-el-primer-hub-de-ensayos-clinicos-castilla-la-mancha/349593_0.html"
-    },
-    {
-      "titular": "Cantabria amplía hasta los 7 años la vacunación intranasal contra la gripe",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-25T12:53:19+02:00",
-      "enlace": "https://www.redaccionmedica.com/autonomias/20260825/cantabria-amplia-hasta-los-anos-la-vacunacion-intranasal-contra-gripe/349586_0.html"
     },
     {
       "titular": "La CE aprueba Tecvayli en combinación con daratumumab para el mieloma múltiple en recaída o refractario",
@@ -59,13 +59,13 @@
       "enlace": "https://diariofarma.com/2026/08/25/cada-vez-mas-cerca-de-la-cumbre-nacional-de-la-profesion"
     },
     {
-      "titular": "El robot opera con más precisión y el paciente queda igual",
+      "titular": "Paso en firme para el primer hub de ensayos clínicos de Castilla-La Mancha",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T12:08:33+02:00",
-      "enlace": "https://www.redaccionmedica.com/opinion/20260825/el-robot-opera-con-mas-precision-el-paciente-queda-igual/349587_12.html"
+      "fecha": "2026-08-25T12:59:06+02:00",
+      "enlace": "https://www.redaccionmedica.com/autonomias/castilla-mancha/20260825/paso-en-firme-para-el-primer-hub-de-ensayos-clinicos-castilla-la-mancha/349593_0.html"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 43,
+    "antiguedad_minima_min": 31,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 43,
+        "antiguedad_min": 87,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 64,
+        "antiguedad_min": 108,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 57,
+        "antiguedad_min": 31,
         "descartados_por_gancho": 0
       },
       {

@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-08-25T13:56:01+02:00",
+  "generado": "2026-08-25T14:40:01+02:00",
   "titulares": [
     {
       "titular": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Robles afirma que los 25 agentes del CNI en Ceuta “compartieron y analizaron su información” con las fuerzas de seguridad y el Gobierno",
@@ -10,53 +10,54 @@
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T13:55:01+02:00",
+      "fecha": "2026-08-25T14:34:39+02:00",
       "enlace": "https://elpais.com/espana/2026-08-25/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html"
     },
     {
-      "titular": "La pensión media de jubilación se sitúa en 1.574 euros en agosto y eleva el gasto total a 14.470 millones",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-25T13:32:15+02:00",
-      "enlace": "https://www.abc.es/economia/pension-media-jubilacion-situa-1574-euros-agosto-20260825090622-nt.html"
-    },
-    {
-      "titular": "El Consejo de Ministros aprueba una reforma de la ley de asilo y una parte de la ley de extranjería",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-25T13:31:56+02:00",
-      "enlace": "https://www.abc.es/espana/ultima-hora-crisis-migratoria-ceuta-directo-comparecencia-congreso-20260825132126-di.html"
-    },
-    {
-      "titular": "La economía alemana crece más de lo previsto en el segundo trimestre pero sigue pendiente de la sequía",
+      "titular": "Una nueva borrasca afectará a España el miércoles y el jueves con lluvias fuertes y tormentas en el noroeste",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T13:16:47+02:00",
-      "enlace": "https://elpais.com/economia/2026-08-25/la-economia-alemana-crece-mas-de-lo-previsto-en-el-segundo-trimestre-pero-sigue-pendiente-de-la-sequia.html"
+      "fecha": "2026-08-25T14:24:25+02:00",
+      "enlace": "https://elpais.com/el-tiempo/2026-08-25/una-nueva-borrasca-afectara-a-espana-el-miercoles-y-el-jueves-con-lluvias-fuertes-y-tormentas-en-el-noroeste.html"
     },
     {
-      "titular": "Mourinho evita dos veces enredarse con el Barça: “Me pongo en el lado de la honestidad arbitral”",
+      "titular": "La Generalitat defiende no haber enviado un Es-Alert por el temporal de Tarragona, que dejó casi 600 incidencias",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-25T14:20:16+02:00",
+      "enlace": "https://www.abc.es/espana/cataluna/generalitat-defiende-haber-enviado-esalert-temporal-tarragona-20260825130712-nt.html"
+    },
+    {
+      "titular": "El PSOE denuncia que Planifica Madrid le niega el expediente del ático de Chamberí",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-25T14:16:16+02:00",
+      "enlace": "https://www.abc.es/espana/madrid/psoe-denuncia-planifica-madrid-niega-expediente-atico-20260825114051-nt.html"
+    },
+    {
+      "titular": "El Gobierno reforma la ley de asilo y la de extranjería en medio de la crisis migratoria en Ceuta",
+      "medios": [
+        "La Vanguardia",
+        "ABC"
+      ],
+      "consenso": 2,
+      "fecha": "2026-08-25T14:13:48+02:00",
+      "enlace": "https://www.abc.es/espana/gobierno-reforma-ley-asilo-extranjeria-medio-crisis-20260825134301-nt.html"
+    },
+    {
+      "titular": "El Govern condena la agresión de la Policía a un aficionado del Barça en Elche",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T12:36:38+02:00",
-      "enlace": "https://www.lavanguardia.com/deportes/real-madrid/20260825/11619705/mourinho-evita-dos-veces-enredarse-barca-me-pongo-lado-honestidad-arbitral.html"
-    },
-    {
-      "titular": "Barcelona espera reabrir la Escocesa en 2029 tras invertir casi 52 millones",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-25T12:35:20+02:00",
-      "enlace": "https://www.lavanguardia.com/local/barcelona/20260825/11619700/barcelona-espera-reabrir-escocesa-2029-invertir-52-millones.html"
+      "fecha": "2026-08-25T14:07:45+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20260825/11619798/govern-condena-agresion-policia-aficionado-barca-elche.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -74,7 +75,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 0,
+    "antiguedad_minima_min": 5,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +83,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2214051,
+        "antiguedad_min": 2214094,
         "descartados_por_gancho": 0
       },
       {
@@ -90,25 +91,25 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 429",
+        "error": "HTTP 500",
         "antiguedad_min": null
       },
       {
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 140,
+        "items": 138,
         "error": null,
-        "antiguedad_min": 0,
+        "antiguedad_min": 5,
         "descartados_por_gancho": 4
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 112,
+        "items": 115,
         "error": null,
-        "antiguedad_min": 79,
+        "antiguedad_min": 32,
         "descartados_por_gancho": 12
       },
       {
@@ -117,7 +118,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 23,
+        "antiguedad_min": 19,
         "descartados_por_gancho": 0
       }
     ]
