@@ -2,62 +2,61 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-08-25T19:54:00+02:00",
+  "generado": "2026-08-25T20:30:34+02:00",
   "titulares": [
     {
-      "titular": "«Ceuta no es un CETI»: los vecinos salen a la calle para reclamar la vuelta a la normalidad",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-25T19:34:58+02:00",
-      "enlace": "https://www.abc.es/espana/vecinos-ceuta-tratan-entrar-hotel-delegado-gobierno-20260825185122-nt.html"
-    },
-    {
-      "titular": "La Tomatina de Buñol: la pelea entre jóvenes que se convirtió en fiesta internacional",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-25T19:23:10+02:00",
-      "enlace": "https://www.abc.es/espana/comunidad-valenciana/tomatina-batalla-improvisada-fiesta-internacional-20260825184949-nt.html"
-    },
-    {
-      "titular": "Xavi Hernández, en su presentación como seleccionador de Países Bajos: “Soy un ganador y estoy aquí para competir”",
+      "titular": "El incendio del parque natural de Collserola obliga a desalojar parte de los vecinos de Torre Baró en Barcelona",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T19:03:39+02:00",
-      "enlace": "https://elpais.com/deportes/futbol/2026-08-25/xavi-hernandez-en-su-presentacion-como-seleccionador-de-paises-bajos-soy-un-ganador-y-estoy-aqui-para-competir.html"
+      "fecha": "2026-08-25T20:28:54+02:00",
+      "enlace": "https://elpais.com/espana/catalunya/2026-08-25/un-incendio-quema-bosque-en-barcelona-sobre-el-barrio-de-canyelles.html"
     },
     {
-      "titular": "El Estrecho de Magallanes provoca el primer conflicto diplomático entre los aliados Kast y Milei",
+      "titular": "Última hora de la entrada de inmigrantes a Ceuta, en directo | La Delegación del Gobierno en Ceuta contradice a Robles y niega haber recibido información que anticipara la crisis",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T19:01:55+02:00",
-      "enlace": "https://elpais.com/chile/2026-08-25/el-estrecho-de-magallanes-provoca-el-primer-conflicto-diplomatico-entre-los-aliados-kast-y-milei.html"
+      "fecha": "2026-08-25T20:26:18+02:00",
+      "enlace": "https://elpais.com/espana/2026-08-25/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html"
     },
     {
-      "titular": "Otro ministro marroquí reclama la «liberación» de Ceuta y Melilla ante el rey Mohamed VI",
+      "titular": "La XXII Copa del Rey Repsol de Barcos de Época larga amarras en Mahón",
       "medios": [
-        "La Vanguardia",
         "ABC"
       ],
-      "consenso": 2,
-      "fecha": "2026-08-25T18:42:18+02:00",
-      "enlace": "https://www.abc.es/espana/ministro-marroqui-reclama-liberacion-ceuta-melilla-ante-20260825140302-nt.html"
+      "consenso": 1,
+      "fecha": "2026-08-25T20:16:16+02:00",
+      "enlace": "https://www.abc.es/deportes/vela/vela-crucero/xxii-copa-rey-repsol-barcos-epoca-larga-20260825155740-nt.html"
     },
     {
-      "titular": "El director de la CIA visita Moscú en un viaje lleno de misterio",
+      "titular": "Muere Dolly Parton a los 80 años",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-25T20:12:56+02:00",
+      "enlace": "https://www.abc.es/cultura/musica/muere-dolly-parton-anos-20260825200420-nt.html"
+    },
+    {
+      "titular": "Los hijos de Diane Keaton venden su 'casa de Pinterest' por 18 millones de dólares",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T18:30:54+02:00",
-      "enlace": "https://www.lavanguardia.com/internacional/20260825/11619944/el-director-de-la-cia-visita-moscu-en-una-viaje-lleno-de-misterio.html"
+      "fecha": "2026-08-25T20:09:48+02:00",
+      "enlace": "https://www.lavanguardia.com/gente/20260825/11619954/hijos-diane-keaton-venden-casa-pinterest-18-millones-dolares.html"
+    },
+    {
+      "titular": "El calor extremo provoca al menos 35.000 muertes más en Europa este verano",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-25T19:30:23+02:00",
+      "enlace": "https://www.lavanguardia.com/natural/20260825/11619838/calor-extremo-provoca-35-000-muertes-mas-europa-verano.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -75,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 19,
+    "antiguedad_minima_min": 1,
     "detalle": [
       {
         "medio": "RTVE",
@@ -83,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2214408,
+        "antiguedad_min": 2214445,
         "descartados_por_gancho": 0
       },
       {
@@ -91,7 +90,7 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 500",
+        "error": "HTTP 429",
         "antiguedad_min": null
       },
       {
@@ -100,17 +99,17 @@
         "ok": true,
         "items": 142,
         "error": null,
-        "antiguedad_min": 50,
+        "antiguedad_min": 1,
         "descartados_por_gancho": 4
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 125,
+        "items": 121,
         "error": null,
-        "antiguedad_min": 83,
-        "descartados_por_gancho": 11
+        "antiguedad_min": 20,
+        "descartados_por_gancho": 10
       },
       {
         "medio": "ABC",
@@ -118,7 +117,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 19,
+        "antiguedad_min": 14,
         "descartados_por_gancho": 0
       }
     ]

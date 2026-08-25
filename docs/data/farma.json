@@ -2,8 +2,17 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "ultimas",
-  "generado": "2026-08-25T19:54:09+02:00",
+  "generado": "2026-08-25T20:30:46+02:00",
   "titulares": [
+    {
+      "titular": "La CNMC plantea revisar descuentos y precios para trasladar más ahorros al SNS",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-25T20:05:02+02:00",
+      "enlace": "https://diariofarma.com/2026/08/25/la-cnmc-plantea-revisar-descuentos-y-precios-para-trasladar-mas-ahorros-al-sns"
+    },
     {
       "titular": "Un confinamiento colectivo en Ceuta sin diagnóstico ni cribado previos carece de amparo legal",
       "medios": [
@@ -32,7 +41,7 @@
       "enlace": "https://elglobalfarma.com/farmacia/farmacia-dermatologia-formacion-protocolos-reconocimiento-profesional/"
     },
     {
-      "titular": "Padilla: \"No hay emergencia de salud pública en Ceuta\"",
+      "titular": "Padilla asegura que \"no hay emergencia de salud pública en Ceuta\"",
       "medios": [
         "Diariofarma"
       ],
@@ -48,15 +57,6 @@
       "consenso": 1,
       "fecha": "2026-08-25T12:51:18+02:00",
       "enlace": "https://elglobalfarma.com/industria/ce-aprueba-tecvayli-combinacion-daratumumab-mieloma-multiple-recaida-refractario/"
-    },
-    {
-      "titular": "Cada vez más cerca de la cumbre nacional de la profesión",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-25T10:11:47+02:00",
-      "enlace": "https://diariofarma.com/2026/08/25/cada-vez-mas-cerca-de-la-cumbre-nacional-de-la-profesion"
     },
     {
       "titular": "Muere una mujer en Extremadura a causa del virus del Nilo",
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 28,
+    "antiguedad_minima_min": 25,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 401,
+        "antiguedad_min": 25,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 313,
+        "antiguedad_min": 350,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 28,
+        "antiguedad_min": 65,
         "descartados_por_gancho": 0
       },
       {
