@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-08-25T02:55:08+02:00",
+  "generado": "2026-08-25T04:15:19+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -75,7 +75,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 44,
+    "antiguedad_minima_min": 124,
     "detalle": [
       {
         "medio": "RTVE",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2213390,
+        "antiguedad_min": 2213470,
         "descartados_por_gancho": 0
       },
       {
@@ -91,7 +91,7 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 500",
+        "error": "HTTP 429",
         "antiguedad_min": null
       },
       {
@@ -100,7 +100,7 @@
         "ok": true,
         "items": 142,
         "error": null,
-        "antiguedad_min": 137,
+        "antiguedad_min": 217,
         "descartados_por_gancho": 4
       },
       {
@@ -109,7 +109,7 @@
         "ok": true,
         "items": 119,
         "error": null,
-        "antiguedad_min": 139,
+        "antiguedad_min": 219,
         "descartados_por_gancho": 11
       },
       {
@@ -118,7 +118,7 @@
         "ok": true,
         "items": 24,
         "error": null,
-        "antiguedad_min": 44,
+        "antiguedad_min": 124,
         "descartados_por_gancho": 1
       }
     ]
