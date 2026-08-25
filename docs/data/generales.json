@@ -2,43 +2,43 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-08-25T23:20:52+02:00",
+  "generado": "2026-08-25T23:51:50+02:00",
   "titulares": [
     {
-      "titular": "El Betis castiga la racanearía del Valencia",
+      "titular": "El ICE detiene a casi 50.000 personas en julio, el mayor número de arrestos en la Administración de Trump",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T23:12:06+02:00",
-      "enlace": "https://elpais.com/deportes/futbol/2026-08-25/el-betis-castiga-la-racanearia-del-valencia.html"
+      "fecha": "2026-08-25T23:33:53+02:00",
+      "enlace": "https://elpais.com/us/migracion/2026-08-25/el-ice-detiene-a-casi-50000-personas-en-julio-el-mayor-numero-de-arrestos-en-la-administracion-de-trump.html"
     },
     {
-      "titular": "El Gobierno eleva las exigencias a los inversores en centros de datos para evitar una burbuja",
+      "titular": "Cóctel Bellini, al estilo veneciano",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-25T23:23:26+02:00",
+      "enlace": "https://www.abc.es/recetasderechupete/coctel-bellini-la-bebida-italiana-con-melocoton-del-verano/42865/"
+    },
+    {
+      "titular": "Pa amb oli mallorquín: receta fácil",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-25T23:21:25+02:00",
+      "enlace": "https://www.abc.es/recetasderechupete/pa-amb-oli-mallorquin-la-version-basica-con-tomate-de-ramallet/172502/"
+    },
+    {
+      "titular": "El tenis celebra el retorno de Carlos Alcaraz, el gran deseado",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T23:00:00+02:00",
-      "enlace": "https://elpais.com/economia/2026-08-25/el-gobierno-eleva-las-exigencias-a-los-inversores-en-centros-de-datos-para-evitar-una-burbuja.html"
-    },
-    {
-      "titular": "Madrid saca de la ruina el palacete Villa San Miguel para crear un nuevo centro cultural",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-25T22:52:39+02:00",
-      "enlace": "https://www.abc.es/espana/madrid/madrid-saca-ruina-palacete-villa-san-miguel-20260825173405-nt.html"
-    },
-    {
-      "titular": "La pasión por Dolores estalla con Belmontino",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-25T22:52:13+02:00",
-      "enlace": "https://www.abc.es/cultura/toros/dolores-20260825220517-nt.html"
+      "fecha": "2026-08-25T23:21:06+02:00",
+      "enlace": "https://elpais.com/deportes/tenis/2026-08-25/el-tenis-celebra-el-retorno-de-carlos-alcaraz-el-gran-deseado.html"
     },
     {
       "titular": "Xavi sale, habla y disfruta en la universidad del fútbol: “Hemos hecho un reset tras salir del Barça”",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 8,
+    "antiguedad_minima_min": 17,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2214615,
+        "antiguedad_min": 2214646,
         "descartados_por_gancho": 0
       },
       {
@@ -97,9 +97,9 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 144,
+        "items": 145,
         "error": null,
-        "antiguedad_min": 8,
+        "antiguedad_min": 17,
         "descartados_por_gancho": 4
       },
       {
@@ -108,7 +108,7 @@
         "ok": true,
         "items": 121,
         "error": null,
-        "antiguedad_min": 50,
+        "antiguedad_min": 81,
         "descartados_por_gancho": 10
       },
       {

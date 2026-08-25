@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-08-25T23:20:57+02:00",
+  "generado": "2026-08-25T23:51:54+02:00",
   "titulares": [
     {
-      "titular": "Serena Williams - Alcaraz vs Bencic - Cobolli, en directo",
+      "titular": "0-1: Pablo García lanza al Betis y desencadena otro enfado de Mestalla",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T22:42:10+02:00",
-      "enlace": "https://www.mundodeportivo.com/tenis/open-usa/20260825/1004219464/alcaraz-serena-williams-vs-lloyd-glasspool-erin-routtlife-directo-us-open-tenis.html"
+      "fecha": "2026-08-25T23:27:57+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/laliga/20260825/1004219784/valencia-betis.html"
     },
     {
-      "titular": "Soriano, camarero, revela lo que hacen los españoles cuando llegan a un bar: \"En otros sitios no se ve\"",
+      "titular": "\"Los paneles fotovoltaicos no necesitan que el sol les esté dando para generar energía\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T22:38:35+02:00",
-      "enlace": "https://www.mundodeportivo.com/tressesenta/20260825/1004219778/jesus-soriano-camarero-espana-costumbre-llego-bar-cierran-me-camareros-dos-horas-extra-seguramente-no-les-pagar-otros-sitios-no-ve-dct.html"
+      "fecha": "2026-08-25T23:10:03+02:00",
+      "enlace": "https://www.mundodeportivo.com/actualidad/20260825/1004219738/jorge-gonzalez-experto-placas-solares-paneles-fotovotaicos-funcionan-radiacion-solar-no-necesitan-sol-les-dando-directamente-generar-producir-energia-smd.html"
     },
     {
       "titular": "Las portadas en Inglaterra con Arteta son para verlas...",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/rayo/2026/08/21/camello-agotados-situacion-distancia-tres-partes.html"
     },
     {
-      "titular": "La calidad decide en favor del Betis... y Mestalla explota: ¿Dónde están los fichajes?",
+      "titular": "El Barça suma tres posibles rivales para la Champions: quedan cuatro por decidir",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/valencia/calidad-decide-favor-betis-mestalla-133656359"
+      "enlace": "https://www.sport.es/es/noticias/barca/barca-suma-tres-posibles-rivales-133655838"
     },
     {
-      "titular": "Las notas de los jugadores del Valencia CF en la derrota ante el Betis",
+      "titular": "Debacle del Celtic en Austria: el Oviedo se queda sin bonus",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/valencia/notas-jugadores-valencia-cf-derrota-133656361"
+      "enlace": "https://www.sport.es/es/noticias/oviedo/debacle-celtic-austria-oviedo-queda-133656881"
     },
     {
-      "titular": "Alcaraz y Serena Williams arrasan en su debut como doble mixto",
+      "titular": "2-1: Zuk marca en el triunfo de una Sub-18 con Pesquer",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T22:38:17+02:00",
-      "enlace": "https://www.mundodeportivo.com/tenis/open-usa/20260825/1004219777/alcaraz-serena-williams-arrasan-debut-doble-mixto-us-open.html"
+      "fecha": "2026-08-25T22:51:35+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260825/1004219773/2-1-zuk-marca-triunfo-sub-18-pesquer.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 38,
+    "antiguedad_minima_min": 23,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 7050,
+        "antiguedad_min": 7081,
         "descartados_por_gancho": 12
       },
       {
@@ -98,10 +98,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 137,
+        "items": 138,
         "error": null,
-        "antiguedad_min": 38,
-        "descartados_por_gancho": 3
+        "antiguedad_min": 23,
+        "descartados_por_gancho": 2
       },
       {
         "medio": "Sport",
