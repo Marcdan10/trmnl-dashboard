@@ -2,7 +2,7 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-08-25T21:26:09+02:00",
+  "generado": "2026-08-25T21:55:10+02:00",
   "titulares": [
     {
       "titular": "Serena Williams - Alcaraz vs Routtlife - Glasspool, en directo",
@@ -10,17 +10,17 @@
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T20:50:31+02:00",
+      "fecha": "2026-08-25T21:20:13+02:00",
       "enlace": "https://www.mundodeportivo.com/tenis/open-usa/20260825/1004219464/alcaraz-serena-williams-vs-lloyd-glasspool-erin-routtlife-directo-us-open-tenis.html"
     },
     {
-      "titular": "La IA reconoce cuatro fallos arbitrales en Primera en su primer 'Tiempo de Revisión'",
+      "titular": "Compás de espera por Bryan Zaragoza",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T20:42:57+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/20260825/1004219753/ia-reconoce-cuatro-fallos-arbitrales-primera-primer-revision.html"
+      "fecha": "2026-08-25T21:10:02+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/rcd-espanyol/20260825/1004219757/compas-espera-bryan-zaragoza.html"
     },
     {
       "titular": "Las portadas en Inglaterra con Arteta son para verlas...",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/rayo/2026/08/21/camello-agotados-situacion-distancia-tres-partes.html"
     },
     {
-      "titular": "Couhaib Driouech firma por el Celta hasta 2030",
+      "titular": "Luis Enrique da un 'respiro' a Dembélé",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/celta-de-vigo/couhaib-driouech-firma-celta-2030-133654985"
+      "enlace": "https://www.sport.es/es/noticias/futbol-internacional/luis-enrique-da-respiro-dembele-133655288"
     },
     {
-      "titular": "Michel Platini: \"Una jugada de Kubala cambió mi vida para siempre\"",
+      "titular": "19 años de la trágica desaparición de Madeleine McCann: así es la vida de Sean McCann, su hermano",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/barca/michel-platini-jugada-kubala-cambio-133654767"
+      "enlace": "https://www.sport.es/es/noticias/deportes/natacion/19-anos-tragica-desaparicion-madeleine-133655137"
     },
     {
-      "titular": "Xavi Pascual ya ha tomado el mando en Dubái",
+      "titular": "Sendín, mejor mecánico de España, desvela por qué no compraría un coche nuevo",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T20:42:44+02:00",
-      "enlace": "https://www.mundodeportivo.com/baloncesto/euroliga/20260825/1004219754/xavi-pascual-tomado-mando-dubai.html"
+      "fecha": "2026-08-25T20:56:51+02:00",
+      "enlace": "https://www.mundodeportivo.com/actualidad/20260825/1004219756/javier-sendin-mejor-mecanico-espana-no-compraria-coche-nuevo-son-mas-caros-mantener-anos-simple-golpe-frontal-declara-siniestro-total-expt-cmt-dct.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 35,
+    "antiguedad_minima_min": 34,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 6935,
+        "antiguedad_min": 6964,
         "descartados_por_gancho": 12
       },
       {
@@ -100,17 +100,17 @@
         "ok": true,
         "items": 136,
         "error": null,
-        "antiguedad_min": 35,
+        "antiguedad_min": 34,
         "descartados_por_gancho": 3
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 49,
+        "items": 48,
         "error": null,
         "antiguedad_min": null,
-        "descartados_por_gancho": 1
+        "descartados_por_gancho": 2
       },
       {
         "medio": "NBA",

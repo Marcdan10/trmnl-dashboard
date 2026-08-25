@@ -2,8 +2,17 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-08-25T21:26:07+02:00",
+  "generado": "2026-08-25T21:55:08+02:00",
   "titulares": [
+    {
+      "titular": "SpaceX invertirá 85.500 millones en un centro de lanzamiento de cohetes en Luisiana",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-25T21:47:52+02:00",
+      "enlace": "https://www.expansion.com/economia-digital/companias/2026/08/25/6a8df13ae5fdeab4728b4596.html"
+    },
     {
       "titular": "España y Polonia comprarán aviones cisterna a Airbus por 5.400 millones de euros",
       "medios": [
@@ -57,15 +66,6 @@
       "consenso": 1,
       "fecha": "2026-08-25T17:38:11+02:00",
       "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/08/25/6a8d2a89468aeb49718b4581.html"
-    },
-    {
-      "titular": "Canadá responde a Trump con aranceles a productos de EEUU por 20.000 millones de dólares",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-25T17:25:53+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/08/25/6a8db3bae5fdea104a8b45b4.html"
     }
   ],
   "salud": {
@@ -78,7 +78,7 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 44,
+    "antiguedad_minima_min": 7,
     "detalle": [
       {
         "medio": "Expansión",
@@ -86,7 +86,7 @@
         "ok": true,
         "items": 73,
         "error": null,
-        "antiguedad_min": 44,
+        "antiguedad_min": 7,
         "descartados_por_gancho": 1
       },
       {
