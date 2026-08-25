@@ -2,7 +2,7 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-08-25T22:21:05+02:00",
+  "generado": "2026-08-25T22:54:09+02:00",
   "titulares": [
     {
       "titular": "Serena Williams - Alcaraz vs Routtlife - Glasspool, en directo",
@@ -10,18 +10,17 @@
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T21:59:03+02:00",
+      "fecha": "2026-08-25T22:19:58+02:00",
       "enlace": "https://www.mundodeportivo.com/tenis/open-usa/20260825/1004219464/alcaraz-serena-williams-vs-lloyd-glasspool-erin-routtlife-directo-us-open-tenis.html"
     },
     {
-      "titular": "Muere Dolly Parton, leyenda del country, a los 80 años",
+      "titular": "\"El modo ECO del lavavajillas es el que más ahorra. El más caro de todos es el intensivo\"",
       "medios": [
-        "Mundo Deportivo",
-        "Sport"
+        "Mundo Deportivo"
       ],
-      "consenso": 2,
-      "fecha": "2026-08-25T21:15:09+02:00",
-      "enlace": "https://www.mundodeportivo.com/elotromundo/gente/20260825/1004219758/muere-dolly-parton-legendaria-cantante-country-80-anos-dct.html"
+      "consenso": 1,
+      "fecha": "2026-08-25T22:17:50+02:00",
+      "enlace": "https://www.mundodeportivo.com/economia-hogar/20260825/1004219693/javier-dasi-especialista-energia-eco-lavavajillas-ahorra-caro-todos-intensivo-smd.html"
     },
     {
       "titular": "Las portadas en Inglaterra con Arteta son para verlas...",
@@ -42,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/rayo/2026/08/21/camello-agotados-situacion-distancia-tres-partes.html"
     },
     {
-      "titular": "El homenaje del Spotify Camp Nou a los campeones del mundo, en duda",
+      "titular": "Alcaraz regresa a las pistas en un 'show' inolvidable con Serena Williams",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/barca/homenaje-spotify-camp-nou-campeones-133655438"
+      "enlace": "https://www.sport.es/es/noticias/tenis/us-open/alcaraz-regresa-pistas-show-inolvidable-133652974"
     },
     {
-      "titular": "Luis Enrique da un 'respiro' a Dembélé",
+      "titular": "Real Madrid - Real Sociedad: horario y dónde ver el partido de LaLiga EA Sports por TV y en directo",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/futbol-internacional/luis-enrique-da-respiro-dembele-133655288"
+      "enlace": "https://www.sport.es/es/noticias/real-madrid/real-madrid-real-sociedad-horario-133655760"
     },
     {
-      "titular": "Bryan Zaragoza podría aterrizar este miércoles",
+      "titular": "El Gobierno confirma la subida de la edad media de jubilación en España este mes de agosto",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T21:10:02+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/rcd-espanyol/20260825/1004219757/compas-espera-bryan-zaragoza.html"
+      "fecha": "2026-08-25T22:14:15+02:00",
+      "enlace": "https://www.mundodeportivo.com/actualidad/20260825/1004219767/oficial-gobierno-publico-confirma-subida-edad-media-jubilacion-espana-mes-agosto-2026-finanzas-dct.html"
     }
   ],
   "salud": {
@@ -75,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 22,
+    "antiguedad_minima_min": 34,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +82,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 6990,
+        "antiguedad_min": 7023,
         "descartados_por_gancho": 12
       },
       {
@@ -99,9 +98,9 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 136,
+        "items": 137,
         "error": null,
-        "antiguedad_min": 22,
+        "antiguedad_min": 34,
         "descartados_por_gancho": 3
       },
       {
