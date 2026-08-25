@@ -2,16 +2,53 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-08-25T18:28:54+02:00",
+  "generado": "2026-08-25T19:06:19+02:00",
   "titulares": [
     {
-      "titular": "Compromís pregunta al Gobierno por las “escuadras fascistas” que recorren el distrito marítimo de Valencia",
+      "titular": "Los vecinos de Ceuta tratan de entrar en el hotel en el que estaba el delegado del Gobierno",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-25T19:00:35+02:00",
+      "enlace": "https://www.abc.es/espana/vecinos-ceuta-tratan-entrar-hotel-delegado-gobierno-20260825185122-nt.html"
+    },
+    {
+      "titular": "¿Quién comercia con Irán? Los países en la diana de Trump",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T18:14:40+02:00",
-      "enlace": "https://elpais.com/espana/comunidad-valenciana/2026-08-25/compromis-pregunta-al-gobierno-por-las-escuadras-fascistas-que-recorren-el-distrito-maritimo-de-valencia.html"
+      "fecha": "2026-08-25T18:57:24+02:00",
+      "enlace": "https://elpais.com/internacional/2026-08-25/quien-comercia-con-iran-los-paises-en-la-diana-de-trump.html"
+    },
+    {
+      "titular": "Otro recital de Pogacar sentencia la Vuelta en la etapa 4",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-25T18:54:36+02:00",
+      "enlace": "https://www.abc.es/deportes/ciclismo/recital-pogacar-sentencia-vuelta-etapa-20260825175630-nt.html"
+    },
+    {
+      "titular": "Robles pide disculpas en el Congreso y reconoce que el Gobierno actuó mal y llegó tarde a Ceuta",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-25T18:44:51+02:00",
+      "enlace": "https://elpais.com/espana/2026-08-25/robles-pide-disculpas-en-el-congreso-y-reconoce-que-el-gobierno-actuo-mal-y-llego-tarde-a-ceuta.html"
+    },
+    {
+      "titular": "Otro ministro marroquí reclama la «liberación» de Ceuta y Melilla ante el rey Mohamed VI",
+      "medios": [
+        "La Vanguardia",
+        "ABC"
+      ],
+      "consenso": 2,
+      "fecha": "2026-08-25T18:42:18+02:00",
+      "enlace": "https://www.abc.es/espana/ministro-marroqui-reclama-liberacion-ceuta-melilla-ante-20260825140302-nt.html"
     },
     {
       "titular": "El vídeo viral del enfado de Vinícius con Güler: “¡Arda, pásame una! ¡Siempre igual!”",
@@ -21,43 +58,6 @@
       "consenso": 1,
       "fecha": "2026-08-25T18:00:15+02:00",
       "enlace": "https://www.lavanguardia.com/clic/20260825/11619918/video-viral-enfado-vinicius-gueler-arda-pasame-siempre-igual-lol.html"
-    },
-    {
-      "titular": "Carlos Alcaraz y Serena Williams, juntos en el dobles mixto del US Open",
-      "medios": [
-        "La Vanguardia",
-        "ABC"
-      ],
-      "consenso": 2,
-      "fecha": "2026-08-25T17:59:17+02:00",
-      "enlace": "https://www.abc.es/deportes/tenis/horario-ver-regreso-alcaraz-dobles-mixto-open-20260825093709-nt.html"
-    },
-    {
-      "titular": "Marte también vivió un eclipse el 12 de agosto, pero si viste el de la Tierra este te va a decepcionar",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-25T17:58:30+02:00",
-      "enlace": "https://elpais.com/ciencia/2026-08-25/marte-tambien-vivio-un-eclipse-el-12-de-agosto-pero-si-viste-el-de-la-tierra-este-te-va-a-decepcionar.html"
-    },
-    {
-      "titular": "Canadá responde a la guerra comercial de Trump y anuncia aranceles de hasta el 50% para EE.UU.",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-25T17:56:55+02:00",
-      "enlace": "https://www.abc.es/internacional/canada-responde-guerra-comercial-trump-anuncia-aranceles-20260825174222-nt.html"
-    },
-    {
-      "titular": "La Generalitat defiende no haber enviado un Es-Alert por el temporal de Tarragona, que dejó casi 600 incidencias",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-25T17:50:20+02:00",
-      "enlace": "https://www.abc.es/espana/cataluna/generalitat-defiende-haber-enviado-esalert-temporal-tarragona-20260825130712-nt.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -75,7 +75,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 14,
+    "antiguedad_minima_min": 5,
     "detalle": [
       {
         "medio": "RTVE",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2214323,
+        "antiguedad_min": 2214361,
         "descartados_por_gancho": 0
       },
       {
@@ -98,9 +98,9 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 140,
+        "items": 142,
         "error": null,
-        "antiguedad_min": 14,
+        "antiguedad_min": 8,
         "descartados_por_gancho": 4
       },
       {
@@ -109,7 +109,7 @@
         "ok": true,
         "items": 125,
         "error": null,
-        "antiguedad_min": 28,
+        "antiguedad_min": 66,
         "descartados_por_gancho": 12
       },
       {
@@ -118,7 +118,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 29,
+        "antiguedad_min": 5,
         "descartados_por_gancho": 0
       }
     ]

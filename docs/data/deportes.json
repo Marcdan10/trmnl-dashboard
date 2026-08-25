@@ -2,26 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-08-25T18:28:58+02:00",
+  "generado": "2026-08-25T19:06:24+02:00",
   "titulares": [
     {
-      "titular": "Así queda la clasificación general de La Vuelta tras la enésima exhibición de Pogacar en Andorra",
-      "medios": [
-        "Mundo Deportivo",
-        "Sport"
-      ],
-      "consenso": 2,
-      "fecha": "2026-08-25T17:56:40+02:00",
-      "enlace": "https://www.mundodeportivo.com/ciclismo/vuelta-espana/20260825/1004219697/asi-queda-clasificacion-general-vuelta-enesima-exhibicion-pogacar-andorra.html"
-    },
-    {
-      "titular": "Xavi, en su presentación con Países Bajos: \"Vengo a la universidad del fútbol\"",
+      "titular": "Revolución en la portería de la Juventus pese al frustrado fichaje del 'Dibu'",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T17:52:57+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260825/1004219683/xavi-presentacion-paises-bajos-vengo-universidad-futbol.html"
+      "fecha": "2026-08-25T18:52:09+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/oficial/20260825/1004219708/juventus.html"
+    },
+    {
+      "titular": "Aubameyang se reencontrará en Riazor con otro ex del Barça",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-25T18:50:33+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/20260825/1004219713/aubameyang-reencontrara-riazor-ex-barca.html"
     },
     {
       "titular": "Las portadas en Inglaterra con Arteta son para verlas...",
@@ -42,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/rayo/2026/08/21/camello-agotados-situacion-distancia-tres-partes.html"
     },
     {
-      "titular": "Nike y la NFL presentan las nuevas equipaciones Rivalries de 2026, \"el siguiente capítulo de un programa muy querido por los aficionados\"",
+      "titular": "Antonio Pérez, fisioterapeuta: \"El 60% de unos gemelos grandes es genética, pero hay tres factores clave\"",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/deportes/nfl/nike-nfl-presentan-nuevas-equipaciones-133649812"
+      "enlace": "https://www.sport.es/es/noticias/outdoor/antonio-perez-fisioterapeuta-60-gemelos-133645463"
     },
     {
-      "titular": "Un incendio golpea la montaña de Collserola en Barcelona y Protección Civil ordena el confinamiento de los vecinos",
+      "titular": "¿A qué hora juegan Alcaraz y Serena Williams en el US Open 2026 hoy y dónde ver los partidos de dobles mixto por TV y en directo?",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/actualidad/incendio-golpea-montana-collserola-barcelona-133650173"
+      "enlace": "https://www.sport.es/es/noticias/tenis/hora-juegan-alcaraz-serena-williams-us-open-dobles-mixto-133635552"
     },
     {
-      "titular": "La Federación de Fútbol de Ceuta rechaza que sus instalaciones acojan migrantes",
+      "titular": "Ya hay fecha para el sorteo del Mundial 2027 femenino de Brasil",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T17:51:41+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/20260825/1004219691/federacion-futbol-ceuta-rechaza-instalaciones-acojan-migrantes.html"
+      "fecha": "2026-08-25T18:49:47+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/femenino/20260825/1004219717/hay-fecha-sorteo-mundial-2027-femenino-brasil.html"
     }
   ],
   "salud": {
@@ -75,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 32,
+    "antiguedad_minima_min": 14,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +82,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 6758,
+        "antiguedad_min": 6795,
         "descartados_por_gancho": 12
       },
       {
@@ -99,10 +98,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 134,
+        "items": 138,
         "error": null,
-        "antiguedad_min": 32,
-        "descartados_por_gancho": 4
+        "antiguedad_min": 14,
+        "descartados_por_gancho": 2
       },
       {
         "medio": "Sport",
