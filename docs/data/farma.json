@@ -2,7 +2,7 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "ultimas",
-  "generado": "2026-08-25T13:29:40+02:00",
+  "generado": "2026-08-25T13:56:12+02:00",
   "titulares": [
     {
       "titular": "Padilla: \"No hay emergencia de salud pública en Ceuta\"",
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 16,
+    "antiguedad_minima_min": 43,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 16,
+        "antiguedad_min": 43,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 38,
+        "antiguedad_min": 64,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 30,
+        "antiguedad_min": 57,
         "descartados_por_gancho": 0
       },
       {

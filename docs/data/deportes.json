@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-08-25T13:29:33+02:00",
+  "generado": "2026-08-25T13:56:06+02:00",
   "titulares": [
     {
-      "titular": "\"Rossi, justo antes de la salida, me preguntaba por los neumáticos de los demás. Normalmente, siempre le decía: 'Divirtámonos'. Él me respondía: 'Sí, fácil para ti, que ahora te quedas en el box; yo tengo que salir'\"",
+      "titular": "El aviso de Mourinho a la prensa: \"El día que metan mierda…\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T12:51:21+02:00",
-      "enlace": "https://www.mundodeportivo.com/motor/motogp/20260825/1004219575/valentino-rossi-parrilla-justo-salida-me-preguntaba-neumaticos-normalmente-siempre-le-decia-divirtamonos-me-respondia-facil-ti-te-quedas-box-salir-smd.html"
+      "fecha": "2026-08-25T13:25:02+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260825/1004219591/aviso-mourinho-prensa-dia-metan-mierda.html"
     },
     {
-      "titular": "Ya hay árbitro para el Real Madrid-Real Sociedad",
+      "titular": "Confirmado por Atresmedia: este éxitoso formato de la BBC aterriza en España",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T12:49:50+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260825/1004219577/hay-arbitro-real-madrid-real-sociedad.html"
+      "fecha": "2026-08-25T13:18:26+02:00",
+      "enlace": "https://www.mundodeportivo.com/elotromundo/television/20260825/1004219580/confirmado-atresmedia-exitoso-formato-bbc-studios-nation-s-dumbest-aterriza-espana-dct.html"
     },
     {
       "titular": "Las portadas en Inglaterra con Arteta son para verlas...",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/rayo/2026/08/21/camello-agotados-situacion-distancia-tres-partes.html"
     },
     {
-      "titular": "Luis Suárez, el 'otro 9' que sonó par el Barça, negocia con el Nottingham Forest",
+      "titular": "Los puntos positivos del empate del Málaga CF frente al Deportivo",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/mercado-fichajes/luis-suarez-9-sono-par-133638342"
+      "enlace": "https://www.sport.es/es/noticias/futbol/puntos-positivos-empate-malaga-cf-133640653"
     },
     {
-      "titular": "La vida bajo la Tribuna de Mestalla: cuando el templo del Valencia CF era el hogar de una familia",
+      "titular": "Gonzalo y Espí, el cambio que se avecina para De la Fuente",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/valencia/vida-tribuna-mestalla-templo-valencia-133639240"
+      "enlace": "https://www.sport.es/es/noticias/seleccion/gonzalo-espi-cambio-avecina-fuente-133637650"
     },
     {
-      "titular": "Müller, Lucas, Hummels y Sommer adquieren un club de la Primera lusa",
+      "titular": "Ferran Torres, el chico de moda, desvela los secretos de su dieta y su gran perdición: \"Intento no comerlo mucho\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T12:36:23+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/20260825/1004219570/mueller-lucas-hernandez-hummels-sommer-adquieren-club-primera-portuguesa.html"
+      "fecha": "2026-08-25T13:17:36+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/internacional/20260825/1004219590/ferran-torres-chico-moda-desvela-secretos-dieta-gran-perdicion-intento-no-comerlo-realmente-amo.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 38,
+    "antiguedad_minima_min": 31,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 6458,
+        "antiguedad_min": 6485,
         "descartados_por_gancho": 12
       },
       {
@@ -98,9 +98,9 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 131,
+        "items": 133,
         "error": null,
-        "antiguedad_min": 38,
+        "antiguedad_min": 31,
         "descartados_por_gancho": 4
       },
       {

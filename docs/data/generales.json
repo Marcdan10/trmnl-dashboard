@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-08-25T13:29:27+02:00",
+  "generado": "2026-08-25T13:56:01+02:00",
   "titulares": [
     {
       "titular": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Robles afirma que los 25 agentes del CNI en Ceuta “compartieron y analizaron su información” con las fuerzas de seguridad y el Gobierno",
@@ -10,17 +10,26 @@
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T13:22:42+02:00",
+      "fecha": "2026-08-25T13:55:01+02:00",
       "enlace": "https://elpais.com/espana/2026-08-25/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html"
     },
     {
-      "titular": "Enrique Arce, sobre su decisión de dejar el alcohol: «Con 50 años me di cuenta de que era hora de parar»",
+      "titular": "La pensión media de jubilación se sitúa en 1.574 euros en agosto y eleva el gasto total a 14.470 millones",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T13:19:35+02:00",
-      "enlace": "https://www.abc.es/gente/enrique-arce-decision-dejar-alcohol-consciente-arriba-beber-cuenta-20260825210600-nt.html"
+      "fecha": "2026-08-25T13:32:15+02:00",
+      "enlace": "https://www.abc.es/economia/pension-media-jubilacion-situa-1574-euros-agosto-20260825090622-nt.html"
+    },
+    {
+      "titular": "El Consejo de Ministros aprueba una reforma de la ley de asilo y una parte de la ley de extranjería",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-25T13:31:56+02:00",
+      "enlace": "https://www.abc.es/espana/ultima-hora-crisis-migratoria-ceuta-directo-comparecencia-congreso-20260825132126-di.html"
     },
     {
       "titular": "La economía alemana crece más de lo previsto en el segundo trimestre pero sigue pendiente de la sequía",
@@ -30,15 +39,6 @@
       "consenso": 1,
       "fecha": "2026-08-25T13:16:47+02:00",
       "enlace": "https://elpais.com/economia/2026-08-25/la-economia-alemana-crece-mas-de-lo-previsto-en-el-segundo-trimestre-pero-sigue-pendiente-de-la-sequia.html"
-    },
-    {
-      "titular": "El Gobierno decide ahora extender el mando único en Ceuta hasta el 31 de diciembre",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-25T13:14:58+02:00",
-      "enlace": "https://www.abc.es/espana/sigue-directo-rueda-prensa-posterior-consejo-ministros-20260825085048-nt.html"
     },
     {
       "titular": "Mourinho evita dos veces enredarse con el Barça: “Me pongo en el lado de la honestidad arbitral”",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 6,
+    "antiguedad_minima_min": 0,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2214024,
+        "antiguedad_min": 2214051,
         "descartados_por_gancho": 0
       },
       {
@@ -90,7 +90,7 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 500",
+        "error": "HTTP 429",
         "antiguedad_min": null
       },
       {
@@ -99,7 +99,7 @@
         "ok": true,
         "items": 140,
         "error": null,
-        "antiguedad_min": 6,
+        "antiguedad_min": 0,
         "descartados_por_gancho": 4
       },
       {
@@ -108,7 +108,7 @@
         "ok": true,
         "items": 112,
         "error": null,
-        "antiguedad_min": 52,
+        "antiguedad_min": 79,
         "descartados_por_gancho": 12
       },
       {
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 9,
+        "antiguedad_min": 23,
         "descartados_por_gancho": 0
       }
     ]

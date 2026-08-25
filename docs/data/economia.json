@@ -2,8 +2,44 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-08-25T13:29:31+02:00",
+  "generado": "2026-08-25T13:56:04+02:00",
   "titulares": [
+    {
+      "titular": "Robles subraya que el CNI hizo su trabajo en los días previos a la entrada en Ceuta e informó a Delegación del Gobierno",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-25T13:41:17+02:00",
+      "enlace": "https://www.expansion.com/economia/politica/2026/08/25/6a8d7f58e5fdea3c7b8b456d.html"
+    },
+    {
+      "titular": "Por qué el 'caso Airbus' es más que una rebelión contra la vuelta a la oficina",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-25T13:33:50+02:00",
+      "enlace": "https://www.expansion.com/expansion-empleo/desarrollo-de-carrera/2026/08/24/6a8c17c9e5fdeaac1a8b4578.html"
+    },
+    {
+      "titular": "El balón de la 'Mano de Dios' de Maradona se vende por 2,9 millones",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-25T13:30:30+02:00",
+      "enlace": "https://www.expansion.com/directivos/deporte-negocio/2026/08/25/6a8d7c85e5fdeadb678b4570.html"
+    },
+    {
+      "titular": "Nuevas normas de tráfico a partir del 1 de octubre: estos son los principales cambios",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-25T13:16:38+02:00",
+      "enlace": "https://www.expansion.com/empresas/motor/2026/08/25/6a8d7927e5fdea85798b45b4.html"
+    },
     {
       "titular": "Reental compra un palacio en el Pirineo aragonés para apartamentos de lujo",
       "medios": [
@@ -30,42 +66,6 @@
       "consenso": 1,
       "fecha": "2026-08-25T12:08:32+02:00",
       "enlace": "https://www.expansion.com/economia/2026/08/25/6a8d3d01e5fdeaf4178b4580.html"
-    },
-    {
-      "titular": "La viticultura, al límite: crisis climática, falta de mano de obra y precios a la baja",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-25T11:58:49+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/08/25/6a8caa6c468aeb65358b4592.html"
-    },
-    {
-      "titular": "La nueva pensión de jubilación se dispara a 1.822 euros al mes: equivale al 88% del sueldo medio",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-25T11:39:22+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/08/25/6a8d4b51e5fdeaba758b458e.html"
-    },
-    {
-      "titular": "Industrias Ochoa acusa la situación del automóvil en sus cuentas",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-25T11:25:07+02:00",
-      "enlace": "https://www.expansion.com/valencia/2026/08/25/6a8d5c49468aebaa608b4570.html"
-    },
-    {
-      "titular": "Panamar, proveedor de pan de Mercadona, factura 514 millones y prevé seguir creciendo",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-25T11:04:04+02:00",
-      "enlace": "https://www.expansion.com/valencia/2026/08/25/6a8d5a81468aeb5f118b456e.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 73,
+    "antiguedad_minima_min": 14,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 68,
+        "items": 67,
         "error": null,
-        "antiguedad_min": 73,
+        "antiguedad_min": 14,
         "descartados_por_gancho": 1
       },
       {
