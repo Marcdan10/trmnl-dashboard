@@ -1,15 +1,7 @@
 {
   "ciudad": "Barcelona",
-  "generado": "2026-08-25T07:38:56",
+  "generado": "2026-08-25T08:34:30",
   "horas": [
-    {
-      "hora": "08",
-      "temp": 23,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "sol"
-    },
     {
       "hora": "09",
       "temp": 25,
@@ -93,6 +85,14 @@
     {
       "hora": "19",
       "temp": 30,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "sol"
+    },
+    {
+      "hora": "20",
+      "temp": 29,
       "prob": 0,
       "mm": 0,
       "mostrar_prob": false,

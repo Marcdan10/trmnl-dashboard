@@ -2,7 +2,7 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-08-25T09:38:50+02:00",
+  "generado": "2026-08-25T10:34:25+02:00",
   "titulares": [
     {
       "titular": "El pulso por Julián Alvarez se mantiene",
@@ -14,13 +14,13 @@
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260825/1004219461/pulso-julian-alvarez-mantiene.html"
     },
     {
-      "titular": "Luis de la Fuente: \"Lamine Yamal tiene 19 años, de aqui a que llegue su mejor momento queda mucho, no estamos viendo su total dimensión\"",
+      "titular": "Así queda la clasificación de la Vuelta a España 2026 hoy tras la etapa 3",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/seleccion/luis-fuente-lamine-yamal-19-anos-momento-133630392"
+      "enlace": "https://www.sport.es/es/noticias/ciclismo/queda-clasificacion-vuelta-espana-2026-133617805"
     },
     {
       "titular": "Las portadas en Inglaterra con Arteta son para verlas...",
@@ -32,22 +32,22 @@
       "enlace": "https://www.marca.com/futbol/album/2026/08/21/portadas-dia.html"
     },
     {
-      "titular": "Julián sigue alimentando el sueño del Barça",
+      "titular": "Julián encuentra apoyo en un expresidente de River: \"Sé cómo eres\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-24T22:52:35+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260824/1004219387/julian-sigue-alimentando-sueno-barca.html"
+      "fecha": "2026-08-25T10:11:04+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20260825/1004219510/julian-encuentra-apoyo-expresidente-river.html"
     },
     {
-      "titular": "La B.LEAGUE tiende puentes con Europa",
+      "titular": "Etapa 4 de la Vuelta a España 2026 hoy: recorrido, perfil, horario y dónde ver gratis por TV y en directo",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/baloncesto/b-league-tiende-puentes-europa-133630964"
+      "enlace": "https://www.sport.es/es/noticias/ciclismo/etapa-4-vuelta-espana-2026-perfil-recorrido-horario-133596016"
     },
     {
       "titular": "\"Si hubiese estado fresco no habríamos perdido\"",
@@ -59,13 +59,13 @@
       "enlace": "https://www.marca.com/futbol/rayo/2026/08/21/camello-agotados-situacion-distancia-tres-partes.html"
     },
     {
-      "titular": "Descalabro inesperado de España en los Juegos del Mediterráneo",
+      "titular": "En Inglaterra hablan de ofensiva y ponen precio a Balde",
       "medios": [
-        "Sport"
+        "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/padel/descalabro-inesperado-espana-juegos-mediterraneo-133630312"
+      "fecha": "2026-08-25T10:21:23+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260825/1004219508/inglaterra-hablan-ofensiva-ponen-precio-balde.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 19,
+    "antiguedad_minima_min": 13,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 6228,
+        "antiguedad_min": 6283,
         "descartados_por_gancho": 12
       },
       {
@@ -100,17 +100,17 @@
         "ok": true,
         "items": 136,
         "error": null,
-        "antiguedad_min": 19,
+        "antiguedad_min": 13,
         "descartados_por_gancho": 3
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 47,
+        "items": 48,
         "error": null,
         "antiguedad_min": null,
-        "descartados_por_gancho": 3
+        "descartados_por_gancho": 2
       },
       {
         "medio": "NBA",

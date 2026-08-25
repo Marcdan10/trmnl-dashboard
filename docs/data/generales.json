@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-08-25T09:38:45+02:00",
+  "generado": "2026-08-25T10:34:21+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -47,7 +47,7 @@
         "La Vanguardia"
       ],
       "consenso": 2,
-      "fecha": "2026-08-25T09:34:02+02:00",
+      "fecha": "2026-08-25T10:17:06+02:00",
       "enlace": "https://elpais.com/espana/2026-08-25/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html"
     },
     {
@@ -75,7 +75,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 4,
+    "antiguedad_minima_min": 17,
     "detalle": [
       {
         "medio": "RTVE",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2213793,
+        "antiguedad_min": 2213849,
         "descartados_por_gancho": 0
       },
       {
@@ -100,7 +100,7 @@
         "ok": true,
         "items": 136,
         "error": null,
-        "antiguedad_min": 4,
+        "antiguedad_min": 17,
         "descartados_por_gancho": 6
       },
       {
@@ -109,8 +109,8 @@
         "ok": true,
         "items": 114,
         "error": null,
-        "antiguedad_min": 42,
-        "descartados_por_gancho": 14
+        "antiguedad_min": 31,
+        "descartados_por_gancho": 13
       },
       {
         "medio": "ABC",
@@ -118,7 +118,7 @@
         "ok": true,
         "items": 24,
         "error": null,
-        "antiguedad_min": 15,
+        "antiguedad_min": 71,
         "descartados_por_gancho": 1
       }
     ]
