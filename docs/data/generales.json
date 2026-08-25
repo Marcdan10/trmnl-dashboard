@@ -2,62 +2,62 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-08-25T17:36:25+02:00",
+  "generado": "2026-08-25T18:28:54+02:00",
   "titulares": [
     {
-      "titular": "Un avión militar de EE.UU. aterriza en Moscú en medio del parón de las negociaciones sobre Ucrania",
+      "titular": "Compromís pregunta al Gobierno por las “escuadras fascistas” que recorren el distrito marítimo de Valencia",
       "medios": [
-        "ABC"
+        "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T17:28:24+02:00",
-      "enlace": "https://www.abc.es/internacional/avion-militar-eeuu-aterriza-moscu-medio-paron-20260825162523-nt.html"
+      "fecha": "2026-08-25T18:14:40+02:00",
+      "enlace": "https://elpais.com/espana/comunidad-valenciana/2026-08-25/compromis-pregunta-al-gobierno-por-las-escuadras-fascistas-que-recorren-el-distrito-maritimo-de-valencia.html"
     },
     {
-      "titular": "El mando único en Ceuta se extenderá hasta el 31 de diciembre",
+      "titular": "El vídeo viral del enfado de Vinícius con Güler: “¡Arda, pásame una! ¡Siempre igual!”",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-25T18:00:15+02:00",
+      "enlace": "https://www.lavanguardia.com/clic/20260825/11619918/video-viral-enfado-vinicius-gueler-arda-pasame-siempre-igual-lol.html"
+    },
+    {
+      "titular": "Carlos Alcaraz y Serena Williams, juntos en el dobles mixto del US Open",
       "medios": [
         "La Vanguardia",
         "ABC"
       ],
       "consenso": 2,
-      "fecha": "2026-08-25T17:22:47+02:00",
-      "enlace": "https://www.abc.es/espana/sigue-directo-rueda-prensa-posterior-consejo-ministros-20260825085048-nt.html"
+      "fecha": "2026-08-25T17:59:17+02:00",
+      "enlace": "https://www.abc.es/deportes/tenis/horario-ver-regreso-alcaraz-dobles-mixto-open-20260825093709-nt.html"
     },
     {
-      "titular": "Marlaska admite un posible “uso desproporcionado de la fuerza” por la Policía en los altercados del Elche-Barça",
+      "titular": "Marte también vivió un eclipse el 12 de agosto, pero si viste el de la Tierra este te va a decepcionar",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T17:18:52+02:00",
-      "enlace": "https://elpais.com/espana/2026-08-25/marlaska-admite-un-posible-uso-desproporcionado-de-la-fuerza-de-la-policia-en-los-altercados-del-elche-barca.html"
+      "fecha": "2026-08-25T17:58:30+02:00",
+      "enlace": "https://elpais.com/ciencia/2026-08-25/marte-tambien-vivio-un-eclipse-el-12-de-agosto-pero-si-viste-el-de-la-tierra-este-te-va-a-decepcionar.html"
     },
     {
-      "titular": "Un británico que combatía para Rusia murió en junio en el este de Ucrania",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-25T17:09:51+02:00",
-      "enlace": "https://www.lavanguardia.com/internacional/20260825/11619896/britanico-combatia-rusia-murio-junio-ucrania.html"
-    },
-    {
-      "titular": "Con llantas de magnesio y un precio de 250.000 euros: la nueva 'joya' del futbolista Dani Olmo",
+      "titular": "Canadá responde a la guerra comercial de Trump y anuncia aranceles de hasta el 50% para EE.UU.",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T17:03:08+02:00",
-      "enlace": "https://www.abc.es/summum/motor/nuevo-coche-lujo-dani-olmo-porsche-cuesta-20260825131434-nt.html"
+      "fecha": "2026-08-25T17:56:55+02:00",
+      "enlace": "https://www.abc.es/internacional/canada-responde-guerra-comercial-trump-anuncia-aranceles-20260825174222-nt.html"
     },
     {
-      "titular": "Volkswagen insiste en la reducción masiva de costes y de personal para sobrevivir",
+      "titular": "La Generalitat defiende no haber enviado un Es-Alert por el temporal de Tarragona, que dejó casi 600 incidencias",
       "medios": [
-        "El País"
+        "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T16:59:28+02:00",
-      "enlace": "https://elpais.com/economia/2026-08-25/volkswagen-insiste-en-la-reduccion-masiva-de-costes-y-de-personal-para-sobrevivir.html"
+      "fecha": "2026-08-25T17:50:20+02:00",
+      "enlace": "https://www.abc.es/espana/cataluna/generalitat-defiende-haber-enviado-esalert-temporal-tarragona-20260825130712-nt.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -75,7 +75,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 8,
+    "antiguedad_minima_min": 14,
     "detalle": [
       {
         "medio": "RTVE",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2214271,
+        "antiguedad_min": 2214323,
         "descartados_por_gancho": 0
       },
       {
@@ -98,18 +98,18 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 141,
+        "items": 140,
         "error": null,
-        "antiguedad_min": 17,
-        "descartados_por_gancho": 3
+        "antiguedad_min": 14,
+        "descartados_por_gancho": 4
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 124,
+        "items": 125,
         "error": null,
-        "antiguedad_min": 26,
+        "antiguedad_min": 28,
         "descartados_por_gancho": 12
       },
       {
@@ -118,7 +118,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 8,
+        "antiguedad_min": 29,
         "descartados_por_gancho": 0
       }
     ]

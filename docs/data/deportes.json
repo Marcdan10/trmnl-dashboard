@@ -2,8 +2,27 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-08-25T17:36:39+02:00",
+  "generado": "2026-08-25T18:28:58+02:00",
   "titulares": [
+    {
+      "titular": "Así queda la clasificación general de La Vuelta tras la enésima exhibición de Pogacar en Andorra",
+      "medios": [
+        "Mundo Deportivo",
+        "Sport"
+      ],
+      "consenso": 2,
+      "fecha": "2026-08-25T17:56:40+02:00",
+      "enlace": "https://www.mundodeportivo.com/ciclismo/vuelta-espana/20260825/1004219697/asi-queda-clasificacion-general-vuelta-enesima-exhibicion-pogacar-andorra.html"
+    },
+    {
+      "titular": "Xavi, en su presentación con Países Bajos: \"Vengo a la universidad del fútbol\"",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-25T17:52:57+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260825/1004219683/xavi-presentacion-paises-bajos-vengo-universidad-futbol.html"
+    },
     {
       "titular": "Las portadas en Inglaterra con Arteta son para verlas...",
       "medios": [
@@ -23,59 +42,40 @@
       "enlace": "https://www.marca.com/futbol/rayo/2026/08/21/camello-agotados-situacion-distancia-tres-partes.html"
     },
     {
-      "titular": "Así queda la clasificación general de la Vuelta a España 2026 hoy tras la etapa 4: hachazo de Pogacar en Andorra",
+      "titular": "Nike y la NFL presentan las nuevas equipaciones Rivalries de 2026, \"el siguiente capítulo de un programa muy querido por los aficionados\"",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/ciclismo/clasificacion-general-vuelta-espana-etapa-4-133647492"
+      "enlace": "https://www.sport.es/es/noticias/deportes/nfl/nike-nfl-presentan-nuevas-equipaciones-133649812"
     },
     {
-      "titular": "El PSG, en la recta final del mercado con dos operaciones entre manos: el Liverpool llama a la puerta por Barcola y Mbaye",
+      "titular": "Un incendio golpea la montaña de Collserola en Barcelona y Protección Civil ordena el confinamiento de los vecinos",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/futbol-internacional/psg-recta-final-mercado-operaciones-133637586"
+      "enlace": "https://www.sport.es/es/noticias/actualidad/incendio-golpea-montana-collserola-barcelona-133650173"
     },
     {
-      "titular": "\"Por favor, pido que el siguiente partido se juegue en Vallecas\"",
+      "titular": "La Federación de Fútbol de Ceuta rechaza que sus instalaciones acojan migrantes",
       "medios": [
-        "Marca"
+        "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-20T23:46:41+02:00",
-      "enlace": "https://www.marca.com/futbol/rayo/2026/08/20/benat-san-jose-plus-energia-imaginarme-vallecas-lleno.html"
-    },
-    {
-      "titular": "Musiala será baja en la Supercopa pero el Bayern le espera para el debut liguero",
-      "medios": [
-        "Marca"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-20T23:30:33+02:00",
-      "enlace": "https://www.marca.com/futbol/bundesliga/2026/08/20/musiala-sera-baja-final-sabado-bayern-le-espera-debut-liguero.html"
-    },
-    {
-      "titular": "Rayo Vallecano 1-1 Alavés | Resumen LaLiga",
-      "medios": [
-        "Marca"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-20T23:20:11+02:00",
-      "enlace": "https://www.marca.com/futbol/2026/08/20/rayo-vallecano-1-1-alaves-resumen-laliga-video.html"
+      "fecha": "2026-08-25T17:51:41+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/20260825/1004219691/federacion-futbol-ceuta-rechaza-instalaciones-acojan-migrantes.html"
     }
   ],
   "salud": {
     "feeds_totales": 5,
-    "feeds_ok": 3,
+    "feeds_ok": 4,
     "feeds_caidos": [
-      "Mundo Deportivo",
       "NBA"
     ],
-    "antiguedad_minima_min": 6705,
+    "antiguedad_minima_min": 32,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 6705,
+        "antiguedad_min": 6758,
         "descartados_por_gancho": 12
       },
       {
@@ -98,10 +98,11 @@
       {
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
-        "ok": false,
-        "items": 0,
-        "error": "IncompleteRead: IncompleteRead(302832 bytes read)",
-        "antiguedad_min": null
+        "ok": true,
+        "items": 134,
+        "error": null,
+        "antiguedad_min": 32,
+        "descartados_por_gancho": 4
       },
       {
         "medio": "Sport",

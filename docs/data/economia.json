@@ -2,8 +2,26 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-08-25T17:36:36+02:00",
+  "generado": "2026-08-25T18:28:57+02:00",
   "titulares": [
+    {
+      "titular": "Barcelona invertirá 52 millones en reformar la antigua fábrica de La Escocesa",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-25T17:57:16+02:00",
+      "enlace": "https://www.expansion.com/catalunya/2026/08/25/6a8da707e5fdea696d8b4585.html"
+    },
+    {
+      "titular": "Los bancos frenan el Ibex en su búsqueda de nuevos máximos",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-25T17:38:11+02:00",
+      "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/08/25/6a8d2a89468aeb49718b4581.html"
+    },
     {
       "titular": "Canadá responde a Trump con aranceles a productos de EEUU por 20.000 millones de dólares",
       "medios": [
@@ -32,15 +50,6 @@
       "enlace": "https://www.expansion.com/economia/financial-times/2026/08/25/6a8d9f78468aeb30458b457f.html"
     },
     {
-      "titular": "El Ibex borra las subidas y se aleja de máximos",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-25T15:52:42+02:00",
-      "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/08/25/6a8d2a89468aeb49718b4581.html"
-    },
-    {
       "titular": "Dragon Ball Z tendrá un parque temático a las afueras de París",
       "medios": [
         "Expansión"
@@ -57,15 +66,6 @@
       "consenso": 1,
       "fecha": "2026-08-25T14:58:52+02:00",
       "enlace": "https://www.expansion.com/economia/financial-times/2026/08/25/6a8d9014468aeba82b8b4574.html"
-    },
-    {
-      "titular": "La CNMC exige a Atresmedia separar Clear Channel del resto de su negocio publicitario",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-25T14:57:36+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/08/25/6a8d913fe5fdea1d778b4578.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 10,
+    "antiguedad_minima_min": 31,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 72,
+        "items": 73,
         "error": null,
-        "antiguedad_min": 10,
+        "antiguedad_min": 31,
         "descartados_por_gancho": 1
       },
       {
