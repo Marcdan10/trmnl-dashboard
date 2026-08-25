@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-08-25T01:44:26+02:00",
+  "generado": "2026-08-25T02:55:08+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -12,16 +12,6 @@
       "consenso": 1,
       "fecha": "2022-06-10T01:05:00+02:00",
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
-    },
-    {
-      "titular": "Ayuso esquiva la polémica con Feijóo sobre el ático que compró la Comunidad: «Está en venta, 'chao, pescao'»",
-      "medios": [
-        "El País",
-        "ABC"
-      ],
-      "consenso": 2,
-      "fecha": "2026-08-25T01:25:00+02:00",
-      "enlace": "https://www.abc.es/espana/madrid/ayuso-esquiva-polemica-feijoo-sobre-atico-compro-20260824122429-nt.html"
     },
     {
       "titular": "Sánchez acepta casi un mes después crear un mando único para la crisis de Ceuta dirigido por Ángel Víctor Torres",
@@ -42,6 +32,25 @@
       "enlace": "https://www.lavanguardia.com/politica/20260824/11619263/gobierno-constituira-mando-unico-dirigido-ministro-torres-gestionar-crisis-ceuta.html"
     },
     {
+      "titular": "«Estamos muy calientes, desbordados, nos puede la situación»",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-25T02:10:27+02:00",
+      "enlace": "https://www.abc.es/espana/vecinos-ceuta-querer-defenderse-maletas-irse-20260823013138-nt.html"
+    },
+    {
+      "titular": "Sánchez convoca el Consejo de Seguridad Nacional 26 días después del estallido de la crisis de Ceuta",
+      "medios": [
+        "El País",
+        "La Vanguardia"
+      ],
+      "consenso": 2,
+      "fecha": "2026-08-24T19:06:37+02:00",
+      "enlace": "https://elpais.com/espana/2026-08-24/sanchez-convoca-el-consejo-de-seguridad-nacional-26-dias-despues-del-estallido-de-la-crisis-de-ceuta.html"
+    },
+    {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
       "medios": [
         "RTVE"
@@ -58,15 +67,6 @@
       "consenso": 1,
       "fecha": "2026-08-24T15:14:43+02:00",
       "enlace": "https://www.lavanguardia.com/politica/20260824/11619185/sanidad-comunidades-acuerdan-enviar-25-000-vacunas-ceuta-afrontar-crisis-migratoria.html"
-    },
-    {
-      "titular": "Peter Heller, autor de 'La constelación del perro': «Las distopías nos ayudan a sentirnos menos solos»",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-25T01:22:34+02:00",
-      "enlace": "https://www.abc.es/cultura/distopias-ayudan-sentirnos-solos-20260825012234-nt.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 19,
+    "antiguedad_minima_min": 44,
     "detalle": [
       {
         "medio": "RTVE",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2213319,
+        "antiguedad_min": 2213390,
         "descartados_por_gancho": 0
       },
       {
@@ -100,26 +100,26 @@
         "ok": true,
         "items": 142,
         "error": null,
-        "antiguedad_min": 67,
+        "antiguedad_min": 137,
         "descartados_por_gancho": 4
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 116,
+        "items": 119,
         "error": null,
-        "antiguedad_min": 176,
-        "descartados_por_gancho": 14
+        "antiguedad_min": 139,
+        "descartados_por_gancho": 11
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 23,
+        "items": 24,
         "error": null,
-        "antiguedad_min": 19,
-        "descartados_por_gancho": 2
+        "antiguedad_min": 44,
+        "descartados_por_gancho": 1
       }
     ]
   }
