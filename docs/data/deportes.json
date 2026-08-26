@@ -2,7 +2,7 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-08-26T08:59:45+02:00",
+  "generado": "2026-08-26T09:51:53+02:00",
   "titulares": [
     {
       "titular": "Las claves de la cumbre entre Laporta y la comisión deportiva",
@@ -12,6 +12,15 @@
       "consenso": 1,
       "fecha": "2026-08-25T23:59:04+02:00",
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260825/1004219787/claves-cumbre-laporta-comision-deportiva.html"
+    },
+    {
+      "titular": "A su precio mínimo histórico: la afeitadora Philips más recomendada para barba, pelo y todo el cuerpo",
+      "medios": [
+        "Sport"
+      ],
+      "consenso": 1,
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/esncial/recortadora-philips-afeitadora-barba-pelo-corporal-mejor-opcion-133644291"
     },
     {
       "titular": "Las portadas en Inglaterra con Arteta son para verlas...",
@@ -32,13 +41,13 @@
       "enlace": "https://www.mundodeportivo.com/tenis/open-usa/20260825/1004219777/alcaraz-serena-williams-arrasan-debut-doble-mixto-us-open.html"
     },
     {
-      "titular": "El motivo del cambio de escenario con Livakovic",
+      "titular": "Barcelona reuneix l’elit del voleibol mundial",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/barca/motivo-cambio-escenario-livakovic-133649857"
+      "enlace": "https://www.sport.es/es/noticias/voleibol/barcelona-reuneix-l-elit-voleibol-133661675"
     },
     {
       "titular": "\"Si hubiese estado fresco no habríamos perdido\"",
@@ -48,15 +57,6 @@
       "consenso": 1,
       "fecha": "2026-08-21T00:07:06+02:00",
       "enlace": "https://www.marca.com/futbol/rayo/2026/08/21/camello-agotados-situacion-distancia-tres-partes.html"
-    },
-    {
-      "titular": "Adama Traoré, tras los pasos de Aubameyang",
-      "medios": [
-        "Sport"
-      ],
-      "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/laliga/adama-traore-pasos-aubameyang-133660745"
     },
     {
       "titular": "Alcaraz y Serena dejan para la historia su show hasta cuartos del doble mixto",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 39,
+    "antiguedad_minima_min": 24,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 7629,
+        "antiguedad_min": 7681,
         "descartados_por_gancho": 12
       },
       {
@@ -98,10 +98,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 134,
+        "items": 133,
         "error": null,
-        "antiguedad_min": 39,
-        "descartados_por_gancho": 5
+        "antiguedad_min": 24,
+        "descartados_por_gancho": 6
       },
       {
         "medio": "Sport",
