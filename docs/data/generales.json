@@ -2,61 +2,61 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-08-26T14:39:04+02:00",
+  "generado": "2026-08-26T15:49:21+02:00",
   "titulares": [
-    {
-      "titular": "Las pandillas de Haití amenazan con matar a más de 50 rehenes si persiste la ofensiva policial",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-26T14:33:42+02:00",
-      "enlace": "https://www.abc.es/internacional/pandillas-haiti-amenazan-matar-rehenes-persiste-ofensiva-20260826135921-nt.html"
-    },
-    {
-      "titular": "Junts presiona a Sánchez y vuelve a pedir la cesión de inmigración a Cataluña",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-26T14:33:36+02:00",
-      "enlace": "https://www.abc.es/espana/cataluna/junts-presiona-sanchez-vuelve-presentar-proposicion-ley-20260826095348-nt.html"
-    },
-    {
-      "titular": "Tráfico prevé 6,9 millones de desplazamientos en la última fase de la Operación Verano",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-26T14:23:02+02:00",
-      "enlace": "https://elpais.com/espana/2026-08-26/trafico-preve-69-millones-de-desplazamientos-en-la-ultima-fase-de-la-operacion-verano.html"
-    },
     {
       "titular": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Pedro Sánchez comparecerá el 3 de septiembre en el Congreso para abordar la crisis en Ceuta",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-08-26T14:21:41+02:00",
+      "fecha": "2026-08-26T15:42:51+02:00",
       "enlace": "https://elpais.com/espana/2026-08-26/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html"
     },
     {
-      "titular": "Aznar visitará Ceuta este jueves, 24 años después de la crisis de Perejil",
+      "titular": "Junts endurece su discurso y reclama competencias en inmigración para Cataluña: “No podemos esperar ni un minuto más”",
       "medios": [
-        "La Vanguardia"
+        "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-08-26T13:55:17+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20260826/11620451/aznar-visitara-ceuta-jueves-24-anos-crisis-perejil.html"
+      "fecha": "2026-08-26T15:37:03+02:00",
+      "enlace": "https://elpais.com/espana/2026-08-26/junts-endurece-su-discurso-y-reclama-competencias-en-inmigracion-para-cataluna-no-podemos-esperar-ni-un-minuto-mas.html"
     },
     {
-      "titular": "Los ingresos del empresariado catalán crecen tres veces más que los salarios en un lustro, según UGT",
+      "titular": "Una fuerte riada causa al menos 22 muertos en Nepal y hay 384 turistas desaparecidos",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-26T15:27:40+02:00",
+      "enlace": "https://www.abc.es/internacional/fuerte-inundacion-arrasa-rasuwa-nepal-deja-muertos-20260826104211-nt.html"
+    },
+    {
+      "titular": "Sánchez se vuelve a ir de vacaciones tras tener que rectificar toda su gestión",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-26T15:22:32+02:00",
+      "enlace": "https://www.abc.es/espana/sanchez-vuelve-vacaciones-tras-corregir-gestion-ceuta-20260825014546-nt.html"
+    },
+    {
+      "titular": "Que la vuelta a la rutina te pille a la moda: Dockers hunde precios con ofertas únicas para mejorar tus outfits de septiembre",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-08-26T13:53:50+02:00",
-      "enlace": "https://www.lavanguardia.com/economia/20260826/11620408/ingresos-empresariado-catalan-crecen-tres-veces-mas-salarios-lustro-ugt.html"
+      "fecha": "2026-08-26T14:32:55+02:00",
+      "enlace": "https://www.lavanguardia.com/comprar/moda-belleza/20260826/11620352/vuelta-rutina-te-pille-moda-dockers-hunde-precios-ofertas-unicas-septiembre-mkt-dock.html"
+    },
+    {
+      "titular": "Más de 40 heridos, tres de ellos hospitalizados, por una explosión durante el 'chupinazo' de Noáin",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-26T14:25:23+02:00",
+      "enlace": "https://www.lavanguardia.com/local/navarra/20260826/11620482/cincuenta-heridos-explotar-material-pirotecnico-fiestas-noain-navarra.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 5,
+    "antiguedad_minima_min": 6,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2215534,
+        "antiguedad_min": 2215604,
         "descartados_por_gancho": 0
       },
       {
@@ -90,7 +90,7 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 500",
+        "error": "HTTP 429",
         "antiguedad_min": null
       },
       {
@@ -99,16 +99,16 @@
         "ok": true,
         "items": 144,
         "error": null,
-        "antiguedad_min": 16,
-        "descartados_por_gancho": 4
+        "antiguedad_min": 6,
+        "descartados_por_gancho": 3
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 116,
+        "items": 117,
         "error": null,
-        "antiguedad_min": 43,
+        "antiguedad_min": 76,
         "descartados_por_gancho": 15
       },
       {
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 5,
+        "antiguedad_min": 21,
         "descartados_por_gancho": 0
       }
     ]

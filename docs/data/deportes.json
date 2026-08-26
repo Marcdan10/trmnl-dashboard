@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-08-26T14:39:09+02:00",
+  "generado": "2026-08-26T15:49:26+02:00",
   "titulares": [
     {
-      "titular": "La nueva trail peso medio bicilíndrica para el A2, la primera gran moto de la histórica marca italiana Malaguti, la Trovare 475",
+      "titular": "Las lágrimas de Cian Uijtdebroeks (Movistar Team) que ponen la piel de gallina antes de abandonar La Vuelta",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-26T14:14:53+02:00",
-      "enlace": "https://www.mundodeportivo.com/solomoto/20260826/1004218279/nueva-trail-peso-medio-bicilindrica-a2-primera-gran-moto-historica-marca-italiana-malaguti-trovare-475.html"
+      "fecha": "2026-08-26T15:19:01+02:00",
+      "enlace": "https://www.mundodeportivo.com/ciclismo/vuelta-espana/20260826/1004219990/lagrimas-cian-uijtdebroeks-ponen-piel-gallina-abandonar-vuelta.html"
     },
     {
-      "titular": "Izan Guevara llega a un circuito en el que ya ha ganado antes",
+      "titular": "Prado, Farrés y Fernández, formación de lujo de España para el motocross de las naciones",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-26T14:14:09+02:00",
-      "enlace": "https://www.mundodeportivo.com/motor/motogp/20260826/1004219972/izan-guevara-llega-circuito-ganado.html"
+      "fecha": "2026-08-26T15:11:39+02:00",
+      "enlace": "https://www.mundodeportivo.com/motor/mas-motor/20260826/1004219988/prado-farres-fernandez-formacion-lujo-espana-motocross-naciones.html"
     },
     {
       "titular": "Las portadas en Inglaterra con Arteta son para verlas...",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/rayo/2026/08/21/camello-agotados-situacion-distancia-tres-partes.html"
     },
     {
-      "titular": "Higor y Mouhoudine, a ganarlo todo con el Barça",
+      "titular": "Máximo Quiles ya conoce a su compañero para 2027",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/futbol-sala-barca/higor-mouhoudine-ganarlo-barca-133671533"
+      "enlace": "https://www.sport.es/es/noticias/motor/moto-gp/maximo-quiles-conoce-companero-2027-133676948"
     },
     {
-      "titular": "El primer gran movimiento de Klopp en Alemania: llamadas a los clubes para evitar conflictos",
+      "titular": "La UEFA levantará el boicot a la FIFA tras recibir garantías sobre el futuro del Mundial",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/futbol-internacional/primer-gran-movimiento-klopp-alemania-133663881"
+      "enlace": "https://www.sport.es/es/noticias/futbol-internacional/uefa-levantara-boicot-fifa-recibir-133677085"
     },
     {
-      "titular": "El defensa Dani Sánchez se desvincula del Málaga tras tres temporadas y dos ascensos",
+      "titular": "Laporta denuncia la detención en Elche y confirma que no habrá homenaje a los campeones del mundo",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-26T14:13:18+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/malaga/20260826/1004219971/defensa-dani-sanchez-desvincula-malaga-tres-temporadas-dos-ascensos.html"
+      "fecha": "2026-08-26T15:08:50+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260826/1004219987/laporta-denuncia-detencion-elche-confirma-no-habra-homenaje-campeones-mundo.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 24,
+    "antiguedad_minima_min": 30,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 7968,
+        "antiguedad_min": 8038,
         "descartados_por_gancho": 12
       },
       {
@@ -100,14 +100,14 @@
         "ok": true,
         "items": 135,
         "error": null,
-        "antiguedad_min": 24,
+        "antiguedad_min": 30,
         "descartados_por_gancho": 7
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 50,
+        "items": 49,
         "error": null,
         "antiguedad_min": null,
         "descartados_por_gancho": 0
