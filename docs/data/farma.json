@@ -2,7 +2,7 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "portadas",
-  "generado": "2026-08-26T07:28:08+02:00",
+  "generado": "2026-08-26T08:00:10+02:00",
   "titulares": [
     {
       "titular": "La CNMC plantea revisar descuentos y precios para trasladar más ahorros al SNS",
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 108,
+    "antiguedad_minima_min": 140,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 683,
+        "antiguedad_min": 715,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 1007,
+        "antiguedad_min": 1039,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 108,
+        "antiguedad_min": 140,
         "descartados_por_gancho": 0
       },
       {

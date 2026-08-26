@@ -2,16 +2,16 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-08-26T07:28:04+02:00",
+  "generado": "2026-08-26T08:00:05+02:00",
   "titulares": [
     {
-      "titular": "Alcaraz y Serena dejan para la historia su show hasta cuartos del doble mixto",
+      "titular": "Las claves de la cumbre entre Laporta y la comisión deportiva",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T23:58:57+02:00",
-      "enlace": "https://www.mundodeportivo.com/tenis/open-usa/20260825/1004219786/alcaraz-serena-dejan-historia-us-open-show-cuartos-doble-mixto.html"
+      "fecha": "2026-08-25T23:59:04+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260825/1004219787/claves-cumbre-laporta-comision-deportiva.html"
     },
     {
       "titular": "Precio de la luz para hoy, miércoles 26 de agosto: las horas más baratas y más caras",
@@ -59,13 +59,13 @@
       "enlace": "https://www.marca.com/futbol/rayo/2026/08/21/camello-agotados-situacion-distancia-tres-partes.html"
     },
     {
-      "titular": "Las claves de la cumbre entre Laporta y la comisión deportiva",
+      "titular": "Alcaraz y Serena dejan para la historia su show hasta cuartos del doble mixto",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T23:59:04+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260825/1004219787/claves-cumbre-laporta-comision-deportiva.html"
+      "fecha": "2026-08-25T23:58:57+02:00",
+      "enlace": "https://www.mundodeportivo.com/tenis/open-usa/20260825/1004219786/alcaraz-serena-dejan-historia-us-open-show-cuartos-doble-mixto.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 440,
+    "antiguedad_minima_min": 50,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 7537,
+        "antiguedad_min": 7569,
         "descartados_por_gancho": 12
       },
       {
@@ -98,10 +98,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 139,
+        "items": 134,
         "error": null,
-        "antiguedad_min": 440,
-        "descartados_por_gancho": 2
+        "antiguedad_min": 50,
+        "descartados_por_gancho": 5
       },
       {
         "medio": "Sport",
