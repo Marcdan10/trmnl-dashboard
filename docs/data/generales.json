@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-08-26T06:33:17+02:00",
+  "generado": "2026-08-26T07:27:59+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -23,22 +23,22 @@
       "enlace": "https://elpais.com/espana/madrid/2026-08-26/el-encargo-del-gobierno-de-ayuso-a-la-inmobiliaria-de-lujo-que-vendio-el-atico-entre-250-y-400-metros-y-una-gran-terraza.html"
     },
     {
-      "titular": "Defensa e Interior exhiben versiones contrarias sobre los avisos previos a la crisis de Ceuta",
+      "titular": "Marlaska y Robles discrepan sobre si el CNI avisó del alud de Ceuta",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T15:24:21+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20260825/11619830/defensa-e-interior-exhiben-versiones-contrarias-sobre-avisos-previos-crisis-ceuta.html"
+      "fecha": "2026-08-26T06:00:00+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20260826/11619977/gobierno-admite-informo-aumento-entradas-ceuta-envergadura.html"
     },
     {
-      "titular": "Etapa 5 de LaVuelta hoy, miércoles: recorrido, perfil, horario y dónde ver online y en televisión",
+      "titular": "Cuál es el origen de los tomates que se lanzan en la Tomatina de Buñol: «No son aptos para el consumo»",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-08-26T06:00:01+02:00",
-      "enlace": "https://www.abc.es/deportes/ciclismo/etapa-5-lavuelta-hoy-miercoles-recorrido-perfil-horario-donde-ver-20260826060000-nt.html"
+      "fecha": "2026-08-26T06:40:48+02:00",
+      "enlace": "https://www.abc.es/espana/comunidad-valenciana/origen-tomates-lanzan-tomatina-bunol-aptos-consumo-20260825161950-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -59,13 +59,13 @@
       "enlace": "https://elpais.com/espana/2026-08-26/robles-indigna-al-resto-del-gobierno-al-chocar-con-marlaska-y-plantear-que-el-cni-si-aviso-de-que-venia-un-gran-salto-en-ceuta.html"
     },
     {
-      "titular": "Robles apunta al ataque híbrido de un “actor interesado” en desestabilizar España",
+      "titular": "Etapa 5 de LaVuelta hoy, miércoles: recorrido, perfil, horario y dónde ver online y en televisión",
       "medios": [
-        "La Vanguardia"
+        "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-08-26T00:05:00+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20260826/11619996/robles-apunta-ataque-hibrido-actor-interesado-desestabilizar-espana.html"
+      "fecha": "2026-08-26T06:00:01+02:00",
+      "enlace": "https://www.abc.es/deportes/ciclismo/etapa-5-lavuelta-hoy-miercoles-recorrido-perfil-horario-donde-ver-20260826060000-nt.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 18,
+    "antiguedad_minima_min": 7,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2215048,
+        "antiguedad_min": 2215102,
         "descartados_por_gancho": 0
       },
       {
@@ -97,19 +97,19 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 139,
+        "items": 140,
         "error": null,
-        "antiguedad_min": 18,
+        "antiguedad_min": 7,
         "descartados_por_gancho": 4
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 115,
+        "items": 110,
         "error": null,
-        "antiguedad_min": 363,
-        "descartados_por_gancho": 10
+        "antiguedad_min": 27,
+        "descartados_por_gancho": 14
       },
       {
         "medio": "ABC",
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 24,
         "error": null,
-        "antiguedad_min": 33,
+        "antiguedad_min": 47,
         "descartados_por_gancho": 1
       }
     ]

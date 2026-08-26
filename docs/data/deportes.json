@@ -2,7 +2,7 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-08-26T06:33:21+02:00",
+  "generado": "2026-08-26T07:28:04+02:00",
   "titulares": [
     {
       "titular": "Alcaraz y Serena dejan para la historia su show hasta cuartos del doble mixto",
@@ -14,13 +14,13 @@
       "enlace": "https://www.mundodeportivo.com/tenis/open-usa/20260825/1004219786/alcaraz-serena-dejan-historia-us-open-show-cuartos-doble-mixto.html"
     },
     {
-      "titular": "Julián Álvarez, un polvorín para el Atlético: \"Está devastado\"",
+      "titular": "Precio de la luz para hoy, miércoles 26 de agosto: las horas más baratas y más caras",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/barca/julian-alvarez-polvorin-atletico-devastado-133654954"
+      "enlace": "https://www.sport.es/es/noticias/economia/precio-luz-hoy-miercoles-26-agosto-horas-baratas-caras-133656117"
     },
     {
       "titular": "Las portadas en Inglaterra con Arteta son para verlas...",
@@ -41,13 +41,13 @@
       "enlace": "https://www.mundodeportivo.com/tenis/open-usa/20260825/1004219777/alcaraz-serena-williams-arrasan-debut-doble-mixto-us-open.html"
     },
     {
-      "titular": "El Madrid se reencontrará con el Bernabéu en la vuelta de Mourinho",
+      "titular": "El icónico número de Álex Gomes en el Venezia y su espera para debutar en la Serie A",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/real-madrid/madrid-reencontrara-bernabeu-vuelta-mourinho-133646919"
+      "enlace": "https://www.sport.es/es/noticias/futbol/iconico-numero-alex-gomes-venezia-133659991"
     },
     {
       "titular": "\"Si hubiese estado fresco no habríamos perdido\"",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 385,
+    "antiguedad_minima_min": 440,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 7482,
+        "antiguedad_min": 7537,
         "descartados_por_gancho": 12
       },
       {
@@ -100,17 +100,17 @@
         "ok": true,
         "items": 139,
         "error": null,
-        "antiguedad_min": 385,
+        "antiguedad_min": 440,
         "descartados_por_gancho": 2
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 49,
+        "items": 50,
         "error": null,
         "antiguedad_min": null,
-        "descartados_por_gancho": 1
+        "descartados_por_gancho": 0
       },
       {
         "medio": "NBA",

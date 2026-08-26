@@ -2,7 +2,7 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "portadas",
-  "generado": "2026-08-26T06:33:20+02:00",
+  "generado": "2026-08-26T07:28:02+02:00",
   "titulares": [
     {
       "titular": "Santander traspasa 1.200 sucursales a autónomos",
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 255,
+    "antiguedad_minima_min": 310,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 64,
+        "items": 65,
         "error": null,
-        "antiguedad_min": 255,
+        "antiguedad_min": 310,
         "descartados_por_gancho": 1
       },
       {
