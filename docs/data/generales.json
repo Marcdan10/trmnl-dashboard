@@ -2,61 +2,62 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-08-26T20:13:37+02:00",
+  "generado": "2026-08-26T22:27:46+02:00",
   "titulares": [
     {
-      "titular": "Más allá de la deshidratación: más de 30 diagnósticos por los que el calor extremo nos manda al hospital",
+      "titular": "El juez archiva la querella que presentó Errejón contra Mouliáa por calumnias",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-08-26T19:59:59+02:00",
-      "enlace": "https://elpais.com/salud-y-bienestar/2026-08-26/mas-alla-de-la-deshidratacion-mas-de-30-diagnosticos-por-los-que-el-calor-extremo-nos-manda-al-hospital.html"
+      "fecha": "2026-08-26T22:27:16+02:00",
+      "enlace": "https://elpais.com/espana/2026-08-26/el-juez-archiva-la-querella-que-presento-errejon-contra-mouliaa-por-calumnias.html"
     },
     {
-      "titular": "Una colosal catástrofe arrasa la frontera entre Nepal y China",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-26T19:59:50+02:00",
-      "enlace": "https://www.abc.es/internacional/colosal-catastrofe-natural-devasta-frontera-nepal-china-20260826190558-nt.html"
-    },
-    {
-      "titular": "Al menos 160 muertos y 600 desaparecidos, la mayoría turistas",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-26T19:57:25+02:00",
-      "enlace": "https://www.abc.es/internacional/riada-nepal-directo-muertos-desaparecidos-ultima-hora-20260826162053-di.html"
-    },
-    {
-      "titular": "Los vídeos y las imágenes de la riada en Nepal",
+      "titular": "Real Madrid - Real Sociedad en directo | Mbappé marca su segundo gol para poner por delante al Madrid",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-08-26T19:27:11+02:00",
-      "enlace": "https://elpais.com/videos/2026-08-26/los-videos-y-las-imagenes-de-la-riada-en-nepal.html"
+      "fecha": "2026-08-26T22:24:35+02:00",
+      "enlace": "https://elpais.com/deportes/futbol/2026-08-26/real-madrid-real-sociedad-en-directo-el-partido-de-la-liga-en-vivo.html"
     },
     {
-      "titular": "Bill Gates propone una categoría de “empleos reservados para humanos” para proteger a las personas de la IA",
+      "titular": "Sánchez suspende su viaje a Andorra entre un enorme malestar por la fuga de información",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-26T22:11:09+02:00",
+      "enlace": "https://www.abc.es/espana/sanchez-precipita-comparecencia-congreso-tras-conocerse-nuevas-20260826220010-nt.html"
+    },
+    {
+      "titular": "Ningún Tapaboca en una corrida sin la chispa de la vida",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-26T22:08:58+02:00",
+      "enlace": "https://www.abc.es/cultura/toros/quinta-bilbao-20260826212235-nt.html"
+    },
+    {
+      "titular": "Sucic empata para la Real antes del descanso",
+      "medios": [
+        "La Vanguardia",
+        "ABC"
+      ],
+      "consenso": 2,
+      "fecha": "2026-08-26T22:06:07+02:00",
+      "enlace": "https://www.abc.es/deportes/real-madrid/real-madrid-real-sociedad-directo-resultado-ganador-20260826102246-di.html"
+    },
+    {
+      "titular": "En estado crítico un joven que se ha precipitado por un balcón cuando huía de los Mossos",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-08-26T19:06:37+02:00",
-      "enlace": "https://www.lavanguardia.com/economia/20260826/11620620/bill-gates-propone-categoria-empleos-reservados-humanos-proteger-mercado-laboral-ia.html"
-    },
-    {
-      "titular": "Xiaomi despide agosto por todo lo alto: el POCO X8 Pro y el Redmi Watch 5, entre sus últimas grandes rebajas",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-26T19:00:00+02:00",
-      "enlace": "https://www.lavanguardia.com/comprar/tecnologia/20260826/11620034/xiaomi-despide-agosto-alto-poco-x8-pro-redmi-watch-5-ultimas-grandes-rebajas-mkt-alie.html"
+      "fecha": "2026-08-26T21:39:29+02:00",
+      "enlace": "https://www.lavanguardia.com/local/barcelona/20260826/11620662/critico-joven-precipitado-balcon-raval-intentaba-huir-mossos.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -74,7 +75,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 13,
+    "antiguedad_minima_min": 0,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +83,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2215868,
+        "antiguedad_min": 2216002,
         "descartados_por_gancho": 0
       },
       {
@@ -97,9 +98,9 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 148,
+        "items": 151,
         "error": null,
-        "antiguedad_min": 13,
+        "antiguedad_min": 0,
         "descartados_por_gancho": 3
       },
       {
@@ -108,17 +109,17 @@
         "ok": true,
         "items": 123,
         "error": null,
-        "antiguedad_min": 67,
+        "antiguedad_min": 48,
         "descartados_por_gancho": 15
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 25,
+        "items": 24,
         "error": null,
-        "antiguedad_min": 13,
-        "descartados_por_gancho": 0
+        "antiguedad_min": 16,
+        "descartados_por_gancho": 1
       }
     ]
   }

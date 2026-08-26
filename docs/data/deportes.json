@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-08-26T20:13:42+02:00",
+  "generado": "2026-08-26T22:27:51+02:00",
   "titulares": [
     {
-      "titular": "Real Madrid - Real Sociedad, en directo",
+      "titular": "\"Para eliminar cucarachas no hay que echar insecticidas dentro de casa\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-26T19:49:14+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260826/1004219295/real-madrid-real-sociedad-directo-laliga-ea-sports-futbol-primera-division.html"
+      "fecha": "2026-08-26T21:52:24+02:00",
+      "enlace": "https://www.mundodeportivo.com/economia-hogar/20260826/1004220078/ricardo-jimenez-experto-plagas-eliminar-cucarachas-no-hay-echar-insecticidas-casa-ejercen-efecto-expulsion-smd.html"
     },
     {
-      "titular": "Marcha atrás del Celta por \"un jugador vital\" para Giráldez",
+      "titular": "Descanso: Sucic responde al gol de Mbappé",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-26T19:41:10+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/20260826/1004220069/marcha-celta-jugador-vital-giraldez.html"
+      "fecha": "2026-08-26T21:48:45+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260826/1004219295/real-madrid-real-sociedad-directo-laliga-ea-sports-futbol-primera-division-jornada-1.html"
     },
     {
       "titular": "Las portadas en Inglaterra con Arteta son para verlas...",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/rayo/2026/08/21/camello-agotados-situacion-distancia-tres-partes.html"
     },
     {
-      "titular": "Óscar Pereiro 'aplaude' la lectura de carrera de Tadej Pogacar: \"Sigue siendo el corredor más fuerte del mundo, pero su equipo no está al nivel del Tour\"",
+      "titular": "Pitos en el Bernabéu al Real Madrid en el estreno de Mourinho como local",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/ciclismo/oscar-pereiro-aplaude-lectura-carrera-133684441"
+      "enlace": "https://www.sport.es/es/noticias/real-madrid/pitos-bernabeu-real-madrid-estreno-133686835"
     },
     {
-      "titular": "El Oviedo la tiene y el Albacete no la quiere: la clave en el Belmonte pasa por la pelota",
+      "titular": "Manolo Lama señala a Konaté tras el gol de la Real Sociedad: “Tenía que regalar una”",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/oviedo/oviedo-albacete-quiere-clave-belmonte-133685530"
+      "enlace": "https://www.sport.es/es/noticias/real-madrid/manolo-lama-senala-konate-gol-133687287"
     },
     {
-      "titular": "Aldi rebaja esta refrescante fruta para despedirse del verano con sabor: estará de oferta hasta esta fecha",
+      "titular": "2-1: Un genial Bisiwu da brillo al triunfo del Barça Atlètic",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-26T19:30:59+02:00",
-      "enlace": "https://www.mundodeportivo.com/actualidad/20260826/1004219855/aldi-rebaja-refrescante-fruta-despedir-verano-sabor-estara-oferta-fecha-smd.html"
+      "fecha": "2026-08-26T21:35:46+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260826/1004220092/2-1-genial-bisiwu-da-brillo-triunfo-barca-atletic.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 24,
+    "antiguedad_minima_min": 35,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 8302,
+        "antiguedad_min": 8437,
         "descartados_por_gancho": 12
       },
       {
@@ -100,14 +100,14 @@
         "ok": true,
         "items": 137,
         "error": null,
-        "antiguedad_min": 24,
+        "antiguedad_min": 35,
         "descartados_por_gancho": 6
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 49,
+        "items": 50,
         "error": null,
         "antiguedad_min": null,
         "descartados_por_gancho": 0
