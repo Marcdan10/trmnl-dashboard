@@ -1,17 +1,17 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "portadas",
-  "generado": "2026-08-26T11:34:57+02:00",
+  "modo": "ultimas",
+  "generado": "2026-08-26T12:29:14+02:00",
   "titulares": [
     {
-      "titular": "Destacan el papel del laboratorio clínico en la implantación del cribado prenatal",
+      "titular": "El Hospital de Canarias defiende su formación sanitaria y avala su gestión con un 85% de retención MIR",
       "medios": [
-        "Diariofarma"
+        "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-08-26T07:56:48+02:00",
-      "enlace": "https://diariofarma.com/2026/08/26/expertas-destacan-el-papel-del-laboratorio-clinico-en-la-implantacion-equitativa-del-cribado-prenatal"
+      "fecha": "2026-08-26T11:38:54+02:00",
+      "enlace": "https://www.redaccionmedica.com/formacion/mir/20260826/el-hospital-de-canarias-defiende-su-formacion-sanitaria-avala-gestion-con-un-retencion-mir/349635_0.html"
     },
     {
       "titular": "La industria farmacéutica pide que el brote de ébola Bundibugyo sirva de «llamada de atención» para el Tratado de Pandemias",
@@ -23,13 +23,22 @@
       "enlace": "https://elglobalfarma.com/industria/industria-farmaceutica-brote-ebola-bundibugyo-llamada-atencion-tratado-pandemias/"
     },
     {
-      "titular": "Los farmacéuticos de Ceuta se vuelcan contra la sarna y niegan inseguridad en las oficinas",
+      "titular": "Destacan el papel del laboratorio clínico en la implantación del cribado prenatal",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-26T07:56:48+02:00",
+      "enlace": "https://diariofarma.com/2026/08/26/expertas-destacan-el-papel-del-laboratorio-clinico-en-la-implantacion-equitativa-del-cribado-prenatal"
+    },
+    {
+      "titular": "Por qué la melatonina no sirve para todos los insomnios, según una farmacéutica: \"No te va a dejar K.O\"",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-08-26T05:00:00+02:00",
-      "enlace": "https://www.redaccionmedica.com/profesionales/farmacia/20260826/los-farmaceuticos-de-ceuta-se-vuelcan-contra-la-sarna-niegan-inseguridad-en-las-oficinas/349626_0.html"
+      "fecha": "2026-08-26T05:40:00+02:00",
+      "enlace": "https://www.redaccionmedica.com/virico/20260826/por-que-la-melatonina-no-sirve-para-todos-los-insomnios-segun-una-farmaceutica-no-te-va-dejar-ko/349344_0.html"
     },
     {
       "titular": "La CNMC plantea revisar descuentos y precios para trasladar más ahorros al SNS",
@@ -50,22 +59,13 @@
       "enlace": "https://elglobalfarma.com/farmacia/farmacia-dermatologia-formacion-protocolos-reconocimiento-profesional/"
     },
     {
-      "titular": "Un confinamiento colectivo en Ceuta sin diagnóstico ni cribado previos carece de amparo legal",
+      "titular": "Entrar a Enfermería en la privada tras seis intentos y cuatro años entre Farmacia y Nutrición: \"Perdía la esperanza\"",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T19:25:36+02:00",
-      "enlace": "https://www.redaccionmedica.com/profesionales/derecho-sanitario/20260825/un-confinamiento-colectivo-en-ceuta-sin-diagnostico-ni-cribado-previos-carece-de-amparo-legal/349629_0.html"
-    },
-    {
-      "titular": "Padilla asegura que \"no hay emergencia de salud pública en Ceuta\"",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-25T13:12:45+02:00",
-      "enlace": "https://diariofarma.com/2026/08/25/padilla-no-hay-emergencia-de-salud-publica-en-ceuta"
+      "fecha": "2026-08-26T05:30:00+02:00",
+      "enlace": "https://www.redaccionmedica.com/formacion/estudiantes/20260826/entrar-enfermeria-en-la-privada-tras-seis-intentos-cuatro-anos-entre-farmacia-nutricion-perdia-esperanza/349343_0.html"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 135,
+    "antiguedad_minima_min": 50,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 218,
+        "antiguedad_min": 272,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 135,
+        "antiguedad_min": 190,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 354,
+        "antiguedad_min": 50,
         "descartados_por_gancho": 0
       },
       {

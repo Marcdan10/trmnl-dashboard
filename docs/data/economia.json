@@ -1,44 +1,35 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "portadas",
-  "generado": "2026-08-26T11:34:51+02:00",
+  "modo": "ultimas",
+  "generado": "2026-08-26T12:29:05+02:00",
   "titulares": [
     {
-      "titular": "Santander traspasa 1.200 sucursales a autónomos",
+      "titular": "CAF consolida su crecimiento en Francia con un contrato de 150 millones en París",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-08-26T02:16:46+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/08/26/6a68f067468aeb6c578b4594.html"
+      "fecha": "2026-08-26T11:20:11+02:00",
+      "enlace": "https://www.expansion.com/pais-vasco/2026/08/26/6a8ead14468aeb585c8b456f.html"
     },
     {
-      "titular": "Los gigantes del consumo disparan sus beneficios en España",
+      "titular": "Dongfeng refuerza su presencia en España con dos modelos con hasta 10 años de garantía",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-08-26T02:16:47+02:00",
-      "enlace": "https://www.expansion.com/empresas/distribucion/2026/08/26/6a8e023de5fdea97228b458e.html"
+      "fecha": "2026-08-26T10:26:15+02:00",
+      "enlace": "https://www.expansion.com/empresas/motor/2026/08/26/6a8e9ccf468aebaa608b458d.html"
     },
     {
-      "titular": "La intervención de Bessent en el mercado de bonos enfrenta al Tesoro con la Fed",
+      "titular": "Sánchez comparecerá en el Pleno del Congreso el 3 de septiembre por la crisis en Ceuta",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-08-26T10:02:29+02:00",
-      "enlace": "https://www.expansion.com/economia/financial-times/2026/08/26/6a8e9c6ce5fdeae3358b4589.html"
-    },
-    {
-      "titular": "Un exbanquero de Deutsche, acusado de llevarse dinero en Alemania",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-26T02:17:50+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/08/26/6a8e0d61468aeb58148b4570.html"
+      "fecha": "2026-08-26T10:25:56+02:00",
+      "enlace": "https://www.expansion.com/economia/politica/2026/08/26/6a8ea311e5fdea696d8b45a7.html"
     },
     {
       "titular": "Así son las diez casas más caras a la venta en España",
@@ -50,22 +41,31 @@
       "enlace": "https://www.expansion.com/inmobiliario/mercado/2026/08/26/6a8e9864e5fdea696d8b45a0.html"
     },
     {
-      "titular": "El Ibex no pierde de vista los 20.100 en el día de Nvidia",
+      "titular": "La intervención de Bessent en el mercado de bonos enfrenta al Tesoro con la Fed",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-08-26T08:21:12+02:00",
-      "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/08/26/6a8e78e1468aebaa028b4596.html"
+      "fecha": "2026-08-26T10:02:29+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/08/26/6a8e9c6ce5fdeae3358b4589.html"
     },
     {
-      "titular": "JPMorgan y Goldman Sachs se colocan entre los más optimistas con la Bolsa europea",
+      "titular": "Las hipotecas sobre viviendas marcan el mejor junio en 16 años tras dispararse un 10,8%",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-08-26T00:02:24+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/08/26/6a8dcf22e5fdea494b8b4582.html"
+      "fecha": "2026-08-26T09:17:44+02:00",
+      "enlace": "https://www.expansion.com/inmobiliario/mercado/2026/08/26/6a8e9316468aeb05778b458d.html"
+    },
+    {
+      "titular": "La crisis de Ceuta condena al Gobierno",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-26T09:12:32+02:00",
+      "enlace": "https://www.expansion.com/opinion/2026/08/26/6a8e91dd468aeb514b8b4571.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 14,
+    "antiguedad_minima_min": 68,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 65,
+        "items": 66,
         "error": null,
-        "antiguedad_min": 14,
+        "antiguedad_min": 68,
         "descartados_por_gancho": 1
       },
       {
