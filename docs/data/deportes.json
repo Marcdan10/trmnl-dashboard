@@ -2,7 +2,7 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-08-26T08:00:05+02:00",
+  "generado": "2026-08-26T08:59:45+02:00",
   "titulares": [
     {
       "titular": "Las claves de la cumbre entre Laporta y la comisión deportiva",
@@ -12,15 +12,6 @@
       "consenso": 1,
       "fecha": "2026-08-25T23:59:04+02:00",
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260825/1004219787/claves-cumbre-laporta-comision-deportiva.html"
-    },
-    {
-      "titular": "Precio de la luz para hoy, miércoles 26 de agosto: las horas más baratas y más caras",
-      "medios": [
-        "Sport"
-      ],
-      "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/economia/precio-luz-hoy-miercoles-26-agosto-horas-baratas-caras-133656117"
     },
     {
       "titular": "Las portadas en Inglaterra con Arteta son para verlas...",
@@ -41,13 +32,13 @@
       "enlace": "https://www.mundodeportivo.com/tenis/open-usa/20260825/1004219777/alcaraz-serena-williams-arrasan-debut-doble-mixto-us-open.html"
     },
     {
-      "titular": "El icónico número de Álex Gomes en el Venezia y su espera para debutar en la Serie A",
+      "titular": "El motivo del cambio de escenario con Livakovic",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/futbol/iconico-numero-alex-gomes-venezia-133659991"
+      "enlace": "https://www.sport.es/es/noticias/barca/motivo-cambio-escenario-livakovic-133649857"
     },
     {
       "titular": "\"Si hubiese estado fresco no habríamos perdido\"",
@@ -57,6 +48,15 @@
       "consenso": 1,
       "fecha": "2026-08-21T00:07:06+02:00",
       "enlace": "https://www.marca.com/futbol/rayo/2026/08/21/camello-agotados-situacion-distancia-tres-partes.html"
+    },
+    {
+      "titular": "Adama Traoré, tras los pasos de Aubameyang",
+      "medios": [
+        "Sport"
+      ],
+      "consenso": 1,
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/laliga/adama-traore-pasos-aubameyang-133660745"
     },
     {
       "titular": "Alcaraz y Serena dejan para la historia su show hasta cuartos del doble mixto",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 50,
+    "antiguedad_minima_min": 39,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 7569,
+        "antiguedad_min": 7629,
         "descartados_por_gancho": 12
       },
       {
@@ -100,17 +100,17 @@
         "ok": true,
         "items": 134,
         "error": null,
-        "antiguedad_min": 50,
+        "antiguedad_min": 39,
         "descartados_por_gancho": 5
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 50,
+        "items": 49,
         "error": null,
         "antiguedad_min": null,
-        "descartados_por_gancho": 0
+        "descartados_por_gancho": 1
       },
       {
         "medio": "NBA",

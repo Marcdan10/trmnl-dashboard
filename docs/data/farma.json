@@ -2,16 +2,16 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "portadas",
-  "generado": "2026-08-26T08:00:10+02:00",
+  "generado": "2026-08-26T08:59:52+02:00",
   "titulares": [
     {
-      "titular": "La CNMC plantea revisar descuentos y precios para trasladar más ahorros al SNS",
+      "titular": "Destacan el papel del laboratorio clínico en la implantación del cribado prenatal",
       "medios": [
         "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T20:05:02+02:00",
-      "enlace": "https://diariofarma.com/2026/08/25/la-cnmc-plantea-revisar-descuentos-y-precios-para-trasladar-mas-ahorros-al-sns"
+      "fecha": "2026-08-26T07:56:48+02:00",
+      "enlace": "https://diariofarma.com/2026/08/26/expertas-destacan-el-papel-del-laboratorio-clinico-en-la-implantacion-equitativa-del-cribado-prenatal"
     },
     {
       "titular": "La farmacia afianza su papel en dermatología, pero reclama más formación, protocolos y reconocimiento profesional",
@@ -32,13 +32,13 @@
       "enlace": "https://www.redaccionmedica.com/profesionales/farmacia/20260826/los-farmaceuticos-de-ceuta-se-vuelcan-contra-la-sarna-niegan-inseguridad-en-las-oficinas/349626_0.html"
     },
     {
-      "titular": "Padilla asegura que \"no hay emergencia de salud pública en Ceuta\"",
+      "titular": "La CNMC plantea revisar descuentos y precios para trasladar más ahorros al SNS",
       "medios": [
         "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T13:12:45+02:00",
-      "enlace": "https://diariofarma.com/2026/08/25/padilla-no-hay-emergencia-de-salud-publica-en-ceuta"
+      "fecha": "2026-08-25T20:05:02+02:00",
+      "enlace": "https://diariofarma.com/2026/08/25/la-cnmc-plantea-revisar-descuentos-y-precios-para-trasladar-mas-ahorros-al-sns"
     },
     {
       "titular": "La CE aprueba Tecvayli en combinación con daratumumab para el mieloma múltiple en recaída o refractario",
@@ -59,13 +59,13 @@
       "enlace": "https://www.redaccionmedica.com/profesionales/derecho-sanitario/20260825/un-confinamiento-colectivo-en-ceuta-sin-diagnostico-ni-cribado-previos-carece-de-amparo-legal/349629_0.html"
     },
     {
-      "titular": "Cada vez más cerca de la cumbre nacional de la profesión",
+      "titular": "Padilla asegura que \"no hay emergencia de salud pública en Ceuta\"",
       "medios": [
         "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T10:11:47+02:00",
-      "enlace": "https://diariofarma.com/2026/08/25/cada-vez-mas-cerca-de-la-cumbre-nacional-de-la-profesion"
+      "fecha": "2026-08-25T13:12:45+02:00",
+      "enlace": "https://diariofarma.com/2026/08/25/padilla-no-hay-emergencia-de-salud-publica-en-ceuta"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 140,
+    "antiguedad_minima_min": 62,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 715,
+        "antiguedad_min": 62,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 1039,
+        "antiguedad_min": 1099,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 140,
+        "antiguedad_min": 199,
         "descartados_por_gancho": 0
       },
       {

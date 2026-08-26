@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-08-26T08:00:00+02:00",
+  "generado": "2026-08-26T08:59:39+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -32,13 +32,13 @@
       "enlace": "https://www.lavanguardia.com/politica/20260826/11619977/gobierno-admite-informo-aumento-entradas-ceuta-envergadura.html"
     },
     {
-      "titular": "Trump muestra músculo en Carolina del Sur: su candidata, sin experiencia política, se impone en primarias",
+      "titular": "Hallan los cadáveres de una pareja irlandesa desnudos junto al jacuzzi en un chalé de Cullera",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-08-26T07:41:01+02:00",
-      "enlace": "https://www.abc.es/internacional/trump-muestra-musculo-carolina-sur-candidata-experiencia-20260826074101-nt.html"
+      "fecha": "2026-08-26T08:46:53+02:00",
+      "enlace": "https://www.abc.es/espana/comunidad-valenciana/hallan-cadaveres-pareja-irlandesa-desnudos-junto-jacuzzi-20260826083747-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -59,13 +59,13 @@
       "enlace": "https://elpais.com/espana/2026-08-26/robles-indigna-al-resto-del-gobierno-al-chocar-con-marlaska-y-plantear-que-el-cni-si-aviso-de-que-venia-un-gran-salto-en-ceuta.html"
     },
     {
-      "titular": "El principal aeropuerto de Venezuela reabrirá el 1 de septiembre tras los daños causados por los terremotos",
+      "titular": "'Tadeo Jones y la lámpara maravillosa': la aventura más personal de la saga",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-08-26T07:01:37+02:00",
-      "enlace": "https://www.abc.es/internacional/principal-aeropuerto-venezuela-reabrira-septiembre-tras-danos-20260826070042-nt.html"
+      "fecha": "2026-08-26T08:37:03+02:00",
+      "enlace": "https://www.abc.es/play/cine/noticias/tadeo-jones-lampara-maravillosa-aventura-personal-saga-20260826011706-nt.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 18,
+    "antiguedad_minima_min": 12,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2215134,
+        "antiguedad_min": 2215194,
         "descartados_por_gancho": 0
       },
       {
@@ -97,9 +97,9 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 140,
+        "items": 141,
         "error": null,
-        "antiguedad_min": 39,
+        "antiguedad_min": 16,
         "descartados_por_gancho": 4
       },
       {
@@ -108,17 +108,17 @@
         "ok": true,
         "items": 111,
         "error": null,
-        "antiguedad_min": 28,
-        "descartados_por_gancho": 14
+        "antiguedad_min": 39,
+        "descartados_por_gancho": 15
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 24,
+        "items": 25,
         "error": null,
-        "antiguedad_min": 18,
-        "descartados_por_gancho": 1
+        "antiguedad_min": 12,
+        "descartados_por_gancho": 0
       }
     ]
   }
