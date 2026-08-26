@@ -2,25 +2,26 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-08-26T10:35:54+02:00",
+  "generado": "2026-08-26T11:34:53+02:00",
   "titulares": [
     {
-      "titular": "Livakovic ya pasa la revisión médica en Barcelona",
+      "titular": "Julián Álvarez no se entrena con el Atlético",
       "medios": [
-        "Mundo Deportivo"
+        "Mundo Deportivo",
+        "Sport"
       ],
-      "consenso": 1,
-      "fecha": "2026-08-26T10:05:13+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260826/1004219897/livakovic-pasa-revision-medica-barcelona.html"
+      "consenso": 2,
+      "fecha": "2026-08-26T10:54:27+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20260826/1004219913/julian-alvarez-no-entrena-atletico.html"
     },
     {
-      "titular": "El fichaje de Arnau Martínez, en cifras",
+      "titular": "El Manchester United se lanza a por Camavinga",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/valencia/fichaje-arnau-martinez-cifras-133664112"
+      "enlace": "https://www.sport.es/es/noticias/real-madrid/manchester-united-lanza-camavinga-eduardo-real-madrid-133664805"
     },
     {
       "titular": "Las portadas en Inglaterra con Arteta son para verlas...",
@@ -41,13 +42,13 @@
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260826/1004219904/gavi-no-entrena-ultima-sesion-barca-recibir-athletic-club.html"
     },
     {
-      "titular": "La Premier, rival más probable del Celta en el sorteo de la Europa League",
+      "titular": "Hansi Flick, en directo: rueda de prensa previa al partido entre FC Barcelona y Athletic Club",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/celta-de-vigo/premier-rival-probable-celta-sorteo-133663871"
+      "enlace": "https://www.sport.es/es/noticias/barca/hansi-flick-directo-rueda-prensa-barca-barcelona-athletic-club-133662821"
     },
     {
       "titular": "\"Si hubiese estado fresco no habríamos perdido\"",
@@ -59,13 +60,13 @@
       "enlace": "https://www.marca.com/futbol/rayo/2026/08/21/camello-agotados-situacion-distancia-tres-partes.html"
     },
     {
-      "titular": "Xabi Alonso acierta con Joao Pedro",
+      "titular": "Barcelona - Athletic: horario y dónde ver el partido de LaLiga EA Sports por TV y en directo",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/premier-league/xabi-alonso-acierta-joao-pedro-133661511"
+      "enlace": "https://www.sport.es/es/noticias/barca/barcelona-athletic-horario-ver-partido-133635550"
     }
   ],
   "salud": {
@@ -74,7 +75,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 7,
+    "antiguedad_minima_min": 8,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +83,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 7725,
+        "antiguedad_min": 7784,
         "descartados_por_gancho": 12
       },
       {
@@ -98,9 +99,9 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 133,
+        "items": 132,
         "error": null,
-        "antiguedad_min": 7,
+        "antiguedad_min": 8,
         "descartados_por_gancho": 6
       },
       {

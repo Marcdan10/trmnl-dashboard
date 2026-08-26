@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-08-26T10:35:48+02:00",
+  "generado": "2026-08-26T11:34:48+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -14,13 +14,13 @@
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
     },
     {
-      "titular": "El encargo del Gobierno de Ayuso a la inmobiliaria de lujo que vendió el ático: “Entre 250 y 400 metros y una gran terraza”",
+      "titular": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Pedro Sánchez comparecerá el 3 de septiembre en el Congreso para abordar la crisis en Ceuta",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-08-26T05:30:01+02:00",
-      "enlace": "https://elpais.com/espana/madrid/2026-08-26/el-encargo-del-gobierno-de-ayuso-a-la-inmobiliaria-de-lujo-que-vendio-el-atico-entre-250-y-400-metros-y-una-gran-terraza.html"
+      "fecha": "2026-08-26T11:23:48+02:00",
+      "enlace": "https://elpais.com/espana/2026-08-26/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html"
     },
     {
       "titular": "Torres apoya la versión de Marlaska sobre la ausencia de aviso del CNI ante la crisis de Ceuta",
@@ -32,13 +32,13 @@
       "enlace": "https://www.lavanguardia.com/politica/20260826/11620237/torres-apoya-version-marlaska-sobre-ausencia-aviso-cni-sobre-crisis-ceuta.html"
     },
     {
-      "titular": "Carlos Herrera ve que Sánchez se va ahora de vacaciones a Andorra y es claro: «Vuelve a irse después de no hacer nada en Ceuta»",
+      "titular": "Dolly Parton, la reina madre del country",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-08-26T10:28:12+02:00",
-      "enlace": "https://www.abc.es/recreo/carlos-herrera-pedro-sanchez-vacaciones-andorra-claro-20260826102508-nt.html"
+      "fecha": "2026-08-26T11:17:36+02:00",
+      "enlace": "https://www.abc.es/cultura/musica/adios-dolly-parton-reina-country-20260825214355-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -50,22 +50,23 @@
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
     },
     {
-      "titular": "Robles indigna al resto del Gobierno al chocar con Marlaska y plantear que el CNI sí avisó de que venía un gran salto en Ceuta",
+      "titular": "Fallecen la madre y la hija que resultaron heridas al caerles encima un muro durante el temporal de Tarragona",
       "medios": [
-        "El País"
+        "El País",
+        "ABC"
       ],
-      "consenso": 1,
-      "fecha": "2026-08-26T05:30:01+02:00",
-      "enlace": "https://elpais.com/espana/2026-08-26/robles-indigna-al-resto-del-gobierno-al-chocar-con-marlaska-y-plantear-que-el-cni-si-aviso-de-que-venia-un-gran-salto-en-ceuta.html"
+      "consenso": 2,
+      "fecha": "2026-08-26T11:01:59+02:00",
+      "enlace": "https://www.abc.es/espana/cataluna/fallecen-madre-hija-heridas-caerles-encima-muro-20260826092942-nt.html"
     },
     {
-      "titular": "El CNI alertó el día antes a Interior del asalto de 180.000 inmigrantes a Ceuta",
+      "titular": "El presidente comparecerá en el Congreso por la crisis de Ceuta el 9 de septiembre",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-08-26T10:20:25+02:00",
-      "enlace": "https://www.abc.es/espana/robles-marlaska-vuelven-enzarzar-sobre-papel-cni-20260825014320-nt.html"
+      "fecha": "2026-08-26T11:14:36+02:00",
+      "enlace": "https://www.abc.es/espana/sanchez-comparecera-congreso-crisis-ceuta-septiembre-20260826103702-nt.html"
     }
   ],
   "salud": {
@@ -74,7 +75,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 7,
+    "antiguedad_minima_min": 11,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +83,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2215290,
+        "antiguedad_min": 2215349,
         "descartados_por_gancho": 0
       },
       {
@@ -97,18 +98,18 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 145,
+        "items": 141,
         "error": null,
-        "antiguedad_min": 16,
+        "antiguedad_min": 11,
         "descartados_por_gancho": 4
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 112,
+        "items": 113,
         "error": null,
-        "antiguedad_min": 32,
+        "antiguedad_min": 27,
         "descartados_por_gancho": 15
       },
       {
@@ -117,7 +118,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 7,
+        "antiguedad_min": 17,
         "descartados_por_gancho": 0
       }
     ]

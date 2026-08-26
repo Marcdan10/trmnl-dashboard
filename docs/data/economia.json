@@ -2,7 +2,7 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "portadas",
-  "generado": "2026-08-26T10:35:52+02:00",
+  "generado": "2026-08-26T11:34:51+02:00",
   "titulares": [
     {
       "titular": "Santander traspasa 1.200 sucursales a autónomos",
@@ -23,13 +23,13 @@
       "enlace": "https://www.expansion.com/empresas/distribucion/2026/08/26/6a8e023de5fdea97228b458e.html"
     },
     {
-      "titular": "La Primera de Expansión sobre Mercadona, Inditex, Buffett, Huawei y SpaceX",
+      "titular": "La intervención de Bessent en el mercado de bonos enfrenta al Tesoro con la Fed",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-08-26T07:42:53+02:00",
-      "enlace": "https://www.expansion.com/podcasts/la-primera-de-expansion/2026/08/26/6a8e7820e5fdea3c7b8b4593.html"
+      "fecha": "2026-08-26T10:02:29+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/08/26/6a8e9c6ce5fdeae3358b4589.html"
     },
     {
       "titular": "Un exbanquero de Deutsche, acusado de llevarse dinero en Alemania",
@@ -41,13 +41,13 @@
       "enlace": "https://www.expansion.com/empresas/banca/2026/08/26/6a8e0d61468aeb58148b4570.html"
     },
     {
-      "titular": "La intervención de Bessent en el mercado de bonos enfrenta al Tesoro con la Fed",
+      "titular": "Así son las diez casas más caras a la venta en España",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-08-26T10:02:29+02:00",
-      "enlace": "https://www.expansion.com/economia/financial-times/2026/08/26/6a8e9c6ce5fdeae3358b4589.html"
+      "fecha": "2026-08-26T10:21:14+02:00",
+      "enlace": "https://www.expansion.com/inmobiliario/mercado/2026/08/26/6a8e9864e5fdea696d8b45a0.html"
     },
     {
       "titular": "El Ibex no pierde de vista los 20.100 en el día de Nvidia",
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 9,
+    "antiguedad_minima_min": 14,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 68,
+        "items": 65,
         "error": null,
-        "antiguedad_min": 9,
+        "antiguedad_min": 14,
         "descartados_por_gancho": 1
       },
       {
