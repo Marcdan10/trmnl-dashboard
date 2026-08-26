@@ -2,7 +2,7 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-08-26T02:55:33+02:00",
+  "generado": "2026-08-26T04:22:40+02:00",
   "titulares": [
     {
       "titular": "Alcaraz y Serena dejan para la historia su show hasta cuartos del doble mixto",
@@ -14,13 +14,13 @@
       "enlace": "https://www.mundodeportivo.com/tenis/open-usa/20260825/1004219786/alcaraz-serena-dejan-historia-us-open-show-cuartos-doble-mixto.html"
     },
     {
-      "titular": "Pablo García, sobre su posible salida al Hull City tras ganar en Mestalla: \"Sólo pienso en el presente, en disfrutar de este día y de esta victoria con el Betis, en el que llevo 15 años\"",
+      "titular": "El problema del Oviedo un ataque: una sorprendente estadística que le deja a cero",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/betis/pablo-garcia-posible-salida-hull-133657241"
+      "enlace": "https://www.sport.es/es/noticias/oviedo/problema-oviedo-ataque-sorprendente-estadistica-133658146"
     },
     {
       "titular": "Las portadas en Inglaterra con Arteta son para verlas...",
@@ -41,13 +41,13 @@
       "enlace": "https://www.mundodeportivo.com/tenis/open-usa/20260825/1004219777/alcaraz-serena-williams-arrasan-debut-doble-mixto-us-open.html"
     },
     {
-      "titular": "Pepelu habla de la falta de gol y la crítica de Mestalla",
+      "titular": "Pablo García, sobre su posible salida al Hull City tras ganar en Mestalla: \"Sólo pienso en el presente, en disfrutar de este día y de esta victoria con el Betis, en el que llevo 15 años\"",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/valencia/pepelu-habla-falta-gol-critica-133657199"
+      "enlace": "https://www.sport.es/es/noticias/betis/pablo-garcia-posible-salida-hull-133657241"
     },
     {
       "titular": "\"Si hubiese estado fresco no habríamos perdido\"",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 167,
+    "antiguedad_minima_min": 255,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 7264,
+        "antiguedad_min": 7351,
         "descartados_por_gancho": 12
       },
       {
@@ -100,7 +100,7 @@
         "ok": true,
         "items": 139,
         "error": null,
-        "antiguedad_min": 167,
+        "antiguedad_min": 255,
         "descartados_por_gancho": 2
       },
       {
