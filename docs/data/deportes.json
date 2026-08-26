@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-08-26T09:51:53+02:00",
+  "generado": "2026-08-26T10:35:54+02:00",
   "titulares": [
     {
-      "titular": "Las claves de la cumbre entre Laporta y la comisión deportiva",
+      "titular": "Livakovic ya pasa la revisión médica en Barcelona",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T23:59:04+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260825/1004219787/claves-cumbre-laporta-comision-deportiva.html"
+      "fecha": "2026-08-26T10:05:13+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260826/1004219897/livakovic-pasa-revision-medica-barcelona.html"
     },
     {
-      "titular": "A su precio mínimo histórico: la afeitadora Philips más recomendada para barba, pelo y todo el cuerpo",
+      "titular": "El fichaje de Arnau Martínez, en cifras",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/esncial/recortadora-philips-afeitadora-barba-pelo-corporal-mejor-opcion-133644291"
+      "enlace": "https://www.sport.es/es/noticias/valencia/fichaje-arnau-martinez-cifras-133664112"
     },
     {
       "titular": "Las portadas en Inglaterra con Arteta son para verlas...",
@@ -32,22 +32,22 @@
       "enlace": "https://www.marca.com/futbol/album/2026/08/21/portadas-dia.html"
     },
     {
-      "titular": "Alcaraz y Serena Williams arrasan en su debut como doble mixto en el US Open",
+      "titular": "Gavi no se entrena en la última sesión del Barça antes de recibir al Athletic Club",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T22:38:17+02:00",
-      "enlace": "https://www.mundodeportivo.com/tenis/open-usa/20260825/1004219777/alcaraz-serena-williams-arrasan-debut-doble-mixto-us-open.html"
+      "fecha": "2026-08-26T10:28:11+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260826/1004219904/gavi-no-entrena-ultima-sesion-barca-recibir-athletic-club.html"
     },
     {
-      "titular": "Barcelona reuneix l’elit del voleibol mundial",
+      "titular": "La Premier, rival más probable del Celta en el sorteo de la Europa League",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/voleibol/barcelona-reuneix-l-elit-voleibol-133661675"
+      "enlace": "https://www.sport.es/es/noticias/celta-de-vigo/premier-rival-probable-celta-sorteo-133663871"
     },
     {
       "titular": "\"Si hubiese estado fresco no habríamos perdido\"",
@@ -59,13 +59,13 @@
       "enlace": "https://www.marca.com/futbol/rayo/2026/08/21/camello-agotados-situacion-distancia-tres-partes.html"
     },
     {
-      "titular": "Alcaraz y Serena dejan para la historia su show hasta cuartos del doble mixto",
+      "titular": "Xabi Alonso acierta con Joao Pedro",
       "medios": [
-        "Mundo Deportivo"
+        "Sport"
       ],
       "consenso": 1,
-      "fecha": "2026-08-25T23:58:57+02:00",
-      "enlace": "https://www.mundodeportivo.com/tenis/open-usa/20260825/1004219786/alcaraz-serena-dejan-historia-us-open-show-cuartos-doble-mixto.html"
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/premier-league/xabi-alonso-acierta-joao-pedro-133661511"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 24,
+    "antiguedad_minima_min": 7,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 7681,
+        "antiguedad_min": 7725,
         "descartados_por_gancho": 12
       },
       {
@@ -100,7 +100,7 @@
         "ok": true,
         "items": 133,
         "error": null,
-        "antiguedad_min": 24,
+        "antiguedad_min": 7,
         "descartados_por_gancho": 6
       },
       {

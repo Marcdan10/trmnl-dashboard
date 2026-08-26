@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-08-26T09:51:46+02:00",
+  "generado": "2026-08-26T10:35:48+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -23,22 +23,22 @@
       "enlace": "https://elpais.com/espana/madrid/2026-08-26/el-encargo-del-gobierno-de-ayuso-a-la-inmobiliaria-de-lujo-que-vendio-el-atico-entre-250-y-400-metros-y-una-gran-terraza.html"
     },
     {
-      "titular": "El Gobierno admite que se informó del aumento de entradas en Ceuta pero no de un asalto “excepcional”",
+      "titular": "Torres apoya la versión de Marlaska sobre la ausencia de aviso del CNI ante la crisis de Ceuta",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-08-26T06:00:00+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20260826/11619977/gobierno-admite-informo-aumento-entradas-ceuta-envergadura.html"
+      "fecha": "2026-08-26T09:25:56+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20260826/11620237/torres-apoya-version-marlaska-sobre-ausencia-aviso-cni-sobre-crisis-ceuta.html"
     },
     {
-      "titular": "Fallecen una madre y su hija heridas al caerles encima un muro durante el temporal de Tarragona",
+      "titular": "Carlos Herrera ve que Sánchez se va ahora de vacaciones a Andorra y es claro: «Vuelve a irse después de no hacer nada en Ceuta»",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-08-26T09:41:46+02:00",
-      "enlace": "https://www.abc.es/espana/cataluna/fallecen-madre-hija-heridas-caerles-encima-muro-20260826092942-nt.html"
+      "fecha": "2026-08-26T10:28:12+02:00",
+      "enlace": "https://www.abc.es/recreo/carlos-herrera-pedro-sanchez-vacaciones-andorra-claro-20260826102508-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -59,13 +59,13 @@
       "enlace": "https://elpais.com/espana/2026-08-26/robles-indigna-al-resto-del-gobierno-al-chocar-con-marlaska-y-plantear-que-el-cni-si-aviso-de-que-venia-un-gran-salto-en-ceuta.html"
     },
     {
-      "titular": "Una habitación es hasta siete veces más cara que una matrícula completa del curso",
+      "titular": "El CNI alertó el día antes a Interior del asalto de 180.000 inmigrantes a Ceuta",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-08-26T09:38:38+02:00",
-      "enlace": "https://www.abc.es/economia/cuentas-corrientes/habitacion-siete-veces-cara-matricula-completa-curso-20260826013522-nt.html"
+      "fecha": "2026-08-26T10:20:25+02:00",
+      "enlace": "https://www.abc.es/espana/robles-marlaska-vuelven-enzarzar-sobre-papel-cni-20260825014320-nt.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 8,
+    "antiguedad_minima_min": 7,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2215246,
+        "antiguedad_min": 2215290,
         "descartados_por_gancho": 0
       },
       {
@@ -97,18 +97,18 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 143,
+        "items": 145,
         "error": null,
-        "antiguedad_min": 8,
+        "antiguedad_min": 16,
         "descartados_por_gancho": 4
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 111,
+        "items": 112,
         "error": null,
-        "antiguedad_min": 49,
+        "antiguedad_min": 32,
         "descartados_por_gancho": 15
       },
       {
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 10,
+        "antiguedad_min": 7,
         "descartados_por_gancho": 0
       }
     ]
