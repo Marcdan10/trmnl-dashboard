@@ -2,25 +2,34 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-08-26T15:49:24+02:00",
+  "generado": "2026-08-26T16:37:52+02:00",
   "titulares": [
-    {
-      "titular": "Meta pagará 16.700 millones de dólares para cerrar el caso por adicción a las redes sociales",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-26T15:26:35+02:00",
-      "enlace": "https://www.expansion.com/economia-digital/2026/08/26/6a8ee87a468aeb3e148b457a.html"
-    },
     {
       "titular": "El PIB de EEUU crece un 0,4% en el segundo trimestre",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-08-26T15:24:04+02:00",
+      "fecha": "2026-08-26T15:46:54+02:00",
       "enlace": "https://www.expansion.com/economia/2026/08/26/6a8ee8f2e5fdeaed298b4574.html"
+    },
+    {
+      "titular": "El Ibex supera los 20.100 puntos en el día de Nvidia",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-26T15:44:41+02:00",
+      "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/08/26/6a8e78e1468aebaa028b4596.html"
+    },
+    {
+      "titular": "Meta pagará 16.700 millones de dólares para cerrar el caso por adicción entre menores a las redes",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-26T15:26:35+02:00",
+      "enlace": "https://www.expansion.com/economia-digital/2026/08/26/6a8ee87a468aeb3e148b457a.html"
     },
     {
       "titular": "Trump prorroga el bloqueo a Cuba hasta septiembre de 2027",
@@ -57,15 +66,6 @@
       "consenso": 1,
       "fecha": "2026-08-26T14:03:59+02:00",
       "enlace": "https://www.expansion.com/catalunya/2026/08/26/6a8ed129e5fdea96378b456d.html"
-    },
-    {
-      "titular": "Santa Bárbara reduce un 30% su beneficio por menores extraordinarios, dispara sus márgenes y se estanca en ingresos",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-26T13:56:40+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/08/26/6a8ed447468aeb8f418b457b.html"
     }
   ],
   "salud": {
@@ -78,7 +78,7 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 22,
+    "antiguedad_minima_min": 50,
     "detalle": [
       {
         "medio": "Expansión",
@@ -86,7 +86,7 @@
         "ok": true,
         "items": 70,
         "error": null,
-        "antiguedad_min": 22,
+        "antiguedad_min": 50,
         "descartados_por_gancho": 1
       },
       {

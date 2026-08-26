@@ -2,25 +2,26 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-08-26T15:49:26+02:00",
+  "generado": "2026-08-26T16:37:53+02:00",
   "titulares": [
     {
-      "titular": "Las lágrimas de Cian Uijtdebroeks (Movistar Team) que ponen la piel de gallina antes de abandonar La Vuelta",
+      "titular": "La psicología explica por qué las personas no pueden parar de comer en los buffets libres",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-26T15:19:01+02:00",
-      "enlace": "https://www.mundodeportivo.com/ciclismo/vuelta-espana/20260826/1004219990/lagrimas-cian-uijtdebroeks-ponen-piel-gallina-abandonar-vuelta.html"
+      "fecha": "2026-08-26T16:21:38+02:00",
+      "enlace": "https://www.mundodeportivo.com/pulso/20260826/1004219991/psicologia-dice-personas-no-parar-comer-buffets-libres-no-poca-fuerza-voluntad-caen-efecto-variedad-dct.html"
     },
     {
-      "titular": "Prado, Farrés y Fernández, formación de lujo de España para el motocross de las naciones",
+      "titular": "Acelerón de la Real Sociedad por Héctor Fort",
       "medios": [
-        "Mundo Deportivo"
+        "Mundo Deportivo",
+        "Sport"
       ],
-      "consenso": 1,
-      "fecha": "2026-08-26T15:11:39+02:00",
-      "enlace": "https://www.mundodeportivo.com/motor/mas-motor/20260826/1004219988/prado-farres-fernandez-formacion-lujo-espana-motocross-naciones.html"
+      "consenso": 2,
+      "fecha": "2026-08-26T16:15:17+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260826/1004220000/aceleron-real-sociedad-hector-fort.html"
     },
     {
       "titular": "Las portadas en Inglaterra con Arteta son para verlas...",
@@ -41,31 +42,31 @@
       "enlace": "https://www.marca.com/futbol/rayo/2026/08/21/camello-agotados-situacion-distancia-tres-partes.html"
     },
     {
-      "titular": "Máximo Quiles ya conoce a su compañero para 2027",
+      "titular": "Mala suerte para el Sporting: Gaspar Campos enciende las alarmas Mareo y apunta a baja en Tenerife",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/motor/moto-gp/maximo-quiles-conoce-companero-2027-133676948"
+      "enlace": "https://www.sport.es/es/noticias/futbol/mala-suerte-sporting-gaspar-campos-133678487"
     },
     {
-      "titular": "La UEFA levantará el boicot a la FIFA tras recibir garantías sobre el futuro del Mundial",
+      "titular": "La Federación italiana retira su apoyo a Infantino",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/futbol-internacional/uefa-levantara-boicot-fifa-recibir-133677085"
+      "enlace": "https://www.sport.es/es/noticias/futbol-internacional/federacion-italiana-retira-apoyo-infantino-133675692"
     },
     {
-      "titular": "Laporta denuncia la detención en Elche y confirma que no habrá homenaje a los campeones del mundo",
+      "titular": "Un motorista de 69 años huye de la policía en Palencia, se salta dos semáforos y acaba intentando dar un cabezazo a un agente",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-26T15:08:50+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260826/1004219987/laporta-denuncia-detencion-elche-confirma-no-habra-homenaje-campeones-mundo.html"
+      "fecha": "2026-08-26T16:10:55+02:00",
+      "enlace": "https://www.mundodeportivo.com/solomoto/20260826/1004219995/motorista-69-anos-huye-policia-palencia-salta-dos-semaforos-acaba-intentando-dar-cabezazo-agente.html"
     }
   ],
   "salud": {
@@ -74,7 +75,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 30,
+    "antiguedad_minima_min": 16,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +83,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 8038,
+        "antiguedad_min": 8087,
         "descartados_por_gancho": 12
       },
       {
@@ -98,9 +99,9 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 135,
+        "items": 137,
         "error": null,
-        "antiguedad_min": 30,
+        "antiguedad_min": 16,
         "descartados_por_gancho": 7
       },
       {

@@ -2,61 +2,62 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-08-26T15:49:21+02:00",
+  "generado": "2026-08-26T16:37:49+02:00",
   "titulares": [
+    {
+      "titular": "Al menos 47 heridos, tres de ellos graves, tras explotar varios cohetes en el chupinazo de Noáin",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-26T16:34:40+02:00",
+      "enlace": "https://www.abc.es/espana/navarra/heridos-tres-graves-tras-explotar-varios-cohetes-20260826144400-nt.html"
+    },
+    {
+      "titular": "Laporta promueve otro aquelarre independentista en el Camp Nou: no habrá homenaje a los campeones del mundo",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-26T16:30:21+02:00",
+      "enlace": "https://www.abc.es/deportes/futbol/llamada-independentista-camp-nou-homenaje-seleccion-dia-20260826152959-nt.html"
+    },
+    {
+      "titular": "Dos hijos hallan muertos a sus padres, un matrimonio irlandés, dentro del jacuzzi en Cullera",
+      "medios": [
+        "La Vanguardia",
+        "ABC"
+      ],
+      "consenso": 2,
+      "fecha": "2026-08-26T16:27:23+02:00",
+      "enlace": "https://www.abc.es/espana/comunidad-valenciana/hallan-cadaveres-pareja-irlandesa-desnudos-junto-jacuzzi-20260826083747-nt.html"
+    },
     {
       "titular": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Pedro Sánchez comparecerá el 3 de septiembre en el Congreso para abordar la crisis en Ceuta",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-08-26T15:42:51+02:00",
+      "fecha": "2026-08-26T16:11:01+02:00",
       "enlace": "https://elpais.com/espana/2026-08-26/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html"
     },
     {
-      "titular": "Junts endurece su discurso y reclama competencias en inmigración para Cataluña: “No podemos esperar ni un minuto más”",
+      "titular": "Un médico desde el terreno: “En Congo, el ébola no huele a estadística; huele a cloro”",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-08-26T15:37:03+02:00",
-      "enlace": "https://elpais.com/espana/2026-08-26/junts-endurece-su-discurso-y-reclama-competencias-en-inmigracion-para-cataluna-no-podemos-esperar-ni-un-minuto-mas.html"
+      "fecha": "2026-08-26T16:00:00+02:00",
+      "enlace": "https://elpais.com/planeta-futuro/2026-08-26/un-medico-desde-el-terreno-en-congo-el-ebola-no-huele-a-estadistica-huele-a-cloro.html"
     },
     {
-      "titular": "Una fuerte riada causa al menos 22 muertos en Nepal y hay 384 turistas desaparecidos",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-26T15:27:40+02:00",
-      "enlace": "https://www.abc.es/internacional/fuerte-inundacion-arrasa-rasuwa-nepal-deja-muertos-20260826104211-nt.html"
-    },
-    {
-      "titular": "Sánchez se vuelve a ir de vacaciones tras tener que rectificar toda su gestión",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-26T15:22:32+02:00",
-      "enlace": "https://www.abc.es/espana/sanchez-vuelve-vacaciones-tras-corregir-gestion-ceuta-20260825014546-nt.html"
-    },
-    {
-      "titular": "Que la vuelta a la rutina te pille a la moda: Dockers hunde precios con ofertas únicas para mejorar tus outfits de septiembre",
+      "titular": "Meta pacta pagar 17.100 millones de dólares para cerrar el juicio por atacar la salud de los niños",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-08-26T14:32:55+02:00",
-      "enlace": "https://www.lavanguardia.com/comprar/moda-belleza/20260826/11620352/vuelta-rutina-te-pille-moda-dockers-hunde-precios-ofertas-unicas-septiembre-mkt-dock.html"
-    },
-    {
-      "titular": "Más de 40 heridos, tres de ellos hospitalizados, por una explosión durante el 'chupinazo' de Noáin",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-26T14:25:23+02:00",
-      "enlace": "https://www.lavanguardia.com/local/navarra/20260826/11620482/cincuenta-heridos-explotar-material-pirotecnico-fiestas-noain-navarra.html"
+      "fecha": "2026-08-26T15:29:41+02:00",
+      "enlace": "https://www.lavanguardia.com/vida/20260826/11620521/meta-pacta-pagar-16-680-millones-dolares-cerrar-juicio-atacar-salud-ninos.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -74,7 +75,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 6,
+    "antiguedad_minima_min": 3,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +83,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2215604,
+        "antiguedad_min": 2215652,
         "descartados_por_gancho": 0
       },
       {
@@ -97,18 +98,18 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 144,
+        "items": 146,
         "error": null,
-        "antiguedad_min": 6,
+        "antiguedad_min": 26,
         "descartados_por_gancho": 3
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 117,
+        "items": 118,
         "error": null,
-        "antiguedad_min": 76,
+        "antiguedad_min": 68,
         "descartados_por_gancho": 15
       },
       {
@@ -117,7 +118,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 21,
+        "antiguedad_min": 3,
         "descartados_por_gancho": 0
       }
     ]
