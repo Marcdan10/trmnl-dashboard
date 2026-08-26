@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-08-26T12:29:02+02:00",
+  "generado": "2026-08-26T13:02:46+02:00",
   "titulares": [
     {
       "titular": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Pedro Sánchez comparecerá el 3 de septiembre en el Congreso para abordar la crisis en Ceuta",
@@ -10,35 +10,44 @@
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-08-26T12:18:32+02:00",
+      "fecha": "2026-08-26T12:52:24+02:00",
       "enlace": "https://elpais.com/espana/2026-08-26/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html"
     },
     {
-      "titular": "Interpol detiene a Hamlyn, el empresario de los hidrocarburos que buscó trapos sucios de la UCO junto a Leire Díez",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-26T12:16:42+02:00",
-      "enlace": "https://www.abc.es/espana/interpol-detiene-abu-dabi-hamlyn-empresario-hidrocarburos-20260826121354-nt.html"
-    },
-    {
-      "titular": "Así es el exclusivo hotel en el que Sánchez y Begoña Gómez pasarán sus vacaciones en Andorra",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-26T12:15:05+02:00",
-      "enlace": "https://www.abc.es/summum/exclusivo-hotel-sanchez-begona-gomez-pasaran-vacaciones-20260826121129-nt.html"
-    },
-    {
-      "titular": "Catorce heridos en el único encierro nocturno de las fiestas de San Sebastián de los Reyes",
+      "titular": "Una fuerte riada causa al menos 16 muertos en Nepal y decenas de desaparecidos y víctimas en Tíbet",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-08-26T11:56:20+02:00",
-      "enlace": "https://elpais.com/espana/madrid/2026-08-26/catorce-heridos-en-el-unico-encierro-nocturno-de-las-fiestas-de-san-sebastian-de-los-reyes.html"
+      "fecha": "2026-08-26T12:50:38+02:00",
+      "enlace": "https://elpais.com/internacional/2026-08-26/una-fuerte-riada-causa-varios-muertos-en-nepal-y-un-numero-indeterminado-de-victimas-en-tibet.html"
+    },
+    {
+      "titular": "La familia de un catalán de 29 años pide ayuda para pagar 65.000 euros por una operación tras sufrir un accidente en Tailandia",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-26T12:48:26+02:00",
+      "enlace": "https://www.abc.es/espana/cataluna/marc-obligado-pagar-mil-euros-tras-sufrir-20260826120703-nt.html"
+    },
+    {
+      "titular": "Dolly Parton, la reina madre del country",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-26T12:46:18+02:00",
+      "enlace": "https://www.abc.es/cultura/musica/adios-dolly-parton-reina-country-20260825214355-nt.html"
+    },
+    {
+      "titular": "5 condiciones básicas que debe cumplir tu patinete eléctrico para circular por la ciudad (y los mejores modelos que están en oferta)",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-26T12:42:57+02:00",
+      "enlace": "https://www.lavanguardia.com/comprar/motor/20260826/11620272/5-condiciones-basicas-patinete-electrico-circular-ciudad-mejores-modelos-oferta-mkt-alie.html"
     },
     {
       "titular": "El presidente comparecerá en el Congreso por la crisis de Ceuta el 3 de septiembre",
@@ -47,17 +56,8 @@
         "ABC"
       ],
       "consenso": 2,
-      "fecha": "2026-08-26T11:50:28+02:00",
+      "fecha": "2026-08-26T12:38:11+02:00",
       "enlace": "https://www.abc.es/espana/sanchez-comparecera-congreso-crisis-ceuta-septiembre-20260826103702-nt.html"
-    },
-    {
-      "titular": "La Alhambra reabre gradualmente sus puertas y recupera parte de sus recorridos tras los terremotos",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-26T11:37:25+02:00",
-      "enlace": "https://www.lavanguardia.com/local/andalucia/20260826/11620325/alhambra-reabre-gradualmente-puertas-recupera-parte-recorridos-terremotos.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2215403,
+        "antiguedad_min": 2215437,
         "descartados_por_gancho": 0
       },
       {
@@ -98,7 +98,7 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 142,
+        "items": 144,
         "error": null,
         "antiguedad_min": 10,
         "descartados_por_gancho": 4
@@ -107,9 +107,9 @@
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 113,
+        "items": 114,
         "error": null,
-        "antiguedad_min": 51,
+        "antiguedad_min": 19,
         "descartados_por_gancho": 15
       },
       {
@@ -118,7 +118,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 12,
+        "antiguedad_min": 14,
         "descartados_por_gancho": 0
       }
     ]

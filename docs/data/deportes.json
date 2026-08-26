@@ -2,26 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-08-26T12:29:08+02:00",
+  "generado": "2026-08-26T13:02:51+02:00",
   "titulares": [
     {
-      "titular": "El motivo detrás de la obcecación de Julián Álvarez para no volver a Inglaterra",
+      "titular": "Saliba: \"Es un gran paso en mi carrera jugar en el Villarreal\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-26T11:50:39+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20260826/1004219926/motivo-detras-obcecacion-julian-alvarez-no-volver-inglaterra.html"
+      "fecha": "2026-08-26T12:54:06+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/villarreal/20260826/1004219940/saliba-gran-paso-mi-carrera-jugar-villarreal.html"
     },
     {
-      "titular": "Rueda de prensa de Flick, en directo:Barcelona - Athletic Club",
+      "titular": "Flick, sobre Julián y el '9': \"Deco y yo estamos de acuerdo con Laporta\"",
       "medios": [
-        "Mundo Deportivo",
-        "Sport"
+        "Mundo Deportivo"
       ],
-      "consenso": 2,
-      "fecha": "2026-08-26T11:49:13+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260826/1004219158/rueda-prensa-flick-directo-ultima-hora-previa-barcelona-athletic-club.html"
+      "consenso": 1,
+      "fecha": "2026-08-26T12:50:05+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260826/1004219937/flick-sobre-julian-9-deco-acuerdo-laporta.html"
     },
     {
       "titular": "Las portadas en Inglaterra con Arteta son para verlas...",
@@ -42,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/rayo/2026/08/21/camello-agotados-situacion-distancia-tres-partes.html"
     },
     {
-      "titular": "El Real Madrid, patrocinador oficial del GP de España de F1 en el Madring",
+      "titular": "Así funciona la Champions League 2026/2027: formato liguilla, sin fase de grupos y con novedades",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/motor/formula1/real-madrid-patrocinador-oficial-gp-133668087"
+      "enlace": "https://www.sport.es/es/noticias/champions/funciona-champions-league-2026-2027-133669300"
     },
     {
-      "titular": "Flick, sobre Julián: \"Creo que el presidente ayer lo dejó claro. Deco y yo estamos de acuerdo\"",
+      "titular": "Geni, transportista: \"Si no estás en casa tengo que hacer una foto de la puerta por si vas a poner una reclamación\"",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/barca/flick-julian-creo-presidente-ayer-133666104"
+      "enlace": "https://www.sport.es/es/noticias/actualidad/geni-transportista-casa-foto-puerta-133663615"
     },
     {
-      "titular": "Pellegrini sigue haciendo historia con el Betis",
+      "titular": "Flick anuncia el debut de Rodri ante el Athletic y la baja de Gavi para una semana",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-26T11:47:04+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/betis/20260826/1004219925/pellegrini-sigue-haciendo-historia-betis.html"
+      "fecha": "2026-08-26T12:46:27+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260826/1004219938/flick-anuncia-debut-rodri-athletic-baja-gavi-semana.html"
     }
   ],
   "salud": {
@@ -75,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 38,
+    "antiguedad_minima_min": 8,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +82,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 7838,
+        "antiguedad_min": 7872,
         "descartados_por_gancho": 12
       },
       {
@@ -99,10 +98,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 132,
+        "items": 134,
         "error": null,
-        "antiguedad_min": 38,
-        "descartados_por_gancho": 6
+        "antiguedad_min": 8,
+        "descartados_por_gancho": 7
       },
       {
         "medio": "Sport",

@@ -2,8 +2,26 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-08-26T12:29:05+02:00",
+  "generado": "2026-08-26T13:02:49+02:00",
   "titulares": [
+    {
+      "titular": "Airbus y los sindicatos se citan este jueves para encauzar el conflicto laboral",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-26T12:12:35+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/08/26/6a8ebbe9e5fdea6b458b456d.html"
+    },
+    {
+      "titular": "Consum se ascerca a Madrid: abre su primera tienda propia de la provincia de Toledo",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-26T12:10:51+02:00",
+      "enlace": "https://www.expansion.com/valencia/2026/08/26/6a8eb62ee5fdea9b0a8b456e.html"
+    },
     {
       "titular": "CAF consolida su crecimiento en Francia con un contrato de 150 millones en París",
       "medios": [
@@ -48,24 +66,6 @@
       "consenso": 1,
       "fecha": "2026-08-26T10:02:29+02:00",
       "enlace": "https://www.expansion.com/economia/financial-times/2026/08/26/6a8e9c6ce5fdeae3358b4589.html"
-    },
-    {
-      "titular": "Las hipotecas sobre viviendas marcan el mejor junio en 16 años tras dispararse un 10,8%",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-26T09:17:44+02:00",
-      "enlace": "https://www.expansion.com/inmobiliario/mercado/2026/08/26/6a8e9316468aeb05778b458d.html"
-    },
-    {
-      "titular": "La crisis de Ceuta condena al Gobierno",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-26T09:12:32+02:00",
-      "enlace": "https://www.expansion.com/opinion/2026/08/26/6a8e91dd468aeb514b8b4571.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 68,
+    "antiguedad_minima_min": 50,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 66,
+        "items": 68,
         "error": null,
-        "antiguedad_min": 68,
+        "antiguedad_min": 50,
         "descartados_por_gancho": 1
       },
       {
