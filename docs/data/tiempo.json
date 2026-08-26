@@ -1,15 +1,7 @@
 {
   "ciudad": "Barcelona",
-  "generado": "2026-08-26T03:32:12",
+  "generado": "2026-08-26T04:33:27",
   "horas": [
-    {
-      "hora": "04",
-      "temp": 24,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "nube"
-    },
     {
       "hora": "05",
       "temp": 24,
@@ -28,7 +20,7 @@
     },
     {
       "hora": "07",
-      "temp": 24,
+      "temp": 23,
       "prob": 0,
       "mm": 0,
       "mostrar_prob": false,
@@ -60,7 +52,7 @@
     },
     {
       "hora": "11",
-      "temp": 26,
+      "temp": 27,
       "prob": 3,
       "mm": 0,
       "mostrar_prob": false,
@@ -97,6 +89,14 @@
       "mm": 0,
       "mostrar_prob": false,
       "icono": "nube"
+    },
+    {
+      "hora": "16",
+      "temp": 30,
+      "prob": 3,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "nube"
     }
   ],
   "dias": [
@@ -112,18 +112,18 @@
     },
     {
       "etiqueta": "vie 28",
-      "max": 31,
+      "max": 32,
       "min": 25,
       "prob": 18,
-      "mm": 2.1,
+      "mm": 0,
       "mostrar_prob": true,
       "destacar": false,
-      "icono": "lluvia"
+      "icono": "nube"
     },
     {
       "etiqueta": "sáb 29",
       "max": 30,
-      "min": 20,
+      "min": 21,
       "prob": 0,
       "mm": 0,
       "mostrar_prob": false,
@@ -132,29 +132,29 @@
     },
     {
       "etiqueta": "dom 30",
-      "max": 29,
+      "max": 30,
       "min": 22,
       "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "destacar": false,
-      "icono": "sol"
-    },
-    {
-      "etiqueta": "lun 31",
-      "max": 30,
-      "min": 21,
-      "prob": 4,
       "mm": 0,
       "mostrar_prob": false,
       "destacar": false,
       "icono": "nube"
     },
     {
+      "etiqueta": "lun 31",
+      "max": 29,
+      "min": 22,
+      "prob": 2,
+      "mm": 0.3,
+      "mostrar_prob": false,
+      "destacar": false,
+      "icono": "nube"
+    },
+    {
       "etiqueta": "mar 1",
-      "max": 31,
-      "min": 20,
-      "prob": 6,
+      "max": 30,
+      "min": 21,
+      "prob": 5,
       "mm": 0,
       "mostrar_prob": false,
       "destacar": false,
@@ -162,8 +162,8 @@
     },
     {
       "etiqueta": "mié 2",
-      "max": 28,
-      "min": 23,
+      "max": 30,
+      "min": 22,
       "prob": 15,
       "mm": 6.3,
       "mostrar_prob": true,
