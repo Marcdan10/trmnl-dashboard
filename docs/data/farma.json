@@ -2,25 +2,25 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "ultimas",
-  "generado": "2026-08-26T16:37:59+02:00",
+  "generado": "2026-08-26T18:14:06+02:00",
   "titulares": [
     {
-      "titular": "Galicia convoca 25 plazas de difícil cobertura para trabajar como médico de Urgencias en el CHUO",
+      "titular": "Contratos de más de 6 meses y cooperantes para reforzar la sanidad ceutí más allá del mando único",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-08-26T16:16:13+02:00",
-      "enlace": "https://www.redaccionmedica.com/autonomias/galicia/20260826/galicia-convoca-plazas-de-dificil-cobertura-para-trabajar-como-medico-urgencias-en-el-chuo/349676_0.html"
+      "fecha": "2026-08-26T18:07:56+02:00",
+      "enlace": "https://www.redaccionmedica.com/profesionales/enfermeria/20260826/contratos-de-mas-meses-cooperantes-para-reforzar-la-sanidad-ceuti-alla-del-mando-unico/349664_0.html"
     },
     {
-      "titular": "\"El crecimiento de la sanidad privada es visto como una amenaza, pero puede ser una oportunidad\"",
+      "titular": "La Fisioterapia reivindica su papel sanitario frente al ictus y las enfermedades cardiacas",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-08-26T15:00:00+02:00",
-      "enlace": "https://www.redaccionmedica.com/empresas/sanidad-privada/20260826/el-crecimiento-de-la-sanidad-privada-es-visto-como-una-amenaza-pero-puede-ser-oportunidad/349631_0.html"
+      "fecha": "2026-08-26T17:28:42+02:00",
+      "enlace": "https://www.redaccionmedica.com/profesionales/20260826/la-fisioterapia-reivindica-su-papel-sanitario-frente-al-ictus-las-enfermedades-cardiacas/349680_0.html"
     },
     {
       "titular": "Los reales decretos que están cambiando la farmacia en 2026",
@@ -59,13 +59,13 @@
       "enlace": "https://diariofarma.com/2026/08/25/la-cnmc-plantea-revisar-descuentos-y-precios-para-trasladar-mas-ahorros-al-sns"
     },
     {
-      "titular": "El sentido común y la innovación",
+      "titular": "\"La cohesión sanitaria no puede depender de la afinidad entre autonomías\"",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-08-26T14:41:42+02:00",
-      "enlace": "https://www.redaccionmedica.com/opinion/20260826/el-sentido-comun-la-innovacion/349668_14.html"
+      "fecha": "2026-08-26T16:37:19+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20260826/la-cohesion-sanitaria-no-puede-depender-de-la-afinidad-entre-autonomias/349661_0.html"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 21,
+    "antiguedad_minima_min": 6,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 521,
+        "antiguedad_min": 617,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 157,
+        "antiguedad_min": 253,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 21,
+        "antiguedad_min": 6,
         "descartados_por_gancho": 0
       },
       {

@@ -2,62 +2,61 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-08-26T16:37:49+02:00",
+  "generado": "2026-08-26T18:13:55+02:00",
   "titulares": [
     {
-      "titular": "Al menos 47 heridos, tres de ellos graves, tras explotar varios cohetes en el chupinazo de Noáin",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-26T16:34:40+02:00",
-      "enlace": "https://www.abc.es/espana/navarra/heridos-tres-graves-tras-explotar-varios-cohetes-20260826144400-nt.html"
-    },
-    {
-      "titular": "Laporta promueve otro aquelarre independentista en el Camp Nou: no habrá homenaje a los campeones del mundo",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-26T16:30:21+02:00",
-      "enlace": "https://www.abc.es/deportes/futbol/llamada-independentista-camp-nou-homenaje-seleccion-dia-20260826152959-nt.html"
-    },
-    {
-      "titular": "Dos hijos hallan muertos a sus padres, un matrimonio irlandés, dentro del jacuzzi en Cullera",
-      "medios": [
-        "La Vanguardia",
-        "ABC"
-      ],
-      "consenso": 2,
-      "fecha": "2026-08-26T16:27:23+02:00",
-      "enlace": "https://www.abc.es/espana/comunidad-valenciana/hallan-cadaveres-pareja-irlandesa-desnudos-junto-jacuzzi-20260826083747-nt.html"
-    },
-    {
-      "titular": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Pedro Sánchez comparecerá el 3 de septiembre en el Congreso para abordar la crisis en Ceuta",
+      "titular": "Al menos 50 heridos al estallar material pirotécnico en el inicio de las fiestas de Noáin (Navarra)",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-08-26T16:11:01+02:00",
-      "enlace": "https://elpais.com/espana/2026-08-26/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html"
+      "fecha": "2026-08-26T18:12:50+02:00",
+      "enlace": "https://elpais.com/espana/2026-08-26/varios-heridos-al-estallar-material-pirotecnico-en-el-inicio-de-las-fiestas-de-noain-navarra.html"
     },
     {
-      "titular": "Un médico desde el terreno: “En Congo, el ébola no huele a estadística; huele a cloro”",
+      "titular": "Meta pagará casi 18.000 millones de dólares para resolver las demandas por la adicción de los adolescentes a sus herramientas",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-08-26T16:00:00+02:00",
-      "enlace": "https://elpais.com/planeta-futuro/2026-08-26/un-medico-desde-el-terreno-en-congo-el-ebola-no-huele-a-estadistica-huele-a-cloro.html"
+      "fecha": "2026-08-26T18:05:47+02:00",
+      "enlace": "https://elpais.com/tecnologia/2026-08-26/meta-pagara-casi-17000-millones-de-dolares-para-resolver-las-demandas-por-la-adiccion-de-los-adolescentes-a-sus-herramientas.html"
     },
     {
-      "titular": "Meta pacta pagar 17.100 millones de dólares para cerrar el juicio por atacar la salud de los niños",
+      "titular": "Aramburu: «Ningún futbolista le hace faltas a Vinicius con mala intención»",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-26T17:55:21+02:00",
+      "enlace": "https://www.abc.es/deportes/futbol/aramburu-era-pequeno-daba-miedo-vivir-venezuela-20260825013532-nt.html"
+    },
+    {
+      "titular": "Elon Musk creará su propio 'Cabo Cañaveral' en Luisiana para conquistar la Luna y Marte",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-26T17:55:11+02:00",
+      "enlace": "https://www.abc.es/ciencia/elon-musk-creara-propio-cabo-canaveral-luisiana-20260826163830-nt.html"
+    },
+    {
+      "titular": "Helicobacter pylori: qué puede hacer la dieta y qué no",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-08-26T15:29:41+02:00",
-      "enlace": "https://www.lavanguardia.com/vida/20260826/11620521/meta-pacta-pagar-16-680-millones-dolares-cerrar-juicio-atacar-salud-ninos.html"
+      "fecha": "2026-08-26T17:00:00+02:00",
+      "enlace": "https://www.lavanguardia.com/vida/salud/20260826/11618848/helicobacter-pylori-que-dieta-que.html"
+    },
+    {
+      "titular": "La riada de Nepal castiga a un paraíso de montañas",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-26T16:51:17+02:00",
+      "enlace": "https://www.lavanguardia.com/internacional/20260826/11620500/paraiso-montaneros-azotado-nuevo.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -75,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 3,
+    "antiguedad_minima_min": 1,
     "detalle": [
       {
         "medio": "RTVE",
@@ -83,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2215652,
+        "antiguedad_min": 2215748,
         "descartados_por_gancho": 0
       },
       {
@@ -98,18 +97,18 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 146,
+        "items": 148,
         "error": null,
-        "antiguedad_min": 26,
+        "antiguedad_min": 1,
         "descartados_por_gancho": 3
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 118,
+        "items": 119,
         "error": null,
-        "antiguedad_min": 68,
+        "antiguedad_min": 73,
         "descartados_por_gancho": 15
       },
       {
@@ -118,7 +117,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 3,
+        "antiguedad_min": 14,
         "descartados_por_gancho": 0
       }
     ]
