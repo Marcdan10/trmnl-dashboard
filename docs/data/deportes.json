@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-08-26T18:14:00+02:00",
+  "generado": "2026-08-26T20:13:42+02:00",
   "titulares": [
     {
-      "titular": "Buen inicio de España en el Mundial de piragüismo sprint",
+      "titular": "Real Madrid - Real Sociedad, en directo",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-26T17:52:32+02:00",
-      "enlace": "https://www.mundodeportivo.com/otros-deportes/20260826/1004220042/buen-inicio-espana-mundial-piragueismo-sprint.html"
+      "fecha": "2026-08-26T19:49:14+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260826/1004219295/real-madrid-real-sociedad-directo-laliga-ea-sports-futbol-primera-division.html"
     },
     {
-      "titular": "Brennan culmina otra jugada maestra del equipo Visma en La Vuelta",
+      "titular": "Marcha atrás del Celta por \"un jugador vital\" para Giráldez",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-26T17:49:34+02:00",
-      "enlace": "https://www.mundodeportivo.com/ciclismo/vuelta-espana/20260826/1004220040/brennan-culmina-jugada-maestra-equipo-visma-vuelta.html"
+      "fecha": "2026-08-26T19:41:10+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/20260826/1004220069/marcha-celta-jugador-vital-giraldez.html"
     },
     {
       "titular": "Las portadas en Inglaterra con Arteta son para verlas...",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/rayo/2026/08/21/camello-agotados-situacion-distancia-tres-partes.html"
     },
     {
-      "titular": "La abuela de Julián Álvarez: \"De pequeño reunía todas las condiciones. Las maestras lo querían. Era muy estudioso, observador y tranquilo\"",
+      "titular": "Óscar Pereiro 'aplaude' la lectura de carrera de Tadej Pogacar: \"Sigue siendo el corredor más fuerte del mundo, pero su equipo no está al nivel del Tour\"",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/barca/abuela-julian-alvarez-pequeno-reunia-133680885"
+      "enlace": "https://www.sport.es/es/noticias/ciclismo/oscar-pereiro-aplaude-lectura-carrera-133684441"
     },
     {
-      "titular": "La contundente confesión de Alonso sobre Verstappen: \"Es el mejor rival al que me he enfrentado\"",
+      "titular": "El Oviedo la tiene y el Albacete no la quiere: la clave en el Belmonte pasa por la pelota",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/motor/formula1/contundente-confesion-alonso-verstappen-mejor-133681294"
+      "enlace": "https://www.sport.es/es/noticias/oviedo/oviedo-albacete-quiere-clave-belmonte-133685530"
     },
     {
-      "titular": "Javier Medina, propietario de 8 pisos: \"Si sube todo, ¿quién lo asume? ¿Le quito comida a mi hijo? No, se le repercute al cliente\"",
+      "titular": "Aldi rebaja esta refrescante fruta para despedirse del verano con sabor: estará de oferta hasta esta fecha",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-26T17:45:07+02:00",
-      "enlace": "https://www.mundodeportivo.com/actualidad/20260826/1004220037/javier-medina-propietario-8-pisos-todos-impuestos-son-mas-caros-subido-asumir-le-quito-comida-mi-hijo-no-le-repercute-cliente-dnr-dct.html"
+      "fecha": "2026-08-26T19:30:59+02:00",
+      "enlace": "https://www.mundodeportivo.com/actualidad/20260826/1004219855/aldi-rebaja-refrescante-fruta-despedir-verano-sabor-estara-oferta-fecha-smd.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 21,
+    "antiguedad_minima_min": 24,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 8183,
+        "antiguedad_min": 8302,
         "descartados_por_gancho": 12
       },
       {
@@ -100,8 +100,8 @@
         "ok": true,
         "items": 137,
         "error": null,
-        "antiguedad_min": 21,
-        "descartados_por_gancho": 7
+        "antiguedad_min": 24,
+        "descartados_por_gancho": 6
       },
       {
         "medio": "Sport",

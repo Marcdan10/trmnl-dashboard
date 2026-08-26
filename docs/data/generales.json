@@ -2,61 +2,61 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-08-26T18:13:55+02:00",
+  "generado": "2026-08-26T20:13:37+02:00",
   "titulares": [
     {
-      "titular": "Al menos 50 heridos al estallar material pirotécnico en el inicio de las fiestas de Noáin (Navarra)",
+      "titular": "Más allá de la deshidratación: más de 30 diagnósticos por los que el calor extremo nos manda al hospital",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-08-26T18:12:50+02:00",
-      "enlace": "https://elpais.com/espana/2026-08-26/varios-heridos-al-estallar-material-pirotecnico-en-el-inicio-de-las-fiestas-de-noain-navarra.html"
+      "fecha": "2026-08-26T19:59:59+02:00",
+      "enlace": "https://elpais.com/salud-y-bienestar/2026-08-26/mas-alla-de-la-deshidratacion-mas-de-30-diagnosticos-por-los-que-el-calor-extremo-nos-manda-al-hospital.html"
     },
     {
-      "titular": "Meta pagará casi 18.000 millones de dólares para resolver las demandas por la adicción de los adolescentes a sus herramientas",
+      "titular": "Una colosal catástrofe arrasa la frontera entre Nepal y China",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-26T19:59:50+02:00",
+      "enlace": "https://www.abc.es/internacional/colosal-catastrofe-natural-devasta-frontera-nepal-china-20260826190558-nt.html"
+    },
+    {
+      "titular": "Al menos 160 muertos y 600 desaparecidos, la mayoría turistas",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-26T19:57:25+02:00",
+      "enlace": "https://www.abc.es/internacional/riada-nepal-directo-muertos-desaparecidos-ultima-hora-20260826162053-di.html"
+    },
+    {
+      "titular": "Los vídeos y las imágenes de la riada en Nepal",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-08-26T18:05:47+02:00",
-      "enlace": "https://elpais.com/tecnologia/2026-08-26/meta-pagara-casi-17000-millones-de-dolares-para-resolver-las-demandas-por-la-adiccion-de-los-adolescentes-a-sus-herramientas.html"
+      "fecha": "2026-08-26T19:27:11+02:00",
+      "enlace": "https://elpais.com/videos/2026-08-26/los-videos-y-las-imagenes-de-la-riada-en-nepal.html"
     },
     {
-      "titular": "Aramburu: «Ningún futbolista le hace faltas a Vinicius con mala intención»",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-26T17:55:21+02:00",
-      "enlace": "https://www.abc.es/deportes/futbol/aramburu-era-pequeno-daba-miedo-vivir-venezuela-20260825013532-nt.html"
-    },
-    {
-      "titular": "Elon Musk creará su propio 'Cabo Cañaveral' en Luisiana para conquistar la Luna y Marte",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-26T17:55:11+02:00",
-      "enlace": "https://www.abc.es/ciencia/elon-musk-creara-propio-cabo-canaveral-luisiana-20260826163830-nt.html"
-    },
-    {
-      "titular": "Helicobacter pylori: qué puede hacer la dieta y qué no",
+      "titular": "Bill Gates propone una categoría de “empleos reservados para humanos” para proteger a las personas de la IA",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-08-26T17:00:00+02:00",
-      "enlace": "https://www.lavanguardia.com/vida/salud/20260826/11618848/helicobacter-pylori-que-dieta-que.html"
+      "fecha": "2026-08-26T19:06:37+02:00",
+      "enlace": "https://www.lavanguardia.com/economia/20260826/11620620/bill-gates-propone-categoria-empleos-reservados-humanos-proteger-mercado-laboral-ia.html"
     },
     {
-      "titular": "La riada de Nepal castiga a un paraíso de montañas",
+      "titular": "Xiaomi despide agosto por todo lo alto: el POCO X8 Pro y el Redmi Watch 5, entre sus últimas grandes rebajas",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-08-26T16:51:17+02:00",
-      "enlace": "https://www.lavanguardia.com/internacional/20260826/11620500/paraiso-montaneros-azotado-nuevo.html"
+      "fecha": "2026-08-26T19:00:00+02:00",
+      "enlace": "https://www.lavanguardia.com/comprar/tecnologia/20260826/11620034/xiaomi-despide-agosto-alto-poco-x8-pro-redmi-watch-5-ultimas-grandes-rebajas-mkt-alie.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 1,
+    "antiguedad_minima_min": 13,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2215748,
+        "antiguedad_min": 2215868,
         "descartados_por_gancho": 0
       },
       {
@@ -90,7 +90,7 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 429",
+        "error": "HTTP 500",
         "antiguedad_min": null
       },
       {
@@ -99,16 +99,16 @@
         "ok": true,
         "items": 148,
         "error": null,
-        "antiguedad_min": 1,
+        "antiguedad_min": 13,
         "descartados_por_gancho": 3
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 119,
+        "items": 123,
         "error": null,
-        "antiguedad_min": 73,
+        "antiguedad_min": 67,
         "descartados_por_gancho": 15
       },
       {
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 14,
+        "antiguedad_min": 13,
         "descartados_por_gancho": 0
       }
     ]

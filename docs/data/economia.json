@@ -2,8 +2,53 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-08-26T18:13:58+02:00",
+  "generado": "2026-08-26T20:13:40+02:00",
   "titulares": [
+    {
+      "titular": "ACS se refuerza en Australia con las obras de una cárcel de 500 millones",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-26T19:59:17+02:00",
+      "enlace": "https://www.expansion.com/empresas/inmobiliario/2026/08/26/6a8f27fb468aebea718b4588.html"
+    },
+    {
+      "titular": "Anthropic blinda otros 45.000 millones de dólares en computación antes de la OPV",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-26T19:59:15+02:00",
+      "enlace": "https://www.expansion.com/economia-digital/companias/2026/08/26/6a8f26fc468aebc3138b4573.html"
+    },
+    {
+      "titular": "Los centros de datos temen que la nueva ley limite su competitividad",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-26T19:25:26+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/08/26/6a8f2184468aebc1348b4584.html"
+    },
+    {
+      "titular": "Al menos 98 muertos y cientos de desaparecidos por una inmensa riada en Nepal",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-26T18:31:39+02:00",
+      "enlace": "https://www.expansion.com/sociedad/2026/08/26/6a8f14c7e5fdeaab5d8b457f.html"
+    },
+    {
+      "titular": "¿Podrá el \"Día D económico\" de Donald Trump obligar a Irán a capitular?",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-26T18:02:48+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/08/26/6a8f0c76e5fdeae0518b458b.html"
+    },
     {
       "titular": "El Ibex vuelve a chocar con los 20.100 puntos pendiente de las cuentas de Nvidia",
       "medios": [
@@ -21,51 +66,6 @@
       "consenso": 1,
       "fecha": "2026-08-26T17:07:42+02:00",
       "enlace": "https://www.expansion.com/catalunya/2026/08/26/6a8ee0b4468aebea638b4578.html"
-    },
-    {
-      "titular": "El PIB de EEUU crece un 0,4% en el segundo trimestre",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-26T15:46:54+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/08/26/6a8ee8f2e5fdeaed298b4574.html"
-    },
-    {
-      "titular": "Xiaomi anuncia el lanzamiento de sus coches en España: \"Nos vemos en la carretera\"",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-26T15:28:59+02:00",
-      "enlace": "https://www.expansion.com/empresas/motor/2026/08/26/6a8ee7e8468aebab6a8b4586.html"
-    },
-    {
-      "titular": "Meta pagará hasta 16.700 millones de dólares para cerrar el caso por adicción entre menores a las redes",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-26T15:26:35+02:00",
-      "enlace": "https://www.expansion.com/economia-digital/2026/08/26/6a8ee87a468aeb3e148b457a.html"
-    },
-    {
-      "titular": "Trump prorroga el bloqueo a Cuba hasta septiembre de 2027",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-26T14:52:53+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/08/26/6a8ee1a0468aeb0b7f8b4570.html"
-    },
-    {
-      "titular": "Las olas de calor impulsan el interés por la refrigeración extrema del Golfo",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-26T14:43:16+02:00",
-      "enlace": "https://www.expansion.com/economia/financial-times/2026/08/26/6a8edea1e5fdea275b8b4578.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 33,
+    "antiguedad_minima_min": 14,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 71,
+        "items": 73,
         "error": null,
-        "antiguedad_min": 33,
+        "antiguedad_min": 14,
         "descartados_por_gancho": 1
       },
       {
