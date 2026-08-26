@@ -2,8 +2,35 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "ultimas",
-  "generado": "2026-08-26T13:54:40+02:00",
+  "generado": "2026-08-26T14:39:16+02:00",
   "titulares": [
+    {
+      "titular": "El ICS adjudica destino a 19 médicos y 9 enfermeras",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-26T14:16:31+02:00",
+      "enlace": "https://www.redaccionmedica.com/autonomias/catalunya/20260826/el-ics-adjudica-destino-medicos-enfermeras/349641_0.html"
+    },
+    {
+      "titular": "Andalucía crea un comité de especialistas para mejorar la atención a menores con amputaciones",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-26T14:05:16+02:00",
+      "enlace": "https://www.redaccionmedica.com/autonomias/andalucia/20260826/andalucia-crea-un-comite-de-especialistas-para-mejorar-la-atencion-menores-con-amputaciones/349658_0.html"
+    },
+    {
+      "titular": "Los reales decretos que están cambiando la farmacia en 2026",
+      "medios": [
+        "El Global"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-26T14:00:40+02:00",
+      "enlace": "https://elglobalfarma.com/farmacia/reales-decretos-cambiando-farmacia-2026/"
+    },
     {
       "titular": "Cuenta atrás para el 25º Encuentro de la Industria Farmacéutica Española: consulta aquí los detalles de la gran cita del sector",
       "medios": [
@@ -12,33 +39,6 @@
       "consenso": 1,
       "fecha": "2026-08-26T13:10:48+02:00",
       "enlace": "https://elglobalfarma.com/industria/cuenta-atras-encuentro-industria-farmaceutica-espanola-detalles/"
-    },
-    {
-      "titular": "El sexo marca la diferencia en diabetes tipo 2: más problemas de salud mental en mujeres y riesgo cardiovascular en hombres",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-26T12:51:35+02:00",
-      "enlace": "https://www.redaccionmedica.com/innovacion/20260826/el-sexo-marca-la-diferencia-en-diabetes-tipo-las-mujeres-afrontan-mas-problemas-de-salud-mental-los-hombres-riesgo-cardiovascular/349643_0.html"
-    },
-    {
-      "titular": "Los colegios sanitarios dejarán de ser lobbies salvo en el diseño de nuevas leyes",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-26T12:44:23+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20260826/los-colegios-sanitarios-dejaran-de-ser-lobbies-salvo-en-el-diseno-nuevas-leyes/349642_0.html"
-    },
-    {
-      "titular": "La industria farmacéutica pide que el brote de ébola Bundibugyo sirva de «llamada de atención» para el Tratado de Pandemias",
-      "medios": [
-        "El Global"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-26T09:18:55+02:00",
-      "enlace": "https://elglobalfarma.com/industria/industria-farmaceutica-brote-ebola-bundibugyo-llamada-atencion-tratado-pandemias/"
     },
     {
       "titular": "Destacan el papel del laboratorio clínico en la implantación del cribado prenatal",
@@ -59,13 +59,13 @@
       "enlace": "https://diariofarma.com/2026/08/25/la-cnmc-plantea-revisar-descuentos-y-precios-para-trasladar-mas-ahorros-al-sns"
     },
     {
-      "titular": "El Hospital de Canarias defiende su formación sanitaria y avala su gestión con un 85% de retención MIR",
+      "titular": "El sexo marca la diferencia en diabetes tipo 2: más problemas de salud mental en mujeres y riesgo cardiovascular en hombres",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-08-26T11:38:54+02:00",
-      "enlace": "https://www.redaccionmedica.com/formacion/mir/20260826/el-hospital-de-canarias-defiende-su-formacion-sanitaria-avala-gestion-con-un-retencion-mir/349635_0.html"
+      "fecha": "2026-08-26T12:51:35+02:00",
+      "enlace": "https://www.redaccionmedica.com/innovacion/20260826/el-sexo-marca-la-diferencia-en-diabetes-tipo-las-mujeres-afrontan-mas-problemas-de-salud-mental-los-hombres-riesgo-cardiovascular/349643_0.html"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 43,
+    "antiguedad_minima_min": 22,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 357,
+        "antiguedad_min": 402,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 43,
+        "antiguedad_min": 38,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 63,
+        "antiguedad_min": 22,
         "descartados_por_gancho": 0
       },
       {

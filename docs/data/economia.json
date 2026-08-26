@@ -2,8 +2,35 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-08-26T13:54:34+02:00",
+  "generado": "2026-08-26T14:39:07+02:00",
   "titulares": [
+    {
+      "titular": "Egyptair, nuevo patrocinador del FC Barcelona",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-26T14:03:59+02:00",
+      "enlace": "https://www.expansion.com/catalunya/2026/08/26/6a8ed129e5fdea96378b456d.html"
+    },
+    {
+      "titular": "Santa Bárbara reduce un 30% su beneficio por menores extraordinarios, dispara sus márgenes y se estanca en ingresos",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-26T13:56:40+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/08/26/6a8ed447468aeb8f418b457b.html"
+    },
+    {
+      "titular": "El Real Madrid se sube a la Fórmula 1",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-26T13:52:10+02:00",
+      "enlace": "https://www.expansion.com/deporte-negocio/2026/08/26/6a8ecab6468aebbd4f8b4577.html"
+    },
     {
       "titular": "SpaceX reta a la física con sus centros de datos en el espacio",
       "medios": [
@@ -23,15 +50,6 @@
       "enlace": "https://www.expansion.com/economia/politica/2026/08/26/6a8ea311e5fdea696d8b45a7.html"
     },
     {
-      "titular": "El Real Madrid se sube a la Fórmula 1",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-26T13:15:53+02:00",
-      "enlace": "https://www.expansion.com/deporte-negocio/2026/08/26/6a8ecab6468aebbd4f8b4577.html"
-    },
-    {
       "titular": "Airbus y los sindicatos se citan este jueves para encauzar el conflicto laboral",
       "medios": [
         "Expansión"
@@ -48,24 +66,6 @@
       "consenso": 1,
       "fecha": "2026-08-26T12:10:51+02:00",
       "enlace": "https://www.expansion.com/valencia/2026/08/26/6a8eb62ee5fdea9b0a8b456e.html"
-    },
-    {
-      "titular": "CAF consolida su crecimiento en Francia con un contrato de 150 millones en París",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-26T11:20:11+02:00",
-      "enlace": "https://www.expansion.com/pais-vasco/2026/08/26/6a8ead14468aeb585c8b456f.html"
-    },
-    {
-      "titular": "Dongfeng refuerza su presencia en España con dos modelos con hasta 10 años de garantía",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-26T10:26:15+02:00",
-      "enlace": "https://www.expansion.com/empresas/motor/2026/08/26/6a8e9ccf468aebaa608b458d.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 18,
+    "antiguedad_minima_min": 35,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 69,
+        "items": 66,
         "error": null,
-        "antiguedad_min": 18,
+        "antiguedad_min": 35,
         "descartados_por_gancho": 1
       },
       {
