@@ -2,8 +2,17 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "ultimas",
-  "generado": "2026-08-26T13:02:55+02:00",
+  "generado": "2026-08-26T13:54:40+02:00",
   "titulares": [
+    {
+      "titular": "Cuenta atrás para el 25º Encuentro de la Industria Farmacéutica Española: consulta aquí los detalles de la gran cita del sector",
+      "medios": [
+        "El Global"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-26T13:10:48+02:00",
+      "enlace": "https://elglobalfarma.com/industria/cuenta-atras-encuentro-industria-farmaceutica-espanola-detalles/"
+    },
     {
       "titular": "El sexo marca la diferencia en diabetes tipo 2: más problemas de salud mental en mujeres y riesgo cardiovascular en hombres",
       "medios": [
@@ -50,15 +59,6 @@
       "enlace": "https://diariofarma.com/2026/08/25/la-cnmc-plantea-revisar-descuentos-y-precios-para-trasladar-mas-ahorros-al-sns"
     },
     {
-      "titular": "La farmacia afianza su papel en dermatología, pero reclama más formación, protocolos y reconocimiento profesional",
-      "medios": [
-        "El Global"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-25T14:40:10+02:00",
-      "enlace": "https://elglobalfarma.com/farmacia/farmacia-dermatologia-formacion-protocolos-reconocimiento-profesional/"
-    },
-    {
       "titular": "El Hospital de Canarias defiende su formación sanitaria y avala su gestión con un 85% de retención MIR",
       "medios": [
         "Redacción Médica"
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 11,
+    "antiguedad_minima_min": 43,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 306,
+        "antiguedad_min": 357,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 223,
+        "antiguedad_min": 43,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 11,
+        "antiguedad_min": 63,
         "descartados_por_gancho": 0
       },
       {

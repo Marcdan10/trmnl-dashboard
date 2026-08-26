@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-08-26T13:02:51+02:00",
+  "generado": "2026-08-26T13:54:36+02:00",
   "titulares": [
     {
-      "titular": "Saliba: \"Es un gran paso en mi carrera jugar en el Villarreal\"",
+      "titular": "El español Fermín Aldeguer cambia la Ducati Desmosedici de Gresini por la de VR46",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-26T12:54:06+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/villarreal/20260826/1004219940/saliba-gran-paso-mi-carrera-jugar-villarreal.html"
+      "fecha": "2026-08-26T13:26:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/motor/motogp/20260826/1004219954/espanol-fermin-aldeguer-cambia-ducati-desmosedici-gresini-vr46.html"
     },
     {
-      "titular": "Flick, sobre Julián y el '9': \"Deco y yo estamos de acuerdo con Laporta\"",
+      "titular": "La Primera RFEF estrena el acta en tiempo real",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-26T12:50:05+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260826/1004219937/flick-sobre-julian-9-deco-acuerdo-laporta.html"
+      "fecha": "2026-08-26T13:23:18+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/20260826/1004219951/primera-rfef-estrena-acta-real.html"
     },
     {
       "titular": "Las portadas en Inglaterra con Arteta son para verlas...",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/rayo/2026/08/21/camello-agotados-situacion-distancia-tres-partes.html"
     },
     {
-      "titular": "Así funciona la Champions League 2026/2027: formato liguilla, sin fase de grupos y con novedades",
+      "titular": "Colocan a Bakambu en el Levante UD",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/champions/funciona-champions-league-2026-2027-133669300"
+      "enlace": "https://www.sport.es/es/noticias/levante/colocan-bakambu-levante-ud-133672630"
     },
     {
-      "titular": "Geni, transportista: \"Si no estás en casa tengo que hacer una foto de la puerta por si vas a poner una reclamación\"",
+      "titular": "¿Sabes lo que es el 'weekend warrior', el patrón que siguen muchos deportistas después del verano y que puede ser perjudicial?",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/actualidad/geni-transportista-casa-foto-puerta-133663615"
+      "enlace": "https://www.sport.es/es/noticias/salud/como-volver-rutina-gimnasio-despues-verano-vacaciones-133671867"
     },
     {
-      "titular": "Flick anuncia el debut de Rodri ante el Athletic y la baja de Gavi para una semana",
+      "titular": "Makhachev piensa en las 20 victorias para despedirse por la puerta grande",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-26T12:46:27+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260826/1004219938/flick-anuncia-debut-rodri-athletic-baja-gavi-semana.html"
+      "fecha": "2026-08-26T13:20:36+02:00",
+      "enlace": "https://www.mundodeportivo.com/ufc/20260826/1004219943/makhachev-piensa-20-victorias-despedirse-puerta-grande.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 8,
+    "antiguedad_minima_min": 28,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 7872,
+        "antiguedad_min": 7923,
         "descartados_por_gancho": 12
       },
       {
@@ -98,9 +98,9 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 134,
+        "items": 135,
         "error": null,
-        "antiguedad_min": 8,
+        "antiguedad_min": 28,
         "descartados_por_gancho": 7
       },
       {
