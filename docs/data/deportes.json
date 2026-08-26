@@ -1,26 +1,26 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "ultimas",
-  "generado": "2026-08-26T22:27:51+02:00",
+  "modo": "portadas",
+  "generado": "2026-08-27T01:57:16+02:00",
   "titulares": [
     {
-      "titular": "\"Para eliminar cucarachas no hay que echar insecticidas dentro de casa\"",
+      "titular": "El Real Madrid se estrena en casa con goleada",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-26T21:52:24+02:00",
-      "enlace": "https://www.mundodeportivo.com/economia-hogar/20260826/1004220078/ricardo-jimenez-experto-plagas-eliminar-cucarachas-no-hay-echar-insecticidas-casa-ejercen-efecto-expulsion-smd.html"
+      "fecha": "2026-08-26T23:01:07+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260826/1004220114/real-madrid-estrena-bernabeu-goleando-real-sociedad.html"
     },
     {
-      "titular": "Descanso: Sucic responde al gol de Mbappé",
+      "titular": "Escándalo en el Lyon-Fenerbahçe: agresión a Guendouzi y batalla campal",
       "medios": [
-        "Mundo Deportivo"
+        "Sport"
       ],
       "consenso": 1,
-      "fecha": "2026-08-26T21:48:45+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260826/1004219295/real-madrid-real-sociedad-directo-laliga-ea-sports-futbol-primera-division-jornada-1.html"
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/champions/escandalo-lyon-fenerbahce-agresion-guendouzi-133689081"
     },
     {
       "titular": "Las portadas en Inglaterra con Arteta son para verlas...",
@@ -32,6 +32,24 @@
       "enlace": "https://www.marca.com/futbol/album/2026/08/21/portadas-dia.html"
     },
     {
+      "titular": "Todos los bombos para el sorteo de la Champions 2026-27: objetivo, Metropolitano",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-26T23:32:54+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260826/1004219746/sorteo.html"
+    },
+    {
+      "titular": "Esta es la portada de SPORT de hoy, jueves 27 de agosto de 2026",
+      "medios": [
+        "Sport"
+      ],
+      "consenso": 1,
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/la-portada-de-sport/portada-sport-hoy-jueves-27-133689264"
+    },
+    {
       "titular": "\"Si hubiese estado fresco no habríamos perdido\"",
       "medios": [
         "Marca"
@@ -41,31 +59,14 @@
       "enlace": "https://www.marca.com/futbol/rayo/2026/08/21/camello-agotados-situacion-distancia-tres-partes.html"
     },
     {
-      "titular": "Pitos en el Bernabéu al Real Madrid en el estreno de Mourinho como local",
+      "titular": "El 1x1 del Real Madrid ante la Real Sociedad",
       "medios": [
+        "Mundo Deportivo",
         "Sport"
       ],
-      "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/real-madrid/pitos-bernabeu-real-madrid-estreno-133686835"
-    },
-    {
-      "titular": "Manolo Lama señala a Konaté tras el gol de la Real Sociedad: “Tenía que regalar una”",
-      "medios": [
-        "Sport"
-      ],
-      "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/real-madrid/manolo-lama-senala-konate-gol-133687287"
-    },
-    {
-      "titular": "2-1: Un genial Bisiwu da brillo al triunfo del Barça Atlètic",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-26T21:35:46+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260826/1004220092/2-1-genial-bisiwu-da-brillo-triunfo-barca-atletic.html"
+      "consenso": 2,
+      "fecha": "2026-08-26T23:26:22+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260826/1004220121/1x1-real-madrid-real-sociedad.html"
     }
   ],
   "salud": {
@@ -74,7 +75,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 35,
+    "antiguedad_minima_min": 81,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +83,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 8437,
+        "antiguedad_min": 8646,
         "descartados_por_gancho": 12
       },
       {
@@ -98,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 137,
+        "items": 138,
         "error": null,
-        "antiguedad_min": 35,
-        "descartados_por_gancho": 6
+        "antiguedad_min": 81,
+        "descartados_por_gancho": 7
       },
       {
         "medio": "Sport",

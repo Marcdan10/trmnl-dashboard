@@ -1,64 +1,9 @@
 {
   "pantalla": "generales",
   "titulo": "Titulares",
-  "modo": "ultimas",
-  "generado": "2026-08-26T22:27:46+02:00",
+  "modo": "portadas",
+  "generado": "2026-08-27T01:57:13+02:00",
   "titulares": [
-    {
-      "titular": "El juez archiva la querella que presentó Errejón contra Mouliáa por calumnias",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-26T22:27:16+02:00",
-      "enlace": "https://elpais.com/espana/2026-08-26/el-juez-archiva-la-querella-que-presento-errejon-contra-mouliaa-por-calumnias.html"
-    },
-    {
-      "titular": "Real Madrid - Real Sociedad en directo | Mbappé marca su segundo gol para poner por delante al Madrid",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-26T22:24:35+02:00",
-      "enlace": "https://elpais.com/deportes/futbol/2026-08-26/real-madrid-real-sociedad-en-directo-el-partido-de-la-liga-en-vivo.html"
-    },
-    {
-      "titular": "Sánchez suspende su viaje a Andorra entre un enorme malestar por la fuga de información",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-26T22:11:09+02:00",
-      "enlace": "https://www.abc.es/espana/sanchez-precipita-comparecencia-congreso-tras-conocerse-nuevas-20260826220010-nt.html"
-    },
-    {
-      "titular": "Ningún Tapaboca en una corrida sin la chispa de la vida",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-26T22:08:58+02:00",
-      "enlace": "https://www.abc.es/cultura/toros/quinta-bilbao-20260826212235-nt.html"
-    },
-    {
-      "titular": "Sucic empata para la Real antes del descanso",
-      "medios": [
-        "La Vanguardia",
-        "ABC"
-      ],
-      "consenso": 2,
-      "fecha": "2026-08-26T22:06:07+02:00",
-      "enlace": "https://www.abc.es/deportes/real-madrid/real-madrid-real-sociedad-directo-resultado-ganador-20260826102246-di.html"
-    },
-    {
-      "titular": "En estado crítico un joven que se ha precipitado por un balcón cuando huía de los Mossos",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-26T21:39:29+02:00",
-      "enlace": "https://www.lavanguardia.com/local/barcelona/20260826/11620662/critico-joven-precipitado-balcon-raval-intentaba-huir-mossos.html"
-    },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
       "medios": [
@@ -67,6 +12,61 @@
       "consenso": 1,
       "fecha": "2022-06-10T01:05:00+02:00",
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
+    },
+    {
+      "titular": "Al menos 160 muertos y cientos de desaparecidos, entre ellos muchos extranjeros, por una fuerte riada entre Nepal y Tíbet",
+      "medios": [
+        "El País",
+        "La Vanguardia"
+      ],
+      "consenso": 2,
+      "fecha": "2026-08-26T19:15:11+02:00",
+      "enlace": "https://elpais.com/internacional/2026-08-26/una-fuerte-riada-causa-varios-muertos-en-nepal-y-un-numero-indeterminado-de-victimas-en-tibet.html"
+    },
+    {
+      "titular": "Meta pacta pagar 17.100 millones de dólares para cerrar el juicio por atacar la salud de los niños",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-26T15:29:41+02:00",
+      "enlace": "https://www.lavanguardia.com/vida/20260826/11620521/meta-pacta-pagar-16-680-millones-dolares-cerrar-juicio-atacar-salud-ninos.html"
+    },
+    {
+      "titular": "72.000 almas entregadas a 'The Special One'",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-27T01:34:12+02:00",
+      "enlace": "https://www.abc.es/deportes/real-madrid/santiago-bernabeu-demuestra-mourinhismo-regreso-mou-20260826225934-nt.html"
+    },
+    {
+      "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
+      "medios": [
+        "RTVE"
+      ],
+      "consenso": 1,
+      "fecha": "2022-06-10T00:03:00+02:00",
+      "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
+    },
+    {
+      "titular": "Los vídeos y las imágenes de la riada en Nepal",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-26T19:27:11+02:00",
+      "enlace": "https://elpais.com/videos/2026-08-26/los-videos-y-las-imagenes-de-la-riada-en-nepal.html"
+    },
+    {
+      "titular": "El pago millonario de Meta: así lo analizan abogados y expertos en finanzas",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-26T17:29:44+02:00",
+      "enlace": "https://www.lavanguardia.com/vida/20260826/11620572/pago-millonario-meta-asi-analizan-abogados-expertos-finanzas.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 0,
+    "antiguedad_minima_min": 23,
     "detalle": [
       {
         "medio": "RTVE",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2216002,
+        "antiguedad_min": 2216212,
         "descartados_por_gancho": 0
       },
       {
@@ -91,7 +91,7 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 500",
+        "error": "HTTP 429",
         "antiguedad_min": null
       },
       {
@@ -100,17 +100,17 @@
         "ok": true,
         "items": 151,
         "error": null,
-        "antiguedad_min": 0,
+        "antiguedad_min": 118,
         "descartados_por_gancho": 3
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 123,
+        "items": 118,
         "error": null,
-        "antiguedad_min": 48,
-        "descartados_por_gancho": 15
+        "antiguedad_min": 87,
+        "descartados_por_gancho": 14
       },
       {
         "medio": "ABC",
@@ -118,7 +118,7 @@
         "ok": true,
         "items": 24,
         "error": null,
-        "antiguedad_min": 16,
+        "antiguedad_min": 23,
         "descartados_por_gancho": 1
       }
     ]
