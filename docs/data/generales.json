@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-08-27T01:57:13+02:00",
+  "generado": "2026-08-27T09:44:38+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -14,32 +14,42 @@
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
     },
     {
-      "titular": "Al menos 160 muertos y cientos de desaparecidos, entre ellos muchos extranjeros, por una fuerte riada entre Nepal y Tíbet",
+      "titular": "El número de desaparecidos en Nepal y Tíbet tras la fuerte riada supera los 1.300, con al menos 180 muertos",
       "medios": [
-        "El País",
-        "La Vanguardia"
+        "El País"
       ],
-      "consenso": 2,
-      "fecha": "2026-08-26T19:15:11+02:00",
-      "enlace": "https://elpais.com/internacional/2026-08-26/una-fuerte-riada-causa-varios-muertos-en-nepal-y-un-numero-indeterminado-de-victimas-en-tibet.html"
+      "consenso": 1,
+      "fecha": "2026-08-27T09:36:40+02:00",
+      "enlace": "https://elpais.com/internacional/2026-08-27/el-numero-de-desaparecidos-en-nepal-y-tibet-tras-la-fuerte-riada-asciende-a-mas-de-1100-segun-dos-registros.html"
     },
     {
-      "titular": "Meta pacta pagar 17.100 millones de dólares para cerrar el juicio por atacar la salud de los niños",
+      "titular": "La gigantesca riada de Nepal deja ya al menos 160 muertos y más de 1.400 desaparecidos",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-08-26T15:29:41+02:00",
-      "enlace": "https://www.lavanguardia.com/vida/20260826/11620521/meta-pacta-pagar-16-680-millones-dolares-cerrar-juicio-atacar-salud-ninos.html"
+      "fecha": "2026-08-27T05:30:24+02:00",
+      "enlace": "https://www.lavanguardia.com/internacional/20260827/11620839/nepal-teme-haya-mas-millar-ahogados-lodo.html"
     },
     {
-      "titular": "72.000 almas entregadas a 'The Special One'",
+      "titular": "Tensión en la playa del Trampolín: la Policía interviene para evitar el choque entre ceutíes e inmigrantes",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-08-27T01:34:12+02:00",
-      "enlace": "https://www.abc.es/deportes/real-madrid/santiago-bernabeu-demuestra-mourinhismo-regreso-mou-20260826225934-nt.html"
+      "fecha": "2026-08-27T09:23:49+02:00",
+      "enlace": "https://www.abc.es/espana/tension-playa-trampolin-ceuta-policia-intervenir-evitar-20260826234620-nt.html"
+    },
+    {
+      "titular": "Muere la artista japonesa Yayoi Kusama a los 97 años",
+      "medios": [
+        "El País",
+        "La Vanguardia",
+        "ABC"
+      ],
+      "consenso": 3,
+      "fecha": "2026-08-27T09:13:19+02:00",
+      "enlace": "https://www.abc.es/cultura/arte/muere-artista-japonesa-yayoi-kusama-anos-20260827090701-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -51,22 +61,13 @@
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
     },
     {
-      "titular": "Los vídeos y las imágenes de la riada en Nepal",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-26T19:27:11+02:00",
-      "enlace": "https://elpais.com/videos/2026-08-26/los-videos-y-las-imagenes-de-la-riada-en-nepal.html"
-    },
-    {
-      "titular": "El pago millonario de Meta: así lo analizan abogados y expertos en finanzas",
+      "titular": "Exteriores pide colaboración ciudadana para localizar a cuatro españoles desaparecidos tras la riada de Nepal",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-08-26T17:29:44+02:00",
-      "enlace": "https://www.lavanguardia.com/vida/20260826/11620572/pago-millonario-meta-asi-analizan-abogados-expertos-finanzas.html"
+      "fecha": "2026-08-27T08:37:31+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20260827/11620854/exteriores-pide-colaboracion-ciudadana-localizar-cuatro-espanoles-desaparecidos-riada-nepal.html"
     }
   ],
   "salud": {
@@ -75,7 +76,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 23,
+    "antiguedad_minima_min": 7,
     "detalle": [
       {
         "medio": "RTVE",
@@ -83,7 +84,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2216212,
+        "antiguedad_min": 2216679,
         "descartados_por_gancho": 0
       },
       {
@@ -91,26 +92,26 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 429",
+        "error": "HTTP 500",
         "antiguedad_min": null
       },
       {
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 151,
+        "items": 138,
         "error": null,
-        "antiguedad_min": 118,
-        "descartados_por_gancho": 3
+        "antiguedad_min": 7,
+        "descartados_por_gancho": 2
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 118,
+        "items": 113,
         "error": null,
-        "antiguedad_min": 87,
-        "descartados_por_gancho": 14
+        "antiguedad_min": 67,
+        "descartados_por_gancho": 13
       },
       {
         "medio": "ABC",
@@ -118,7 +119,7 @@
         "ok": true,
         "items": 24,
         "error": null,
-        "antiguedad_min": 23,
+        "antiguedad_min": 20,
         "descartados_por_gancho": 1
       }
     ]

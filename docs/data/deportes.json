@@ -2,25 +2,16 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-08-27T01:57:16+02:00",
+  "generado": "2026-08-27T09:44:44+02:00",
   "titulares": [
     {
-      "titular": "El Real Madrid se estrena en casa con goleada",
+      "titular": "4-1: El Real Madrid se estrena en casa con goleada",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
       "fecha": "2026-08-26T23:01:07+02:00",
       "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260826/1004220114/real-madrid-estrena-bernabeu-goleando-real-sociedad.html"
-    },
-    {
-      "titular": "Escándalo en el Lyon-Fenerbahçe: agresión a Guendouzi y batalla campal",
-      "medios": [
-        "Sport"
-      ],
-      "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/champions/escandalo-lyon-fenerbahce-agresion-guendouzi-133689081"
     },
     {
       "titular": "Las portadas en Inglaterra con Arteta son para verlas...",
@@ -32,22 +23,22 @@
       "enlace": "https://www.marca.com/futbol/album/2026/08/21/portadas-dia.html"
     },
     {
-      "titular": "Todos los bombos para el sorteo de la Champions 2026-27: objetivo, Metropolitano",
+      "titular": "El 1x1 del Real Madrid ante la Real Sociedad",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-26T23:32:54+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260826/1004219746/sorteo.html"
+      "fecha": "2026-08-26T23:26:22+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260826/1004220121/1x1-real-madrid-real-sociedad.html"
     },
     {
-      "titular": "Esta es la portada de SPORT de hoy, jueves 27 de agosto de 2026",
+      "titular": "Vero Brunati, periodista argentina: \"Julián Álvarez está sufriendo y su familia recibe amenazas\"",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/la-portada-de-sport/portada-sport-hoy-jueves-27-133689264"
+      "enlace": "https://www.sport.es/es/noticias/atletico-de-madrid/vero-brunati-periodista-argentina-julian-alvarez-atletico-de-madrid-salida-133693160"
     },
     {
       "titular": "\"Si hubiese estado fresco no habríamos perdido\"",
@@ -59,14 +50,22 @@
       "enlace": "https://www.marca.com/futbol/rayo/2026/08/21/camello-agotados-situacion-distancia-tres-partes.html"
     },
     {
-      "titular": "El 1x1 del Real Madrid ante la Real Sociedad",
+      "titular": "Florentino jugó con Julián y con el Barça",
       "medios": [
-        "Mundo Deportivo",
         "Sport"
       ],
-      "consenso": 2,
-      "fecha": "2026-08-26T23:26:22+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260826/1004220121/1x1-real-madrid-real-sociedad.html"
+      "consenso": 1,
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/opinion/florentino-jugo-julian-barca-133693617"
+    },
+    {
+      "titular": "Mourinho: \"Lo que ha hecho Mbappé es de locos\"",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-26T23:42:55+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260826/1004220125/mourinho-hecho-mbappe-locos.html"
     }
   ],
   "salud": {
@@ -75,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 81,
+    "antiguedad_minima_min": 26,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +82,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 8646,
+        "antiguedad_min": 9114,
         "descartados_por_gancho": 12
       },
       {
@@ -99,19 +98,19 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 138,
+        "items": 139,
         "error": null,
-        "antiguedad_min": 81,
-        "descartados_por_gancho": 7
+        "antiguedad_min": 26,
+        "descartados_por_gancho": 9
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 50,
+        "items": 48,
         "error": null,
         "antiguedad_min": null,
-        "descartados_por_gancho": 0
+        "descartados_por_gancho": 2
       },
       {
         "medio": "NBA",

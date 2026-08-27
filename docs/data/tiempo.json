@@ -1,74 +1,10 @@
 {
   "ciudad": "Barcelona",
-  "generado": "2026-08-26T23:57:22",
+  "generado": "2026-08-27T07:44:49",
   "horas": [
     {
-      "hora": "00",
-      "temp": 26,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "nube"
-    },
-    {
-      "hora": "01",
-      "temp": 26,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "nube"
-    },
-    {
-      "hora": "02",
-      "temp": 26,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "nube"
-    },
-    {
-      "hora": "03",
-      "temp": 26,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "nube"
-    },
-    {
-      "hora": "04",
-      "temp": 25,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "nube"
-    },
-    {
-      "hora": "05",
-      "temp": 25,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "nube"
-    },
-    {
-      "hora": "06",
-      "temp": 25,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "nube"
-    },
-    {
-      "hora": "07",
-      "temp": 25,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "nube"
-    },
-    {
       "hora": "08",
-      "temp": 25,
+      "temp": 26,
       "prob": 0,
       "mm": 0,
       "mostrar_prob": false,
@@ -78,14 +14,14 @@
       "hora": "09",
       "temp": 26,
       "prob": 0,
-      "mm": 0,
+      "mm": 0.1,
       "mostrar_prob": false,
       "icono": "nube"
     },
     {
       "hora": "10",
       "temp": 27,
-      "prob": 0,
+      "prob": 3,
       "mm": 0,
       "mostrar_prob": false,
       "icono": "nube"
@@ -93,7 +29,71 @@
     {
       "hora": "11",
       "temp": 29,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "nube"
+    },
+    {
+      "hora": "12",
+      "temp": 30,
       "prob": 3,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "nube"
+    },
+    {
+      "hora": "13",
+      "temp": 30,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "nube"
+    },
+    {
+      "hora": "14",
+      "temp": 31,
+      "prob": 3,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "nube"
+    },
+    {
+      "hora": "15",
+      "temp": 32,
+      "prob": 3,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "sol"
+    },
+    {
+      "hora": "16",
+      "temp": 31,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "nube"
+    },
+    {
+      "hora": "17",
+      "temp": 30,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "nube"
+    },
+    {
+      "hora": "18",
+      "temp": 29,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "nube"
+    },
+    {
+      "hora": "19",
+      "temp": 29,
+      "prob": 0,
       "mm": 0,
       "mostrar_prob": false,
       "icono": "nube"
@@ -101,21 +101,11 @@
   ],
   "dias": [
     {
-      "etiqueta": "jue 27",
-      "max": 32,
-      "min": 25,
-      "prob": 13,
-      "mm": 0,
-      "mostrar_prob": true,
-      "destacar": false,
-      "icono": "nube"
-    },
-    {
       "etiqueta": "vie 28",
       "max": 31,
       "min": 25,
-      "prob": 38,
-      "mm": 0.5,
+      "prob": 45,
+      "mm": 0.1,
       "mostrar_prob": true,
       "destacar": false,
       "icono": "nube"
@@ -128,7 +118,7 @@
       "mm": 0,
       "mostrar_prob": false,
       "destacar": false,
-      "icono": "sol"
+      "icono": "nube"
     },
     {
       "etiqueta": "dom 30",
@@ -152,19 +142,29 @@
     },
     {
       "etiqueta": "mar 1",
-      "max": 32,
+      "max": 31,
       "min": 22,
-      "prob": 5,
+      "prob": 13,
       "mm": 0,
-      "mostrar_prob": false,
+      "mostrar_prob": true,
       "destacar": false,
       "icono": "nube"
     },
     {
       "etiqueta": "mié 2",
       "max": 31,
+      "min": 23,
+      "prob": 15,
+      "mm": 0,
+      "mostrar_prob": true,
+      "destacar": false,
+      "icono": "nube"
+    },
+    {
+      "etiqueta": "jue 3",
+      "max": 29,
       "min": 22,
-      "prob": 8,
+      "prob": 5,
       "mm": 0,
       "mostrar_prob": false,
       "destacar": false,
