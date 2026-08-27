@@ -1,9 +1,63 @@
 {
   "pantalla": "generales",
   "titulo": "Titulares",
-  "modo": "portadas",
-  "generado": "2026-08-27T09:44:38+02:00",
+  "modo": "ultimas",
+  "generado": "2026-08-27T20:43:08+02:00",
   "titulares": [
+    {
+      "titular": "El fuego calcina 48 hectáreas de la Devesa del Saler y obliga a evacuar el pueblo",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-27T20:27:56+02:00",
+      "enlace": "https://www.abc.es/espana/comunidad-valenciana/incendio-saler-valencia-obliga-desalojar-edificios-cortar-20260827135404-nt.html"
+    },
+    {
+      "titular": "Así ha quedado el sorteo de la Champions: Arsenal, Inter y Roma, con el Madrid; City, PSG y Aston Villa, con el Barcelona",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-27T20:27:37+02:00",
+      "enlace": "https://elpais.com/deportes/futbol/2026-08-27/el-sorteo-de-la-champions-league-equipos-partidos-y-cruces-en-directo.html"
+    },
+    {
+      "titular": "El último show de Sara Alonso tras subir al podio en Chamonix: de ser embestida por una vaca a la serpiente de hip-hop",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-27T20:24:30+02:00",
+      "enlace": "https://elpais.com/deportes/2026-08-27/el-ultimo-show-de-sara-alonso-tras-subir-al-podio-en-chamonix-de-ser-embestida-por-una-vaca-a-la-serpiente-de-hip-hop.html"
+    },
+    {
+      "titular": "Realizan con éxito la primera cirugía cerebral del mundo asistida por IA en tiempo real",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-27T20:21:24+02:00",
+      "enlace": "https://www.abc.es/sociedad/realizan-exito-londres-primera-cirugia-cerebral-mundo-20260827175716-nt.html"
+    },
+    {
+      "titular": "El envejecimiento de la piel depende de los cambios en el microbioma cutáneo",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-27T20:00:00+02:00",
+      "enlace": "https://www.lavanguardia.com/ciencia/20260827/11621155/envejecimiento-piel-depende-cambios-microbioma-cutaneo.html"
+    },
+    {
+      "titular": "El Ayuntamiento aprueba otro 'pelotazo' urbanístico de 360 millones para el Madrid de Florentino Pérez",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-27T19:54:44+02:00",
+      "enlace": "https://www.lavanguardia.com/deportes/real-madrid/20260827/11621273/ayuntamiento-aprueba-pelotazo-urbanistico-360-millones-madrid-florentino-perez.html"
+    },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
       "medios": [
@@ -12,62 +66,6 @@
       "consenso": 1,
       "fecha": "2022-06-10T01:05:00+02:00",
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
-    },
-    {
-      "titular": "El número de desaparecidos en Nepal y Tíbet tras la fuerte riada supera los 1.300, con al menos 180 muertos",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-27T09:36:40+02:00",
-      "enlace": "https://elpais.com/internacional/2026-08-27/el-numero-de-desaparecidos-en-nepal-y-tibet-tras-la-fuerte-riada-asciende-a-mas-de-1100-segun-dos-registros.html"
-    },
-    {
-      "titular": "La gigantesca riada de Nepal deja ya al menos 160 muertos y más de 1.400 desaparecidos",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-27T05:30:24+02:00",
-      "enlace": "https://www.lavanguardia.com/internacional/20260827/11620839/nepal-teme-haya-mas-millar-ahogados-lodo.html"
-    },
-    {
-      "titular": "Tensión en la playa del Trampolín: la Policía interviene para evitar el choque entre ceutíes e inmigrantes",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-27T09:23:49+02:00",
-      "enlace": "https://www.abc.es/espana/tension-playa-trampolin-ceuta-policia-intervenir-evitar-20260826234620-nt.html"
-    },
-    {
-      "titular": "Muere la artista japonesa Yayoi Kusama a los 97 años",
-      "medios": [
-        "El País",
-        "La Vanguardia",
-        "ABC"
-      ],
-      "consenso": 3,
-      "fecha": "2026-08-27T09:13:19+02:00",
-      "enlace": "https://www.abc.es/cultura/arte/muere-artista-japonesa-yayoi-kusama-anos-20260827090701-nt.html"
-    },
-    {
-      "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
-      "medios": [
-        "RTVE"
-      ],
-      "consenso": 1,
-      "fecha": "2022-06-10T00:03:00+02:00",
-      "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
-    },
-    {
-      "titular": "Exteriores pide colaboración ciudadana para localizar a cuatro españoles desaparecidos tras la riada de Nepal",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-27T08:37:31+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20260827/11620854/exteriores-pide-colaboracion-ciudadana-localizar-cuatro-espanoles-desaparecidos-riada-nepal.html"
     }
   ],
   "salud": {
@@ -76,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 7,
+    "antiguedad_minima_min": 15,
     "detalle": [
       {
         "medio": "RTVE",
@@ -84,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2216679,
+        "antiguedad_min": 2217338,
         "descartados_por_gancho": 0
       },
       {
@@ -99,28 +97,28 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 138,
+        "items": 149,
         "error": null,
-        "antiguedad_min": 7,
-        "descartados_por_gancho": 2
+        "antiguedad_min": 15,
+        "descartados_por_gancho": 4
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 113,
+        "items": 123,
         "error": null,
-        "antiguedad_min": 67,
+        "antiguedad_min": 43,
         "descartados_por_gancho": 13
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 24,
+        "items": 25,
         "error": null,
-        "antiguedad_min": 20,
-        "descartados_por_gancho": 1
+        "antiguedad_min": 15,
+        "descartados_por_gancho": 0
       }
     ]
   }

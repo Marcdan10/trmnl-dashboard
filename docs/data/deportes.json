@@ -1,71 +1,73 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "portadas",
-  "generado": "2026-08-27T09:44:44+02:00",
+  "modo": "ultimas",
+  "generado": "2026-08-27T20:43:13+02:00",
   "titulares": [
     {
-      "titular": "4-1: El Real Madrid se estrena en casa con goleada",
+      "titular": "FC Barcelona - Athletic Club, en directo",
+      "medios": [
+        "Mundo Deportivo",
+        "Sport"
+      ],
+      "consenso": 2,
+      "fecha": "2026-08-27T20:23:49+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260827/1004218734/fc-barcelona-athletic-club-directo-laliga-ea-sports-futbol-primera-division.html"
+    },
+    {
+      "titular": "La UEFA suspende provisionalmente su boicot a las competiciones de la FIFA",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-26T23:01:07+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260826/1004220114/real-madrid-estrena-bernabeu-goleando-real-sociedad.html"
+      "fecha": "2026-08-27T20:18:59+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/20260827/1004220439/uefa-suspende-provisionalmente-boicot-competiciones-fifa.html"
     },
     {
-      "titular": "Las portadas en Inglaterra con Arteta son para verlas...",
+      "titular": "Así queda el sorteo de la fase liga de la Champions, equipo por equipo",
+      "medios": [
+        "Marca",
+        "Mundo Deportivo"
+      ],
+      "consenso": 2,
+      "fecha": "2026-08-27T19:05:42+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/champions-league/20260827/1004220343/asi-queda-sorteo-fase-liga-champions-league-equipo-equipo.html"
+    },
+    {
+      "titular": "Carvajal, Joselu y Ceballos: los agentes libres que ganaron la Champions hace dos años",
       "medios": [
         "Marca"
       ],
       "consenso": 1,
-      "fecha": "2026-08-21T01:50:42+02:00",
-      "enlace": "https://www.marca.com/futbol/album/2026/08/21/portadas-dia.html"
+      "fecha": "2026-08-27T15:02:08+02:00",
+      "enlace": "https://www.marca.com/futbol/2026/08/27/carvajal-joselu-ceballos-agentes-libres-ganaron-champions-dos-anos.html"
     },
     {
-      "titular": "El 1x1 del Real Madrid ante la Real Sociedad",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-26T23:26:22+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260826/1004220121/1x1-real-madrid-real-sociedad.html"
-    },
-    {
-      "titular": "Vero Brunati, periodista argentina: \"Julián Álvarez está sufriendo y su familia recibe amenazas\"",
+      "titular": "España - Portugal: horario y dónde ver por TV el partido de clasificación para el Mundial",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/atletico-de-madrid/vero-brunati-periodista-argentina-julian-alvarez-atletico-de-madrid-salida-133693160"
+      "enlace": "https://www.sport.es/es/noticias/baloncesto/espana-portugal-horario-ver-tv-133715844"
     },
     {
-      "titular": "\"Si hubiese estado fresco no habríamos perdido\"",
-      "medios": [
-        "Marca"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-21T00:07:06+02:00",
-      "enlace": "https://www.marca.com/futbol/rayo/2026/08/21/camello-agotados-situacion-distancia-tres-partes.html"
-    },
-    {
-      "titular": "Florentino jugó con Julián y con el Barça",
+      "titular": "El emotivo video con el que se despide Rubén Iranzo tras quince temporadas en el Valencia CF",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/opinion/florentino-jugo-julian-barca-133693617"
+      "enlace": "https://www.sport.es/es/noticias/valencia/emotivo-video-despide-ruben-iranzo-133716745"
     },
     {
-      "titular": "Mourinho: \"Lo que ha hecho Mbappé es de locos\"",
+      "titular": "El Betis también se las verá con cuatro campeones",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-26T23:42:55+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260826/1004220125/mourinho-hecho-mbappe-locos.html"
+      "fecha": "2026-08-27T20:17:32+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/betis/20260827/1004220438/betis-vera-cuatro-campeones-copa-europa.html"
     }
   ],
   "salud": {
@@ -74,16 +76,16 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 26,
+    "antiguedad_minima_min": 19,
     "detalle": [
       {
         "medio": "Marca",
         "url": "https://e00-marca.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 57,
+        "items": 71,
         "error": null,
-        "antiguedad_min": 9114,
-        "descartados_por_gancho": 12
+        "antiguedad_min": 341,
+        "descartados_por_gancho": 6
       },
       {
         "medio": "AS",
@@ -98,10 +100,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 139,
+        "items": 140,
         "error": null,
-        "antiguedad_min": 26,
-        "descartados_por_gancho": 9
+        "antiguedad_min": 19,
+        "descartados_por_gancho": 6
       },
       {
         "medio": "Sport",
@@ -110,7 +112,7 @@
         "items": 48,
         "error": null,
         "antiguedad_min": null,
-        "descartados_por_gancho": 2
+        "descartados_por_gancho": 1
       },
       {
         "medio": "NBA",

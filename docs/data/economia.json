@@ -1,71 +1,71 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "portadas",
-  "generado": "2026-08-27T09:44:40+02:00",
+  "modo": "ultimas",
+  "generado": "2026-08-27T20:43:11+02:00",
   "titulares": [
     {
-      "titular": "Nvidia bate previsiones tras disparar sus ingresos un 106%",
+      "titular": "La propuesta de ley de centros de datos incluye grandes sanciones por incumplimiento",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-08-26T22:35:07+02:00",
-      "enlace": "https://www.expansion.com/economia-digital/2026/08/26/6a8f3ce7468aebc3138b457a.html"
+      "fecha": "2026-08-27T20:09:23+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/08/27/6a907d4c468aeb77638b459a.html"
     },
     {
-      "titular": "Norges lanza una ofensiva inmobiliaria en España",
+      "titular": "Ayesa gana un contrato de 11,6 millones para integrar los sistemas de gestión del gasto público andaluz",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-08-27T02:15:16+02:00",
-      "enlace": "https://www.expansion.com/inmobiliario/mercado/2026/08/27/6a8f236e468aeb3a018b457a.html"
+      "fecha": "2026-08-27T18:24:12+02:00",
+      "enlace": "https://www.expansion.com/pais-vasco/2026/08/27/6a90232c468aebc67e8b4573.html"
     },
     {
-      "titular": "La Primera de Expansión sobre Norges, Nvidia, Meta, Nepal, Trump y Harvard",
+      "titular": "La UEFA prepara una denuncia penal contra Infantino por su intento de privatizar el Mundial",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-08-27T07:15:45+02:00",
-      "enlace": "https://www.expansion.com/podcasts/la-primera-de-expansion/2026/08/27/6a8fc22be5fdea64528b4597.html"
+      "fecha": "2026-08-27T18:20:50+02:00",
+      "enlace": "https://www.expansion.com/deporte-negocio/2026/08/27/6a904f94468aeb210c8b457a.html"
     },
     {
-      "titular": "Así invierte Trump en Bolsa: vende Motorola y Meta, y compra Berkshire y Visa",
+      "titular": "El Ibex espera Jackson Hole por debajo de los 19.900 puntos",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-08-27T02:15:18+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/08/27/6a8ea7eee5fdea3c7b8b459e.html"
-    },
-    {
-      "titular": "El método Mourinho: cómo convertir un equipo en una misión",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-27T02:16:10+02:00",
-      "enlace": "https://www.expansion.com/estilo-vida/gestion/2026/08/27/6a8ef0e3468aeb3e148b4582.html"
-    },
-    {
-      "titular": "El Ibex no se atreve con los 20.100 puntos",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-27T08:44:54+02:00",
+      "fecha": "2026-08-27T17:39:13+02:00",
       "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/08/27/6a8fcec2468aebbd4f8b458f.html"
     },
     {
-      "titular": "Comprar oro y bitcoin ante una crisis de deuda",
+      "titular": "Algunos miembros del BCE respaldaron una subida de tipos en julio",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-08-27T02:16:11+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/08/27/6a8f1ef3468aebe1118b4580.html"
+      "fecha": "2026-08-27T17:38:35+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/08/27/6a905967468aebb47d8b4582.html"
+    },
+    {
+      "titular": "La Española repercute las subidas de precios y factura 93 millones",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-27T17:36:17+02:00",
+      "enlace": "https://www.expansion.com/valencia/2026/08/27/6a9058df468aeb4b498b4581.html"
+    },
+    {
+      "titular": "Estados Unidos aprueba el fármaco de Revolution que duplica la supervivencia en cáncer de páncreas",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-27T17:05:35+02:00",
+      "enlace": "https://www.expansion.com/empresas/industria/2026/08/27/6a9051c9e5fdeab4398b457c.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 42,
+    "antiguedad_minima_min": 33,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 66,
+        "items": 73,
         "error": null,
-        "antiguedad_min": 42,
+        "antiguedad_min": 33,
         "descartados_por_gancho": 1
       },
       {
