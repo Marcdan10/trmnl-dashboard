@@ -1,37 +1,26 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "ultimas",
-  "generado": "2026-08-27T20:43:13+02:00",
+  "modo": "portadas",
+  "generado": "2026-08-28T04:23:57+02:00",
   "titulares": [
     {
-      "titular": "FC Barcelona - Athletic Club, en directo",
-      "medios": [
-        "Mundo Deportivo",
-        "Sport"
-      ],
-      "consenso": 2,
-      "fecha": "2026-08-27T20:23:49+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260827/1004218734/fc-barcelona-athletic-club-directo-laliga-ea-sports-futbol-primera-division.html"
-    },
-    {
-      "titular": "La UEFA suspende provisionalmente su boicot a las competiciones de la FIFA",
+      "titular": "El Barça del 'falso 9' se da un atracón de fútbol",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-27T20:18:59+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/20260827/1004220439/uefa-suspende-provisionalmente-boicot-competiciones-fifa.html"
+      "fecha": "2026-08-27T23:02:18+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260827/1004220448/barca-falso-nueve-da-atracon-futbol.html"
     },
     {
-      "titular": "Así queda el sorteo de la fase liga de la Champions, equipo por equipo",
+      "titular": "Gaspar se suma a las bajas de Guillamón y Ferrari en el Heliodoro Rodríguez López",
       "medios": [
-        "Marca",
-        "Mundo Deportivo"
+        "Sport"
       ],
-      "consenso": 2,
-      "fecha": "2026-08-27T19:05:42+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/champions-league/20260827/1004220343/asi-queda-sorteo-fase-liga-champions-league-equipo-equipo.html"
+      "consenso": 1,
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/futbol/gaspar-suma-bajas-guillamon-ferrari-133722017"
     },
     {
       "titular": "Carvajal, Joselu y Ceballos: los agentes libres que ganaron la Champions hace dos años",
@@ -43,31 +32,41 @@
       "enlace": "https://www.marca.com/futbol/2026/08/27/carvajal-joselu-ceballos-agentes-libres-ganaron-champions-dos-anos.html"
     },
     {
-      "titular": "España - Portugal: horario y dónde ver por TV el partido de clasificación para el Mundial",
+      "titular": "El Sporting de Gijón se prueba a domicilio: la previa del encuentro ante el Tenerife",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/baloncesto/espana-portugal-horario-ver-tv-133715844"
+      "enlace": "https://www.sport.es/es/noticias/futbol/sporting-gijon-prueba-domicilio-previa-133722019"
     },
     {
-      "titular": "El emotivo video con el que se despide Rubén Iranzo tras quince temporadas en el Valencia CF",
+      "titular": "Livaković se rinde al Barça: \"Es el club más popular, desde niño soñamos con jugar aquí\"",
       "medios": [
-        "Sport"
+        "Marca"
       ],
       "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/valencia/emotivo-video-despide-ruben-iranzo-133716745"
+      "fecha": "2026-08-27T15:00:55+02:00",
+      "enlace": "https://www.marca.com/futbol/barcelona/2026/08/27/livakovic-rinde-barca-club-popular-nino-sonamos-jugar-aqu-video.html"
     },
     {
-      "titular": "El Betis también se las verá con cuatro campeones",
+      "titular": "El 1x1 del Barça ante el Athletic Club",
+      "medios": [
+        "Mundo Deportivo",
+        "Sport"
+      ],
+      "consenso": 2,
+      "fecha": "2026-08-27T23:13:48+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260827/1004220428/1x1-barca-elche.html"
+    },
+    {
+      "titular": "Durísimo sorteo para Barça, Atlético, Villarreal y Betis; amable para Madrid",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-27T20:17:32+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/betis/20260827/1004220438/betis-vera-cuatro-campeones-copa-europa.html"
+      "fecha": "2026-08-27T19:01:06+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260827/1004220351/durisimo-sorteo-barca-atletico-amable-madrid-betis.html"
     }
   ],
   "salud": {
@@ -76,7 +75,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 19,
+    "antiguedad_minima_min": 219,
     "detalle": [
       {
         "medio": "Marca",
@@ -84,7 +83,7 @@
         "ok": true,
         "items": 71,
         "error": null,
-        "antiguedad_min": 341,
+        "antiguedad_min": 801,
         "descartados_por_gancho": 6
       },
       {
@@ -100,19 +99,19 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 140,
+        "items": 143,
         "error": null,
-        "antiguedad_min": 19,
-        "descartados_por_gancho": 6
+        "antiguedad_min": 219,
+        "descartados_por_gancho": 5
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 48,
+        "items": 50,
         "error": null,
         "antiguedad_min": null,
-        "descartados_por_gancho": 1
+        "descartados_por_gancho": 0
       },
       {
         "medio": "NBA",

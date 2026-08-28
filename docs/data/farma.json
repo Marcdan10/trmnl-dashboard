@@ -1,8 +1,8 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "ultimas",
-  "generado": "2026-08-27T20:43:19+02:00",
+  "modo": "portadas",
+  "generado": "2026-08-28T04:24:01+02:00",
   "titulares": [
     {
       "titular": "El técnico en farmacia en la oficina de farmacia: ¿qué puede hacer y qué no?",
@@ -14,24 +14,6 @@
       "enlace": "https://diariofarma.com/2026/08/27/el-tecnico-en-farmacia-en-la-oficina-de-farmacia-que-puede-hacer-y-que-no"
     },
     {
-      "titular": "La distribución farmacéutica responde al repunte de demanda en Ceuta: \"Tenemos capacidad de sobra\"",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-27T18:31:30+02:00",
-      "enlace": "https://www.redaccionmedica.com/profesionales/farmacia/20260827/la-distribucion-farmaceutica-responde-al-repunte-de-demanda-en-ceuta-tenemos-capacidad-sobra/349609_0.html"
-    },
-    {
-      "titular": "MSD y Moderna amplían al cáncer de pulmón, vejiga y riñón su investigación con vacunas de ARNm",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-27T17:06:14+02:00",
-      "enlace": "https://www.redaccionmedica.com/empresas/20260827/msd-moderna-amplian-al-cancer-de-pulmon-vejiga-rinon-su-investigacion-con-vacunas-arnm/349701_0.html"
-    },
-    {
       "titular": "Cómo llega el MICOF al nuevo curso tras meses de tensión electoral",
       "medios": [
         "El Global"
@@ -41,13 +23,13 @@
       "enlace": "https://elglobalfarma.com/farmacia/micof-nuevo-curso-meses-tension-electoral/"
     },
     {
-      "titular": "Los farmacéuticos recomiendan secar siempre los oídos y usar tapones adecuados para prevenir la otitis del nadador",
+      "titular": "La distribución farmacéutica responde al repunte de demanda en Ceuta: \"Tenemos capacidad de sobra\"",
       "medios": [
-        "El Global"
+        "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-08-27T12:39:14+02:00",
-      "enlace": "https://elglobalfarma.com/farmacia/farmaceuticos-recomiendan-secar-oidos-usar-tapones-otitis/"
+      "fecha": "2026-08-27T18:31:30+02:00",
+      "enlace": "https://www.redaccionmedica.com/profesionales/farmacia/20260827/la-distribucion-farmaceutica-responde-al-repunte-de-demanda-en-ceuta-tenemos-capacidad-sobra/349609_0.html"
     },
     {
       "titular": "Los farmacéuticos de Ceuta acusan falta de movimiento de la ciudadanía",
@@ -59,13 +41,31 @@
       "enlace": "https://diariofarma.com/2026/08/27/los-farmaceuticos-de-ceuta-acusan-falta-de-movimiento-de-la-ciudadania"
     },
     {
-      "titular": "Los sanitarios coinciden: la crema Nivea de lata azul \"va muy bien\", pero no vale para todo",
+      "titular": "Los farmacéuticos recomiendan secar siempre los oídos y usar tapones adecuados para prevenir la otitis del nadador",
+      "medios": [
+        "El Global"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-27T12:39:14+02:00",
+      "enlace": "https://elglobalfarma.com/farmacia/farmaceuticos-recomiendan-secar-oidos-usar-tapones-otitis/"
+    },
+    {
+      "titular": "García niega contagios entre los profesionales sanitarios que atienden a los migrantes en Ceuta",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-08-27T14:59:18+02:00",
-      "enlace": "https://www.redaccionmedica.com/virico/20260827/los-sanitarios-coinciden-la-crema-nivea-de-lata-azul-va-muy-bien-pero-no-vale-para-todo/349739_0.html"
+      "fecha": "2026-08-27T14:56:35+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/ministerio-sanidad/20260827/garcia-niega-contagios-entre-los-profesionales-sanitarios-que-atienden-migrantes-en-ceuta/349756_0.html"
+    },
+    {
+      "titular": "Destacan el papel del laboratorio clínico en la implantación del cribado prenatal",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-26T07:56:48+02:00",
+      "enlace": "https://diariofarma.com/2026/08/26/expertas-destacan-el-papel-del-laboratorio-clinico-en-la-implantacion-equitativa-del-cribado-prenatal"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 98,
+    "antiguedad_minima_min": 559,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 98,
+        "antiguedad_min": 559,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 432,
+        "antiguedad_min": 893,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 131,
+        "antiguedad_min": 592,
         "descartados_por_gancho": 0
       },
       {
