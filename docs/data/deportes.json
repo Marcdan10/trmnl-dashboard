@@ -1,72 +1,72 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "portadas",
-  "generado": "2026-08-28T04:23:57+02:00",
+  "modo": "ultimas",
+  "generado": "2026-08-28T16:28:24+02:00",
   "titulares": [
     {
-      "titular": "El Barça del 'falso 9' se da un atracón de fútbol",
+      "titular": "\"Mi primera cita con mi marido fue en un partido del Celta contra la Juventus\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-27T23:02:18+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260827/1004220448/barca-falso-nueve-da-atracon-futbol.html"
+      "fecha": "2026-08-28T15:43:09+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/celta-vigo/20260828/1004220679/celta-juventus-partido-inolvidable-presidenta-celta.html"
     },
     {
-      "titular": "Gaspar se suma a las bajas de Guillamón y Ferrari en el Heliodoro Rodríguez López",
+      "titular": "Convocatoria del Espanyol para San Sebastián sin Bryan Zaragoza",
       "medios": [
-        "Sport"
+        "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/futbol/gaspar-suma-bajas-guillamon-ferrari-133722017"
+      "fecha": "2026-08-28T15:39:23+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/rcd-espanyol/20260828/1004220673/convocatoria-espanyol-san-sebastian-bryan-zaragoza.html"
     },
     {
-      "titular": "Carvajal, Joselu y Ceballos: los agentes libres que ganaron la Champions hace dos años",
+      "titular": "Real Sociedad, Celta y Getafe ya conocen sus rivales en Europa",
       "medios": [
-        "Marca"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-27T15:02:08+02:00",
-      "enlace": "https://www.marca.com/futbol/2026/08/27/carvajal-joselu-ceballos-agentes-libres-ganaron-champions-dos-anos.html"
-    },
-    {
-      "titular": "El Sporting de Gijón se prueba a domicilio: la previa del encuentro ante el Tenerife",
-      "medios": [
-        "Sport"
-      ],
-      "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/futbol/sporting-gijon-prueba-domicilio-previa-133722019"
-    },
-    {
-      "titular": "Livaković se rinde al Barça: \"Es el club más popular, desde niño soñamos con jugar aquí\"",
-      "medios": [
-        "Marca"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-27T15:00:55+02:00",
-      "enlace": "https://www.marca.com/futbol/barcelona/2026/08/27/livakovic-rinde-barca-club-popular-nino-sonamos-jugar-aqu-video.html"
-    },
-    {
-      "titular": "El 1x1 del Barça ante el Athletic Club",
-      "medios": [
-        "Mundo Deportivo",
-        "Sport"
+        "Marca",
+        "Mundo Deportivo"
       ],
       "consenso": 2,
-      "fecha": "2026-08-27T23:13:48+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260827/1004220428/1x1-barca-elche.html"
+      "fecha": "2026-08-28T13:26:32+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/20260828/1004220643/asi-queda-sorteo-europa-league-conference-real-sociedad-celta-getafe.html"
     },
     {
-      "titular": "Durísimo sorteo para Barça, Atlético, Villarreal y Betis; amable para Madrid",
+      "titular": "El eclipse de luna, en imágenes: así se ha visto desde España",
+      "medios": [
+        "Marca"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-28T09:14:10+02:00",
+      "enlace": "https://www.marca.com/tiramillas/sociedad/2026/08/28/eclipse-luna-imagenes-asi-visto-espana.html"
+    },
+    {
+      "titular": "El PSG, ¡multado por el estado de su césped!",
+      "medios": [
+        "Sport"
+      ],
+      "consenso": 1,
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/futbol-internacional/psg-multado-cesped-133738696"
+    },
+    {
+      "titular": "Manolo González: \"Es el año en el que estoy más contento con la plantilla\"",
+      "medios": [
+        "Sport"
+      ],
+      "consenso": 1,
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/espanyol/manolo-gonzalez-ano-contento-plantilla-133736720"
+    },
+    {
+      "titular": "Vuelta a España 2026, en directo: Sigue la Etapa 7",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-27T19:01:06+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260827/1004220351/durisimo-sorteo-barca-atletico-amable-madrid-betis.html"
+      "fecha": "2026-08-28T15:30:02+02:00",
+      "enlace": "https://www.mundodeportivo.com/ciclismo/20260828/1004220660/vuelta-a-espana-2026-ciclismo-hoy-en-directo-etapa-7-ext-pau.html"
     }
   ],
   "salud": {
@@ -75,16 +75,16 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 219,
+    "antiguedad_minima_min": 45,
     "detalle": [
       {
         "medio": "Marca",
         "url": "https://e00-marca.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 71,
+        "items": 56,
         "error": null,
-        "antiguedad_min": 801,
-        "descartados_por_gancho": 6
+        "antiguedad_min": 434,
+        "descartados_por_gancho": 11
       },
       {
         "medio": "AS",
@@ -99,16 +99,16 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 143,
+        "items": 136,
         "error": null,
-        "antiguedad_min": 219,
-        "descartados_por_gancho": 5
+        "antiguedad_min": 45,
+        "descartados_por_gancho": 7
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 50,
+        "items": 48,
         "error": null,
         "antiguedad_min": null,
         "descartados_por_gancho": 0
