@@ -1,36 +1,26 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "ultimas",
-  "generado": "2026-08-28T16:28:24+02:00",
+  "modo": "portadas",
+  "generado": "2026-08-29T01:38:01+02:00",
   "titulares": [
     {
-      "titular": "\"Mi primera cita con mi marido fue en un partido del Celta contra la Juventus\"",
+      "titular": "Espíritu Flick en un Barça que enamora",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-28T15:43:09+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/celta-vigo/20260828/1004220679/celta-juventus-partido-inolvidable-presidenta-celta.html"
+      "fecha": "2026-08-29T00:30:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260829/1004220779/espiritu-flick-barca-enamora.html"
     },
     {
-      "titular": "Convocatoria del Espanyol para San Sebastián sin Bryan Zaragoza",
+      "titular": "Cuatro colores, cuatro actitudes: HUAWEI Watch GT 7 llega para redefinir el reloj outdoor",
       "medios": [
-        "Mundo Deportivo"
+        "Sport"
       ],
       "consenso": 1,
-      "fecha": "2026-08-28T15:39:23+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/rcd-espanyol/20260828/1004220673/convocatoria-espanyol-san-sebastian-bryan-zaragoza.html"
-    },
-    {
-      "titular": "Real Sociedad, Celta y Getafe ya conocen sus rivales en Europa",
-      "medios": [
-        "Marca",
-        "Mundo Deportivo"
-      ],
-      "consenso": 2,
-      "fecha": "2026-08-28T13:26:32+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/20260828/1004220643/asi-queda-sorteo-europa-league-conference-real-sociedad-celta-getafe.html"
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/outdoor/cuatro-colores-cuatro-actitudes-huawei-133705384"
     },
     {
       "titular": "El eclipse de luna, en imágenes: así se ha visto desde España",
@@ -42,31 +32,40 @@
       "enlace": "https://www.marca.com/tiramillas/sociedad/2026/08/28/eclipse-luna-imagenes-asi-visto-espana.html"
     },
     {
-      "titular": "El PSG, ¡multado por el estado de su césped!",
-      "medios": [
-        "Sport"
-      ],
-      "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/futbol-internacional/psg-multado-cesped-133738696"
-    },
-    {
-      "titular": "Manolo González: \"Es el año en el que estoy más contento con la plantilla\"",
-      "medios": [
-        "Sport"
-      ],
-      "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/espanyol/manolo-gonzalez-ano-contento-plantilla-133736720"
-    },
-    {
-      "titular": "Vuelta a España 2026, en directo: Sigue la Etapa 7",
+      "titular": "Julián se entrenó en solitario, por la tarde, tras una última surrealista oferta desde la Premier",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-28T15:30:02+02:00",
-      "enlace": "https://www.mundodeportivo.com/ciclismo/20260828/1004220660/vuelta-a-espana-2026-ciclismo-hoy-en-directo-etapa-7-ext-pau.html"
+      "fecha": "2026-08-28T20:00:30+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20260828/1004220760/julian-entreno-solitario-tarde-ultima-surrealista-oferta-premier.html"
+    },
+    {
+      "titular": "Así es el comunicado del Deportivo tras la reunión con la Federación de Peñas y los colectivos de Marathón Inferior",
+      "medios": [
+        "Sport"
+      ],
+      "consenso": 1,
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/futbol/comunicado-deportivo-reunion-federacion-penas-133751652"
+    },
+    {
+      "titular": "Xabi Alonso se carga a Enzo Fernández y su salida al Manchester City se calienta",
+      "medios": [
+        "Marca"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-28T08:44:37+02:00",
+      "enlace": "https://www.marca.com/futbol/premier-league/2026/08/28/xabi-alonso-carga-enzo-fernandez-salida-manchester-city-calienta.html"
+    },
+    {
+      "titular": "El análisis de Iñigo Pérez tras el Alavés-Villarreal: \"Esos momentos de desconexión nos penalizan\"",
+      "medios": [
+        "Sport"
+      ],
+      "consenso": 1,
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/villarreal/analisis-inigo-perez-alaves-villarreal-133751421"
     }
   ],
   "salud": {
@@ -75,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 45,
+    "antiguedad_minima_min": 68,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +82,7 @@
         "ok": true,
         "items": 56,
         "error": null,
-        "antiguedad_min": 434,
+        "antiguedad_min": 983,
         "descartados_por_gancho": 11
       },
       {
@@ -101,17 +100,17 @@
         "ok": true,
         "items": 136,
         "error": null,
-        "antiguedad_min": 45,
-        "descartados_por_gancho": 7
+        "antiguedad_min": 68,
+        "descartados_por_gancho": 6
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 48,
+        "items": 47,
         "error": null,
         "antiguedad_min": null,
-        "descartados_por_gancho": 0
+        "descartados_por_gancho": 2
       },
       {
         "medio": "NBA",

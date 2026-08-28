@@ -1,71 +1,71 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "ultimas",
-  "generado": "2026-08-28T16:28:23+02:00",
+  "modo": "portadas",
+  "generado": "2026-08-29T01:37:59+02:00",
   "titulares": [
     {
-      "titular": "Warsh afirma en Jackson Hole que la Fed tendrá \"trabajo por hacer\" si la inflación no baja pronto",
+      "titular": "Las siete las claves de la nueva jubilación flexible para cobrar salario y pensión",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-08-28T16:08:16+02:00",
-      "enlace": "https://www.expansion.com/economia/financial-times/2026/08/28/6a9195d2e5fdea8b3e8b4582.html"
+      "fecha": "2026-08-28T23:17:43+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/08/28/6a901f32468aeb9c518b4575.html"
     },
     {
-      "titular": "Las autoridades de Nepal elevan a cerca de 553 los fallecidos en las inundaciones y Exteriores rebaja a 3 los españoles desaparecidos",
+      "titular": "Los bonos a corto, refugio en época de incertidumbre",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-08-28T15:47:29+02:00",
-      "enlace": "https://www.expansion.com/sociedad/2026/08/28/6a91392be5fdea2b328b457c.html"
+      "fecha": "2026-08-29T00:07:13+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/08/28/6a91e9f0468aebf9068b458a.html"
     },
     {
-      "titular": "Venezuela estudia retirarse de la OPEP, lo que supondría la primera salida de uno de sus miembros fundadores",
+      "titular": "Las mejores inversiones en Bolsa para la vuelta de vacaciones",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-08-28T15:39:03+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/08/28/6a918f6fe5fdea843c8b4587.html"
+      "fecha": "2026-08-29T00:07:27+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/08/28/6a91ec12e5fdeafd1e8b458a.html"
     },
     {
-      "titular": "Africa impulsa su particular carrera espacial con nanosatélites",
+      "titular": "'Tienda 9': así son los nuevos Mercadona",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-08-28T14:30:08+02:00",
-      "enlace": "https://www.expansion.com/economia/financial-times/2026/08/28/6a917537e5fdea033b8b4572.html"
+      "fecha": "2026-08-29T00:08:02+02:00",
+      "enlace": "https://www.expansion.com/empresas/distribucion/2026/08/28/6a91ca5fe5fdea2b328b458f.html"
     },
     {
-      "titular": "Arabia Saudí introduce cambios radicales en uno de sus proyectos más emblemáticos de Riad",
+      "titular": "Unicaja y Sabadell, los bancos más expuestos en una guerra de depósitos",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-08-28T14:19:43+02:00",
-      "enlace": "https://www.expansion.com/economia/financial-times/2026/08/28/6a917b87468aeba15b8b4577.html"
+      "fecha": "2026-08-29T00:07:59+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/08/28/6a91ece6e5fdea1c198b4588.html"
     },
     {
-      "titular": "Verdifresh, proveedor de ensaladas de Mercadona, crece un 19% y factura 163 millones",
+      "titular": "Once fondos indexados para empezar a montar una cartera de inversión",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-08-28T14:07:47+02:00",
-      "enlace": "https://www.expansion.com/valencia/2026/08/28/6a91737c468aebd5668b456f.html"
+      "fecha": "2026-08-29T00:08:33+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/08/28/6a91ee40468aebb56b8b458b.html"
     },
     {
-      "titular": "Novo Nordisk busca que China apruebe la píldora para la obesidad",
+      "titular": "Cinco hoteles urbanos donde la ciudad le come terreno a la playa este verano",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-08-28T13:29:25+02:00",
-      "enlace": "https://www.expansion.com/empresas/industria/2026/08/28/6a90ad02e5fdeaf1608b457e.html"
+      "fecha": "2026-08-29T00:08:44+02:00",
+      "enlace": "https://www.expansion.com/estilo-vida/viajes/2026/08/28/6a91601f468aeb172d8b456f.html"
     }
   ],
   "salud": {
@@ -78,16 +78,16 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 20,
+    "antiguedad_minima_min": 86,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 67,
+        "items": 73,
         "error": null,
-        "antiguedad_min": 20,
-        "descartados_por_gancho": 1
+        "antiguedad_min": 86,
+        "descartados_por_gancho": 0
       },
       {
         "medio": "Cinco Días",
