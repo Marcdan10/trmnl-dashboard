@@ -2,25 +2,26 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-08-29T13:43:53+02:00",
+  "generado": "2026-08-29T18:02:57+02:00",
   "titulares": [
     {
-      "titular": "El Atlético ya conoce su calendario de Champions y los peores temores se cumplen",
+      "titular": "\"Me duele en el alma no haber estado a la altura\"",
       "medios": [
-        "Mundo Deportivo"
+        "Mundo Deportivo",
+        "Sport"
       ],
-      "consenso": 1,
-      "fecha": "2026-08-29T13:26:57+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20260829/1004220937/atletico-conoce-calendario-champions-peores-temores-cumplen.html"
+      "consenso": 2,
+      "fecha": "2026-08-29T17:52:15+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/elche-cf/20260829/1004221003/me-duele-alma-no-haber-altura.html"
     },
     {
-      "titular": "Así queda todo el calendario de la fase liga de la Champions League, jornada por jornada",
+      "titular": "\"Empecé a entrenar con el primer equipo y a no me daba para el Real Madrid\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-29T13:25:19+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/champions-league/20260829/1004220936/asi-queda-calendario-fase-liga-champions-league-jornada-jornada.html"
+      "fecha": "2026-08-29T17:50:31+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/20260829/1004221005/empece-entrenar-primer-equipo-no-me-daba-real-madrid.html"
     },
     {
       "titular": "El eclipse de luna, en imágenes: así se ha visto desde España",
@@ -41,31 +42,31 @@
       "enlace": "https://www.marca.com/futbol/premier-league/2026/08/28/xabi-alonso-carga-enzo-fernandez-salida-manchester-city-calienta.html"
     },
     {
-      "titular": "Perico Delgado: \"Antes de competir, desayunaba tortilla, carne, pasta o arroz, pan, bollería y café con leche. Esto lo haces ahora y te echan\"",
+      "titular": "Jon Rahm (31 años): \"Mis padres empezaron a jugar en Bilbao y a mí me entró el gusanillo. Después de clase empecé a dar bolas y vi que me gustaba\"",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/ciclismo/perico-delgado-leyenda-ciclismo-competir-133756516"
+      "enlace": "https://www.sport.es/es/noticias/deportes/golf/jon-rahm-padres-bilbao-golf-gustar-133761857"
     },
     {
-      "titular": "UTMB 2026, en directo y online hoy: tiempos de Ben Dhiman, Pablo Villa y Pau Capell en Chamonix",
+      "titular": "Sabadell - Almería, en directo: sigue el partido de LaLiga Hypermotion, en vivo hoy",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/outdoor/utmb-2026-directo-online-hoy-live-resultados-133736930"
+      "enlace": "https://www.sport.es/es/noticias/futbol/segunda/sabadell-almeria-directo-sigue-partido-133741056"
     },
     {
-      "titular": "Este es el calendario del Real Madrid en la Champions",
+      "titular": "El Levante negocia los últimos flecos para cerrar un fichaje procedente del Leverskuen",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-29T13:20:26+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260829/1004220934/calendario-real-madrid-champions.html"
+      "fecha": "2026-08-29T17:45:11+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/levante/20260829/1004221001/levante-negocia-ultimos-flecos-cerrar-fichaje-procedente-leverskuen.html"
     }
   ],
   "salud": {
@@ -74,7 +75,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 16,
+    "antiguedad_minima_min": 10,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +83,7 @@
         "ok": true,
         "items": 56,
         "error": null,
-        "antiguedad_min": 1709,
+        "antiguedad_min": 1968,
         "descartados_por_gancho": 11
       },
       {
@@ -98,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 137,
+        "items": 140,
         "error": null,
-        "antiguedad_min": 16,
-        "descartados_por_gancho": 5
+        "antiguedad_min": 10,
+        "descartados_por_gancho": 3
       },
       {
         "medio": "Sport",
@@ -110,7 +111,7 @@
         "items": 47,
         "error": null,
         "antiguedad_min": null,
-        "descartados_por_gancho": 0
+        "descartados_por_gancho": 1
       },
       {
         "medio": "NBA",

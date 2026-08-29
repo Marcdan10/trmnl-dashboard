@@ -2,62 +2,63 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-08-29T13:43:49+02:00",
+  "generado": "2026-08-29T18:02:53+02:00",
   "titulares": [
     {
-      "titular": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Feijóo exige la comparecencia de la directora del CNI y advierte de que “habrá consecuencias” por la gestión de la crisis de Ceuta",
+      "titular": "Un hombre, herido grave tras sufrir un accidente en el Parque Warner de Madrid",
+      "medios": [
+        "El País",
+        "ABC"
+      ],
+      "consenso": 2,
+      "fecha": "2026-08-29T17:50:44+02:00",
+      "enlace": "https://www.abc.es/espana/madrid/hombre-herido-grave-tras-sufrir-accidente-parque-20260829174634-nt.html"
+    },
+    {
+      "titular": "Una tremenda caída retira a Pogacar de la Vuelta",
+      "medios": [
+        "La Vanguardia",
+        "ABC"
+      ],
+      "consenso": 2,
+      "fecha": "2026-08-29T17:48:07+02:00",
+      "enlace": "https://www.abc.es/deportes/ciclismo/xxxx-20260829151203-nt.html"
+    },
+    {
+      "titular": "Paredes esquiva las disculpas: «Mi sanción es exagerada, a Gavi le pusieron solo un partido»",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-29T17:40:23+02:00",
+      "enlace": "https://www.abc.es/deportes/futbol/paredes-esquiva-disculpas-sancion-exagerada-gavi-pusieron-20260829164512-nt.html"
+    },
+    {
+      "titular": "Fallece María Pardo, exconcejala del PP en Santiago, a los 57 años",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-29T17:39:14+02:00",
+      "enlace": "https://www.abc.es/espana/galicia/fallece-maria-pardo-exconcejala-urbanismo-pp-santiago-20260829125915-nt.html"
+    },
+    {
+      "titular": "Las protestas ciudadanas se frenan en Ceuta por temor a que las vinculen con ultras",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-08-29T13:35:41+02:00",
-      "enlace": "https://elpais.com/espana/2026-08-29/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html"
+      "fecha": "2026-08-29T17:35:44+02:00",
+      "enlace": "https://elpais.com/espana/2026-08-29/las-protestas-ciudadanas-se-frenan-en-ceuta-por-temor-a-que-las-vinculen-con-ultras.html"
     },
     {
-      "titular": "Lotería Nacional: comprobar el sorteo del sábado 29 de agosto",
-      "medios": [
-        "El País",
-        "La Vanguardia"
-      ],
-      "consenso": 2,
-      "fecha": "2026-08-29T13:20:00+02:00",
-      "enlace": "https://elpais.com/sorteos/2026-08-29/loteria-nacional-sorteo-del-sabado-29-de-agosto.html"
-    },
-    {
-      "titular": "Al menos 27 muertos y 40 heridos en un nuevo ataque ruso a un centro logístico cercano a Kiev",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-29T13:16:38+02:00",
-      "enlace": "https://www.abc.es/internacional/muertos-heridos-nuevo-ataque-ruso-centro-logistico-20260829125529-nt.html"
-    },
-    {
-      "titular": "Feijóo arranca el curso político en Galicia con el foco puesto en Ceuta",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-29T13:09:44+02:00",
-      "enlace": "https://www.abc.es/espana/crisis-ceuta-directo-ultima-hora-manifestaciones-inmigrantes-hoy-20260829150651-di.html"
-    },
-    {
-      "titular": "Mourinho inicia la campaña por el Balón de Oro: “El mejor no está ni en la selección española ni en el PSG... Está aquí”",
+      "titular": "Jesús Calleja expresa su solidaridad con el pueblo nepalí tras la devastadora riada",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-08-29T12:37:58+02:00",
-      "enlace": "https://www.lavanguardia.com/deportes/real-madrid/20260829/11622252/mourinho-inicia-campana-balon-oro-mejor-esta-seleccion-espanola-psg-esta.html"
-    },
-    {
-      "titular": "Familias de militares de Ceuta se concentrarán contra un espacio para migrantes cerca de sus casas",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-29T12:11:46+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20260829/11622240/familias-militares-ceuta-concentraran-espacio-migrantes-cerca-casas.html"
+      "fecha": "2026-08-29T17:15:40+02:00",
+      "enlace": "https://www.lavanguardia.com/gente/20260829/11622329/jesus-calleja-expresa-solidaridad-pueblo-nepali-devastadora-riada.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -75,7 +76,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 8,
+    "antiguedad_minima_min": 12,
     "detalle": [
       {
         "medio": "RTVE",
@@ -83,7 +84,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2219798,
+        "antiguedad_min": 2220057,
         "descartados_por_gancho": 0
       },
       {
@@ -91,25 +92,25 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 500",
+        "error": "HTTP 429",
         "antiguedad_min": null
       },
       {
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 144,
+        "items": 143,
         "error": null,
-        "antiguedad_min": 8,
-        "descartados_por_gancho": 8
+        "antiguedad_min": 27,
+        "descartados_por_gancho": 6
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 116,
+        "items": 113,
         "error": null,
-        "antiguedad_min": 65,
+        "antiguedad_min": 41,
         "descartados_por_gancho": 17
       },
       {
@@ -118,7 +119,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 27,
+        "antiguedad_min": 12,
         "descartados_por_gancho": 0
       }
     ]

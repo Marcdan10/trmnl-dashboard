@@ -2,8 +2,44 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-08-29T13:43:51+02:00",
+  "generado": "2026-08-29T18:02:55+02:00",
   "titulares": [
+    {
+      "titular": "Casi el 60% de los adultos podría padecer aterosclerosis sin saberlo",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-29T15:57:41+02:00",
+      "enlace": "https://www.expansion.com/sociedad/2026/08/29/6a92be04468aeb0a068b4598.html"
+    },
+    {
+      "titular": "El presidente iraní admite problemas en el país por las sanciones y el bloqueo de EEUU",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-29T15:23:17+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/08/29/6a92cc8ee5fdeacd268b458a.html"
+    },
+    {
+      "titular": "El expresidente ecuatoriano Lenín Moreno, condenado a cinco años de cárcel por sobornos",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-29T14:10:35+02:00",
+      "enlace": "https://www.expansion.com/latinoamerica/2026/08/29/6a92c67b468aeb7a158b45a0.html"
+    },
+    {
+      "titular": "'Operación Despensa': precios más altos para reponer la nevera tras las vacaciones",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-29T13:45:33+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/08/29/6a92c3f6468aebf9068b45a8.html"
+    },
     {
       "titular": "El PP se personará en la causa abierta en la Audiencia Nacional por la crisis de Ceuta",
       "medios": [
@@ -30,42 +66,6 @@
       "consenso": 1,
       "fecha": "2026-08-29T12:08:53+02:00",
       "enlace": "https://www.expansion.com/mercados/2026/08/29/6a92aae7468aeb0a068b4590.html"
-    },
-    {
-      "titular": "Seis claves para entender la salida a Bolsa de Shein",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-29T11:39:15+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/08/29/6a92a454e5fdea400b8b4599.html"
-    },
-    {
-      "titular": "El mercado español del videojuego factura 2.293 millones tras crecer más de un 30% en un lustro",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-29T11:10:27+02:00",
-      "enlace": "https://www.expansion.com/economia-digital/2026/08/29/6a929ef5468aebe7598b4573.html"
-    },
-    {
-      "titular": "Honda y Nissan desarrollarán conjuntamente un software para vehículos",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-29T10:55:40+02:00",
-      "enlace": "https://www.expansion.com/empresas/motor/2026/08/29/6a929c96e5fdeaad768b4596.html"
-    },
-    {
-      "titular": "Nepal eleva a 626 la cifra de muertos y a 2.426 la de los desaparecidos por la riada",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-29T10:37:07+02:00",
-      "enlace": "https://www.expansion.com/sociedad/2026/08/29/6a9298f6e5fdea48648b4596.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 11,
+    "antiguedad_minima_min": 125,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 71,
+        "items": 72,
         "error": null,
-        "antiguedad_min": 11,
+        "antiguedad_min": 125,
         "descartados_por_gancho": 0
       },
       {
