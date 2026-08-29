@@ -2,17 +2,34 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-08-29T18:02:53+02:00",
+  "generado": "2026-08-29T21:27:06+02:00",
   "titulares": [
     {
-      "titular": "Un hombre, herido grave tras sufrir un accidente en el Parque Warner de Madrid",
+      "titular": "La ciberguerra que golpea a Marruecos desde 2025 se extiende a la crisis de Ceuta",
       "medios": [
-        "El País",
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-29T21:18:31+02:00",
+      "enlace": "https://elpais.com/espana/2026-08-29/la-ciberguerra-que-golpea-a-marruecos-desde-2025-se-extiende-a-la-crisis-de-ceuta.html"
+    },
+    {
+      "titular": "Haakon asume el trono mientras Noruega llora la muerte del Rey Harald",
+      "medios": [
         "ABC"
       ],
-      "consenso": 2,
-      "fecha": "2026-08-29T17:50:44+02:00",
-      "enlace": "https://www.abc.es/espana/madrid/hombre-herido-grave-tras-sufrir-accidente-parque-20260829174634-nt.html"
+      "consenso": 1,
+      "fecha": "2026-08-29T21:01:28+02:00",
+      "enlace": "https://www.abc.es/internacional/haakon-asume-tron-noruega-llora-muerte-rey-20260828011350-nt.html"
+    },
+    {
+      "titular": "Una «Armada de la solidaridad» zarpará este sábado hacia Ceuta",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-29T20:56:09+02:00",
+      "enlace": "https://www.abc.es/espana/armada-solidaridad-decenas-embarcaciones-zarpara-sabado-ceuta-20260828121525-nt.html"
     },
     {
       "titular": "Una tremenda caída retira a Pogacar de la Vuelta",
@@ -21,44 +38,26 @@
         "ABC"
       ],
       "consenso": 2,
-      "fecha": "2026-08-29T17:48:07+02:00",
+      "fecha": "2026-08-29T20:54:25+02:00",
       "enlace": "https://www.abc.es/deportes/ciclismo/xxxx-20260829151203-nt.html"
     },
     {
-      "titular": "Paredes esquiva las disculpas: «Mi sanción es exagerada, a Gavi le pusieron solo un partido»",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-29T17:40:23+02:00",
-      "enlace": "https://www.abc.es/deportes/futbol/paredes-esquiva-disculpas-sancion-exagerada-gavi-pusieron-20260829164512-nt.html"
-    },
-    {
-      "titular": "Fallece María Pardo, exconcejala del PP en Santiago, a los 57 años",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-29T17:39:14+02:00",
-      "enlace": "https://www.abc.es/espana/galicia/fallece-maria-pardo-exconcejala-urbanismo-pp-santiago-20260829125915-nt.html"
-    },
-    {
-      "titular": "Las protestas ciudadanas se frenan en Ceuta por temor a que las vinculen con ultras",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-29T17:35:44+02:00",
-      "enlace": "https://elpais.com/espana/2026-08-29/las-protestas-ciudadanas-se-frenan-en-ceuta-por-temor-a-que-las-vinculen-con-ultras.html"
-    },
-    {
-      "titular": "Jesús Calleja expresa su solidaridad con el pueblo nepalí tras la devastadora riada",
+      "titular": "Haakon VIII confirma que compartirá con la reina Mette-Marit su compromiso con Noruega",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-08-29T17:15:40+02:00",
-      "enlace": "https://www.lavanguardia.com/gente/20260829/11622329/jesus-calleja-expresa-solidaridad-pueblo-nepali-devastadora-riada.html"
+      "fecha": "2026-08-29T20:36:40+02:00",
+      "enlace": "https://www.lavanguardia.com/internacional/20260829/11622424/haakon-viii-confirma-compartira-reina-mette-marit-compromiso-noruega.html"
+    },
+    {
+      "titular": "Haakon VIII de Noruega llama a defender la libertad “incluso con la vida” en su primer discurso como rey",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-29T20:29:50+02:00",
+      "enlace": "https://elpais.com/internacional/2026-08-29/haakon-viii-de-noruega-llama-a-defender-la-libertad-incluso-con-la-vida-en-su-primer-discurso-como-rey.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -76,7 +75,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 12,
+    "antiguedad_minima_min": 8,
     "detalle": [
       {
         "medio": "RTVE",
@@ -84,7 +83,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2220057,
+        "antiguedad_min": 2220262,
         "descartados_por_gancho": 0
       },
       {
@@ -92,26 +91,26 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 429",
+        "error": "HTTP 500",
         "antiguedad_min": null
       },
       {
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 143,
+        "items": 145,
         "error": null,
-        "antiguedad_min": 27,
-        "descartados_por_gancho": 6
+        "antiguedad_min": 8,
+        "descartados_por_gancho": 5
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 113,
+        "items": 116,
         "error": null,
-        "antiguedad_min": 41,
-        "descartados_por_gancho": 17
+        "antiguedad_min": 50,
+        "descartados_por_gancho": 14
       },
       {
         "medio": "ABC",
@@ -119,7 +118,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 12,
+        "antiguedad_min": 25,
         "descartados_por_gancho": 0
       }
     ]
