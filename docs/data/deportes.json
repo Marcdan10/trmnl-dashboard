@@ -2,7 +2,7 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-08-29T01:38:01+02:00",
+  "generado": "2026-08-29T07:10:34+02:00",
   "titulares": [
     {
       "titular": "Espíritu Flick en un Barça que enamora",
@@ -14,13 +14,13 @@
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260829/1004220779/espiritu-flick-barca-enamora.html"
     },
     {
-      "titular": "Cuatro colores, cuatro actitudes: HUAWEI Watch GT 7 llega para redefinir el reloj outdoor",
+      "titular": "Óscar Cano, de solución de emergencia a brújula del sueño del Zamora CF",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/outdoor/cuatro-colores-cuatro-actitudes-huawei-133705384"
+      "enlace": "https://www.sport.es/es/noticias/futbol/segunda-rfef/oscar-cano-solucion-emergencia-brujula-133753908"
     },
     {
       "titular": "El eclipse de luna, en imágenes: así se ha visto desde España",
@@ -41,13 +41,13 @@
       "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20260828/1004220760/julian-entreno-solitario-tarde-ultima-surrealista-oferta-premier.html"
     },
     {
-      "titular": "Así es el comunicado del Deportivo tras la reunión con la Federación de Peñas y los colectivos de Marathón Inferior",
+      "titular": "Las enseñanzas de don Manuel Ruiz de Lopera, al servicio del Zamora CF",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/futbol/comunicado-deportivo-reunion-federacion-penas-133751652"
+      "enlace": "https://www.sport.es/es/noticias/futbol/segunda-rfef/ensenanzas-don-manuel-ruiz-lopera-133753912"
     },
     {
       "titular": "Xabi Alonso se carga a Enzo Fernández y su salida al Manchester City se calienta",
@@ -59,13 +59,13 @@
       "enlace": "https://www.marca.com/futbol/premier-league/2026/08/28/xabi-alonso-carga-enzo-fernandez-salida-manchester-city-calienta.html"
     },
     {
-      "titular": "El análisis de Iñigo Pérez tras el Alavés-Villarreal: \"Esos momentos de desconexión nos penalizan\"",
+      "titular": "Horario y dónde ver por televisión el Real Madrid - Málaga CF",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/villarreal/analisis-inigo-perez-alaves-villarreal-133751421"
+      "enlace": "https://www.sport.es/es/noticias/futbol/horario-ver-television-real-madrid-133753921"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 68,
+    "antiguedad_minima_min": 20,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 56,
         "error": null,
-        "antiguedad_min": 983,
+        "antiguedad_min": 1316,
         "descartados_por_gancho": 11
       },
       {
@@ -98,16 +98,16 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 136,
+        "items": 137,
         "error": null,
-        "antiguedad_min": 68,
+        "antiguedad_min": 20,
         "descartados_por_gancho": 6
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 47,
+        "items": 48,
         "error": null,
         "antiguedad_min": null,
         "descartados_por_gancho": 2

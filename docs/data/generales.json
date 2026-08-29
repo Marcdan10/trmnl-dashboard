@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-08-29T01:37:56+02:00",
+  "generado": "2026-08-29T07:10:26+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -14,16 +14,16 @@
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
     },
     {
-      "titular": "España pide a la UE el apoyo de Frontex para “agilizar” la clasificación de migrantes en Ceuta",
+      "titular": "El Gobierno acelera los trámites para sacar en dos semanas a todos los inmigrantes de la calle y poder devolver a la mayoría",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-08-28T19:47:09+02:00",
-      "enlace": "https://elpais.com/espana/2026-08-28/espana-pide-a-la-ue-el-apoyo-de-frontex-para-agilizar-la-clasificacion-de-migrantes-en-ceuta.html"
+      "fecha": "2026-08-29T05:45:01+02:00",
+      "enlace": "https://elpais.com/espana/2026-08-29/el-gobierno-acelera-los-tramites-para-sacar-en-dos-semanas-a-todos-los-inmigrantes-de-la-calle-y-poder-devolver-a-la-mayoria.html"
     },
     {
-      "titular": "España pide ayuda a Frontex para acelerar la devolución de los migrantes",
+      "titular": "España pide a la UE el apoyo de Frontex para acelerar la devolución de los migrantes",
       "medios": [
         "La Vanguardia"
       ],
@@ -32,13 +32,13 @@
       "enlace": "https://www.lavanguardia.com/politica/20260829/11622182/espana-pide-ayuda-frontex-acelerar-devolucion-migrantes.html"
     },
     {
-      "titular": "Pablo Heras-Casado: «La música es música, es un idioma sin fronteras ni culturas»",
+      "titular": "¿Qué puede hacer Tini para recuperar el control de su millonaria fortuna?",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-08-29T01:10:26+02:00",
-      "enlace": "https://www.abc.es/cultura/musica/pablo-herascasado-musica-musica-idioma-fronteras-culturas-20260828011026-nt.html"
+      "fecha": "2026-08-29T02:24:54+02:00",
+      "enlace": "https://www.abc.es/gente/tini-stoessel-20260826010815-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 2,
+    "antiguedad_minima_min": 16,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2219072,
+        "antiguedad_min": 2219405,
         "descartados_por_gancho": 0
       },
       {
@@ -97,18 +97,18 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 144,
+        "items": 140,
         "error": null,
-        "antiguedad_min": 2,
-        "descartados_por_gancho": 4
+        "antiguedad_min": 16,
+        "descartados_por_gancho": 9
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 123,
+        "items": 121,
         "error": null,
-        "antiguedad_min": 67,
+        "antiguedad_min": 70,
         "descartados_por_gancho": 13
       },
       {
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 23,
         "error": null,
-        "antiguedad_min": 27,
+        "antiguedad_min": 285,
         "descartados_por_gancho": 2
       }
     ]
