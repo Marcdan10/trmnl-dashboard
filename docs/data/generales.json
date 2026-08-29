@@ -1,9 +1,64 @@
 {
   "pantalla": "generales",
   "titulo": "Titulares",
-  "modo": "portadas",
-  "generado": "2026-08-29T07:10:26+02:00",
+  "modo": "ultimas",
+  "generado": "2026-08-29T13:43:49+02:00",
   "titulares": [
+    {
+      "titular": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Feijóo exige la comparecencia de la directora del CNI y advierte de que “habrá consecuencias” por la gestión de la crisis de Ceuta",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-29T13:35:41+02:00",
+      "enlace": "https://elpais.com/espana/2026-08-29/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html"
+    },
+    {
+      "titular": "Lotería Nacional: comprobar el sorteo del sábado 29 de agosto",
+      "medios": [
+        "El País",
+        "La Vanguardia"
+      ],
+      "consenso": 2,
+      "fecha": "2026-08-29T13:20:00+02:00",
+      "enlace": "https://elpais.com/sorteos/2026-08-29/loteria-nacional-sorteo-del-sabado-29-de-agosto.html"
+    },
+    {
+      "titular": "Al menos 27 muertos y 40 heridos en un nuevo ataque ruso a un centro logístico cercano a Kiev",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-29T13:16:38+02:00",
+      "enlace": "https://www.abc.es/internacional/muertos-heridos-nuevo-ataque-ruso-centro-logistico-20260829125529-nt.html"
+    },
+    {
+      "titular": "Feijóo arranca el curso político en Galicia con el foco puesto en Ceuta",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-29T13:09:44+02:00",
+      "enlace": "https://www.abc.es/espana/crisis-ceuta-directo-ultima-hora-manifestaciones-inmigrantes-hoy-20260829150651-di.html"
+    },
+    {
+      "titular": "Mourinho inicia la campaña por el Balón de Oro: “El mejor no está ni en la selección española ni en el PSG... Está aquí”",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-29T12:37:58+02:00",
+      "enlace": "https://www.lavanguardia.com/deportes/real-madrid/20260829/11622252/mourinho-inicia-campana-balon-oro-mejor-esta-seleccion-espanola-psg-esta.html"
+    },
+    {
+      "titular": "Familias de militares de Ceuta se concentrarán contra un espacio para migrantes cerca de sus casas",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-29T12:11:46+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20260829/11622240/familias-militares-ceuta-concentraran-espacio-migrantes-cerca-casas.html"
+    },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
       "medios": [
@@ -12,60 +67,6 @@
       "consenso": 1,
       "fecha": "2022-06-10T01:05:00+02:00",
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
-    },
-    {
-      "titular": "El Gobierno acelera los trámites para sacar en dos semanas a todos los inmigrantes de la calle y poder devolver a la mayoría",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-29T05:45:01+02:00",
-      "enlace": "https://elpais.com/espana/2026-08-29/el-gobierno-acelera-los-tramites-para-sacar-en-dos-semanas-a-todos-los-inmigrantes-de-la-calle-y-poder-devolver-a-la-mayoria.html"
-    },
-    {
-      "titular": "España pide a la UE el apoyo de Frontex para acelerar la devolución de los migrantes",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-29T00:05:00+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20260829/11622182/espana-pide-ayuda-frontex-acelerar-devolucion-migrantes.html"
-    },
-    {
-      "titular": "¿Qué puede hacer Tini para recuperar el control de su millonaria fortuna?",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-29T02:24:54+02:00",
-      "enlace": "https://www.abc.es/gente/tini-stoessel-20260826010815-nt.html"
-    },
-    {
-      "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
-      "medios": [
-        "RTVE"
-      ],
-      "consenso": 1,
-      "fecha": "2022-06-10T00:03:00+02:00",
-      "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
-    },
-    {
-      "titular": "Nuevas marchas en Ceuta en un clima de elevada tensión: “Invasores, expulsión”",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-28T22:12:24+02:00",
-      "enlace": "https://elpais.com/espana/2026-08-28/nuevas-marchas-en-ceuta-en-un-clima-de-elevada-tension-invasores-explusion.html"
-    },
-    {
-      "titular": "Marlaska llama a la “calma” tras los altercados en Ceuta y cifra en 5.000 los migrantes que siguen en la ciudad",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-28T09:56:13+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20260828/11621536/marlaska-llama-calma-altercados-ceuta-cifra-5-000-migrantes-siguen-ciudad.html"
     }
   ],
   "salud": {
@@ -74,7 +75,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 16,
+    "antiguedad_minima_min": 8,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +83,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2219405,
+        "antiguedad_min": 2219798,
         "descartados_por_gancho": 0
       },
       {
@@ -97,28 +98,28 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 140,
+        "items": 144,
         "error": null,
-        "antiguedad_min": 16,
-        "descartados_por_gancho": 9
+        "antiguedad_min": 8,
+        "descartados_por_gancho": 8
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 121,
+        "items": 116,
         "error": null,
-        "antiguedad_min": 70,
-        "descartados_por_gancho": 13
+        "antiguedad_min": 65,
+        "descartados_por_gancho": 17
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 23,
+        "items": 25,
         "error": null,
-        "antiguedad_min": 285,
-        "descartados_por_gancho": 2
+        "antiguedad_min": 27,
+        "descartados_por_gancho": 0
       }
     ]
   }

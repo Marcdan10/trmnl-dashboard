@@ -1,26 +1,26 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "portadas",
-  "generado": "2026-08-29T07:10:34+02:00",
+  "modo": "ultimas",
+  "generado": "2026-08-29T13:43:53+02:00",
   "titulares": [
     {
-      "titular": "Espíritu Flick en un Barça que enamora",
+      "titular": "El Atlético ya conoce su calendario de Champions y los peores temores se cumplen",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-29T00:30:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260829/1004220779/espiritu-flick-barca-enamora.html"
+      "fecha": "2026-08-29T13:26:57+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20260829/1004220937/atletico-conoce-calendario-champions-peores-temores-cumplen.html"
     },
     {
-      "titular": "Óscar Cano, de solución de emergencia a brújula del sueño del Zamora CF",
+      "titular": "Así queda todo el calendario de la fase liga de la Champions League, jornada por jornada",
       "medios": [
-        "Sport"
+        "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/futbol/segunda-rfef/oscar-cano-solucion-emergencia-brujula-133753908"
+      "fecha": "2026-08-29T13:25:19+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/champions-league/20260829/1004220936/asi-queda-calendario-fase-liga-champions-league-jornada-jornada.html"
     },
     {
       "titular": "El eclipse de luna, en imágenes: así se ha visto desde España",
@@ -32,24 +32,6 @@
       "enlace": "https://www.marca.com/tiramillas/sociedad/2026/08/28/eclipse-luna-imagenes-asi-visto-espana.html"
     },
     {
-      "titular": "Julián se entrenó en solitario, por la tarde, tras una última surrealista oferta desde la Premier",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-28T20:00:30+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20260828/1004220760/julian-entreno-solitario-tarde-ultima-surrealista-oferta-premier.html"
-    },
-    {
-      "titular": "Las enseñanzas de don Manuel Ruiz de Lopera, al servicio del Zamora CF",
-      "medios": [
-        "Sport"
-      ],
-      "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/futbol/segunda-rfef/ensenanzas-don-manuel-ruiz-lopera-133753912"
-    },
-    {
       "titular": "Xabi Alonso se carga a Enzo Fernández y su salida al Manchester City se calienta",
       "medios": [
         "Marca"
@@ -59,13 +41,31 @@
       "enlace": "https://www.marca.com/futbol/premier-league/2026/08/28/xabi-alonso-carga-enzo-fernandez-salida-manchester-city-calienta.html"
     },
     {
-      "titular": "Horario y dónde ver por televisión el Real Madrid - Málaga CF",
+      "titular": "Perico Delgado: \"Antes de competir, desayunaba tortilla, carne, pasta o arroz, pan, bollería y café con leche. Esto lo haces ahora y te echan\"",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/futbol/horario-ver-television-real-madrid-133753921"
+      "enlace": "https://www.sport.es/es/noticias/ciclismo/perico-delgado-leyenda-ciclismo-competir-133756516"
+    },
+    {
+      "titular": "UTMB 2026, en directo y online hoy: tiempos de Ben Dhiman, Pablo Villa y Pau Capell en Chamonix",
+      "medios": [
+        "Sport"
+      ],
+      "consenso": 1,
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/outdoor/utmb-2026-directo-online-hoy-live-resultados-133736930"
+    },
+    {
+      "titular": "Este es el calendario del Real Madrid en la Champions",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-29T13:20:26+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260829/1004220934/calendario-real-madrid-champions.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 20,
+    "antiguedad_minima_min": 16,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 56,
         "error": null,
-        "antiguedad_min": 1316,
+        "antiguedad_min": 1709,
         "descartados_por_gancho": 11
       },
       {
@@ -100,17 +100,17 @@
         "ok": true,
         "items": 137,
         "error": null,
-        "antiguedad_min": 20,
-        "descartados_por_gancho": 6
+        "antiguedad_min": 16,
+        "descartados_por_gancho": 5
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 48,
+        "items": 47,
         "error": null,
         "antiguedad_min": null,
-        "descartados_por_gancho": 2
+        "descartados_por_gancho": 0
       },
       {
         "medio": "NBA",
