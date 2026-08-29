@@ -1,26 +1,26 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "ultimas",
-  "generado": "2026-08-29T23:52:55+02:00",
+  "modo": "portadas",
+  "generado": "2026-08-30T01:49:37+02:00",
   "titulares": [
     {
-      "titular": "77-96: El Asisa Joventut cae en su primer test de pretemporada ante el Monbus Obradoiro",
+      "titular": "1-3: Media hora de ciclón rojiblanco, dirigido por Baena, tumba el pleno del Sevilla",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-29T23:25:23+02:00",
-      "enlace": "https://www.mundodeportivo.com/baloncesto/20260829/1004221124/77-96-asisa-joventut-cae-primer-test-pretemporada-monbus-obradoiro.html"
+      "fecha": "2026-08-29T23:31:06+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20260829/1004221118/cronica-sevilla-atletico-madrid.html"
     },
     {
-      "titular": "Fort se despide con una carta muy emotiva: \"Nací a pocos metros del Camp Nou\"",
+      "titular": "Rubén de la Barrera se señala a sí mismo tras la derrota de la UD Las Palmas: «De esto tengo que aprender»",
       "medios": [
-        "Mundo Deportivo"
+        "Sport"
       ],
       "consenso": 1,
-      "fecha": "2026-08-29T23:11:20+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260829/1004221119/fort-despide-mensaje-emotivo-naci-pocos-metros-camp-nou.html"
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/las-palmas/ruben-barrera-senala-derrota-ud-133771404"
     },
     {
       "titular": "El eclipse de luna, en imágenes: así se ha visto desde España",
@@ -32,6 +32,25 @@
       "enlace": "https://www.marca.com/tiramillas/sociedad/2026/08/28/eclipse-luna-imagenes-asi-visto-espana.html"
     },
     {
+      "titular": "Oficial: Héctor Fort ficha por la Real Sociedad",
+      "medios": [
+        "Mundo Deportivo",
+        "Sport"
+      ],
+      "consenso": 2,
+      "fecha": "2026-08-29T22:03:24+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260829/1004220946/oficial-hector-fort-ficha-real-sociedad.html"
+    },
+    {
+      "titular": "El debutante Iván Jaime, único rayo de luz en el 1x1 de la UD Las Palmas en una noche terrorífica en Montilivi",
+      "medios": [
+        "Sport"
+      ],
+      "consenso": 1,
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/las-palmas/debutante-ivan-jaime-unico-rayo-133771295"
+    },
+    {
       "titular": "Xabi Alonso se carga a Enzo Fernández y su salida al Manchester City se calienta",
       "medios": [
         "Marca"
@@ -41,31 +60,13 @@
       "enlace": "https://www.marca.com/futbol/premier-league/2026/08/28/xabi-alonso-carga-enzo-fernandez-salida-manchester-city-calienta.html"
     },
     {
-      "titular": "Las notas de los jugadores del Sevilla ante el Atlético de Madrid: Miguel Sierra y Ejuke, los más positivos en un partido espeso para los jugadores de inicio",
-      "medios": [
-        "Sport"
-      ],
-      "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/sevilla/notas-jugadores-sevilla-atletico-madrid-133770672"
-    },
-    {
-      "titular": "El Hércules se estrella en su estreno ante el Real Murcia",
-      "medios": [
-        "Sport"
-      ],
-      "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/futbol/segunda-rfef/hercules-estrella-estreno-real-murcia-133770571"
-    },
-    {
-      "titular": "Mateu Jaume, a un paso del Girona CF",
+      "titular": "El 1x1 del Atlético de Madrid, ante el Sevilla",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-29T23:07:08+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/20260829/1004221121/mateu-jaume-paso-girona-cf.html"
+      "fecha": "2026-08-29T23:54:04+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20260829/1004221129/1x1-atletico-madrid-sevilla.html"
     }
   ],
   "salud": {
@@ -74,7 +75,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 27,
+    "antiguedad_minima_min": 79,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +83,7 @@
         "ok": true,
         "items": 56,
         "error": null,
-        "antiguedad_min": 2318,
+        "antiguedad_min": 2435,
         "descartados_por_gancho": 11
       },
       {
@@ -98,19 +99,19 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 142,
+        "items": 141,
         "error": null,
-        "antiguedad_min": 27,
-        "descartados_por_gancho": 4
+        "antiguedad_min": 79,
+        "descartados_por_gancho": 3
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 50,
+        "items": 49,
         "error": null,
         "antiguedad_min": null,
-        "descartados_por_gancho": 0
+        "descartados_por_gancho": 1
       },
       {
         "medio": "NBA",

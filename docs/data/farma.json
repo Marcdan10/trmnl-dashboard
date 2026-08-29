@@ -1,27 +1,9 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "ultimas",
-  "generado": "2026-08-29T23:53:21+02:00",
+  "modo": "portadas",
+  "generado": "2026-08-30T01:49:42+02:00",
   "titulares": [
-    {
-      "titular": "Los cinco puntos calientes de la huelga médica autonómica: de la negociación al nulo diálogo",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-29T17:54:45+02:00",
-      "enlace": "https://www.redaccionmedica.com/autonomias/20260829/los-cinco-puntos-calientes-de-la-huelga-medica-autonomica-negociacion-al-nulo-dialogo/348932_0.html"
-    },
-    {
-      "titular": "El espejo europeo de la ley antitabaco española: desde el modelo alemán a las restricciones de Francia",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-29T16:33:32+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20260829/el-espejo-europeo-de-la-ley-antitabaco-espanola-desde-el-modelo-aleman-las-restricciones-francia/349542_0.html"
-    },
     {
       "titular": "Ángel Sanz: \"La polarización ha acabado con la confianza en el Consejo Interterritorial\"",
       "medios": [
@@ -30,6 +12,24 @@
       "consenso": 1,
       "fecha": "2026-08-28T08:23:07+02:00",
       "enlace": "https://diariofarma.com/2026/08/28/angel-sanz-la-polarizacion-ha-acabado-con-la-confianza-en-el-consejo-interterritorial"
+    },
+    {
+      "titular": "La FDA da luz verde a Mounjaro para reducir el riesgo cardiovascular en adultos con diabetes tipo 2",
+      "medios": [
+        "El Global"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-28T13:23:44+02:00",
+      "enlace": "https://elglobalfarma.com/industria/fda-luz-verde-mounjaro-reducir-riesgo-cardiovascular-adultos-diabetes-tipo-2/"
+    },
+    {
+      "titular": "Los cinco puntos calientes de la huelga médica autonómica: de la negociación al nulo diálogo",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-29T17:54:45+02:00",
+      "enlace": "https://www.redaccionmedica.com/autonomias/20260829/los-cinco-puntos-calientes-de-la-huelga-medica-autonomica-negociacion-al-nulo-dialogo/348932_0.html"
     },
     {
       "titular": "El técnico en farmacia en la oficina de farmacia: ¿qué puede hacer y qué no?",
@@ -41,43 +41,42 @@
       "enlace": "https://diariofarma.com/2026/08/27/el-tecnico-en-farmacia-en-la-oficina-de-farmacia-que-puede-hacer-y-que-no"
     },
     {
-      "titular": "El mapa sísmico de España sitúa a 15 hospitales en zonas de mayor riesgo",
+      "titular": "La farmacia española mira al mundo",
       "medios": [
-        "Redacción Médica"
+        "El Global"
       ],
       "consenso": 1,
-      "fecha": "2026-08-29T15:13:11+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20260829/el-mapa-sismico-de-espana-situa-hospitales-en-zonas-mayor-riesgo/349669_0.html"
+      "fecha": "2026-08-28T11:34:54+02:00",
+      "enlace": "https://elglobalfarma.com/opinion/editorial/farmacia-espanola-mundo/"
     },
     {
-      "titular": "Feijóo se compromete a \"motivar a los médicos\" y solucionar la huelga nacional",
+      "titular": "El espejo europeo de la ley antitabaco española: desde el modelo alemán a las restricciones de Francia",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-08-29T14:49:58+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/20260829/feijoo-se-compromete-motivar-los-medicos-solucionar-la-huelga-nacional/349814_0.html"
+      "fecha": "2026-08-29T16:33:32+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20260829/el-espejo-europeo-de-la-ley-antitabaco-espanola-desde-el-modelo-aleman-las-restricciones-francia/349542_0.html"
     },
     {
-      "titular": "La farmacéutica de Barcelona que apostó por un pueblo y desmontó un prejuicio: \"Me ha sorprendido\"",
+      "titular": "Los farmacéuticos de Ceuta acusan falta de movimiento de la ciudadanía",
       "medios": [
-        "Redacción Médica"
+        "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-08-29T12:55:40+02:00",
-      "enlace": "https://www.redaccionmedica.com/profesionales/farmacia/20260829/la-farmaceutica-de-barcelona-que-aposto-por-un-pueblo-desmonto-prejuicio-me-ha-sorprendido/349579_0.html"
+      "fecha": "2026-08-27T08:07:24+02:00",
+      "enlace": "https://diariofarma.com/2026/08/27/los-farmaceuticos-de-ceuta-acusan-falta-de-movimiento-de-la-ciudadania"
     }
   ],
   "salud": {
     "feeds_totales": 7,
-    "feeds_ok": 3,
+    "feeds_ok": 4,
     "feeds_caidos": [
-      "El Global",
       "PMFarma",
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 358,
+    "antiguedad_minima_min": 474,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -85,16 +84,17 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 2369,
+        "antiguedad_min": 2486,
         "descartados_por_gancho": 0
       },
       {
         "medio": "El Global",
         "url": "https://elglobal.es/feed/",
-        "ok": false,
-        "items": 0,
-        "error": "URLError: <urlopen error timed out>",
-        "antiguedad_min": null
+        "ok": true,
+        "items": 10,
+        "error": null,
+        "antiguedad_min": 2185,
+        "descartados_por_gancho": 0
       },
       {
         "medio": "Redacción Médica",
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 358,
+        "antiguedad_min": 474,
         "descartados_por_gancho": 0
       },
       {

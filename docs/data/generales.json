@@ -1,63 +1,9 @@
 {
   "pantalla": "generales",
   "titulo": "Titulares",
-  "modo": "ultimas",
-  "generado": "2026-08-29T23:52:49+02:00",
+  "modo": "portadas",
+  "generado": "2026-08-30T01:49:32+02:00",
   "titulares": [
-    {
-      "titular": "Baena aterriza al fin en el Atlético",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-29T23:38:23+02:00",
-      "enlace": "https://www.abc.es/deportes/atletico-madrid/baena-aterriza-fin-atletico-20260829232949-nt.html"
-    },
-    {
-      "titular": "Las protestas ciudadanas se frenan en Ceuta por temor a que las vinculen con ultras",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-29T23:18:13+02:00",
-      "enlace": "https://elpais.com/espana/2026-08-29/las-protestas-ciudadanas-se-frenan-en-ceuta-por-temor-a-que-las-vinculen-con-ultras.html"
-    },
-    {
-      "titular": "El color de Morante antes del formidable lío de Luque",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-29T22:59:05+02:00",
-      "enlace": "https://www.abc.es/cultura/toros/morante-bilbao-20260829213841-nt.html"
-    },
-    {
-      "titular": "El Ejército de EE UU derriba con láser tres drones cerca de la frontera con México",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-29T22:36:24+02:00",
-      "enlace": "https://elpais.com/mexico/2026-08-29/el-ejercito-de-ee-uu-derriba-con-laser-tres-drones-cerca-de-la-frontera-con-mexico.html"
-    },
-    {
-      "titular": "El parte médico de Pogacar lo deja claro: quirófano y adiós a la temporada",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-29T22:16:20+02:00",
-      "enlace": "https://www.lavanguardia.com/deportes/ciclismo/20260829/11622447/parte-medico-pogacar-deja-claro-quirofano-adios-temporada.html"
-    },
-    {
-      "titular": "Demasiado Oyarzabal para un errático Espanyol",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-29T21:13:04+02:00",
-      "enlace": "https://www.lavanguardia.com/deportes/20260829/11622442/demasiado-oyarzabal-erratico-espanyol.html"
-    },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
       "medios": [
@@ -66,6 +12,60 @@
       "consenso": 1,
       "fecha": "2022-06-10T01:05:00+02:00",
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
+    },
+    {
+      "titular": "Trump anuncia un acuerdo con Venezuela para adueñarse de parte de sus reservas petroleras",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-29T04:02:36+02:00",
+      "enlace": "https://elpais.com/us/2026-08-28/trump-anuncia-un-acuerdo-con-venezuela-para-aduenarse-de-parte-de-su-sector-petrolero.html"
+    },
+    {
+      "titular": "Feijóo advierte de consecuencias por la crisis de Ceuta y pide que comparezca la directora del CNI",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-29T14:05:39+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20260829/11622275/feijoo-advierte-habra-consecuencias-crisis-ceuta-pide-comparecencia-directora-cni.html"
+    },
+    {
+      "titular": "Pablo Jarillo-Herrero y Allan MacDonald, padres de la 'twistrónica': «Podemos cambiar las propiedades de un material con un simple giro»",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-30T01:41:05+02:00",
+      "enlace": "https://www.abc.es/ciencia/pablo-jarilloherrero-allan-macdonald-padres-twistronica-giro-20260830011909-nt.html"
+    },
+    {
+      "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
+      "medios": [
+        "RTVE"
+      ],
+      "consenso": 1,
+      "fecha": "2022-06-10T00:03:00+02:00",
+      "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
+    },
+    {
+      "titular": "El acuerdo por el que Delcy Rodríguez cede a Trump el 22% de las reservas petroleras de Venezuela desata una avalancha de críticas",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-29T19:57:12+02:00",
+      "enlace": "https://elpais.com/america/2026-08-29/el-acuerdo-por-el-que-delcy-rodriguez-cede-a-trump-el-22-de-las-reservas-petroleras-de-venezuela-desata-una-avalancha-de-criticas.html"
+    },
+    {
+      "titular": "Boticaria García, nutricionista: «Lavar el pollo crudo no es higiene, es bautizar el fregadero y la encimera con bacterias»",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-30T01:38:10+02:00",
+      "enlace": "https://www.abc.es/bienestar/alimentacion/boticaria-garcia-nutricionista-lavar-pollo-crudo-higiene-20260829110000-nt.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 14,
+    "antiguedad_minima_min": 8,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2220407,
+        "antiguedad_min": 2220524,
         "descartados_por_gancho": 0
       },
       {
@@ -90,35 +90,35 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 429",
+        "error": "HTTP 500",
         "antiguedad_min": null
       },
       {
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 146,
+        "items": 145,
         "error": null,
-        "antiguedad_min": 34,
-        "descartados_por_gancho": 5
+        "antiguedad_min": 101,
+        "descartados_por_gancho": 4
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 117,
+        "items": 115,
         "error": null,
-        "antiguedad_min": 96,
-        "descartados_por_gancho": 14
+        "antiguedad_min": 78,
+        "descartados_por_gancho": 13
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 25,
+        "items": 24,
         "error": null,
-        "antiguedad_min": 14,
-        "descartados_por_gancho": 0
+        "antiguedad_min": 8,
+        "descartados_por_gancho": 1
       }
     ]
   }

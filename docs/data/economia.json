@@ -1,17 +1,26 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "ultimas",
-  "generado": "2026-08-29T23:52:52+02:00",
+  "modo": "portadas",
+  "generado": "2026-08-30T01:49:35+02:00",
   "titulares": [
     {
-      "titular": "Estudiar ahora y pagar después: así financian los bancos la universidad",
+      "titular": "EEUU tomará el \"control mayoritario\" de una quinta parte de las reservas de petróleo de Venezuela",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-08-29T21:01:54+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/08/29/6a91d706e5fdea341a8b458d.html"
+      "fecha": "2026-08-29T10:28:05+02:00",
+      "enlace": "https://www.expansion.com/latinoamerica/2026/08/29/6a92946be5fdea8d408b458f.html"
+    },
+    {
+      "titular": "Las mejores inversiones en Bolsa para la vuelta de vacaciones",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-29T00:07:27+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/08/28/6a91ec12e5fdeafd1e8b458a.html"
     },
     {
       "titular": "Qué pasará con los precios de la vivienda este año",
@@ -23,49 +32,40 @@
       "enlace": "https://www.expansion.com/inmobiliario/2026/08/29/6a931e70e5fdea8b3e8b45ac.html"
     },
     {
-      "titular": "Muere Carlos Espinosa de los Monteros, expresidente de Iberia y primer Alto Comisionado para la Marca España",
+      "titular": "El mercado ya no busca una habilidad estrella: la ventaja está en combinar",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-08-29T19:54:11+02:00",
-      "enlace": "https://www.expansion.com/sociedad/2026/08/29/6a931be9468aebc63a8b459b.html"
+      "fecha": "2026-08-29T10:00:01+02:00",
+      "enlace": "https://www.expansion.com/expansion-empleo/profesiones/2026/08/29/6a916e91e5fdeaf7048b456d.html"
     },
     {
-      "titular": "Bruselas ya trabaja en la petición de España para recibir apoyo de Frontex en Ceuta",
+      "titular": "'Tienda 9': así son los nuevos Mercadona",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-08-29T19:24:15+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/08/29/6a931472468aeb84628b4590.html"
+      "fecha": "2026-08-29T00:08:02+02:00",
+      "enlace": "https://www.expansion.com/empresas/distribucion/2026/08/28/6a91ca5fe5fdea2b328b458f.html"
     },
     {
-      "titular": "Casi el 60% de los adultos podría padecer aterosclerosis sin saberlo",
+      "titular": "Real Madrid, líder europeo en ingresos en día de partido",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-08-29T15:57:41+02:00",
-      "enlace": "https://www.expansion.com/sociedad/2026/08/29/6a92be04468aeb0a068b4598.html"
+      "fecha": "2026-08-28T23:42:34+02:00",
+      "enlace": "https://www.expansion.com/deporte-negocio/2026/08/28/6a9198de468aebb56b8b457c.html"
     },
     {
-      "titular": "El presidente iraní admite problemas en el país por las sanciones y el bloqueo de EEUU",
+      "titular": "Las claves bursátiles de la próxima semana",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-08-29T15:23:17+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/08/29/6a92cc8ee5fdeacd268b458a.html"
-    },
-    {
-      "titular": "El expresidente ecuatoriano Lenín Moreno, condenado a cinco años de cárcel por sobornos",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-29T14:10:35+02:00",
-      "enlace": "https://www.expansion.com/latinoamerica/2026/08/29/6a92c67b468aeb7a158b45a0.html"
+      "fecha": "2026-08-28T23:36:24+02:00",
+      "enlace": "https://videos.expansion.com/v/xb1mw66-las-claves-bursatiles-de-la-proxima-semana-28-08-2026?uetv_pl=0"
     }
   ],
   "salud": {
@@ -78,7 +78,7 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 170,
+    "antiguedad_minima_min": 287,
     "detalle": [
       {
         "medio": "Expansión",
@@ -86,7 +86,7 @@
         "ok": true,
         "items": 71,
         "error": null,
-        "antiguedad_min": 170,
+        "antiguedad_min": 287,
         "descartados_por_gancho": 1
       },
       {
