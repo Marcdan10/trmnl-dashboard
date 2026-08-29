@@ -2,62 +2,61 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-08-29T21:27:06+02:00",
+  "generado": "2026-08-29T23:52:49+02:00",
   "titulares": [
     {
-      "titular": "La ciberguerra que golpea a Marruecos desde 2025 se extiende a la crisis de Ceuta",
+      "titular": "Baena aterriza al fin en el Atlético",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-29T23:38:23+02:00",
+      "enlace": "https://www.abc.es/deportes/atletico-madrid/baena-aterriza-fin-atletico-20260829232949-nt.html"
+    },
+    {
+      "titular": "Las protestas ciudadanas se frenan en Ceuta por temor a que las vinculen con ultras",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-08-29T21:18:31+02:00",
-      "enlace": "https://elpais.com/espana/2026-08-29/la-ciberguerra-que-golpea-a-marruecos-desde-2025-se-extiende-a-la-crisis-de-ceuta.html"
+      "fecha": "2026-08-29T23:18:13+02:00",
+      "enlace": "https://elpais.com/espana/2026-08-29/las-protestas-ciudadanas-se-frenan-en-ceuta-por-temor-a-que-las-vinculen-con-ultras.html"
     },
     {
-      "titular": "Haakon asume el trono mientras Noruega llora la muerte del Rey Harald",
+      "titular": "El color de Morante antes del formidable lío de Luque",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-08-29T21:01:28+02:00",
-      "enlace": "https://www.abc.es/internacional/haakon-asume-tron-noruega-llora-muerte-rey-20260828011350-nt.html"
+      "fecha": "2026-08-29T22:59:05+02:00",
+      "enlace": "https://www.abc.es/cultura/toros/morante-bilbao-20260829213841-nt.html"
     },
     {
-      "titular": "Una «Armada de la solidaridad» zarpará este sábado hacia Ceuta",
+      "titular": "El Ejército de EE UU derriba con láser tres drones cerca de la frontera con México",
       "medios": [
-        "ABC"
+        "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-08-29T20:56:09+02:00",
-      "enlace": "https://www.abc.es/espana/armada-solidaridad-decenas-embarcaciones-zarpara-sabado-ceuta-20260828121525-nt.html"
+      "fecha": "2026-08-29T22:36:24+02:00",
+      "enlace": "https://elpais.com/mexico/2026-08-29/el-ejercito-de-ee-uu-derriba-con-laser-tres-drones-cerca-de-la-frontera-con-mexico.html"
     },
     {
-      "titular": "Una tremenda caída retira a Pogacar de la Vuelta",
-      "medios": [
-        "La Vanguardia",
-        "ABC"
-      ],
-      "consenso": 2,
-      "fecha": "2026-08-29T20:54:25+02:00",
-      "enlace": "https://www.abc.es/deportes/ciclismo/xxxx-20260829151203-nt.html"
-    },
-    {
-      "titular": "Haakon VIII confirma que compartirá con la reina Mette-Marit su compromiso con Noruega",
+      "titular": "El parte médico de Pogacar lo deja claro: quirófano y adiós a la temporada",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-08-29T20:36:40+02:00",
-      "enlace": "https://www.lavanguardia.com/internacional/20260829/11622424/haakon-viii-confirma-compartira-reina-mette-marit-compromiso-noruega.html"
+      "fecha": "2026-08-29T22:16:20+02:00",
+      "enlace": "https://www.lavanguardia.com/deportes/ciclismo/20260829/11622447/parte-medico-pogacar-deja-claro-quirofano-adios-temporada.html"
     },
     {
-      "titular": "Haakon VIII de Noruega llama a defender la libertad “incluso con la vida” en su primer discurso como rey",
+      "titular": "Demasiado Oyarzabal para un errático Espanyol",
       "medios": [
-        "El País"
+        "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-08-29T20:29:50+02:00",
-      "enlace": "https://elpais.com/internacional/2026-08-29/haakon-viii-de-noruega-llama-a-defender-la-libertad-incluso-con-la-vida-en-su-primer-discurso-como-rey.html"
+      "fecha": "2026-08-29T21:13:04+02:00",
+      "enlace": "https://www.lavanguardia.com/deportes/20260829/11622442/demasiado-oyarzabal-erratico-espanyol.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -75,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 8,
+    "antiguedad_minima_min": 14,
     "detalle": [
       {
         "medio": "RTVE",
@@ -83,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2220262,
+        "antiguedad_min": 2220407,
         "descartados_por_gancho": 0
       },
       {
@@ -91,25 +90,25 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 500",
+        "error": "HTTP 429",
         "antiguedad_min": null
       },
       {
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 145,
+        "items": 146,
         "error": null,
-        "antiguedad_min": 8,
+        "antiguedad_min": 34,
         "descartados_por_gancho": 5
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 116,
+        "items": 117,
         "error": null,
-        "antiguedad_min": 50,
+        "antiguedad_min": 96,
         "descartados_por_gancho": 14
       },
       {
@@ -118,7 +117,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 25,
+        "antiguedad_min": 14,
         "descartados_por_gancho": 0
       }
     ]

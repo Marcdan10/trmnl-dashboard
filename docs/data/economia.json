@@ -2,7 +2,7 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-08-29T21:27:08+02:00",
+  "generado": "2026-08-29T23:52:52+02:00",
   "titulares": [
     {
       "titular": "Estudiar ahora y pagar después: así financian los bancos la universidad",
@@ -78,7 +78,7 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 25,
+    "antiguedad_minima_min": 170,
     "detalle": [
       {
         "medio": "Expansión",
@@ -86,7 +86,7 @@
         "ok": true,
         "items": 71,
         "error": null,
-        "antiguedad_min": 25,
+        "antiguedad_min": 170,
         "descartados_por_gancho": 1
       },
       {

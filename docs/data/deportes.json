@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-08-29T21:27:09+02:00",
+  "generado": "2026-08-29T23:52:55+02:00",
   "titulares": [
     {
-      "titular": "El Atlético ya tiene once para medirse al Sevilla",
+      "titular": "77-96: El Asisa Joventut cae en su primer test de pretemporada ante el Monbus Obradoiro",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-29T20:38:39+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20260829/1004221070/atletico-once-medirse-sevilla.html"
+      "fecha": "2026-08-29T23:25:23+02:00",
+      "enlace": "https://www.mundodeportivo.com/baloncesto/20260829/1004221124/77-96-asisa-joventut-cae-primer-test-pretemporada-monbus-obradoiro.html"
     },
     {
-      "titular": "Conchita, abuela cocinera: \"Para hacer unas buenas croquetas hay que pochar cebollita. Luego rehogar el pollo\"",
+      "titular": "Fort se despide con una carta muy emotiva: \"Nací a pocos metros del Camp Nou\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-29T20:38:27+02:00",
-      "enlace": "https://www.mundodeportivo.com/tressesenta/20260829/1004221068/conchita-abuela-cocinera-buenas-croquetas-hay-pochar-cebollita-luego-hay-rehogar-pollo-carne-jamon-dct.html"
+      "fecha": "2026-08-29T23:11:20+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260829/1004221119/fort-despide-mensaje-emotivo-naci-pocos-metros-camp-nou.html"
     },
     {
       "titular": "El eclipse de luna, en imágenes: así se ha visto desde España",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/premier-league/2026/08/28/xabi-alonso-carga-enzo-fernandez-salida-manchester-city-calienta.html"
     },
     {
-      "titular": "El parte médico de Tadej Pogacar tras su caída y abandono en la Vuelta: deberá pasar por el quirófano",
+      "titular": "Las notas de los jugadores del Sevilla ante el Atlético de Madrid: Miguel Sierra y Ejuke, los más positivos en un partido espeso para los jugadores de inicio",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/ciclismo/la-vuelta/parte-medico-tadej-pogacar-caida-133767960"
+      "enlace": "https://www.sport.es/es/noticias/sevilla/notas-jugadores-sevilla-atletico-madrid-133770672"
     },
     {
-      "titular": "Ni 500 millones arreglan este Tottenham",
+      "titular": "El Hércules se estrella en su estreno ante el Real Murcia",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/premier-league/500-millones-arreglan-tottenham-133767199"
+      "enlace": "https://www.sport.es/es/noticias/futbol/segunda-rfef/hercules-estrella-estreno-real-murcia-133770571"
     },
     {
-      "titular": "0-2: El reforzadísimo Tottenham se hunde ante un efectivo Newcastle",
+      "titular": "Mateu Jaume, a un paso del Girona CF",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-29T20:36:30+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/premier-league/20260829/1004221060/tottenham-newcastle.html"
+      "fecha": "2026-08-29T23:07:08+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/20260829/1004221121/mateu-jaume-paso-girona-cf.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 48,
+    "antiguedad_minima_min": 27,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 56,
         "error": null,
-        "antiguedad_min": 2172,
+        "antiguedad_min": 2318,
         "descartados_por_gancho": 11
       },
       {
@@ -98,16 +98,16 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 140,
+        "items": 142,
         "error": null,
-        "antiguedad_min": 48,
-        "descartados_por_gancho": 3
+        "antiguedad_min": 27,
+        "descartados_por_gancho": 4
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 49,
+        "items": 50,
         "error": null,
         "antiguedad_min": null,
         "descartados_por_gancho": 0
