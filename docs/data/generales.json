@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-08-30T01:49:32+02:00",
+  "generado": "2026-08-30T05:01:11+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -32,13 +32,13 @@
       "enlace": "https://www.lavanguardia.com/politica/20260829/11622275/feijoo-advierte-habra-consecuencias-crisis-ceuta-pide-comparecencia-directora-cni.html"
     },
     {
-      "titular": "Pablo Jarillo-Herrero y Allan MacDonald, padres de la 'twistrónica': «Podemos cambiar las propiedades de un material con un simple giro»",
+      "titular": "Ceuta destapa la ineficacia de los ministerios ideológicos",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-08-30T01:41:05+02:00",
-      "enlace": "https://www.abc.es/ciencia/pablo-jarilloherrero-allan-macdonald-padres-twistronica-giro-20260830011909-nt.html"
+      "fecha": "2026-08-30T02:48:03+02:00",
+      "enlace": "https://www.abc.es/espana/crisis-ceuta-destapa-ineficacia-ministerios-especializados-20260827012740-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -59,13 +59,13 @@
       "enlace": "https://elpais.com/america/2026-08-29/el-acuerdo-por-el-que-delcy-rodriguez-cede-a-trump-el-22-de-las-reservas-petroleras-de-venezuela-desata-una-avalancha-de-criticas.html"
     },
     {
-      "titular": "Boticaria García, nutricionista: «Lavar el pollo crudo no es higiene, es bautizar el fregadero y la encimera con bacterias»",
+      "titular": "Pablo Jarillo-Herrero y Allan MacDonald, padres de la 'twistrónica': «Podemos cambiar las propiedades de un material con un simple giro»",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-08-30T01:38:10+02:00",
-      "enlace": "https://www.abc.es/bienestar/alimentacion/boticaria-garcia-nutricionista-lavar-pollo-crudo-higiene-20260829110000-nt.html"
+      "fecha": "2026-08-30T01:41:05+02:00",
+      "enlace": "https://www.abc.es/ciencia/pablo-jarilloherrero-allan-macdonald-padres-twistronica-giro-20260830011909-nt.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 8,
+    "antiguedad_minima_min": 133,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2220524,
+        "antiguedad_min": 2220716,
         "descartados_por_gancho": 0
       },
       {
@@ -90,7 +90,7 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 500",
+        "error": "HTTP 429",
         "antiguedad_min": null
       },
       {
@@ -99,7 +99,7 @@
         "ok": true,
         "items": 145,
         "error": null,
-        "antiguedad_min": 101,
+        "antiguedad_min": 292,
         "descartados_por_gancho": 4
       },
       {
@@ -108,7 +108,7 @@
         "ok": true,
         "items": 115,
         "error": null,
-        "antiguedad_min": 78,
+        "antiguedad_min": 269,
         "descartados_por_gancho": 13
       },
       {
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 24,
         "error": null,
-        "antiguedad_min": 8,
+        "antiguedad_min": 133,
         "descartados_por_gancho": 1
       }
     ]

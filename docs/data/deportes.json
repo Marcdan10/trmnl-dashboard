@@ -2,7 +2,7 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-08-30T01:49:37+02:00",
+  "generado": "2026-08-30T05:01:18+02:00",
   "titulares": [
     {
       "titular": "1-3: Media hora de ciclón rojiblanco, dirigido por Baena, tumba el pleno del Sevilla",
@@ -14,13 +14,13 @@
       "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20260829/1004221118/cronica-sevilla-atletico-madrid.html"
     },
     {
-      "titular": "Rubén de la Barrera se señala a sí mismo tras la derrota de la UD Las Palmas: «De esto tengo que aprender»",
+      "titular": "Álex Corredera: \"La primera jornada nos queríamos matar y la realidad es que no cambiamos tanto\"",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/las-palmas/ruben-barrera-senala-derrota-ud-133771404"
+      "enlace": "https://www.sport.es/es/noticias/futbol/alex-corredera-primera-jornada-queriamos-133771763"
     },
     {
       "titular": "El eclipse de luna, en imágenes: así se ha visto desde España",
@@ -42,13 +42,13 @@
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260829/1004220946/oficial-hector-fort-ficha-real-sociedad.html"
     },
     {
-      "titular": "El debutante Iván Jaime, único rayo de luz en el 1x1 de la UD Las Palmas en una noche terrorífica en Montilivi",
+      "titular": "Alberto González: \"El Oviedo es bueno en bloque bajo\"",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/las-palmas/debutante-ivan-jaime-unico-rayo-133771295"
+      "enlace": "https://www.sport.es/es/noticias/oviedo/alberto-gonzalez-oviedo-bueno-bloque-133771761"
     },
     {
       "titular": "Xabi Alonso se carga a Enzo Fernández y su salida al Manchester City se calienta",
@@ -75,7 +75,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 79,
+    "antiguedad_minima_min": 271,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 56,
         "error": null,
-        "antiguedad_min": 2435,
+        "antiguedad_min": 2627,
         "descartados_por_gancho": 11
       },
       {
@@ -101,7 +101,7 @@
         "ok": true,
         "items": 141,
         "error": null,
-        "antiguedad_min": 79,
+        "antiguedad_min": 271,
         "descartados_por_gancho": 3
       },
       {
