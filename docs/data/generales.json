@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-08-30T05:01:11+02:00",
+  "generado": "2026-08-30T11:23:00+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -14,31 +14,31 @@
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
     },
     {
-      "titular": "Trump anuncia un acuerdo con Venezuela para adueñarse de parte de sus reservas petroleras",
+      "titular": "Sánchez destina otros 165 millones a recuperar Ceuta y aplacar una crisis que altera el nuevo curso",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-08-29T04:02:36+02:00",
-      "enlace": "https://elpais.com/us/2026-08-28/trump-anuncia-un-acuerdo-con-venezuela-para-aduenarse-de-parte-de-su-sector-petrolero.html"
+      "fecha": "2026-08-30T05:30:01+02:00",
+      "enlace": "https://elpais.com/espana/2026-08-30/sanchez-destina-otros-165-millones-a-recuperar-ceuta-y-aplacar-una-crisis-que-altera-el-nuevo-curso.html"
     },
     {
-      "titular": "Feijóo advierte de consecuencias por la crisis de Ceuta y pide que comparezca la directora del CNI",
+      "titular": "La crisis de Ceuta se mantiene abierta en canal un mes después",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-08-29T14:05:39+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20260829/11622275/feijoo-advierte-habra-consecuencias-crisis-ceuta-pide-comparecencia-directora-cni.html"
+      "fecha": "2026-08-30T06:00:00+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20260830/11622450/ceuta-temor-romperse.html"
     },
     {
-      "titular": "Ceuta destapa la ineficacia de los ministerios ideológicos",
+      "titular": "Islandia rechaza reabrir las negociaciones con la UE en un ajustado referéndum",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-08-30T02:48:03+02:00",
-      "enlace": "https://www.abc.es/espana/crisis-ceuta-destapa-ineficacia-ministerios-especializados-20260827012740-nt.html"
+      "fecha": "2026-08-30T10:54:18+02:00",
+      "enlace": "https://www.abc.es/internacional/islandia-rechaza-reabrir-negociaciones-ue-ajustado-referendum-20260830094418-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -50,22 +50,22 @@
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
     },
     {
-      "titular": "El acuerdo por el que Delcy Rodríguez cede a Trump el 22% de las reservas petroleras de Venezuela desata una avalancha de críticas",
+      "titular": "Ceuta: lo urgente y lo importante",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-08-29T19:57:12+02:00",
-      "enlace": "https://elpais.com/america/2026-08-29/el-acuerdo-por-el-que-delcy-rodriguez-cede-a-trump-el-22-de-las-reservas-petroleras-de-venezuela-desata-una-avalancha-de-criticas.html"
+      "fecha": "2026-08-30T05:30:01+02:00",
+      "enlace": "https://elpais.com/opinion/2026-08-30/ceuta-lo-urgente-y-lo-importante.html"
     },
     {
-      "titular": "Pablo Jarillo-Herrero y Allan MacDonald, padres de la 'twistrónica': «Podemos cambiar las propiedades de un material con un simple giro»",
+      "titular": "La misteriosa cadena de accidentes que acabó con la vida de un matrimonio irlandés en un jacuzzi de Cullera",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-08-30T01:41:05+02:00",
-      "enlace": "https://www.abc.es/ciencia/pablo-jarilloherrero-allan-macdonald-padres-twistronica-giro-20260830011909-nt.html"
+      "fecha": "2026-08-30T10:38:32+02:00",
+      "enlace": "https://www.abc.es/espana/comunidad-valenciana/misteriosa-cadena-accidentes-acabo-vida-matrimonio-irlandes-20260830102837-nt.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 133,
+    "antiguedad_minima_min": 28,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2220716,
+        "antiguedad_min": 2221097,
         "descartados_por_gancho": 0
       },
       {
@@ -90,35 +90,35 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 429",
+        "error": "HTTP 500",
         "antiguedad_min": null
       },
       {
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 145,
+        "items": 139,
         "error": null,
-        "antiguedad_min": 292,
-        "descartados_por_gancho": 4
+        "antiguedad_min": 87,
+        "descartados_por_gancho": 5
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 115,
+        "items": 110,
         "error": null,
-        "antiguedad_min": 269,
-        "descartados_por_gancho": 13
+        "antiguedad_min": 78,
+        "descartados_por_gancho": 20
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 24,
+        "items": 25,
         "error": null,
-        "antiguedad_min": 133,
-        "descartados_por_gancho": 1
+        "antiguedad_min": 28,
+        "descartados_por_gancho": 0
       }
     ]
   }
