@@ -1,35 +1,53 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "portadas",
-  "generado": "2026-08-30T11:23:04+02:00",
+  "modo": "ultimas",
+  "generado": "2026-08-30T16:28:26+02:00",
   "titulares": [
     {
-      "titular": "EEUU tomará el \"control mayoritario\" de una quinta parte de las reservas de petróleo de Venezuela",
+      "titular": "Riada en Nepal: se superan los 800 muertos a ambos lados de la frontera",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-08-29T10:28:05+02:00",
-      "enlace": "https://www.expansion.com/latinoamerica/2026/08/29/6a92946be5fdea8d408b458f.html"
+      "fecha": "2026-08-30T14:57:45+02:00",
+      "enlace": "https://www.expansion.com/sociedad/2026/08/30/6a942807e5fdeaef458b4583.html"
     },
     {
-      "titular": "Las mejores inversiones en Bolsa para la vuelta de vacaciones",
+      "titular": "Las horas extra repuntan a la espera de la reforma del registro horario",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-08-29T00:07:27+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/08/28/6a91ec12e5fdeafd1e8b458a.html"
+      "fecha": "2026-08-30T14:38:24+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/08/30/6a93f232468aeb70588b459f.html"
     },
     {
-      "titular": "Qué pasará con los precios de la vivienda este año",
+      "titular": "Irán afirma que el acuerdo con Omán para reabrir Ormuz depende de EEUU",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-08-29T20:24:54+02:00",
-      "enlace": "https://www.expansion.com/inmobiliario/2026/08/29/6a931e70e5fdea8b3e8b45ac.html"
+      "fecha": "2026-08-30T14:25:43+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/08/30/6a94135b468aebcf4b8b4592.html"
+    },
+    {
+      "titular": "El Gobierno aprueba este martes un paquete de emergencia de 165 millones para Ceuta",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-30T13:24:40+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/08/30/6a9405dae5fdea0a3b8b4575.html"
+    },
+    {
+      "titular": "En recuerdo de Carlos Espinosa de los Monteros",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-30T12:55:06+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/08/30/6a940a73468aeb9d138b456e.html"
     },
     {
       "titular": "El mercado ya no busca una habilidad estrella: la ventaja está en combinar",
@@ -37,35 +55,17 @@
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-08-29T10:00:01+02:00",
+      "fecha": "2026-08-30T12:35:01+02:00",
       "enlace": "https://www.expansion.com/expansion-empleo/profesiones/2026/08/29/6a916e91e5fdeaf7048b456d.html"
     },
     {
-      "titular": "'Tienda 9': así son los nuevos Mercadona",
+      "titular": "Samsung vende un 30% más en plegables en España impulsada por su nuevo formato \"pasaporte\"",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-08-29T00:08:02+02:00",
-      "enlace": "https://www.expansion.com/empresas/distribucion/2026/08/28/6a91ca5fe5fdea2b328b458f.html"
-    },
-    {
-      "titular": "Real Madrid, líder europeo en ingresos en día de partido",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-28T23:42:34+02:00",
-      "enlace": "https://www.expansion.com/deporte-negocio/2026/08/28/6a9198de468aebb56b8b457c.html"
-    },
-    {
-      "titular": "Las claves bursátiles de la próxima semana",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-28T23:36:24+02:00",
-      "enlace": "https://videos.expansion.com/v/xb1mw66-las-claves-bursatiles-de-la-proxima-semana-28-08-2026?uetv_pl=0"
+      "fecha": "2026-08-30T12:21:47+02:00",
+      "enlace": "https://www.expansion.com/economia-digital/2026/08/30/6a9402b9468aebd0318b4575.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 861,
+    "antiguedad_minima_min": 90,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 71,
+        "items": 70,
         "error": null,
-        "antiguedad_min": 861,
+        "antiguedad_min": 90,
         "descartados_por_gancho": 1
       },
       {

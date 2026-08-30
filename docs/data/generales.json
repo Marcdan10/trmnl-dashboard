@@ -1,9 +1,63 @@
 {
   "pantalla": "generales",
   "titulo": "Titulares",
-  "modo": "portadas",
-  "generado": "2026-08-30T11:23:00+02:00",
+  "modo": "ultimas",
+  "generado": "2026-08-30T16:28:23+02:00",
   "titulares": [
+    {
+      "titular": "Al menos siete muertos tras el naufragio de un barco con 267 personas a bordo frente al norte de Chipre",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-30T16:23:14+02:00",
+      "enlace": "https://elpais.com/internacional/2026-08-30/un-barco-con-unas-270-personas-a-bordo-vuelca-frente-al-norte-de-chipre.html"
+    },
+    {
+      "titular": "Larrubia: «Yo en los parques colocaría un cartel que pusiera 'obligatorio jugar con la pelota'»",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-30T16:15:07+02:00",
+      "enlace": "https://www.abc.es/deportes/real-madrid/larrubia-parques-colocaria-cartel-pusiera-obligatorio-jugar-20260829011014-nt.html"
+    },
+    {
+      "titular": "Paseo por Madrid y cena romántica: Ester Expósito y Mbappé ya no se esconden",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-30T16:12:40+02:00",
+      "enlace": "https://www.abc.es/gente/paseo-cena-romantica-madrid-ester-exposito-kylian-20260830152302-nt.html"
+    },
+    {
+      "titular": "Islandia cierra la puerta a la integración en la Unión Europea",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-30T15:57:54+02:00",
+      "enlace": "https://elpais.com/internacional/2026-08-30/islandia-cierra-la-puerta-a-la-integracion-en-la-union-europea.html"
+    },
+    {
+      "titular": "Arranca un polémico proceso de diálogo entre facciones para poner fin a la guerra en Sudán",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-30T15:43:17+02:00",
+      "enlace": "https://www.lavanguardia.com/internacional/20260830/11623147/arranca-polemico-proceso-dialogo-facciones-poner-guerra-sudan.html"
+    },
+    {
+      "titular": "Real Madrid - Málaga: sigue aquí la previa del partido de LaLiga",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-30T15:27:34+02:00",
+      "enlace": "https://www.lavanguardia.com/deportes/futbol/20260830/11623056/real-madrid-malaga-laliga-ea-sports-partido-futbol-hoy-en-directo.html"
+    },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
       "medios": [
@@ -12,60 +66,6 @@
       "consenso": 1,
       "fecha": "2022-06-10T01:05:00+02:00",
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
-    },
-    {
-      "titular": "Sánchez destina otros 165 millones a recuperar Ceuta y aplacar una crisis que altera el nuevo curso",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-30T05:30:01+02:00",
-      "enlace": "https://elpais.com/espana/2026-08-30/sanchez-destina-otros-165-millones-a-recuperar-ceuta-y-aplacar-una-crisis-que-altera-el-nuevo-curso.html"
-    },
-    {
-      "titular": "La crisis de Ceuta se mantiene abierta en canal un mes después",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-30T06:00:00+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20260830/11622450/ceuta-temor-romperse.html"
-    },
-    {
-      "titular": "Islandia rechaza reabrir las negociaciones con la UE en un ajustado referéndum",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-30T10:54:18+02:00",
-      "enlace": "https://www.abc.es/internacional/islandia-rechaza-reabrir-negociaciones-ue-ajustado-referendum-20260830094418-nt.html"
-    },
-    {
-      "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
-      "medios": [
-        "RTVE"
-      ],
-      "consenso": 1,
-      "fecha": "2022-06-10T00:03:00+02:00",
-      "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
-    },
-    {
-      "titular": "Ceuta: lo urgente y lo importante",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-30T05:30:01+02:00",
-      "enlace": "https://elpais.com/opinion/2026-08-30/ceuta-lo-urgente-y-lo-importante.html"
-    },
-    {
-      "titular": "La misteriosa cadena de accidentes que acabó con la vida de un matrimonio irlandés en un jacuzzi de Cullera",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-30T10:38:32+02:00",
-      "enlace": "https://www.abc.es/espana/comunidad-valenciana/misteriosa-cadena-accidentes-acabo-vida-matrimonio-irlandes-20260830102837-nt.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 28,
+    "antiguedad_minima_min": 5,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2221097,
+        "antiguedad_min": 2221403,
         "descartados_por_gancho": 0
       },
       {
@@ -90,16 +90,16 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 500",
+        "error": "HTTP 429",
         "antiguedad_min": null
       },
       {
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 139,
+        "items": 136,
         "error": null,
-        "antiguedad_min": 87,
+        "antiguedad_min": 5,
         "descartados_por_gancho": 5
       },
       {
@@ -108,17 +108,17 @@
         "ok": true,
         "items": 110,
         "error": null,
-        "antiguedad_min": 78,
-        "descartados_por_gancho": 20
+        "antiguedad_min": 45,
+        "descartados_por_gancho": 21
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 25,
+        "items": 23,
         "error": null,
-        "antiguedad_min": 28,
-        "descartados_por_gancho": 0
+        "antiguedad_min": 13,
+        "descartados_por_gancho": 2
       }
     ]
   }

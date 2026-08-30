@@ -1,17 +1,27 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "portadas",
-  "generado": "2026-08-30T11:23:06+02:00",
+  "modo": "ultimas",
+  "generado": "2026-08-30T16:28:29+02:00",
   "titulares": [
     {
-      "titular": "Juan Jesus, una opción que se desvanece para el Deportivo",
+      "titular": "Novedades en el once del Real Madrid para el Málaga",
       "medios": [
+        "Mundo Deportivo",
         "Sport"
       ],
+      "consenso": 2,
+      "fecha": "2026-08-30T15:46:43+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260830/1004221292/novedades-once-real-madrid-malaga.html"
+    },
+    {
+      "titular": "Pogacar será operado en Barcelona cuando lo permita su conmoción cerebral",
+      "medios": [
+        "Mundo Deportivo"
+      ],
       "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/futbol/juan-jesus-opcion-desvanece-deportivo-133776164"
+      "fecha": "2026-08-30T15:31:06+02:00",
+      "enlace": "https://www.mundodeportivo.com/ciclismo/vuelta-espana/20260830/1004221290/pogacar-sera-operado-barcelona-permita-conmocion-cerebral.html"
     },
     {
       "titular": "El eclipse de luna, en imágenes: así se ha visto desde España",
@@ -23,24 +33,6 @@
       "enlace": "https://www.marca.com/tiramillas/sociedad/2026/08/28/eclipse-luna-imagenes-asi-visto-espana.html"
     },
     {
-      "titular": "MotoGP Aragón, en directo: carrera en MotorLand con Marc Márquez, Jorge Martín, Pedro Acosta, Bezzecchi y Alex Márquez",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-30T10:45:36+02:00",
-      "enlace": "https://www.mundodeportivo.com/motor/motogp/20260830/1004217581/motogp-aragon-directo-carrera-motorland-marc-marquez-jorge-martin-pedro-acosta-bezzecchi-ogura.html"
-    },
-    {
-      "titular": "Esta es la predicción sobre el Villarreal en la primera fase de Champions: ¿Crees que pasa de ronda? Vota",
-      "medios": [
-        "Sport"
-      ],
-      "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/villarreal/prediccion-villarreal-primera-fase-champions-133775993"
-    },
-    {
       "titular": "Xabi Alonso se carga a Enzo Fernández y su salida al Manchester City se calienta",
       "medios": [
         "Marca"
@@ -50,22 +42,31 @@
       "enlace": "https://www.marca.com/futbol/premier-league/2026/08/28/xabi-alonso-carga-enzo-fernandez-salida-manchester-city-calienta.html"
     },
     {
-      "titular": "\"Después de decidir dejar el Barça me rompí, no salía ni a la calle\"",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-30T10:17:14+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/femenino/20260830/1004221189/decidir-dejar-barca-me-rompi-no-salia-calle.html"
-    },
-    {
-      "titular": "Así vivió Pablo Sáenz su zurdazo de tres puntos en Albacete: \"Recibe Isfan y ahí inicio la carrera...\"",
+      "titular": "Márquez vuelve a rugir en el Mundial con otra exhibición bestial en Aragón",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/oviedo/vivio-pablo-saenz-zurdazo-tres-133775924"
+      "enlace": "https://www.sport.es/es/noticias/motor/moto-gp/marquez-vuelve-rugir-mundial-exhibicion-133781399"
+    },
+    {
+      "titular": "Dónde ver el Real Madrid - Málaga de LaLiga hoy por TV, en directo y online",
+      "medios": [
+        "Sport"
+      ],
+      "consenso": 1,
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/real-madrid/donde-ver-real-madrid-malaga-laliga-tv-directo-133781154"
+    },
+    {
+      "titular": "Sigue la etapa 9 de la Vuelta a España, en directo",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-30T15:30:06+02:00",
+      "enlace": "https://www.mundodeportivo.com/ciclismo/20260830/1004221197/vuelta-a-espana-2026-ciclismo-hoy-en-directo-etapa-9-ext-pau.html"
     }
   ],
   "salud": {
@@ -74,7 +75,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 37,
+    "antiguedad_minima_min": 41,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +83,7 @@
         "ok": true,
         "items": 56,
         "error": null,
-        "antiguedad_min": 3008,
+        "antiguedad_min": 3314,
         "descartados_por_gancho": 11
       },
       {
@@ -98,16 +99,16 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 134,
+        "items": 135,
         "error": null,
-        "antiguedad_min": 37,
-        "descartados_por_gancho": 3
+        "antiguedad_min": 41,
+        "descartados_por_gancho": 4
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 48,
+        "items": 46,
         "error": null,
         "antiguedad_min": null,
         "descartados_por_gancho": 2
