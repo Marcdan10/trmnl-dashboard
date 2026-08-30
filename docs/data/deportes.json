@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-08-30T20:09:07+02:00",
+  "generado": "2026-08-30T23:19:56+02:00",
   "titulares": [
     {
-      "titular": "\"Me beneficia que haya mucha demanda y poca oferta. Ganamos unos 6.000€ mensuales\"",
+      "titular": "0-1: Çalhanoglu resuelve para un Inter que hizo méritos para golear",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-30T19:56:20+02:00",
-      "enlace": "https://www.mundodeportivo.com/tressesenta/20260830/1004221376/rafa-mora-propietario-9-pisos-me-beneficia-haya-demanda-poca-oferta-ganamos-6-000-euros-mensuales-alquileres-dct.html"
+      "fecha": "2026-08-30T22:51:25+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/serie-a/20260830/1004221424/inter.html"
     },
     {
-      "titular": "Así fue anulado el penalti contra el Real Madrid en el Bernabéu",
+      "titular": "Todos los detalles de la llegada de Gabriel Jesus al Barça",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-30T19:30:51+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260830/1004221373/asi-anulado-penalti-real-madrid-bernabeu.html"
+      "fecha": "2026-08-30T22:48:49+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260830/1004221436/exclusiva-md-todos-detalles-llegada-gabriel-jesus-barca.html"
     },
     {
       "titular": "El eclipse de luna, en imágenes: así se ha visto desde España",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/premier-league/2026/08/28/xabi-alonso-carga-enzo-fernandez-salida-manchester-city-calienta.html"
     },
     {
-      "titular": "El Valencia CF Femenino inicia su regreso a la Liga F con derrota en Vitoria",
+      "titular": "Ana (25 años): \"Cuando me independicé hace dos años pensé que estaba haciendo lo correcto, pero nadie te explica lo difícil que es mantenerlo\"",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/valencia/valencia-cf-femenino-inicia-regreso-133786908"
+      "enlace": "https://www.sport.es/es/noticias/actualidad/ana-25-anos-independice-anos-133784633"
     },
     {
-      "titular": "Bellingham: “La primera parte, un partidazo, pero los últimos 20 minutos fueron malísimos”",
+      "titular": "El Inter tira de oficio ante el Cagliari",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/real-madrid/bellingham-primera-parte-partidazo-ultimos-133786191"
+      "enlace": "https://www.sport.es/es/noticias/futbol-internacional/inter-tira-oficio-cagliari-133788886"
     },
     {
-      "titular": "Oficial: el Aston Villa, rival del Barça, vende a su gran goleador",
+      "titular": "Pere Romeu: \"Hemos hecho un partidazo\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-30T19:29:31+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/oficial/20260830/1004221369/aston-villa.html"
+      "fecha": "2026-08-30T22:37:06+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260830/1004221429/pere-romeu-hemos-hecho-partidazo.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 12,
+    "antiguedad_minima_min": 28,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 56,
         "error": null,
-        "antiguedad_min": 3534,
+        "antiguedad_min": 3725,
         "descartados_por_gancho": 11
       },
       {
@@ -98,16 +98,16 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 139,
+        "items": 141,
         "error": null,
-        "antiguedad_min": 12,
+        "antiguedad_min": 28,
         "descartados_por_gancho": 5
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 49,
+        "items": 50,
         "error": null,
         "antiguedad_min": null,
         "descartados_por_gancho": 0

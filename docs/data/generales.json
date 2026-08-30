@@ -2,62 +2,65 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-08-30T20:09:00+02:00",
+  "generado": "2026-08-30T23:19:50+02:00",
   "titulares": [
     {
-      "titular": "Al menos ocho muertos tras el naufragio de un barco con 267 personas frente al norte de Chipre",
+      "titular": "Google Maps cumple el deseo de Trump y cambia el nombre del 'lago Ontario' a 'lago América' en EE.UU.",
       "medios": [
         "El País",
+        "La Vanguardia",
         "ABC"
       ],
-      "consenso": 2,
-      "fecha": "2026-08-30T19:45:49+02:00",
-      "enlace": "https://elpais.com/internacional/2026-08-30/un-barco-con-unas-270-personas-a-bordo-vuelca-frente-al-norte-de-chipre.html"
+      "consenso": 3,
+      "fecha": "2026-08-30T23:08:07+02:00",
+      "enlace": "https://www.abc.es/internacional/google-maps-cumple-deseo-trump-cambia-nombre-20260830200311-nt.html"
     },
     {
-      "titular": "Aitana Sánchez-Gijón y Maxi Iglesias, juntos en Trujillo: «ya no se esconden, ni se ocultan»",
+      "titular": "Una mujer y su hija de nueve años mueren en un incendio en Teruel",
+      "medios": [
+        "El País",
+        "La Vanguardia",
+        "ABC"
+      ],
+      "consenso": 3,
+      "fecha": "2026-08-30T22:32:36+02:00",
+      "enlace": "https://elpais.com/espana/2026-08-30/una-mujer-y-una-nina-mueren-en-el-incendio-de-un-restaurante-en-cedrillas-teruel.html"
+    },
+    {
+      "titular": "Detenidos tres marroquíes tras atacar con cócteles molotov a militares en Ceuta",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-08-30T19:44:24+02:00",
-      "enlace": "https://www.abc.es/gente/aitana-sanchezgijon-maxi-iglesias-juntos-trujillo-esconden-20260830194424-nt.html"
+      "fecha": "2026-08-30T22:30:28+02:00",
+      "enlace": "https://www.abc.es/espana/guardia-civil-detiene-tres-marroquies-atacar-cocteles-20260830220007-nt.html"
     },
     {
-      "titular": "El mejor Bellingham está de vuelta e impulsa al Real Madrid ante el Málaga",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-30T19:34:21+02:00",
-      "enlace": "https://elpais.com/deportes/futbol/2026-08-30/el-mejor-bellingham-esta-de-vuelta-en-el-real-madrid.html"
-    },
-    {
-      "titular": "Cinco heridos, tres críticos, al salirse un coche de la vía y volcar en el Alt Urgell",
+      "titular": "Una quinta corona de la IndyCar en diferido para Àlex Palou",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-08-30T19:31:01+02:00",
-      "enlace": "https://www.lavanguardia.com/local/catalunya/20260830/11623245/cinco-heridos-tres-criticos-salida-vuelco-ribera-d-urgellet.html"
+      "fecha": "2026-08-30T22:28:07+02:00",
+      "enlace": "https://www.lavanguardia.com/deportes/20260830/11623285/indycar-alex-palou-corona-diferido-campeon-virtual-milwaukee-oval.html"
     },
     {
-      "titular": "España, plata mundial de hockey ante una férrea Alemania",
+      "titular": "Muere ahogada una bañista alemana de 73 años en Gerona",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-08-30T19:23:30+02:00",
-      "enlace": "https://www.abc.es/deportes/espana-plata-mundial-hockey-ante-ferrea-alemania-20260830182800-nt.html"
+      "fecha": "2026-08-30T21:39:39+02:00",
+      "enlace": "https://www.abc.es/espana/cataluna/muere-ahogada-banista-alemana-anos-castello-dempuries-20260830200505-nt.html"
     },
     {
-      "titular": "Egipto detiene a una influencer por vídeos bailando con ropa considerada indecente",
+      "titular": "Plan de choque para educación: 500 aulas de acogida y no a la IA para menores de 14 años",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-08-30T19:20:29+02:00",
-      "enlace": "https://www.lavanguardia.com/internacional/20260830/11623229/egipto-detiene-influencer-videos-bailando-ropa-considerada-indecente.html"
+      "fecha": "2026-08-30T21:10:00+02:00",
+      "enlace": "https://www.lavanguardia.com/vida/20260830/11621930/plan-choque-educacion-500-aulas-acogida-ia-menores-14-anos.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -75,7 +78,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 23,
+    "antiguedad_minima_min": 11,
     "detalle": [
       {
         "medio": "RTVE",
@@ -83,7 +86,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2221623,
+        "antiguedad_min": 2221814,
         "descartados_por_gancho": 0
       },
       {
@@ -91,26 +94,26 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 429",
+        "error": "HTTP 500",
         "antiguedad_min": null
       },
       {
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 135,
+        "items": 136,
         "error": null,
-        "antiguedad_min": 23,
+        "antiguedad_min": 47,
         "descartados_por_gancho": 4
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 115,
+        "items": 118,
         "error": null,
-        "antiguedad_min": 37,
-        "descartados_por_gancho": 20
+        "antiguedad_min": 51,
+        "descartados_por_gancho": 19
       },
       {
         "medio": "ABC",
@@ -118,7 +121,7 @@
         "ok": true,
         "items": 24,
         "error": null,
-        "antiguedad_min": 24,
+        "antiguedad_min": 11,
         "descartados_por_gancho": 1
       }
     ]

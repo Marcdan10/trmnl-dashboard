@@ -2,8 +2,26 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-08-30T20:09:04+02:00",
+  "generado": "2026-08-30T23:19:53+02:00",
   "titulares": [
+    {
+      "titular": "Portal de l'Àngel se diversifica con la primera oficina \"inmersiva\" de Revolut en Europa",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-30T22:24:43+02:00",
+      "enlace": "https://www.expansion.com/catalunya/2026/08/30/6a94903ce5fdea35598b4581.html"
+    },
+    {
+      "titular": "Palex aumenta ingresos, pero pierde 31 millones al cerrar cinco compras",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-30T22:12:37+02:00",
+      "enlace": "https://www.expansion.com/catalunya/2026/08/30/6a948eaee5fdeac70d8b459a.html"
+    },
     {
       "titular": "UGT propone suspender algunos días la huelga en Airbus para intentar llegar a un acuerdo",
       "medios": [
@@ -48,24 +66,6 @@
       "consenso": 1,
       "fecha": "2026-08-30T14:25:43+02:00",
       "enlace": "https://www.expansion.com/economia/2026/08/30/6a94135b468aebcf4b8b4592.html"
-    },
-    {
-      "titular": "El Gobierno aprueba este martes un paquete de emergencia de 165 millones para Ceuta",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-30T13:24:40+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/08/30/6a9405dae5fdea0a3b8b4575.html"
-    },
-    {
-      "titular": "En recuerdo de Carlos Espinosa de los Monteros",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-30T12:55:06+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/08/30/6a940a73468aeb9d138b456e.html"
     }
   ],
   "salud": {
@@ -78,7 +78,7 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 33,
+    "antiguedad_minima_min": 55,
     "detalle": [
       {
         "medio": "Expansión",
@@ -86,7 +86,7 @@
         "ok": true,
         "items": 70,
         "error": null,
-        "antiguedad_min": 33,
+        "antiguedad_min": 55,
         "descartados_por_gancho": 1
       },
       {
