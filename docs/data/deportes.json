@@ -2,26 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-08-30T16:28:29+02:00",
+  "generado": "2026-08-30T20:09:07+02:00",
   "titulares": [
     {
-      "titular": "Novedades en el once del Real Madrid para el Málaga",
-      "medios": [
-        "Mundo Deportivo",
-        "Sport"
-      ],
-      "consenso": 2,
-      "fecha": "2026-08-30T15:46:43+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260830/1004221292/novedades-once-real-madrid-malaga.html"
-    },
-    {
-      "titular": "Pogacar será operado en Barcelona cuando lo permita su conmoción cerebral",
+      "titular": "\"Me beneficia que haya mucha demanda y poca oferta. Ganamos unos 6.000€ mensuales\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-30T15:31:06+02:00",
-      "enlace": "https://www.mundodeportivo.com/ciclismo/vuelta-espana/20260830/1004221290/pogacar-sera-operado-barcelona-permita-conmocion-cerebral.html"
+      "fecha": "2026-08-30T19:56:20+02:00",
+      "enlace": "https://www.mundodeportivo.com/tressesenta/20260830/1004221376/rafa-mora-propietario-9-pisos-me-beneficia-haya-demanda-poca-oferta-ganamos-6-000-euros-mensuales-alquileres-dct.html"
+    },
+    {
+      "titular": "Así fue anulado el penalti contra el Real Madrid en el Bernabéu",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-30T19:30:51+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260830/1004221373/asi-anulado-penalti-real-madrid-bernabeu.html"
     },
     {
       "titular": "El eclipse de luna, en imágenes: así se ha visto desde España",
@@ -42,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/premier-league/2026/08/28/xabi-alonso-carga-enzo-fernandez-salida-manchester-city-calienta.html"
     },
     {
-      "titular": "Márquez vuelve a rugir en el Mundial con otra exhibición bestial en Aragón",
+      "titular": "El Valencia CF Femenino inicia su regreso a la Liga F con derrota en Vitoria",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/motor/moto-gp/marquez-vuelve-rugir-mundial-exhibicion-133781399"
+      "enlace": "https://www.sport.es/es/noticias/valencia/valencia-cf-femenino-inicia-regreso-133786908"
     },
     {
-      "titular": "Dónde ver el Real Madrid - Málaga de LaLiga hoy por TV, en directo y online",
+      "titular": "Bellingham: “La primera parte, un partidazo, pero los últimos 20 minutos fueron malísimos”",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/real-madrid/donde-ver-real-madrid-malaga-laliga-tv-directo-133781154"
+      "enlace": "https://www.sport.es/es/noticias/real-madrid/bellingham-primera-parte-partidazo-ultimos-133786191"
     },
     {
-      "titular": "Sigue la etapa 9 de la Vuelta a España, en directo",
+      "titular": "Oficial: el Aston Villa, rival del Barça, vende a su gran goleador",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-30T15:30:06+02:00",
-      "enlace": "https://www.mundodeportivo.com/ciclismo/20260830/1004221197/vuelta-a-espana-2026-ciclismo-hoy-en-directo-etapa-9-ext-pau.html"
+      "fecha": "2026-08-30T19:29:31+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/oficial/20260830/1004221369/aston-villa.html"
     }
   ],
   "salud": {
@@ -75,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 41,
+    "antiguedad_minima_min": 12,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +82,7 @@
         "ok": true,
         "items": 56,
         "error": null,
-        "antiguedad_min": 3314,
+        "antiguedad_min": 3534,
         "descartados_por_gancho": 11
       },
       {
@@ -99,19 +98,19 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 135,
+        "items": 139,
         "error": null,
-        "antiguedad_min": 41,
-        "descartados_por_gancho": 4
+        "antiguedad_min": 12,
+        "descartados_por_gancho": 5
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 46,
+        "items": 49,
         "error": null,
         "antiguedad_min": null,
-        "descartados_por_gancho": 2
+        "descartados_por_gancho": 0
       },
       {
         "medio": "NBA",

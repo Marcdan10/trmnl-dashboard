@@ -2,61 +2,62 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-08-30T16:28:23+02:00",
+  "generado": "2026-08-30T20:09:00+02:00",
   "titulares": [
     {
-      "titular": "Al menos siete muertos tras el naufragio de un barco con 267 personas a bordo frente al norte de Chipre",
+      "titular": "Al menos ocho muertos tras el naufragio de un barco con 267 personas frente al norte de Chipre",
       "medios": [
-        "El País"
+        "El País",
+        "ABC"
       ],
-      "consenso": 1,
-      "fecha": "2026-08-30T16:23:14+02:00",
+      "consenso": 2,
+      "fecha": "2026-08-30T19:45:49+02:00",
       "enlace": "https://elpais.com/internacional/2026-08-30/un-barco-con-unas-270-personas-a-bordo-vuelca-frente-al-norte-de-chipre.html"
     },
     {
-      "titular": "Larrubia: «Yo en los parques colocaría un cartel que pusiera 'obligatorio jugar con la pelota'»",
+      "titular": "Aitana Sánchez-Gijón y Maxi Iglesias, juntos en Trujillo: «ya no se esconden, ni se ocultan»",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-08-30T16:15:07+02:00",
-      "enlace": "https://www.abc.es/deportes/real-madrid/larrubia-parques-colocaria-cartel-pusiera-obligatorio-jugar-20260829011014-nt.html"
+      "fecha": "2026-08-30T19:44:24+02:00",
+      "enlace": "https://www.abc.es/gente/aitana-sanchezgijon-maxi-iglesias-juntos-trujillo-esconden-20260830194424-nt.html"
     },
     {
-      "titular": "Paseo por Madrid y cena romántica: Ester Expósito y Mbappé ya no se esconden",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-30T16:12:40+02:00",
-      "enlace": "https://www.abc.es/gente/paseo-cena-romantica-madrid-ester-exposito-kylian-20260830152302-nt.html"
-    },
-    {
-      "titular": "Islandia cierra la puerta a la integración en la Unión Europea",
+      "titular": "El mejor Bellingham está de vuelta e impulsa al Real Madrid ante el Málaga",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-08-30T15:57:54+02:00",
-      "enlace": "https://elpais.com/internacional/2026-08-30/islandia-cierra-la-puerta-a-la-integracion-en-la-union-europea.html"
+      "fecha": "2026-08-30T19:34:21+02:00",
+      "enlace": "https://elpais.com/deportes/futbol/2026-08-30/el-mejor-bellingham-esta-de-vuelta-en-el-real-madrid.html"
     },
     {
-      "titular": "Arranca un polémico proceso de diálogo entre facciones para poner fin a la guerra en Sudán",
+      "titular": "Cinco heridos, tres críticos, al salirse un coche de la vía y volcar en el Alt Urgell",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-08-30T15:43:17+02:00",
-      "enlace": "https://www.lavanguardia.com/internacional/20260830/11623147/arranca-polemico-proceso-dialogo-facciones-poner-guerra-sudan.html"
+      "fecha": "2026-08-30T19:31:01+02:00",
+      "enlace": "https://www.lavanguardia.com/local/catalunya/20260830/11623245/cinco-heridos-tres-criticos-salida-vuelco-ribera-d-urgellet.html"
     },
     {
-      "titular": "Real Madrid - Málaga: sigue aquí la previa del partido de LaLiga",
+      "titular": "España, plata mundial de hockey ante una férrea Alemania",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-30T19:23:30+02:00",
+      "enlace": "https://www.abc.es/deportes/espana-plata-mundial-hockey-ante-ferrea-alemania-20260830182800-nt.html"
+    },
+    {
+      "titular": "Egipto detiene a una influencer por vídeos bailando con ropa considerada indecente",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-08-30T15:27:34+02:00",
-      "enlace": "https://www.lavanguardia.com/deportes/futbol/20260830/11623056/real-madrid-malaga-laliga-ea-sports-partido-futbol-hoy-en-directo.html"
+      "fecha": "2026-08-30T19:20:29+02:00",
+      "enlace": "https://www.lavanguardia.com/internacional/20260830/11623229/egipto-detiene-influencer-videos-bailando-ropa-considerada-indecente.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -74,7 +75,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 5,
+    "antiguedad_minima_min": 23,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +83,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2221403,
+        "antiguedad_min": 2221623,
         "descartados_por_gancho": 0
       },
       {
@@ -97,28 +98,28 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 136,
+        "items": 135,
         "error": null,
-        "antiguedad_min": 5,
-        "descartados_por_gancho": 5
+        "antiguedad_min": 23,
+        "descartados_por_gancho": 4
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 110,
+        "items": 115,
         "error": null,
-        "antiguedad_min": 45,
-        "descartados_por_gancho": 21
+        "antiguedad_min": 37,
+        "descartados_por_gancho": 20
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 23,
+        "items": 24,
         "error": null,
-        "antiguedad_min": 13,
-        "descartados_por_gancho": 2
+        "antiguedad_min": 24,
+        "descartados_por_gancho": 1
       }
     ]
   }

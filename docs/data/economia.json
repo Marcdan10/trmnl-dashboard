@@ -2,8 +2,26 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-08-30T16:28:26+02:00",
+  "generado": "2026-08-30T20:09:04+02:00",
   "titulares": [
+    {
+      "titular": "UGT propone suspender algunos días la huelga en Airbus para intentar llegar a un acuerdo",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-30T19:35:46+02:00",
+      "enlace": "https://www.expansion.com/empresas/industria/2026/08/30/6a943617e5fdea77108b4578.html"
+    },
+    {
+      "titular": "Trump destinará el petróleo venezolano a rellenar la reserva estratégica de EEUU",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-30T19:00:27+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/08/30/6a946049468aeb9d138b4579.html"
+    },
     {
       "titular": "Riada en Nepal: se superan los 800 muertos a ambos lados de la frontera",
       "medios": [
@@ -48,24 +66,6 @@
       "consenso": 1,
       "fecha": "2026-08-30T12:55:06+02:00",
       "enlace": "https://www.expansion.com/economia/2026/08/30/6a940a73468aeb9d138b456e.html"
-    },
-    {
-      "titular": "El mercado ya no busca una habilidad estrella: la ventaja está en combinar",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-30T12:35:01+02:00",
-      "enlace": "https://www.expansion.com/expansion-empleo/profesiones/2026/08/29/6a916e91e5fdeaf7048b456d.html"
-    },
-    {
-      "titular": "Samsung vende un 30% más en plegables en España impulsada por su nuevo formato \"pasaporte\"",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-30T12:21:47+02:00",
-      "enlace": "https://www.expansion.com/economia-digital/2026/08/30/6a9402b9468aebd0318b4575.html"
     }
   ],
   "salud": {
@@ -78,7 +78,7 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 90,
+    "antiguedad_minima_min": 33,
     "detalle": [
       {
         "medio": "Expansión",
@@ -86,7 +86,7 @@
         "ok": true,
         "items": 70,
         "error": null,
-        "antiguedad_min": 90,
+        "antiguedad_min": 33,
         "descartados_por_gancho": 1
       },
       {
