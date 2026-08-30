@@ -1,67 +1,9 @@
 {
   "pantalla": "generales",
   "titulo": "Titulares",
-  "modo": "ultimas",
-  "generado": "2026-08-30T23:19:50+02:00",
+  "modo": "portadas",
+  "generado": "2026-08-31T01:40:09+02:00",
   "titulares": [
-    {
-      "titular": "Google Maps cumple el deseo de Trump y cambia el nombre del 'lago Ontario' a 'lago América' en EE.UU.",
-      "medios": [
-        "El País",
-        "La Vanguardia",
-        "ABC"
-      ],
-      "consenso": 3,
-      "fecha": "2026-08-30T23:08:07+02:00",
-      "enlace": "https://www.abc.es/internacional/google-maps-cumple-deseo-trump-cambia-nombre-20260830200311-nt.html"
-    },
-    {
-      "titular": "Una mujer y su hija de nueve años mueren en un incendio en Teruel",
-      "medios": [
-        "El País",
-        "La Vanguardia",
-        "ABC"
-      ],
-      "consenso": 3,
-      "fecha": "2026-08-30T22:32:36+02:00",
-      "enlace": "https://elpais.com/espana/2026-08-30/una-mujer-y-una-nina-mueren-en-el-incendio-de-un-restaurante-en-cedrillas-teruel.html"
-    },
-    {
-      "titular": "Detenidos tres marroquíes tras atacar con cócteles molotov a militares en Ceuta",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-30T22:30:28+02:00",
-      "enlace": "https://www.abc.es/espana/guardia-civil-detiene-tres-marroquies-atacar-cocteles-20260830220007-nt.html"
-    },
-    {
-      "titular": "Una quinta corona de la IndyCar en diferido para Àlex Palou",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-30T22:28:07+02:00",
-      "enlace": "https://www.lavanguardia.com/deportes/20260830/11623285/indycar-alex-palou-corona-diferido-campeon-virtual-milwaukee-oval.html"
-    },
-    {
-      "titular": "Muere ahogada una bañista alemana de 73 años en Gerona",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-30T21:39:39+02:00",
-      "enlace": "https://www.abc.es/espana/cataluna/muere-ahogada-banista-alemana-anos-castello-dempuries-20260830200505-nt.html"
-    },
-    {
-      "titular": "Plan de choque para educación: 500 aulas de acogida y no a la IA para menores de 14 años",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-30T21:10:00+02:00",
-      "enlace": "https://www.lavanguardia.com/vida/20260830/11621930/plan-choque-educacion-500-aulas-acogida-ia-menores-14-anos.html"
-    },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
       "medios": [
@@ -70,6 +12,60 @@
       "consenso": 1,
       "fecha": "2022-06-10T01:05:00+02:00",
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
+    },
+    {
+      "titular": "Sánchez destina otros 165 millones a recuperar Ceuta y aplacar una crisis que altera el nuevo curso",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-30T05:30:01+02:00",
+      "enlace": "https://elpais.com/espana/2026-08-30/sanchez-destina-otros-165-millones-a-recuperar-ceuta-y-aplacar-una-crisis-que-altera-el-nuevo-curso.html"
+    },
+    {
+      "titular": "Plan de choque en Catalunya: el curso empezará con 1.100 docentes más y restricciones a la IA",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-30T21:10:00+02:00",
+      "enlace": "https://www.lavanguardia.com/vida/20260830/11621930/plan-choque-educacion-500-aulas-acogida-ia-menores-14-anos.html"
+    },
+    {
+      "titular": "Un puñado de mafiosos y 'el problema' de Pérez-Reverte: los mejores estrenos de series de septiembre",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-31T01:37:53+02:00",
+      "enlace": "https://www.abc.es/play/series/noticias/mejores-estrenos-series-septiembre-netflix-hbo-max-20260830010107-nt.html"
+    },
+    {
+      "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
+      "medios": [
+        "RTVE"
+      ],
+      "consenso": 1,
+      "fecha": "2022-06-10T00:03:00+02:00",
+      "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
+    },
+    {
+      "titular": "Ceuta, el mes que rompió una ciudad",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-30T05:30:01+02:00",
+      "enlace": "https://elpais.com/espana/2026-08-30/ceuta-el-mes-que-rompio-una-ciudad.html"
+    },
+    {
+      "titular": "David Céspedes, experto en longevidad: «El agua adelgaza porque es saciante. Si tomas medio litro antes de comer, comerás menos»",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-31T01:37:24+02:00",
+      "enlace": "https://www.abc.es/bienestar/david-cespedes-experto-longevidad-agua-adelgaza-saciante-20260830070000-nt.html"
     }
   ],
   "salud": {
@@ -78,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 11,
+    "antiguedad_minima_min": 2,
     "detalle": [
       {
         "medio": "RTVE",
@@ -86,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2221814,
+        "antiguedad_min": 2221955,
         "descartados_por_gancho": 0
       },
       {
@@ -101,28 +97,28 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 136,
+        "items": 135,
         "error": null,
-        "antiguedad_min": 47,
+        "antiguedad_min": 71,
         "descartados_por_gancho": 4
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 118,
+        "items": 119,
         "error": null,
-        "antiguedad_min": 51,
-        "descartados_por_gancho": 19
+        "antiguedad_min": 95,
+        "descartados_por_gancho": 16
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 24,
+        "items": 23,
         "error": null,
-        "antiguedad_min": 11,
-        "descartados_por_gancho": 1
+        "antiguedad_min": 2,
+        "descartados_por_gancho": 2
       }
     ]
   }
