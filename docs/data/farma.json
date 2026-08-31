@@ -2,7 +2,7 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "ultimas",
-  "generado": "2026-08-31T19:10:46+02:00",
+  "generado": "2026-08-31T23:58:42+02:00",
   "titulares": [
     {
       "titular": "La realidad del Hospital de Ceuta: 'malabares' con las camas, servicios colapsados y una medicina \"prácticamente de guerra\"",
@@ -41,6 +41,25 @@
       "enlace": "https://diariofarma.com/2026/08/31/navarra-inicia-la-inmunizacion-frente-al-vrs-en-3-000-recien-nacidos-esta-temporada"
     },
     {
+      "titular": "La FIP nombra a Lars-Ake Söderlund como nuevo presidente electo de la farmacia mundial",
+      "medios": [
+        "El Global",
+        "Redacción Médica"
+      ],
+      "consenso": 2,
+      "fecha": "2026-08-31T14:09:45+02:00",
+      "enlace": "https://www.redaccionmedica.com/profesionales/farmacia/20260831/la-fip-nombra-lars-ake-soderlund-como-nuevo-presidente-electo-de-la-farmacia-mundial/349846_0.html"
+    },
+    {
+      "titular": "Los jóvenes toman la delantera en el autocuidado de la salud sexual en España",
+      "medios": [
+        "El Global"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-31T11:15:23+02:00",
+      "enlace": "https://elglobalfarma.com/mas/autocuidado/jovenes-delantera-autocuidado-salud-sexual-espana/"
+    },
+    {
       "titular": "Las farmacias inglesas revisarán el colesterol a través de pruebas rápidas",
       "medios": [
         "Diariofarma"
@@ -48,36 +67,17 @@
       "consenso": 1,
       "fecha": "2026-08-31T16:47:11+02:00",
       "enlace": "https://diariofarma.com/2026/08/31/las-farmacias-inglesas-revisaran-a-traves-de-pruebas-rapidas-el-colesterol-para-prevenir-infartos-e-ictus"
-    },
-    {
-      "titular": "La vía de las orexinas se consolida como la gran revolución en la medicina del sueño",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-31T16:14:16+02:00",
-      "enlace": "https://www.redaccionmedica.com/innovacion/20260831/la-via-de-las-orexinas-se-consolida-como-la-gran-revolucion-en-medicina-del-sueno/349869_0.html"
-    },
-    {
-      "titular": "La Justicia ratifica la sanción disciplinaria a un jefe de Dermatología tras acumular más de 200 quejas",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-31T15:57:00+02:00",
-      "enlace": "https://www.redaccionmedica.com/profesionales/derecho-sanitario/20260831/la-justicia-ratifica-la-sancion-disciplinaria-un-jefe-de-dermatologia-tras-acumular-mas-quejas/349875_0.html"
     }
   ],
   "salud": {
     "feeds_totales": 7,
-    "feeds_ok": 3,
+    "feeds_ok": 4,
     "feeds_caidos": [
-      "El Global",
       "PMFarma",
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 70,
+    "antiguedad_minima_min": 358,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -85,16 +85,17 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 89,
+        "antiguedad_min": 377,
         "descartados_por_gancho": 0
       },
       {
         "medio": "El Global",
         "url": "https://elglobal.es/feed/",
-        "ok": false,
-        "items": 0,
-        "error": "URLError: <urlopen error timed out>",
-        "antiguedad_min": null
+        "ok": true,
+        "items": 10,
+        "error": null,
+        "antiguedad_min": 740,
+        "descartados_por_gancho": 0
       },
       {
         "medio": "Redacción Médica",
@@ -102,7 +103,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 70,
+        "antiguedad_min": 358,
         "descartados_por_gancho": 0
       },
       {

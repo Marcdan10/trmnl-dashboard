@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-08-31T19:10:22+02:00",
+  "generado": "2026-08-31T23:58:37+02:00",
   "titulares": [
     {
-      "titular": "'Pillan' a Lucas González tras su operación de nariz: así es el resultado y su nuevo rostro",
+      "titular": "0-1: El Arsenal asalta a un bravo Aston Villa y sigue en modo campeón",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-31T18:57:32+02:00",
-      "enlace": "https://www.mundodeportivo.com/elotromundo/gente/20260831/1004221772/pillan-lucas-gonzalez-operacion-nariz-asi-resultado-nuevo-rostro-dct.html"
+      "fecha": "2026-08-31T23:05:59+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/premier-league/20260831/1004221831/arsenal.html"
     },
     {
-      "titular": "Experiencia internacional para el Málaga",
+      "titular": "Récord histórico de David Soria: nadie lo ha hecho más veces que él",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-31T18:51:38+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/20260831/1004221771/experiencia-internacional-malaga.html"
+      "fecha": "2026-08-31T22:56:49+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/getafe/20260831/1004221845/record-historico-david-soria-nadie-hecho-veces.html"
     },
     {
       "titular": "Bombazo: Messi se retira de la selección argentina",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/motor/formula1/gp-italia/2026/08/31/lando-norris-cree-deberia-ganar-verstappen-hamilton.html"
     },
     {
-      "titular": "Rahm, en problemas: LIV Golf se prepara para la quiebra",
+      "titular": "Marc Bernal: \"Raphinha es un referente, queremos un capitán así\"",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/deportes/rahm-problemas-liv-golf-prepara-133814827"
+      "enlace": "https://www.sport.es/es/noticias/barca/marc-bernal-raphinha-referente-queremos-133821750"
     },
     {
-      "titular": "La apuesta de Orlegi Sports por el delantero del Sporting Juan Otero: de la mejora a la renovación automática",
+      "titular": "La crónica del Celta Fortuna-Castellón: Los 'orelluts' asoman en las alturas (1-2)",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/futbol/apuesta-orlegi-sports-delantero-sporting-133816061"
+      "enlace": "https://www.sport.es/es/noticias/futbol/cronica-celta-fortuna-castellon-orelluts-133821994"
     },
     {
-      "titular": "Un muerto y unos 15 desaparecidos tras inundación repentina en el Gran Cañón en Arizona",
+      "titular": "El presidente del Sant Andreu y cinco cracks del Femenino, en el palco del Barça-Rayo",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-31T18:37:52+02:00",
-      "enlace": "https://www.mundodeportivo.com/actualidad/20260831/1004221765/muerto-15-desaparecidos-inundacion-repentina-gran-canon-arizona-dct.html"
+      "fecha": "2026-08-31T22:43:38+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260831/1004221837/presidente-sant-andreu-cinco-cracks-barca-femenino.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 12,
+    "antiguedad_minima_min": 52,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 61,
         "error": null,
-        "antiguedad_min": 117,
+        "antiguedad_min": 406,
         "descartados_por_gancho": 10
       },
       {
@@ -98,19 +98,19 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 141,
+        "items": 143,
         "error": null,
-        "antiguedad_min": 12,
-        "descartados_por_gancho": 5
+        "antiguedad_min": 52,
+        "descartados_por_gancho": 7
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 50,
+        "items": 49,
         "error": null,
         "antiguedad_min": null,
-        "descartados_por_gancho": 0
+        "descartados_por_gancho": 1
       },
       {
         "medio": "NBA",
