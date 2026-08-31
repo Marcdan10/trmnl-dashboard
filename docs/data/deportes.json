@@ -1,71 +1,71 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "portadas",
-  "generado": "2026-08-31T11:16:59+02:00",
+  "modo": "ultimas",
+  "generado": "2026-08-31T19:10:22+02:00",
   "titulares": [
     {
-      "titular": "Gabriel Jesus y el reto azulgrana del '9' brasileño",
+      "titular": "'Pillan' a Lucas González tras su operación de nariz: así es el resultado y su nuevo rostro",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-31T09:38:28+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260831/1004221526/gabriel-jesus-reto-azulgrana-9-brasileno.html"
+      "fecha": "2026-08-31T18:57:32+02:00",
+      "enlace": "https://www.mundodeportivo.com/elotromundo/gente/20260831/1004221772/pillan-lucas-gonzalez-operacion-nariz-asi-resultado-nuevo-rostro-dct.html"
     },
     {
-      "titular": "El Barça cierra el fichaje de Mikael Baza",
+      "titular": "Experiencia internacional para el Málaga",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-31T18:51:38+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/20260831/1004221771/experiencia-internacional-malaga.html"
+    },
+    {
+      "titular": "Bombazo: Messi se retira de la selección argentina",
+      "medios": [
+        "Marca"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-31T17:12:25+02:00",
+      "enlace": "https://www.marca.com/futbol/2026/08/31/bombazo-messi-retira-seleccion-argentina.html"
+    },
+    {
+      "titular": "Lando Norris y por qué cree que debería ganar lo que Verstappen y Hamilton",
+      "medios": [
+        "Marca"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-31T17:04:48+02:00",
+      "enlace": "https://www.marca.com/motor/formula1/gp-italia/2026/08/31/lando-norris-cree-deberia-ganar-verstappen-hamilton.html"
+    },
+    {
+      "titular": "Rahm, en problemas: LIV Golf se prepara para la quiebra",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/barca/barca-cierra-fichaje-mikael-baza-133798927"
+      "enlace": "https://www.sport.es/es/noticias/deportes/rahm-problemas-liv-golf-prepara-133814827"
     },
     {
-      "titular": "El eclipse de luna, en imágenes: así se ha visto desde España",
-      "medios": [
-        "Marca"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-28T09:14:10+02:00",
-      "enlace": "https://www.marca.com/tiramillas/sociedad/2026/08/28/eclipse-luna-imagenes-asi-visto-espana.html"
-    },
-    {
-      "titular": "La agenda prevista con Gabriel Jesus",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-30T20:20:47+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260830/1004221387/agenda-prevista-gabriel-jesus.html"
-    },
-    {
-      "titular": "El Liverpool de Iraola ficha al 'nuevo Courtois' para relegar a Mamardashvili",
+      "titular": "La apuesta de Orlegi Sports por el delantero del Sporting Juan Otero: de la mejora a la renovación automática",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/valencia/liverpool-iraola-ficha-nuevo-courtois-133798887"
+      "enlace": "https://www.sport.es/es/noticias/futbol/apuesta-orlegi-sports-delantero-sporting-133816061"
     },
     {
-      "titular": "Xabi Alonso se carga a Enzo Fernández y su salida al Manchester City se calienta",
-      "medios": [
-        "Marca"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-28T08:44:37+02:00",
-      "enlace": "https://www.marca.com/futbol/premier-league/2026/08/28/xabi-alonso-carga-enzo-fernandez-salida-manchester-city-calienta.html"
-    },
-    {
-      "titular": "Lo que le ofrece el Barça a Gabriel Jesus",
+      "titular": "Un muerto y unos 15 desaparecidos tras inundación repentina en el Gran Cañón en Arizona",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-30T14:36:40+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260830/1004221276/le-ofrece-barca-gabriel-jesus.html"
+      "fecha": "2026-08-31T18:37:52+02:00",
+      "enlace": "https://www.mundodeportivo.com/actualidad/20260831/1004221765/muerto-15-desaparecidos-inundacion-repentina-gran-canon-arizona-dct.html"
     }
   ],
   "salud": {
@@ -74,16 +74,16 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 26,
+    "antiguedad_minima_min": 12,
     "detalle": [
       {
         "medio": "Marca",
         "url": "https://e00-marca.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 56,
+        "items": 61,
         "error": null,
-        "antiguedad_min": 4442,
-        "descartados_por_gancho": 11
+        "antiguedad_min": 117,
+        "descartados_por_gancho": 10
       },
       {
         "medio": "AS",
@@ -98,19 +98,19 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 136,
+        "items": 141,
         "error": null,
-        "antiguedad_min": 26,
-        "descartados_por_gancho": 6
+        "antiguedad_min": 12,
+        "descartados_por_gancho": 5
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 49,
+        "items": 50,
         "error": null,
         "antiguedad_min": null,
-        "descartados_por_gancho": 1
+        "descartados_por_gancho": 0
       },
       {
         "medio": "NBA",
