@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-08-31T04:56:07+02:00",
+  "generado": "2026-08-31T11:16:53+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -14,31 +14,31 @@
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
     },
     {
-      "titular": "Sánchez destina otros 165 millones a recuperar Ceuta y aplacar una crisis que altera el nuevo curso",
+      "titular": "Sánchez destaca la “cooperación instantánea” con Marruecos y asegura que el Rey visitará Ceuta",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-08-30T05:30:01+02:00",
-      "enlace": "https://elpais.com/espana/2026-08-30/sanchez-destina-otros-165-millones-a-recuperar-ceuta-y-aplacar-una-crisis-que-altera-el-nuevo-curso.html"
+      "fecha": "2026-08-31T10:40:00+02:00",
+      "enlace": "https://elpais.com/espana/2026-08-31/sanchez-destaca-la-cooperacion-instantanea-con-marruecos-y-asegura-que-el-rey-visitara-ceuta.html"
     },
     {
-      "titular": "Plan de choque en Catalunya: el curso empezará con 1.100 docentes más y restricciones a la IA",
+      "titular": "Sánchez asegura que el Rey visitará Ceuta por primera vez en 20 años",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-08-30T21:10:00+02:00",
-      "enlace": "https://www.lavanguardia.com/vida/20260830/11621930/plan-choque-educacion-500-aulas-acogida-ia-menores-14-anos.html"
+      "fecha": "2026-08-31T09:53:14+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20260831/11623498/sanchez-anuncia-rey-visitara-ceuta-melilla-primera-vez-aznar-begona-zapatero.html"
     },
     {
-      "titular": "Los niños de Ceuta, entre cuatro paredes: «Estoy todo el día con la tablet»",
+      "titular": "Sánchez se compara con el Rey y le señala por no haber ido a Ceuta aunque la visita depende de Moncloa",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-08-31T03:04:42+02:00",
-      "enlace": "https://www.abc.es/espana/infancia-ceuti-salir-casa-dia-tablet-20260829012556-nt.html"
+      "fecha": "2026-08-31T10:54:35+02:00",
+      "enlace": "https://www.abc.es/espana/sanchez-confirma-rey-felipe-visitara-ceuta-den-20260831102354-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -50,22 +50,22 @@
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
     },
     {
-      "titular": "Ceuta, el mes que rompió una ciudad",
+      "titular": "Sánchez, sobre el piso de Ayuso: “Esta señora ha querido comprarse un ‘aticazo’ con la pasta de los madrileños para vivir en él”",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-08-30T05:30:01+02:00",
-      "enlace": "https://elpais.com/espana/2026-08-30/ceuta-el-mes-que-rompio-una-ciudad.html"
+      "fecha": "2026-08-31T10:17:13+02:00",
+      "enlace": "https://elpais.com/espana/2026-08-31/sanchez-sobre-el-piso-de-ayuso-esta-senora-ha-querido-comprarse-un-aticazo-con-la-pasta-de-los-madrilenos-para-vivir-en-el.html"
     },
     {
-      "titular": "El clan de Os Fanchos: del narcotráfico local en Galicia a los cárteles internacionales",
+      "titular": "Entrevista de Pedro Sánchez, en directo: “Hay argumentos suficientes para que el Rey vaya a Ceuta; esa visita se hará”",
       "medios": [
-        "ABC"
+        "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-08-31T02:46:15+02:00",
-      "enlace": "https://www.abc.es/espana/galicia/fanchos-narcotrafico-local-galicia-alijar-carteles-internacionales-20260829011958-nt.html"
+      "fecha": "2026-08-31T09:59:13+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20260831/11623458/entrevista-presidente-gobierno-pedro-sanchez-crisis-ceuta-crisis-migratoria-ultima-hora-hoy-en-directo.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 58,
+    "antiguedad_minima_min": 22,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2222151,
+        "antiguedad_min": 2222531,
         "descartados_por_gancho": 0
       },
       {
@@ -90,35 +90,35 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 500",
+        "error": "HTTP 429",
         "antiguedad_min": null
       },
       {
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 136,
+        "items": 139,
         "error": null,
-        "antiguedad_min": 58,
-        "descartados_por_gancho": 4
+        "antiguedad_min": 36,
+        "descartados_por_gancho": 7
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 119,
+        "items": 105,
         "error": null,
-        "antiguedad_min": 211,
-        "descartados_por_gancho": 16
+        "antiguedad_min": 64,
+        "descartados_por_gancho": 19
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 25,
+        "items": 23,
         "error": null,
-        "antiguedad_min": 111,
-        "descartados_por_gancho": 0
+        "antiguedad_min": 22,
+        "descartados_por_gancho": 2
       }
     ]
   }

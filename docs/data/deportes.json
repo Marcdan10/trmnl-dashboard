@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-08-31T04:56:14+02:00",
+  "generado": "2026-08-31T11:16:59+02:00",
   "titulares": [
     {
-      "titular": "La agenda prevista con Gabriel Jesus",
+      "titular": "Gabriel Jesus y el reto azulgrana del '9' brasileño",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-30T20:20:47+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260830/1004221387/agenda-prevista-gabriel-jesus.html"
+      "fecha": "2026-08-31T09:38:28+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260831/1004221526/gabriel-jesus-reto-azulgrana-9-brasileno.html"
     },
     {
-      "titular": "El equipo vuelve al trabajo y se entrenará mañana a puerta abierta en Mareo",
+      "titular": "El Barça cierra el fichaje de Mikael Baza",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/futbol/equipo-vuelve-trabajo-entrenara-manana-133790630"
+      "enlace": "https://www.sport.es/es/noticias/barca/barca-cierra-fichaje-mikael-baza-133798927"
     },
     {
       "titular": "El eclipse de luna, en imágenes: así se ha visto desde España",
@@ -32,22 +32,22 @@
       "enlace": "https://www.marca.com/tiramillas/sociedad/2026/08/28/eclipse-luna-imagenes-asi-visto-espana.html"
     },
     {
-      "titular": "El Barça, tranquilo tras informarse sobre el estado físico de Gabriel Jesús",
+      "titular": "La agenda prevista con Gabriel Jesus",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-30T14:56:36+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260830/1004221279/barca-tranquilo-informarse-sobre-gran-fisico-gabriel-jesus.html"
+      "fecha": "2026-08-30T20:20:47+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260830/1004221387/agenda-prevista-gabriel-jesus.html"
     },
     {
-      "titular": "Calma en la victoria y un ojo en el mercado: así afronta el Oviedo los dos últimos días para fichar",
+      "titular": "El Liverpool de Iraola ficha al 'nuevo Courtois' para relegar a Mamardashvili",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/oviedo/calma-victoria-ojo-mercado-afronta-133790626"
+      "enlace": "https://www.sport.es/es/noticias/valencia/liverpool-iraola-ficha-nuevo-courtois-133798887"
     },
     {
       "titular": "Xabi Alonso se carga a Enzo Fernández y su salida al Manchester City se calienta",
@@ -59,13 +59,13 @@
       "enlace": "https://www.marca.com/futbol/premier-league/2026/08/28/xabi-alonso-carga-enzo-fernandez-salida-manchester-city-calienta.html"
     },
     {
-      "titular": "La llegada de Gabriel Jesús no descarta el interés por Julián para el futuro",
+      "titular": "Lo que le ofrece el Barça a Gabriel Jesus",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-30T15:59:34+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260830/1004221289/llegada-gabriel-jesus-no-descarta-interes-julian-futuro.html"
+      "fecha": "2026-08-30T14:36:40+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260830/1004221276/le-ofrece-barca-gabriel-jesus.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 243,
+    "antiguedad_minima_min": 26,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 56,
         "error": null,
-        "antiguedad_min": 4062,
+        "antiguedad_min": 4442,
         "descartados_por_gancho": 11
       },
       {
@@ -98,19 +98,19 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 144,
+        "items": 136,
         "error": null,
-        "antiguedad_min": 243,
-        "descartados_por_gancho": 2
+        "antiguedad_min": 26,
+        "descartados_por_gancho": 6
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 50,
+        "items": 49,
         "error": null,
         "antiguedad_min": null,
-        "descartados_por_gancho": 0
+        "descartados_por_gancho": 1
       },
       {
         "medio": "NBA",
