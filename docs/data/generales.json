@@ -2,62 +2,62 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-09-01T13:54:12+02:00",
+  "generado": "2026-09-01T17:54:58+02:00",
   "titulares": [
     {
-      "titular": "Última hora de la entrada de inmigrantes a Ceuta, en directo | El plan de choque del Gobierno para Ceuta incluye más de 100 millones para la acogida de menores",
+      "titular": "Alemania acusa a Rusia del ataque fallido con drones bomba en Leipzig",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-01T13:53:02+02:00",
-      "enlace": "https://elpais.com/espana/2026-09-01/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html"
+      "fecha": "2026-09-01T17:41:43+02:00",
+      "enlace": "https://elpais.com/internacional/2026-09-01/alemania-acusa-a-rusia-del-ataque-fallido-con-drones-bomba-en-leipzig.html"
     },
     {
-      "titular": "El ex primer ministro británico, Keir Starmer, anuncia que dejará su escaño como diputado",
+      "titular": "Detenido un marroquí de 17 años por agresión sexual a tres menores de entre 10 y 11 años en Ceuta",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-01T17:38:42+02:00",
+      "enlace": "https://www.abc.es/espana/detenido-menor-agresion-sexual-tres-ninas-centro-20260901130006-nt.html"
+    },
+    {
+      "titular": "Tronchon conquista la sierra del lince en Albacete",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-01T17:33:02+02:00",
+      "enlace": "https://www.abc.es/deportes/ciclismo/tronchon-conquista-sierra-lince-albacete-20260901173301-nt.html"
+    },
+    {
+      "titular": "Leire Iglesias, nombrada secretaria de Estado de Vivienda tras el fallecimiento de David Lucas",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-01T13:46:23+02:00",
-      "enlace": "https://elpais.com/internacional/2026-09-01/el-exprimer-ministro-britanico-keir-starmer-anuncia-que-dejara-su-escano-como-diputado.html"
+      "fecha": "2026-09-01T17:31:23+02:00",
+      "enlace": "https://elpais.com/economia/2026-09-01/leire-iglesias-nombrada-secretaria-de-estado-de-vivienda-tras-el-fallecimiento-de-david-lucas.html"
     },
     {
-      "titular": "La Guardia Civil pide patrullar y acciones conjuntas con el Ejército en la ciudad autónoma",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-01T13:34:58+02:00",
-      "enlace": "https://www.abc.es/espana/guardia-civil-pide-patrullar-acciones-conjuntas-ejercito-20260901013434-nt.html"
-    },
-    {
-      "titular": "Von der Leyen señala que los ahorros privados de la UE «deben ponerse al servicio de sus empresas»",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-01T13:34:15+02:00",
-      "enlace": "https://www.abc.es/economia/von-der-leyen-sobre-ahorros-hogares-europa-20260901131113-nt.html"
-    },
-    {
-      "titular": "El PSOE pide que los datos bancarios del partido pedidos por el juez se comuniquen solo a la Fiscalía para evitar filtraciones",
+      "titular": "Haakon VIII jura la Constitución de Noruega sin la Reina Mette-Marit a su lado",
       "medios": [
         "La Vanguardia",
         "ABC"
       ],
       "consenso": 2,
-      "fecha": "2026-09-01T13:08:04+02:00",
-      "enlace": "https://www.abc.es/espana/psoe-pide-datos-bancarios-partido-pedidos-juez-20260901123715-nt.html"
+      "fecha": "2026-09-01T17:02:32+02:00",
+      "enlace": "https://www.abc.es/internacional/haakon-viii-jura-constitucion-noruega-reina-mettemarit-20260901141240-nt.html"
     },
     {
-      "titular": "El presidente de Zambia inicia su segundo mandato con su principal rival en la cárcel",
+      "titular": "Ford Valencia negociará la semana que viene con la plantilla el acuerdo firmado antes de Geely",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-01T12:47:33+02:00",
-      "enlace": "https://www.lavanguardia.com/internacional/20260901/11624594/presidente-zambia-inicia-segundo-mandato-principal-rival-carcel.html"
+      "fecha": "2026-09-01T16:48:15+02:00",
+      "enlace": "https://www.lavanguardia.com/local/valencia/20260901/11624837/ford-valencia-negociara-semana-viene-plantilla-acuerdo-firmado-geely.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -75,7 +75,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 1,
+    "antiguedad_minima_min": 13,
     "detalle": [
       {
         "medio": "RTVE",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2224129,
+        "antiguedad_min": 2224369,
         "descartados_por_gancho": 0
       },
       {
@@ -91,17 +91,17 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 429",
+        "error": "HTTP 500",
         "antiguedad_min": null
       },
       {
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 141,
+        "items": 147,
         "error": null,
-        "antiguedad_min": 1,
-        "descartados_por_gancho": 8
+        "antiguedad_min": 13,
+        "descartados_por_gancho": 6
       },
       {
         "medio": "La Vanguardia",
@@ -109,8 +109,8 @@
         "ok": true,
         "items": 120,
         "error": null,
-        "antiguedad_min": 66,
-        "descartados_por_gancho": 15
+        "antiguedad_min": 48,
+        "descartados_por_gancho": 14
       },
       {
         "medio": "ABC",
@@ -118,7 +118,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 19,
+        "antiguedad_min": 16,
         "descartados_por_gancho": 0
       }
     ]
