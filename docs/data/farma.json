@@ -2,8 +2,26 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "ultimas",
-  "generado": "2026-09-01T17:55:09+02:00",
+  "generado": "2026-09-01T21:08:38+02:00",
   "titulares": [
+    {
+      "titular": "La UIMP concede su Medalla de Honor a Félix Lobo por su trayectoria académica y pública",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-01T20:09:00+02:00",
+      "enlace": "https://diariofarma.com/2026/09/01/la-uimp-concede-su-medalla-de-honor-a-felix-lobo-por-su-trayectoria-academica-y-publica"
+    },
+    {
+      "titular": "El descontrol migratorio en Ceuta empuja a los farmacéuticos a ejercer una asistencia de trinchera",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-01T18:03:19+02:00",
+      "enlace": "https://www.redaccionmedica.com/profesionales/farmacia/20260901/el-descontrol-migratorio-en-ceuta-empuja-los-farmaceuticos-ejercer-una-asistencia-de-trinchera/349941_0.html"
+    },
     {
       "titular": "La Rioja elevará el presupuesto de Sanidad en 70 millones en 2027 hasta alcanzar los 749",
       "medios": [
@@ -14,15 +32,6 @@
       "enlace": "https://diariofarma.com/2026/09/01/la-rioja-elevara-el-presupuesto-de-sanidad-en-70-millones-en-2027-hasta-alcanzar-los-749"
     },
     {
-      "titular": "EE. UU. suma nueve farmacéuticas más a su acuerdo para equiparar precios de fármacos",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-01T17:20:08+02:00",
-      "enlace": "https://diariofarma.com/2026/09/01/ee-uu-suma-nueve-farmaceuticas-mas-a-su-acuerdo-para-equiparar-precios-de-farmacos"
-    },
-    {
       "titular": "Una IA logra predecir la insuficiencia cardíaca en dos segundos con un electrocardiograma común",
       "medios": [
         "Redacción Médica"
@@ -30,15 +39,6 @@
       "consenso": 1,
       "fecha": "2026-09-01T16:56:18+02:00",
       "enlace": "https://www.redaccionmedica.com/innovacion/sanidad-digital/20260901/una-ia-logra-predecir-la-insuficiencia-cardiaca-en-dos-segundos-con-un-electrocardiograma-comun/349947_0.html"
-    },
-    {
-      "titular": "Guillermo Pou, cirujano: \"La diástasis no es solo estética, también dolor de espalda, hinchazón e incontinencia\"",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-01T16:54:07+02:00",
-      "enlace": "https://www.redaccionmedica.com/profesionales/medicina/20260901/guillermo-pou-cirujano-la-diastasis-no-es-solo-estetica-tambien-dolor-de-espalda-hinchazon-incontinencia/349686_0.html"
     },
     {
       "titular": "La EMA pone en marcha un piloto para impulsar el uso de métodos alternativos a la experimentación animal",
@@ -59,13 +59,13 @@
       "enlace": "https://elglobalfarma.com/industria/efpia-inversion-previsibilidad-europa-destino-atractivo-id-farmaceutica/"
     },
     {
-      "titular": "Europa prueba un modelo voluntario para reducir la experimentación con animales",
+      "titular": "EE. UU. suma nueve farmacéuticas más a su acuerdo para equiparar precios de fármacos",
       "medios": [
         "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-09-01T17:06:46+02:00",
-      "enlace": "https://diariofarma.com/2026/09/01/europa-prueba-un-modelo-voluntario-para-reducir-la-experimentacion-con-animales"
+      "fecha": "2026-09-01T17:20:08+02:00",
+      "enlace": "https://diariofarma.com/2026/09/01/ee-uu-suma-nueve-farmaceuticas-mas-a-su-acuerdo-para-equiparar-precios-de-farmacos"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 8,
+    "antiguedad_minima_min": 59,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 8,
+        "antiguedad_min": 59,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 193,
+        "antiguedad_min": 387,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 58,
+        "antiguedad_min": 185,
         "descartados_por_gancho": 0
       },
       {

@@ -2,62 +2,61 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-09-01T17:54:58+02:00",
+  "generado": "2026-09-01T21:08:23+02:00",
   "titulares": [
     {
-      "titular": "Alemania acusa a Rusia del ataque fallido con drones bomba en Leipzig",
+      "titular": "El Gobierno prohíbe en Madrid y Santander las concentraciones en apoyo a Ceuta",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-01T21:05:26+02:00",
+      "enlace": "https://www.abc.es/espana/gobierno-prohibe-varias-concentraciones-apoyo-ceuta-convocadas-20260901200512-nt.html"
+    },
+    {
+      "titular": "Aumenta el número de alcaldes del PSOE que desobedecerán a Ferraz en las manifestaciones",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-01T21:03:35+02:00",
+      "enlace": "https://www.abc.es/espana/aumenta-numero-alcaldes-psoe-desobedeceran-hoy-ferraz-20260901192115-nt.html"
+    },
+    {
+      "titular": "Madrid acusa al Gobierno de “boicotear” la concentración por Ceuta pese a que el Ejecutivo permitirá que se celebre",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-01T17:41:43+02:00",
-      "enlace": "https://elpais.com/internacional/2026-09-01/alemania-acusa-a-rusia-del-ataque-fallido-con-drones-bomba-en-leipzig.html"
+      "fecha": "2026-09-01T20:45:17+02:00",
+      "enlace": "https://elpais.com/espana/2026-09-01/madrid-acusa-al-gobierno-de-boicotear-la-concentracion-por-ceuta-pese-a-que-el-ejecutivo-permitira-que-se-celebre.html"
     },
     {
-      "titular": "Detenido un marroquí de 17 años por agresión sexual a tres menores de entre 10 y 11 años en Ceuta",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-01T17:38:42+02:00",
-      "enlace": "https://www.abc.es/espana/detenido-menor-agresion-sexual-tres-ninas-centro-20260901130006-nt.html"
-    },
-    {
-      "titular": "Tronchon conquista la sierra del lince en Albacete",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-01T17:33:02+02:00",
-      "enlace": "https://www.abc.es/deportes/ciclismo/tronchon-conquista-sierra-lince-albacete-20260901173301-nt.html"
-    },
-    {
-      "titular": "Leire Iglesias, nombrada secretaria de Estado de Vivienda tras el fallecimiento de David Lucas",
+      "titular": "La guerra híbrida de Rusia en suelo europeo se acelera un 50% desde abril",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-01T17:31:23+02:00",
-      "enlace": "https://elpais.com/economia/2026-09-01/leire-iglesias-nombrada-secretaria-de-estado-de-vivienda-tras-el-fallecimiento-de-david-lucas.html"
+      "fecha": "2026-09-01T20:33:02+02:00",
+      "enlace": "https://elpais.com/internacional/2026-09-01/la-guerra-hibrida-de-rusia-en-suelo-europeo-se-acelera-un-50-desde-abril.html"
     },
     {
-      "titular": "Haakon VIII jura la Constitución de Noruega sin la Reina Mette-Marit a su lado",
-      "medios": [
-        "La Vanguardia",
-        "ABC"
-      ],
-      "consenso": 2,
-      "fecha": "2026-09-01T17:02:32+02:00",
-      "enlace": "https://www.abc.es/internacional/haakon-viii-jura-constitucion-noruega-reina-mettemarit-20260901141240-nt.html"
-    },
-    {
-      "titular": "Ford Valencia negociará la semana que viene con la plantilla el acuerdo firmado antes de Geely",
+      "titular": "Bruselas acusa a Rusia de querer “sacar partido” a la crisis de Ceuta, pero no cree que la provocase",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-01T16:48:15+02:00",
-      "enlace": "https://www.lavanguardia.com/local/valencia/20260901/11624837/ford-valencia-negociara-semana-viene-plantilla-acuerdo-firmado-geely.html"
+      "fecha": "2026-09-01T20:08:27+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20260901/11624965/bruselas-acusa-rusia-querer-sacar-partido-crisis-ceuta-cree-provocase.html"
+    },
+    {
+      "titular": "El G-20 se enturbia por la invitación de Donald Trump a Rusia",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-01T20:02:26+02:00",
+      "enlace": "https://www.lavanguardia.com/economia/20260901/11624975/g20-enturbia-invitacion-trump-rusia.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -75,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 13,
+    "antiguedad_minima_min": 2,
     "detalle": [
       {
         "medio": "RTVE",
@@ -83,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2224369,
+        "antiguedad_min": 2224563,
         "descartados_por_gancho": 0
       },
       {
@@ -98,19 +97,19 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 147,
+        "items": 144,
         "error": null,
-        "antiguedad_min": 13,
-        "descartados_por_gancho": 6
+        "antiguedad_min": 23,
+        "descartados_por_gancho": 7
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 120,
+        "items": 129,
         "error": null,
-        "antiguedad_min": 48,
-        "descartados_por_gancho": 14
+        "antiguedad_min": 59,
+        "descartados_por_gancho": 12
       },
       {
         "medio": "ABC",
@@ -118,7 +117,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 16,
+        "antiguedad_min": 2,
         "descartados_por_gancho": 0
       }
     ]
