@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-09-01T03:04:43+02:00",
+  "generado": "2026-09-01T08:27:02+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -14,31 +14,31 @@
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
     },
     {
-      "titular": "Sánchez exculpa a Marruecos por la crisis de Ceuta y avanza que el Rey la visitará por primera vez con este Gobierno",
+      "titular": "Marruecos observa como una provocación una visita real a Ceuta en medio de su campaña electoral",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-08-31T18:56:55+02:00",
-      "enlace": "https://elpais.com/espana/2026-08-31/sanchez-destaca-la-cooperacion-instantanea-con-marruecos-y-asegura-que-el-rey-visitara-ceuta.html"
+      "fecha": "2026-09-01T05:30:01+02:00",
+      "enlace": "https://elpais.com/espana/2026-09-01/marruecos-observa-como-una-provocacion-una-visita-real-a-ceuta-en-medio-de-su-campana-electoral.html"
     },
     {
-      "titular": "Sánchez asegura que el Rey visitará Ceuta: “Hay argumentos suficientes”",
+      "titular": "Las nuevas plazas de acogida en Ceuta desatan tensión entre los inmigrantes",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-08-31T09:53:14+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20260831/11623498/sanchez-anuncia-rey-visitara-ceuta-melilla-primera-vez-aznar-begona-zapatero.html"
+      "fecha": "2026-09-01T06:00:00+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20260901/11624070/nuevas-plazas-acogida-ceuta-desatan-tension-inmigrantes.html"
     },
     {
-      "titular": "Cristina Pardo se sienta en 'La Mesa' de Antena 3: «Me parece que la actualidad está muy desagradable»",
+      "titular": "José Abellán, cardiólogo: «Si cuando te levantas de la cama o del sofá notas mareo o parece que te vas a desmayar es porque a tu cabeza le cae la presión arterial»",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-01T02:09:06+02:00",
-      "enlace": "https://www.abc.es/play/television/noticias/cristina-pardo-sienta-mesa-antena-amena-realidad-20260831175209-nt.html"
+      "fecha": "2026-09-01T08:06:12+02:00",
+      "enlace": "https://www.abc.es/bienestar/jose-abellan-cardiologo-levantas-cama-sofa-notas-20260901190511-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -50,22 +50,22 @@
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
     },
     {
-      "titular": "El PP reprocha a Sánchez que señale a todos menos a Marruecos por la crisis de Ceuta: “Le falta culpar a Franco”",
+      "titular": "Sánchez intenta bajar la presión prometiendo una visita del Rey a Ceuta cuando se supere la crisis",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-08-31T14:58:08+02:00",
-      "enlace": "https://elpais.com/espana/2026-08-31/el-pp-reprocha-a-sanchez-que-senale-a-todos-menos-a-marruecos-por-la-crisis-de-ceuta-le-falta-culpar-a-franco.html"
+      "fecha": "2026-09-01T05:30:01+02:00",
+      "enlace": "https://elpais.com/espana/2026-09-01/sanchez-intenta-bajar-la-presion-prometiendo-una-visita-del-rey-a-ceuta-cuando-se-supere-la-crisis.html"
     },
     {
-      "titular": "Israel califica de “mentira” la acusación de Sánchez de su implicación en la crisis de Ceuta",
+      "titular": "Las concentraciones convocadas en apoyo a Ceuta dividen a los partidos",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-08-31T15:48:20+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20260831/11623907/israel-califica-mentira-acusacion-sanchez-implicacion-crisis-ceuta.html"
+      "fecha": "2026-08-31T18:37:11+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20260831/11624026/concentraciones-convocadas-apoyo-ceuta-pasado-manana-dos-dividen-partidos.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 55,
+    "antiguedad_minima_min": 20,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2223479,
+        "antiguedad_min": 2223801,
         "descartados_por_gancho": 0
       },
       {
@@ -97,19 +97,19 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 145,
+        "items": 143,
         "error": null,
-        "antiguedad_min": 154,
-        "descartados_por_gancho": 4
+        "antiguedad_min": 62,
+        "descartados_por_gancho": 9
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 125,
+        "items": 113,
         "error": null,
-        "antiguedad_min": 154,
-        "descartados_por_gancho": 14
+        "antiguedad_min": 87,
+        "descartados_por_gancho": 15
       },
       {
         "medio": "ABC",
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 55,
+        "antiguedad_min": 20,
         "descartados_por_gancho": 0
       }
     ]

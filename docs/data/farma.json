@@ -2,7 +2,7 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "portadas",
-  "generado": "2026-09-01T03:04:55+02:00",
+  "generado": "2026-09-01T08:27:14+02:00",
   "titulares": [
     {
       "titular": "El 'Mapa del Medicament', un algoritmo de priorización para mejorar la eficiencia de la validación farmacéutica en urgencias",
@@ -41,13 +41,13 @@
       "enlace": "https://elglobalfarma.com/mas/autocuidado/jovenes-delantera-autocuidado-salud-sexual-espana/"
     },
     {
-      "titular": "Ceuta: cuando la salud pública y los derechos humanos señalan la misma dirección",
+      "titular": "El prospecto digital convence a los hospitales y espera ahora a la nueva ley para crecer",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-08-31T13:44:44+02:00",
-      "enlace": "https://www.redaccionmedica.com/opinion/20260831/ceuta-cuando-la-salud-publica-los-derechos-humanos-senalan-misma-direccion/349866_12.html"
+      "fecha": "2026-09-01T05:00:00+02:00",
+      "enlace": "https://www.redaccionmedica.com/empresas/industria-farmaceutica/20260901/el-prospecto-digital-convence-los-hospitales-espera-ahora-la-nueva-ley-para-crecer/349653_0.html"
     },
     {
       "titular": "Los medicamentos examinados por la AEMPS en los IPT hasta agosto",
@@ -77,7 +77,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 544,
+    "antiguedad_minima_min": 147,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -85,7 +85,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 563,
+        "antiguedad_min": 885,
         "descartados_por_gancho": 0
       },
       {
@@ -94,7 +94,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 926,
+        "antiguedad_min": 1249,
         "descartados_por_gancho": 0
       },
       {
@@ -103,7 +103,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 544,
+        "antiguedad_min": 147,
         "descartados_por_gancho": 0
       },
       {

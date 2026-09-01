@@ -2,7 +2,7 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "portadas",
-  "generado": "2026-09-01T03:04:47+02:00",
+  "generado": "2026-09-01T08:27:06+02:00",
   "titulares": [
     {
       "titular": "Santander USA da entrada a los consejeros de Webster",
@@ -14,6 +14,15 @@
       "enlace": "https://www.expansion.com/empresas/banca/2026/09/01/6a95b941e5fdeaa96e8b4587.html"
     },
     {
+      "titular": "La línea roja del mercado ante la que Estados Unidos va a acudir al rescate",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-31T20:47:23+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/08/31/6a9593c1468aeb23528b45a1.html"
+    },
+    {
       "titular": "La Bolsa afronta su peor mes del año",
       "medios": [
         "Expansión"
@@ -23,13 +32,13 @@
       "enlace": "https://www.expansion.com/mercados/2026/09/01/6a957a2ae5fdea2e298b456d.html"
     },
     {
-      "titular": "La línea roja del mercado ante la que Estados Unidos va a acudir al rescate",
+      "titular": "La Primera de Expansión Azora, Stoneshield, Sabadell, Shein, Nvidia, Revolut y Ceuta",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-08-31T20:47:23+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/08/31/6a9593c1468aeb23528b45a1.html"
+      "fecha": "2026-09-01T07:23:19+02:00",
+      "enlace": "https://www.expansion.com/podcasts/la-primera-de-expansion/2026/09/01/6a965730e5fdeadd168b4589.html"
     },
     {
       "titular": "Alejandro Betancourt, el hombre que podría ser el virrey de Trump en Venezuela",
@@ -41,31 +50,22 @@
       "enlace": "https://www.expansion.com/economia/financial-times/2026/08/31/6a95b099468aeb41168b456f.html"
     },
     {
-      "titular": "Desde hoy, alivio fiscal de 20 céntimos en el diésel con carburantes en máximos y crudo al alza",
+      "titular": "Trade Republic ofrece fondos de Azvalor, Cobas y Magallanes",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-01T02:04:35+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/09/01/6a95c5dce5fdea586c8b456f.html"
+      "fecha": "2026-09-01T07:00:00+02:00",
+      "enlace": "https://www.expansion.com/empresas/banca/2026/09/01/6a95c444468aeb1b0d8b4574.html"
     },
     {
-      "titular": "El euríbor sube en agosto al 2,95%, su nivel más alto desde hace dos años",
+      "titular": "El Ibex titubea al filo de los 20.000 puntos",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-08-31T14:30:12+02:00",
-      "enlace": "https://www.expansion.com/mercados/euribor/2026/08/31/6a956dcf468aeba21d8b4576.html"
-    },
-    {
-      "titular": "Puig, Sabadell y Amadeus brillan en agosto con subidas de más del 9%",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-01T00:04:29+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/09/01/6a95f61f468aeb89658b4576.html"
+      "fecha": "2026-09-01T08:22:25+02:00",
+      "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/09/01/6a966735468aeb3f2f8b457f.html"
     }
   ],
   "salud": {
@@ -78,16 +78,16 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 60,
+    "antiguedad_minima_min": 4,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 67,
+        "items": 71,
         "error": null,
-        "antiguedad_min": 60,
-        "descartados_por_gancho": 3
+        "antiguedad_min": 4,
+        "descartados_por_gancho": 2
       },
       {
         "medio": "Cinco Días",

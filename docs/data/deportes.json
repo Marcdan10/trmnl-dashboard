@@ -2,7 +2,7 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-09-01T03:04:48+02:00",
+  "generado": "2026-09-01T08:27:08+02:00",
   "titulares": [
     {
       "titular": "Un Barça frenético golea y es líder",
@@ -14,13 +14,13 @@
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260831/1004221832/barca-frenetico-golea-lider.html"
     },
     {
-      "titular": "Jefté toma el mando en la UD Las Palmas sin Jesé ni Arana",
+      "titular": "Luis Figo (53 años): \"Me gusta entrenar, aunque mi carrera haya terminado. Todo resulta más fácil si te gusta practicar\"",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/las-palmas/jefte-toma-mando-ud-palmas-133822858"
+      "enlace": "https://www.sport.es/es/noticias/outdoor/luis-figo-53-anos-gusta-entrenar-carrera-terminado-133817605"
     },
     {
       "titular": "Bombazo: Messi se retira de la selección argentina",
@@ -34,21 +34,20 @@
     {
       "titular": "El 1x1 del Barça ante el Rayo Vallecano",
       "medios": [
-        "Mundo Deportivo",
-        "Sport"
+        "Mundo Deportivo"
       ],
-      "consenso": 2,
+      "consenso": 1,
       "fecha": "2026-08-31T23:32:35+02:00",
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260831/1004221808/1x1-barca-rayo-vallecano.html"
     },
     {
-      "titular": "‘Cortocircuito Kirian’ en lamedular y se busca solución",
+      "titular": "Último día del mercado de fichajes, hoy, en directo: última hora de FC Barcelona, Real Madrid y todas las altas y bajas de las grandes ligas",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/las-palmas/cortocircuito-kirian-lamedular-busca-solucion-133822860"
+      "enlace": "https://www.sport.es/es/noticias/mercado-fichajes/ultimo-dia-mercado-fichajes-hoy-133826095"
     },
     {
       "titular": "Lando Norris y por qué cree que debería ganar lo que Verstappen y Hamilton",
@@ -60,13 +59,13 @@
       "enlace": "https://www.marca.com/motor/formula1/gp-italia/2026/08/31/lando-norris-cree-deberia-ganar-verstappen-hamilton.html"
     },
     {
-      "titular": "La portada SPORT de hoy, martes 1 de septiembre de 2026",
+      "titular": "Lobo Carrasco incendia El Chiringuito: \"Raphinha es más completo que Mbappé\"",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/la-portada-de-sport/portada-sport-hoy-martes-1-133822726"
+      "enlace": "https://www.sport.es/es/noticias/barca/lobo-carrasco-incendia-chiringuito-raphinha-mejor-mbappe-133825839"
     }
   ],
   "salud": {
@@ -75,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 123,
+    "antiguedad_minima_min": 41,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +82,7 @@
         "ok": true,
         "items": 61,
         "error": null,
-        "antiguedad_min": 592,
+        "antiguedad_min": 914,
         "descartados_por_gancho": 10
       },
       {
@@ -99,19 +98,19 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 139,
+        "items": 137,
         "error": null,
-        "antiguedad_min": 123,
-        "descartados_por_gancho": 10
+        "antiguedad_min": 41,
+        "descartados_por_gancho": 11
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 49,
+        "items": 50,
         "error": null,
         "antiguedad_min": null,
-        "descartados_por_gancho": 1
+        "descartados_por_gancho": 0
       },
       {
         "medio": "NBA",
