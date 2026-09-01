@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-09-01T21:08:30+02:00",
+  "generado": "2026-09-01T23:53:23+02:00",
   "titulares": [
     {
-      "titular": "\"La lavandería tiene una relación estratégica con la vivienda. Es muy importante\"",
+      "titular": "Mudryk se reencuentra con De Zerbi",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-01T20:58:17+02:00",
-      "enlace": "https://www.mundodeportivo.com/economia-hogar/20260901/1004222283/cristina-gamboa-arquitecta-lavanderia-relacion-estrategica-vivienda-importante-como-disenamos-smd.html"
+      "fecha": "2026-09-01T23:26:09+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/oficial/20260901/1004222319/mudryk.html"
     },
     {
-      "titular": "Víctor, adiestrador canino: \"Tu perro puede morir si llenas el bebedero de agua hasta arriba para calmarlo\"",
+      "titular": "Sebastián Cáceres, nuevo jugador del Celta",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-01T20:55:57+02:00",
-      "enlace": "https://www.mundodeportivo.com/elotromundo/mascotas/20260901/1004222282/victor-manero-adiestrador-canino-perro-morir-llenas-bebedero-agua-calmarlo-traga-aire-agua-golpe-estomago-infla-peligrosamente-dct.html"
+      "fecha": "2026-09-01T23:25:28+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/celta-vigo/20260901/1004222322/sebastian-caceres-nuevo-jugador-celta.html"
     },
     {
       "titular": "Bombazo: Messi se retira de la selección argentina",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/motor/formula1/gp-italia/2026/08/31/lando-norris-cree-deberia-ganar-verstappen-hamilton.html"
     },
     {
-      "titular": "Niño Becerra, experto en economía, enciende las alarmas sobre las pensiones: ¨la edad de jubilación se retrasará a los 74 años¨",
+      "titular": "¡Oficial! El Barça inscribe a Gabriel Jesus y Livakovic y ya tienen dorsal",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/actualidad/nino-becerra-experto-economia-enciende-133832212"
+      "enlace": "https://www.sport.es/es/noticias/barca/oficial-barca-inscribe-gabriel-jesus-133852486"
     },
     {
-      "titular": "Pesar en el celtismo por el fallecimiento de la madre de Iván Villar",
+      "titular": "El Málaga CF cierra el mercado con ocho fichajes",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/celta-de-vigo/pesar-celtismo-fallecimiento-madre-ivan-133854318"
+      "enlace": "https://www.sport.es/es/noticias/futbol/malaga-cf-cierra-mercado-ocho-133856469"
     },
     {
-      "titular": "Yulemnis Aguilar bate el récord de España de jabalina",
+      "titular": "Alcaraz se lo temía, y el US Open lo cumplió: el peor horario posible",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-01T20:54:16+02:00",
-      "enlace": "https://www.mundodeportivo.com/atletismo/20260901/1004222285/yulemnis-aguilar-bate-record-espana-jabalina.html"
+      "fecha": "2026-09-01T23:15:06+02:00",
+      "enlace": "https://www.mundodeportivo.com/tenis/open-usa/20260901/1004222318/alcaraz-temia-us-open-cumplio-peor-horario-posible-faria.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 10,
+    "antiguedad_minima_min": 27,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 61,
         "error": null,
-        "antiguedad_min": 1676,
+        "antiguedad_min": 1840,
         "descartados_por_gancho": 10
       },
       {
@@ -98,19 +98,19 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 147,
+        "items": 149,
         "error": null,
-        "antiguedad_min": 10,
-        "descartados_por_gancho": 5
+        "antiguedad_min": 27,
+        "descartados_por_gancho": 4
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 50,
+        "items": 49,
         "error": null,
         "antiguedad_min": null,
-        "descartados_por_gancho": 0
+        "descartados_por_gancho": 1
       },
       {
         "medio": "NBA",

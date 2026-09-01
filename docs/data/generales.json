@@ -2,61 +2,61 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-09-01T21:08:23+02:00",
+  "generado": "2026-09-01T23:53:19+02:00",
   "titulares": [
     {
-      "titular": "El Gobierno prohíbe en Madrid y Santander las concentraciones en apoyo a Ceuta",
+      "titular": "Al menos cuatro muertos tras los ataques de EE.UU. contra Irán en represalia por bombardeos en Ormuz",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-01T21:05:26+02:00",
-      "enlace": "https://www.abc.es/espana/gobierno-prohibe-varias-concentraciones-apoyo-ceuta-convocadas-20260901200512-nt.html"
+      "fecha": "2026-09-01T23:33:21+02:00",
+      "enlace": "https://www.abc.es/internacional/eeuu-lanza-nuevos-ataques-iran-represalia-bombardeos-20260901190750-nt.html"
     },
     {
-      "titular": "Aumenta el número de alcaldes del PSOE que desobedecerán a Ferraz en las manifestaciones",
+      "titular": "Estados Unidos vuelve a bombardear Irán, que responde con ataques contra sus efectivos en Jordania",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-01T22:42:07+02:00",
+      "enlace": "https://elpais.com/internacional/2026-09-01/estados-unidos-bombardea-iran-por-segunda-vez-en-una-semana.html"
+    },
+    {
+      "titular": "Lasaña de carne casera, la mejor receta tradicional",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-01T21:03:35+02:00",
-      "enlace": "https://www.abc.es/espana/aumenta-numero-alcaldes-psoe-desobedeceran-hoy-ferraz-20260901192115-nt.html"
+      "fecha": "2026-09-01T22:35:16+02:00",
+      "enlace": "https://www.abc.es/recetasderechupete/receta-de-lasana-de-carne/223/"
     },
     {
-      "titular": "Madrid acusa al Gobierno de “boicotear” la concentración por Ceuta pese a que el Ejecutivo permitirá que se celebre",
+      "titular": "Un candidato sorpresa asoma en la carrera a la Presidencia de Brasil que dominan Lula y Bolsonaro hijo",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-01T20:45:17+02:00",
-      "enlace": "https://elpais.com/espana/2026-09-01/madrid-acusa-al-gobierno-de-boicotear-la-concentracion-por-ceuta-pese-a-que-el-ejecutivo-permitira-que-se-celebre.html"
+      "fecha": "2026-09-01T22:08:54+02:00",
+      "enlace": "https://elpais.com/america/2026-09-01/un-candidato-sorpresa-asoma-en-la-carrera-a-la-presidencia-de-brasil-que-dominan-lula-y-bolsonaro-hijo.html"
     },
     {
-      "titular": "La guerra híbrida de Rusia en suelo europeo se acelera un 50% desde abril",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-01T20:33:02+02:00",
-      "enlace": "https://elpais.com/internacional/2026-09-01/la-guerra-hibrida-de-rusia-en-suelo-europeo-se-acelera-un-50-desde-abril.html"
-    },
-    {
-      "titular": "Bruselas acusa a Rusia de querer “sacar partido” a la crisis de Ceuta, pero no cree que la provocase",
+      "titular": "Un herido grave de una puñalada en la estación de Arenys de Mar",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-01T20:08:27+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20260901/11624965/bruselas-acusa-rusia-querer-sacar-partido-crisis-ceuta-cree-provocase.html"
+      "fecha": "2026-09-01T21:46:41+02:00",
+      "enlace": "https://www.lavanguardia.com/local/maresme/20260901/11625011/herido-grave-punalada-estacion-arenys-mar.html"
     },
     {
-      "titular": "El G-20 se enturbia por la invitación de Donald Trump a Rusia",
+      "titular": "La industria de defensa española sella la paz y completa la entrega de cien 8x8",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-01T20:02:26+02:00",
-      "enlace": "https://www.lavanguardia.com/economia/20260901/11624975/g20-enturbia-invitacion-trump-rusia.html"
+      "fecha": "2026-09-01T21:12:52+02:00",
+      "enlace": "https://www.lavanguardia.com/dinero/20260901/11625004/industria-defensa-espanola-sella-paz-completa-entrega-cien-8x8.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 2,
+    "antiguedad_minima_min": 19,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2224563,
+        "antiguedad_min": 2224728,
         "descartados_por_gancho": 0
       },
       {
@@ -97,9 +97,9 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 144,
+        "items": 146,
         "error": null,
-        "antiguedad_min": 23,
+        "antiguedad_min": 71,
         "descartados_por_gancho": 7
       },
       {
@@ -108,7 +108,7 @@
         "ok": true,
         "items": 129,
         "error": null,
-        "antiguedad_min": 59,
+        "antiguedad_min": 126,
         "descartados_por_gancho": 12
       },
       {
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 2,
+        "antiguedad_min": 19,
         "descartados_por_gancho": 0
       }
     ]
