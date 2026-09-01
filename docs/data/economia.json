@@ -1,71 +1,71 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "portadas",
-  "generado": "2026-09-01T08:27:06+02:00",
+  "modo": "ultimas",
+  "generado": "2026-09-01T13:54:15+02:00",
   "titulares": [
     {
-      "titular": "Santander USA da entrada a los consejeros de Webster",
+      "titular": "El Ibex se aleja de los 20.000",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-01T02:04:24+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/09/01/6a95b941e5fdeaa96e8b4587.html"
-    },
-    {
-      "titular": "La línea roja del mercado ante la que Estados Unidos va a acudir al rescate",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-31T20:47:23+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/08/31/6a9593c1468aeb23528b45a1.html"
-    },
-    {
-      "titular": "La Bolsa afronta su peor mes del año",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-01T02:04:25+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/09/01/6a957a2ae5fdea2e298b456d.html"
-    },
-    {
-      "titular": "La Primera de Expansión Azora, Stoneshield, Sabadell, Shein, Nvidia, Revolut y Ceuta",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-01T07:23:19+02:00",
-      "enlace": "https://www.expansion.com/podcasts/la-primera-de-expansion/2026/09/01/6a965730e5fdeadd168b4589.html"
-    },
-    {
-      "titular": "Alejandro Betancourt, el hombre que podría ser el virrey de Trump en Venezuela",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-31T19:25:03+02:00",
-      "enlace": "https://www.expansion.com/economia/financial-times/2026/08/31/6a95b099468aeb41168b456f.html"
-    },
-    {
-      "titular": "Trade Republic ofrece fondos de Azvalor, Cobas y Magallanes",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-01T07:00:00+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/09/01/6a95c444468aeb1b0d8b4574.html"
-    },
-    {
-      "titular": "El Ibex titubea al filo de los 20.000 puntos",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-01T08:22:25+02:00",
+      "fecha": "2026-09-01T13:31:41+02:00",
       "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/09/01/6a966735468aeb3f2f8b457f.html"
+    },
+    {
+      "titular": "Los expertos piden resolver el hacinamiento y la insalubridad entre los migrantes en Ceuta para prevenir enfermedades transmisibles",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-01T13:29:28+02:00",
+      "enlace": "https://www.expansion.com/estilo-vida/salud/2026/09/01/6a96952d468aeb27128b45da.html"
+    },
+    {
+      "titular": "Las Letras a un año vuelan al 2,83%, el nivel más alto en dos años",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-01T13:08:44+02:00",
+      "enlace": "https://www.expansion.com/ahorro/2026/09/01/6a96af66468aeb27128b45e4.html"
+    },
+    {
+      "titular": "Rusia pide a Sánchez pruebas de su implicación en la crisis de Ceuta: \"Las acusaciones hay que probarlas\"",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-01T13:01:43+02:00",
+      "enlace": "https://www.expansion.com/economia/politica/2026/09/01/6a96b095468aeb04598b4592.html"
+    },
+    {
+      "titular": "Juan Roig destina 25 millones a ampliar su 'polo de emprendimiento': ahora caben 1.000 emprendedores más",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-01T12:58:18+02:00",
+      "enlace": "https://www.expansion.com/valencia/2026/09/01/6a96a8e8e5fdea8c0f8b4592.html"
+    },
+    {
+      "titular": "Los intereses de la deuda amenazan la Bolsa con nuevos máximos",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-01T12:46:02+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/09/01/6a96a2b2e5fdea156a8b4579.html"
+    },
+    {
+      "titular": "Filippo Brunelleschi, nuevo responsable de DriiveMe en España y Portugal",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-01T12:41:06+02:00",
+      "enlace": "https://www.expansion.com/empresas/motor/2026/09/01/6a96aba9e5fdeae8078b456e.html"
     }
   ],
   "salud": {
@@ -78,16 +78,16 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 4,
+    "antiguedad_minima_min": 22,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 71,
+        "items": 72,
         "error": null,
-        "antiguedad_min": 4,
-        "descartados_por_gancho": 2
+        "antiguedad_min": 22,
+        "descartados_por_gancho": 1
       },
       {
         "medio": "Cinco Días",

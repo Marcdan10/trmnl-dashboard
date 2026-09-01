@@ -1,26 +1,26 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "portadas",
-  "generado": "2026-09-01T08:27:08+02:00",
+  "modo": "ultimas",
+  "generado": "2026-09-01T13:54:18+02:00",
   "titulares": [
     {
-      "titular": "Un Barça frenético golea y es líder",
+      "titular": "Primeras palabras de Guiu como jugador del Leipzig",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-31T23:30:45+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260831/1004221832/barca-frenetico-golea-lider.html"
+      "fecha": "2026-09-01T13:24:56+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/bundesliga/20260901/1004222065/primeras-palabras-guiu-jugador-leipzig.html"
     },
     {
-      "titular": "Luis Figo (53 años): \"Me gusta entrenar, aunque mi carrera haya terminado. Todo resulta más fácil si te gusta practicar\"",
+      "titular": "Así es Matilde Mourinho, la hija mayor de José Mourinho, entrenador del Real Madrid",
       "medios": [
-        "Sport"
+        "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/outdoor/luis-figo-53-anos-gusta-entrenar-carrera-terminado-133817605"
+      "fecha": "2026-09-01T13:24:53+02:00",
+      "enlace": "https://www.mundodeportivo.com/vaya-mundo/20260901/1004222062/asi-matilde-mourinho-hija-mayor-jose-mourinho-entrenador-real-madrid-galeria-dct.html"
     },
     {
       "titular": "Bombazo: Messi se retira de la selección argentina",
@@ -32,24 +32,6 @@
       "enlace": "https://www.marca.com/futbol/2026/08/31/bombazo-messi-retira-seleccion-argentina.html"
     },
     {
-      "titular": "El 1x1 del Barça ante el Rayo Vallecano",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-31T23:32:35+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260831/1004221808/1x1-barca-rayo-vallecano.html"
-    },
-    {
-      "titular": "Último día del mercado de fichajes, hoy, en directo: última hora de FC Barcelona, Real Madrid y todas las altas y bajas de las grandes ligas",
-      "medios": [
-        "Sport"
-      ],
-      "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/mercado-fichajes/ultimo-dia-mercado-fichajes-hoy-133826095"
-    },
-    {
       "titular": "Lando Norris y por qué cree que debería ganar lo que Verstappen y Hamilton",
       "medios": [
         "Marca"
@@ -59,13 +41,31 @@
       "enlace": "https://www.marca.com/motor/formula1/gp-italia/2026/08/31/lando-norris-cree-deberia-ganar-verstappen-hamilton.html"
     },
     {
-      "titular": "Lobo Carrasco incendia El Chiringuito: \"Raphinha es más completo que Mbappé\"",
+      "titular": "Urbanismo frena el intento de Ecologistas en Acción de detener las obras del Betis para construir el nuevo Benito Villamarín",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/barca/lobo-carrasco-incendia-chiringuito-raphinha-mejor-mbappe-133825839"
+      "enlace": "https://www.sport.es/es/noticias/betis/urbanismo-frena-ecologistas-accion-detener-133838634"
+    },
+    {
+      "titular": "Los dos nuevos refuerzos del Barça Atlètic ya están en la Ciutat Esportiva",
+      "medios": [
+        "Sport"
+      ],
+      "consenso": 1,
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/barca/nuevos-refuerzos-barca-atletic-ciutat-133835768"
+    },
+    {
+      "titular": "Último movimiento en el Espanyol",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-01T13:16:43+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/rcd-espanyol/20260901/1004222040/ultimo-movimiento-espanyol-gorosabel-cedido-athletic.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 41,
+    "antiguedad_minima_min": 29,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 61,
         "error": null,
-        "antiguedad_min": 914,
+        "antiguedad_min": 1241,
         "descartados_por_gancho": 10
       },
       {
@@ -98,19 +98,19 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 137,
+        "items": 142,
         "error": null,
-        "antiguedad_min": 41,
-        "descartados_por_gancho": 11
+        "antiguedad_min": 29,
+        "descartados_por_gancho": 8
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 50,
+        "items": 49,
         "error": null,
         "antiguedad_min": null,
-        "descartados_por_gancho": 0
+        "descartados_por_gancho": 1
       },
       {
         "medio": "NBA",

@@ -1,9 +1,64 @@
 {
   "pantalla": "generales",
   "titulo": "Titulares",
-  "modo": "portadas",
-  "generado": "2026-09-01T08:27:02+02:00",
+  "modo": "ultimas",
+  "generado": "2026-09-01T13:54:12+02:00",
   "titulares": [
+    {
+      "titular": "Última hora de la entrada de inmigrantes a Ceuta, en directo | El plan de choque del Gobierno para Ceuta incluye más de 100 millones para la acogida de menores",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-01T13:53:02+02:00",
+      "enlace": "https://elpais.com/espana/2026-09-01/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html"
+    },
+    {
+      "titular": "El ex primer ministro británico, Keir Starmer, anuncia que dejará su escaño como diputado",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-01T13:46:23+02:00",
+      "enlace": "https://elpais.com/internacional/2026-09-01/el-exprimer-ministro-britanico-keir-starmer-anuncia-que-dejara-su-escano-como-diputado.html"
+    },
+    {
+      "titular": "La Guardia Civil pide patrullar y acciones conjuntas con el Ejército en la ciudad autónoma",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-01T13:34:58+02:00",
+      "enlace": "https://www.abc.es/espana/guardia-civil-pide-patrullar-acciones-conjuntas-ejercito-20260901013434-nt.html"
+    },
+    {
+      "titular": "Von der Leyen señala que los ahorros privados de la UE «deben ponerse al servicio de sus empresas»",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-01T13:34:15+02:00",
+      "enlace": "https://www.abc.es/economia/von-der-leyen-sobre-ahorros-hogares-europa-20260901131113-nt.html"
+    },
+    {
+      "titular": "El PSOE pide que los datos bancarios del partido pedidos por el juez se comuniquen solo a la Fiscalía para evitar filtraciones",
+      "medios": [
+        "La Vanguardia",
+        "ABC"
+      ],
+      "consenso": 2,
+      "fecha": "2026-09-01T13:08:04+02:00",
+      "enlace": "https://www.abc.es/espana/psoe-pide-datos-bancarios-partido-pedidos-juez-20260901123715-nt.html"
+    },
+    {
+      "titular": "El presidente de Zambia inicia su segundo mandato con su principal rival en la cárcel",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-01T12:47:33+02:00",
+      "enlace": "https://www.lavanguardia.com/internacional/20260901/11624594/presidente-zambia-inicia-segundo-mandato-principal-rival-carcel.html"
+    },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
       "medios": [
@@ -12,60 +67,6 @@
       "consenso": 1,
       "fecha": "2022-06-10T01:05:00+02:00",
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
-    },
-    {
-      "titular": "Marruecos observa como una provocación una visita real a Ceuta en medio de su campaña electoral",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-01T05:30:01+02:00",
-      "enlace": "https://elpais.com/espana/2026-09-01/marruecos-observa-como-una-provocacion-una-visita-real-a-ceuta-en-medio-de-su-campana-electoral.html"
-    },
-    {
-      "titular": "Las nuevas plazas de acogida en Ceuta desatan tensión entre los inmigrantes",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-01T06:00:00+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20260901/11624070/nuevas-plazas-acogida-ceuta-desatan-tension-inmigrantes.html"
-    },
-    {
-      "titular": "José Abellán, cardiólogo: «Si cuando te levantas de la cama o del sofá notas mareo o parece que te vas a desmayar es porque a tu cabeza le cae la presión arterial»",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-01T08:06:12+02:00",
-      "enlace": "https://www.abc.es/bienestar/jose-abellan-cardiologo-levantas-cama-sofa-notas-20260901190511-nt.html"
-    },
-    {
-      "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
-      "medios": [
-        "RTVE"
-      ],
-      "consenso": 1,
-      "fecha": "2022-06-10T00:03:00+02:00",
-      "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
-    },
-    {
-      "titular": "Sánchez intenta bajar la presión prometiendo una visita del Rey a Ceuta cuando se supere la crisis",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-01T05:30:01+02:00",
-      "enlace": "https://elpais.com/espana/2026-09-01/sanchez-intenta-bajar-la-presion-prometiendo-una-visita-del-rey-a-ceuta-cuando-se-supere-la-crisis.html"
-    },
-    {
-      "titular": "Las concentraciones convocadas en apoyo a Ceuta dividen a los partidos",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-31T18:37:11+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20260831/11624026/concentraciones-convocadas-apoyo-ceuta-pasado-manana-dos-dividen-partidos.html"
     }
   ],
   "salud": {
@@ -74,7 +75,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 20,
+    "antiguedad_minima_min": 1,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +83,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2223801,
+        "antiguedad_min": 2224129,
         "descartados_por_gancho": 0
       },
       {
@@ -90,25 +91,25 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 500",
+        "error": "HTTP 429",
         "antiguedad_min": null
       },
       {
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 143,
+        "items": 141,
         "error": null,
-        "antiguedad_min": 62,
-        "descartados_por_gancho": 9
+        "antiguedad_min": 1,
+        "descartados_por_gancho": 8
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 113,
+        "items": 120,
         "error": null,
-        "antiguedad_min": 87,
+        "antiguedad_min": 66,
         "descartados_por_gancho": 15
       },
       {
@@ -117,7 +118,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 20,
+        "antiguedad_min": 19,
         "descartados_por_gancho": 0
       }
     ]
