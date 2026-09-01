@@ -1,53 +1,35 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "ultimas",
-  "generado": "2026-08-31T23:58:36+02:00",
+  "modo": "portadas",
+  "generado": "2026-09-01T03:04:47+02:00",
   "titulares": [
     {
-      "titular": "EEUU demanda a Amazon por cobrar de más a sus anunciantes",
+      "titular": "Santander USA da entrada a los consejeros de Webster",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-08-31T21:32:35+02:00",
-      "enlace": "https://www.expansion.com/economia-digital/2026/08/31/6a95d45de5fdeaed0c8b4581.html"
+      "fecha": "2026-09-01T02:04:24+02:00",
+      "enlace": "https://www.expansion.com/empresas/banca/2026/09/01/6a95b941e5fdeaa96e8b4587.html"
     },
     {
-      "titular": "Sánchez ensalza a Marruecos y niega que el CNI avisara de la invasión en Ceuta",
+      "titular": "La Bolsa afronta su peor mes del año",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-08-31T20:42:28+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/08/31/6a95caf4468aeb4d1d8b458b.html"
+      "fecha": "2026-09-01T02:04:25+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/09/01/6a957a2ae5fdea2e298b456d.html"
     },
     {
-      "titular": "Trump defiende que los centros de datos son \"la gallina de los huevos de oro\" para EEUU",
+      "titular": "La línea roja del mercado ante la que Estados Unidos va a acudir al rescate",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-08-31T19:59:01+02:00",
-      "enlace": "https://www.expansion.com/economia/politica/2026/08/31/6a95bd09468aebe23e8b456d.html"
-    },
-    {
-      "titular": "S&P sitúa a Sacyr dentro del grado de inversión con un ráting de 'BBB-'",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-31T19:47:34+02:00",
-      "enlace": "https://www.expansion.com/empresas/inmobiliario/2026/08/31/6a95b4fce5fdea9d2a8b457b.html"
-    },
-    {
-      "titular": "Cómo la volatilidad del clima también afecta a los resultados de las empresas",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-31T19:46:56+02:00",
-      "enlace": "https://www.expansion.com/economia/financial-times/2026/08/31/6a95be01468aebdd378b4573.html"
+      "fecha": "2026-08-31T20:47:23+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/08/31/6a9593c1468aeb23528b45a1.html"
     },
     {
       "titular": "Alejandro Betancourt, el hombre que podría ser el virrey de Trump en Venezuela",
@@ -59,13 +41,31 @@
       "enlace": "https://www.expansion.com/economia/financial-times/2026/08/31/6a95b099468aeb41168b456f.html"
     },
     {
-      "titular": "El legado de Tim Cook en Apple después de 15 años",
+      "titular": "Desde hoy, alivio fiscal de 20 céntimos en el diésel con carburantes en máximos y crudo al alza",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-08-31T19:02:16+02:00",
-      "enlace": "https://www.expansion.com/economia/financial-times/2026/08/31/6a95b280e5fdea720a8b45a5.html"
+      "fecha": "2026-09-01T02:04:35+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/09/01/6a95c5dce5fdea586c8b456f.html"
+    },
+    {
+      "titular": "El euríbor sube en agosto al 2,95%, su nivel más alto desde hace dos años",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-31T14:30:12+02:00",
+      "enlace": "https://www.expansion.com/mercados/euribor/2026/08/31/6a956dcf468aeba21d8b4576.html"
+    },
+    {
+      "titular": "Puig, Sabadell y Amadeus brillan en agosto con subidas de más del 9%",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-01T00:04:29+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/09/01/6a95f61f468aeb89658b4576.html"
     }
   ],
   "salud": {
@@ -78,16 +78,16 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 145,
+    "antiguedad_minima_min": 60,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 77,
+        "items": 67,
         "error": null,
-        "antiguedad_min": 145,
-        "descartados_por_gancho": 0
+        "antiguedad_min": 60,
+        "descartados_por_gancho": 3
       },
       {
         "medio": "Cinco Días",

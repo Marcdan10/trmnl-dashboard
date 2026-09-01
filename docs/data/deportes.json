@@ -1,26 +1,26 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "ultimas",
-  "generado": "2026-08-31T23:58:37+02:00",
+  "modo": "portadas",
+  "generado": "2026-09-01T03:04:48+02:00",
   "titulares": [
     {
-      "titular": "0-1: El Arsenal asalta a un bravo Aston Villa y sigue en modo campeón",
+      "titular": "Un Barça frenético golea y es líder",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-08-31T23:05:59+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/premier-league/20260831/1004221831/arsenal.html"
+      "fecha": "2026-08-31T23:30:45+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260831/1004221832/barca-frenetico-golea-lider.html"
     },
     {
-      "titular": "Récord histórico de David Soria: nadie lo ha hecho más veces que él",
+      "titular": "Jefté toma el mando en la UD Las Palmas sin Jesé ni Arana",
       "medios": [
-        "Mundo Deportivo"
+        "Sport"
       ],
       "consenso": 1,
-      "fecha": "2026-08-31T22:56:49+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/getafe/20260831/1004221845/record-historico-david-soria-nadie-hecho-veces.html"
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/las-palmas/jefte-toma-mando-ud-palmas-133822858"
     },
     {
       "titular": "Bombazo: Messi se retira de la selección argentina",
@@ -32,6 +32,25 @@
       "enlace": "https://www.marca.com/futbol/2026/08/31/bombazo-messi-retira-seleccion-argentina.html"
     },
     {
+      "titular": "El 1x1 del Barça ante el Rayo Vallecano",
+      "medios": [
+        "Mundo Deportivo",
+        "Sport"
+      ],
+      "consenso": 2,
+      "fecha": "2026-08-31T23:32:35+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260831/1004221808/1x1-barca-rayo-vallecano.html"
+    },
+    {
+      "titular": "‘Cortocircuito Kirian’ en lamedular y se busca solución",
+      "medios": [
+        "Sport"
+      ],
+      "consenso": 1,
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/las-palmas/cortocircuito-kirian-lamedular-busca-solucion-133822860"
+    },
+    {
       "titular": "Lando Norris y por qué cree que debería ganar lo que Verstappen y Hamilton",
       "medios": [
         "Marca"
@@ -41,31 +60,13 @@
       "enlace": "https://www.marca.com/motor/formula1/gp-italia/2026/08/31/lando-norris-cree-deberia-ganar-verstappen-hamilton.html"
     },
     {
-      "titular": "Marc Bernal: \"Raphinha es un referente, queremos un capitán así\"",
+      "titular": "La portada SPORT de hoy, martes 1 de septiembre de 2026",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/barca/marc-bernal-raphinha-referente-queremos-133821750"
-    },
-    {
-      "titular": "La crónica del Celta Fortuna-Castellón: Los 'orelluts' asoman en las alturas (1-2)",
-      "medios": [
-        "Sport"
-      ],
-      "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/futbol/cronica-celta-fortuna-castellon-orelluts-133821994"
-    },
-    {
-      "titular": "El presidente del Sant Andreu y cinco cracks del Femenino, en el palco del Barça-Rayo",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-31T22:43:38+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260831/1004221837/presidente-sant-andreu-cinco-cracks-barca-femenino.html"
+      "enlace": "https://www.sport.es/es/noticias/la-portada-de-sport/portada-sport-hoy-martes-1-133822726"
     }
   ],
   "salud": {
@@ -74,7 +75,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 52,
+    "antiguedad_minima_min": 123,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +83,7 @@
         "ok": true,
         "items": 61,
         "error": null,
-        "antiguedad_min": 406,
+        "antiguedad_min": 592,
         "descartados_por_gancho": 10
       },
       {
@@ -98,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 143,
+        "items": 139,
         "error": null,
-        "antiguedad_min": 52,
-        "descartados_por_gancho": 7
+        "antiguedad_min": 123,
+        "descartados_por_gancho": 10
       },
       {
         "medio": "Sport",

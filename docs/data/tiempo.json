@@ -1,39 +1,7 @@
 {
   "ciudad": "Barcelona",
-  "generado": "2026-08-31T21:58:43",
+  "generado": "2026-09-01T01:04:56",
   "horas": [
-    {
-      "hora": "22",
-      "temp": 25,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "luna"
-    },
-    {
-      "hora": "23",
-      "temp": 25,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "nube"
-    },
-    {
-      "hora": "00",
-      "temp": 25,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "nube"
-    },
-    {
-      "hora": "01",
-      "temp": 24,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "nube"
-    },
     {
       "hora": "02",
       "temp": 24,
@@ -44,7 +12,7 @@
     },
     {
       "hora": "03",
-      "temp": 23,
+      "temp": 24,
       "prob": 0,
       "mm": 0,
       "mostrar_prob": false,
@@ -68,15 +36,15 @@
     },
     {
       "hora": "06",
-      "temp": 22,
+      "temp": 23,
       "prob": 0,
       "mm": 0,
       "mostrar_prob": false,
-      "icono": "luna"
+      "icono": "nube"
     },
     {
       "hora": "07",
-      "temp": 22,
+      "temp": 23,
       "prob": 0,
       "mm": 0,
       "mostrar_prob": false,
@@ -84,7 +52,7 @@
     },
     {
       "hora": "08",
-      "temp": 22,
+      "temp": 23,
       "prob": 0,
       "mm": 0,
       "mostrar_prob": false,
@@ -97,19 +65,41 @@
       "mm": 0,
       "mostrar_prob": false,
       "icono": "sol"
-    }
-  ],
-  "dias": [
+    },
     {
-      "etiqueta": "mar 1",
-      "max": 29,
-      "min": 22,
+      "hora": "10",
+      "temp": 26,
       "prob": 0,
       "mm": 0,
       "mostrar_prob": false,
-      "destacar": false,
+      "icono": "sol"
+    },
+    {
+      "hora": "11",
+      "temp": 27,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "sol"
+    },
+    {
+      "hora": "12",
+      "temp": 28,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
       "icono": "nube"
     },
+    {
+      "hora": "13",
+      "temp": 28,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "nube"
+    }
+  ],
+  "dias": [
     {
       "etiqueta": "mié 2",
       "max": 30,
@@ -118,7 +108,7 @@
       "mm": 0,
       "mostrar_prob": false,
       "destacar": false,
-      "icono": "sol"
+      "icono": "nube"
     },
     {
       "etiqueta": "jue 3",
@@ -165,6 +155,16 @@
       "max": 31,
       "min": 24,
       "prob": 2,
+      "mm": 0,
+      "mostrar_prob": false,
+      "destacar": false,
+      "icono": "nube"
+    },
+    {
+      "etiqueta": "mar 8",
+      "max": 32,
+      "min": 23,
+      "prob": 8,
       "mm": 0,
       "mostrar_prob": false,
       "destacar": false,
