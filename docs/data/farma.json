@@ -1,8 +1,8 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "ultimas",
-  "generado": "2026-09-01T23:53:28+02:00",
+  "modo": "portadas",
+  "generado": "2026-09-02T01:43:43+02:00",
   "titulares": [
     {
       "titular": "Asturias se incorpora a Bifap con su adhesión al convenio entre Aemps y Cantabria",
@@ -14,13 +14,13 @@
       "enlace": "https://diariofarma.com/2026/09/01/asturias-se-incorpora-a-bifap-con-su-adhesion-al-convenio-entre-aemps-y-cantabria"
     },
     {
-      "titular": "La UIMP concede su Medalla de Honor a Félix Lobo por su trayectoria académica y pública",
+      "titular": "La EMA pone en marcha un piloto para impulsar el uso de métodos alternativos a la experimentación animal",
       "medios": [
-        "Diariofarma"
+        "El Global"
       ],
       "consenso": 1,
-      "fecha": "2026-09-01T20:09:00+02:00",
-      "enlace": "https://diariofarma.com/2026/09/01/la-uimp-concede-su-medalla-de-honor-a-felix-lobo-por-su-trayectoria-academica-y-publica"
+      "fecha": "2026-09-01T14:41:07+02:00",
+      "enlace": "https://elglobalfarma.com/industria/ema-piloto-uso-metodos-alternativos-experimentacion-animal/"
     },
     {
       "titular": "El descontrol migratorio en Ceuta empuja a los farmacéuticos a ejercer una asistencia de trinchera",
@@ -32,22 +32,13 @@
       "enlace": "https://www.redaccionmedica.com/profesionales/farmacia/20260901/el-descontrol-migratorio-en-ceuta-empuja-los-farmaceuticos-ejercer-una-asistencia-de-trinchera/349941_0.html"
     },
     {
-      "titular": "Una IA logra predecir la insuficiencia cardíaca en dos segundos con un electrocardiograma común",
+      "titular": "La UIMP concede su Medalla de Honor a Félix Lobo por su trayectoria académica y pública",
       "medios": [
-        "Redacción Médica"
+        "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-09-01T16:56:18+02:00",
-      "enlace": "https://www.redaccionmedica.com/innovacion/sanidad-digital/20260901/una-ia-logra-predecir-la-insuficiencia-cardiaca-en-dos-segundos-con-un-electrocardiograma-comun/349947_0.html"
-    },
-    {
-      "titular": "La EMA pone en marcha un piloto para impulsar el uso de métodos alternativos a la experimentación animal",
-      "medios": [
-        "El Global"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-01T14:41:07+02:00",
-      "enlace": "https://elglobalfarma.com/industria/ema-piloto-uso-metodos-alternativos-experimentacion-animal/"
+      "fecha": "2026-09-01T20:09:00+02:00",
+      "enlace": "https://diariofarma.com/2026/09/01/la-uimp-concede-su-medalla-de-honor-a-felix-lobo-por-su-trayectoria-academica-y-publica"
     },
     {
       "titular": "La EFPIA exige inversión y previsibilidad para hacer de Europa un destino atractivo para la I+D farmacéutica",
@@ -57,6 +48,15 @@
       "consenso": 1,
       "fecha": "2026-09-01T13:46:57+02:00",
       "enlace": "https://elglobalfarma.com/industria/efpia-inversion-previsibilidad-europa-destino-atractivo-id-farmaceutica/"
+    },
+    {
+      "titular": "Los médicos avisan a Sanidad por el Estatuto Marco: \"Habrá nuevo calendario de acciones más contundentes\"",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-01T15:18:14+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20260901/los-medicos-avisan-sanidad-por-el-estatuto-marco-habra-nuevo-calendario-de-acciones-mas-contundentes/349942_0.html"
     },
     {
       "titular": "La Rioja elevará el presupuesto de Sanidad en 70 millones en 2027 hasta alcanzar los 749",
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 162,
+    "antiguedad_minima_min": 272,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 162,
+        "antiguedad_min": 272,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 552,
+        "antiguedad_min": 662,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 350,
+        "antiguedad_min": 460,
         "descartados_por_gancho": 0
       },
       {

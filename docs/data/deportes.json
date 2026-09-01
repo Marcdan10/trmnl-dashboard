@@ -1,26 +1,26 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "ultimas",
-  "generado": "2026-09-01T23:53:23+02:00",
+  "modo": "portadas",
+  "generado": "2026-09-02T01:43:38+02:00",
   "titulares": [
     {
-      "titular": "Mudryk se reencuentra con De Zerbi",
+      "titular": "Gabriel Jesus, inscrito con el '9' a un cuarto de hora del cierre",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-01T23:26:09+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/oficial/20260901/1004222319/mudryk.html"
+      "fecha": "2026-09-02T00:07:14+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260902/1004222374/gabriel-jesus-inscrito-cuarto-hora-cierre.html"
     },
     {
-      "titular": "Sebastián Cáceres, nuevo jugador del Celta",
+      "titular": "El Córdoba CF cierra el mercado con una plantilla nueva, apuestas por resolver y varias posiciones bajo examen",
       "medios": [
-        "Mundo Deportivo"
+        "Sport"
       ],
       "consenso": 1,
-      "fecha": "2026-09-01T23:25:28+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/celta-vigo/20260901/1004222322/sebastian-caceres-nuevo-jugador-celta.html"
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/futbol/cordoba-cf-cierra-mercado-plantilla-133857213"
     },
     {
       "titular": "Bombazo: Messi se retira de la selección argentina",
@@ -32,6 +32,25 @@
       "enlace": "https://www.marca.com/futbol/2026/08/31/bombazo-messi-retira-seleccion-argentina.html"
     },
     {
+      "titular": "¡El mercado de fichajes cierra la persiana!",
+      "medios": [
+        "Mundo Deportivo",
+        "Sport"
+      ],
+      "consenso": 2,
+      "fecha": "2026-08-31T07:41:07+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/20260831/1004219520/mercado-fichajes-futbol-directo-hoy-rumores-altas-bajas.html"
+    },
+    {
+      "titular": "El Levante se queda sin el fichaje de Sergio Akieme",
+      "medios": [
+        "Sport"
+      ],
+      "consenso": 1,
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/levante/levante-queda-fichaje-sergio-akieme-133857123"
+    },
+    {
       "titular": "Lando Norris y por qué cree que debería ganar lo que Verstappen y Hamilton",
       "medios": [
         "Marca"
@@ -41,31 +60,13 @@
       "enlace": "https://www.marca.com/motor/formula1/gp-italia/2026/08/31/lando-norris-cree-deberia-ganar-verstappen-hamilton.html"
     },
     {
-      "titular": "¡Oficial! El Barça inscribe a Gabriel Jesus y Livakovic y ya tienen dorsal",
-      "medios": [
-        "Sport"
-      ],
-      "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/barca/oficial-barca-inscribe-gabriel-jesus-133852486"
-    },
-    {
-      "titular": "El Málaga CF cierra el mercado con ocho fichajes",
-      "medios": [
-        "Sport"
-      ],
-      "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/futbol/malaga-cf-cierra-mercado-ocho-133856469"
-    },
-    {
-      "titular": "Alcaraz se lo temía, y el US Open lo cumplió: el peor horario posible",
+      "titular": "Lamine: \"No nos están faltando goles, estoy muy contento con la plantilla que tenemos\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-01T23:15:06+02:00",
-      "enlace": "https://www.mundodeportivo.com/tenis/open-usa/20260901/1004222318/alcaraz-temia-us-open-cumplio-peor-horario-posible-faria.html"
+      "fecha": "2026-09-01T18:47:41+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004222234/lamine-no-faltando-goles-contento-plantilla.html"
     }
   ],
   "salud": {
@@ -74,7 +75,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 27,
+    "antiguedad_minima_min": 38,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +83,7 @@
         "ok": true,
         "items": 61,
         "error": null,
-        "antiguedad_min": 1840,
+        "antiguedad_min": 1951,
         "descartados_por_gancho": 10
       },
       {
@@ -100,7 +101,7 @@
         "ok": true,
         "items": 149,
         "error": null,
-        "antiguedad_min": 27,
+        "antiguedad_min": 38,
         "descartados_por_gancho": 4
       },
       {

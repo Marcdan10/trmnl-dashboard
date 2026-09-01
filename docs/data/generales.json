@@ -1,63 +1,9 @@
 {
   "pantalla": "generales",
   "titulo": "Titulares",
-  "modo": "ultimas",
-  "generado": "2026-09-01T23:53:19+02:00",
+  "modo": "portadas",
+  "generado": "2026-09-02T01:43:32+02:00",
   "titulares": [
-    {
-      "titular": "Al menos cuatro muertos tras los ataques de EE.UU. contra Irán en represalia por bombardeos en Ormuz",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-01T23:33:21+02:00",
-      "enlace": "https://www.abc.es/internacional/eeuu-lanza-nuevos-ataques-iran-represalia-bombardeos-20260901190750-nt.html"
-    },
-    {
-      "titular": "Estados Unidos vuelve a bombardear Irán, que responde con ataques contra sus efectivos en Jordania",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-01T22:42:07+02:00",
-      "enlace": "https://elpais.com/internacional/2026-09-01/estados-unidos-bombardea-iran-por-segunda-vez-en-una-semana.html"
-    },
-    {
-      "titular": "Lasaña de carne casera, la mejor receta tradicional",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-01T22:35:16+02:00",
-      "enlace": "https://www.abc.es/recetasderechupete/receta-de-lasana-de-carne/223/"
-    },
-    {
-      "titular": "Un candidato sorpresa asoma en la carrera a la Presidencia de Brasil que dominan Lula y Bolsonaro hijo",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-01T22:08:54+02:00",
-      "enlace": "https://elpais.com/america/2026-09-01/un-candidato-sorpresa-asoma-en-la-carrera-a-la-presidencia-de-brasil-que-dominan-lula-y-bolsonaro-hijo.html"
-    },
-    {
-      "titular": "Un herido grave de una puñalada en la estación de Arenys de Mar",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-01T21:46:41+02:00",
-      "enlace": "https://www.lavanguardia.com/local/maresme/20260901/11625011/herido-grave-punalada-estacion-arenys-mar.html"
-    },
-    {
-      "titular": "La industria de defensa española sella la paz y completa la entrega de cien 8x8",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-01T21:12:52+02:00",
-      "enlace": "https://www.lavanguardia.com/dinero/20260901/11625004/industria-defensa-espanola-sella-paz-completa-entrega-cien-8x8.html"
-    },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
       "medios": [
@@ -66,6 +12,60 @@
       "consenso": 1,
       "fecha": "2022-06-10T01:05:00+02:00",
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
+    },
+    {
+      "titular": "Madrid acusa al Gobierno de “boicotear” la concentración por Ceuta pese a que el Ejecutivo permitirá que se celebre",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-01T20:45:17+02:00",
+      "enlace": "https://elpais.com/espana/2026-09-01/madrid-acusa-al-gobierno-de-boicotear-la-concentracion-por-ceuta-pese-a-que-el-ejecutivo-permitira-que-se-celebre.html"
+    },
+    {
+      "titular": "El PP logra dividir a la izquierda con sus convocatorias municipales en apoyo a Ceuta",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-02T00:05:00+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20260902/11624938/pp-logra-dividir-izquierda-convocatorias-municipales-apoyo-ceuta.html"
+    },
+    {
+      "titular": "Un abismo de 3.000 millones de euros entre la Liga y la Premier",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-02T01:16:46+02:00",
+      "enlace": "https://www.abc.es/deportes/futbol/abismo-3000-millones-euros-liga-premier-20260901004559-nt.html"
+    },
+    {
+      "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
+      "medios": [
+        "RTVE"
+      ],
+      "consenso": 1,
+      "fecha": "2022-06-10T00:03:00+02:00",
+      "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
+    },
+    {
+      "titular": "Bruselas ve “intentos de Rusia de sacar partido” de la crisis de Ceuta, pero afirma que no hay “pruebas” de que la provocara",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-01T19:47:26+02:00",
+      "enlace": "https://elpais.com/espana/2026-09-01/bruselas-ve-intentos-de-rusia-de-sacar-partido-de-la-crisis-de-ceuta-pero-afirma-que-no-hay-pruebas-de-que-la-provocara.html"
+    },
+    {
+      "titular": "El Gobierno niega reproche alguno a Felipe VI por no haber visitado aún Ceuta",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-01T14:50:54+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20260901/11624732/gobierno-niega-reproche-felipe-vi-haber-visitado-aun-ceuta.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 19,
+    "antiguedad_minima_min": 10,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2224728,
+        "antiguedad_min": 2224838,
         "descartados_por_gancho": 0
       },
       {
@@ -90,25 +90,25 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 500",
+        "error": "HTTP 429",
         "antiguedad_min": null
       },
       {
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 146,
+        "items": 147,
         "error": null,
-        "antiguedad_min": 71,
+        "antiguedad_min": 10,
         "descartados_por_gancho": 7
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 129,
+        "items": 126,
         "error": null,
-        "antiguedad_min": 126,
+        "antiguedad_min": 73,
         "descartados_por_gancho": 12
       },
       {
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 19,
+        "antiguedad_min": 26,
         "descartados_por_gancho": 0
       }
     ]
