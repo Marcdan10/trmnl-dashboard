@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-09-02T04:23:38+02:00",
+  "generado": "2026-09-02T09:14:14+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -14,13 +14,13 @@
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
     },
     {
-      "titular": "Madrid acusa al Gobierno de “boicotear” la concentración por Ceuta pese a que el Ejecutivo permitirá que se celebre",
+      "titular": "Marlaska exige al director de la Policía que aclare si el cuerpo tiene información de que Marruecos estuvo tras el asalto masivo a Ceuta",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-01T20:45:17+02:00",
-      "enlace": "https://elpais.com/espana/2026-09-01/madrid-acusa-al-gobierno-de-boicotear-la-concentracion-por-ceuta-pese-a-que-el-ejecutivo-permitira-que-se-celebre.html"
+      "fecha": "2026-09-02T06:55:33+02:00",
+      "enlace": "https://elpais.com/espana/2026-09-02/marlaska-pide-al-director-de-la-policia-que-aclare-si-existe-un-informe-que-senala-a-marruecos-en-el-asalto-masivo-a-ceuta.html"
     },
     {
       "titular": "El PP logra dividir a la izquierda con sus convocatorias municipales en apoyo a Ceuta",
@@ -32,13 +32,13 @@
       "enlace": "https://www.lavanguardia.com/politica/20260902/11624938/pp-logra-dividir-izquierda-convocatorias-municipales-apoyo-ceuta.html"
     },
     {
-      "titular": "Un juzgado de Ceuta abre diligencias contra el delegado del Gobierno por los informes del CNI",
+      "titular": "Aumenta el número de alcaldes del PSOE que desobedecerán a Ferraz en las manifestaciones",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-02T01:57:28+02:00",
-      "enlace": "https://www.abc.es/espana/juzgado-abre-diligencias-delegado-gobierno-ceuta-entada-20260901221133-nt.html"
+      "fecha": "2026-09-02T09:05:11+02:00",
+      "enlace": "https://www.abc.es/espana/aumenta-numero-alcaldes-psoe-desobedeceran-hoy-ferraz-20260901192115-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -50,13 +50,13 @@
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
     },
     {
-      "titular": "Bruselas ve “intentos de Rusia de sacar partido” de la crisis de Ceuta, pero afirma que no hay “pruebas” de que la provocara",
+      "titular": "Feijóo y Abascal unen fuerzas en una protesta que esperan masiva por la crisis de Ceuta",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-01T19:47:26+02:00",
-      "enlace": "https://elpais.com/espana/2026-09-01/bruselas-ve-intentos-de-rusia-de-sacar-partido-de-la-crisis-de-ceuta-pero-afirma-que-no-hay-pruebas-de-que-la-provocara.html"
+      "fecha": "2026-09-02T05:30:01+02:00",
+      "enlace": "https://elpais.com/espana/2026-09-02/feijoo-y-abascal-unen-fuerzas-en-una-protesta-que-esperan-masiva-por-la-crisis-de-ceuta.html"
     },
     {
       "titular": "El Gobierno niega reproche alguno a Felipe VI por no haber visitado aún Ceuta",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 146,
+    "antiguedad_minima_min": 9,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2224998,
+        "antiguedad_min": 2225289,
         "descartados_por_gancho": 0
       },
       {
@@ -90,25 +90,25 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 429",
+        "error": "HTTP 500",
         "antiguedad_min": null
       },
       {
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 147,
+        "items": 139,
         "error": null,
-        "antiguedad_min": 170,
+        "antiguedad_min": 14,
         "descartados_por_gancho": 7
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 126,
+        "items": 119,
         "error": null,
-        "antiguedad_min": 233,
+        "antiguedad_min": 74,
         "descartados_por_gancho": 12
       },
       {
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 146,
+        "antiguedad_min": 9,
         "descartados_por_gancho": 0
       }
     ]

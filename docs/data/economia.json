@@ -2,34 +2,16 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "portadas",
-  "generado": "2026-09-02T04:23:41+02:00",
+  "generado": "2026-09-02T09:14:18+02:00",
   "titulares": [
     {
-      "titular": "Mahou, Heineken y Damm aceleran su diversificación",
+      "titular": "Lottomatica absorbe a Cirsa para crear un gigante del juego",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-02T02:02:29+02:00",
-      "enlace": "https://www.expansion.com/empresas/distribucion/2026/09/02/6a970f51468aeb0d5d8b4598.html"
-    },
-    {
-      "titular": "Los consultores se enfrentan a sus propios clientes por la IA",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-01T10:06:59+02:00",
-      "enlace": "https://www.expansion.com/economia/financial-times/2026/09/01/6a968662e5fdea04498b4582.html"
-    },
-    {
-      "titular": "La prima de riesgo de Francia sobre España bate su récord histórico",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-01T20:30:51+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/09/01/6a96f9efe5fdea98458b458c.html"
+      "fecha": "2026-09-02T08:27:24+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/09/02/6a97c1c8468aeb967c8b4582.html"
     },
     {
       "titular": "BBVA reordena su banca de inversión para acelerar el negocio corporativo",
@@ -39,6 +21,33 @@
       "consenso": 1,
       "fecha": "2026-09-01T19:33:51+02:00",
       "enlace": "https://www.expansion.com/empresas/banca/2026/09/01/6a970c75468aebe4478b45a5.html"
+    },
+    {
+      "titular": "Los bancos de Wall Street exigen rebajas a los bufetes por la IA",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-02T02:02:29+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/09/02/6a973884e5fdeacf3e8b4582.html"
+    },
+    {
+      "titular": "La Primera de Expansión sobre Mahou, Heineken, Damm, BBVA y Wall Street",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-02T07:08:56+02:00",
+      "enlace": "https://www.expansion.com/podcasts/la-primera-de-expansion/2026/09/02/6a97a9bae5fdea833a8b45a0.html"
+    },
+    {
+      "titular": "La prima de riesgo de Francia sobre España bate su récord histórico",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-01T20:30:51+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/09/01/6a96f9efe5fdea98458b458c.html"
     },
     {
       "titular": "Cómo entender la actual paradoja de los bonos y las acciones",
@@ -57,15 +66,6 @@
       "consenso": 1,
       "fecha": "2026-09-02T02:02:32+02:00",
       "enlace": "https://www.expansion.com/mercados/2026/09/02/6a96bffce5fdea40098b456d.html"
-    },
-    {
-      "titular": "Una directiva de Bank of America, asesinada en Times Square",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-01T17:21:14+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/09/01/6a96eab2e5fdea31098b4573.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 140,
+    "antiguedad_minima_min": 20,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 65,
+        "items": 68,
         "error": null,
-        "antiguedad_min": 140,
+        "antiguedad_min": 20,
         "descartados_por_gancho": 1
       },
       {
