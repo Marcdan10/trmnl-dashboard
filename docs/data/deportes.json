@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-09-02T14:12:41+02:00",
+  "generado": "2026-09-02T18:45:35+02:00",
   "titulares": [
     {
-      "titular": "LaLiga anuncia dónde se jugará el Rayo Vallecano - Racing",
+      "titular": "Tener al mejor velocista de la Vuelta es un chollo",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-02T13:54:51+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/laliga/20260902/1004222575/laliga-anuncia-jugara-rayo-vallecano-racing.html"
+      "fecha": "2026-09-02T18:22:11+02:00",
+      "enlace": "https://www.mundodeportivo.com/opinion/20260902/1004222677/mejor-velocista-vuelta-chollo.html"
     },
     {
-      "titular": "Oficial: un clásico del fútbol europeo jugará junto a Ter Stegen",
+      "titular": "Los jugadores que debuten en la Champions lucirán un distintivo",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-02T13:51:23+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/oficial/20260902/1004222570/oficial-clasico-futbol-europeo-jugara-ter-stegen.html"
+      "fecha": "2026-09-02T18:19:51+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/internacional/20260902/1004222675/jugadores-debuten-champions-luciran-distintivo.html"
     },
     {
       "titular": "Bombazo: Messi se retira de la selección argentina",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/motor/formula1/gp-italia/2026/08/31/lando-norris-cree-deberia-ganar-verstappen-hamilton.html"
     },
     {
-      "titular": "Harvey Elliot llega con hambre y se marca un ambicioso objetivo de goles y asistencias",
+      "titular": "Enric Mas: \"Sin Pogacar todo ha cambiado, estamos todos al mismo nivel\"",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/valencia/harvey-elliot-llega-hambre-marca-133873599"
+      "enlace": "https://www.sport.es/es/noticias/ciclismo/enric-pogacar-cambiado-nivel-133884277"
     },
     {
-      "titular": "El Andorra cierra con Diego Díaz un mercado frenético",
+      "titular": "Tiger Woods evita la cárcel por su accidente de tráfico",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/andorra/andorra-cierra-diego-diaz-mercado-133871620"
+      "enlace": "https://www.sport.es/es/noticias/deportes/golf/tiger-woods-evita-carcel-accidente-133881622"
     },
     {
-      "titular": "El Levante explica porqué aún no se ha hecho oficial el fichaje de Carlos Álvarez por el América de México",
+      "titular": "Tres Mossos salen heridos tras perseguir un Jaguar robado en Santa Coloma de Gramenet",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-02T13:50:42+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/20260902/1004222572/levante-explica-aun-no-hecho-oficial-fichaje-carlos-alvarez-america-mexico.html"
+      "fecha": "2026-09-02T18:18:34+02:00",
+      "enlace": "https://www.mundodeportivo.com/actualidad/20260902/1004222674/persecucion-pelicula-tres-mossos-d-esquadra-salen-heridos-perseguir-jaguar-robado-santa-coloma-gramenet-dct.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 17,
+    "antiguedad_minima_min": 23,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 61,
         "error": null,
-        "antiguedad_min": 2700,
+        "antiguedad_min": 2973,
         "descartados_por_gancho": 10
       },
       {
@@ -98,16 +98,16 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 142,
+        "items": 143,
         "error": null,
-        "antiguedad_min": 17,
+        "antiguedad_min": 23,
         "descartados_por_gancho": 6
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 50,
+        "items": 48,
         "error": null,
         "antiguedad_min": null,
         "descartados_por_gancho": 0

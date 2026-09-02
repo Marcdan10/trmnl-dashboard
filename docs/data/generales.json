@@ -2,61 +2,62 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-09-02T14:12:36+02:00",
+  "generado": "2026-09-02T18:45:27+02:00",
   "titulares": [
     {
-      "titular": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Vivas afirma que “Ceuta está en peligro” tras un ataque “organizado y deliberado”",
+      "titular": "Chevron dobla su presencia en Venezuela con una inversión de 7.000 millones de dólares",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-02T14:06:43+02:00",
-      "enlace": "https://elpais.com/espana/2026-09-02/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html"
+      "fecha": "2026-09-02T18:32:47+02:00",
+      "enlace": "https://elpais.com/america/2026-09-02/chevron-dobla-su-presencia-en-venezuela-con-una-inversion-de-7000-millones-de-dolares.html"
     },
     {
-      "titular": "«Los nuevos nazis»: el antisemitismo se recrudece en los medios, la escuela y la cultura popular española",
+      "titular": "La crisis lleva al límite la relación entre el Gobierno y Zarzuela",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-02T14:00:45+02:00",
-      "enlace": "https://www.abc.es/sociedad/nuevos-nazis-antisemitismo-recrudece-medios-escuela-cultura-20260902125748-nt.html"
+      "fecha": "2026-09-02T18:31:00+02:00",
+      "enlace": "https://www.abc.es/espana/moncloa-escuda-comunicado-zarzuela-mes-justificar-malestar-20260901011301-nt.html"
     },
     {
-      "titular": "Una semana después del robo, Urtasun sigue sin hablar de Villena",
+      "titular": "Brennan exhibe sus superpoderes en la tercera victoria",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-02T13:54:58+02:00",
-      "enlace": "https://www.abc.es/cultura/cultural/ministro-20260902132957-nt.html"
+      "fecha": "2026-09-02T18:30:55+02:00",
+      "enlace": "https://www.abc.es/deportes/ciclismo/brennan-exhibe-superpoderes-tercera-victoria-20260902174255-nt.html"
     },
     {
-      "titular": "Dos policías evitan la cárcel al aceptar que acosaron a una compañera en la Embajada de Argel",
+      "titular": "Ayuso visitó el ático de Chamberí después de su compra",
+      "medios": [
+        "La Vanguardia",
+        "ABC"
+      ],
+      "consenso": 2,
+      "fecha": "2026-09-02T18:30:42+02:00",
+      "enlace": "https://www.abc.es/espana/madrid/ayuso-visito-atico-chamberi-despues-compra-20260902173019-nt.html"
+    },
+    {
+      "titular": "La italiana Lottomatica absorbe a la española Cirsa para crear la segunda mayor empresa mundial del juego",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-02T13:51:20+02:00",
-      "enlace": "https://elpais.com/espana/2026-09-02/dos-policias-evitan-la-carcel-al-aceptar-que-acosaron-a-una-companera-en-la-embajada-de-argel.html"
+      "fecha": "2026-09-02T18:29:30+02:00",
+      "enlace": "https://cincodias.elpais.com/companias/2026-09-02/la-italiana-lottomatica-absorbe-a-la-espanola-cirsa-para-crear-la-segunda-mayor-empresa-mundial-del-juego.html"
     },
     {
-      "titular": "Las mejores cuentas sin comisiones de 2026: Trade Republic, Openbank y Bankinter",
+      "titular": "La policía francesa investiga una trama criminal que planeaba secuestrar a Mbappé y otras celebridades",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-02T13:40:34+02:00",
-      "enlace": "https://www.lavanguardia.com/comprar/finanzas/20260427/11522012/mejores-cuentas-sin-comisiones-top3-2026-mkt-klt.html"
-    },
-    {
-      "titular": "Una mujer fallecida al faltarle el oxígeno tras la riada es la víctima 232 de la dana",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-02T13:30:36+02:00",
-      "enlace": "https://www.lavanguardia.com/local/valencia/20260902/11625516/mujer-fallecida-faltarle-oxigeno-riada-victima-232-dana.html"
+      "fecha": "2026-09-02T18:03:03+02:00",
+      "enlace": "https://www.lavanguardia.com/gente/20260902/11625735/policia-francesa-investiga-trama-criminal-planeaba-secuestrar-mbappe-celebridades.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -74,7 +75,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 5,
+    "antiguedad_minima_min": 12,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +83,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2225587,
+        "antiguedad_min": 2225860,
         "descartados_por_gancho": 0
       },
       {
@@ -97,18 +98,18 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 142,
+        "items": 147,
         "error": null,
-        "antiguedad_min": 5,
+        "antiguedad_min": 12,
         "descartados_por_gancho": 5
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 127,
+        "items": 128,
         "error": null,
-        "antiguedad_min": 30,
+        "antiguedad_min": 42,
         "descartados_por_gancho": 11
       },
       {
@@ -117,7 +118,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 11,
+        "antiguedad_min": 14,
         "descartados_por_gancho": 0
       }
     ]

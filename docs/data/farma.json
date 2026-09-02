@@ -2,16 +2,52 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "ultimas",
-  "generado": "2026-09-02T14:12:45+02:00",
+  "generado": "2026-09-02T18:45:41+02:00",
   "titulares": [
     {
-      "titular": "La inversión en medicamentos innovadores y vacunas refuerza la salud, la economía y la preparación frente a futuras amenazas",
+      "titular": "La OMS pide acelerar los fondos para reforzar la respuesta ante el brote de ébola en RDC",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-02T18:34:24+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/internacional/20260902/la-oms-pide-acelerar-los-fondos-para-reforzar-la-respuesta-ante-el-brote-de-ebola-en-rdc/350062_0.html"
+    },
+    {
+      "titular": "Europa busca su respuesta frente a EE. UU. y China en el desarrollo de fármacos con IA",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-02T18:32:04+02:00",
+      "enlace": "https://diariofarma.com/2026/09/02/europa-busca-su-respuesta-frente-a-ee-uu-y-china-en-el-desarrollo-de-farmacos-con-ia"
+    },
+    {
+      "titular": "Lucía, la estudiante que dejó Medicina por Bioquímica y que volvió a los pocos meses: \"Es mi vocación\"",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-02T18:17:30+02:00",
+      "enlace": "https://www.redaccionmedica.com/formacion/estudiantes/20260902/lucia-la-estudiante-que-dejo-medicina-por-bioquimica-volvio-los-pocos-meses-es-mi-vocacion/350037_0.html"
+    },
+    {
+      "titular": "La Comisión SANT pide incentivos específicos para desarrollar medicamentos contra el cáncer infantil",
       "medios": [
         "El Global"
       ],
       "consenso": 1,
-      "fecha": "2026-09-02T14:05:52+02:00",
-      "enlace": "https://elglobalfarma.com/industria/inversion-medicamentos-innovadores-vacunas-salud-economia-preparacion-futuras-amenazas/"
+      "fecha": "2026-09-02T17:04:45+02:00",
+      "enlace": "https://elglobalfarma.com/politica/comision-sant-incentivos-especificos-medicamentos-cancer-infantil/"
+    },
+    {
+      "titular": "La FIP actualiza su política sobre seguridad del paciente para poner en valor el papel de los farmacéuticos",
+      "medios": [
+        "El Global"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-02T15:33:19+02:00",
+      "enlace": "https://elglobalfarma.com/farmacia/fip-politica-seguridad-paciente-papel-farmaceuticos/"
     },
     {
       "titular": "La nueva Facultad de Farmacia de la UB se ubicará en Esplugues en el curso 2032-2033",
@@ -23,49 +59,13 @@
       "enlace": "https://diariofarma.com/2026/09/02/la-nueva-facultad-de-farmacia-de-la-ub-se-ubicara-en-esplugues-en-el-curso-2032-2033"
     },
     {
-      "titular": "Más reglas explícitas para un sistema de financiación y precios más previsible",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-02T13:50:48+02:00",
-      "enlace": "https://diariofarma.com/2026/09/02/mas-reglas-explicitas-para-un-sistema-de-financiacion-y-precios-mas-previsible"
-    },
-    {
-      "titular": "La Ciencia no se somete a las urnas",
+      "titular": "Una Ceuta en emergencia celebra su día grande sostenida por los profesionales de la salud",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-09-02T13:00:44+02:00",
-      "enlace": "https://www.redaccionmedica.com/opinion/20260902/la-ciencia-no-se-somete-las-urnas/349987_14.html"
-    },
-    {
-      "titular": "Alerta sanitaria de la Aemps: retira 22 productos 'adelgazantes' por riesgo cardiovascular grave",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-02T12:54:40+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20260902/alerta-sanitaria-de-la-aemps-retira-productos-adelgazantes-por-riesgo-cardiovascular-grave/350003_0.html"
-    },
-    {
-      "titular": "La AEMPS retira varios productos adelgazantes por contener sibutramina, un principio activo no autorizado en la UE por sus efectos adversos graves",
-      "medios": [
-        "El Global"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-02T11:25:07+02:00",
-      "enlace": "https://elglobalfarma.com/politica/aemps-productos-adelgazantes-sibutramina-no-autorizado-ue-efectos-adversos-graves/"
-    },
-    {
-      "titular": "El Foro Español de Pacientes pide coordinar la normativa vasca con el marco regulatorio estatal",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-02T13:39:39+02:00",
-      "enlace": "https://diariofarma.com/2026/09/02/el-foro-espanol-de-pacientes-pide-coordinar-la-normativa-vasca-con-el-marco-regulatorio-estatal"
+      "fecha": "2026-09-02T18:13:52+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20260902/una-ceuta-en-emergencia-celebra-su-dia-grande-sostenida-por-los-profesionales-de-la-salud/350043_0.html"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 6,
+    "antiguedad_minima_min": 11,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 18,
+        "antiguedad_min": 13,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 6,
+        "antiguedad_min": 100,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 71,
+        "antiguedad_min": 11,
         "descartados_por_gancho": 0
       },
       {
