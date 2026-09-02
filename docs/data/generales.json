@@ -2,62 +2,62 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-09-02T18:45:27+02:00",
+  "generado": "2026-09-02T21:35:58+02:00",
   "titulares": [
     {
-      "titular": "Chevron dobla su presencia en Venezuela con una inversión de 7.000 millones de dólares",
+      "titular": "Los caballas no se rinden, Ceuta no se vende",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-02T21:30:46+02:00",
+      "enlace": "https://www.abc.es/espana/caballas-rinden-ceuta-vende-20260902210032-nt.html"
+    },
+    {
+      "titular": "Las protestas por todo el país, en imágenes",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-02T21:29:58+02:00",
+      "enlace": "https://www.abc.es/espana/manifestaciones-apoyo-ceuta-imagenes-20260902201015-ga.html"
+    },
+    {
+      "titular": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Decenas de miles de personas se concentran en Ceuta y otras ciudades para reclamar soluciones y protestar contra el Gobierno",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-02T18:32:47+02:00",
-      "enlace": "https://elpais.com/america/2026-09-02/chevron-dobla-su-presencia-en-venezuela-con-una-inversion-de-7000-millones-de-dolares.html"
+      "fecha": "2026-09-02T21:29:55+02:00",
+      "enlace": "https://elpais.com/espana/2026-09-02/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html"
     },
     {
-      "titular": "La crisis lleva al límite la relación entre el Gobierno y Zarzuela",
+      "titular": "Heridos tres guardias civiles tras ser embestidos por una narcolancha en Águilas (Murcia)",
       "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-02T18:31:00+02:00",
-      "enlace": "https://www.abc.es/espana/moncloa-escuda-comunicado-zarzuela-mes-justificar-malestar-20260901011301-nt.html"
-    },
-    {
-      "titular": "Brennan exhibe sus superpoderes en la tercera victoria",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-02T18:30:55+02:00",
-      "enlace": "https://www.abc.es/deportes/ciclismo/brennan-exhibe-superpoderes-tercera-victoria-20260902174255-nt.html"
-    },
-    {
-      "titular": "Ayuso visitó el ático de Chamberí después de su compra",
-      "medios": [
-        "La Vanguardia",
+        "El País",
         "ABC"
       ],
       "consenso": 2,
-      "fecha": "2026-09-02T18:30:42+02:00",
-      "enlace": "https://www.abc.es/espana/madrid/ayuso-visito-atico-chamberi-despues-compra-20260902173019-nt.html"
+      "fecha": "2026-09-02T21:26:25+02:00",
+      "enlace": "https://www.abc.es/espana/murcia/heridos-tres-guardias-civiles-tras-embestidos-narcolancha-20260902211700-nt.html"
     },
     {
-      "titular": "La italiana Lottomatica absorbe a la española Cirsa para crear la segunda mayor empresa mundial del juego",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-02T18:29:30+02:00",
-      "enlace": "https://cincodias.elpais.com/companias/2026-09-02/la-italiana-lottomatica-absorbe-a-la-espanola-cirsa-para-crear-la-segunda-mayor-empresa-mundial-del-juego.html"
-    },
-    {
-      "titular": "La policía francesa investiga una trama criminal que planeaba secuestrar a Mbappé y otras celebridades",
+      "titular": "El clamor contra el Gobierno por Ceuta moviliza a miles de personas en España",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-02T18:03:03+02:00",
-      "enlace": "https://www.lavanguardia.com/gente/20260902/11625735/policia-francesa-investiga-trama-criminal-planeaba-secuestrar-mbappe-celebridades.html"
+      "fecha": "2026-09-02T20:17:16+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20260902/11625827/clamor-gobierno-ceuta-moviliza-miles-personas-principales-ciudades.html"
+    },
+    {
+      "titular": "Las imágenes que deja la jornada de manifestaciones en apoyo a Ceuta",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-02T20:06:11+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20260902/11625776/imagenes-deja-jornada-manifestaciones-apoyo-ceuta.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -75,7 +75,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 12,
+    "antiguedad_minima_min": 5,
     "detalle": [
       {
         "medio": "RTVE",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2225860,
+        "antiguedad_min": 2226030,
         "descartados_por_gancho": 0
       },
       {
@@ -98,28 +98,28 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 147,
+        "items": 149,
         "error": null,
-        "antiguedad_min": 12,
+        "antiguedad_min": 6,
         "descartados_por_gancho": 5
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 128,
+        "items": 133,
         "error": null,
-        "antiguedad_min": 42,
-        "descartados_por_gancho": 11
+        "antiguedad_min": 78,
+        "descartados_por_gancho": 12
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 25,
+        "items": 24,
         "error": null,
-        "antiguedad_min": 14,
-        "descartados_por_gancho": 0
+        "antiguedad_min": 5,
+        "descartados_por_gancho": 1
       }
     ]
   }

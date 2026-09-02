@@ -2,70 +2,70 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-09-02T18:45:31+02:00",
+  "generado": "2026-09-02T21:36:01+02:00",
   "titulares": [
     {
-      "titular": "La IA anuncia el fin de la inflación de los honorarios de auditoría",
+      "titular": "Renfe retira dos nuevos trenes de Talgo por dudas sobre el estado de los 'bogies'",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-02T18:17:56+02:00",
-      "enlace": "https://www.expansion.com/economia/financial-times/2026/09/02/6a984c28e5fdea34798b4587.html"
+      "fecha": "2026-09-02T21:29:24+02:00",
+      "enlace": "https://www.expansion.com/empresas/transporte/2026/09/02/6a98766e468aeb694e8b45af.html"
     },
     {
-      "titular": "El presidente de EEUU sugiere rebautizar Ormuz como el \"estrecho de Trump\"",
+      "titular": "El fundador de Etnia ficha a un exdirectivo de Luxottica como CEO",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-02T17:59:53+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/09/02/6a9847f3e5fdeaf10a8b4589.html"
+      "fecha": "2026-09-02T21:15:56+02:00",
+      "enlace": "https://www.expansion.com/catalunya/2026/09/02/6a9874b3468aebc5458b4572.html"
     },
     {
-      "titular": "Chevron invertirá 6.000 millones en Venezuela para duplicar su producción de crudo",
+      "titular": "Transgourmet Ibérica repite ingresos y reduce un 13% el beneficio",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-02T17:42:04+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/09/02/6a98434a468aeb91288b45a2.html"
+      "fecha": "2026-09-02T20:56:36+02:00",
+      "enlace": "https://www.expansion.com/catalunya/2026/09/02/6a98715ee5fdeae70f8b4599.html"
     },
     {
-      "titular": "El Ibex pierde los 19.800 puntos presionado por los bonos y el petróleo",
+      "titular": "Clamor masivo en España contra la invasión de Ceuta",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-02T17:40:25+02:00",
-      "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/09/02/6a97b7aae5fdea915d8b45a3.html"
+      "fecha": "2026-09-02T20:45:02+02:00",
+      "enlace": "https://www.expansion.com/economia/politica/2026/09/02/6a986acd468aebdd638b4584.html"
     },
     {
-      "titular": "La Premier gasta cinco veces más que LaLiga: la brecha que deja el mercado de fichajes",
+      "titular": "Javier Muñoz-Calero abre una taberna",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-02T17:22:14+02:00",
-      "enlace": "https://www.expansion.com/deporte-negocio/2026/09/02/6a9834cd468aeb2c678b459d.html"
+      "fecha": "2026-09-02T19:03:11+02:00",
+      "enlace": "https://www.expansion.com/estilo-vida/rincones-gastronomicos/2026/09/02/6a974a7ce5fdea833a8b4594.html"
     },
     {
-      "titular": "El Gobierno confirma una nueva subida del salario mínimo en 2027 para compensar el alza del IPC",
+      "titular": "Telefónica cierra la venta de la sede de Gran Vía al empresario Tomás Olivo",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-02T17:05:50+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/09/02/6a97f59c468aebd73c8b4592.html"
+      "fecha": "2026-09-02T18:48:55+02:00",
+      "enlace": "https://www.expansion.com/empresas/tecnologia/2026/09/02/6a984d54e5fdeaed0c8b457a.html"
     },
     {
-      "titular": "Uber despedirá a 3.300 trabajadores, el 10% de su plantilla",
+      "titular": "OpenAI limitará el acceso a su inteligencia artificial Astra por su riesgo cibernético \"crítico\"",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-02T16:34:57+02:00",
-      "enlace": "https://www.expansion.com/economia-digital/companias/2026/09/02/6a983217e5fdeade5c8b4584.html"
+      "fecha": "2026-09-02T18:47:46+02:00",
+      "enlace": "https://www.expansion.com/economia-digital/companias/2026/09/02/6a984c25468aebc12e8b45ad.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 27,
+    "antiguedad_minima_min": 6,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 73,
+        "items": 72,
         "error": null,
-        "antiguedad_min": 27,
+        "antiguedad_min": 6,
         "descartados_por_gancho": 0
       },
       {

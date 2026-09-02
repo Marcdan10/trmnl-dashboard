@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-09-02T18:45:35+02:00",
+  "generado": "2026-09-02T21:36:04+02:00",
   "titulares": [
     {
-      "titular": "Tener al mejor velocista de la Vuelta es un chollo",
+      "titular": "Preocupación en 'Malas lenguas' tras lo sufrido por un reportero en la concentración por Ceuta: \"No van a parar hasta que nos revienten la cabeza\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-02T18:22:11+02:00",
-      "enlace": "https://www.mundodeportivo.com/opinion/20260902/1004222677/mejor-velocista-vuelta-chollo.html"
+      "fecha": "2026-09-02T21:26:36+02:00",
+      "enlace": "https://www.mundodeportivo.com/elotromundo/television/20260902/1004222744/lagrimas-malas-lenguas-ocurrido-reportero-concentracion-ceuta-no-parar-revienten-cabeza-directo-donde-esta-policia-dct.html"
     },
     {
-      "titular": "Los jugadores que debuten en la Champions lucirán un distintivo",
+      "titular": "Miles de personas se manifiestan en defensa de Ceuta: concentraciones en toda España",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-02T18:19:51+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/internacional/20260902/1004222675/jugadores-debuten-champions-luciran-distintivo.html"
+      "fecha": "2026-09-02T21:20:41+02:00",
+      "enlace": "https://www.mundodeportivo.com/actualidad/20260902/1004222743/miles-personas-manifiestan-defensa-ceuta-concentraciones-toda-espana-apoyo-ciudad-autonoma-crisis-migratoria-dct.html"
     },
     {
       "titular": "Bombazo: Messi se retira de la selección argentina",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/motor/formula1/gp-italia/2026/08/31/lando-norris-cree-deberia-ganar-verstappen-hamilton.html"
     },
     {
-      "titular": "Enric Mas: \"Sin Pogacar todo ha cambiado, estamos todos al mismo nivel\"",
+      "titular": "Jonathan David, agradecido con el Atlético: \"Estar aquí me hace sentir muy bien\"",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/ciclismo/enric-pogacar-cambiado-nivel-133884277"
+      "enlace": "https://www.sport.es/es/noticias/laliga/jonathan-david-agradece-atletico-sentir-133890422"
     },
     {
-      "titular": "Tiger Woods evita la cárcel por su accidente de tráfico",
+      "titular": "El registro del Barça que invita a pensar en otra Liga",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/deportes/golf/tiger-woods-evita-carcel-accidente-133881622"
+      "enlace": "https://www.sport.es/es/noticias/barca/registro-barca-invita-pensar-liga-133878908"
     },
     {
-      "titular": "Tres Mossos salen heridos tras perseguir un Jaguar robado en Santa Coloma de Gramenet",
+      "titular": "Todo sobre el Internacional de Limeira, el equipo de Ronaldo Nazario y Roberto Carlos",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-02T18:18:34+02:00",
-      "enlace": "https://www.mundodeportivo.com/actualidad/20260902/1004222674/persecucion-pelicula-tres-mossos-d-esquadra-salen-heridos-perseguir-jaguar-robado-santa-coloma-gramenet-dct.html"
+      "fecha": "2026-09-02T21:17:33+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/internacional/20260902/1004222742/sobre-internacional-limeira-equipo-ronaldo-nazario-roberto-carlos.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 23,
+    "antiguedad_minima_min": 9,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 61,
         "error": null,
-        "antiguedad_min": 2973,
+        "antiguedad_min": 3143,
         "descartados_por_gancho": 10
       },
       {
@@ -98,19 +98,19 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 143,
+        "items": 142,
         "error": null,
-        "antiguedad_min": 23,
-        "descartados_por_gancho": 6
+        "antiguedad_min": 9,
+        "descartados_por_gancho": 4
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 48,
+        "items": 49,
         "error": null,
         "antiguedad_min": null,
-        "descartados_por_gancho": 0
+        "descartados_por_gancho": 1
       },
       {
         "medio": "NBA",
