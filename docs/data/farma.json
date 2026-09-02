@@ -1,8 +1,8 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "ultimas",
-  "generado": "2026-09-02T21:36:10+02:00",
+  "modo": "portadas",
+  "generado": "2026-09-03T00:15:25+02:00",
   "titulares": [
     {
       "titular": "‘Todos estamos con Ceuta’, la farmacia da su apoyo a la población ante la crisis migratoria",
@@ -14,13 +14,13 @@
       "enlace": "https://diariofarma.com/2026/09/02/todos-estamos-con-ceuta-la-farmacia-da-su-apoyo-a-la-poblacion-ante-la-crisis-migratoria"
     },
     {
-      "titular": "Dos científicas españolas se incorporan a grupos de asesoramiento de la OMS",
+      "titular": "Una Ceuta en emergencia celebra su día grande sostenida por los profesionales de la salud",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-09-02T18:54:18+02:00",
-      "enlace": "https://www.redaccionmedica.com/profesionales/sociedades-cientificas/20260902/dos-cientificas-espanolas-se-incorporan-grupos-de-asesoramiento-la-oms/350064_0.html"
+      "fecha": "2026-09-02T18:13:52+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20260902/una-ceuta-en-emergencia-celebra-su-dia-grande-sostenida-por-los-profesionales-de-la-salud/350043_0.html"
     },
     {
       "titular": "La Aemps retira 22 adelgazantes presentados como naturales que contenían sibutramina",
@@ -32,31 +32,13 @@
       "enlace": "https://diariofarma.com/2026/09/02/la-aemps-retira-22-productos-adelgazantes-presentado-como-naturales-que-ocultaban-en-su-etiquetado-sibutramina"
     },
     {
-      "titular": "La OMS pide acelerar los fondos para reforzar la respuesta ante el brote de ébola en RDC",
+      "titular": "Las CCAA rechazan la aprobación del Estatuto Marco: \"No garantiza las mejoras que recoge\"",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-09-02T18:34:24+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/internacional/20260902/la-oms-pide-acelerar-los-fondos-para-reforzar-la-respuesta-ante-el-brote-de-ebola-en-rdc/350062_0.html"
-    },
-    {
-      "titular": "La Comisión SANT pide incentivos específicos para desarrollar medicamentos contra el cáncer infantil",
-      "medios": [
-        "El Global"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-02T17:04:45+02:00",
-      "enlace": "https://elglobalfarma.com/politica/comision-sant-incentivos-especificos-medicamentos-cancer-infantil/"
-    },
-    {
-      "titular": "La FIP actualiza su política sobre seguridad del paciente para poner en valor el papel de los farmacéuticos",
-      "medios": [
-        "El Global"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-02T15:33:19+02:00",
-      "enlace": "https://elglobalfarma.com/farmacia/fip-politica-seguridad-paciente-papel-farmaceuticos/"
+      "fecha": "2026-09-02T15:31:08+02:00",
+      "enlace": "https://www.redaccionmedica.com/autonomias/20260902/las-ccaa-rechazan-la-aprobacion-del-estatuto-marco-no-garantiza-las-mejoras-que-recoge/350004_0.html"
     },
     {
       "titular": "El Parlamento Europeo exige una ley comunitaria para proteger la salud mental laboral",
@@ -66,17 +48,36 @@
       "consenso": 1,
       "fecha": "2026-09-02T18:42:47+02:00",
       "enlace": "https://diariofarma.com/2026/09/02/el-parlamento-europeo-exige-una-ley-comunitaria-para-proteger-la-salud-mental-laboral"
+    },
+    {
+      "titular": "La Ciencia no se somete a las urnas",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-02T13:00:44+02:00",
+      "enlace": "https://www.redaccionmedica.com/opinion/20260902/la-ciencia-no-se-somete-las-urnas/349987_14.html"
+    },
+    {
+      "titular": "Europa busca su respuesta frente a EE. UU. y China en el desarrollo de fármacos con IA",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-02T18:32:04+02:00",
+      "enlace": "https://diariofarma.com/2026/09/02/europa-busca-su-respuesta-frente-a-ee-uu-y-china-en-el-desarrollo-de-farmacos-con-ia"
     }
   ],
   "salud": {
     "feeds_totales": 7,
-    "feeds_ok": 4,
+    "feeds_ok": 3,
     "feeds_caidos": [
+      "El Global",
       "PMFarma",
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 13,
+    "antiguedad_minima_min": 172,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,17 +85,16 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 13,
+        "antiguedad_min": 172,
         "descartados_por_gancho": 0
       },
       {
         "medio": "El Global",
         "url": "https://elglobal.es/feed/",
-        "ok": true,
-        "items": 10,
-        "error": null,
-        "antiguedad_min": 271,
-        "descartados_por_gancho": 0
+        "ok": false,
+        "items": 0,
+        "error": "URLError: <urlopen error timed out>",
+        "antiguedad_min": null
       },
       {
         "medio": "Redacción Médica",
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 161,
+        "antiguedad_min": 321,
         "descartados_por_gancho": 0
       },
       {

@@ -1,26 +1,26 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "ultimas",
-  "generado": "2026-09-02T21:36:04+02:00",
+  "modo": "portadas",
+  "generado": "2026-09-03T00:15:00+02:00",
   "titulares": [
     {
-      "titular": "Preocupación en 'Malas lenguas' tras lo sufrido por un reportero en la concentración por Ceuta: \"No van a parar hasta que nos revienten la cabeza\"",
+      "titular": "Alarma Jesse Bisiwu: ¡deja lesionado la final de la Copa Catalunya!",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-02T21:26:36+02:00",
-      "enlace": "https://www.mundodeportivo.com/elotromundo/television/20260902/1004222744/lagrimas-malas-lenguas-ocurrido-reportero-concentracion-ceuta-no-parar-revienten-cabeza-directo-donde-esta-policia-dct.html"
+      "fecha": "2026-09-02T20:49:16+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260902/1004222739/alarma-jesse-bisiwu-deja-lesionado-final-copa-catalunya.html"
     },
     {
-      "titular": "Miles de personas se manifiestan en defensa de Ceuta: concentraciones en toda España",
+      "titular": "Fàbregas, mejor entrenador de la Serie A, y Nico Paz, mejor jugador joven",
       "medios": [
-        "Mundo Deportivo"
+        "Sport"
       ],
       "consenso": 1,
-      "fecha": "2026-09-02T21:20:41+02:00",
-      "enlace": "https://www.mundodeportivo.com/actualidad/20260902/1004222743/miles-personas-manifiestan-defensa-ceuta-concentraciones-toda-espana-apoyo-ciudad-autonoma-crisis-migratoria-dct.html"
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/futbol-internacional/fabregas-mejor-entrenador-serie-nico-133894882"
     },
     {
       "titular": "Bombazo: Messi se retira de la selección argentina",
@@ -32,6 +32,24 @@
       "enlace": "https://www.marca.com/futbol/2026/08/31/bombazo-messi-retira-seleccion-argentina.html"
     },
     {
+      "titular": "1-2: La lesión de Bisiwu eclipsa la Copa Catalunya",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-02T23:00:35+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260902/1004222765/1-2-lesion-bisiwu-eclipsa-copa-catalunya.html"
+    },
+    {
+      "titular": "Shelton manda un serio aviso y se postula como gran candidato al US Open",
+      "medios": [
+        "Sport"
+      ],
+      "consenso": 1,
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/tenis/shelton-manda-serio-aviso-postula-133893642"
+    },
+    {
       "titular": "Lando Norris y por qué cree que debería ganar lo que Verstappen y Hamilton",
       "medios": [
         "Marca"
@@ -41,31 +59,13 @@
       "enlace": "https://www.marca.com/motor/formula1/gp-italia/2026/08/31/lando-norris-cree-deberia-ganar-verstappen-hamilton.html"
     },
     {
-      "titular": "Jonathan David, agradecido con el Atlético: \"Estar aquí me hace sentir muy bien\"",
-      "medios": [
-        "Sport"
-      ],
-      "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/laliga/jonathan-david-agradece-atletico-sentir-133890422"
-    },
-    {
-      "titular": "El registro del Barça que invita a pensar en otra Liga",
-      "medios": [
-        "Sport"
-      ],
-      "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/barca/registro-barca-invita-pensar-liga-133878908"
-    },
-    {
-      "titular": "Todo sobre el Internacional de Limeira, el equipo de Ronaldo Nazario y Roberto Carlos",
+      "titular": "Lautaro: \"Lo que se decía del Barça era verdad\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-02T21:17:33+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/internacional/20260902/1004222742/sobre-internacional-limeira-equipo-ronaldo-nazario-roberto-carlos.html"
+      "fecha": "2026-09-02T22:45:18+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260902/1004222763/lautaro-decia-barca-verdad.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 9,
+    "antiguedad_minima_min": 40,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 61,
         "error": null,
-        "antiguedad_min": 3143,
+        "antiguedad_min": 3302,
         "descartados_por_gancho": 10
       },
       {
@@ -100,17 +100,17 @@
         "ok": true,
         "items": 142,
         "error": null,
-        "antiguedad_min": 9,
+        "antiguedad_min": 40,
         "descartados_por_gancho": 4
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 49,
+        "items": 50,
         "error": null,
         "antiguedad_min": null,
-        "descartados_por_gancho": 1
+        "descartados_por_gancho": 0
       },
       {
         "medio": "NBA",
