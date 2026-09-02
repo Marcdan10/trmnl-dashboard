@@ -2,7 +2,7 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-09-02T01:43:38+02:00",
+  "generado": "2026-09-02T04:23:44+02:00",
   "titulares": [
     {
       "titular": "Gabriel Jesus, inscrito con el '9' a un cuarto de hora del cierre",
@@ -14,13 +14,13 @@
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260902/1004222374/gabriel-jesus-inscrito-cuarto-hora-cierre.html"
     },
     {
-      "titular": "El Córdoba CF cierra el mercado con una plantilla nueva, apuestas por resolver y varias posiciones bajo examen",
+      "titular": "Mikel Goti pone la guinda y Luka Ilic ya es historia: un cierre de mercado frenético para el Oviedo",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/futbol/cordoba-cf-cierra-mercado-plantilla-133857213"
+      "enlace": "https://www.sport.es/es/noticias/oviedo/mikel-goti-pone-guinda-luka-133857445"
     },
     {
       "titular": "Bombazo: Messi se retira de la selección argentina",
@@ -42,13 +42,13 @@
       "enlace": "https://www.mundodeportivo.com/futbol/fichajes/20260831/1004219520/mercado-fichajes-futbol-directo-hoy-rumores-altas-bajas.html"
     },
     {
-      "titular": "El Levante se queda sin el fichaje de Sergio Akieme",
+      "titular": "El análisis de Pelayo Botas García-Barrero: Ganar hoy, jugar mañana",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/levante/levante-queda-fichaje-sergio-akieme-133857123"
+      "enlace": "https://www.sport.es/es/noticias/oviedo/analisis-pelayo-botas-garcia-barrero-133857447"
     },
     {
       "titular": "Lando Norris y por qué cree que debería ganar lo que Verstappen y Hamilton",
@@ -75,7 +75,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 38,
+    "antiguedad_minima_min": 198,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 61,
         "error": null,
-        "antiguedad_min": 1951,
+        "antiguedad_min": 2111,
         "descartados_por_gancho": 10
       },
       {
@@ -101,17 +101,17 @@
         "ok": true,
         "items": 149,
         "error": null,
-        "antiguedad_min": 38,
+        "antiguedad_min": 198,
         "descartados_por_gancho": 4
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 49,
+        "items": 50,
         "error": null,
         "antiguedad_min": null,
-        "descartados_por_gancho": 1
+        "descartados_por_gancho": 0
       },
       {
         "medio": "NBA",

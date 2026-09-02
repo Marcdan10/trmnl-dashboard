@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-09-02T01:43:32+02:00",
+  "generado": "2026-09-02T04:23:38+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -32,13 +32,13 @@
       "enlace": "https://www.lavanguardia.com/politica/20260902/11624938/pp-logra-dividir-izquierda-convocatorias-municipales-apoyo-ceuta.html"
     },
     {
-      "titular": "Un abismo de 3.000 millones de euros entre la Liga y la Premier",
+      "titular": "Un juzgado de Ceuta abre diligencias contra el delegado del Gobierno por los informes del CNI",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-02T01:16:46+02:00",
-      "enlace": "https://www.abc.es/deportes/futbol/abismo-3000-millones-euros-liga-premier-20260901004559-nt.html"
+      "fecha": "2026-09-02T01:57:28+02:00",
+      "enlace": "https://www.abc.es/espana/juzgado-abre-diligencias-delegado-gobierno-ceuta-entada-20260901221133-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 10,
+    "antiguedad_minima_min": 146,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2224838,
+        "antiguedad_min": 2224998,
         "descartados_por_gancho": 0
       },
       {
@@ -99,7 +99,7 @@
         "ok": true,
         "items": 147,
         "error": null,
-        "antiguedad_min": 10,
+        "antiguedad_min": 170,
         "descartados_por_gancho": 7
       },
       {
@@ -108,7 +108,7 @@
         "ok": true,
         "items": 126,
         "error": null,
-        "antiguedad_min": 73,
+        "antiguedad_min": 233,
         "descartados_por_gancho": 12
       },
       {
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 26,
+        "antiguedad_min": 146,
         "descartados_por_gancho": 0
       }
     ]
