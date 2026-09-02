@@ -1,26 +1,26 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "portadas",
-  "generado": "2026-09-02T09:14:20+02:00",
+  "modo": "ultimas",
+  "generado": "2026-09-02T14:12:41+02:00",
   "titulares": [
     {
-      "titular": "Barça: gran inversión en fichajes y buenos ingresos en ventas",
+      "titular": "LaLiga anuncia dónde se jugará el Rayo Vallecano - Racing",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-02T07:00:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260902/1004222270/barca-gran-inversion-fichajes-buenos-ingresos-ventas.html"
+      "fecha": "2026-09-02T13:54:51+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/laliga/20260902/1004222575/laliga-anuncia-jugara-rayo-vallecano-racing.html"
     },
     {
-      "titular": "El siguiente paso de Xavi Espart en la selección española",
+      "titular": "Oficial: un clásico del fútbol europeo jugará junto a Ter Stegen",
       "medios": [
-        "Sport"
+        "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/barca/siguiente-paso-xavi-espart-seleccion-133837016"
+      "fecha": "2026-09-02T13:51:23+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/oficial/20260902/1004222570/oficial-clasico-futbol-europeo-jugara-ter-stegen.html"
     },
     {
       "titular": "Bombazo: Messi se retira de la selección argentina",
@@ -32,24 +32,6 @@
       "enlace": "https://www.marca.com/futbol/2026/08/31/bombazo-messi-retira-seleccion-argentina.html"
     },
     {
-      "titular": "Gabriel Jesus se bajó significativamente el sueldo para jugar en el Barça",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-01T15:59:35+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004222136/gabriel-jesus-significativamente-sueldo-jugar-barca.html"
-    },
-    {
-      "titular": "El mercado de fichajes todavía no ha terminado: Arabia y Turquía amenazan a LaLiga",
-      "medios": [
-        "Sport"
-      ],
-      "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/futbol-internacional/mercado-fichajes-todavia-terminado-arabia-133860337"
-    },
-    {
       "titular": "Lando Norris y por qué cree que debería ganar lo que Verstappen y Hamilton",
       "medios": [
         "Marca"
@@ -59,13 +41,31 @@
       "enlace": "https://www.marca.com/motor/formula1/gp-italia/2026/08/31/lando-norris-cree-deberia-ganar-verstappen-hamilton.html"
     },
     {
-      "titular": "Gabriel Jesus, inscrito con el '9' a un cuarto de hora del cierre",
+      "titular": "Harvey Elliot llega con hambre y se marca un ambicioso objetivo de goles y asistencias",
+      "medios": [
+        "Sport"
+      ],
+      "consenso": 1,
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/valencia/harvey-elliot-llega-hambre-marca-133873599"
+    },
+    {
+      "titular": "El Andorra cierra con Diego Díaz un mercado frenético",
+      "medios": [
+        "Sport"
+      ],
+      "consenso": 1,
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/andorra/andorra-cierra-diego-diaz-mercado-133871620"
+    },
+    {
+      "titular": "El Levante explica porqué aún no se ha hecho oficial el fichaje de Carlos Álvarez por el América de México",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-02T00:07:14+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260902/1004222374/gabriel-jesus-inscrito-cuarto-hora-cierre.html"
+      "fecha": "2026-09-02T13:50:42+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/20260902/1004222572/levante-explica-aun-no-hecho-oficial-fichaje-carlos-alvarez-america-mexico.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 28,
+    "antiguedad_minima_min": 17,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 61,
         "error": null,
-        "antiguedad_min": 2401,
+        "antiguedad_min": 2700,
         "descartados_por_gancho": 10
       },
       {
@@ -98,19 +98,19 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 140,
+        "items": 142,
         "error": null,
-        "antiguedad_min": 28,
-        "descartados_por_gancho": 8
+        "antiguedad_min": 17,
+        "descartados_por_gancho": 6
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 48,
+        "items": 50,
         "error": null,
         "antiguedad_min": null,
-        "descartados_por_gancho": 2
+        "descartados_por_gancho": 0
       },
       {
         "medio": "NBA",

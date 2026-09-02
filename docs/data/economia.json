@@ -1,71 +1,71 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "portadas",
-  "generado": "2026-09-02T09:14:18+02:00",
+  "modo": "ultimas",
+  "generado": "2026-09-02T14:12:39+02:00",
   "titulares": [
     {
-      "titular": "Lottomatica absorbe a Cirsa para crear un gigante del juego",
+      "titular": "La industria digital marca un récord en España impulsada por la IA",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-02T08:27:24+02:00",
+      "fecha": "2026-09-02T14:00:04+02:00",
+      "enlace": "https://www.expansion.com/economia-digital/2026/09/02/6a97e31ce5fdea0e328b4571.html"
+    },
+    {
+      "titular": "El orden mundial estadounidense se está desmoronando",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-02T13:59:33+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/09/02/6a980f21e5fdeae3478b4573.html"
+    },
+    {
+      "titular": "La jueza amplía los plazos para la presentación de ofertas por Reunidos",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-02T13:29:46+02:00",
+      "enlace": "https://www.expansion.com/pais-vasco/2026/09/02/6a980781e5fdeafc4a8b457c.html"
+    },
+    {
+      "titular": "Lottomatica absorbe a Cirsa para crear un gigante del juego en una operación de 13.200 millones",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-02T13:18:30+02:00",
       "enlace": "https://www.expansion.com/empresas/2026/09/02/6a97c1c8468aeb967c8b4582.html"
     },
     {
-      "titular": "BBVA reordena su banca de inversión para acelerar el negocio corporativo",
+      "titular": "La OTAN incluye a GMV en su lista de proveedores de ciberseguridad",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-01T19:33:51+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/09/01/6a970c75468aebe4478b45a5.html"
+      "fecha": "2026-09-02T13:13:39+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/09/02/6a9804e0468aeb8a568b4591.html"
     },
     {
-      "titular": "Los bancos de Wall Street exigen rebajas a los bufetes por la IA",
+      "titular": "Santander alcanza los 188.000 millones de euros en financiación verde",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-02T02:02:29+02:00",
-      "enlace": "https://www.expansion.com/economia/financial-times/2026/09/02/6a973884e5fdeacf3e8b4582.html"
+      "fecha": "2026-09-02T13:02:31+02:00",
+      "enlace": "https://www.expansion.com/economia-sostenible/2026/09/02/6a9801c9e5fdea23568b458a.html"
     },
     {
-      "titular": "La Primera de Expansión sobre Mahou, Heineken, Damm, BBVA y Wall Street",
+      "titular": "Estos son los días festivos de 2026 que quedan tras las vacaciones de verano: fines de semana largos y puentes",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-02T07:08:56+02:00",
-      "enlace": "https://www.expansion.com/podcasts/la-primera-de-expansion/2026/09/02/6a97a9bae5fdea833a8b45a0.html"
-    },
-    {
-      "titular": "La prima de riesgo de Francia sobre España bate su récord histórico",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-01T20:30:51+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/09/01/6a96f9efe5fdea98458b458c.html"
-    },
-    {
-      "titular": "Cómo entender la actual paradoja de los bonos y las acciones",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-02T02:02:30+02:00",
-      "enlace": "https://www.expansion.com/economia/financial-times/2026/09/02/6a971422e5fdea64518b4580.html"
-    },
-    {
-      "titular": "Trece valores para poner en el radar en septiembre",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-02T02:02:32+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/09/02/6a96bffce5fdea40098b456d.html"
+      "fecha": "2026-09-02T13:01:22+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/09/02/6a97e0cb468aeb3f588b4581.html"
     }
   ],
   "salud": {
@@ -78,16 +78,16 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 20,
+    "antiguedad_minima_min": 12,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 68,
+        "items": 74,
         "error": null,
-        "antiguedad_min": 20,
-        "descartados_por_gancho": 1
+        "antiguedad_min": 12,
+        "descartados_por_gancho": 0
       },
       {
         "medio": "Cinco Días",
