@@ -2,61 +2,62 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-09-03T15:43:50+02:00",
+  "generado": "2026-09-03T19:26:30+02:00",
   "titulares": [
+    {
+      "titular": "Perelló se planta ante Marlaska por sus quejas sobre Tardón: le recuerda que no puede censurar a los jueces",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-03T19:09:36+02:00",
+      "enlace": "https://www.abc.es/espana/marlaska-envia-carta-cgpj-protestar-juez-tardon-20260903164902-nt.html"
+    },
+    {
+      "titular": "El ataque a dos fabricantes de armas en Múnich desata una nueva alarma de sabotaje ruso",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-03T19:06:38+02:00",
+      "enlace": "https://www.abc.es/internacional/ataque-dos-fabricantes-armas-munich-desata-nueva-20260903115913-nt.html"
+    },
     {
       "titular": "Muere a los 92 años Gloria Steinem, la gran impulsora del feminismo moderno",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-03T15:34:46+02:00",
+      "fecha": "2026-09-03T19:05:14+02:00",
       "enlace": "https://elpais.com/sociedad/2026-09-03/muere-gloria-steinem-a-los-92-anos.html"
     },
     {
-      "titular": "‘Rueda la letra’ tendrá cuatro famosos, prueba musical y duelo inicial, pero sin decir “pasapalabra”: “Las comparaciones son inevitables”",
+      "titular": "Los grandes chatbots de inteligencia artificial sufren una caída global y dejan de funcionar",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-03T15:33:16+02:00",
-      "enlace": "https://elpais.com/television/2026-09-03/rueda-la-letra-tendra-cuatro-famosos-prueba-musical-y-duelo-inicial-pero-sin-decir-pasapalabra-las-comparaciones-son-inevitables.html"
+      "fecha": "2026-09-03T19:03:16+02:00",
+      "enlace": "https://elpais.com/tecnologia/2026-09-03/chatgpt-grok-y-claude-sufren-una-caida-y-dejan-de-funcionar.html"
     },
     {
-      "titular": "EE.UU. escolta un récord de buques a través de Ormuz, pero sigue lejos de controlar el estrecho",
+      "titular": "Hallan los restos óseos de una bebé dentro de una casa en Santa Bàrbara (Tarragona)",
+      "medios": [
+        "La Vanguardia",
+        "ABC"
+      ],
+      "consenso": 2,
+      "fecha": "2026-09-03T18:41:53+02:00",
+      "enlace": "https://www.abc.es/espana/cataluna/hallan-restos-oseos-bebe-dentro-casa-santa-20260903182513-nt.html"
+    },
+    {
+      "titular": "Así es 'El problema final', la adaptación del Sherlock Holmes de Pérez-Reverte",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-03T15:14:33+02:00",
-      "enlace": "https://www.lavanguardia.com/internacional/20260903/11626424/ee-uu-escolta-record-buques-traves-ormuz-sigue-lejos-controlar-estrecho.html"
-    },
-    {
-      "titular": "Sánchez se enroca en proteger a Marruecos, pero se ve obligado a matizar su defensa",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-03T15:12:38+02:00",
-      "enlace": "https://www.abc.es/espana/sanchez-enroca-proteccion-marruecos-obligado-matizar-defensa-20260903101306-nt.html"
-    },
-    {
-      "titular": "Volkswagen planea terminar con la marca Seat antes de 2029 para reforzar Cupra",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-03T15:11:13+02:00",
-      "enlace": "https://www.abc.es/economia/volkswagen-planea-terminar-marca-seat-2029-20260903123508-nt.html"
-    },
-    {
-      "titular": "El TSJM archiva las diligencias contra el juez Peinado, a las puertas de su jubilación",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-03T15:02:06+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20260903/11626421/tsjm-archiva-diligencias-juez-peinado-puerta-jubilacion.html"
+      "fecha": "2026-09-03T18:15:36+02:00",
+      "enlace": "https://www.lavanguardia.com/series/20260903/11626570/el-problema-final-trailer-adaptacion-perez-reverte-netflix.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -74,7 +75,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 9,
+    "antiguedad_minima_min": 16,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +83,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2227118,
+        "antiguedad_min": 2227341,
         "descartados_por_gancho": 0
       },
       {
@@ -97,28 +98,28 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 140,
+        "items": 144,
         "error": null,
-        "antiguedad_min": 9,
-        "descartados_por_gancho": 8
+        "antiguedad_min": 21,
+        "descartados_por_gancho": 5
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 126,
+        "items": 128,
         "error": null,
-        "antiguedad_min": 29,
+        "antiguedad_min": 70,
         "descartados_por_gancho": 13
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 23,
+        "items": 24,
         "error": null,
-        "antiguedad_min": 31,
-        "descartados_por_gancho": 2
+        "antiguedad_min": 16,
+        "descartados_por_gancho": 1
       }
     ]
   }

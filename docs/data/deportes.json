@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-09-03T15:43:55+02:00",
+  "generado": "2026-09-03T19:26:34+02:00",
   "titulares": [
     {
-      "titular": "\"Los rodajes largos no entrenan solo las piernas y el sistema cardiovascular; también el estómago\"",
+      "titular": "Digne entra en la comparación del actual PSG con el Barça de Luis Enrique",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-03T15:13:02+02:00",
-      "enlace": "https://www.mundodeportivo.com/running/20260903/1004222949/patrick-hayes-experto-maraton-rodajes-largos-no-entrenan-piernas-sistema-cardiovascular-entrenan-estomago-procesar-combustible-carrera.html"
+      "fecha": "2026-09-03T18:58:23+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260903/1004223036/digne-compara-actual-psg-barca-luis-enrique.html"
     },
     {
-      "titular": "Dura crítica del entrenador del Rayo por el veto al estadio",
+      "titular": "Sixto Miguel Serrano: “Muchos me reconocen más por el NBA 2K que por mis 40 años en la tele”",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-03T15:11:08+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/rayo-vallecano/20260903/1004222950/dura-critica-entrenador-rayo-veto-estadio.html"
+      "fecha": "2026-09-03T18:56:33+02:00",
+      "enlace": "https://www.mundodeportivo.com/baloncesto/nba/20260903/1004223045/sixto-miguel-serrano-me-reconocen-nba-2k-mis-40-anos-tele.html"
     },
     {
       "titular": "Bombazo: Messi se retira de la selección argentina",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/motor/formula1/gp-italia/2026/08/31/lando-norris-cree-deberia-ganar-verstappen-hamilton.html"
     },
     {
-      "titular": "David Fernández pone una nota \"súper alta\" a la plantilla del Real Oviedo y evita hablar de la salida de Ilic: \"Le deseamos lo mejor\"",
+      "titular": "Omrzel, el nuevo Pogacar, triunfa en la Vuelta ante un Mas desencadenado",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/oviedo/david-fernandez-pone-nota-super-133917517"
+      "enlace": "https://www.sport.es/es/noticias/ciclismo/la-vuelta/omrzel-nuevo-pogacar-triunfa-vuelta-133922944"
     },
     {
-      "titular": "Elias Valtonen señala lo que espera Xavi Albert de él en el Valencia Basket",
+      "titular": "Así se gestó el fichaje de Jesse Bisiwu por el Barça",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/baloncesto/elias-valtonen-senala-espera-xavi-133917521"
+      "enlace": "https://www.sport.es/es/noticias/barca/gesto-fichaje-jesse-bisiwu-barca-133910381"
     },
     {
-      "titular": "Cuatro ilustres exazulgranas que continúan sin equipo",
+      "titular": "Jakob Omrzel, el esloveno más joven en ganar en una gran vuelta superando a Pogacar",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-03T15:08:39+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260903/1004222699/exazulgranas-continuan-equipo.html"
+      "fecha": "2026-09-03T18:53:40+02:00",
+      "enlace": "https://www.mundodeportivo.com/ciclismo/vuelta-espana/20260903/1004223043/jakob-omrzel-esloveno-joven-ganar-gran-vuelta-superando-pogacar.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 30,
+    "antiguedad_minima_min": 28,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 61,
         "error": null,
-        "antiguedad_min": 4231,
+        "antiguedad_min": 4454,
         "descartados_por_gancho": 10
       },
       {
@@ -98,10 +98,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 141,
+        "items": 144,
         "error": null,
-        "antiguedad_min": 30,
-        "descartados_por_gancho": 4
+        "antiguedad_min": 28,
+        "descartados_por_gancho": 3
       },
       {
         "medio": "Sport",
