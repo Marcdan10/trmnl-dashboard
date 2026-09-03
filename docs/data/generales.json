@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-09-03T06:52:13+02:00",
+  "generado": "2026-09-03T11:22:55+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -14,31 +14,31 @@
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
     },
     {
-      "titular": "El Gobierno mantiene que no tiene pruebas de que Marruecos organizara el salto tras la crisis por la ocultación del informe policial",
+      "titular": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Feijóo, a Sánchez: “Dimita por incompetente o por cómplice”",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-03T05:30:01+02:00",
-      "enlace": "https://elpais.com/espana/2026-09-03/el-gobierno-mantiene-que-no-tiene-pruebas-de-que-marruecos-organizara-el-salto-tras-la-crisis-por-la-ocultacion-del-informe-policial.html"
+      "fecha": "2026-09-03T11:19:26+02:00",
+      "enlace": "https://elpais.com/espana/2026-09-03/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html"
     },
     {
-      "titular": "Sánchez acude al Congreso bajo el efecto del informe que ve connivencia marroquí en el asalto a Ceuta",
+      "titular": "Sánchez: “Nadie ha aportado pruebas de que Marruecos planificara o ejecutara la entrada masiva en Ceuta”",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-03T06:00:00+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20260903/11625847/policia-abre-brecha-gobierno-sobre-papel-marruecos-ceuta.html"
+      "fecha": "2026-09-03T10:07:52+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20260903/11625587/pedro-sanchez-congreso-diputados-comparecencia-crisis-migratoria-ceuta-ultima-hora-hoy-en-directo.html"
     },
     {
-      "titular": "Séneca: «No es que tengamos poco tiempo para vivir, sino que desperdiciamos mucho»",
+      "titular": "'El ser querido', 'La bola negra' y 'Los domingos', finalistas para representar a España en los Oscar",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-03T05:00:03+02:00",
-      "enlace": "https://www.abc.es/recreo/seneca-filosofo-romano-poco-tiempo-vivir-desperdiciamos-20260903050000-nt.html"
+      "fecha": "2026-09-03T11:17:27+02:00",
+      "enlace": "https://www.abc.es/play/cine/noticias/alauda-ruiz-azua-rodrigo-sorogoyen-pedro-almodovar-20260903103217-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -50,22 +50,22 @@
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
     },
     {
-      "titular": "Las claves del informe que Marlaska no conocía y que puede suponer el inicio de una investigación por lo sucedido en Ceuta",
+      "titular": "Sánchez: “Si existieran pruebas contra Marruecos actuaríamos, pero no hay evidencias sólidas”",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-03T05:45:01+02:00",
-      "enlace": "https://elpais.com/espana/2026-09-03/las-claves-del-informe-que-marlaska-no-conocia-y-que-puede-suponer-el-inicio-de-una-investigacion-por-lo-sucedido-en-ceuta.html"
+      "fecha": "2026-09-03T10:23:23+02:00",
+      "enlace": "https://elpais.com/espana/2026-09-03/sanchez-si-existieran-pruebas-contra-marruecos-actuariamos-pero-no-hay-evidencias-solidas.html"
     },
     {
-      "titular": "“Organizadores” sobre el terreno: varones, con ropa discreta y nada de chancletas",
+      "titular": "Sánchez insiste en desvincular a Marruecos de la crisis de Ceuta y revela que se convocó a su embajadora",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-02T20:00:13+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20260902/11625812/documento-organizadores-terreno-presuntos-agentes-marroquies-encubiertos.html"
+      "fecha": "2026-09-03T09:32:55+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20260903/11626118/sanchez-defiende-espanolidad-ceuta-melilla-final-tiempos.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 7,
+    "antiguedad_minima_min": 3,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2226587,
+        "antiguedad_min": 2226857,
         "descartados_por_gancho": 0
       },
       {
@@ -97,19 +97,19 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 131,
+        "items": 141,
         "error": null,
-        "antiguedad_min": 7,
-        "descartados_por_gancho": 10
+        "antiguedad_min": 3,
+        "descartados_por_gancho": 8
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 127,
+        "items": 128,
         "error": null,
-        "antiguedad_min": 34,
-        "descartados_por_gancho": 12
+        "antiguedad_min": 74,
+        "descartados_por_gancho": 14
       },
       {
         "medio": "ABC",
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 112,
+        "antiguedad_min": 5,
         "descartados_por_gancho": 0
       }
     ]
