@@ -1,63 +1,9 @@
 {
   "pantalla": "generales",
   "titulo": "Titulares",
-  "modo": "ultimas",
-  "generado": "2026-09-03T22:00:53+02:00",
+  "modo": "portadas",
+  "generado": "2026-09-04T00:41:23+02:00",
   "titulares": [
-    {
-      "titular": "Marcos Llorente anuncia su retirada de la selección española",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-03T21:44:16+02:00",
-      "enlace": "https://elpais.com/deportes/futbol/2026-09-03/marcos-llorente-anuncia-su-retirada-de-la-seleccion-espanola.html"
-    },
-    {
-      "titular": "Ceuta, no hay más tiempo que perder",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-03T21:43:39+02:00",
-      "enlace": "https://elpais.com/opinion/2026-09-03/ceuta-no-hay-mas-tiempo-que-perder.html"
-    },
-    {
-      "titular": "Policías desmienten a Sánchez: «Se nos dejó al pie de los caballos»",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-03T21:23:13+02:00",
-      "enlace": "https://www.abc.es/espana/policias-desmienten-sanchez-dejo-pie-caballos-20260903105112-nt.html"
-    },
-    {
-      "titular": "De calzoncillos enterrados a urinarios sin salpicaduras: los IgNobel premian la ciencia más insólita",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-03T21:23:10+02:00",
-      "enlace": "https://www.abc.es/ciencia/calzoncillos-enterrados-urinarios-salpicaduras-ignobel-premian-ciencia-20260903210424-nt.html"
-    },
-    {
-      "titular": "Cinco nuevos positivos de peste porcina africana alejan la reapertura de Collserola",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-03T20:52:40+02:00",
-      "enlace": "https://www.lavanguardia.com/vida/20260903/11626656/cinco-nuevos-positivos-peste-porcina-africana-alejan-reapertura-collserola.html"
-    },
-    {
-      "titular": "La biblioteca de la playa de Castelldefels cierra la temporada con casi 5.000 usuarios",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-03T20:22:07+02:00",
-      "enlace": "https://www.lavanguardia.com/local/baix-llobregat/20260903/11626650/biblioteca-playa-castelldefels-cierra-temporada-5-000-usuarios.html"
-    },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
       "medios": [
@@ -66,6 +12,60 @@
       "consenso": 1,
       "fecha": "2022-06-10T01:05:00+02:00",
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
+    },
+    {
+      "titular": "Sánchez da un giro y avisa de que si encuentra pruebas contra Marruecos actuará",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-03T10:23:23+02:00",
+      "enlace": "https://elpais.com/espana/2026-09-03/sanchez-si-existieran-pruebas-contra-marruecos-actuariamos-pero-no-hay-evidencias-solidas.html"
+    },
+    {
+      "titular": "Sánchez desvincula a Marruecos del asalto a Ceuta pero promete “contundencia” si recibe pruebas",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-03T09:32:55+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20260903/11626118/sanchez-defiende-espanolidad-ceuta-melilla-final-tiempos.html"
+    },
+    {
+      "titular": "Volkswagen aprueba un ajuste histórico y mantiene en el aire el futuro de Seat como marca",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-03T23:26:27+02:00",
+      "enlace": "https://www.abc.es/economia/volkswagen-aprueba-50000-nuevos-despidos-plan-reestructuracion-20260903214902-nt.html"
+    },
+    {
+      "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
+      "medios": [
+        "RTVE"
+      ],
+      "consenso": 1,
+      "fecha": "2022-06-10T00:03:00+02:00",
+      "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
+    },
+    {
+      "titular": "El Gobierno convocó a la embajadora de Marruecos por las “declaraciones inaceptables” sobre Ceuta y Melilla de dos ministros",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-03T16:16:20+02:00",
+      "enlace": "https://elpais.com/espana/2026-09-03/el-gobierno-convoco-a-la-embajadora-de-marruecos-por-las-declaraciones-inaceptables-sobre-ceuta-y-melilla-de-dos-ministros-marroquies.html"
+    },
+    {
+      "titular": "Marruecos informa al Gobierno de que está investigando la entrada masiva de Ceuta",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-03T16:02:49+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20260903/11626460/marruecos-informa-gobierno-esta-investigando-entrada-masiva-ceuta.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 16,
+    "antiguedad_minima_min": 11,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2227495,
+        "antiguedad_min": 2227656,
         "descartados_por_gancho": 0
       },
       {
@@ -90,7 +90,7 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 500",
+        "error": "HTTP 429",
         "antiguedad_min": null
       },
       {
@@ -99,16 +99,16 @@
         "ok": true,
         "items": 147,
         "error": null,
-        "antiguedad_min": 16,
+        "antiguedad_min": 11,
         "descartados_por_gancho": 5
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 128,
+        "items": 127,
         "error": null,
-        "antiguedad_min": 68,
+        "antiguedad_min": 36,
         "descartados_por_gancho": 13
       },
       {
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 24,
         "error": null,
-        "antiguedad_min": 37,
+        "antiguedad_min": 74,
         "descartados_por_gancho": 1
       }
     ]

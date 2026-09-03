@@ -1,31 +1,7 @@
 {
   "ciudad": "Barcelona",
-  "generado": "2026-09-03T20:01:02",
+  "generado": "2026-09-03T22:41:34",
   "horas": [
-    {
-      "hora": "21",
-      "temp": 27,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "luna"
-    },
-    {
-      "hora": "22",
-      "temp": 26,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "luna"
-    },
-    {
-      "hora": "23",
-      "temp": 26,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "luna"
-    },
     {
       "hora": "00",
       "temp": 26,
@@ -52,7 +28,7 @@
     },
     {
       "hora": "03",
-      "temp": 25,
+      "temp": 24,
       "prob": 0,
       "mm": 0,
       "mostrar_prob": false,
@@ -92,7 +68,31 @@
     },
     {
       "hora": "08",
-      "temp": 24,
+      "temp": 23,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "sol"
+    },
+    {
+      "hora": "09",
+      "temp": 25,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "sol"
+    },
+    {
+      "hora": "10",
+      "temp": 27,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "sol"
+    },
+    {
+      "hora": "11",
+      "temp": 29,
       "prob": 0,
       "mm": 0,
       "mostrar_prob": false,
@@ -103,12 +103,12 @@
     {
       "etiqueta": "vie 4",
       "max": 31,
-      "min": 24,
+      "min": 23,
       "prob": 0,
       "mm": 0,
       "mostrar_prob": false,
       "destacar": false,
-      "icono": "nube"
+      "icono": "sol"
     },
     {
       "etiqueta": "sáb 5",
@@ -123,7 +123,7 @@
     {
       "etiqueta": "dom 6",
       "max": 32,
-      "min": 25,
+      "min": 26,
       "prob": 0,
       "mm": 0,
       "mostrar_prob": false,
@@ -133,7 +133,7 @@
     {
       "etiqueta": "lun 7",
       "max": 29,
-      "min": 24,
+      "min": 25,
       "prob": 0,
       "mm": 0,
       "mostrar_prob": false,
@@ -142,7 +142,7 @@
     },
     {
       "etiqueta": "mar 8",
-      "max": 29,
+      "max": 28,
       "min": 22,
       "prob": 36,
       "mm": 4.2,

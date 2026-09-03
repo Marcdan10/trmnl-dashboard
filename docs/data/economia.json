@@ -1,71 +1,71 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "ultimas",
-  "generado": "2026-09-03T22:00:55+02:00",
+  "modo": "portadas",
+  "generado": "2026-09-04T00:41:28+02:00",
   "titulares": [
+    {
+      "titular": "Volkswagen aprueba el plan de ajuste: recortará 50.000 empleos y deja en el aire cuatro plantas alemanas",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-03T21:54:58+02:00",
+      "enlace": "https://www.expansion.com/empresas/motor/2026/09/03/6a99cfffe5fdeabb608b457c.html"
+    },
+    {
+      "titular": "Quiere cerrar Seat en 2029 para centrarse en Cupra",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-03T12:34:58+02:00",
+      "enlace": "https://www.expansion.com/empresas/motor/2026/09/03/6a994d13e5fdea064f8b4577.html"
+    },
     {
       "titular": "OpenAI lanza Astra, su modelo más potente y controvertido hasta la fecha",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-03T21:30:34+02:00",
+      "fecha": "2026-09-03T21:56:45+02:00",
       "enlace": "https://www.expansion.com/economia-digital/companias/2026/09/03/6a99ca67e5fdea8d438b4582.html"
     },
     {
-      "titular": "AmRest (La Tagliatella) dispara sus pérdidas hasta los 13,8 millones",
+      "titular": "El banco central de Países Bajos retira lingotes de oro de Nueva York por la 'inestabilidad geopolítica'",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-03T21:08:03+02:00",
-      "enlace": "https://www.expansion.com/empresas/distribucion/2026/09/03/6a99c58a468aebc5458b45b8.html"
+      "fecha": "2026-09-03T14:52:55+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/09/03/6a996d9fe5fdea064f8b4586.html"
     },
     {
-      "titular": "La industria alemana pide volver a la jornada de 40 horas",
+      "titular": "Trump dice que la crisis de Ceuta \"es triste de ver\" y califica a España como un \"país arruinado\"",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-03T20:44:01+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/09/03/6a99bfe3e5fdea1e628b4584.html"
+      "fecha": "2026-09-03T16:15:57+02:00",
+      "enlace": "https://www.expansion.com/economia/politica/2026/09/03/6a9980fb468aebdf7b8b45c7.html"
     },
     {
-      "titular": "Olot Meats Group baja ventas y beneficios tras la irrupción de la PPA",
+      "titular": "Cómo va a reaccionar la Bolsa si la Fed inicia un ciclo alcista de los tipos",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-03T20:20:05+02:00",
-      "enlace": "https://www.expansion.com/catalunya/2026/09/03/6a99b94ee5fdea3d238b458c.html"
+      "fecha": "2026-09-02T20:32:06+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/09/02/6a984030e5fdeaf10a8b4582.html"
     },
     {
-      "titular": "EM&E mantendrá el sistema de vigilancia de costas por 62 millones",
+      "titular": "Once valores con más del 80% de consejos de compra y potencial alcista",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-03T19:32:11+02:00",
-      "enlace": "https://www.expansion.com/empresas/industria/2026/09/03/6a99aeaa468aebc5458b45ae.html"
-    },
-    {
-      "titular": "El bitcoin supera los 81.000 dólares al subir casi un 5%",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-03T19:17:49+02:00",
-      "enlace": "https://www.expansion.com/mercados/bitcoin/2026/09/03/6a99ab05468aeb2c7a8b457f.html"
-    },
-    {
-      "titular": "Las baterías de los coches eléctricos duran más de lo que temían los conductores",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-03T19:16:06+02:00",
-      "enlace": "https://www.expansion.com/economia-sostenible/2026/09/03/6a99a8c2e5fdeaee468b457c.html"
+      "fecha": "2026-09-03T00:25:57+02:00",
+      "enlace": "https://www.expansion.com/inversion/2026/09/03/6a985e10468aebdd638b4579.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 30,
+    "antiguedad_minima_min": 134,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 74,
+        "items": 75,
         "error": null,
-        "antiguedad_min": 30,
+        "antiguedad_min": 134,
         "descartados_por_gancho": 0
       },
       {
