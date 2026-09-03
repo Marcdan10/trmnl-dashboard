@@ -2,16 +2,61 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "portadas",
-  "generado": "2026-09-03T00:14:57+02:00",
+  "generado": "2026-09-03T02:27:22+02:00",
   "titulares": [
     {
-      "titular": "Clamor masivo en España contra la invasión de Ceuta",
+      "titular": "Bankinter refuerza su banca privada para crecer más",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-02T20:45:02+02:00",
-      "enlace": "https://www.expansion.com/economia/politica/2026/09/02/6a986acd468aebdd638b4584.html"
+      "fecha": "2026-09-03T02:02:36+02:00",
+      "enlace": "https://www.expansion.com/empresas/banca/2026/09/03/6a988932468aeb1e468b4583.html"
+    },
+    {
+      "titular": "Los bancos españoles reclaman a los bufetes rebajas de tarifas por la IA",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-03T02:02:37+02:00",
+      "enlace": "https://www.expansion.com/empresas/banca/2026/09/03/6a989260468aeb524c8b456f.html"
+    },
+    {
+      "titular": "Cómo va a reaccionar la Bolsa si la Fed inicia un ciclo alcista de los tipos",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-02T20:32:06+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/09/02/6a984030e5fdeaf10a8b4582.html"
+    },
+    {
+      "titular": "El Gobierno pedirá los últimos 26.000 millones de fondos europeos",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-03T00:19:17+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/09/03/6a98985fe5fdea1c758b456d.html"
+    },
+    {
+      "titular": "Anthropic busca hacer historia en Bolsa en plena euforia de la IA",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-03T00:21:50+02:00",
+      "enlace": "https://www.expansion.com/economia-digital/companias/2026/09/03/6a983c25468aeb8a568b459b.html"
+    },
+    {
+      "titular": "Once valores con más del 80% de consejos de compra y potencial alcista",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-03T00:25:57+02:00",
+      "enlace": "https://www.expansion.com/inversion/2026/09/03/6a985e10468aebdd638b4579.html"
     },
     {
       "titular": "El orden mundial estadounidense se está desmoronando",
@@ -21,51 +66,6 @@
       "consenso": 1,
       "fecha": "2026-09-02T13:59:33+02:00",
       "enlace": "https://www.expansion.com/economia/financial-times/2026/09/02/6a980f21e5fdeae3478b4573.html"
-    },
-    {
-      "titular": "El Gobierno confirma una nueva subida del salario mínimo en 2027 para compensar el alza del IPC",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-02T17:05:50+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/09/02/6a97f59c468aebd73c8b4592.html"
-    },
-    {
-      "titular": "La prima de riesgo de Francia sobre España bate su récord histórico",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-01T20:30:51+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/09/01/6a96f9efe5fdea98458b458c.html"
-    },
-    {
-      "titular": "Telefónica cierra la venta de la sede de Gran Vía al empresario Tomás Olivo",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-02T18:48:55+02:00",
-      "enlace": "https://www.expansion.com/empresas/tecnologia/2026/09/02/6a984d54e5fdeaed0c8b457a.html"
-    },
-    {
-      "titular": "Lottomatica absorbe a Cirsa para crear un gigante del juego en una operación de 13.200 millones",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-02T14:21:17+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/09/02/6a97c1c8468aeb967c8b4582.html"
-    },
-    {
-      "titular": "Renfe llama a capítulo a Talgo tras detectar nuevas averías en los AVE",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-02T21:29:24+02:00",
-      "enlace": "https://www.expansion.com/empresas/transporte/2026/09/02/6a98766e468aeb694e8b45af.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 152,
+    "antiguedad_minima_min": 24,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 72,
+        "items": 66,
         "error": null,
-        "antiguedad_min": 152,
+        "antiguedad_min": 24,
         "descartados_por_gancho": 0
       },
       {

@@ -2,7 +2,7 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "portadas",
-  "generado": "2026-09-03T00:15:25+02:00",
+  "generado": "2026-09-03T02:27:32+02:00",
   "titulares": [
     {
       "titular": "‘Todos estamos con Ceuta’, la farmacia da su apoyo a la población ante la crisis migratoria",
@@ -12,6 +12,15 @@
       "consenso": 1,
       "fecha": "2026-09-02T21:22:51+02:00",
       "enlace": "https://diariofarma.com/2026/09/02/todos-estamos-con-ceuta-la-farmacia-da-su-apoyo-a-la-poblacion-ante-la-crisis-migratoria"
+    },
+    {
+      "titular": "La Comisión SANT pide incentivos específicos para desarrollar medicamentos contra el cáncer infantil",
+      "medios": [
+        "El Global"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-02T17:04:45+02:00",
+      "enlace": "https://elglobalfarma.com/politica/comision-sant-incentivos-especificos-medicamentos-cancer-infantil/"
     },
     {
       "titular": "Una Ceuta en emergencia celebra su día grande sostenida por los profesionales de la salud",
@@ -32,6 +41,15 @@
       "enlace": "https://diariofarma.com/2026/09/02/la-aemps-retira-22-productos-adelgazantes-presentado-como-naturales-que-ocultaban-en-su-etiquetado-sibutramina"
     },
     {
+      "titular": "La FIP actualiza su política sobre seguridad del paciente para poner en valor el papel de los farmacéuticos",
+      "medios": [
+        "El Global"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-02T15:33:19+02:00",
+      "enlace": "https://elglobalfarma.com/farmacia/fip-politica-seguridad-paciente-papel-farmaceuticos/"
+    },
+    {
       "titular": "Las CCAA rechazan la aprobación del Estatuto Marco: \"No garantiza las mejoras que recoge\"",
       "medios": [
         "Redacción Médica"
@@ -48,36 +66,17 @@
       "consenso": 1,
       "fecha": "2026-09-02T18:42:47+02:00",
       "enlace": "https://diariofarma.com/2026/09/02/el-parlamento-europeo-exige-una-ley-comunitaria-para-proteger-la-salud-mental-laboral"
-    },
-    {
-      "titular": "La Ciencia no se somete a las urnas",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-02T13:00:44+02:00",
-      "enlace": "https://www.redaccionmedica.com/opinion/20260902/la-ciencia-no-se-somete-las-urnas/349987_14.html"
-    },
-    {
-      "titular": "Europa busca su respuesta frente a EE. UU. y China en el desarrollo de fármacos con IA",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-02T18:32:04+02:00",
-      "enlace": "https://diariofarma.com/2026/09/02/europa-busca-su-respuesta-frente-a-ee-uu-y-china-en-el-desarrollo-de-farmacos-con-ia"
     }
   ],
   "salud": {
     "feeds_totales": 7,
-    "feeds_ok": 3,
+    "feeds_ok": 4,
     "feeds_caidos": [
-      "El Global",
       "PMFarma",
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 172,
+    "antiguedad_minima_min": 304,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -85,16 +84,17 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 172,
+        "antiguedad_min": 304,
         "descartados_por_gancho": 0
       },
       {
         "medio": "El Global",
         "url": "https://elglobal.es/feed/",
-        "ok": false,
-        "items": 0,
-        "error": "URLError: <urlopen error timed out>",
-        "antiguedad_min": null
+        "ok": true,
+        "items": 10,
+        "error": null,
+        "antiguedad_min": 562,
+        "descartados_por_gancho": 0
       },
       {
         "medio": "Redacción Médica",
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 321,
+        "antiguedad_min": 453,
         "descartados_por_gancho": 0
       },
       {

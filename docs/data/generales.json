@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-09-03T00:14:53+02:00",
+  "generado": "2026-09-03T02:27:18+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -23,7 +23,7 @@
       "enlace": "https://elpais.com/espana/2026-09-02/tres-escritos-de-mandos-policiales-a-interior-aseguran-que-ningun-informe-atribuye-la-autoria-del-asalto-a-ceuta-a-ningun-gobierno.html"
     },
     {
-      "titular": "El informe policial señala que gendarmes marroquíes “guiaron” el asalto de migrantes a Ceuta",
+      "titular": "La Policía ve connivencia marroquí en un asalto planificado al detalle",
       "medios": [
         "La Vanguardia"
       ],
@@ -32,13 +32,13 @@
       "enlace": "https://www.lavanguardia.com/politica/20260902/11625773/informe-policial-senala-permisividad-policias-marroquies-guiaron-cruce-masivo-ceuta.html"
     },
     {
-      "titular": "Jódar se queda sin gasolina: se derrumba en Nueva York ante un desconocido",
+      "titular": "España se echa a la calle para defender a Ceuta",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-03T00:01:19+02:00",
-      "enlace": "https://www.abc.es/deportes/tenis/rafa-jodar-cae-primera-ronda-open-20260902230700-nt.html"
+      "fecha": "2026-09-03T01:55:02+02:00",
+      "enlace": "https://www.abc.es/espana/espana-toma-calle-favor-ceuta-sanchez-20260902212410-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 9,
+    "antiguedad_minima_min": 32,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2226189,
+        "antiguedad_min": 2226322,
         "descartados_por_gancho": 0
       },
       {
@@ -99,26 +99,26 @@
         "ok": true,
         "items": 146,
         "error": null,
-        "antiguedad_min": 75,
+        "antiguedad_min": 109,
         "descartados_por_gancho": 3
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 134,
+        "items": 128,
         "error": null,
-        "antiguedad_min": 9,
-        "descartados_por_gancho": 12
+        "antiguedad_min": 117,
+        "descartados_por_gancho": 10
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 24,
+        "items": 25,
         "error": null,
-        "antiguedad_min": 13,
-        "descartados_por_gancho": 1
+        "antiguedad_min": 32,
+        "descartados_por_gancho": 0
       }
     ]
   }

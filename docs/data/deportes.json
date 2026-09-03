@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-09-03T00:15:00+02:00",
+  "generado": "2026-09-03T02:27:25+02:00",
   "titulares": [
     {
-      "titular": "Alarma Jesse Bisiwu: ¡deja lesionado la final de la Copa Catalunya!",
+      "titular": "Un Barça con mucho futuro: el equipo más joven de la Liga",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-02T20:49:16+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260902/1004222739/alarma-jesse-bisiwu-deja-lesionado-final-copa-catalunya.html"
+      "fecha": "2026-09-03T00:30:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260903/1004222702/barca-equipo-joven-liga.html"
     },
     {
-      "titular": "Fàbregas, mejor entrenador de la Serie A, y Nico Paz, mejor jugador joven",
+      "titular": "Jódar y su momento más tenso con un periodista: \"No tiene ningún sentido\"",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/futbol-internacional/fabregas-mejor-entrenador-serie-nico-133894882"
+      "enlace": "https://www.sport.es/es/noticias/tenis/jodar-momento-tenso-periodista-sentido-133895561"
     },
     {
       "titular": "Bombazo: Messi se retira de la selección argentina",
@@ -32,22 +32,22 @@
       "enlace": "https://www.marca.com/futbol/2026/08/31/bombazo-messi-retira-seleccion-argentina.html"
     },
     {
-      "titular": "1-2: La lesión de Bisiwu eclipsa la Copa Catalunya",
+      "titular": "Los dorsales del Barça para la temporada 2026-2027",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-02T23:00:35+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260902/1004222765/1-2-lesion-bisiwu-eclipsa-copa-catalunya.html"
+      "fecha": "2026-09-02T20:03:52+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260902/1004222723/dorsales-barca-temporada-2026-2027.html"
     },
     {
-      "titular": "Shelton manda un serio aviso y se postula como gran candidato al US Open",
+      "titular": "La portada SPORT de hoy, jueves 03 de septiembre de 2026",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/tenis/shelton-manda-serio-aviso-postula-133893642"
+      "enlace": "https://www.sport.es/es/noticias/la-portada-de-sport/portada-sport-hoy-jueves-03-133895121"
     },
     {
       "titular": "Lando Norris y por qué cree que debería ganar lo que Verstappen y Hamilton",
@@ -59,13 +59,14 @@
       "enlace": "https://www.marca.com/motor/formula1/gp-italia/2026/08/31/lando-norris-cree-deberia-ganar-verstappen-hamilton.html"
     },
     {
-      "titular": "Lautaro: \"Lo que se decía del Barça era verdad\"",
+      "titular": "Alcaraz - Faria, en directo: segunda ronda del US Open 2026",
       "medios": [
-        "Mundo Deportivo"
+        "Mundo Deportivo",
+        "Sport"
       ],
-      "consenso": 1,
-      "fecha": "2026-09-02T22:45:18+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260902/1004222763/lautaro-decia-barca-verdad.html"
+      "consenso": 2,
+      "fecha": "2026-09-03T00:26:49+02:00",
+      "enlace": "https://www.mundodeportivo.com/tenis/open-usa/20260903/1004222050/alcaraz-faria-directo-us-open-2026-tenis-segunda-ronda.html"
     }
   ],
   "salud": {
@@ -74,7 +75,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 40,
+    "antiguedad_minima_min": 117,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +83,7 @@
         "ok": true,
         "items": 61,
         "error": null,
-        "antiguedad_min": 3302,
+        "antiguedad_min": 3434,
         "descartados_por_gancho": 10
       },
       {
@@ -98,16 +99,16 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 142,
+        "items": 143,
         "error": null,
-        "antiguedad_min": 40,
+        "antiguedad_min": 117,
         "descartados_por_gancho": 4
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 50,
+        "items": 49,
         "error": null,
         "antiguedad_min": null,
         "descartados_por_gancho": 0
