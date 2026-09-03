@@ -1,26 +1,26 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "portadas",
-  "generado": "2026-09-03T11:23:03+02:00",
+  "modo": "ultimas",
+  "generado": "2026-09-03T15:43:55+02:00",
   "titulares": [
     {
-      "titular": "Mourinho se pronuncia sobre el 'caso Julián Álvarez'",
+      "titular": "\"Los rodajes largos no entrenan solo las piernas y el sistema cardiovascular; también el estómago\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-03T10:25:24+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260903/1004222839/mourinho-julian-jugador-no-satisfecho-llega-1-septiembre-tienes-estarlo-no-no-juegas-enero.html"
+      "fecha": "2026-09-03T15:13:02+02:00",
+      "enlace": "https://www.mundodeportivo.com/running/20260903/1004222949/patrick-hayes-experto-maraton-rodajes-largos-no-entrenan-piernas-sistema-cardiovascular-entrenan-estomago-procesar-combustible-carrera.html"
     },
     {
-      "titular": "Alineación probable del Betis ante el Real Madrid: el primer gran reto antes de la Champions",
+      "titular": "Dura crítica del entrenador del Rayo por el veto al estadio",
       "medios": [
-        "Sport"
+        "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/betis/alineacion-probable-betis-real-madrid-133905291"
+      "fecha": "2026-09-03T15:11:08+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/rayo-vallecano/20260903/1004222950/dura-critica-entrenador-rayo-veto-estadio.html"
     },
     {
       "titular": "Bombazo: Messi se retira de la selección argentina",
@@ -32,24 +32,6 @@
       "enlace": "https://www.marca.com/futbol/2026/08/31/bombazo-messi-retira-seleccion-argentina.html"
     },
     {
-      "titular": "Un Barça con mucho futuro: el equipo más joven de la Liga",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-03T00:30:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260903/1004222702/barca-equipo-joven-liga.html"
-    },
-    {
-      "titular": "La tormenta perfecta que ha llevado al Deportivo a ser el gran animador del mercado: así dio un golpe encima de la mesa",
-      "medios": [
-        "Sport"
-      ],
-      "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/futbol/tormenta-perfecta-llevado-deportivo-gran-133905257"
-    },
-    {
       "titular": "Lando Norris y por qué cree que debería ganar lo que Verstappen y Hamilton",
       "medios": [
         "Marca"
@@ -59,14 +41,31 @@
       "enlace": "https://www.marca.com/motor/formula1/gp-italia/2026/08/31/lando-norris-cree-deberia-ganar-verstappen-hamilton.html"
     },
     {
-      "titular": "Mourinho, sobre Asencio: \"Todos cometemos errores, pero acumularlos es una cosa diferente\"",
+      "titular": "David Fernández pone una nota \"súper alta\" a la plantilla del Real Oviedo y evita hablar de la salida de Ilic: \"Le deseamos lo mejor\"",
       "medios": [
-        "Mundo Deportivo",
         "Sport"
       ],
-      "consenso": 2,
-      "fecha": "2026-09-03T10:48:14+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260903/1004222852/mourinho-sobre-asencio-todos-cometemos-errores-acumularlos-cosa-diferente.html"
+      "consenso": 1,
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/oviedo/david-fernandez-pone-nota-super-133917517"
+    },
+    {
+      "titular": "Elias Valtonen señala lo que espera Xavi Albert de él en el Valencia Basket",
+      "medios": [
+        "Sport"
+      ],
+      "consenso": 1,
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/baloncesto/elias-valtonen-senala-espera-xavi-133917521"
+    },
+    {
+      "titular": "Cuatro ilustres exazulgranas que continúan sin equipo",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-03T15:08:39+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260903/1004222699/exazulgranas-continuan-equipo.html"
     }
   ],
   "salud": {
@@ -75,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 34,
+    "antiguedad_minima_min": 30,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +82,7 @@
         "ok": true,
         "items": 61,
         "error": null,
-        "antiguedad_min": 3970,
+        "antiguedad_min": 4231,
         "descartados_por_gancho": 10
       },
       {
@@ -99,19 +98,19 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 134,
+        "items": 141,
         "error": null,
-        "antiguedad_min": 34,
+        "antiguedad_min": 30,
         "descartados_por_gancho": 4
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 47,
+        "items": 49,
         "error": null,
         "antiguedad_min": null,
-        "descartados_por_gancho": 2
+        "descartados_por_gancho": 0
       },
       {
         "medio": "NBA",

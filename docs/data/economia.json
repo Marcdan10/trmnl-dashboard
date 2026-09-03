@@ -1,62 +1,26 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "portadas",
-  "generado": "2026-09-03T11:22:59+02:00",
+  "modo": "ultimas",
+  "generado": "2026-09-03T15:43:53+02:00",
   "titulares": [
     {
-      "titular": "Bankinter refuerza su banca privada para crecer más",
+      "titular": "Cómo el libre comercio puede protegernos de El Niño",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-03T09:13:24+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/09/03/6a988932468aeb1e468b4583.html"
+      "fecha": "2026-09-03T15:36:00+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/09/03/6a997637468aeb82478b458d.html"
     },
     {
-      "titular": "Los bancos españoles reclaman a los bufetes rebajas de tarifas por la IA",
+      "titular": "El banco central de Países Bajos retira lingotes de oro de Nueva York por la 'inestabilidad geopolítica'",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-03T02:02:37+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/09/03/6a989260468aeb524c8b456f.html"
-    },
-    {
-      "titular": "Cómo va a reaccionar la Bolsa si la Fed inicia un ciclo alcista de los tipos",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-02T20:32:06+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/09/02/6a984030e5fdeaf10a8b4582.html"
-    },
-    {
-      "titular": "Coricelli negocia con UniCredit la deuda para comprar Deoleo",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-03T00:34:05+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/09/03/6a9875fee5fdeade5c8b4590.html"
-    },
-    {
-      "titular": "Anthropic busca hacer historia en Bolsa en plena euforia de la IA",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-03T00:21:50+02:00",
-      "enlace": "https://www.expansion.com/economia-digital/companias/2026/09/03/6a983c25468aeb8a568b459b.html"
-    },
-    {
-      "titular": "Once valores con más del 80% de consejos de compra y potencial alcista",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-03T00:25:57+02:00",
-      "enlace": "https://www.expansion.com/inversion/2026/09/03/6a985e10468aebdd638b4579.html"
+      "fecha": "2026-09-03T14:52:55+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/09/03/6a996d9fe5fdea064f8b4586.html"
     },
     {
       "titular": "El Ibex busca una tregua tras tres días de caídas",
@@ -64,8 +28,44 @@
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-03T09:55:23+02:00",
+      "fecha": "2026-09-03T14:45:12+02:00",
       "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/09/03/6a9909b7468aeba34a8b458a.html"
+    },
+    {
+      "titular": "BME incorpora a Alicia Reyes a su consejo como independiente",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-03T14:45:03+02:00",
+      "enlace": "https://www.expansion.com/inversion/2026/09/03/6a995cffe5fdeae3478b45a6.html"
+    },
+    {
+      "titular": "Nvidia compra Hugging Face por 11.900 millones de dólares",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-03T14:23:55+02:00",
+      "enlace": "https://www.expansion.com/economia-digital/companias/2026/09/03/6a996622468aeb82478b4586.html"
+    },
+    {
+      "titular": "El Corte Inglés, Nautalia y Perk impugnan el concurso de agencias de viajes del Gobierno",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-03T14:14:52+02:00",
+      "enlace": "https://www.expansion.com/empresas/transporte/2026/09/03/6a995d4b468aeb497d8b4588.html"
+    },
+    {
+      "titular": "Elliott adquiere una participación en Deutsche Telekom y se opone a la fusión con T-Mobile US",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-03T14:06:11+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/09/03/6a9962afe5fdea913e8b459b.html"
     }
   ],
   "salud": {
@@ -84,7 +84,7 @@
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 69,
+        "items": 70,
         "error": null,
         "antiguedad_min": 7,
         "descartados_por_gancho": 0

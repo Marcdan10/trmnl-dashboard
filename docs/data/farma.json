@@ -1,17 +1,53 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "portadas",
-  "generado": "2026-09-03T11:23:10+02:00",
+  "modo": "ultimas",
+  "generado": "2026-09-03T15:44:00+02:00",
   "titulares": [
     {
-      "titular": "‘Todos estamos con Ceuta’, la farmacia da su apoyo a la población ante la crisis migratoria",
+      "titular": "Los médicos de Ceuta temen una fuga de MIR: “Las condiciones laborales son las peores de España”",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-03T15:26:53+02:00",
+      "enlace": "https://www.redaccionmedica.com/formacion/mir/20260903/los-medicos-de-ceuta-temen-una-fuga-mir-las-condiciones-laborales-son-las-peores-espana/350118_0.html"
+    },
+    {
+      "titular": "El SES nombra a los tres nuevos gerentes de las Áreas de Salud de Badajoz, Mérida y Don Benito-Villanueva",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-03T14:31:24+02:00",
+      "enlace": "https://www.redaccionmedica.com/autonomias/20260903/el-ses-nombra-los-tres-nuevos-gerentes-de-las-areas-salud-badajoz-merida-don-benito-villanueva/350097_0.html"
+    },
+    {
+      "titular": "El Espacio de Datos de la Sanidad Privada entra en la Lista de Confianza del Gobierno",
       "medios": [
         "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-09-02T21:22:51+02:00",
-      "enlace": "https://diariofarma.com/2026/09/02/todos-estamos-con-ceuta-la-farmacia-da-su-apoyo-a-la-poblacion-ante-la-crisis-migratoria"
+      "fecha": "2026-09-03T14:27:07+02:00",
+      "enlace": "https://diariofarma.com/2026/09/03/el-espacio-de-datos-de-la-sanidad-privada-entra-en-la-lista-de-confianza-del-gobierno"
+    },
+    {
+      "titular": "Sánchez niega el colapso de la atención sanitaria en Ceuta ante las críticas en el Congreso por la gestión de la crisis",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-03T12:45:10+02:00",
+      "enlace": "https://diariofarma.com/2026/09/03/sanchez-niega-el-colapso-de-la-atencion-sanitaria-en-ceuta-ante-las-criticas-en-el-congreso-por-la-gestion-de-la-crisis"
+    },
+    {
+      "titular": "MSD anuncia planes de acceso inicial para alimatravir, un medicamento oral en investigación para la PrEP frente al VIH",
+      "medios": [
+        "El Global"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-03T12:17:37+02:00",
+      "enlace": "https://elglobalfarma.com/industria/msd-acceso-inicial-alimatravir-medicamento-oral-investigacion-prep-vih/"
     },
     {
       "titular": "El convenio de farmacia encara un septiembre decisivo: los sindicatos preparan nuevas movilizaciones",
@@ -23,49 +59,13 @@
       "enlace": "https://elglobalfarma.com/farmacia/convenio-farmacia-septiembre-sindicatos-nuevas-movilizaciones/"
     },
     {
-      "titular": "Enfermería fía la reducción del abandono profesional al articulado del Estatuto Marco",
+      "titular": "La ley de Dependencia se hace con el 'sí' del Senado e inicia su camino al Congreso",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-09-03T09:41:23+02:00",
-      "enlace": "https://www.redaccionmedica.com/profesionales/enfermeria/20260903/enfermeria-fia-la-reduccion-del-abandono-profesional-al-articulado-estatuto-marco/350055_0.html"
-    },
-    {
-      "titular": "La Aemps retira 22 adelgazantes presentados como naturales que contenían sibutramina",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-02T18:52:01+02:00",
-      "enlace": "https://diariofarma.com/2026/09/02/la-aemps-retira-22-productos-adelgazantes-presentado-como-naturales-que-ocultaban-en-su-etiquetado-sibutramina"
-    },
-    {
-      "titular": "Sanidad destina casi un millón de euros a actuaciones sobre farmacovigilancia, resistencia a los antibióticos y medicamentos",
-      "medios": [
-        "El Global"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-03T09:11:31+02:00",
-      "enlace": "https://elglobalfarma.com/politica/sanidad-farmacovigilancia-resistencia-antibioticos-medicamentos/"
-    },
-    {
-      "titular": "El sector sanitario se consolida como motor de empleo pese al parón estacional",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-03T10:51:59+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20260903/el-sector-sanitario-se-consolida-como-motor-de-empleo-pese-al-paron-estacional/350071_0.html"
-    },
-    {
-      "titular": "El Parlamento Europeo exige una ley comunitaria para proteger la salud mental laboral",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-02T18:42:47+02:00",
-      "enlace": "https://diariofarma.com/2026/09/02/el-parlamento-europeo-exige-una-ley-comunitaria-para-proteger-la-salud-mental-laboral"
+      "fecha": "2026-09-03T14:18:21+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/20260903/la-ley-de-dependencia-se-hace-con-el-si-senado-inicia-su-camino-al-congreso/350099_0.html"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 31,
+    "antiguedad_minima_min": 17,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 840,
+        "antiguedad_min": 76,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 131,
+        "antiguedad_min": 206,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 31,
+        "antiguedad_min": 17,
         "descartados_por_gancho": 0
       },
       {
