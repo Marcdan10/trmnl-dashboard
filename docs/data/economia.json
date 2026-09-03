@@ -2,8 +2,53 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-09-03T19:26:32+02:00",
+  "generado": "2026-09-03T22:00:55+02:00",
   "titulares": [
+    {
+      "titular": "OpenAI lanza Astra, su modelo más potente y controvertido hasta la fecha",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-03T21:30:34+02:00",
+      "enlace": "https://www.expansion.com/economia-digital/companias/2026/09/03/6a99ca67e5fdea8d438b4582.html"
+    },
+    {
+      "titular": "AmRest (La Tagliatella) dispara sus pérdidas hasta los 13,8 millones",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-03T21:08:03+02:00",
+      "enlace": "https://www.expansion.com/empresas/distribucion/2026/09/03/6a99c58a468aebc5458b45b8.html"
+    },
+    {
+      "titular": "La industria alemana pide volver a la jornada de 40 horas",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-03T20:44:01+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/09/03/6a99bfe3e5fdea1e628b4584.html"
+    },
+    {
+      "titular": "Olot Meats Group baja ventas y beneficios tras la irrupción de la PPA",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-03T20:20:05+02:00",
+      "enlace": "https://www.expansion.com/catalunya/2026/09/03/6a99b94ee5fdea3d238b458c.html"
+    },
+    {
+      "titular": "EM&E mantendrá el sistema de vigilancia de costas por 62 millones",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-03T19:32:11+02:00",
+      "enlace": "https://www.expansion.com/empresas/industria/2026/09/03/6a99aeaa468aebc5458b45ae.html"
+    },
     {
       "titular": "El bitcoin supera los 81.000 dólares al subir casi un 5%",
       "medios": [
@@ -14,58 +59,13 @@
       "enlace": "https://www.expansion.com/mercados/bitcoin/2026/09/03/6a99ab05468aeb2c7a8b457f.html"
     },
     {
-      "titular": "Las baterías de los eléctricos duran más de lo que temían los conductores",
+      "titular": "Las baterías de los coches eléctricos duran más de lo que temían los conductores",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
       "fecha": "2026-09-03T19:16:06+02:00",
       "enlace": "https://www.expansion.com/economia-sostenible/2026/09/03/6a99a8c2e5fdeaee468b457c.html"
-    },
-    {
-      "titular": "Blackstone y EQT fichan en Gestamp al nuevo director financiero de Urbaser",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-03T19:14:49+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/09/03/6a99ab05e5fdeaaf608b4587.html"
-    },
-    {
-      "titular": "Sánchez se enroca en exculpar a Marruecos frente a la crítica unánime del Congreso",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-03T18:53:34+02:00",
-      "enlace": "https://www.expansion.com/economia/politica/2026/09/03/6a999f9ce5fdea886a8b4596.html"
-    },
-    {
-      "titular": "BP nombra al presidente que quiere, no al que necesita",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-03T18:49:49+02:00",
-      "enlace": "https://www.expansion.com/economia/financial-times/2026/09/03/6a99a35fe5fdea5a3a8b456f.html"
-    },
-    {
-      "titular": "Revolut obtiene la licencia provisional en EEUU tras sumar Reino Unido y Francia",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-03T18:41:55+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/09/03/6a999fcde5fdea06618b4580.html"
-    },
-    {
-      "titular": "Los colegios internacionales de Dubái inician el curso en una prueba de confianza",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-03T18:09:46+02:00",
-      "enlace": "https://www.expansion.com/economia/financial-times/2026/09/03/6a999b01e5fdea1c758b45a5.html"
     }
   ],
   "salud": {
@@ -78,7 +78,7 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 8,
+    "antiguedad_minima_min": 30,
     "detalle": [
       {
         "medio": "Expansión",
@@ -86,7 +86,7 @@
         "ok": true,
         "items": 74,
         "error": null,
-        "antiguedad_min": 8,
+        "antiguedad_min": 30,
         "descartados_por_gancho": 0
       },
       {

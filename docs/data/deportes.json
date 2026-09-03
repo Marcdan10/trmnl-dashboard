@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-09-03T19:26:34+02:00",
+  "generado": "2026-09-03T22:00:56+02:00",
   "titulares": [
     {
-      "titular": "Digne entra en la comparación del actual PSG con el Barça de Luis Enrique",
+      "titular": "La Federación francesa mantiene el descenso del Girondins y podría desaparecer en días",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-03T18:58:23+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260903/1004223036/digne-compara-actual-psg-barca-luis-enrique.html"
+      "fecha": "2026-09-03T21:47:20+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/internacional/20260903/1004223103/federacion-francesa-mantiene-descenso-girondins-desaparecer-dias.html"
     },
     {
-      "titular": "Sixto Miguel Serrano: “Muchos me reconocen más por el NBA 2K que por mis 40 años en la tele”",
+      "titular": "El Barça tendrá un pequeño parque de atracciones en el Spotify Camp Nou",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-03T18:56:33+02:00",
-      "enlace": "https://www.mundodeportivo.com/baloncesto/nba/20260903/1004223045/sixto-miguel-serrano-me-reconocen-nba-2k-mis-40-anos-tele.html"
+      "fecha": "2026-09-03T21:31:21+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260903/1004223099/barca-tendra-pequeno-parque-atracciones-spotify-camp-nou.html"
     },
     {
       "titular": "Bombazo: Messi se retira de la selección argentina",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/motor/formula1/gp-italia/2026/08/31/lando-norris-cree-deberia-ganar-verstappen-hamilton.html"
     },
     {
-      "titular": "Omrzel, el nuevo Pogacar, triunfa en la Vuelta ante un Mas desencadenado",
+      "titular": "Dónde, cuánto cuestan y cómo conseguir las entradas para la final de la Copa de Andalucía de Baloncesto 2026 entre el Unicaja y el Caja 87",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/ciclismo/la-vuelta/omrzel-nuevo-pogacar-triunfa-vuelta-133922944"
+      "enlace": "https://www.sport.es/es/noticias/baloncesto/cuestan-entradas-final-copa-andalucia-133929579"
     },
     {
-      "titular": "Así se gestó el fichaje de Jesse Bisiwu por el Barça",
+      "titular": "La Laguna Tenerife doblega con suficiencia al Granca (96-84) pese a la extramotivación de Fran Guerra",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/barca/gesto-fichaje-jesse-bisiwu-barca-133910381"
+      "enlace": "https://www.sport.es/es/noticias/baloncesto/laguna-tenerife-doblega-suficiencia-granca-133929462"
     },
     {
-      "titular": "Jakob Omrzel, el esloveno más joven en ganar en una gran vuelta superando a Pogacar",
+      "titular": "Empiezan las etapas de montaña para Mou y en su radar aparece un gregario inesperado",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-03T18:53:40+02:00",
-      "enlace": "https://www.mundodeportivo.com/ciclismo/vuelta-espana/20260903/1004223043/jakob-omrzel-esloveno-joven-ganar-gran-vuelta-superando-pogacar.html"
+      "fecha": "2026-09-03T21:30:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260903/1004223084/empiezan-etapas-montana-mou-radar-aparece-gregario-inesperado.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 28,
+    "antiguedad_minima_min": 13,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 61,
         "error": null,
-        "antiguedad_min": 4454,
+        "antiguedad_min": 4608,
         "descartados_por_gancho": 10
       },
       {
@@ -98,16 +98,16 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 144,
+        "items": 143,
         "error": null,
-        "antiguedad_min": 28,
-        "descartados_por_gancho": 3
+        "antiguedad_min": 13,
+        "descartados_por_gancho": 4
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 49,
+        "items": 50,
         "error": null,
         "antiguedad_min": null,
         "descartados_por_gancho": 0

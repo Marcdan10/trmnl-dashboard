@@ -2,62 +2,61 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-09-03T19:26:30+02:00",
+  "generado": "2026-09-03T22:00:53+02:00",
   "titulares": [
     {
-      "titular": "Perelló se planta ante Marlaska por sus quejas sobre Tardón: le recuerda que no puede censurar a los jueces",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-03T19:09:36+02:00",
-      "enlace": "https://www.abc.es/espana/marlaska-envia-carta-cgpj-protestar-juez-tardon-20260903164902-nt.html"
-    },
-    {
-      "titular": "El ataque a dos fabricantes de armas en Múnich desata una nueva alarma de sabotaje ruso",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-03T19:06:38+02:00",
-      "enlace": "https://www.abc.es/internacional/ataque-dos-fabricantes-armas-munich-desata-nueva-20260903115913-nt.html"
-    },
-    {
-      "titular": "Muere a los 92 años Gloria Steinem, la gran impulsora del feminismo moderno",
+      "titular": "Marcos Llorente anuncia su retirada de la selección española",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-03T19:05:14+02:00",
-      "enlace": "https://elpais.com/sociedad/2026-09-03/muere-gloria-steinem-a-los-92-anos.html"
+      "fecha": "2026-09-03T21:44:16+02:00",
+      "enlace": "https://elpais.com/deportes/futbol/2026-09-03/marcos-llorente-anuncia-su-retirada-de-la-seleccion-espanola.html"
     },
     {
-      "titular": "Los grandes chatbots de inteligencia artificial sufren una caída global y dejan de funcionar",
+      "titular": "Ceuta, no hay más tiempo que perder",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-03T19:03:16+02:00",
-      "enlace": "https://elpais.com/tecnologia/2026-09-03/chatgpt-grok-y-claude-sufren-una-caida-y-dejan-de-funcionar.html"
+      "fecha": "2026-09-03T21:43:39+02:00",
+      "enlace": "https://elpais.com/opinion/2026-09-03/ceuta-no-hay-mas-tiempo-que-perder.html"
     },
     {
-      "titular": "Hallan los restos óseos de una bebé dentro de una casa en Santa Bàrbara (Tarragona)",
+      "titular": "Policías desmienten a Sánchez: «Se nos dejó al pie de los caballos»",
       "medios": [
-        "La Vanguardia",
         "ABC"
       ],
-      "consenso": 2,
-      "fecha": "2026-09-03T18:41:53+02:00",
-      "enlace": "https://www.abc.es/espana/cataluna/hallan-restos-oseos-bebe-dentro-casa-santa-20260903182513-nt.html"
+      "consenso": 1,
+      "fecha": "2026-09-03T21:23:13+02:00",
+      "enlace": "https://www.abc.es/espana/policias-desmienten-sanchez-dejo-pie-caballos-20260903105112-nt.html"
     },
     {
-      "titular": "Así es 'El problema final', la adaptación del Sherlock Holmes de Pérez-Reverte",
+      "titular": "De calzoncillos enterrados a urinarios sin salpicaduras: los IgNobel premian la ciencia más insólita",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-03T21:23:10+02:00",
+      "enlace": "https://www.abc.es/ciencia/calzoncillos-enterrados-urinarios-salpicaduras-ignobel-premian-ciencia-20260903210424-nt.html"
+    },
+    {
+      "titular": "Cinco nuevos positivos de peste porcina africana alejan la reapertura de Collserola",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-03T18:15:36+02:00",
-      "enlace": "https://www.lavanguardia.com/series/20260903/11626570/el-problema-final-trailer-adaptacion-perez-reverte-netflix.html"
+      "fecha": "2026-09-03T20:52:40+02:00",
+      "enlace": "https://www.lavanguardia.com/vida/20260903/11626656/cinco-nuevos-positivos-peste-porcina-africana-alejan-reapertura-collserola.html"
+    },
+    {
+      "titular": "La biblioteca de la playa de Castelldefels cierra la temporada con casi 5.000 usuarios",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-03T20:22:07+02:00",
+      "enlace": "https://www.lavanguardia.com/local/baix-llobregat/20260903/11626650/biblioteca-playa-castelldefels-cierra-temporada-5-000-usuarios.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -83,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2227341,
+        "antiguedad_min": 2227495,
         "descartados_por_gancho": 0
       },
       {
@@ -91,16 +90,16 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 429",
+        "error": "HTTP 500",
         "antiguedad_min": null
       },
       {
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 144,
+        "items": 147,
         "error": null,
-        "antiguedad_min": 21,
+        "antiguedad_min": 16,
         "descartados_por_gancho": 5
       },
       {
@@ -109,7 +108,7 @@
         "ok": true,
         "items": 128,
         "error": null,
-        "antiguedad_min": 70,
+        "antiguedad_min": 68,
         "descartados_por_gancho": 13
       },
       {
@@ -118,7 +117,7 @@
         "ok": true,
         "items": 24,
         "error": null,
-        "antiguedad_min": 16,
+        "antiguedad_min": 37,
         "descartados_por_gancho": 1
       }
     ]

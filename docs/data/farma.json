@@ -2,8 +2,26 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "ultimas",
-  "generado": "2026-09-03T19:26:39+02:00",
+  "generado": "2026-09-03T22:01:01+02:00",
   "titulares": [
+    {
+      "titular": "La pharma carga contra la Directiva de Aguas tras el revés judicial de Europa: \"Debe revisarse\"",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-03T19:46:27+02:00",
+      "enlace": "https://www.redaccionmedica.com/empresas/industria-farmaceutica/20260903/la-pharma-carga-contra-la-directiva-de-aguas-tras-el-reves-judicial-europa-debe-revisarse/350136_0.html"
+    },
+    {
+      "titular": "Mieloma: AEAL pide avanzar en diagnóstico y equidad en el acceso al tratamiento",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-03T19:35:42+02:00",
+      "enlace": "https://diariofarma.com/2026/09/03/mieloma-aeal-pide-avanzar-en-diagnostico-y-equidad-en-el-acceso-al-tratamiento"
+    },
     {
       "titular": "CCOO urge a la Comunidad de Madrid a presupuestar el fin de las guardias de 24 horas",
       "medios": [
@@ -14,15 +32,6 @@
       "enlace": "https://www.redaccionmedica.com/autonomias/madrid/20260903/ccoo-urge-la-comunidad-de-madrid-presupuestar-el-fin-las-guardias-horas/350133_0.html"
     },
     {
-      "titular": "La crisis migratoria en Ceuta empuja a la Universidad a sopesar el retorno a la docencia online",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-03T18:02:00+02:00",
-      "enlace": "https://www.redaccionmedica.com/formacion/estudiantes/20260903/la-crisis-migratoria-en-ceuta-empuja-la-universidad-sopesar-el-retorno-docencia-online/350096_0.html"
-    },
-    {
       "titular": "La FIP plantea facultar a los farmacéuticos en la selección de productos por evidencia",
       "medios": [
         "Diariofarma"
@@ -30,15 +39,6 @@
       "consenso": 1,
       "fecha": "2026-09-03T18:01:09+02:00",
       "enlace": "https://diariofarma.com/2026/09/03/la-fip-plantea-facultar-a-los-farmaceuticos-en-la-seleccion-de-productos-por-evidencia"
-    },
-    {
-      "titular": "Efpia y MfE exigen “congelar” la Directiva de Aguas tras las conclusiones de Kokott",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-03T17:51:04+02:00",
-      "enlace": "https://diariofarma.com/2026/09/03/efpia-y-mfe-exigen-a-la-comision-europea-congelar-la-directiva-de-aguas-tras-las-conclusiones-de-kokott"
     },
     {
       "titular": "La EFPIA pide paralizar la directiva de aguas residuales tras el revés jurídico de la UE al proyecto",
@@ -59,13 +59,13 @@
       "enlace": "https://elglobalfarma.com/industria/msd-acceso-inicial-alimatravir-medicamento-oral-investigacion-prep-vih/"
     },
     {
-      "titular": "La Jiménez Díaz lidera la experiencia del paciente en España seguida por el CHUS y Sant Pau",
+      "titular": "La crisis migratoria en Ceuta empuja a la Universidad a sopesar el retorno a la docencia online",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-09-03T17:51:56+02:00",
-      "enlace": "https://www.redaccionmedica.com/autonomias/madrid/20260903/la-jimenez-diaz-lidera-la-experiencia-del-paciente-en-espana-seguida-por-el-chus-sant-pau/350132_0.html"
+      "fecha": "2026-09-03T18:02:00+02:00",
+      "enlace": "https://www.redaccionmedica.com/formacion/estudiantes/20260903/la-crisis-migratoria-en-ceuta-empuja-la-universidad-sopesar-el-retorno-docencia-online/350096_0.html"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 60,
+    "antiguedad_minima_min": 134,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 85,
+        "antiguedad_min": 145,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 109,
+        "antiguedad_min": 263,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 60,
+        "antiguedad_min": 134,
         "descartados_por_gancho": 0
       },
       {

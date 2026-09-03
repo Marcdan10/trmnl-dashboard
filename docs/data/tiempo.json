@@ -1,31 +1,7 @@
 {
   "ciudad": "Barcelona",
-  "generado": "2026-09-03T17:26:40",
+  "generado": "2026-09-03T20:01:02",
   "horas": [
-    {
-      "hora": "18",
-      "temp": 29,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "sol"
-    },
-    {
-      "hora": "19",
-      "temp": 28,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "sol"
-    },
-    {
-      "hora": "20",
-      "temp": 28,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "sol"
-    },
     {
       "hora": "21",
       "temp": 27,
@@ -76,7 +52,7 @@
     },
     {
       "hora": "03",
-      "temp": 24,
+      "temp": 25,
       "prob": 0,
       "mm": 0,
       "mostrar_prob": false,
@@ -97,13 +73,37 @@
       "mm": 0,
       "mostrar_prob": false,
       "icono": "luna"
+    },
+    {
+      "hora": "06",
+      "temp": 24,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "luna"
+    },
+    {
+      "hora": "07",
+      "temp": 24,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "luna"
+    },
+    {
+      "hora": "08",
+      "temp": 24,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "sol"
     }
   ],
   "dias": [
     {
       "etiqueta": "vie 4",
       "max": 31,
-      "min": 23,
+      "min": 24,
       "prob": 0,
       "mm": 0,
       "mostrar_prob": false,
