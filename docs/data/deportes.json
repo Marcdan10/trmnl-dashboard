@@ -2,7 +2,7 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-09-03T02:27:25+02:00",
+  "generado": "2026-09-03T06:52:31+02:00",
   "titulares": [
     {
       "titular": "Un Barça con mucho futuro: el equipo más joven de la Liga",
@@ -14,13 +14,13 @@
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260903/1004222702/barca-equipo-joven-liga.html"
     },
     {
-      "titular": "Jódar y su momento más tenso con un periodista: \"No tiene ningún sentido\"",
+      "titular": "El Aston Villa de Unai Emery revoluciona su plantilla: once incorporaciones tras perder a sus estrellas",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/tenis/jodar-momento-tenso-periodista-sentido-133895561"
+      "enlace": "https://www.sport.es/es/noticias/premier-league/aston-villa-unai-emery-revoluciona-133869262"
     },
     {
       "titular": "Bombazo: Messi se retira de la selección argentina",
@@ -41,13 +41,13 @@
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260902/1004222723/dorsales-barca-temporada-2026-2027.html"
     },
     {
-      "titular": "La portada SPORT de hoy, jueves 03 de septiembre de 2026",
+      "titular": "La mejor creación de Hansi Flick",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/la-portada-de-sport/portada-sport-hoy-jueves-03-133895121"
+      "enlace": "https://www.sport.es/es/noticias/opinion/mejor-creacion-hansi-flick-133886433"
     },
     {
       "titular": "Lando Norris y por qué cree que debería ganar lo que Verstappen y Hamilton",
@@ -59,14 +59,13 @@
       "enlace": "https://www.marca.com/motor/formula1/gp-italia/2026/08/31/lando-norris-cree-deberia-ganar-verstappen-hamilton.html"
     },
     {
-      "titular": "Alcaraz - Faria, en directo: segunda ronda del US Open 2026",
+      "titular": "1-2: La lesión de Bisiwu eclipsa la Copa Catalunya",
       "medios": [
-        "Mundo Deportivo",
-        "Sport"
+        "Mundo Deportivo"
       ],
-      "consenso": 2,
-      "fecha": "2026-09-03T00:26:49+02:00",
-      "enlace": "https://www.mundodeportivo.com/tenis/open-usa/20260903/1004222050/alcaraz-faria-directo-us-open-2026-tenis-segunda-ronda.html"
+      "consenso": 1,
+      "fecha": "2026-09-02T23:00:35+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260902/1004222765/1-2-lesion-bisiwu-eclipsa-copa-catalunya.html"
     }
   ],
   "salud": {
@@ -75,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 117,
+    "antiguedad_minima_min": 95,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +82,7 @@
         "ok": true,
         "items": 61,
         "error": null,
-        "antiguedad_min": 3434,
+        "antiguedad_min": 3699,
         "descartados_por_gancho": 10
       },
       {
@@ -101,17 +100,17 @@
         "ok": true,
         "items": 143,
         "error": null,
-        "antiguedad_min": 117,
+        "antiguedad_min": 95,
         "descartados_por_gancho": 4
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 49,
+        "items": 48,
         "error": null,
         "antiguedad_min": null,
-        "descartados_por_gancho": 0
+        "descartados_por_gancho": 1
       },
       {
         "medio": "NBA",

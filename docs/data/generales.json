@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-09-03T02:27:18+02:00",
+  "generado": "2026-09-03T06:52:13+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -14,31 +14,31 @@
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
     },
     {
-      "titular": "Tres escritos de mandos policiales a Interior aseguran que ningún informe atribuye “la autoría del asalto a Ceuta a ningún gobierno”",
+      "titular": "El Gobierno mantiene que no tiene pruebas de que Marruecos organizara el salto tras la crisis por la ocultación del informe policial",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-02T21:09:39+02:00",
-      "enlace": "https://elpais.com/espana/2026-09-02/tres-escritos-de-mandos-policiales-a-interior-aseguran-que-ningun-informe-atribuye-la-autoria-del-asalto-a-ceuta-a-ningun-gobierno.html"
+      "fecha": "2026-09-03T05:30:01+02:00",
+      "enlace": "https://elpais.com/espana/2026-09-03/el-gobierno-mantiene-que-no-tiene-pruebas-de-que-marruecos-organizara-el-salto-tras-la-crisis-por-la-ocultacion-del-informe-policial.html"
     },
     {
-      "titular": "La Policía ve connivencia marroquí en un asalto planificado al detalle",
+      "titular": "Sánchez acude al Congreso bajo el efecto del informe que ve connivencia marroquí en el asalto a Ceuta",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-02T18:39:53+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20260902/11625773/informe-policial-senala-permisividad-policias-marroquies-guiaron-cruce-masivo-ceuta.html"
+      "fecha": "2026-09-03T06:00:00+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20260903/11625847/policia-abre-brecha-gobierno-sobre-papel-marruecos-ceuta.html"
     },
     {
-      "titular": "España se echa a la calle para defender a Ceuta",
+      "titular": "Séneca: «No es que tengamos poco tiempo para vivir, sino que desperdiciamos mucho»",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-03T01:55:02+02:00",
-      "enlace": "https://www.abc.es/espana/espana-toma-calle-favor-ceuta-sanchez-20260902212410-nt.html"
+      "fecha": "2026-09-03T05:00:03+02:00",
+      "enlace": "https://www.abc.es/recreo/seneca-filosofo-romano-poco-tiempo-vivir-desperdiciamos-20260903050000-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -50,22 +50,22 @@
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
     },
     {
-      "titular": "El informe de la Policía apunta que agentes marroquíes “guiaron” la entrada de migrantes a Ceuta",
+      "titular": "Las claves del informe que Marlaska no conocía y que puede suponer el inicio de una investigación por lo sucedido en Ceuta",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-02T21:49:23+02:00",
-      "enlace": "https://elpais.com/espana/2026-09-02/el-informe-de-la-policia-apunta-que-agentes-marroquies-guiaron-la-entrada-de-migrantes-a-ceuta.html"
+      "fecha": "2026-09-03T05:45:01+02:00",
+      "enlace": "https://elpais.com/espana/2026-09-03/las-claves-del-informe-que-marlaska-no-conocia-y-que-puede-suponer-el-inicio-de-una-investigacion-por-lo-sucedido-en-ceuta.html"
     },
     {
-      "titular": "Albares lamenta que “algún gobierno de la UE” contribuya a amplificar bulos sobre Ceuta",
+      "titular": "“Organizadores” sobre el terreno: varones, con ropa discreta y nada de chancletas",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-02T10:16:42+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20260902/11625320/albares-lamenta-gobierno-ue-contribuya-amplificar-informaciones-falsas-sobre-ceuta.html"
+      "fecha": "2026-09-02T20:00:13+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20260902/11625812/documento-organizadores-terreno-presuntos-agentes-marroquies-encubiertos.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 32,
+    "antiguedad_minima_min": 7,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2226322,
+        "antiguedad_min": 2226587,
         "descartados_por_gancho": 0
       },
       {
@@ -97,19 +97,19 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 146,
+        "items": 131,
         "error": null,
-        "antiguedad_min": 109,
-        "descartados_por_gancho": 3
+        "antiguedad_min": 7,
+        "descartados_por_gancho": 10
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 128,
+        "items": 127,
         "error": null,
-        "antiguedad_min": 117,
-        "descartados_por_gancho": 10
+        "antiguedad_min": 34,
+        "descartados_por_gancho": 12
       },
       {
         "medio": "ABC",
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 32,
+        "antiguedad_min": 112,
         "descartados_por_gancho": 0
       }
     ]
