@@ -2,7 +2,7 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-09-04T02:37:20+02:00",
+  "generado": "2026-09-04T07:20:23+02:00",
   "titulares": [
     {
       "titular": "Las claves del fichaje de consenso de Gabriel Jesus por el Barça",
@@ -14,13 +14,13 @@
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260904/1004223117/claves-fichaje-consenso-gabriel-jesus-barca.html"
     },
     {
-      "titular": "Previa UD Las Palmas-Leganés: Jefté busca el gol de su vida y es el antídoto contra la manita",
+      "titular": "Libres del GP de Italia de F1 hoy: horario y dónde ver Fórmula 1 por TV, en directo con Fernando Alonso",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/las-palmas/previa-ud-palmas-leganes-jefte-133931355"
+      "enlace": "https://www.sport.es/es/noticias/motor/formula1/libres-gp-italia-f1-horario-donde-ver-133914186"
     },
     {
       "titular": "Bombazo: Messi se retira de la selección argentina",
@@ -41,13 +41,13 @@
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260903/1004223081/barca-feyenoord-cierra-mercado-fichando-arsenal.html"
     },
     {
-      "titular": "Heroica Bucsa: a tercera ronda tras una batalla para el recuerdo",
+      "titular": "Unicaja-Caja 87 Sevilla, final de la Copa Andalucía: fecha, hora y dónde se puede ver por televisión",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/tenis/heroica-bucsa-tercera-ronda-batalla-133931220"
+      "enlace": "https://www.sport.es/es/noticias/baloncesto/unicaja-caja-87-sevilla-final-133934110"
     },
     {
       "titular": "Lando Norris y por qué cree que debería ganar lo que Verstappen y Hamilton",
@@ -75,7 +75,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 125,
+    "antiguedad_minima_min": 232,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 61,
         "error": null,
-        "antiguedad_min": 4884,
+        "antiguedad_min": 5167,
         "descartados_por_gancho": 10
       },
       {
@@ -101,17 +101,17 @@
         "ok": true,
         "items": 145,
         "error": null,
-        "antiguedad_min": 125,
+        "antiguedad_min": 232,
         "descartados_por_gancho": 3
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 50,
+        "items": 47,
         "error": null,
         "antiguedad_min": null,
-        "descartados_por_gancho": 0
+        "descartados_por_gancho": 3
       },
       {
         "medio": "NBA",

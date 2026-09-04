@@ -2,8 +2,17 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "portadas",
-  "generado": "2026-09-04T02:37:17+02:00",
+  "generado": "2026-09-04T07:20:20+02:00",
   "titulares": [
+    {
+      "titular": "Marc Armengol prepara el nuevo plan estratégico para Sabadell",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-04T02:17:43+02:00",
+      "enlace": "https://www.expansion.com/empresas/banca/2026/09/04/6a99aba7468aeb6f458b4593.html"
+    },
     {
       "titular": "Volkswagen aprueba el plan de ajuste: recortará 50.000 empleos y deja en el aire cuatro plantas alemanas",
       "medios": [
@@ -14,13 +23,40 @@
       "enlace": "https://www.expansion.com/empresas/motor/2026/09/03/6a99cfffe5fdeabb608b457c.html"
     },
     {
-      "titular": "Quiere cerrar Seat en 2029 para centrarse en Cupra",
+      "titular": "Iberdrola reactiva sus inversiones en España con un récord de 1.200 millones",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-03T12:34:58+02:00",
-      "enlace": "https://www.expansion.com/empresas/motor/2026/09/03/6a994d13e5fdea064f8b4577.html"
+      "fecha": "2026-09-04T02:39:16+02:00",
+      "enlace": "https://www.expansion.com/empresas/energia/2026/09/04/6a99dafe468aeba6398b458e.html"
+    },
+    {
+      "titular": "Los Benetton ultiman el desembarco en España de su fondo 21 Next",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-04T02:39:17+02:00",
+      "enlace": "https://www.expansion.com/empresas/inmobiliario/2026/09/04/6a99c76d468aebe6408b4599.html"
+    },
+    {
+      "titular": "Charme y Miura lanzan el proceso de venta de Indiba valorada en 500 millones",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-04T02:39:18+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/09/04/6a99b81a468aebed3a8b4571.html"
+    },
+    {
+      "titular": "CaixaBank supera el millón de pagos diarios con Bizum con el impulso del 'e-commerce'",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-04T02:39:19+02:00",
+      "enlace": "https://www.expansion.com/empresas/banca/2026/09/04/6a99b39ee5fdeaa7378b4586.html"
     },
     {
       "titular": "OpenAI lanza Astra, su modelo más potente y controvertido hasta la fecha",
@@ -30,42 +66,6 @@
       "consenso": 1,
       "fecha": "2026-09-03T21:56:45+02:00",
       "enlace": "https://www.expansion.com/economia-digital/companias/2026/09/03/6a99ca67e5fdea8d438b4582.html"
-    },
-    {
-      "titular": "El banco central de Países Bajos retira lingotes de oro de Nueva York por la 'inestabilidad geopolítica'",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-03T14:52:55+02:00",
-      "enlace": "https://www.expansion.com/economia/financial-times/2026/09/03/6a996d9fe5fdea064f8b4586.html"
-    },
-    {
-      "titular": "Trump dice que la crisis de Ceuta \"es triste de ver\" y califica a España como un \"país arruinado\"",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-03T16:15:57+02:00",
-      "enlace": "https://www.expansion.com/economia/politica/2026/09/03/6a9980fb468aebdf7b8b45c7.html"
-    },
-    {
-      "titular": "Cómo va a reaccionar la Bolsa si la Fed inicia un ciclo alcista de los tipos",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-02T20:32:06+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/09/02/6a984030e5fdeaf10a8b4582.html"
-    },
-    {
-      "titular": "Once valores con más del 80% de consejos de compra y potencial alcista",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-03T00:25:57+02:00",
-      "enlace": "https://www.expansion.com/inversion/2026/09/03/6a985e10468aebdd638b4579.html"
     }
   ],
   "salud": {
@@ -78,16 +78,16 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 250,
+    "antiguedad_minima_min": 266,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 75,
+        "items": 64,
         "error": null,
-        "antiguedad_min": 250,
-        "descartados_por_gancho": 0
+        "antiguedad_min": 266,
+        "descartados_por_gancho": 1
       },
       {
         "medio": "Cinco Días",

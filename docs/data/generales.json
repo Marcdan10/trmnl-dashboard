@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-09-04T02:37:13+02:00",
+  "generado": "2026-09-04T07:20:17+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -14,31 +14,31 @@
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
     },
     {
-      "titular": "Sánchez da un giro y avisa de que si encuentra pruebas contra Marruecos actuará",
+      "titular": "Sánchez se abre a la autoría de Marruecos para rebajar la presión",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-03T10:23:23+02:00",
-      "enlace": "https://elpais.com/espana/2026-09-03/sanchez-si-existieran-pruebas-contra-marruecos-actuariamos-pero-no-hay-evidencias-solidas.html"
+      "fecha": "2026-09-04T05:45:01+02:00",
+      "enlace": "https://elpais.com/espana/2026-09-04/sanchez-se-abre-a-la-autoria-de-marruecos-para-rebajar-la-presion.html"
     },
     {
-      "titular": "Sánchez desvincula a Marruecos del asalto a Ceuta pero promete “contundencia” si recibe pruebas",
+      "titular": "Sánchez se queda solo ante el señalamiento del Congreso a Marruecos",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-03T09:32:55+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20260903/11626118/sanchez-defiende-espanolidad-ceuta-melilla-final-tiempos.html"
+      "fecha": "2026-09-04T06:00:00+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20260904/11626647/sanchez-convence-aliados-adversarios-sobre-gestion-ceuta.html"
     },
     {
-      "titular": "Prana Nidra, el arte de recargar pilas desde la quietud para mejorar el rendimiento",
+      "titular": "Llega a Netflix la nueva película de Maribel Verdú y Pedro Casablanc",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-04T02:29:18+02:00",
-      "enlace": "https://www.abc.es/bienestar/fitness/prana-20260623010959-nt.html"
+      "fecha": "2026-09-04T07:00:00+02:00",
+      "enlace": "https://www.abc.es/play/cine/noticias/llega-netflix-nueva-pelicula-maribel-verdu-pedro-20260904070000-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -50,22 +50,22 @@
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
     },
     {
-      "titular": "El Gobierno convocó a la embajadora de Marruecos por las “declaraciones inaceptables” sobre Ceuta y Melilla de dos ministros",
+      "titular": "Ceuta, no hay más tiempo que perder",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-03T16:16:20+02:00",
-      "enlace": "https://elpais.com/espana/2026-09-03/el-gobierno-convoco-a-la-embajadora-de-marruecos-por-las-declaraciones-inaceptables-sobre-ceuta-y-melilla-de-dos-ministros-marroquies.html"
+      "fecha": "2026-09-03T21:43:39+02:00",
+      "enlace": "https://elpais.com/opinion/2026-09-03/ceuta-no-hay-mas-tiempo-que-perder.html"
     },
     {
-      "titular": "Marruecos informa al Gobierno de que está investigando la entrada masiva de Ceuta",
+      "titular": "Milei sancionará a las petroleras que operen en Malvinas sin autorización",
       "medios": [
-        "La Vanguardia"
+        "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-03T16:02:49+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20260903/11626460/marruecos-informa-gobierno-esta-investigando-entrada-masiva-ceuta.html"
+      "fecha": "2026-09-04T06:54:00+02:00",
+      "enlace": "https://www.abc.es/internacional/milei-sancionara-petroleras-operen-malvinas-autorizacion-hoy-20260904065400-nt.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 7,
+    "antiguedad_minima_min": 20,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2227772,
+        "antiguedad_min": 2228055,
         "descartados_por_gancho": 0
       },
       {
@@ -97,10 +97,10 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 147,
+        "items": 137,
         "error": null,
-        "antiguedad_min": 127,
-        "descartados_por_gancho": 5
+        "antiguedad_min": 20,
+        "descartados_por_gancho": 6
       },
       {
         "medio": "La Vanguardia",
@@ -108,7 +108,7 @@
         "ok": true,
         "items": 126,
         "error": null,
-        "antiguedad_min": 98,
+        "antiguedad_min": 50,
         "descartados_por_gancho": 14
       },
       {
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 7,
+        "antiguedad_min": 20,
         "descartados_por_gancho": 0
       }
     ]
