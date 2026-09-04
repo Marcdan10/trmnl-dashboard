@@ -1,62 +1,35 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "ultimas",
-  "generado": "2026-09-04T21:45:04+02:00",
+  "modo": "portadas",
+  "generado": "2026-09-05T00:00:23+02:00",
   "titulares": [
     {
-      "titular": "Iberdrola y Naturgy desafían a REE y Endesa con una alianza hidroeléctrica",
+      "titular": "El Gobierno endurece las exigencias a las empresas para despedir en periodo de prueba",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-04T20:16:58+02:00",
-      "enlace": "https://www.expansion.com/empresas/energia/2026/09/04/6a9b0b16e5fdeaac168b45a1.html"
+      "fecha": "2026-09-04T15:10:31+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/09/04/6a9abcb7e5fdea3c568b458e.html"
     },
     {
-      "titular": "Sacyr se impone en la puja por la autopista Libertadores de Chile",
+      "titular": "Hacienda aprueba la reforma de la financiación autonómica con los únicos apoyos de Cataluña y Canarias",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-04T19:50:46+02:00",
-      "enlace": "https://www.expansion.com/empresas/inmobiliario/2026/09/04/6a9b03ab468aeb3f7b8b45a9.html"
+      "fecha": "2026-09-04T14:53:26+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/09/04/6a9a87bb468aeb437d8b4578.html"
     },
     {
-      "titular": "La subida de tipos de la Fed podría hacer caer un 5% las bolsas europeas",
+      "titular": "Volkswagen vincula el futuro de la marca Seat más allá de 2030 a la demanda y la regulación",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-04T18:59:39+02:00",
-      "enlace": "https://www.expansion.com/inversion/2026/09/04/6a9af898e5fdeaee0c8b4578.html"
-    },
-    {
-      "titular": "Renfe endurece el control sobre los trenes de Talgo",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-04T18:47:26+02:00",
-      "enlace": "https://www.expansion.com/empresas/transporte/2026/09/04/6a9af5b0468aeb273f8b4576.html"
-    },
-    {
-      "titular": "El Ibex cierra con suaves alzas y salda la semana en tablas",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-04T17:38:50+02:00",
-      "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/09/04/6a9a5ba3e5fdeaf54e8b4582.html"
-    },
-    {
-      "titular": "El fondo soberano de Noruega propone reducir sus tenencias de bonos del Tesoro de EEUU",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-04T16:40:46+02:00",
-      "enlace": "https://www.expansion.com/economia/financial-times/2026/09/04/6a9ad76f468aeb96178b459e.html"
+      "fecha": "2026-09-04T14:32:12+02:00",
+      "enlace": "https://www.expansion.com/empresas/motor/2026/09/04/6a9ab9fa468aeb6c048b4586.html"
     },
     {
       "titular": "Por qué Estados Unidos e Irán siguen escalando el conflicto",
@@ -66,6 +39,33 @@
       "consenso": 1,
       "fecha": "2026-09-04T16:34:52+02:00",
       "enlace": "https://www.expansion.com/economia/financial-times/2026/09/04/6a9ad6f8e5fdea0a6c8b4580.html"
+    },
+    {
+      "titular": "El empleo sorprende al alza en EEUU: crea 162.000 nuevos puestos en agosto",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-04T15:08:46+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/09/04/6a9abf32e5fdeade698b457c.html"
+    },
+    {
+      "titular": "Trump amenaza con cortar lazos comerciales con decenas de países si la Fed no baja tipos",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-04T16:19:41+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/09/04/6a9ad365e5fdea10618b4574.html"
+    },
+    {
+      "titular": "La resurrección del software en Bolsa deja descolocados a los inversores",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-03T20:47:14+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/09/03/6a999880468aeb524c8b4588.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 88,
+    "antiguedad_minima_min": 20,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 79,
+        "items": 77,
         "error": null,
-        "antiguedad_min": 88,
+        "antiguedad_min": 20,
         "descartados_por_gancho": 1
       },
       {

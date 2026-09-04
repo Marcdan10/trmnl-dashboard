@@ -1,26 +1,17 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "ultimas",
-  "generado": "2026-09-04T21:45:06+02:00",
+  "modo": "portadas",
+  "generado": "2026-09-05T00:00:24+02:00",
   "titulares": [
     {
-      "titular": "Una de las parejas más longevas de Premier Padel se separa: \"Me va a joder no verte al lado de la pista\"",
+      "titular": "La primera rajada de Mourinho: \"Los jugadores del Betis intentaron condicionar al árbitro y los del Madrid no\"",
       "medios": [
-        "Mundo Deportivo"
+        "Sport"
       ],
       "consenso": 1,
-      "fecha": "2026-09-04T21:25:30+02:00",
-      "enlace": "https://www.mundodeportivo.com/padel/premier-padel/20260904/1004223375/parejas-longevas-premier-padel-separa-me-joder-no-verte-lado-pista.html"
-    },
-    {
-      "titular": "Los entrenadores coinciden sobre los mejores ejercicios a partir de los 50 años",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-04T21:23:06+02:00",
-      "enlace": "https://www.mundodeportivo.com/running/20260904/1004223408/entrenadores-coinciden-partir-50-anos-necesario-salir-caminar-diariamente-ejercicio-fuerza-dos-veces-semana-dct.html"
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/real-madrid/primera-rajada-mourinho-jugadores-betis-133971218"
     },
     {
       "titular": "Bombazo: Messi se retira de la selección argentina",
@@ -32,6 +23,25 @@
       "enlace": "https://www.marca.com/futbol/2026/08/31/bombazo-messi-retira-seleccion-argentina.html"
     },
     {
+      "titular": "El 1x1 del Real Madrid ante el Betis",
+      "medios": [
+        "Mundo Deportivo",
+        "Sport"
+      ],
+      "consenso": 2,
+      "fecha": "2026-09-04T23:25:07+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260904/1004223424/1x1-real-madrid-betis.html"
+    },
+    {
+      "titular": "Las notas de los jugadores del Betis ante el Real Madrid: Parrott asesta el golpe y Valles guarda los tres puntos",
+      "medios": [
+        "Sport"
+      ],
+      "consenso": 1,
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/betis/notas-jugadores-betis-real-madrid-133971429"
+    },
+    {
       "titular": "Lando Norris y por qué cree que debería ganar lo que Verstappen y Hamilton",
       "medios": [
         "Marca"
@@ -41,31 +51,22 @@
       "enlace": "https://www.marca.com/motor/formula1/gp-italia/2026/08/31/lando-norris-cree-deberia-ganar-verstappen-hamilton.html"
     },
     {
-      "titular": "PSG - Mónaco, en directo: sigue el partido de la Ligue 1, en vivo hoy",
-      "medios": [
-        "Sport"
-      ],
-      "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/futbol-internacional/psg-monaco-directo-sigue-partido-133880504"
-    },
-    {
-      "titular": "Real Sociedad B-CD Tenerife, una engañosa tregua del calendario en Zubieta",
-      "medios": [
-        "Sport"
-      ],
-      "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/futbol/segunda-rfef/real-sociedad-b-cd-tenerife-133968298"
-    },
-    {
-      "titular": "Un vídeo inédito de Leo Messi y Maxi Rodríguez con la Jabulani del Mundial 2010 se vuelve viral 16 años después",
+      "titular": "Ohana pagará 10 millones anuales al Barça para ir en la camiseta",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-04T21:19:09+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/internacional/20260904/1004223406/video-inedito-leo-messi-maxi-rodriguez-jabulani-mundial-2010-vuelve-viral-16-anos.html"
+      "fecha": "2026-09-04T18:41:52+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260904/1004223363/ohana-pagara-10-millones-anuales-barca-camiseta.html"
+    },
+    {
+      "titular": "Ni Kirian Rodríguez ni Manu Fuster, el indiscutible de la UD Las Palmas es Churripi",
+      "medios": [
+        "Sport"
+      ],
+      "consenso": 1,
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/las-palmas/kirian-rodriguez-manu-fuster-indiscutible-133971427"
     }
   ],
   "salud": {
@@ -74,7 +75,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 19,
+    "antiguedad_minima_min": 32,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +83,7 @@
         "ok": true,
         "items": 61,
         "error": null,
-        "antiguedad_min": 6032,
+        "antiguedad_min": 6167,
         "descartados_por_gancho": 10
       },
       {
@@ -98,19 +99,19 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 143,
+        "items": 146,
         "error": null,
-        "antiguedad_min": 19,
+        "antiguedad_min": 32,
         "descartados_por_gancho": 6
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 50,
+        "items": 49,
         "error": null,
         "antiguedad_min": null,
-        "descartados_por_gancho": 0
+        "descartados_por_gancho": 1
       },
       {
         "medio": "NBA",

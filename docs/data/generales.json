@@ -1,63 +1,9 @@
 {
   "pantalla": "generales",
   "titulo": "Titulares",
-  "modo": "ultimas",
-  "generado": "2026-09-04T21:45:01+02:00",
+  "modo": "portadas",
+  "generado": "2026-09-05T00:00:20+02:00",
   "titulares": [
-    {
-      "titular": "Wu Yibing - Carlos Alcaraz, el partido del US Open, en directo|Alcaraz gana el primer set del encuentro",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-04T21:41:05+02:00",
-      "enlace": "https://elpais.com/deportes/2026-09-04/wu-yibing-carlos-alcaraz-el-partido-del-us-open-en-directo.html"
-    },
-    {
-      "titular": "El Madrid acumula ocasiones pero el empate se mantiene",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-04T21:39:20+02:00",
-      "enlace": "https://www.abc.es/deportes/real-madrid/betis-real-madrid-directo-resultado-ganador-goles-20260904090423-di.html"
-    },
-    {
-      "titular": "Betis - Real Madrid en directo: dominio alterno y 0-0",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-04T21:33:06+02:00",
-      "enlace": "https://elpais.com/deportes/futbol/2026-09-04/betis-real-madrid-en-directo-el-partido-de-la-liga-en-vivo.html"
-    },
-    {
-      "titular": "Meloni celebra la resiliencia de su Gobierno y mira ya a la reelección",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-04T21:09:00+02:00",
-      "enlace": "https://www.abc.es/internacional/meloni-celebra-gobierno-longevo-republica-italiana-20260904210609-nt.html"
-    },
-    {
-      "titular": "Un Reino Unido en crisis económica y militar reafirma que las islas Malvinas son suyas",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-04T20:21:43+02:00",
-      "enlace": "https://www.lavanguardia.com/internacional/20260904/11627572/reino-unido-crisis-economica-militar-reafirma-islas-malvinas-son.html"
-    },
-    {
-      "titular": "Varias mujeres expulsadas de un discurso del líder ultraderechista británico, Nigel Farage",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-04T20:03:31+02:00",
-      "enlace": "https://www.lavanguardia.com/internacional/20260904/11627564/mujeres-expulsadas-discurso-lider-ultraderechista-britanico-nigel-farage.html"
-    },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
       "medios": [
@@ -66,6 +12,60 @@
       "consenso": 1,
       "fecha": "2022-06-10T01:05:00+02:00",
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
+    },
+    {
+      "titular": "Begoña Gómez pide su absolución y defiende que no influyó en los cargos de la universidad ni en ninguna autoridad para crear la cátedra",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-04T14:22:14+02:00",
+      "enlace": "https://elpais.com/espana/2026-09-04/begona-gomez-pide-su-absolucion-y-defiende-que-no-influyo-en-los-cargos-de-la-univerdad-ni-en-ninguna-autoridad-para-crear-la-catedra.html"
+    },
+    {
+      "titular": "Hacienda aprueba la financiación con el único respaldo de Catalunya y Canarias",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-04T14:16:16+02:00",
+      "enlace": "https://www.lavanguardia.com/economia/20260904/11627222/hacienda-aprueba-nueva-financiacion-respaldada-catalunya-canarias-rechazo-87-comunidades.html"
+    },
+    {
+      "titular": "La mala puntería le cuesta al Madrid su primera derrota",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-04T23:32:02+02:00",
+      "enlace": "https://www.abc.es/deportes/real-madrid/mala-punteria-cuesta-madrid-primera-derrota-20260904231610-nt.html"
+    },
+    {
+      "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
+      "medios": [
+        "RTVE"
+      ],
+      "consenso": 1,
+      "fecha": "2022-06-10T00:03:00+02:00",
+      "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
+    },
+    {
+      "titular": "La Fiscalía avala que la Audiencia Nacional inicie una investigación por la crisis migratoria de Ceuta",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-04T14:23:46+02:00",
+      "enlace": "https://elpais.com/espana/2026-09-04/la-fiscalia-avala-que-la-audiencia-nacional-inicie-una-investigacion-por-la-crisis-migratoria-de-ceuta.html"
+    },
+    {
+      "titular": "El ministro de Hacienda regala a Madrid el libro 'El dolor de los demás' y a Catalunya, un ejemplar de Chaves Nogales",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-04T14:57:38+02:00",
+      "enlace": "https://www.lavanguardia.com/economia/20260904/11627333/ministro-hacienda-regala-madrid-libro-dolor-catalunya-ejemplar-chaves-nogales.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 3,
+    "antiguedad_minima_min": 16,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2228920,
+        "antiguedad_min": 2229055,
         "descartados_por_gancho": 0
       },
       {
@@ -90,7 +90,7 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 429",
+        "error": "HTTP 500",
         "antiguedad_min": null
       },
       {
@@ -99,16 +99,16 @@
         "ok": true,
         "items": 139,
         "error": null,
-        "antiguedad_min": 3,
+        "antiguedad_min": 16,
         "descartados_por_gancho": 2
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 132,
+        "items": 131,
         "error": null,
-        "antiguedad_min": 83,
+        "antiguedad_min": 27,
         "descartados_por_gancho": 14
       },
       {
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 5,
+        "antiguedad_min": 28,
         "descartados_por_gancho": 0
       }
     ]
