@@ -2,7 +2,7 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "portadas",
-  "generado": "2026-09-04T00:41:28+02:00",
+  "generado": "2026-09-04T02:37:17+02:00",
   "titulares": [
     {
       "titular": "Volkswagen aprueba el plan de ajuste: recortará 50.000 empleos y deja en el aire cuatro plantas alemanas",
@@ -78,7 +78,7 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 134,
+    "antiguedad_minima_min": 250,
     "detalle": [
       {
         "medio": "Expansión",
@@ -86,7 +86,7 @@
         "ok": true,
         "items": 75,
         "error": null,
-        "antiguedad_min": 134,
+        "antiguedad_min": 250,
         "descartados_por_gancho": 0
       },
       {

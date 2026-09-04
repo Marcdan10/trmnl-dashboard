@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-09-04T00:41:29+02:00",
+  "generado": "2026-09-04T02:37:20+02:00",
   "titulares": [
     {
-      "titular": "El Barça tendrá un pequeño parque de atracciones en el Spotify Camp Nou",
+      "titular": "Las claves del fichaje de consenso de Gabriel Jesus por el Barça",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-03T21:31:21+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260903/1004223099/barca-tendra-pequeno-parque-atracciones-spotify-camp-nou.html"
+      "fecha": "2026-09-04T00:30:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260904/1004223117/claves-fichaje-consenso-gabriel-jesus-barca.html"
     },
     {
-      "titular": "Heroica Bucsa: a tercera ronda tras una batalla para el recuerdo",
+      "titular": "Previa UD Las Palmas-Leganés: Jefté busca el gol de su vida y es el antídoto contra la manita",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/tenis/heroica-bucsa-tercera-ronda-batalla-133931220"
+      "enlace": "https://www.sport.es/es/noticias/las-palmas/previa-ud-palmas-leganes-jefte-133931355"
     },
     {
       "titular": "Bombazo: Messi se retira de la selección argentina",
@@ -32,23 +32,22 @@
       "enlace": "https://www.marca.com/futbol/2026/08/31/bombazo-messi-retira-seleccion-argentina.html"
     },
     {
-      "titular": "El Barça, con Hamza y Bisiwu en la lista A de la Champions y Fariñas, en la B",
+      "titular": "Como el Barça, el Feyenoord también cierra su mercado fichando en el Arsenal",
       "medios": [
-        "Mundo Deportivo",
-        "Sport"
+        "Mundo Deportivo"
       ],
-      "consenso": 2,
-      "fecha": "2026-09-03T21:04:02+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260903/1004223091/barca-hamza-bisiwu-lista-champions-farinas-b.html"
+      "consenso": 1,
+      "fecha": "2026-09-03T20:54:11+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260903/1004223081/barca-feyenoord-cierra-mercado-fichando-arsenal.html"
     },
     {
-      "titular": "Anoche lo recuperamos: el Celta brilla tras el descanso en Anoeta",
+      "titular": "Heroica Bucsa: a tercera ronda tras una batalla para el recuerdo",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/celta-de-vigo/anoche-recuperamos-celta-brilla-descanso-133931223"
+      "enlace": "https://www.sport.es/es/noticias/tenis/heroica-bucsa-tercera-ronda-batalla-133931220"
     },
     {
       "titular": "Lando Norris y por qué cree que debería ganar lo que Verstappen y Hamilton",
@@ -60,13 +59,14 @@
       "enlace": "https://www.marca.com/motor/formula1/gp-italia/2026/08/31/lando-norris-cree-deberia-ganar-verstappen-hamilton.html"
     },
     {
-      "titular": "Elena Fort explica el porqué de la Asamblea telemática",
+      "titular": "El Barça, con Hamza y Bisiwu en la lista A de la Champions y Fariñas, en la B",
       "medios": [
-        "Mundo Deportivo"
+        "Mundo Deportivo",
+        "Sport"
       ],
-      "consenso": 1,
-      "fecha": "2026-09-03T20:50:06+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260903/1004223088/elena-fort-explica-asamblea-telematica.html"
+      "consenso": 2,
+      "fecha": "2026-09-03T21:04:02+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260903/1004223091/barca-hamza-bisiwu-lista-champions-farinas-b.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 42,
+    "antiguedad_minima_min": 125,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 61,
         "error": null,
-        "antiguedad_min": 4769,
+        "antiguedad_min": 4884,
         "descartados_por_gancho": 10
       },
       {
@@ -101,7 +101,7 @@
         "ok": true,
         "items": 145,
         "error": null,
-        "antiguedad_min": 42,
+        "antiguedad_min": 125,
         "descartados_por_gancho": 3
       },
       {
