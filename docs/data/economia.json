@@ -2,8 +2,26 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-09-04T19:19:53+02:00",
+  "generado": "2026-09-04T21:45:04+02:00",
   "titulares": [
+    {
+      "titular": "Iberdrola y Naturgy desafían a REE y Endesa con una alianza hidroeléctrica",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-04T20:16:58+02:00",
+      "enlace": "https://www.expansion.com/empresas/energia/2026/09/04/6a9b0b16e5fdeaac168b45a1.html"
+    },
+    {
+      "titular": "Sacyr se impone en la puja por la autopista Libertadores de Chile",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-04T19:50:46+02:00",
+      "enlace": "https://www.expansion.com/empresas/inmobiliario/2026/09/04/6a9b03ab468aeb3f7b8b45a9.html"
+    },
     {
       "titular": "La subida de tipos de la Fed podría hacer caer un 5% las bolsas europeas",
       "medios": [
@@ -48,24 +66,6 @@
       "consenso": 1,
       "fecha": "2026-09-04T16:34:52+02:00",
       "enlace": "https://www.expansion.com/economia/financial-times/2026/09/04/6a9ad6f8e5fdea0a6c8b4580.html"
-    },
-    {
-      "titular": "Trump amenaza con cortar lazos comerciales con decenas de países si la Fed no baja tipos",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-04T16:19:41+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/09/04/6a9ad365e5fdea10618b4574.html"
-    },
-    {
-      "titular": "El Gobierno endurece las exigencias a las empresas para despedir en periodo de prueba",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-04T15:10:31+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/09/04/6a9abcb7e5fdea3c568b458e.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 20,
+    "antiguedad_minima_min": 88,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 78,
+        "items": 79,
         "error": null,
-        "antiguedad_min": 20,
+        "antiguedad_min": 88,
         "descartados_por_gancho": 1
       },
       {

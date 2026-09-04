@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-09-04T19:19:55+02:00",
+  "generado": "2026-09-04T21:45:06+02:00",
   "titulares": [
     {
-      "titular": "Resultado gafas de la Real por primera vez en 16 meses",
+      "titular": "Una de las parejas más longevas de Premier Padel se separa: \"Me va a joder no verte al lado de la pista\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-04T18:58:18+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-sociedad/20260904/1004223370/resultado-gafas-real-primera-vez-16-meses.html"
+      "fecha": "2026-09-04T21:25:30+02:00",
+      "enlace": "https://www.mundodeportivo.com/padel/premier-padel/20260904/1004223375/parejas-longevas-premier-padel-separa-me-joder-no-verte-lado-pista.html"
     },
     {
-      "titular": "Muestra de amor de Van Aert: \"Mis niños y mi esposa Sarah me dan el apoyo que necesito para rendir al máximo\"",
+      "titular": "Los entrenadores coinciden sobre los mejores ejercicios a partir de los 50 años",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-04T18:56:18+02:00",
-      "enlace": "https://www.mundodeportivo.com/ciclismo/vuelta-espana/20260904/1004223369/muestra-amor-aert-mis-ninos-mi-esposa-sarah-me-dan-apoyo-necesito-rendir-maximo.html"
+      "fecha": "2026-09-04T21:23:06+02:00",
+      "enlace": "https://www.mundodeportivo.com/running/20260904/1004223408/entrenadores-coinciden-partir-50-anos-necesario-salir-caminar-diariamente-ejercicio-fuerza-dos-veces-semana-dct.html"
     },
     {
       "titular": "Bombazo: Messi se retira de la selección argentina",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/motor/formula1/gp-italia/2026/08/31/lando-norris-cree-deberia-ganar-verstappen-hamilton.html"
     },
     {
-      "titular": "El Brasileirão bate el récord de extranjeros: ¿qué está ocurriendo?",
+      "titular": "PSG - Mónaco, en directo: sigue el partido de la Ligue 1, en vivo hoy",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/futbol-internacional/america/brasileirao-bate-record-extranjeros-ocurriendo-133954363"
+      "enlace": "https://www.sport.es/es/noticias/futbol-internacional/psg-monaco-directo-sigue-partido-133880504"
     },
     {
-      "titular": "Real Betis - Real Madrid, en directo: partido de LaLiga EA Sports en vivo",
+      "titular": "Real Sociedad B-CD Tenerife, una engañosa tregua del calendario en Zubieta",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/real-madrid/real-betis-real-madrid-directo-133957160"
+      "enlace": "https://www.sport.es/es/noticias/futbol/segunda-rfef/real-sociedad-b-cd-tenerife-133968298"
     },
     {
-      "titular": "Obed Vargas se queda sin viajar a San Mamés para buscar una cesión",
+      "titular": "Un vídeo inédito de Leo Messi y Maxi Rodríguez con la Jabulani del Mundial 2010 se vuelve viral 16 años después",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-04T18:55:20+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20260904/1004223368/obed-vargas-queda-viajar-san-mames-buscar-cesion.html"
+      "fecha": "2026-09-04T21:19:09+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/internacional/20260904/1004223406/video-inedito-leo-messi-maxi-rodriguez-jabulani-mundial-2010-vuelve-viral-16-anos.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 21,
+    "antiguedad_minima_min": 19,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 61,
         "error": null,
-        "antiguedad_min": 5887,
+        "antiguedad_min": 6032,
         "descartados_por_gancho": 10
       },
       {
@@ -98,16 +98,16 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 142,
+        "items": 143,
         "error": null,
-        "antiguedad_min": 21,
-        "descartados_por_gancho": 8
+        "antiguedad_min": 19,
+        "descartados_por_gancho": 6
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 49,
+        "items": 50,
         "error": null,
         "antiguedad_min": null,
         "descartados_por_gancho": 0

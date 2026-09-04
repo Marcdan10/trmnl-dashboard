@@ -2,62 +2,61 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-09-04T19:19:50+02:00",
+  "generado": "2026-09-04T21:45:01+02:00",
   "titulares": [
     {
-      "titular": "El juez amenaza con declarar nulo el juicio a Lindsay Clancy por matar a sus tres hijos por el bloqueo del jurado",
-      "medios": [
-        "El País",
-        "ABC"
-      ],
-      "consenso": 2,
-      "fecha": "2026-09-04T19:11:29+02:00",
-      "enlace": "https://elpais.com/sociedad/2026-09-04/el-juez-amenaza-con-declarar-nulo-el-juicio-a-lindsay-clancy-por-matar-a-sus-tres-hijos-por-el-bloqueo-del-jurado.html"
-    },
-    {
-      "titular": "La ONU adopta un nuevo mapa de África más ajustado a las dimensiones reales, en una resolución no vinculante",
+      "titular": "Wu Yibing - Carlos Alcaraz, el partido del US Open, en directo|Alcaraz gana el primer set del encuentro",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-04T19:05:59+02:00",
-      "enlace": "https://elpais.com/planeta-futuro/2026-09-04/la-onu-adopta-un-nuevo-mapa-de-africa-mas-ajustado-a-las-dimensiones-reales-en-una-resolucion-no-vinculante.html"
+      "fecha": "2026-09-04T21:41:05+02:00",
+      "enlace": "https://elpais.com/deportes/2026-09-04/wu-yibing-carlos-alcaraz-el-partido-del-us-open-en-directo.html"
     },
     {
-      "titular": "Un dron ruso golpea la sede de la agencia de Inteligencia ucraniana",
+      "titular": "El Madrid acumula ocasiones pero el empate se mantiene",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-04T19:05:12+02:00",
-      "enlace": "https://www.abc.es/internacional/dron-ruso-golpea-sede-agencia-inteligencia-ucraniana-20260904160923-nt.html"
+      "fecha": "2026-09-04T21:39:20+02:00",
+      "enlace": "https://www.abc.es/deportes/real-madrid/betis-real-madrid-directo-resultado-ganador-goles-20260904090423-di.html"
     },
     {
-      "titular": "«Seat S.A. abre una nueva era industrial con el impulso de Cupra»",
+      "titular": "Betis - Real Madrid en directo: dominio alterno y 0-0",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-04T21:33:06+02:00",
+      "enlace": "https://elpais.com/deportes/futbol/2026-09-04/betis-real-madrid-en-directo-el-partido-de-la-liga-en-vivo.html"
+    },
+    {
+      "titular": "Meloni celebra la resiliencia de su Gobierno y mira ya a la reelección",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-04T19:03:43+02:00",
-      "enlace": "https://www.abc.es/motor/economia/seat-abre-nueva-era-industrial-impulso-cupra-20260904140557-nt.html"
+      "fecha": "2026-09-04T21:09:00+02:00",
+      "enlace": "https://www.abc.es/internacional/meloni-celebra-gobierno-longevo-republica-italiana-20260904210609-nt.html"
     },
     {
-      "titular": "Jeremy Irons, Orlando Bloom y Marion Cotillard estarán en el Festival de San Sebastián",
+      "titular": "Un Reino Unido en crisis económica y militar reafirma que las islas Malvinas son suyas",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-04T18:41:31+02:00",
-      "enlace": "https://www.lavanguardia.com/cultura/20260904/11627519/jeremy-irons-orlando-bloom-marion-cotillard-estaran-festival-san-sebastian.html"
+      "fecha": "2026-09-04T20:21:43+02:00",
+      "enlace": "https://www.lavanguardia.com/internacional/20260904/11627572/reino-unido-crisis-economica-militar-reafirma-islas-malvinas-son.html"
     },
     {
-      "titular": "Sergi Belbel se ingenia un ‘deus ex machina’ en el Heartbreak Hotel",
+      "titular": "Varias mujeres expulsadas de un discurso del líder ultraderechista británico, Nigel Farage",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-04T18:19:04+02:00",
-      "enlace": "https://www.lavanguardia.com/cultura/20260904/11627513/belbel-ia-heartbreak-roca-cambray.html"
+      "fecha": "2026-09-04T20:03:31+02:00",
+      "enlace": "https://www.lavanguardia.com/internacional/20260904/11627564/mujeres-expulsadas-discurso-lider-ultraderechista-britanico-nigel-farage.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -75,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 8,
+    "antiguedad_minima_min": 3,
     "detalle": [
       {
         "medio": "RTVE",
@@ -83,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2228774,
+        "antiguedad_min": 2228920,
         "descartados_por_gancho": 0
       },
       {
@@ -91,25 +90,25 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 500",
+        "error": "HTTP 429",
         "antiguedad_min": null
       },
       {
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 140,
+        "items": 139,
         "error": null,
-        "antiguedad_min": 8,
+        "antiguedad_min": 3,
         "descartados_por_gancho": 2
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 133,
+        "items": 132,
         "error": null,
-        "antiguedad_min": 38,
+        "antiguedad_min": 83,
         "descartados_por_gancho": 14
       },
       {
@@ -118,7 +117,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 14,
+        "antiguedad_min": 5,
         "descartados_por_gancho": 0
       }
     ]

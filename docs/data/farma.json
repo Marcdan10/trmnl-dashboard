@@ -2,8 +2,17 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "ultimas",
-  "generado": "2026-09-04T19:20:01+02:00",
+  "generado": "2026-09-04T21:45:32+02:00",
   "titulares": [
+    {
+      "titular": "Merina tras la convocatoria de la Asamblea General del Icomem: \"Sellés es incapaz de ponerse delante de mí, por eso se refugia en la vía telemática\"",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-04T20:20:27+02:00",
+      "enlace": "https://www.redaccionmedica.com/autonomias/madrid/20260904/merina-tras-la-convocatoria-de-asamblea-general-del-icomem-selles-es-incapaz-ponerse-delante-mi-por-eso-se-refugia-en-via-telematica/350218_0.html"
+    },
     {
       "titular": "\"La sanidad necesita una nueva generación de gestores con vocación transformadora\"",
       "medios": [
@@ -12,15 +21,6 @@
       "consenso": 1,
       "fecha": "2026-09-04T18:00:00+02:00",
       "enlace": "https://www.redaccionmedica.com/autonomias/catalunya/20260904/la-sanidad-necesita-una-nueva-generacion-de-gestores-con-vocacion-transformadora/350195_0.html"
-    },
-    {
-      "titular": "Luz verde al nuevo modelo de financiación autonómica con 2 instrumentos para garantizar el reparto sanitario",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-04T16:01:46+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20260904/luz-verde-al-nuevo-modelo-de-financiacion-autonomica-con-instrumentos-para-garantizar-el-reparto-sanitario/350214_0.html"
     },
     {
       "titular": "El PRAC analiza la seguridad del hierro parenteral y sus riesgos de afección ósea",
@@ -41,22 +41,13 @@
       "enlace": "https://diariofarma.com/2026/09/04/cooke-el-regulador-del-futuro-debe-ser-tan-innovador-como-la-ciencia-que-evalua"
     },
     {
-      "titular": "El PRAC investiga el riesgo de hipofosfatemia y problemas óseos relacionados con los medicamentos inyectables de hierro",
+      "titular": "Luz verde al nuevo modelo de financiación autonómica con 2 instrumentos para garantizar el reparto sanitario",
       "medios": [
-        "El Global"
+        "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-09-04T14:47:04+02:00",
-      "enlace": "https://elglobalfarma.com/industria/prac-investiga-riesgo-hipofosfatemia-problemas-oseos-medicamentos-inyectables-hierro/"
-    },
-    {
-      "titular": "Cooke (EMA) reclama “reimaginar” la regulación de medicamentos para hacerla más ágil sin comprometer los estándares",
-      "medios": [
-        "El Global"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-04T14:39:51+02:00",
-      "enlace": "https://elglobalfarma.com/industria/emer-cooke-ema-reimaginar-regulacion-medicamentos-agil/"
+      "fecha": "2026-09-04T16:01:46+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20260904/luz-verde-al-nuevo-modelo-de-financiacion-autonomica-con-instrumentos-para-garantizar-el-reparto-sanitario/350214_0.html"
     },
     {
       "titular": "De Lugo a California: nueve semanas para aprender otra forma de ejercer la Veterinaria",
@@ -66,17 +57,27 @@
       "consenso": 1,
       "fecha": "2026-09-04T15:44:17+02:00",
       "enlace": "https://www.redaccionmedica.com/formacion/estudiantes/20260904/de-lugo-california-nueve-semanas-para-aprender-otra-forma-de-ejercer-la-veterinaria/350204_0.html"
+    },
+    {
+      "titular": "El PSOE europeo busca blindar el \"carácter no comercial\" del trasplante de órganos",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-04T15:26:42+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20260904/el-psoe-europeo-busca-blindar-el-caracter-no-comercial-del-trasplante-de-organos/350207_0.html"
     }
   ],
   "salud": {
     "feeds_totales": 7,
-    "feeds_ok": 4,
+    "feeds_ok": 3,
     "feeds_caidos": [
+      "El Global",
       "PMFarma",
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 79,
+    "antiguedad_minima_min": 84,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,17 +85,16 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 248,
+        "antiguedad_min": 393,
         "descartados_por_gancho": 0
       },
       {
         "medio": "El Global",
         "url": "https://elglobal.es/feed/",
-        "ok": true,
-        "items": 9,
-        "error": null,
-        "antiguedad_min": 272,
-        "descartados_por_gancho": 1
+        "ok": false,
+        "items": 0,
+        "error": "URLError: <urlopen error timed out>",
+        "antiguedad_min": null
       },
       {
         "medio": "Redacción Médica",
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 79,
+        "antiguedad_min": 84,
         "descartados_por_gancho": 0
       },
       {
