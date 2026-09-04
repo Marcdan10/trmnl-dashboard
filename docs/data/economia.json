@@ -1,35 +1,62 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "portadas",
-  "generado": "2026-09-04T11:48:49+02:00",
+  "modo": "ultimas",
+  "generado": "2026-09-04T15:55:21+02:00",
   "titulares": [
     {
-      "titular": "España impulsará un impuesto del gas y petróleo en la UE contra el cambio climático",
+      "titular": "El Gobierno endurece las exigencias a las empresas para despedir en periodo de prueba",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-04T09:47:27+02:00",
-      "enlace": "https://www.expansion.com/economia/financial-times/2026/09/04/6a9a729a468aeba6398b45a1.html"
+      "fecha": "2026-09-04T15:10:31+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/09/04/6a9abcb7e5fdea3c568b458e.html"
     },
     {
-      "titular": "Marc Armengol prepara el nuevo plan estratégico para Sabadell",
+      "titular": "El empleo sorprende al alza en EEUU: crea 162.000 nuevos puestos en agosto",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-04T02:17:43+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/09/04/6a99aba7468aeb6f458b4593.html"
+      "fecha": "2026-09-04T15:08:46+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/09/04/6a9abf32e5fdeade698b457c.html"
     },
     {
-      "titular": "Iberdrola reactiva sus inversiones en España con un récord de 1.200 millones",
+      "titular": "El Ibex digiere la sorpresa del empleo de EEUU",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-04T02:39:16+02:00",
-      "enlace": "https://www.expansion.com/empresas/energia/2026/09/04/6a99dafe468aeba6398b458e.html"
+      "fecha": "2026-09-04T14:58:56+02:00",
+      "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/09/04/6a9a5ba3e5fdeaf54e8b4582.html"
+    },
+    {
+      "titular": "Así es Man Group, la mayor gestora europea de 'hedge funds'",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-04T14:58:31+02:00",
+      "enlace": "https://www.expansion.com/mercados/fondos/2026/09/03/6a994eaee5fdea06448b457c.html"
+    },
+    {
+      "titular": "Airbus y los sindicatos alcanzan un preacuerdo tras la mediación de Industria",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-04T14:56:20+02:00",
+      "enlace": "https://www.expansion.com/empresas/industria/2026/09/04/6a9a919ce5fdea92568b4577.html"
+    },
+    {
+      "titular": "Hacienda aprueba la reforma de la financiación autonómica con los únicos apoyos de Cataluña y Canarias",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-04T14:53:26+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/09/04/6a9a87bb468aeb437d8b4578.html"
     },
     {
       "titular": "Volkswagen celebra en Bolsa la reestructuración y los analistas aplauden su \"realismo\"",
@@ -37,35 +64,8 @@
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-04T10:51:26+02:00",
+      "fecha": "2026-09-04T14:53:13+02:00",
       "enlace": "https://www.expansion.com/mercados/2026/09/04/6a9a7c5c468aebd2028b4581.html"
-    },
-    {
-      "titular": "Volkswagen aprueba el plan de ajuste: recortará 50.000 empleos y deja en el aire cuatro plantas alemanas",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-03T21:54:58+02:00",
-      "enlace": "https://www.expansion.com/empresas/motor/2026/09/03/6a99cfffe5fdeabb608b457c.html"
-    },
-    {
-      "titular": "La resurrección del software en Bolsa deja descolocados a los inversores",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-03T20:47:14+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/09/03/6a999880468aeb524c8b4588.html"
-    },
-    {
-      "titular": "Charme y Miura lanzan el proceso de venta de Indiba valorada en 500 millones",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-04T02:39:18+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/09/04/6a99b81a468aebed3a8b4571.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 27,
+    "antiguedad_minima_min": 44,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 75,
+        "items": 77,
         "error": null,
-        "antiguedad_min": 27,
+        "antiguedad_min": 44,
         "descartados_por_gancho": 1
       },
       {
