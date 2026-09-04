@@ -2,8 +2,17 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "portadas",
-  "generado": "2026-09-04T07:20:20+02:00",
+  "generado": "2026-09-04T11:48:49+02:00",
   "titulares": [
+    {
+      "titular": "España impulsará un impuesto del gas y petróleo en la UE contra el cambio climático",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-04T09:47:27+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/09/04/6a9a729a468aeba6398b45a1.html"
+    },
     {
       "titular": "Marc Armengol prepara el nuevo plan estratégico para Sabadell",
       "medios": [
@@ -12,15 +21,6 @@
       "consenso": 1,
       "fecha": "2026-09-04T02:17:43+02:00",
       "enlace": "https://www.expansion.com/empresas/banca/2026/09/04/6a99aba7468aeb6f458b4593.html"
-    },
-    {
-      "titular": "Volkswagen aprueba el plan de ajuste: recortará 50.000 empleos y deja en el aire cuatro plantas alemanas",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-03T21:54:58+02:00",
-      "enlace": "https://www.expansion.com/empresas/motor/2026/09/03/6a99cfffe5fdeabb608b457c.html"
     },
     {
       "titular": "Iberdrola reactiva sus inversiones en España con un récord de 1.200 millones",
@@ -32,13 +32,31 @@
       "enlace": "https://www.expansion.com/empresas/energia/2026/09/04/6a99dafe468aeba6398b458e.html"
     },
     {
-      "titular": "Los Benetton ultiman el desembarco en España de su fondo 21 Next",
+      "titular": "Volkswagen celebra en Bolsa la reestructuración y los analistas aplauden su \"realismo\"",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-04T02:39:17+02:00",
-      "enlace": "https://www.expansion.com/empresas/inmobiliario/2026/09/04/6a99c76d468aebe6408b4599.html"
+      "fecha": "2026-09-04T10:51:26+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/09/04/6a9a7c5c468aebd2028b4581.html"
+    },
+    {
+      "titular": "Volkswagen aprueba el plan de ajuste: recortará 50.000 empleos y deja en el aire cuatro plantas alemanas",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-03T21:54:58+02:00",
+      "enlace": "https://www.expansion.com/empresas/motor/2026/09/03/6a99cfffe5fdeabb608b457c.html"
+    },
+    {
+      "titular": "La resurrección del software en Bolsa deja descolocados a los inversores",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-03T20:47:14+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/09/03/6a999880468aeb524c8b4588.html"
     },
     {
       "titular": "Charme y Miura lanzan el proceso de venta de Indiba valorada en 500 millones",
@@ -48,24 +66,6 @@
       "consenso": 1,
       "fecha": "2026-09-04T02:39:18+02:00",
       "enlace": "https://www.expansion.com/empresas/2026/09/04/6a99b81a468aebed3a8b4571.html"
-    },
-    {
-      "titular": "CaixaBank supera el millón de pagos diarios con Bizum con el impulso del 'e-commerce'",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-04T02:39:19+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/09/04/6a99b39ee5fdeaa7378b4586.html"
-    },
-    {
-      "titular": "OpenAI lanza Astra, su modelo más potente y controvertido hasta la fecha",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-03T21:56:45+02:00",
-      "enlace": "https://www.expansion.com/economia-digital/companias/2026/09/03/6a99ca67e5fdea8d438b4582.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 266,
+    "antiguedad_minima_min": 27,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 64,
+        "items": 75,
         "error": null,
-        "antiguedad_min": 266,
+        "antiguedad_min": 27,
         "descartados_por_gancho": 1
       },
       {

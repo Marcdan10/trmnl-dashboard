@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-09-04T07:20:23+02:00",
+  "generado": "2026-09-04T11:48:51+02:00",
   "titulares": [
     {
-      "titular": "Las claves del fichaje de consenso de Gabriel Jesus por el Barça",
+      "titular": "Gabriel Jesus tiene donde inspirarse: debuts exitosos de brasileños del Barça",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-04T00:30:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260904/1004223117/claves-fichaje-consenso-gabriel-jesus-barca.html"
+      "fecha": "2026-09-04T10:00:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260904/1004223143/gabriel-jesus-inspirarse-debuts-exitosos-brasilenos-barca-liga.html"
     },
     {
-      "titular": "Libres del GP de Italia de F1 hoy: horario y dónde ver Fórmula 1 por TV, en directo con Fernando Alonso",
+      "titular": "Suma y sigue la mala racha de Maverick Viñales: Pol Espargaró le reemplazará también en Misano",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/motor/formula1/libres-gp-italia-f1-horario-donde-ver-133914186"
+      "enlace": "https://www.sport.es/es/noticias/motor/moto-gp/suma-sigue-mala-racha-maverick-133940214"
     },
     {
       "titular": "Bombazo: Messi se retira de la selección argentina",
@@ -32,22 +32,22 @@
       "enlace": "https://www.marca.com/futbol/2026/08/31/bombazo-messi-retira-seleccion-argentina.html"
     },
     {
-      "titular": "Como el Barça, el Feyenoord también cierra su mercado fichando en el Arsenal",
+      "titular": "Factor de gol cada 112 minutos en la Premier, buena señal para el Barça",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-03T20:54:11+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260903/1004223081/barca-feyenoord-cierra-mercado-fichando-arsenal.html"
+      "fecha": "2026-09-04T05:00:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260904/1004223118/factor-gol-112-minutos-premier-buena-senal-barca.html"
     },
     {
-      "titular": "Unicaja-Caja 87 Sevilla, final de la Copa Andalucía: fecha, hora y dónde se puede ver por televisión",
+      "titular": "Novedades en el entrenamiento del Valencia CF a solo dos días de recibir al Barcelona",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/baloncesto/unicaja-caja-87-sevilla-final-133934110"
+      "enlace": "https://www.sport.es/es/noticias/valencia/novedades-entrenamiento-valencia-cf-dias-133941828"
     },
     {
       "titular": "Lando Norris y por qué cree que debería ganar lo que Verstappen y Hamilton",
@@ -59,14 +59,13 @@
       "enlace": "https://www.marca.com/motor/formula1/gp-italia/2026/08/31/lando-norris-cree-deberia-ganar-verstappen-hamilton.html"
     },
     {
-      "titular": "El Barça, con Hamza y Bisiwu en la lista A de la Champions y Fariñas, en la B",
+      "titular": "Las claves del fichaje de consenso de Gabriel Jesus por el Barça",
       "medios": [
-        "Mundo Deportivo",
-        "Sport"
+        "Mundo Deportivo"
       ],
-      "consenso": 2,
-      "fecha": "2026-09-03T21:04:02+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260903/1004223091/barca-hamza-bisiwu-lista-champions-farinas-b.html"
+      "consenso": 1,
+      "fecha": "2026-09-04T00:30:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260904/1004223117/claves-fichaje-consenso-gabriel-jesus-barca.html"
     }
   ],
   "salud": {
@@ -75,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 232,
+    "antiguedad_minima_min": 27,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +82,7 @@
         "ok": true,
         "items": 61,
         "error": null,
-        "antiguedad_min": 5167,
+        "antiguedad_min": 5436,
         "descartados_por_gancho": 10
       },
       {
@@ -99,19 +98,19 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 145,
+        "items": 142,
         "error": null,
-        "antiguedad_min": 232,
-        "descartados_por_gancho": 3
+        "antiguedad_min": 27,
+        "descartados_por_gancho": 8
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 47,
+        "items": 45,
         "error": null,
         "antiguedad_min": null,
-        "descartados_por_gancho": 3
+        "descartados_por_gancho": 4
       },
       {
         "medio": "NBA",
