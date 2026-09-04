@@ -2,61 +2,62 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-09-04T15:55:17+02:00",
+  "generado": "2026-09-04T19:19:50+02:00",
   "titulares": [
     {
-      "titular": "OpenAI lanza GPT-6 Astra, su modelo más potente, entre especulaciones sobre si han alcanzado la superinteligencia artificial",
+      "titular": "El juez amenaza con declarar nulo el juicio a Lindsay Clancy por matar a sus tres hijos por el bloqueo del jurado",
+      "medios": [
+        "El País",
+        "ABC"
+      ],
+      "consenso": 2,
+      "fecha": "2026-09-04T19:11:29+02:00",
+      "enlace": "https://elpais.com/sociedad/2026-09-04/el-juez-amenaza-con-declarar-nulo-el-juicio-a-lindsay-clancy-por-matar-a-sus-tres-hijos-por-el-bloqueo-del-jurado.html"
+    },
+    {
+      "titular": "La ONU adopta un nuevo mapa de África más ajustado a las dimensiones reales, en una resolución no vinculante",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-04T15:46:11+02:00",
-      "enlace": "https://elpais.com/tecnologia/2026-09-04/openai-lanza-gpt-6-astra-su-modelo-mas-potente-entre-especulaciones-sobre-si-han-alcanzado-la-superinteligencia-artificial.html"
+      "fecha": "2026-09-04T19:05:59+02:00",
+      "enlace": "https://elpais.com/planeta-futuro/2026-09-04/la-onu-adopta-un-nuevo-mapa-de-africa-mas-ajustado-a-las-dimensiones-reales-en-una-resolucion-no-vinculante.html"
     },
     {
-      "titular": "El juez rechaza la petición de Zapatero de declarar la “nulidad general” del ‘caso Plus Ultra’",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-04T15:39:02+02:00",
-      "enlace": "https://elpais.com/espana/2026-09-04/el-juez-rechaza-la-peticion-de-zapatero-de-declarar-la-nulidad-general-del-caso-plus-ultra.html"
-    },
-    {
-      "titular": "Antonio Lobato: «Siempre desayuno una barrita con aguacate, aceite, tomate. Después de escalar, me tomo una cerveza»",
+      "titular": "Un dron ruso golpea la sede de la agencia de Inteligencia ucraniana",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-04T15:29:18+02:00",
-      "enlace": "https://www.abc.es/gente/antonio-lobato-anos-siempre-desayuno-barrita-aguacate-20260902090715-nt.html"
+      "fecha": "2026-09-04T19:05:12+02:00",
+      "enlace": "https://www.abc.es/internacional/dron-ruso-golpea-sede-agencia-inteligencia-ucraniana-20260904160923-nt.html"
     },
     {
-      "titular": "Seat admite que seguir invirtiendo en la marca es «cada vez más complejo» y redobla su apuesta por Cupra",
+      "titular": "«Seat S.A. abre una nueva era industrial con el impulso de Cupra»",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-04T15:10:14+02:00",
-      "enlace": "https://www.abc.es/espana/cataluna/seat-admite-seguir-invirtiendo-marca-vez-complejo-20260904140921-nt.html"
+      "fecha": "2026-09-04T19:03:43+02:00",
+      "enlace": "https://www.abc.es/motor/economia/seat-abre-nueva-era-industrial-impulso-cupra-20260904140557-nt.html"
     },
     {
-      "titular": "Feijóo acusa a Sánchez de ser el presidente “que más conviene” a Marruecos por Ceuta",
+      "titular": "Jeremy Irons, Orlando Bloom y Marion Cotillard estarán en el Festival de San Sebastián",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-04T15:01:14+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20260904/11627336/feijoo-acusa-sanchez-presidente-mas-conviene-marruecos-ceuta.html"
+      "fecha": "2026-09-04T18:41:31+02:00",
+      "enlace": "https://www.lavanguardia.com/cultura/20260904/11627519/jeremy-irons-orlando-bloom-marion-cotillard-estaran-festival-san-sebastian.html"
     },
     {
-      "titular": "El ministro de Hacienda regala a Madrid el libro 'El dolor de los demás' y a Catalunya, un ejemplar de Chaves Nogales",
+      "titular": "Sergi Belbel se ingenia un ‘deus ex machina’ en el Heartbreak Hotel",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-04T14:57:38+02:00",
-      "enlace": "https://www.lavanguardia.com/economia/20260904/11627333/ministro-hacienda-regala-madrid-libro-dolor-catalunya-ejemplar-chaves-nogales.html"
+      "fecha": "2026-09-04T18:19:04+02:00",
+      "enlace": "https://www.lavanguardia.com/cultura/20260904/11627513/belbel-ia-heartbreak-roca-cambray.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -74,7 +75,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 9,
+    "antiguedad_minima_min": 8,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +83,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2228570,
+        "antiguedad_min": 2228774,
         "descartados_por_gancho": 0
       },
       {
@@ -97,18 +98,18 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 138,
+        "items": 140,
         "error": null,
-        "antiguedad_min": 9,
-        "descartados_por_gancho": 4
+        "antiguedad_min": 8,
+        "descartados_por_gancho": 2
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 131,
+        "items": 133,
         "error": null,
-        "antiguedad_min": 54,
+        "antiguedad_min": 38,
         "descartados_por_gancho": 14
       },
       {
@@ -117,7 +118,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 25,
+        "antiguedad_min": 14,
         "descartados_por_gancho": 0
       }
     ]

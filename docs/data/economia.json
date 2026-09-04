@@ -2,8 +2,62 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-09-04T15:55:21+02:00",
+  "generado": "2026-09-04T19:19:53+02:00",
   "titulares": [
+    {
+      "titular": "La subida de tipos de la Fed podría hacer caer un 5% las bolsas europeas",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-04T18:59:39+02:00",
+      "enlace": "https://www.expansion.com/inversion/2026/09/04/6a9af898e5fdeaee0c8b4578.html"
+    },
+    {
+      "titular": "Renfe endurece el control sobre los trenes de Talgo",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-04T18:47:26+02:00",
+      "enlace": "https://www.expansion.com/empresas/transporte/2026/09/04/6a9af5b0468aeb273f8b4576.html"
+    },
+    {
+      "titular": "El Ibex cierra con suaves alzas y salda la semana en tablas",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-04T17:38:50+02:00",
+      "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/09/04/6a9a5ba3e5fdeaf54e8b4582.html"
+    },
+    {
+      "titular": "El fondo soberano de Noruega propone reducir sus tenencias de bonos del Tesoro de EEUU",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-04T16:40:46+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/09/04/6a9ad76f468aeb96178b459e.html"
+    },
+    {
+      "titular": "Por qué Estados Unidos e Irán siguen escalando el conflicto",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-04T16:34:52+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/09/04/6a9ad6f8e5fdea0a6c8b4580.html"
+    },
+    {
+      "titular": "Trump amenaza con cortar lazos comerciales con decenas de países si la Fed no baja tipos",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-04T16:19:41+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/09/04/6a9ad365e5fdea10618b4574.html"
+    },
     {
       "titular": "El Gobierno endurece las exigencias a las empresas para despedir en periodo de prueba",
       "medios": [
@@ -12,60 +66,6 @@
       "consenso": 1,
       "fecha": "2026-09-04T15:10:31+02:00",
       "enlace": "https://www.expansion.com/economia/2026/09/04/6a9abcb7e5fdea3c568b458e.html"
-    },
-    {
-      "titular": "El empleo sorprende al alza en EEUU: crea 162.000 nuevos puestos en agosto",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-04T15:08:46+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/09/04/6a9abf32e5fdeade698b457c.html"
-    },
-    {
-      "titular": "El Ibex digiere la sorpresa del empleo de EEUU",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-04T14:58:56+02:00",
-      "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/09/04/6a9a5ba3e5fdeaf54e8b4582.html"
-    },
-    {
-      "titular": "Así es Man Group, la mayor gestora europea de 'hedge funds'",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-04T14:58:31+02:00",
-      "enlace": "https://www.expansion.com/mercados/fondos/2026/09/03/6a994eaee5fdea06448b457c.html"
-    },
-    {
-      "titular": "Airbus y los sindicatos alcanzan un preacuerdo tras la mediación de Industria",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-04T14:56:20+02:00",
-      "enlace": "https://www.expansion.com/empresas/industria/2026/09/04/6a9a919ce5fdea92568b4577.html"
-    },
-    {
-      "titular": "Hacienda aprueba la reforma de la financiación autonómica con los únicos apoyos de Cataluña y Canarias",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-04T14:53:26+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/09/04/6a9a87bb468aeb437d8b4578.html"
-    },
-    {
-      "titular": "Volkswagen celebra en Bolsa la reestructuración y los analistas aplauden su \"realismo\"",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-04T14:53:13+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/09/04/6a9a7c5c468aebd2028b4581.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 44,
+    "antiguedad_minima_min": 20,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 77,
+        "items": 78,
         "error": null,
-        "antiguedad_min": 44,
+        "antiguedad_min": 20,
         "descartados_por_gancho": 1
       },
       {

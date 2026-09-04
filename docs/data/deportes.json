@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-09-04T15:55:23+02:00",
+  "generado": "2026-09-04T19:19:55+02:00",
   "titulares": [
     {
-      "titular": "El árbitro que no vio el penalti de Carvajal a Llorente estará en el Athletic-Atlético",
+      "titular": "Resultado gafas de la Real por primera vez en 16 meses",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-04T15:23:13+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20260904/1004223294/arbitro-no-vio-penalti-carvajal-llorente-estara-athletic-atletico.html"
+      "fecha": "2026-09-04T18:58:18+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-sociedad/20260904/1004223370/resultado-gafas-real-primera-vez-16-meses.html"
     },
     {
-      "titular": "El Barça extrema las precauciones ante el Feyenoord",
+      "titular": "Muestra de amor de Van Aert: \"Mis niños y mi esposa Sarah me dan el apoyo que necesito para rendir al máximo\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-04T15:19:42+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260904/1004223297/barca-extrema-protecciones-feyenoord.html"
+      "fecha": "2026-09-04T18:56:18+02:00",
+      "enlace": "https://www.mundodeportivo.com/ciclismo/vuelta-espana/20260904/1004223369/muestra-amor-aert-mis-ninos-mi-esposa-sarah-me-dan-apoyo-necesito-rendir-maximo.html"
     },
     {
       "titular": "Bombazo: Messi se retira de la selección argentina",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/motor/formula1/gp-italia/2026/08/31/lando-norris-cree-deberia-ganar-verstappen-hamilton.html"
     },
     {
-      "titular": "El protocolo de seguridad para el Barça-Feyenoord, declarado de alto riesgo",
+      "titular": "El Brasileirão bate el récord de extranjeros: ¿qué está ocurriendo?",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/barca/protocolo-seguridad-barca-feyenoord-declarado-133955896"
+      "enlace": "https://www.sport.es/es/noticias/futbol-internacional/america/brasileirao-bate-record-extranjeros-ocurriendo-133954363"
     },
     {
-      "titular": "Xavi Pascual vuelve a pescar en España: se lleva una promesa de Zaragoza",
+      "titular": "Real Betis - Real Madrid, en directo: partido de LaLiga EA Sports en vivo",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/baloncesto/xavi-pascual-vuelve-pescar-espana-133953437"
+      "enlace": "https://www.sport.es/es/noticias/real-madrid/real-betis-real-madrid-directo-133957160"
     },
     {
-      "titular": "Alejandro Quintero es el árbitro del segundo exilio del Rayo Vallecano",
+      "titular": "Obed Vargas se queda sin viajar a San Mamés para buscar una cesión",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-04T15:16:41+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/rayo-vallecano/20260904/1004223293/alejandro-quintero-arbitro-segundo-exilio-rayo-vallecano.html"
+      "fecha": "2026-09-04T18:55:20+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20260904/1004223368/obed-vargas-queda-viajar-san-mames-buscar-cesion.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 32,
+    "antiguedad_minima_min": 21,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 61,
         "error": null,
-        "antiguedad_min": 5682,
+        "antiguedad_min": 5887,
         "descartados_por_gancho": 10
       },
       {
@@ -98,10 +98,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 145,
+        "items": 142,
         "error": null,
-        "antiguedad_min": 32,
-        "descartados_por_gancho": 6
+        "antiguedad_min": 21,
+        "descartados_por_gancho": 8
       },
       {
         "medio": "Sport",
