@@ -1,26 +1,26 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "ultimas",
-  "generado": "2026-09-05T23:26:35+02:00",
+  "modo": "portadas",
+  "generado": "2026-09-06T01:05:58+02:00",
   "titulares": [
     {
-      "titular": "Remontada in extremis de una Roma que sigue soñando con su liderato",
+      "titular": "2-3: 'Pierre-MVP' Aubameyang continúa dando volteretas",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-05T22:56:12+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/serie-a/20260905/1004223778/roma-atalanta.html"
+      "fecha": "2026-09-05T23:05:12+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/laliga/20260905/1004223792/pierre-mvp-aubameyang-continua-dando-volteretas.html"
     },
     {
-      "titular": "Cintora, tras el ataque de Ayuso a RTVE: \"Igual lo de televisión del régimen lo dice por Telemadrid\"",
+      "titular": "El Real Zaragoza rompe una doble racha de 160 días sin ganar en casa y sin encajar gol",
       "medios": [
-        "Mundo Deportivo"
+        "Sport"
       ],
       "consenso": 1,
-      "fecha": "2026-09-05T22:45:50+02:00",
-      "enlace": "https://www.mundodeportivo.com/elotromundo/television/20260905/1004223786/jesus-cintora-ultimo-ataque-ayuso-rtve-igual-television-regimen-dice-telemadrid-participa-gente-habla-levantamientos-dct.html"
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/futbol/real-zaragoza-rompe-doble-racha-133994361"
     },
     {
       "titular": "Bombazo: Messi se retira de la selección argentina",
@@ -32,6 +32,24 @@
       "enlace": "https://www.marca.com/futbol/2026/08/31/bombazo-messi-retira-seleccion-argentina.html"
     },
     {
+      "titular": "0-4: Caroline Graham lidera otra exhibición del Barça",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-05T22:59:06+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260905/1004223789/caroline-graham-lidera-exhibicion-barca.html"
+    },
+    {
+      "titular": "Ibai Gómez, tras el agónico triunfo del Real Zaragoza: \"Ha llegado el premio que el equipo se merecía\"",
+      "medios": [
+        "Sport"
+      ],
+      "consenso": 1,
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/futbol/ibai-gomez-agonico-triunfo-real-133994235"
+    },
+    {
       "titular": "Lando Norris y por qué cree que debería ganar lo que Verstappen y Hamilton",
       "medios": [
         "Marca"
@@ -41,31 +59,13 @@
       "enlace": "https://www.marca.com/motor/formula1/gp-italia/2026/08/31/lando-norris-cree-deberia-ganar-verstappen-hamilton.html"
     },
     {
-      "titular": "2-3 | Aubameyang reina entre los pecados y el vértigo",
-      "medios": [
-        "Sport"
-      ],
-      "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/futbol/2-3-aubameyang-reina-pecados-133993792"
-    },
-    {
-      "titular": "La crónica del Villarreal-Dépor | No hay manera de arrancar (2-3)",
-      "medios": [
-        "Sport"
-      ],
-      "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/villarreal/cronica-villarreal-depor-hay-manera-133993794"
-    },
-    {
-      "titular": "121-80: El nuevo Madrid avisa con un gran festival de anotación",
+      "titular": "La titularidad en el Barça está cara: así está el once",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-05T22:41:35+02:00",
-      "enlace": "https://www.mundodeportivo.com/baloncesto/acb/20260905/1004223785/121-80-nuevo-madrid-avisa-gran-festival-anotacion.html"
+      "fecha": "2026-09-05T16:19:37+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260905/1004223573/titularidad-barca-cara-asi-once.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 30,
+    "antiguedad_minima_min": 35,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 61,
         "error": null,
-        "antiguedad_min": 7574,
+        "antiguedad_min": 7673,
         "descartados_por_gancho": 10
       },
       {
@@ -100,14 +100,14 @@
         "ok": true,
         "items": 145,
         "error": null,
-        "antiguedad_min": 30,
+        "antiguedad_min": 35,
         "descartados_por_gancho": 3
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 48,
+        "items": 49,
         "error": null,
         "antiguedad_min": null,
         "descartados_por_gancho": 1

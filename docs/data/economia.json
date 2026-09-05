@@ -1,17 +1,26 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "ultimas",
-  "generado": "2026-09-05T23:26:34+02:00",
+  "modo": "portadas",
+  "generado": "2026-09-06T01:05:55+02:00",
   "titulares": [
     {
-      "titular": "El balancín de los mercados de valores",
+      "titular": "Veinte gigantes bursátiles con las mejores perspectivas para ganar",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-05T20:36:15+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/09/05/6a9c1b4e468aebb5348b4579.html"
+      "fecha": "2026-09-05T00:29:33+02:00",
+      "enlace": "https://www.expansion.com/inversion/2026/09/05/6a9b0b29468aeb03508b4597.html"
+    },
+    {
+      "titular": "Volkswagen garantiza el futuro de sus plantas españolas pese al repliegue de Seat",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-05T00:28:24+02:00",
+      "enlace": "https://www.expansion.com/empresas/motor/2026/09/05/6a9acd0c468aeb2d018b458c.html"
     },
     {
       "titular": "Madrid y Barcelona: los precios de la vivienda siguen al alza en la mayoría de sus barrios",
@@ -23,31 +32,13 @@
       "enlace": "https://www.expansion.com/inmobiliario/mercado/2026/09/05/6a9a7f92e5fdea06618b45a5.html"
     },
     {
-      "titular": "Nuevos 'gadgets' para empezar el curso",
+      "titular": "Cómo podrá su aumento de sueldo batir a la inflación en 2027",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-05T19:47:13+02:00",
-      "enlace": "https://www.expansion.com/economia-digital/2026/09/05/6a9c50b4e5fdea30338b4575.html"
-    },
-    {
-      "titular": "Ni las subidas de tipos ni la incertidumbre frenan el crecimiento del crédito al consumo",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-05T16:02:36+02:00",
-      "enlace": "https://www.expansion.com/ahorro/2026/09/05/6a9bdfee468aeb4f028b4576.html"
-    },
-    {
-      "titular": "Putin ordena suspender tres días los ataques a Kiev",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-05T15:34:21+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/09/05/6a9c1704468aeba9688b4582.html"
+      "fecha": "2026-09-04T15:57:55+02:00",
+      "enlace": "https://www.expansion.com/expansion-empleo/retribucion/2026/09/04/6a9acd88468aebda498b4588.html"
     },
     {
       "titular": "El Gobierno toma el control del Puerto de Ceuta para alojar a migrantes",
@@ -59,13 +50,22 @@
       "enlace": "https://www.expansion.com/economia/2026/09/05/6a9c0874468aeb723d8b4576.html"
     },
     {
-      "titular": "Nepal mantiene las búsquedas 11 días después de la riada tras nuevos rescates con vida",
+      "titular": "Invertir en ovnis y en bitcoin por la noche: los ETF más insólitos",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-05T14:00:41+02:00",
-      "enlace": "https://www.expansion.com/sociedad/2026/09/05/6a9bf5a1468aeb932d8b4579.html"
+      "fecha": "2026-09-05T00:29:57+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/09/05/6a9b20dd468aeb2a7a8b458b.html"
+    },
+    {
+      "titular": "La ruta de Dabiz Muñoz por Cantabria, Asturias y Galicia: \"Me gusta el norte por el clima, el paisaje y la gastronomía\"",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-05T00:03:14+02:00",
+      "enlace": "https://www.expansion.com/estilo-vida/rincones-gastronomicos/2026/09/04/6a9af769468aebf6078b4582.html"
     }
   ],
   "salud": {
@@ -78,7 +78,7 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 170,
+    "antiguedad_minima_min": 269,
     "detalle": [
       {
         "medio": "Expansión",
@@ -86,7 +86,7 @@
         "ok": true,
         "items": 72,
         "error": null,
-        "antiguedad_min": 170,
+        "antiguedad_min": 269,
         "descartados_por_gancho": 0
       },
       {
