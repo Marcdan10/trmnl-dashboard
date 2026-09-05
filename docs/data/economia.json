@@ -2,8 +2,44 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-09-05T14:16:24+02:00",
+  "generado": "2026-09-05T17:23:57+02:00",
   "titulares": [
+    {
+      "titular": "Ni las subidas de tipos ni la incertidumbre frenan el crecimiento del crédito al consumo",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-05T16:02:36+02:00",
+      "enlace": "https://www.expansion.com/ahorro/2026/09/05/6a9bdfee468aeb4f028b4576.html"
+    },
+    {
+      "titular": "Putin ordena suspender tres días los ataques a Kiev",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-05T15:34:21+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/09/05/6a9c1704468aeba9688b4582.html"
+    },
+    {
+      "titular": "Italia busca proteger a Ducati ante los recortes de Volkswagen",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-05T15:10:12+02:00",
+      "enlace": "https://www.expansion.com/empresas/motor/2026/09/05/6a9c07e9468aebed798b4573.html"
+    },
+    {
+      "titular": "El Gobierno toma el control del Puerto de Ceuta para alojar a migrantes",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-05T14:21:41+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/09/05/6a9c0874468aeb723d8b4576.html"
+    },
     {
       "titular": "Nepal mantiene las búsquedas 11 días después de la riada tras nuevos rescates con vida",
       "medios": [
@@ -30,42 +66,6 @@
       "consenso": 1,
       "fecha": "2026-09-05T12:45:46+02:00",
       "enlace": "https://www.expansion.com/economia/2026/09/05/6a9bebb3e5fdeaf4398b4594.html"
-    },
-    {
-      "titular": "El Govern trabajará \"incansablemente\" para mantener la marca Seat sin reducir su plantilla",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-05T12:03:45+02:00",
-      "enlace": "https://www.expansion.com/catalunya/2026/09/05/6a9be6c6468aebc37f8b45b6.html"
-    },
-    {
-      "titular": "Ford Almussafes presentará a los sindicatos su propuesta laboral y salarial de 2027 a 2030",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-05T11:02:18+02:00",
-      "enlace": "https://www.expansion.com/empresas/motor/2026/09/05/6a9bcc68468aeb2a7a8b459d.html"
-    },
-    {
-      "titular": "Los bancos centrales se preparan para subir los tipos ante una inflación por encima de lo previsto",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-05T10:33:24+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/09/05/6a9bd0bd468aebb60a8b45c3.html"
-    },
-    {
-      "titular": "Invertir en ovnis y en bitcoin por la noche: los ETF más insólitos",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-05T00:29:57+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/09/05/6a9b20dd468aeb2a7a8b458b.html"
     }
   ],
   "salud": {
@@ -78,7 +78,7 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 15,
+    "antiguedad_minima_min": 81,
     "detalle": [
       {
         "medio": "Expansión",
@@ -86,7 +86,7 @@
         "ok": true,
         "items": 76,
         "error": null,
-        "antiguedad_min": 15,
+        "antiguedad_min": 81,
         "descartados_por_gancho": 0
       },
       {
