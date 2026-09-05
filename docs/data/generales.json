@@ -2,61 +2,61 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-09-05T21:13:11+02:00",
+  "generado": "2026-09-05T23:26:31+02:00",
   "titulares": [
     {
-      "titular": "Bukele frena la compra de bitcoin tras un acuerdo con el FMI",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-05T21:03:37+02:00",
-      "enlace": "https://elpais.com/america/2026-09-04/bukele-cede-ante-el-fmi-frena-la-compra-de-bitcoin-y-entrega-las-reservas-actuales-a-un-operador-privado.html"
-    },
-    {
-      "titular": "Fabià Sintes debuta por todo lo alto en la UFC: vence al francés Michael Aljarouj en París",
+      "titular": "Lo que el acuerdo petrolero revela sobre Trump, Delcy y María Corina",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-05T20:56:52+02:00",
-      "enlace": "https://www.abc.es/deportes/mma/fabia-sintes-debuta-alto-ufc-vence-frances-20260905193014-nt.html"
+      "fecha": "2026-09-05T22:57:27+02:00",
+      "enlace": "https://www.abc.es/internacional/acuerdo-petrolero-revela-sobre-trump-delcy-maria-20260902014036-nt.html"
     },
     {
-      "titular": "La crisis migratoria agita unas elecciones a las que el pueblo daba la espalda en Marruecos",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-05T20:56:35+02:00",
-      "enlace": "https://elpais.com/internacional/2026-09-05/la-crisis-migratoria-agita-unas-elecciones-a-las-que-el-pueblo-daba-la-espalda-en-marruecos.html"
-    },
-    {
-      "titular": "El disputado Puerto de Ceuta y otras imágenes del día",
+      "titular": "Un Barça muy ofensivo no da pie a las sorpresas",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-05T20:19:53+02:00",
-      "enlace": "https://www.lavanguardia.com/fotos/20260905/11627998/disputado-puerto-ceuta-imagenes-dia.html"
+      "fecha": "2026-09-05T22:41:51+02:00",
+      "enlace": "https://www.lavanguardia.com/deportes/20260905/11628200/barca-ofensivo-da-pie-sorpresas.html"
     },
     {
-      "titular": "Diego Ventura, Morante de la Puebla, Manzanares y Juan Ortega, en la Goyesca de Ronda",
+      "titular": "Una familia británica denuncia que encontraron restos humanos en el coche de sus padres tras el incendio en Almería",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-05T20:15:48+02:00",
-      "enlace": "https://www.abc.es/cultura/toros/sevilla/toros-ronda-directo-sigue-corrida-goyesca-sabado-20260905191339-dis.html"
+      "fecha": "2026-09-05T22:29:20+02:00",
+      "enlace": "https://www.abc.es/espana/andalucia/almeria/familia-britanica-denuncia-encontraron-restos-humanos-coche-20260905145923-nts.html"
     },
     {
-      "titular": "Asprilla se inspira en Gijón y el Girona se engancha a la parte alta de Segunda",
+      "titular": "Alma Guillermoprieto: “Estamos al borde de un precipicio, no sé si vamos a caer o no”",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-05T22:10:43+02:00",
+      "enlace": "https://elpais.com/mexico/2026-09-05/alma-guillermoprieto-estamos-al-borde-de-un-precipicio-no-se-si-vamos-a-caer-o-no.html"
+    },
+    {
+      "titular": "Muere ahogado un hombre tras saltar de un ferry entre Cambrils y Salou",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-05T20:11:20+02:00",
-      "enlace": "https://www.lavanguardia.com/deportes/20260905/11628103/asprilla-inspira-gijon-girona-engancha-parte-alta-segunda.html"
+      "fecha": "2026-09-05T22:00:44+02:00",
+      "enlace": "https://www.lavanguardia.com/local/tarragona/20260905/11628193/muere-ahogado-hombre-saltar-ferry-cambrils-salou.html"
+    },
+    {
+      "titular": "Camello y Ratiu convierten Butarque en Vallecas y dan la primera victoria del curso al Rayo",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-05T21:20:10+02:00",
+      "enlace": "https://elpais.com/deportes/futbol/2026-09-05/camello-y-ratiu-convierten-butarque-en-vallecas-y-dan-la-primera-victoria-del-curso-al-rayo.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 9,
+    "antiguedad_minima_min": 29,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2230328,
+        "antiguedad_min": 2230461,
         "descartados_por_gancho": 0
       },
       {
@@ -97,10 +97,10 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 132,
+        "items": 131,
         "error": null,
-        "antiguedad_min": 9,
-        "descartados_por_gancho": 6
+        "antiguedad_min": 75,
+        "descartados_por_gancho": 4
       },
       {
         "medio": "La Vanguardia",
@@ -108,17 +108,17 @@
         "ok": true,
         "items": 128,
         "error": null,
-        "antiguedad_min": 53,
+        "antiguedad_min": 44,
         "descartados_por_gancho": 13
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 25,
+        "items": 24,
         "error": null,
-        "antiguedad_min": 16,
-        "descartados_por_gancho": 0
+        "antiguedad_min": 29,
+        "descartados_por_gancho": 1
       }
     ]
   }

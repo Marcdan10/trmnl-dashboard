@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-09-05T21:13:18+02:00",
+  "generado": "2026-09-05T23:26:35+02:00",
   "titulares": [
     {
-      "titular": "Nico Williams: \"Estamos viendo al mejor Athletic\"",
+      "titular": "Remontada in extremis de una Roma que sigue soñando con su liderato",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-05T20:43:53+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/athletic-bilbao/20260905/1004223516/nico-williams-viendo-mejor-athletic.html"
+      "fecha": "2026-09-05T22:56:12+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/serie-a/20260905/1004223778/roma-atalanta.html"
     },
     {
-      "titular": "España cambia las normas y los bancos informan a Hacienda cada mes de estos pagos con Bizum",
+      "titular": "Cintora, tras el ataque de Ayuso a RTVE: \"Igual lo de televisión del régimen lo dice por Telemadrid\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-05T20:37:57+02:00",
-      "enlace": "https://www.mundodeportivo.com/actualidad/20260905/1004223733/oficial-espana-cambia-normas-partir-2026-bancos-informan-hacienda-mes-pagos-bizum-finanzas-dct.html"
+      "fecha": "2026-09-05T22:45:50+02:00",
+      "enlace": "https://www.mundodeportivo.com/elotromundo/television/20260905/1004223786/jesus-cintora-ultimo-ataque-ayuso-rtve-igual-television-regimen-dice-telemadrid-participa-gente-habla-levantamientos-dct.html"
     },
     {
       "titular": "Bombazo: Messi se retira de la selección argentina",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/motor/formula1/gp-italia/2026/08/31/lando-norris-cree-deberia-ganar-verstappen-hamilton.html"
     },
     {
-      "titular": "Almeida se lleva un bajón en su debut con el Racing",
+      "titular": "2-3 | Aubameyang reina entre los pecados y el vértigo",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/valencia/almeida-lleva-bajon-debut-racing-133991218"
+      "enlace": "https://www.sport.es/es/noticias/futbol/2-3-aubameyang-reina-pecados-133993792"
     },
     {
-      "titular": "El FC Cartagena propone, domina y enamora, pero tropieza ante el Nástic",
+      "titular": "La crónica del Villarreal-Dépor | No hay manera de arrancar (2-3)",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/futbol/segunda-rfef/fc-cartagena-propone-domina-enamora-133991215"
+      "enlace": "https://www.sport.es/es/noticias/villarreal/cronica-villarreal-depor-hay-manera-133993794"
     },
     {
-      "titular": "Así queda la clasificación de la Premier tras la victoria del Manchester City",
+      "titular": "121-80: El nuevo Madrid avisa con un gran festival de anotación",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-05T20:37:39+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/premier-league/20260905/1004223730/asi-queda-clasificacion-premier-victoria-manchester-city.html"
+      "fecha": "2026-09-05T22:41:35+02:00",
+      "enlace": "https://www.mundodeportivo.com/baloncesto/acb/20260905/1004223785/121-80-nuevo-madrid-avisa-gran-festival-anotacion.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 29,
+    "antiguedad_minima_min": 30,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 61,
         "error": null,
-        "antiguedad_min": 7440,
+        "antiguedad_min": 7574,
         "descartados_por_gancho": 10
       },
       {
@@ -98,19 +98,19 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 144,
+        "items": 145,
         "error": null,
-        "antiguedad_min": 29,
-        "descartados_por_gancho": 4
+        "antiguedad_min": 30,
+        "descartados_por_gancho": 3
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 47,
+        "items": 48,
         "error": null,
         "antiguedad_min": null,
-        "descartados_por_gancho": 2
+        "descartados_por_gancho": 1
       },
       {
         "medio": "NBA",

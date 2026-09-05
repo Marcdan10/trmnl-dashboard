@@ -1,23 +1,7 @@
 {
   "ciudad": "Barcelona",
-  "generado": "2026-09-05T19:13:23",
+  "generado": "2026-09-05T21:26:40",
   "horas": [
-    {
-      "hora": "20",
-      "temp": 28,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "sol"
-    },
-    {
-      "hora": "21",
-      "temp": 27,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "luna"
-    },
     {
       "hora": "22",
       "temp": 27,
@@ -97,6 +81,22 @@
       "mm": 0,
       "mostrar_prob": false,
       "icono": "nube"
+    },
+    {
+      "hora": "08",
+      "temp": 25,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "sol"
+    },
+    {
+      "hora": "09",
+      "temp": 26,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "sol"
     }
   ],
   "dias": [
@@ -124,7 +124,7 @@
       "etiqueta": "mar 8",
       "max": 31,
       "min": 24,
-      "prob": 2,
+      "prob": 0,
       "mm": 0,
       "mostrar_prob": false,
       "destacar": false,
@@ -134,7 +134,7 @@
       "etiqueta": "mié 9",
       "max": 26,
       "min": 22,
-      "prob": 88,
+      "prob": 99,
       "mm": 24.9,
       "mostrar_prob": true,
       "destacar": true,
@@ -174,7 +174,7 @@
   "aviso": {
     "activo": true,
     "alcance": "semana",
-    "texto": "Lluvia prevista el mié 9 · 88%"
+    "texto": "Lluvia prevista el mié 9 · 99%"
   },
   "atribucion": "Open-Meteo (CC BY 4.0)"
 }

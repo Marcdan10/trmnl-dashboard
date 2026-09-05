@@ -2,7 +2,7 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-09-05T21:13:14+02:00",
+  "generado": "2026-09-05T23:26:34+02:00",
   "titulares": [
     {
       "titular": "El balancín de los mercados de valores",
@@ -78,7 +78,7 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 36,
+    "antiguedad_minima_min": 170,
     "detalle": [
       {
         "medio": "Expansión",
@@ -86,7 +86,7 @@
         "ok": true,
         "items": 72,
         "error": null,
-        "antiguedad_min": 36,
+        "antiguedad_min": 170,
         "descartados_por_gancho": 0
       },
       {
