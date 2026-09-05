@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-09-05T06:45:00+02:00",
+  "generado": "2026-09-05T10:44:43+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -23,22 +23,22 @@
       "enlace": "https://elpais.com/espana/2026-09-05/ceuta-causa-otro-choque-entre-la-justicia-y-el-ejecutivo-por-la-reserva-de-un-informe-policial.html"
     },
     {
-      "titular": "Hacienda aprueba la financiación con el único respaldo de Catalunya y Canarias",
+      "titular": "La Fiscalía apunta a una organización criminal en la crisis de Ceuta pese a que la Policía lo descarta",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-04T14:16:16+02:00",
-      "enlace": "https://www.lavanguardia.com/economia/20260904/11627222/hacienda-aprueba-nueva-financiacion-respaldada-catalunya-canarias-rechazo-87-comunidades.html"
+      "fecha": "2026-09-05T06:00:00+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20260905/11627563/fiscalia-allana-camino-jueza-investigar-crisis-ceuta.html"
     },
     {
-      "titular": "Apple confirma la fecha de presentación del nuevo iPhone: todo lo que sabemos de los nuevos modelos",
+      "titular": "Rocío Osorno pilla 'in fraganti' a unos ladrones en su casa: «He visto la ventana abierta y me he dado cuenta de que había alguien»",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-05T06:00:09+02:00",
-      "enlace": "https://www.abc.es/tecnologia/apple-confirma-fecha-presentacion-nuevo-iphone-sabemos-20260905060000-nt.html"
+      "fecha": "2026-09-05T10:33:18+02:00",
+      "enlace": "https://www.abc.es/gente/rocio-osorno-pilla-fraganti-ladrones-casa-visto-20260905103207-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -59,13 +59,13 @@
       "enlace": "https://elpais.com/espana/2026-09-05/la-presion-del-pp-complica-el-traslado-de-500-ninas-inmigrantes-de-ceuta-a-la-peninsula.html"
     },
     {
-      "titular": "El ministro de Hacienda regala a Madrid el libro 'El dolor de los demás' y a Catalunya, un ejemplar de Chaves Nogales",
+      "titular": "El hallazgo de una escultura ibérica «excepcional» abre un nuevo horizonte en Libisosa",
       "medios": [
-        "La Vanguardia"
+        "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-04T14:57:38+02:00",
-      "enlace": "https://www.lavanguardia.com/economia/20260904/11627333/ministro-hacienda-regala-madrid-libro-dolor-catalunya-ejemplar-chaves-nogales.html"
+      "fecha": "2026-09-05T10:25:23+02:00",
+      "enlace": "https://www.abc.es/cultura/hallazgo-escultura-iberica-unica-abre-nuevo-horizonte-20260904100057-nt.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 15,
+    "antiguedad_minima_min": 11,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2229459,
+        "antiguedad_min": 2229699,
         "descartados_por_gancho": 0
       },
       {
@@ -97,28 +97,28 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 135,
+        "items": 136,
         "error": null,
-        "antiguedad_min": 15,
-        "descartados_por_gancho": 6
+        "antiguedad_min": 239,
+        "descartados_por_gancho": 8
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 131,
+        "items": 127,
         "error": null,
-        "antiguedad_min": 352,
-        "descartados_por_gancho": 10
+        "antiguedad_min": 34,
+        "descartados_por_gancho": 14
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 24,
+        "items": 25,
         "error": null,
-        "antiguedad_min": 44,
-        "descartados_por_gancho": 1
+        "antiguedad_min": 11,
+        "descartados_por_gancho": 0
       }
     ]
   }

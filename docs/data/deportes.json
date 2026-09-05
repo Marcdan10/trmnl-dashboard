@@ -2,16 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-09-05T06:45:04+02:00",
+  "generado": "2026-09-05T10:44:49+02:00",
   "titulares": [
     {
-      "titular": "El Trail Menorca abre inscripciones tras su récord de 3.000 corredores",
+      "titular": "Las decisiones que debe tomar Flick de cara a Mestalla",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-05T07:00:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260905/1004223484/decisiones-debe-tomar-flick-cara-mestalla.html"
+    },
+    {
+      "titular": "Julián Calero, sobre la plantilla del Oviedo: \"Esto es como Forrest Gump; ahora hay que abrir la caja de bombones...\"",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/outdoor/trail-menorca-abre-inscripciones-record-133931277"
+      "enlace": "https://www.sport.es/es/noticias/oviedo/julian-calero-plantilla-oviedo-forrest-133977382"
     },
     {
       "titular": "Bombazo: Messi se retira de la selección argentina",
@@ -23,14 +32,22 @@
       "enlace": "https://www.marca.com/futbol/2026/08/31/bombazo-messi-retira-seleccion-argentina.html"
     },
     {
-      "titular": "El 1x1 del Real Madrid ante el Betis",
+      "titular": "El 'truco' de Bartra que le salió de lujo en el penalti de Mbappé",
       "medios": [
-        "Mundo Deportivo",
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-05T08:33:54+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/20260905/1004223500/truco-bartra-le-salio-lujo-penalti-mbappe.html"
+    },
+    {
+      "titular": "¡Lamine Yamal, baja en el último entrenamiento del Barça!",
+      "medios": [
         "Sport"
       ],
-      "consenso": 2,
-      "fecha": "2026-09-04T23:25:07+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260904/1004223424/1x1-real-madrid-betis.html"
+      "consenso": 1,
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/barca/lamine-yamal-baja-ultimo-entrenamiento-133977002"
     },
     {
       "titular": "Lando Norris y por qué cree que debería ganar lo que Verstappen y Hamilton",
@@ -42,31 +59,13 @@
       "enlace": "https://www.marca.com/motor/formula1/gp-italia/2026/08/31/lando-norris-cree-deberia-ganar-verstappen-hamilton.html"
     },
     {
-      "titular": "¡Segunda amarilla perdonada a Güler!",
+      "titular": "Ya hay capitanes del Barça: Raphinha, Pedri, Eric Garcia, De Jong y Lamine Yamal",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-04T22:29:22+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260904/1004223432/segunda-amarilla-perdonada-gueler.html"
-    },
-    {
-      "titular": "La previa del Villarreal-Deportivo | Noche de estrenos en La Cerámica ante un Dépor en alza",
-      "medios": [
-        "Sport"
-      ],
-      "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/villarreal/previa-villarreal-deportivo-noche-estrenos-133973390"
-    },
-    {
-      "titular": "Gustavo Puerta da el salto a la Premier League, pero su destino inmediato estará en Grecia",
-      "medios": [
-        "Marca"
-      ],
-      "consenso": 1,
-      "fecha": "2026-08-31T17:04:13+02:00",
-      "enlace": "https://www.marca.com/co/2026/08/31/gustavo-puerta-da-salto-premier-league-destino-inmediato-estara-grecia.html"
+      "fecha": "2026-09-05T00:30:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260905/1004223477/hay-capitanes-barca-raphinha-pedri-eric-frenkie-lamine.html"
     }
   ],
   "salud": {
@@ -75,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 375,
+    "antiguedad_minima_min": 17,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +82,7 @@
         "ok": true,
         "items": 61,
         "error": null,
-        "antiguedad_min": 6572,
+        "antiguedad_min": 6812,
         "descartados_por_gancho": 10
       },
       {
@@ -99,19 +98,19 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 150,
+        "items": 145,
         "error": null,
-        "antiguedad_min": 375,
-        "descartados_por_gancho": 5
+        "antiguedad_min": 17,
+        "descartados_por_gancho": 4
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 49,
+        "items": 48,
         "error": null,
         "antiguedad_min": null,
-        "descartados_por_gancho": 1
+        "descartados_por_gancho": 2
       },
       {
         "medio": "NBA",
