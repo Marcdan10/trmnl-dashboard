@@ -2,61 +2,61 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-09-05T19:25:53+02:00",
+  "generado": "2026-09-05T21:13:11+02:00",
   "titulares": [
     {
-      "titular": "Roglic no puede seguir el paso de Enric Mas",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-05T19:09:13+02:00",
-      "enlace": "https://www.abc.es/deportes/ciclismo/roglic-puede-seguir-paso-enric-20260905181648-nt.html"
-    },
-    {
-      "titular": "Ya son 24 las personas ahogadas en las playas catalanas desde el 15 de junio",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-05T19:02:53+02:00",
-      "enlace": "https://www.lavanguardia.com/local/girona/20260905/11628082/son-24-personas-ahogadas-playas-catalanas-15-junio.html"
-    },
-    {
-      "titular": "Catalunya registra su día más caluroso en­­ un mes de septiembre",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-05T18:58:28+02:00",
-      "enlace": "https://www.lavanguardia.com/vida/20260905/11628080/catalunya-registra-dia-mas-caluroso-mes-septiembre.html"
-    },
-    {
-      "titular": "El Atlético sale escaldado de San Mamés",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-05T18:57:10+02:00",
-      "enlace": "https://www.abc.es/deportes/atletico-madrid/atletico-sale-escaldado-san-mames-20260905181825-nt.html"
-    },
-    {
-      "titular": "La UE revisa su método de sanciones para mantener la presión sobre Rusia",
+      "titular": "Bukele frena la compra de bitcoin tras un acuerdo con el FMI",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-05T18:56:14+02:00",
-      "enlace": "https://elpais.com/internacional/2026-09-05/la-ue-revisa-su-metodo-de-sanciones-para-mantener-la-presion-sobre-rusia.html"
+      "fecha": "2026-09-05T21:03:37+02:00",
+      "enlace": "https://elpais.com/america/2026-09-04/bukele-cede-ante-el-fmi-frena-la-compra-de-bitcoin-y-entrega-las-reservas-actuales-a-un-operador-privado.html"
     },
     {
-      "titular": "El eléctrico Athletic de Terzic derriba a un cándido Atlético en tres minutos",
+      "titular": "Fabià Sintes debuta por todo lo alto en la UFC: vence al francés Michael Aljarouj en París",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-05T20:56:52+02:00",
+      "enlace": "https://www.abc.es/deportes/mma/fabia-sintes-debuta-alto-ufc-vence-frances-20260905193014-nt.html"
+    },
+    {
+      "titular": "La crisis migratoria agita unas elecciones a las que el pueblo daba la espalda en Marruecos",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-05T18:56:04+02:00",
-      "enlace": "https://elpais.com/deportes/futbol/2026-09-05/el-electrico-athletic-de-terzic-derriba-a-un-candido-atletico-en-tres-minutos.html"
+      "fecha": "2026-09-05T20:56:35+02:00",
+      "enlace": "https://elpais.com/internacional/2026-09-05/la-crisis-migratoria-agita-unas-elecciones-a-las-que-el-pueblo-daba-la-espalda-en-marruecos.html"
+    },
+    {
+      "titular": "El disputado Puerto de Ceuta y otras imágenes del día",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-05T20:19:53+02:00",
+      "enlace": "https://www.lavanguardia.com/fotos/20260905/11627998/disputado-puerto-ceuta-imagenes-dia.html"
+    },
+    {
+      "titular": "Diego Ventura, Morante de la Puebla, Manzanares y Juan Ortega, en la Goyesca de Ronda",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-05T20:15:48+02:00",
+      "enlace": "https://www.abc.es/cultura/toros/sevilla/toros-ronda-directo-sigue-corrida-goyesca-sabado-20260905191339-dis.html"
+    },
+    {
+      "titular": "Asprilla se inspira en Gijón y el Girona se engancha a la parte alta de Segunda",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-05T20:11:20+02:00",
+      "enlace": "https://www.lavanguardia.com/deportes/20260905/11628103/asprilla-inspira-gijon-girona-engancha-parte-alta-segunda.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 16,
+    "antiguedad_minima_min": 9,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2230220,
+        "antiguedad_min": 2230328,
         "descartados_por_gancho": 0
       },
       {
@@ -97,9 +97,9 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 133,
+        "items": 132,
         "error": null,
-        "antiguedad_min": 29,
+        "antiguedad_min": 9,
         "descartados_por_gancho": 6
       },
       {
@@ -108,17 +108,17 @@
         "ok": true,
         "items": 128,
         "error": null,
-        "antiguedad_min": 22,
+        "antiguedad_min": 53,
         "descartados_por_gancho": 13
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 24,
+        "items": 25,
         "error": null,
         "antiguedad_min": 16,
-        "descartados_por_gancho": 1
+        "descartados_por_gancho": 0
       }
     ]
   }
