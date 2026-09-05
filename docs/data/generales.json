@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-09-05T00:00:20+02:00",
+  "generado": "2026-09-05T02:14:04+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -32,13 +32,13 @@
       "enlace": "https://www.lavanguardia.com/economia/20260904/11627222/hacienda-aprueba-nueva-financiacion-respaldada-catalunya-canarias-rechazo-87-comunidades.html"
     },
     {
-      "titular": "La mala puntería le cuesta al Madrid su primera derrota",
+      "titular": "Alcaraz mete una marcha más y ya está en octavos",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-04T23:32:02+02:00",
-      "enlace": "https://www.abc.es/deportes/real-madrid/mala-punteria-cuesta-madrid-primera-derrota-20260904231610-nt.html"
+      "fecha": "2026-09-05T02:05:15+02:00",
+      "enlace": "https://www.abc.es/deportes/tenis/cronica-alcaraz-20260904193058-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 16,
+    "antiguedad_minima_min": 8,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2229055,
+        "antiguedad_min": 2229189,
         "descartados_por_gancho": 0
       },
       {
@@ -99,7 +99,7 @@
         "ok": true,
         "items": 139,
         "error": null,
-        "antiguedad_min": 16,
+        "antiguedad_min": 149,
         "descartados_por_gancho": 2
       },
       {
@@ -108,8 +108,8 @@
         "ok": true,
         "items": 131,
         "error": null,
-        "antiguedad_min": 27,
-        "descartados_por_gancho": 14
+        "antiguedad_min": 81,
+        "descartados_por_gancho": 10
       },
       {
         "medio": "ABC",
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 28,
+        "antiguedad_min": 8,
         "descartados_por_gancho": 0
       }
     ]
