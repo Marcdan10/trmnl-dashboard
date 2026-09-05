@@ -2,61 +2,61 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-09-05T17:23:52+02:00",
+  "generado": "2026-09-05T19:25:53+02:00",
   "titulares": [
     {
-      "titular": "Tablas en San Mamés al descanso",
+      "titular": "Roglic no puede seguir el paso de Enric Mas",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-05T17:09:20+02:00",
-      "enlace": "https://www.abc.es/deportes/atletico-madrid/athletic-atletico-madrid-directo-resultado-ganador-goles-20260905091205-di.html"
+      "fecha": "2026-09-05T19:09:13+02:00",
+      "enlace": "https://www.abc.es/deportes/ciclismo/roglic-puede-seguir-paso-enric-20260905181648-nt.html"
     },
     {
-      "titular": "Dos muertos tras estrellarse un avión militar en una exhibición aérea en Grecia",
+      "titular": "Ya son 24 las personas ahogadas en las playas catalanas desde el 15 de junio",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-05T19:02:53+02:00",
+      "enlace": "https://www.lavanguardia.com/local/girona/20260905/11628082/son-24-personas-ahogadas-playas-catalanas-15-junio.html"
+    },
+    {
+      "titular": "Catalunya registra su día más caluroso en­­ un mes de septiembre",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-05T18:58:28+02:00",
+      "enlace": "https://www.lavanguardia.com/vida/20260905/11628080/catalunya-registra-dia-mas-caluroso-mes-septiembre.html"
+    },
+    {
+      "titular": "El Atlético sale escaldado de San Mamés",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-05T17:05:51+02:00",
-      "enlace": "https://www.abc.es/internacional/estrella-avion-militar-exhibicion-aerea-grecia-20260905151936-nt.html"
+      "fecha": "2026-09-05T18:57:10+02:00",
+      "enlace": "https://www.abc.es/deportes/atletico-madrid/atletico-sale-escaldado-san-mames-20260905181825-nt.html"
     },
     {
-      "titular": "Estados Unidos ataca tres petroleros iraníes, uno de ellos cerca de la estratégica isla de Jarg, en respuesta a ataques de Teherán",
+      "titular": "La UE revisa su método de sanciones para mantener la presión sobre Rusia",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-05T16:39:36+02:00",
-      "enlace": "https://elpais.com/internacional/2026-09-05/varias-explosiones-cerca-de-la-isla-de-jarg-principal-terminal-del-crudo-de-teheran-y-blanco-de-las-amenazas-de-trump.html"
+      "fecha": "2026-09-05T18:56:14+02:00",
+      "enlace": "https://elpais.com/internacional/2026-09-05/la-ue-revisa-su-metodo-de-sanciones-para-mantener-la-presion-sobre-rusia.html"
     },
     {
-      "titular": "Toni Bou acaricia su 40.º título mundial de trial en 20 años de hegemonía",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-05T16:12:04+02:00",
-      "enlace": "https://www.lavanguardia.com/deportes/20260905/11627874/trial-toni-bou-acaricia-40-titulo-mundial-paises-bajos-hegemonia.html"
-    },
-    {
-      "titular": "Rocío Osorno sufre un asalto en su vivienda mientras estaba con sus hijos",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-05T16:07:35+02:00",
-      "enlace": "https://www.lavanguardia.com/gente/20260905/11628025/rocio-osorno-sufre-asalto-vivienda-hijos.html"
-    },
-    {
-      "titular": "Feijóo arropa a Ayuso en el inicio de un difícil curso político para ella y vislumbra el triunfo del PP: “Estamos cada vez mas cerca”",
+      "titular": "El eléctrico Athletic de Terzic derriba a un cándido Atlético en tres minutos",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-05T14:15:05+02:00",
-      "enlace": "https://elpais.com/espana/madrid/2026-09-05/feijoo-arropa-a-ayuso-en-el-inicio-de-un-dificil-curso-politico-para-ella-y-vislumbra-el-triunfo-del-pp-estamos-cada-vez-mas-cerca.html"
+      "fecha": "2026-09-05T18:56:04+02:00",
+      "enlace": "https://elpais.com/deportes/futbol/2026-09-05/el-electrico-athletic-de-terzic-derriba-a-un-candido-atletico-en-tres-minutos.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 14,
+    "antiguedad_minima_min": 16,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2230098,
+        "antiguedad_min": 2230220,
         "descartados_por_gancho": 0
       },
       {
@@ -97,10 +97,10 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 137,
+        "items": 133,
         "error": null,
-        "antiguedad_min": 44,
-        "descartados_por_gancho": 7
+        "antiguedad_min": 29,
+        "descartados_por_gancho": 6
       },
       {
         "medio": "La Vanguardia",
@@ -108,17 +108,17 @@
         "ok": true,
         "items": 128,
         "error": null,
-        "antiguedad_min": 71,
+        "antiguedad_min": 22,
         "descartados_por_gancho": 13
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 23,
+        "items": 24,
         "error": null,
-        "antiguedad_min": 14,
-        "descartados_por_gancho": 2
+        "antiguedad_min": 16,
+        "descartados_por_gancho": 1
       }
     ]
   }

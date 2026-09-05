@@ -2,8 +2,17 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "ultimas",
-  "generado": "2026-09-05T17:24:05+02:00",
+  "generado": "2026-09-05T19:26:06+02:00",
   "titulares": [
+    {
+      "titular": "El esfuerzo de los 27 MIR que salva a Ceuta del colapso sanitario: \"Atendí a 110 personas en 7 horas\"",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-05T17:55:58+02:00",
+      "enlace": "https://www.redaccionmedica.com/formacion/mir/20260905/el-esfuerzo-de-los-mir-que-salva-ceuta-del-colapso-sanitario-atendi-personas-en-horas/350165_0.html"
+    },
     {
       "titular": "La vía legal contra el Estatuto Marco 'se cuela' entre las opciones de los médicos para sumarla a la huelga",
       "medios": [
@@ -12,15 +21,6 @@
       "consenso": 1,
       "fecha": "2026-09-05T16:09:24+02:00",
       "enlace": "https://www.redaccionmedica.com/politica/20260905/la-via-legal-contra-el-estatuto-marco-se-cuela-entre-las-opciones-de-los-medicos-para-sumarla-la-huelga/350065_0.html"
-    },
-    {
-      "titular": "El riesgo de 'deskilling' médico: cómo el sesgo de automatización de la IA reduce la capacidad diagnóstica en los MIR",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-05T16:06:58+02:00",
-      "enlace": "https://www.redaccionmedica.com/profesionales/medicina/20260905/el-riesgo-de-deskilling-medico-como-el-sesgo-automatizacion-la-ia-reduce-capacidad-diagnostica-en-los-mir/350220_0.html"
     },
     {
       "titular": "El PRAC analiza la seguridad del hierro parenteral y sus riesgos de afección ósea",
@@ -59,13 +59,13 @@
       "enlace": "https://elglobalfarma.com/industria/emer-cooke-ema-reimaginar-regulacion-medicamentos-agil/"
     },
     {
-      "titular": "La lucha contra los ciberataques a hospitales mira al factor humano como principal recurso: \"Es decisivo\"",
+      "titular": "El riesgo de 'deskilling' médico: cómo el sesgo de automatización de la IA reduce la capacidad diagnóstica en los MIR",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-09-05T14:10:56+02:00",
-      "enlace": "https://www.redaccionmedica.com/innovacion/avances/20260905/la-lucha-contra-los-ciberataques-hospitales-mira-al-factor-humano-como-principal-recurso-es-decisivo/349979_0.html"
+      "fecha": "2026-09-05T16:06:58+02:00",
+      "enlace": "https://www.redaccionmedica.com/profesionales/medicina/20260905/el-riesgo-de-deskilling-medico-como-el-sesgo-automatizacion-la-ia-reduce-capacidad-diagnostica-en-los-mir/350220_0.html"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 74,
+    "antiguedad_minima_min": 90,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 1572,
+        "antiguedad_min": 1694,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 9,
         "error": null,
-        "antiguedad_min": 1596,
+        "antiguedad_min": 1718,
         "descartados_por_gancho": 1
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 74,
+        "antiguedad_min": 90,
         "descartados_por_gancho": 0
       },
       {

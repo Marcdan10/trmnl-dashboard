@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-09-05T17:23:58+02:00",
+  "generado": "2026-09-05T19:26:00+02:00",
   "titulares": [
     {
-      "titular": "Los Gallos dan primero en Valencia con dos victorias y lideran su grupo",
+      "titular": "Simeone: \"El partido se nos escapó en dos minutos\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-05T16:51:22+02:00",
-      "enlace": "https://www.mundodeportivo.com/vela/20260905/1004223643/gallos-dan-primero-valencia-dos-victorias-lideran-grupo.html"
+      "fecha": "2026-09-05T18:49:57+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20260905/1004223690/simeone-partido-escapo-dos-minutos.html"
     },
     {
-      "titular": "Tiene 8 episodios y es una distopía donde la delincuencia domina el día a día: el 'thriller' que llega el 16 de septiembre",
+      "titular": "Pitos a Julián Alvarez en la fiesta de Nico Williams",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-05T16:47:36+02:00",
-      "enlace": "https://www.mundodeportivo.com/elotromundo/television/20260905/1004223640/ocho-episodios-esta-ambientada-distopia-delincuencia-domina-dia-dia-nuevo-thriller-llega-16-septiembre-tvp-dct.html"
+      "fecha": "2026-09-05T18:48:50+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20260905/1004223688/pitos-julian-alvarez-fiesta-nico-williams.html"
     },
     {
       "titular": "Bombazo: Messi se retira de la selección argentina",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/motor/formula1/gp-italia/2026/08/31/lando-norris-cree-deberia-ganar-verstappen-hamilton.html"
     },
     {
-      "titular": "Athletic Club - Atlético, en directo: sigue el partido de LaLiga EA Sports, en vivo hoy",
+      "titular": "El calor obliga a recortar la 15ª etapa de la Vuelta",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/laliga/athletic-club-atletico-directo-sigue-133881319"
+      "enlace": "https://www.sport.es/es/noticias/ciclismo/la-vuelta/calor-obliga-recortar-15a-etapa-vuelta-espana-133989105"
     },
     {
-      "titular": "El vacile viral del Betis al Madrid tras ganar a los de Mourinho",
+      "titular": "Comunicado oficial: El Col·lectiu de Penyes se une a las protestas contra los Lim en el Valencia - Barça",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/real-madrid/vacile-viral-betis-madrid-ganar-133984728"
+      "enlace": "https://www.sport.es/es/noticias/valencia/comunicado-oficial-collectiu-penyes-une-133989194"
     },
     {
-      "titular": "España logra seis oros en la categoría júnior del Boxam Internacional",
+      "titular": "0-0: El Tottenham sigue su pobre inicio pero suma el primer punto",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-05T16:39:17+02:00",
-      "enlace": "https://www.mundodeportivo.com/boxeo/20260905/1004223639/espana-logra-seis-oros-categoria-junior-boxam-internacional.html"
+      "fecha": "2026-09-05T18:44:11+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/premier-league/20260905/1004223672/tottenham.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 32,
+    "antiguedad_minima_min": 36,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 61,
         "error": null,
-        "antiguedad_min": 7211,
+        "antiguedad_min": 7333,
         "descartados_por_gancho": 10
       },
       {
@@ -98,10 +98,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 142,
+        "items": 147,
         "error": null,
-        "antiguedad_min": 32,
-        "descartados_por_gancho": 4
+        "antiguedad_min": 36,
+        "descartados_por_gancho": 3
       },
       {
         "medio": "Sport",
@@ -110,7 +110,7 @@
         "items": 47,
         "error": null,
         "antiguedad_min": null,
-        "descartados_por_gancho": 0
+        "descartados_por_gancho": 2
       },
       {
         "medio": "NBA",
