@@ -2,16 +2,16 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-09-05T02:14:10+02:00",
+  "generado": "2026-09-05T06:45:04+02:00",
   "titulares": [
     {
-      "titular": "Rubén de la Barrera habla sobre los pitos a la UD Las Palmas: «Quiero que la gente esté con nosotros»",
+      "titular": "El Trail Menorca abre inscripciones tras su récord de 3.000 corredores",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/las-palmas/ruben-barrera-habla-pitos-ud-133972184"
+      "enlace": "https://www.sport.es/es/noticias/outdoor/trail-menorca-abre-inscripciones-record-133931277"
     },
     {
       "titular": "Bombazo: Messi se retira de la selección argentina",
@@ -33,15 +33,6 @@
       "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260904/1004223424/1x1-real-madrid-betis.html"
     },
     {
-      "titular": "Caro salva el día e Iñaki toma el timón de la UD Las Palmas en el 1x1 del empate ante el CD Leganés",
-      "medios": [
-        "Sport"
-      ],
-      "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/las-palmas/caro-salva-dia-inaki-toma-133972081"
-    },
-    {
       "titular": "Lando Norris y por qué cree que debería ganar lo que Verstappen y Hamilton",
       "medios": [
         "Marca"
@@ -60,13 +51,22 @@
       "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260904/1004223432/segunda-amarilla-perdonada-gueler.html"
     },
     {
-      "titular": "Esta es la portada SPORT de hoy, sábado 5 de septiembre de 2026",
+      "titular": "La previa del Villarreal-Deportivo | Noche de estrenos en La Cerámica ante un Dépor en alza",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/la-portada-de-sport/portada-sport-hoy-sabado-5-133971794"
+      "enlace": "https://www.sport.es/es/noticias/villarreal/previa-villarreal-deportivo-noche-estrenos-133973390"
+    },
+    {
+      "titular": "Gustavo Puerta da el salto a la Premier League, pero su destino inmediato estará en Grecia",
+      "medios": [
+        "Marca"
+      ],
+      "consenso": 1,
+      "fecha": "2026-08-31T17:04:13+02:00",
+      "enlace": "https://www.marca.com/co/2026/08/31/gustavo-puerta-da-salto-premier-league-destino-inmediato-estara-grecia.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 104,
+    "antiguedad_minima_min": 375,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 61,
         "error": null,
-        "antiguedad_min": 6301,
+        "antiguedad_min": 6572,
         "descartados_por_gancho": 10
       },
       {
@@ -101,7 +101,7 @@
         "ok": true,
         "items": 150,
         "error": null,
-        "antiguedad_min": 104,
+        "antiguedad_min": 375,
         "descartados_por_gancho": 5
       },
       {

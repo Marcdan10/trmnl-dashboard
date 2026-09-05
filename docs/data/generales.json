@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-09-05T02:14:04+02:00",
+  "generado": "2026-09-05T06:45:00+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -14,13 +14,13 @@
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
     },
     {
-      "titular": "Begoña Gómez pide su absolución y defiende que no influyó en los cargos de la universidad ni en ninguna autoridad para crear la cátedra",
+      "titular": "Ceuta causa otro choque entre la Justicia y el Ejecutivo por la reserva de un informe policial",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-04T14:22:14+02:00",
-      "enlace": "https://elpais.com/espana/2026-09-04/begona-gomez-pide-su-absolucion-y-defiende-que-no-influyo-en-los-cargos-de-la-univerdad-ni-en-ninguna-autoridad-para-crear-la-catedra.html"
+      "fecha": "2026-09-05T05:45:01+02:00",
+      "enlace": "https://elpais.com/espana/2026-09-05/ceuta-causa-otro-choque-entre-la-justicia-y-el-ejecutivo-por-la-reserva-de-un-informe-policial.html"
     },
     {
       "titular": "Hacienda aprueba la financiación con el único respaldo de Catalunya y Canarias",
@@ -32,13 +32,13 @@
       "enlace": "https://www.lavanguardia.com/economia/20260904/11627222/hacienda-aprueba-nueva-financiacion-respaldada-catalunya-canarias-rechazo-87-comunidades.html"
     },
     {
-      "titular": "Alcaraz mete una marcha más y ya está en octavos",
+      "titular": "Apple confirma la fecha de presentación del nuevo iPhone: todo lo que sabemos de los nuevos modelos",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-05T02:05:15+02:00",
-      "enlace": "https://www.abc.es/deportes/tenis/cronica-alcaraz-20260904193058-nt.html"
+      "fecha": "2026-09-05T06:00:09+02:00",
+      "enlace": "https://www.abc.es/tecnologia/apple-confirma-fecha-presentacion-nuevo-iphone-sabemos-20260905060000-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -50,13 +50,13 @@
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
     },
     {
-      "titular": "La Fiscalía avala que la Audiencia Nacional inicie una investigación por la crisis migratoria de Ceuta",
+      "titular": "La presión del PP complica el traslado de 500 niñas inmigrantes de Ceuta a la Península",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-04T14:23:46+02:00",
-      "enlace": "https://elpais.com/espana/2026-09-04/la-fiscalia-avala-que-la-audiencia-nacional-inicie-una-investigacion-por-la-crisis-migratoria-de-ceuta.html"
+      "fecha": "2026-09-05T05:45:01+02:00",
+      "enlace": "https://elpais.com/espana/2026-09-05/la-presion-del-pp-complica-el-traslado-de-500-ninas-inmigrantes-de-ceuta-a-la-peninsula.html"
     },
     {
       "titular": "El ministro de Hacienda regala a Madrid el libro 'El dolor de los demás' y a Catalunya, un ejemplar de Chaves Nogales",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 8,
+    "antiguedad_minima_min": 15,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2229189,
+        "antiguedad_min": 2229459,
         "descartados_por_gancho": 0
       },
       {
@@ -97,10 +97,10 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 139,
+        "items": 135,
         "error": null,
-        "antiguedad_min": 149,
-        "descartados_por_gancho": 2
+        "antiguedad_min": 15,
+        "descartados_por_gancho": 6
       },
       {
         "medio": "La Vanguardia",
@@ -108,17 +108,17 @@
         "ok": true,
         "items": 131,
         "error": null,
-        "antiguedad_min": 81,
+        "antiguedad_min": 352,
         "descartados_por_gancho": 10
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 25,
+        "items": 24,
         "error": null,
-        "antiguedad_min": 8,
-        "descartados_por_gancho": 0
+        "antiguedad_min": 44,
+        "descartados_por_gancho": 1
       }
     ]
   }
