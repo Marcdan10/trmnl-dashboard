@@ -1,26 +1,26 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "portadas",
-  "generado": "2026-09-05T10:44:49+02:00",
+  "modo": "ultimas",
+  "generado": "2026-09-05T14:16:26+02:00",
   "titulares": [
     {
-      "titular": "Las decisiones que debe tomar Flick de cara a Mestalla",
+      "titular": "Troy Parrott mordió la mano del que le hizo debutar, Mourinho",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-05T07:00:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260905/1004223484/decisiones-debe-tomar-flick-cara-mestalla.html"
+      "fecha": "2026-09-05T13:44:56+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/betis/20260905/1004223591/troy-parrott-mordio-mano-le-hizo-debutar-mourinho.html"
     },
     {
-      "titular": "Julián Calero, sobre la plantilla del Oviedo: \"Esto es como Forrest Gump; ahora hay que abrir la caja de bombones...\"",
+      "titular": "El significado psicológico de las batallas de aura, según los expertos",
       "medios": [
-        "Sport"
+        "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/oviedo/julian-calero-plantilla-oviedo-forrest-133977382"
+      "fecha": "2026-09-05T13:43:19+02:00",
+      "enlace": "https://www.mundodeportivo.com/pulso/20260905/1004223584/psicologos-coinciden-personas-participan-batallas-aura-no-baja-autoestima-quieren-descubrir-quienes-son-que-lugar-ocupan-grupo-dct.html"
     },
     {
       "titular": "Bombazo: Messi se retira de la selección argentina",
@@ -32,24 +32,6 @@
       "enlace": "https://www.marca.com/futbol/2026/08/31/bombazo-messi-retira-seleccion-argentina.html"
     },
     {
-      "titular": "El 'truco' de Bartra que le salió de lujo en el penalti de Mbappé",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-05T08:33:54+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/20260905/1004223500/truco-bartra-le-salio-lujo-penalti-mbappe.html"
-    },
-    {
-      "titular": "¡Lamine Yamal, baja en el último entrenamiento del Barça!",
-      "medios": [
-        "Sport"
-      ],
-      "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/barca/lamine-yamal-baja-ultimo-entrenamiento-133977002"
-    },
-    {
       "titular": "Lando Norris y por qué cree que debería ganar lo que Verstappen y Hamilton",
       "medios": [
         "Marca"
@@ -59,13 +41,31 @@
       "enlace": "https://www.marca.com/motor/formula1/gp-italia/2026/08/31/lando-norris-cree-deberia-ganar-verstappen-hamilton.html"
     },
     {
-      "titular": "Ya hay capitanes del Barça: Raphinha, Pedri, Eric Garcia, De Jong y Lamine Yamal",
+      "titular": "Alberto Sánchez, abogado experto en herencias: \"Siempre conviene hacer testamento en el momento en el que tengamos algo de patrimonio”",
+      "medios": [
+        "Sport"
+      ],
+      "consenso": 1,
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/economia/alberto-sanchez-abogado-experto-herencias-133977360"
+    },
+    {
+      "titular": "Russell manda también en Libres 3 y apunta a la pole en Monza",
+      "medios": [
+        "Sport"
+      ],
+      "consenso": 1,
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/motor/formula1/russell-manda-libres-3-apunta-133981498"
+    },
+    {
+      "titular": "Marc Bove, propietario de 17 pisos: \"Yo no compro nada que no me deje al menos 200 euros de margen al mes\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-05T00:30:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260905/1004223477/hay-capitanes-barca-raphinha-pedri-eric-frenkie-lamine.html"
+      "fecha": "2026-09-05T13:42:08+02:00",
+      "enlace": "https://www.mundodeportivo.com/actualidad/20260905/1004223590/marc-bove-propietario-17-pisos-no-compro-no-me-deje-200-euros-margen-mes-dct.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 17,
+    "antiguedad_minima_min": 31,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 61,
         "error": null,
-        "antiguedad_min": 6812,
+        "antiguedad_min": 7024,
         "descartados_por_gancho": 10
       },
       {
@@ -98,19 +98,19 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 145,
+        "items": 142,
         "error": null,
-        "antiguedad_min": 17,
+        "antiguedad_min": 31,
         "descartados_por_gancho": 4
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 48,
+        "items": 47,
         "error": null,
         "antiguedad_min": null,
-        "descartados_por_gancho": 2
+        "descartados_por_gancho": 0
       },
       {
         "medio": "NBA",

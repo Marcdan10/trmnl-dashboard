@@ -1,35 +1,62 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "portadas",
-  "generado": "2026-09-05T10:44:48+02:00",
+  "modo": "ultimas",
+  "generado": "2026-09-05T14:16:24+02:00",
   "titulares": [
     {
-      "titular": "Volkswagen garantiza el futuro de sus plantas españolas pese al repliegue de Seat",
+      "titular": "Nepal mantiene las búsquedas 11 días después de la riada tras nuevos rescates con vida",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-05T00:28:24+02:00",
-      "enlace": "https://www.expansion.com/empresas/motor/2026/09/05/6a9acd0c468aeb2d018b458c.html"
+      "fecha": "2026-09-05T14:00:41+02:00",
+      "enlace": "https://www.expansion.com/sociedad/2026/09/05/6a9bf5a1468aeb932d8b4579.html"
     },
     {
-      "titular": "Los neobrókeres presionan las cuentas remuneradas de la banca",
+      "titular": "La OPEP+ evalúa si reajusta su oferta tras sus últimos aumentos de producción",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-05T00:27:35+02:00",
-      "enlace": "https://www.expansion.com/ahorro/2026/09/05/6a9b0f58468aeb59068b45a0.html"
+      "fecha": "2026-09-05T13:47:24+02:00",
+      "enlace": "https://www.expansion.com/empresas/energia/2026/09/05/6a9bfe59e5fdea853f8b45b4.html"
     },
     {
-      "titular": "Veinte gigantes bursátiles con las mejores perspectivas para ganar",
+      "titular": "El Gobierno tacha de \"irresponsable\" que Andalucía rechace la financiación extra",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-05T00:29:33+02:00",
-      "enlace": "https://www.expansion.com/inversion/2026/09/05/6a9b0b29468aeb03508b4597.html"
+      "fecha": "2026-09-05T12:45:46+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/09/05/6a9bebb3e5fdeaf4398b4594.html"
+    },
+    {
+      "titular": "El Govern trabajará \"incansablemente\" para mantener la marca Seat sin reducir su plantilla",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-05T12:03:45+02:00",
+      "enlace": "https://www.expansion.com/catalunya/2026/09/05/6a9be6c6468aebc37f8b45b6.html"
+    },
+    {
+      "titular": "Ford Almussafes presentará a los sindicatos su propuesta laboral y salarial de 2027 a 2030",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-05T11:02:18+02:00",
+      "enlace": "https://www.expansion.com/empresas/motor/2026/09/05/6a9bcc68468aeb2a7a8b459d.html"
+    },
+    {
+      "titular": "Los bancos centrales se preparan para subir los tipos ante una inflación por encima de lo previsto",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-05T10:33:24+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/09/05/6a9bd0bd468aebb60a8b45c3.html"
     },
     {
       "titular": "Invertir en ovnis y en bitcoin por la noche: los ETF más insólitos",
@@ -39,33 +66,6 @@
       "consenso": 1,
       "fecha": "2026-09-05T00:29:57+02:00",
       "enlace": "https://www.expansion.com/mercados/2026/09/05/6a9b20dd468aeb2a7a8b458b.html"
-    },
-    {
-      "titular": "Cómo mueven el mercado las 'ballenas' del bitcoin",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-05T00:28:39+02:00",
-      "enlace": "https://www.expansion.com/mercados/criptomonedas/2026/09/05/6a9a9a1ee5fdea73508b457f.html"
-    },
-    {
-      "titular": "Valores para invertir con el cambio climático",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-05T00:19:03+02:00",
-      "enlace": "https://www.expansion.com/inversion/2026/09/05/6a9b0e7b468aeb126a8b4581.html"
-    },
-    {
-      "titular": "Campeones de la 'Liga Fantástica' de las fusiones",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-05T00:16:16+02:00",
-      "enlace": "https://www.expansion.com/economia/financial-times/2026/09/05/6a9b25c3e5fdeaa2268b45ad.html"
     }
   ],
   "salud": {
@@ -78,7 +78,7 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 11,
+    "antiguedad_minima_min": 15,
     "detalle": [
       {
         "medio": "Expansión",
@@ -86,8 +86,8 @@
         "ok": true,
         "items": 76,
         "error": null,
-        "antiguedad_min": 11,
-        "descartados_por_gancho": 1
+        "antiguedad_min": 15,
+        "descartados_por_gancho": 0
       },
       {
         "medio": "Cinco Días",

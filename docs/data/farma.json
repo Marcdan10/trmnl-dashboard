@@ -1,9 +1,27 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "portadas",
-  "generado": "2026-09-05T10:44:56+02:00",
+  "modo": "ultimas",
+  "generado": "2026-09-05T14:16:31+02:00",
   "titulares": [
+    {
+      "titular": "Sanidad lanza una campaña contra el estigma de la discapacidad psicosocial",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-05T12:39:38+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/ministerio-sanidad/20260905/sanidad-lanza-una-campana-contra-el-estigma-de-la-discapacidad-psicosocial/350219_0.html"
+    },
+    {
+      "titular": "Hacia dónde va la medicina en el segundo cuarto del siglo XXI (2025–2050). Parte 2. El “presuro” y la liminalidad",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-05T12:28:43+02:00",
+      "enlace": "https://www.redaccionmedica.com/opinion/20260905/hacia-donde-va-la-medicina-en-el-segundo-cuarto-del-siglo-xxi-parte-el-presuro-liminalidad/350135_12.html"
+    },
     {
       "titular": "El PRAC analiza la seguridad del hierro parenteral y sus riesgos de afección ósea",
       "medios": [
@@ -12,24 +30,6 @@
       "consenso": 1,
       "fecha": "2026-09-04T15:11:10+02:00",
       "enlace": "https://diariofarma.com/2026/09/04/el-prac-analiza-la-seguridad-del-hierro-parenteral-y-sus-riesgos-de-afeccion-osea"
-    },
-    {
-      "titular": "El PRAC investiga el riesgo de hipofosfatemia y problemas óseos relacionados con los medicamentos inyectables de hierro",
-      "medios": [
-        "El Global"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-04T14:47:04+02:00",
-      "enlace": "https://elglobalfarma.com/industria/prac-investiga-riesgo-hipofosfatemia-problemas-oseos-medicamentos-inyectables-hierro/"
-    },
-    {
-      "titular": "\"La sanidad necesita una nueva generación de gestores con vocación transformadora\"",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-04T18:00:00+02:00",
-      "enlace": "https://www.redaccionmedica.com/autonomias/catalunya/20260904/la-sanidad-necesita-una-nueva-generacion-de-gestores-con-vocacion-transformadora/350195_0.html"
     },
     {
       "titular": "Cooke: \"El regulador del futuro debe ser tan innovador como la ciencia que evalúa\"",
@@ -41,6 +41,15 @@
       "enlace": "https://diariofarma.com/2026/09/04/cooke-el-regulador-del-futuro-debe-ser-tan-innovador-como-la-ciencia-que-evalua"
     },
     {
+      "titular": "El PRAC investiga el riesgo de hipofosfatemia y problemas óseos relacionados con los medicamentos inyectables de hierro",
+      "medios": [
+        "El Global"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-04T14:47:04+02:00",
+      "enlace": "https://elglobalfarma.com/industria/prac-investiga-riesgo-hipofosfatemia-problemas-oseos-medicamentos-inyectables-hierro/"
+    },
+    {
       "titular": "Cooke (EMA) reclama “reimaginar” la regulación de medicamentos para hacerla más ágil sin comprometer los estándares",
       "medios": [
         "El Global"
@@ -50,22 +59,13 @@
       "enlace": "https://elglobalfarma.com/industria/emer-cooke-ema-reimaginar-regulacion-medicamentos-agil/"
     },
     {
-      "titular": "Luz verde al nuevo modelo de financiación autonómica con 2 instrumentos para garantizar el reparto sanitario",
+      "titular": "El complejo aterrizaje en las farmacias españolas de la nueva píldora de Wegovy para adelgazar",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-09-04T16:01:46+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20260904/luz-verde-al-nuevo-modelo-de-financiacion-autonomica-con-instrumentos-para-garantizar-el-reparto-sanitario/350214_0.html"
-    },
-    {
-      "titular": "Trazabilidad y altruismo, ejes de acción de Europa ante el nuevo escenario en el procesamiento de órganos",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-04T14:44:23+02:00",
-      "enlace": "https://diariofarma.com/2026/09/04/la-eurocamara-centra-en-la-trazabilidad-y-el-altruismo-sus-ejes-de-accion-ante-el-nuevo-escenario-en-el-procesamiento-de-organos"
+      "fecha": "2026-09-05T12:13:45+02:00",
+      "enlace": "https://www.redaccionmedica.com/empresas/industria-farmaceutica/20260905/el-complejo-aterrizaje-en-las-farmacias-espanolas-de-la-nueva-pildora-wegovy-para-adelgazar/349989_0.html"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 864,
+    "antiguedad_minima_min": 96,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 1173,
+        "antiguedad_min": 1385,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 9,
         "error": null,
-        "antiguedad_min": 1197,
+        "antiguedad_min": 1409,
         "descartados_por_gancho": 1
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 864,
+        "antiguedad_min": 96,
         "descartados_por_gancho": 0
       },
       {
