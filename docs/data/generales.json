@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-09-06T01:05:52+02:00",
+  "generado": "2026-09-06T03:09:57+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -23,13 +23,22 @@
       "enlace": "https://elpais.com/espana/2026-09-05/el-gobierno-toma-el-control-del-puerto-de-ceuta-para-ubicar-a-mas-de-1000-inmigrantes-ante-la-resistencia-de-vivas.html"
     },
     {
-      "titular": "Los autobuses de la EMT y Bicimad volverán a ser gratuitos en la vuelta al cole",
+      "titular": "El Gobierno se hace con el control del puerto de Ceuta para poder alojar a inmigrantes",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-05T13:27:46+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20260905/11627977/gobierno-control-puerto-ceuta-criterio-vivas-alojar-inmigrantes.html"
+    },
+    {
+      "titular": "Feijóo incrementó la interlocución con países clave de la UE en mitad de la crisis de Ceuta",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-06T00:51:17+02:00",
-      "enlace": "https://www.abc.es/espana/madrid/autobuses-emt-bicimad-volveran-gratuitos-vuelta-cole-20260905184137-nt.html"
+      "fecha": "2026-09-06T02:57:16+02:00",
+      "enlace": "https://www.abc.es/espana/feijoo-incremento-interlocucion-paises-clave-ue-mitad-20260906014841-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -50,22 +59,13 @@
       "enlace": "https://elpais.com/espana/2026-09-05/los-vecinos-del-puerto-de-ceuta-se-movilizan-contra-las-obras-para-una-nueva-ubicacion-de-los-migrantes-no-los-queremos-aqui-punto.html"
     },
     {
-      "titular": "Albóndigas en salsa al estilo de mi abuela",
+      "titular": "Azcona, un guionista infinito con una filmografía incompleta",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-06T00:49:28+02:00",
-      "enlace": "https://www.abc.es/recetasderechupete/receta-de-albondigas-en-salsa/15542/"
-    },
-    {
-      "titular": "Feijóo y Ayuso se conjuran contra Sánchez en el curso más complejo para la presidenta de Madrid",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-05T13:50:30+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20260905/11628000/feijoo-ayuso-arrancan-curso-orden-confiarse-frente-sanchez.html"
+      "fecha": "2026-09-06T02:42:10+02:00",
+      "enlace": "https://www.abc.es/cultura/azcona-guionista-infinito-filmografia-incompleta-20260906013647-nt.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 14,
+    "antiguedad_minima_min": 12,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2230560,
+        "antiguedad_min": 2230684,
         "descartados_por_gancho": 0
       },
       {
@@ -99,7 +99,7 @@
         "ok": true,
         "items": 132,
         "error": null,
-        "antiguedad_min": 96,
+        "antiguedad_min": 220,
         "descartados_por_gancho": 4
       },
       {
@@ -108,17 +108,17 @@
         "ok": true,
         "items": 131,
         "error": null,
-        "antiguedad_min": 30,
+        "antiguedad_min": 154,
         "descartados_por_gancho": 16
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 24,
+        "items": 23,
         "error": null,
-        "antiguedad_min": 14,
-        "descartados_por_gancho": 1
+        "antiguedad_min": 12,
+        "descartados_por_gancho": 2
       }
     ]
   }
