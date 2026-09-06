@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-09-06T03:09:57+02:00",
+  "generado": "2026-09-06T08:12:28+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -14,22 +14,22 @@
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
     },
     {
-      "titular": "El Gobierno toma el control del puerto de Ceuta para ubicar a más de 1.000 inmigrantes ante una nueva resistencia de Vivas",
+      "titular": "Ceuta, atrapada en la guerra política",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-05T12:54:56+02:00",
-      "enlace": "https://elpais.com/espana/2026-09-05/el-gobierno-toma-el-control-del-puerto-de-ceuta-para-ubicar-a-mas-de-1000-inmigrantes-ante-la-resistencia-de-vivas.html"
+      "fecha": "2026-09-06T05:30:01+02:00",
+      "enlace": "https://elpais.com/espana/2026-09-06/ceuta-atrapada-en-la-guerra-politica.html"
     },
     {
-      "titular": "El Gobierno se hace con el control del puerto de Ceuta para poder alojar a inmigrantes",
+      "titular": "Manresa, una veintena de jóvenes y el miedo de una ciudad",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-05T13:27:46+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20260905/11627977/gobierno-control-puerto-ceuta-criterio-vivas-alojar-inmigrantes.html"
+      "fecha": "2026-09-06T06:00:00+02:00",
+      "enlace": "https://www.lavanguardia.com/local/barcelona/20260906/11628106/manresa-veintena-jovenes-miedo-ciudad.html"
     },
     {
       "titular": "Feijóo incrementó la interlocución con países clave de la UE en mitad de la crisis de Ceuta",
@@ -50,13 +50,13 @@
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
     },
     {
-      "titular": "Los vecinos del puerto de Ceuta se movilizan contra las obras para una nueva ubicación de los migrantes: “No los queremos aquí, punto”",
+      "titular": "Las otras crisis de Interior que marcan el paso a Marlaska en Ceuta",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-05T20:43:22+02:00",
-      "enlace": "https://elpais.com/espana/2026-09-05/los-vecinos-del-puerto-de-ceuta-se-movilizan-contra-las-obras-para-una-nueva-ubicacion-de-los-migrantes-no-los-queremos-aqui-punto.html"
+      "fecha": "2026-09-06T05:30:01+02:00",
+      "enlace": "https://elpais.com/espana/2026-09-06/las-otras-crisis-de-interior-que-marcan-el-paso-a-marlaska-en-ceuta.html"
     },
     {
       "titular": "Azcona, un guionista infinito con una filmografía incompleta",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 12,
+    "antiguedad_minima_min": 55,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2230684,
+        "antiguedad_min": 2230987,
         "descartados_por_gancho": 0
       },
       {
@@ -97,19 +97,19 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 132,
+        "items": 131,
         "error": null,
-        "antiguedad_min": 220,
-        "descartados_por_gancho": 4
+        "antiguedad_min": 87,
+        "descartados_por_gancho": 7
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 131,
+        "items": 117,
         "error": null,
-        "antiguedad_min": 154,
-        "descartados_por_gancho": 16
+        "antiguedad_min": 55,
+        "descartados_por_gancho": 27
       },
       {
         "medio": "ABC",
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 23,
         "error": null,
-        "antiguedad_min": 12,
+        "antiguedad_min": 315,
         "descartados_por_gancho": 2
       }
     ]

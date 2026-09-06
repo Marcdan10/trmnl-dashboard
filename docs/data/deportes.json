@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-09-06T03:10:02+02:00",
+  "generado": "2026-09-06T08:12:34+02:00",
   "titulares": [
     {
-      "titular": "2-3: 'Pierre-MVP' Aubameyang continúa dando volteretas",
+      "titular": "El probable once del Barça ante el Valencia",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-05T23:05:12+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/laliga/20260905/1004223792/pierre-mvp-aubameyang-continua-dando-volteretas.html"
+      "fecha": "2026-09-06T07:00:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260906/1004223732/posible-once-barca-valencia.html"
     },
     {
-      "titular": "El Real Zaragoza rompe una doble racha de 160 días sin ganar en casa y sin encajar gol",
+      "titular": "El reto de Punter: \"Aún debo mostrar a los nuevos chicos que tengo que ser un líder\"",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/futbol/real-zaragoza-rompe-doble-racha-133994361"
+      "enlace": "https://www.sport.es/es/noticias/baloncesto-barca/reto-punter-debo-mostrar-nuevos-133993696"
     },
     {
       "titular": "Bombazo: Messi se retira de la selección argentina",
@@ -32,22 +32,22 @@
       "enlace": "https://www.marca.com/futbol/2026/08/31/bombazo-messi-retira-seleccion-argentina.html"
     },
     {
-      "titular": "0-4: Caroline Graham lidera otra exhibición del Barça",
+      "titular": "Valencia-Barça: va el liderato en solitario",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-05T22:59:06+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260905/1004223789/caroline-graham-lidera-exhibicion-barca.html"
+      "fecha": "2026-09-06T07:00:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260906/1004223802/valencia-barca-liderato-solitario.html"
     },
     {
-      "titular": "Ibai Gómez, tras el agónico triunfo del Real Zaragoza: \"Ha llegado el premio que el equipo se merecía\"",
+      "titular": "El Barça, una fábrica de hacer dinero",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/futbol/ibai-gomez-agonico-triunfo-real-133994235"
+      "enlace": "https://www.sport.es/es/noticias/barca/barca-fabrica-dinero-133989047"
     },
     {
       "titular": "Lando Norris y por qué cree que debería ganar lo que Verstappen y Hamilton",
@@ -59,13 +59,13 @@
       "enlace": "https://www.marca.com/motor/formula1/gp-italia/2026/08/31/lando-norris-cree-deberia-ganar-verstappen-hamilton.html"
     },
     {
-      "titular": "La titularidad en el Barça está cara: así está el once",
+      "titular": "La nueva era del Barça de Sekulic arranca en Andorra",
       "medios": [
-        "Mundo Deportivo"
+        "Sport"
       ],
       "consenso": 1,
-      "fecha": "2026-09-05T16:19:37+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260905/1004223573/titularidad-barca-cara-asi-once.html"
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/baloncesto/nueva-barca-sekulic-arranca-andorra-133989541"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 159,
+    "antiguedad_minima_min": 26,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 61,
         "error": null,
-        "antiguedad_min": 7797,
+        "antiguedad_min": 8100,
         "descartados_por_gancho": 10
       },
       {
@@ -98,19 +98,19 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 145,
+        "items": 138,
         "error": null,
-        "antiguedad_min": 159,
-        "descartados_por_gancho": 3
+        "antiguedad_min": 26,
+        "descartados_por_gancho": 4
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 49,
+        "items": 46,
         "error": null,
         "antiguedad_min": null,
-        "descartados_por_gancho": 1
+        "descartados_por_gancho": 4
       },
       {
         "medio": "NBA",
