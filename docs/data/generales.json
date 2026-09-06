@@ -2,62 +2,61 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-09-06T19:12:15+02:00",
+  "generado": "2026-09-06T21:21:26+02:00",
   "titulares": [
     {
-      "titular": "Devueltos a Marruecos 21 inmigrantes por lanzar piedras a militares y guardias civiles en Ceuta",
-      "medios": [
-        "La Vanguardia",
-        "ABC"
-      ],
-      "consenso": 2,
-      "fecha": "2026-09-06T18:58:22+02:00",
-      "enlace": "https://www.abc.es/espana/veintena-inmigrantes-detenidos-ceuta-lanzar-piedras-militares-20260906135011-nt.html"
-    },
-    {
-      "titular": "La extrema derecha roza la mayoría absoluta en Sajonia-Anhalt, según los sondeos",
+      "titular": "Tommy Paul - Carlos Alcaraz en directo | Alcaraz se lleva el primer set del partido",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-06T18:56:09+02:00",
-      "enlace": "https://elpais.com/internacional/2026-09-06/la-participacion-se-dispara-en-las-elecciones-regionales-alemanas-donde-la-extrema-derecha-aspira-a-gobernar.html"
+      "fecha": "2026-09-06T21:17:05+02:00",
+      "enlace": "https://elpais.com/deportes/tenis/2026-09-06/tommy-paul-carlos-alcaraz-en-directo-el-partido-de-octavos-de-final-del-us-open-en-vivo.html"
     },
     {
-      "titular": "La gran mayoría piensa que Marruecos está detrás de la invasión y que Sánchez debería haber vuelto de las vacaciones",
+      "titular": "Gaza entierra a los muertos de hace mil días",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-06T18:54:15+02:00",
-      "enlace": "https://www.abc.es/espana/gran-mayoria-piensa-marruecos-detras-invasion-sanchez-20260906014650-nt.html"
+      "fecha": "2026-09-06T20:52:01+02:00",
+      "enlace": "https://www.abc.es/internacional/gaza-entierra-muertos-mil-dias-20260906203911-nt.html"
     },
     {
-      "titular": "Van Aert prolonga la sequía del ciclismo español",
+      "titular": "ElPozo Murcia gana la Supercopa y pone fin a una sequía de nueve años",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-06T18:53:45+02:00",
-      "enlace": "https://www.abc.es/deportes/ciclismo/van-aert-prolonga-sequia-ciclismo-espanol-20260906175020-nt.html"
+      "fecha": "2026-09-06T20:31:13+02:00",
+      "enlace": "https://www.abc.es/deportes/elpozo-murcia-gana-supercopa-pone-fin-sequia-20260906203113-nt.html"
     },
     {
-      "titular": "El Barça disfruta en Mestalla a costa de un pobre Valencia",
+      "titular": "Susan Sarandon encarna el último amor loco de Bertolucci",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-06T18:46:09+02:00",
-      "enlace": "https://elpais.com/deportes/futbol/2026-09-06/el-barca-disfruta-en-mestalla-a-costa-de-un-pobre-valencia.html"
+      "fecha": "2026-09-06T20:21:23+02:00",
+      "enlace": "https://elpais.com/cultura/cine/2026-09-06/susan-sarandon-encarna-el-ultimo-amor-loco-de-bertolucci.html"
     },
     {
-      "titular": "Van Aert repite triunfo en una etapa recortada por el calor extremo",
+      "titular": "El 'General' Fermín asombra en Mestalla",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-06T18:29:35+02:00",
-      "enlace": "https://www.lavanguardia.com/deportes/ciclismo/20260906/11628583/aert-repite-triunfo-etapa-recortada-calor-extremo.html"
+      "fecha": "2026-09-06T20:01:15+02:00",
+      "enlace": "https://www.lavanguardia.com/deportes/fc-barcelona/20260906/11628612/general-fermin-asombra-mestalla.html"
+    },
+    {
+      "titular": "Von der Leyen lleva la voz europea a Groenlandia tras las amenazas de Trump",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-06T19:23:40+02:00",
+      "enlace": "https://www.lavanguardia.com/internacional/20260906/11628608/von-der-leyen-lleva-voz-europea-groenlandia-amenazas-trump.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -75,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 13,
+    "antiguedad_minima_min": 4,
     "detalle": [
       {
         "medio": "RTVE",
@@ -83,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2231647,
+        "antiguedad_min": 2231776,
         "descartados_por_gancho": 0
       },
       {
@@ -98,18 +97,18 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 129,
+        "items": 130,
         "error": null,
-        "antiguedad_min": 16,
+        "antiguedad_min": 4,
         "descartados_por_gancho": 3
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 127,
+        "items": 128,
         "error": null,
-        "antiguedad_min": 42,
+        "antiguedad_min": 80,
         "descartados_por_gancho": 28
       },
       {
@@ -118,7 +117,7 @@
         "ok": true,
         "items": 24,
         "error": null,
-        "antiguedad_min": 13,
+        "antiguedad_min": 29,
         "descartados_por_gancho": 1
       }
     ]

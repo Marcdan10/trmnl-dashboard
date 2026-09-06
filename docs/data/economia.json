@@ -2,8 +2,26 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-09-06T19:12:19+02:00",
+  "generado": "2026-09-06T21:21:28+02:00",
   "titulares": [
+    {
+      "titular": "La ultraderechista AfD vence en Sajonia-Anhalt y roza la mayoría absoluta",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-06T19:31:14+02:00",
+      "enlace": "https://www.expansion.com/economia/politica/2026/09/06/6a9da207468aeb8f278b457a.html"
+    },
+    {
+      "titular": "Cuando la empresa tiene que fichar también a la familia",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-06T18:24:13+02:00",
+      "enlace": "https://www.expansion.com/expansion-empleo/desarrollo-de-carrera/2026/09/04/6a9acb84468aeb89308b45c9.html"
+    },
     {
       "titular": "El repunte de la inflación tensa la negociación para la subida del salario mínimo en 2027",
       "medios": [
@@ -48,24 +66,6 @@
       "consenso": 1,
       "fecha": "2026-09-06T13:44:13+02:00",
       "enlace": "https://www.expansion.com/economia/2026/09/06/6a9d46b0468aeb3e018b457a.html"
-    },
-    {
-      "titular": "Las reservas de petróleo amortiguan la subida del crudo tras seis meses de crisis en Ormuz",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-06T12:54:46+02:00",
-      "enlace": "https://www.expansion.com/empresas/energia/2026/09/06/6a9d42b7468aebb4348b457c.html"
-    },
-    {
-      "titular": "El Gobierno acelera los trámites para que Ceuta reciba 11 millones en ayudas financieras",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-06T12:19:58+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/09/06/6a9d3bc1e5fdea025b8b45a5.html"
     }
   ],
   "salud": {
@@ -78,7 +78,7 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 184,
+    "antiguedad_minima_min": 110,
     "detalle": [
       {
         "medio": "Expansión",
@@ -86,7 +86,7 @@
         "ok": true,
         "items": 70,
         "error": null,
-        "antiguedad_min": 184,
+        "antiguedad_min": 110,
         "descartados_por_gancho": 0
       },
       {
