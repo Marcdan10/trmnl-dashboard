@@ -1,9 +1,27 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "portadas",
-  "generado": "2026-09-06T08:12:40+02:00",
+  "modo": "ultimas",
+  "generado": "2026-09-06T13:10:37+02:00",
   "titulares": [
+    {
+      "titular": "La enfermera que salvó a su hijo con una pulsera revolucionaria para frenar asfixias alimentarias",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-06T12:23:41+02:00",
+      "enlace": "https://www.redaccionmedica.com/profesionales/enfermeria/20260906/la-enfermera-que-salvo-su-hijo-con-una-pulsera-revolucionaria-para-frenar-asfixias-alimentarias/350157_0.html"
+    },
+    {
+      "titular": "Sanidad avala el control estatal del puerto de Ceuta para frenar brotes y vacunar a los migrantes",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-06T11:59:11+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20260906/sanidad-avala-el-control-estatal-del-puerto-de-ceuta-para-frenar-brotes-vacunar-los-migrantes/350223_0.html"
+    },
     {
       "titular": "El PRAC analiza la seguridad del hierro parenteral y sus riesgos de afección ósea",
       "medios": [
@@ -12,24 +30,6 @@
       "consenso": 1,
       "fecha": "2026-09-04T15:11:10+02:00",
       "enlace": "https://diariofarma.com/2026/09/04/el-prac-analiza-la-seguridad-del-hierro-parenteral-y-sus-riesgos-de-afeccion-osea"
-    },
-    {
-      "titular": "El PRAC investiga el riesgo de hipofosfatemia y problemas óseos relacionados con los medicamentos inyectables de hierro",
-      "medios": [
-        "El Global"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-04T14:47:04+02:00",
-      "enlace": "https://elglobalfarma.com/industria/prac-investiga-riesgo-hipofosfatemia-problemas-oseos-medicamentos-inyectables-hierro/"
-    },
-    {
-      "titular": "El esfuerzo de los 27 MIR que salva a Ceuta del colapso sanitario: \"Atendí a 110 personas en 7 horas\"",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-05T17:55:58+02:00",
-      "enlace": "https://www.redaccionmedica.com/formacion/mir/20260905/el-esfuerzo-de-los-mir-que-salva-ceuta-del-colapso-sanitario-atendi-personas-en-horas/350165_0.html"
     },
     {
       "titular": "Cooke: \"El regulador del futuro debe ser tan innovador como la ciencia que evalúa\"",
@@ -41,6 +41,15 @@
       "enlace": "https://diariofarma.com/2026/09/04/cooke-el-regulador-del-futuro-debe-ser-tan-innovador-como-la-ciencia-que-evalua"
     },
     {
+      "titular": "El PRAC investiga el riesgo de hipofosfatemia y problemas óseos relacionados con los medicamentos inyectables de hierro",
+      "medios": [
+        "El Global"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-04T14:47:04+02:00",
+      "enlace": "https://elglobalfarma.com/industria/prac-investiga-riesgo-hipofosfatemia-problemas-oseos-medicamentos-inyectables-hierro/"
+    },
+    {
       "titular": "Cooke (EMA) reclama “reimaginar” la regulación de medicamentos para hacerla más ágil sin comprometer los estándares",
       "medios": [
         "El Global"
@@ -50,22 +59,13 @@
       "enlace": "https://elglobalfarma.com/industria/emer-cooke-ema-reimaginar-regulacion-medicamentos-agil/"
     },
     {
-      "titular": "La vía legal contra el Estatuto Marco 'se cuela' entre las opciones de los médicos para sumarla a la huelga",
+      "titular": "El miedo a las represalias jerárquicas bloquea el instinto diagnóstico de los MIR",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-09-05T16:09:24+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/20260905/la-via-legal-contra-el-estatuto-marco-se-cuela-entre-las-opciones-de-los-medicos-para-sumarla-la-huelga/350065_0.html"
-    },
-    {
-      "titular": "Trazabilidad y altruismo, ejes de acción de Europa ante el nuevo escenario en el procesamiento de órganos",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-04T14:44:23+02:00",
-      "enlace": "https://diariofarma.com/2026/09/04/la-eurocamara-centra-en-la-trazabilidad-y-el-altruismo-sus-ejes-de-accion-ante-el-nuevo-escenario-en-el-procesamiento-de-organos"
+      "fecha": "2026-09-06T11:05:52+02:00",
+      "enlace": "https://www.redaccionmedica.com/formacion/mir/20260906/el-miedo-las-represalias-jerarquicas-bloquea-el-instinto-diagnostico-de-los-mir/350222_0.html"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 856,
+    "antiguedad_minima_min": 46,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 2461,
+        "antiguedad_min": 2759,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 9,
         "error": null,
-        "antiguedad_min": 2485,
+        "antiguedad_min": 2783,
         "descartados_por_gancho": 1
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 856,
+        "antiguedad_min": 46,
         "descartados_por_gancho": 0
       },
       {

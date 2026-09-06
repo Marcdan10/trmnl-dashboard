@@ -1,26 +1,26 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "portadas",
-  "generado": "2026-09-06T08:12:34+02:00",
+  "modo": "ultimas",
+  "generado": "2026-09-06T13:10:30+02:00",
   "titulares": [
     {
-      "titular": "El probable once del Barça ante el Valencia",
+      "titular": "Toni Bou sigue haciendo historia y gana su 40º título de campeón",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-06T07:00:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260906/1004223732/posible-once-barca-valencia.html"
+      "fecha": "2026-09-06T12:50:18+02:00",
+      "enlace": "https://www.mundodeportivo.com/motor/motociclismo/20260906/1004223921/toni-bou-sigue-haciendo-historia-gana-40o-titulo-campeon.html"
     },
     {
-      "titular": "El reto de Punter: \"Aún debo mostrar a los nuevos chicos que tengo que ser un líder\"",
+      "titular": "25 años del 11S: más de 4.000 bomberos con cáncer y 12.000 con al menos una enfermedad",
       "medios": [
-        "Sport"
+        "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/baloncesto-barca/reto-punter-debo-mostrar-nuevos-133993696"
+      "fecha": "2026-09-06T12:40:10+02:00",
+      "enlace": "https://www.mundodeportivo.com/pulso/20260906/1004223908/11s-sigue-afectando-supervivientes-25-anos-mas-4-000-bomberos-nueva-york-diagnosticados-cancer-12-000-enfermedad-atribuida-atentado-dct.html"
     },
     {
       "titular": "Bombazo: Messi se retira de la selección argentina",
@@ -32,24 +32,6 @@
       "enlace": "https://www.marca.com/futbol/2026/08/31/bombazo-messi-retira-seleccion-argentina.html"
     },
     {
-      "titular": "Valencia-Barça: va el liderato en solitario",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-06T07:00:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260906/1004223802/valencia-barca-liderato-solitario.html"
-    },
-    {
-      "titular": "El Barça, una fábrica de hacer dinero",
-      "medios": [
-        "Sport"
-      ],
-      "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/barca/barca-fabrica-dinero-133989047"
-    },
-    {
       "titular": "Lando Norris y por qué cree que debería ganar lo que Verstappen y Hamilton",
       "medios": [
         "Marca"
@@ -59,13 +41,31 @@
       "enlace": "https://www.marca.com/motor/formula1/gp-italia/2026/08/31/lando-norris-cree-deberia-ganar-verstappen-hamilton.html"
     },
     {
-      "titular": "La nueva era del Barça de Sekulic arranca en Andorra",
+      "titular": "El Barça Atlètic ya tiene dorsales para la nueva temporada",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/baloncesto/nueva-barca-sekulic-arranca-andorra-133989541"
+      "enlace": "https://www.sport.es/es/noticias/futbol-base/barca-atletic-dorsales-nueva-temporada-134001813"
+    },
+    {
+      "titular": "El vacile de la afición del Athletic a Marcos Llorente: \"Échate crema\"",
+      "medios": [
+        "Sport"
+      ],
+      "consenso": 1,
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/laliga/vacile-aficion-athletic-marcos-llorente-134001474"
+    },
+    {
+      "titular": "Fernando Alonso sale desde el pit lane tras sus problemas de motor",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-06T12:40:09+02:00",
+      "enlace": "https://www.mundodeportivo.com/motor/f1/20260906/1004223915/fernando-alonso-sale-pit-lane-problemas-motor.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 26,
+    "antiguedad_minima_min": 20,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 61,
         "error": null,
-        "antiguedad_min": 8100,
+        "antiguedad_min": 8398,
         "descartados_por_gancho": 10
       },
       {
@@ -98,19 +98,19 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 138,
+        "items": 141,
         "error": null,
-        "antiguedad_min": 26,
+        "antiguedad_min": 20,
         "descartados_por_gancho": 4
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 46,
+        "items": 47,
         "error": null,
         "antiguedad_min": null,
-        "descartados_por_gancho": 4
+        "descartados_por_gancho": 3
       },
       {
         "medio": "NBA",

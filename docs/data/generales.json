@@ -1,9 +1,64 @@
 {
   "pantalla": "generales",
   "titulo": "Titulares",
-  "modo": "portadas",
-  "generado": "2026-09-06T08:12:28+02:00",
+  "modo": "ultimas",
+  "generado": "2026-09-06T13:10:22+02:00",
   "titulares": [
+    {
+      "titular": "Al menos cuatro muertos en bombardeos israelíes en el sur del Líbano",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-06T12:53:33+02:00",
+      "enlace": "https://elpais.com/internacional/2026-09-06/israel-ataca-de-nuevo-el-sur-del-libano-y-acusa-a-hezbola-de-lanzar-drones-contra-sus-soldados.html"
+    },
+    {
+      "titular": "De un chalé de Arturo Soria a un polígono de Villaverde: viaje a las religiones que menos fieles profesan en Madrid",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-06T12:47:46+02:00",
+      "enlace": "https://www.abc.es/espana/madrid/religiones-minoritarias-madrid-encuentro-encuentro-20260414013608-nt.html"
+    },
+    {
+      "titular": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Trump ve “triste” lo que pasa en Ceuta y dice que España no controla su frontera",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-06T12:44:27+02:00",
+      "enlace": "https://elpais.com/espana/2026-09-06/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html"
+    },
+    {
+      "titular": "La Iglesia alemana pide el voto contra la extrema derecha en Sajonia-Anhalt",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-06T12:39:42+02:00",
+      "enlace": "https://www.abc.es/internacional/iglesia-alemana-pide-voto-extrema-derecha-sajoniaanhalt-20260906123942-nt.html"
+    },
+    {
+      "titular": "Al menos 25 muertos, la mayoría estudiantes de secundaria, tras precipitarse un autobús por un barranco en Cabo Verde",
+      "medios": [
+        "La Vanguardia",
+        "ABC"
+      ],
+      "consenso": 2,
+      "fecha": "2026-09-06T12:33:47+02:00",
+      "enlace": "https://www.abc.es/internacional/muertos-mayoria-estudiantes-secundaria-tras-precipitarse-autobus-20260906123347-nt.html"
+    },
+    {
+      "titular": "Muere Luis Fermoso a los 53 años, el periodista que puso nombre a la ‘Gravesinha’: Paco González y Dani Garrido se despiden de él",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-06T12:22:52+02:00",
+      "enlace": "https://www.lavanguardia.com/clic/20260906/11628487/muere-luis-fermoso-53-anos-periodista-puso-nombre-gravesinha-paco-gonzalez-dani-garrido-despiden-lol.html"
+    },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
       "medios": [
@@ -12,60 +67,6 @@
       "consenso": 1,
       "fecha": "2022-06-10T01:05:00+02:00",
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
-    },
-    {
-      "titular": "Ceuta, atrapada en la guerra política",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-06T05:30:01+02:00",
-      "enlace": "https://elpais.com/espana/2026-09-06/ceuta-atrapada-en-la-guerra-politica.html"
-    },
-    {
-      "titular": "Manresa, una veintena de jóvenes y el miedo de una ciudad",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-06T06:00:00+02:00",
-      "enlace": "https://www.lavanguardia.com/local/barcelona/20260906/11628106/manresa-veintena-jovenes-miedo-ciudad.html"
-    },
-    {
-      "titular": "Feijóo incrementó la interlocución con países clave de la UE en mitad de la crisis de Ceuta",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-06T02:57:16+02:00",
-      "enlace": "https://www.abc.es/espana/feijoo-incremento-interlocucion-paises-clave-ue-mitad-20260906014841-nt.html"
-    },
-    {
-      "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
-      "medios": [
-        "RTVE"
-      ],
-      "consenso": 1,
-      "fecha": "2022-06-10T00:03:00+02:00",
-      "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
-    },
-    {
-      "titular": "Las otras crisis de Interior que marcan el paso a Marlaska en Ceuta",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-06T05:30:01+02:00",
-      "enlace": "https://elpais.com/espana/2026-09-06/las-otras-crisis-de-interior-que-marcan-el-paso-a-marlaska-en-ceuta.html"
-    },
-    {
-      "titular": "Azcona, un guionista infinito con una filmografía incompleta",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-06T02:42:10+02:00",
-      "enlace": "https://www.abc.es/cultura/azcona-guionista-infinito-filmografia-incompleta-20260906013647-nt.html"
     }
   ],
   "salud": {
@@ -74,7 +75,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 55,
+    "antiguedad_minima_min": 16,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +83,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2230987,
+        "antiguedad_min": 2231285,
         "descartados_por_gancho": 0
       },
       {
@@ -97,28 +98,28 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 131,
+        "items": 134,
         "error": null,
-        "antiguedad_min": 87,
+        "antiguedad_min": 16,
         "descartados_por_gancho": 7
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 117,
+        "items": 124,
         "error": null,
-        "antiguedad_min": 55,
-        "descartados_por_gancho": 27
+        "antiguedad_min": 47,
+        "descartados_por_gancho": 28
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 23,
+        "items": 25,
         "error": null,
-        "antiguedad_min": 315,
-        "descartados_por_gancho": 2
+        "antiguedad_min": 22,
+        "descartados_por_gancho": 0
       }
     ]
   }

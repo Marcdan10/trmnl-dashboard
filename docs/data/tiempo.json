@@ -1,47 +1,7 @@
 {
   "ciudad": "Barcelona",
-  "generado": "2026-09-06T06:12:41",
+  "generado": "2026-09-06T11:10:38",
   "horas": [
-    {
-      "hora": "07",
-      "temp": 25,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "luna"
-    },
-    {
-      "hora": "08",
-      "temp": 25,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "sol"
-    },
-    {
-      "hora": "09",
-      "temp": 26,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "sol"
-    },
-    {
-      "hora": "10",
-      "temp": 29,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "sol"
-    },
-    {
-      "hora": "11",
-      "temp": 30,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "sol"
-    },
     {
       "hora": "12",
       "temp": 31,
@@ -92,11 +52,51 @@
     },
     {
       "hora": "18",
+      "temp": 31,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "nube"
+    },
+    {
+      "hora": "19",
       "temp": 30,
       "prob": 0,
       "mm": 0,
       "mostrar_prob": false,
-      "icono": "sol"
+      "icono": "nube"
+    },
+    {
+      "hora": "20",
+      "temp": 29,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "nube"
+    },
+    {
+      "hora": "21",
+      "temp": 28,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "nube"
+    },
+    {
+      "hora": "22",
+      "temp": 28,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "nube"
+    },
+    {
+      "hora": "23",
+      "temp": 27,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "nube"
     }
   ],
   "dias": [
@@ -124,8 +124,8 @@
       "etiqueta": "mié 9",
       "max": 27,
       "min": 21,
-      "prob": 94,
-      "mm": 39.2,
+      "prob": 99,
+      "mm": 29.7,
       "mostrar_prob": true,
       "destacar": true,
       "icono": "lluvia"
@@ -134,8 +134,8 @@
       "etiqueta": "jue 10",
       "max": 26,
       "min": 19,
-      "prob": 37,
-      "mm": 0.3,
+      "prob": 43,
+      "mm": 0,
       "mostrar_prob": true,
       "destacar": false,
       "icono": "nube"
@@ -143,7 +143,7 @@
     {
       "etiqueta": "vie 11",
       "max": 27,
-      "min": 18,
+      "min": 17,
       "prob": 0,
       "mm": 0,
       "mostrar_prob": false,
@@ -164,7 +164,7 @@
       "etiqueta": "dom 13",
       "max": 26,
       "min": 20,
-      "prob": 13,
+      "prob": 23,
       "mm": 0,
       "mostrar_prob": true,
       "destacar": false,
@@ -174,7 +174,7 @@
   "aviso": {
     "activo": true,
     "alcance": "semana",
-    "texto": "Lluvia prevista el mié 9 · 94%"
+    "texto": "Lluvia prevista el mié 9 · 99%"
   },
   "atribucion": "Open-Meteo (CC BY 4.0)"
 }
