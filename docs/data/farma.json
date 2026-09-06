@@ -1,9 +1,27 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "ultimas",
-  "generado": "2026-09-06T23:30:07+02:00",
+  "modo": "portadas",
+  "generado": "2026-09-07T01:03:08+02:00",
   "titulares": [
+    {
+      "titular": "Ley de los Medicamentos: financiación y precios concentraron las alegaciones clave",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-06T23:51:43+02:00",
+      "enlace": "https://diariofarma.com/2026/09/06/ley-de-los-medicamentos-financiacion-y-precios-concentraron-las-alegaciones-clave"
+    },
+    {
+      "titular": "El PRAC investiga el riesgo de hipofosfatemia y problemas óseos relacionados con los medicamentos inyectables de hierro",
+      "medios": [
+        "El Global"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-04T14:47:04+02:00",
+      "enlace": "https://elglobalfarma.com/industria/prac-investiga-riesgo-hipofosfatemia-problemas-oseos-medicamentos-inyectables-hierro/"
+    },
     {
       "titular": "Viaje a la cirugía 3D del Ramón y Cajal: bisturís e ingeniería se fusionan para crear un nuevo idioma quirúrgico",
       "medios": [
@@ -23,6 +41,15 @@
       "enlace": "https://diariofarma.com/2026/09/06/el-coste-farmacologico-de-pompe-frena-la-inclusion-de-su-cribado-en-el-sns"
     },
     {
+      "titular": "Cooke (EMA) reclama “reimaginar” la regulación de medicamentos para hacerla más ágil sin comprometer los estándares",
+      "medios": [
+        "El Global"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-04T14:39:51+02:00",
+      "enlace": "https://elglobalfarma.com/industria/emer-cooke-ema-reimaginar-regulacion-medicamentos-agil/"
+    },
+    {
       "titular": "Interior tantea a los nuevos Gobiernos autonómicos para que asuman la sanidad penitenciaria tras 23 años de bloqueo",
       "medios": [
         "Redacción Médica"
@@ -39,33 +66,6 @@
       "consenso": 1,
       "fecha": "2026-09-06T16:20:02+02:00",
       "enlace": "https://diariofarma.com/2026/09/06/disenan-un-marco-para-medir-el-valor-en-las-compras-publicas-de-innovacion-a-lo-largo-del-ciclo-de-vida-del-contrato"
-    },
-    {
-      "titular": "El PRAC investiga el riesgo de hipofosfatemia y problemas óseos relacionados con los medicamentos inyectables de hierro",
-      "medios": [
-        "El Global"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-04T14:47:04+02:00",
-      "enlace": "https://elglobalfarma.com/industria/prac-investiga-riesgo-hipofosfatemia-problemas-oseos-medicamentos-inyectables-hierro/"
-    },
-    {
-      "titular": "Cooke (EMA) reclama “reimaginar” la regulación de medicamentos para hacerla más ágil sin comprometer los estándares",
-      "medios": [
-        "El Global"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-04T14:39:51+02:00",
-      "enlace": "https://elglobalfarma.com/industria/emer-cooke-ema-reimaginar-regulacion-medicamentos-agil/"
-    },
-    {
-      "titular": "Los pacientes exigen voz \"con carácter decisorio\" en la nueva ley de cribado neonatal: \"Falta definir la arquitectura\"",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-06T15:01:25+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20260906/los-pacientes-exigen-voz-con-caracter-decisorio-en-la-nueva-ley-de-cribado-neonatal-falta-definir-arquitectura/350083_0.html"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 331,
+    "antiguedad_minima_min": 71,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 421,
+        "antiguedad_min": 71,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 9,
         "error": null,
-        "antiguedad_min": 3402,
+        "antiguedad_min": 3496,
         "descartados_por_gancho": 1
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 331,
+        "antiguedad_min": 424,
         "descartados_por_gancho": 0
       },
       {

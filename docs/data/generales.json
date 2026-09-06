@@ -1,26 +1,54 @@
 {
   "pantalla": "generales",
   "titulo": "Titulares",
-  "modo": "ultimas",
-  "generado": "2026-09-06T23:29:54+02:00",
+  "modo": "portadas",
+  "generado": "2026-09-07T01:02:58+02:00",
   "titulares": [
     {
-      "titular": "El Espanyol rescata un punto de infarto ante un Sevilla que resistió con uno menos",
+      "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
       "medios": [
-        "El País"
+        "RTVE"
       ],
       "consenso": 1,
-      "fecha": "2026-09-06T23:23:50+02:00",
-      "enlace": "https://elpais.com/deportes/futbol/2026-09-06/el-espanyol-rescata-un-punto-de-infarto-ante-un-sevilla-que-resistio-con-uno-menos.html"
+      "fecha": "2022-06-10T01:05:00+02:00",
+      "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
     },
     {
-      "titular": "Alcaraz se desmelena, atrás quedó el rodaje: diversión y rumbo a cuartos del US Open",
+      "titular": "Al menos cinco muertos tras salirse de pista un avión de carga en el aeropuerto de Miami",
+      "medios": [
+        "El País",
+        "ABC"
+      ],
+      "consenso": 2,
+      "fecha": "2026-09-07T00:50:53+02:00",
+      "enlace": "https://www.abc.es/internacional/avion-carga-incendia-tras-salirse-pista-aterrizaje-20260906215206-nt.html"
+    },
+    {
+      "titular": "La extrema derecha arrasa en Sajonia-Anhalt y opta a gobernar por primera vez en un Estado alemán",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-06T23:11:59+02:00",
-      "enlace": "https://elpais.com/deportes/tenis/2026-09-06/alcaraz-se-desmelena-atras-quedo-el-rodaje-diversion-y-rumbo-a-cuartos-del-us-open.html"
+      "fecha": "2026-09-06T23:33:42+02:00",
+      "enlace": "https://elpais.com/internacional/2026-09-06/la-participacion-se-dispara-en-las-elecciones-regionales-alemanas-donde-la-extrema-derecha-aspira-a-gobernar.html"
+    },
+    {
+      "titular": "La ultraderecha alemana arrasa en Sajonia-Anhalt y podría llegar a gobernar por primera vez",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-06T18:20:09+02:00",
+      "enlace": "https://www.lavanguardia.com/internacional/20260906/11628575/ultraderechista-afd-arrasa-sajonia-anhalt-logra-mayoria-absoluta-sondeos.html"
+    },
+    {
+      "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
+      "medios": [
+        "RTVE"
+      ],
+      "consenso": 1,
+      "fecha": "2022-06-10T00:03:00+02:00",
+      "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
     },
     {
       "titular": "La primera visita de los enviados de Trump a Kiev no logra acercar la paz",
@@ -32,40 +60,13 @@
       "enlace": "https://www.abc.es/internacional/primera-visita-enviados-trump-kiev-logra-acercar-20260906194232-nt.html"
     },
     {
-      "titular": "Alcaraz acaba con Paul y con las dudas: se planta en cuartos como favorito",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-06T22:53:59+02:00",
-      "enlace": "https://www.abc.es/deportes/tenis/cronica-paulalcaraz-20260906153939-nt.html"
-    },
-    {
-      "titular": "Alcaraz ya no es un adolescente, pero 'farmea aura'",
+      "titular": "“¿Lealtad del gobierno de Ceuta? Hay cuestiones que, cuando esto acabe, diremos”",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-06T22:45:34+02:00",
-      "enlace": "https://www.lavanguardia.com/deportes/tenis/20260906/11628633/alcaraz-adolescente-farmea-aura.html"
-    },
-    {
-      "titular": "El Europa denuncia una “actuación policial desproporcionada” con un hincha por una estelada",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-06T21:49:53+02:00",
-      "enlace": "https://www.lavanguardia.com/deportes/20260906/11628625/europa-denuncia-actuacion-policial-desproporcionada-hincha-estelada.html"
-    },
-    {
-      "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
-      "medios": [
-        "RTVE"
-      ],
-      "consenso": 1,
-      "fecha": "2022-06-10T01:05:00+02:00",
-      "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
+      "fecha": "2026-09-06T06:00:00+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20260906/11628029/angel-victor-torres-lealtad-gobierno-ceuta-hay-cuestiones-esto-acabe-diremos.html"
     }
   ],
   "salud": {
@@ -74,7 +75,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 6,
+    "antiguedad_minima_min": 12,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +83,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2231904,
+        "antiguedad_min": 2231997,
         "descartados_por_gancho": 0
       },
       {
@@ -97,19 +98,19 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 131,
+        "items": 132,
         "error": null,
-        "antiguedad_min": 6,
+        "antiguedad_min": 89,
         "descartados_por_gancho": 3
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 130,
+        "items": 126,
         "error": null,
-        "antiguedad_min": 44,
-        "descartados_por_gancho": 27
+        "antiguedad_min": 91,
+        "descartados_por_gancho": 24
       },
       {
         "medio": "ABC",
@@ -117,7 +118,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 30,
+        "antiguedad_min": 12,
         "descartados_por_gancho": 0
       }
     ]

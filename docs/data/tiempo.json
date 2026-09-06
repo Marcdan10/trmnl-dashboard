@@ -1,23 +1,7 @@
 {
   "ciudad": "Barcelona",
-  "generado": "2026-09-06T21:30:08",
+  "generado": "2026-09-06T23:03:08",
   "horas": [
-    {
-      "hora": "22",
-      "temp": 27,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "nube"
-    },
-    {
-      "hora": "23",
-      "temp": 26,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "nube"
-    },
     {
       "hora": "00",
       "temp": 26,
@@ -36,11 +20,11 @@
     },
     {
       "hora": "02",
-      "temp": 26,
+      "temp": 25,
       "prob": 0,
       "mm": 0,
       "mostrar_prob": false,
-      "icono": "nube"
+      "icono": "luna"
     },
     {
       "hora": "03",
@@ -56,7 +40,7 @@
       "prob": 0,
       "mm": 0,
       "mostrar_prob": false,
-      "icono": "nube"
+      "icono": "luna"
     },
     {
       "hora": "05",
@@ -80,7 +64,7 @@
       "prob": 0,
       "mm": 0,
       "mostrar_prob": false,
-      "icono": "luna"
+      "icono": "nube"
     },
     {
       "hora": "08",
@@ -97,12 +81,28 @@
       "mm": 0,
       "mostrar_prob": false,
       "icono": "sol"
+    },
+    {
+      "hora": "10",
+      "temp": 27,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "sol"
+    },
+    {
+      "hora": "11",
+      "temp": 28,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "sol"
     }
   ],
   "dias": [
     {
       "etiqueta": "lun 7",
-      "max": 30,
+      "max": 29,
       "min": 24,
       "prob": 0,
       "mm": 0,
@@ -113,7 +113,7 @@
     {
       "etiqueta": "mar 8",
       "max": 31,
-      "min": 23,
+      "min": 24,
       "prob": 3,
       "mm": 0,
       "mostrar_prob": false,
@@ -123,9 +123,9 @@
     {
       "etiqueta": "mié 9",
       "max": 26,
-      "min": 20,
+      "min": 19,
       "prob": 93,
-      "mm": 29.6,
+      "mm": 22.9,
       "mostrar_prob": true,
       "destacar": true,
       "icono": "lluvia"
@@ -133,7 +133,7 @@
     {
       "etiqueta": "jue 10",
       "max": 26,
-      "min": 19,
+      "min": 18,
       "prob": 58,
       "mm": 0,
       "mostrar_prob": true,
@@ -142,7 +142,7 @@
     },
     {
       "etiqueta": "vie 11",
-      "max": 28,
+      "max": 27,
       "min": 19,
       "prob": 3,
       "mm": 0,

@@ -1,26 +1,26 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "ultimas",
-  "generado": "2026-09-06T23:30:00+02:00",
+  "modo": "portadas",
+  "generado": "2026-09-07T01:03:03+02:00",
   "titulares": [
     {
-      "titular": "1-1: La Juventus salva un punto in extremis en el clásico contra el Milan",
+      "titular": "El Espanyol rasca un agónico punto sobre la campana",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-06T22:53:57+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/serie-a/20260906/1004224104/juventus-milan.html"
+      "fecha": "2026-09-06T23:15:49+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/laliga/20260906/1004224119/espanyol-sevilla.html"
     },
     {
-      "titular": "Gol y asistencia de Salah, papá esta semana en Liverpool",
+      "titular": "La portada SPORT de este lunes, 07 de septiembre de 2026",
       "medios": [
-        "Mundo Deportivo"
+        "Sport"
       ],
       "consenso": 1,
-      "fecha": "2026-09-06T22:53:28+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/internacional/20260906/1004224122/gol-asistencia-salah-papa-semana-liverpool.html"
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/la-portada-de-sport/portada-sport-lunes-07-septiembre-134016753"
     },
     {
       "titular": "Bombazo: Messi se retira de la selección argentina",
@@ -32,6 +32,24 @@
       "enlace": "https://www.marca.com/futbol/2026/08/31/bombazo-messi-retira-seleccion-argentina.html"
     },
     {
+      "titular": "El 1x1 del Espanyol ante el Sevilla",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-06T23:06:13+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/rcd-espanyol/20260906/1004224123/1x1-espanyol-sevilla.html"
+    },
+    {
+      "titular": "Manolo González, sobre el gol anulado a El Hilali: \"Nadie lo entiende muy bien\"",
+      "medios": [
+        "Sport"
+      ],
+      "consenso": 1,
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/espanyol/manolo-gonzalez-gol-anulado-hilali-134016482"
+    },
+    {
       "titular": "Lando Norris y por qué cree que debería ganar lo que Verstappen y Hamilton",
       "medios": [
         "Marca"
@@ -41,31 +59,13 @@
       "enlace": "https://www.marca.com/motor/formula1/gp-italia/2026/08/31/lando-norris-cree-deberia-ganar-verstappen-hamilton.html"
     },
     {
-      "titular": "Gatti frustra al Milan de Modric",
-      "medios": [
-        "Sport"
-      ],
-      "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/futbol-internacional/gatti-frustra-milan-modric-134015662"
-    },
-    {
-      "titular": "Alcaraz - Tommy Paul: Resumen y resultado de los octavos de final del US Open 2026",
-      "medios": [
-        "Sport"
-      ],
-      "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/tenis/alcaraz-paul-hoy-directo-octavos-134010143"
-    },
-    {
-      "titular": "52-55: Italia pone contra las cuerdas a Estados Unidos",
+      "titular": "\"Nos vamos insatisfechos con el empate\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-06T22:46:38+02:00",
-      "enlace": "https://www.mundodeportivo.com/baloncesto/20260906/1004224120/52-55-italia-pone-cuerdas-estados-unidos.html"
+      "fecha": "2026-09-06T23:47:09+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/rcd-espanyol/20260906/1004224129/marcos-insatisfechos-empate.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 36,
+    "antiguedad_minima_min": 24,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 61,
         "error": null,
-        "antiguedad_min": 9017,
+        "antiguedad_min": 9110,
         "descartados_por_gancho": 10
       },
       {
@@ -98,9 +98,9 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 140,
+        "items": 143,
         "error": null,
-        "antiguedad_min": 36,
+        "antiguedad_min": 24,
         "descartados_por_gancho": 4
       },
       {

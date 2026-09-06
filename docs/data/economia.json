@@ -1,71 +1,71 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "ultimas",
-  "generado": "2026-09-06T23:29:57+02:00",
+  "modo": "portadas",
+  "generado": "2026-09-07T01:03:01+02:00",
   "titulares": [
     {
-      "titular": "Pérez-Mas reta a Inveready y rechaza la vicepresidencia de Parlem",
+      "titular": "Telefónica, Santander y Repsol disparan su actividad de lobby en la UE",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-06T21:30:13+02:00",
-      "enlace": "https://www.expansion.com/catalunya/2026/09/06/6a9dbef7e5fdea52058b457e.html"
+      "fecha": "2026-09-07T00:00:14+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/09/07/6a9d9532e5fdea52058b4575.html"
     },
     {
-      "titular": "La ultraderecha alemana logra su primera victoria electoral",
+      "titular": "Santander llega con Webster a las fortunas de EEUU",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-06T19:31:14+02:00",
-      "enlace": "https://www.expansion.com/economia/politica/2026/09/06/6a9da207468aeb8f278b457a.html"
+      "fecha": "2026-09-07T00:00:15+02:00",
+      "enlace": "https://www.expansion.com/empresas/banca/2026/09/07/6a9da73ce5fdeacd028b4570.html"
     },
     {
-      "titular": "Cuando la empresa tiene que fichar también a la familia",
+      "titular": "Huertas prepara el nuevo plan estratégico de Mapfre, con el foco en Safety",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-06T18:24:13+02:00",
-      "enlace": "https://www.expansion.com/expansion-empleo/desarrollo-de-carrera/2026/09/04/6a9acb84468aeb89308b45c9.html"
+      "fecha": "2026-09-07T00:00:16+02:00",
+      "enlace": "https://www.expansion.com/empresas/seguros/2026/09/07/6a9daa41468aeb4e128b45c0.html"
     },
     {
-      "titular": "El repunte de la inflación tensa la negociación para la subida del salario mínimo en 2027",
+      "titular": "El gasto en parados se dispara un 22% en cuatro años: más de 2.000 millones al mes",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-06T16:08:10+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/09/06/6a9d729f468aeb4f028b4588.html"
+      "fecha": "2026-09-07T00:00:21+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/09/07/6a9b061c468aeb126a8b457a.html"
     },
     {
-      "titular": "La negociación del Gobierno luso con Lufthansa y Air France-KLM por TAP durará tres semanas",
+      "titular": "Rodney Comegys (Vanguard): \"La principal forma de ahorrar para la jubilación son los fondos indexados\"",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-06T15:17:43+02:00",
-      "enlace": "https://www.expansion.com/empresas/transporte/2026/09/06/6a9d6446468aeb932d8b458d.html"
+      "fecha": "2026-09-07T00:00:22+02:00",
+      "enlace": "https://www.expansion.com/ahorro/2026/09/07/6a9da9ef468aeb3e018b4584.html"
     },
     {
-      "titular": "El PP exige al Gobierno un \"giro profundo\" en automoción ante la pérdida de competitividad por el caso Seat",
+      "titular": "UBS exige que los nuevos banqueros junior dominen la IA",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-06T14:57:01+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/09/06/6a9d4892e5fdea742e8b456e.html"
+      "fecha": "2026-09-07T00:00:23+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/09/07/6a9db260e5fdea784a8b457d.html"
     },
     {
-      "titular": "La OPEP+ no cambia su producción tras meses de subidas y con problemas de exportación",
+      "titular": "El oro ruso inunda Hong Kong tras las sanciones de Occidente",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-06T13:57:26+02:00",
-      "enlace": "https://www.expansion.com/empresas/energia/2026/09/06/6a9d5485e5fdea58678b456e.html"
+      "fecha": "2026-09-07T00:00:32+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/09/07/6a9daf4e468aebf80f8b4571.html"
     }
   ],
   "salud": {
@@ -78,16 +78,16 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 119,
+    "antiguedad_minima_min": 60,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 70,
+        "items": 60,
         "error": null,
-        "antiguedad_min": 119,
-        "descartados_por_gancho": 0
+        "antiguedad_min": 60,
+        "descartados_por_gancho": 1
       },
       {
         "medio": "Cinco Días",
