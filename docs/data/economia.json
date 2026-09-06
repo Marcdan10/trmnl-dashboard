@@ -2,8 +2,53 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-09-06T13:10:27+02:00",
+  "generado": "2026-09-06T16:17:11+02:00",
   "titulares": [
+    {
+      "titular": "El repunte de la inflación tensa la negociación para la subida del salario mínimo en 2027",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-06T16:08:10+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/09/06/6a9d729f468aeb4f028b4588.html"
+    },
+    {
+      "titular": "La negociación del Gobierno luso con Lufthansa y Air France-KLM por TAP durará tres semanas",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-06T15:17:43+02:00",
+      "enlace": "https://www.expansion.com/empresas/transporte/2026/09/06/6a9d6446468aeb932d8b458d.html"
+    },
+    {
+      "titular": "El PP exige al Gobierno un \"giro profundo\" en automoción ante la pérdida de competitividad por el caso Seat",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-06T14:57:01+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/09/06/6a9d4892e5fdea742e8b456e.html"
+    },
+    {
+      "titular": "La OPEP+ no cambia su producción tras meses de subidas y con problemas de exportación",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-06T13:57:26+02:00",
+      "enlace": "https://www.expansion.com/empresas/energia/2026/09/06/6a9d5485e5fdea58678b456e.html"
+    },
+    {
+      "titular": "Las exportaciones agroalimentarias españolas a EEUU cayeron un 10% en 2025 por los aranceles",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-06T13:44:13+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/09/06/6a9d46b0468aeb3e018b457a.html"
+    },
     {
       "titular": "Las reservas de petróleo amortiguan la subida del crudo tras seis meses de crisis en Ormuz",
       "medios": [
@@ -21,51 +66,6 @@
       "consenso": 1,
       "fecha": "2026-09-06T12:19:58+02:00",
       "enlace": "https://www.expansion.com/economia/2026/09/06/6a9d3bc1e5fdea025b8b45a5.html"
-    },
-    {
-      "titular": "El Tesoro celebra esta semana una subasta de Letras con el rendimiento de la deuda en máximos",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-06T11:58:14+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/09/06/6a9d2ce7e5fdea40178b456e.html"
-    },
-    {
-      "titular": "Inditex vuelve a máximos en su primer semestre fiscal, según los analistas",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-06T11:42:28+02:00",
-      "enlace": "https://www.expansion.com/empresas/distribucion/2026/09/06/6a9d2bd7e5fdeaf70f8b4576.html"
-    },
-    {
-      "titular": "Los bonos españoles aguantan las turbulencias en el mercado internacional de deuda",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-06T11:34:32+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/09/06/6a9d2f7e468aeb273f8b4597.html"
-    },
-    {
-      "titular": "Las profesiones que ganan cuando las habilidades ya no trabajan solas",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-06T10:22:15+02:00",
-      "enlace": "https://www.expansion.com/expansion-empleo/profesiones/2026/09/04/6a99b0a0e5fdea0b6d8b4596.html"
-    },
-    {
-      "titular": "El balancín de los mercados de valores",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-05T20:36:15+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/09/05/6a9c1b4e468aebb5348b4579.html"
     }
   ],
   "salud": {
@@ -78,7 +78,7 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 15,
+    "antiguedad_minima_min": 8,
     "detalle": [
       {
         "medio": "Expansión",
@@ -86,7 +86,7 @@
         "ok": true,
         "items": 70,
         "error": null,
-        "antiguedad_min": 15,
+        "antiguedad_min": 8,
         "descartados_por_gancho": 0
       },
       {

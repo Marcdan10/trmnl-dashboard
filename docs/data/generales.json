@@ -2,62 +2,61 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-09-06T13:10:22+02:00",
+  "generado": "2026-09-06T16:17:08+02:00",
   "titulares": [
     {
-      "titular": "Al menos cuatro muertos en bombardeos israelíes en el sur del Líbano",
+      "titular": "La FIFA confirma que Infantino se presentará a la reelección como presidente",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-06T16:09:55+02:00",
+      "enlace": "https://www.abc.es/deportes/futbol/fifa-confirma-infantino-presentara-reeleccion-presidente-20260906155019-nt.html"
+    },
+    {
+      "titular": "Luis Fermoso, el periodista detrás de todo",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-06T12:53:33+02:00",
-      "enlace": "https://elpais.com/internacional/2026-09-06/israel-ataca-de-nuevo-el-sur-del-libano-y-acusa-a-hezbola-de-lanzar-drones-contra-sus-soldados.html"
+      "fecha": "2026-09-06T16:07:10+02:00",
+      "enlace": "https://elpais.com/deportes/2026-09-06/luis-fermoso-el-periodista-detras-de-todo.html"
     },
     {
-      "titular": "De un chalé de Arturo Soria a un polígono de Villaverde: viaje a las religiones que menos fieles profesan en Madrid",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-06T12:47:46+02:00",
-      "enlace": "https://www.abc.es/espana/madrid/religiones-minoritarias-madrid-encuentro-encuentro-20260414013608-nt.html"
-    },
-    {
-      "titular": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Trump ve “triste” lo que pasa en Ceuta y dice que España no controla su frontera",
+      "titular": "Valencia - Barcelona en directo | Rodri se estrena en el equipo titular",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-06T12:44:27+02:00",
-      "enlace": "https://elpais.com/espana/2026-09-06/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html"
+      "fecha": "2026-09-06T16:06:03+02:00",
+      "enlace": "https://elpais.com/deportes/futbol/2026-09-06/valencia-barcelona-en-directo-el-partido-de-la-liga-en-vivo.html"
     },
     {
-      "titular": "La Iglesia alemana pide el voto contra la extrema derecha en Sajonia-Anhalt",
+      "titular": "Los enviados especiales de Trump visitan por primera vez Kiev para reactivar las conversaciones de paz",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-06T12:39:42+02:00",
-      "enlace": "https://www.abc.es/internacional/iglesia-alemana-pide-voto-extrema-derecha-sajoniaanhalt-20260906123942-nt.html"
+      "fecha": "2026-09-06T16:03:40+02:00",
+      "enlace": "https://www.abc.es/internacional/enviados-especiales-trump-visitan-primera-vez-kiev-20260906160339-nt.html"
     },
     {
-      "titular": "Al menos 25 muertos, la mayoría estudiantes de secundaria, tras precipitarse un autobús por un barranco en Cabo Verde",
-      "medios": [
-        "La Vanguardia",
-        "ABC"
-      ],
-      "consenso": 2,
-      "fecha": "2026-09-06T12:33:47+02:00",
-      "enlace": "https://www.abc.es/internacional/muertos-mayoria-estudiantes-secundaria-tras-precipitarse-autobus-20260906123347-nt.html"
-    },
-    {
-      "titular": "Muere Luis Fermoso a los 53 años, el periodista que puso nombre a la ‘Gravesinha’: Paco González y Dani Garrido se despiden de él",
+      "titular": "1,2 millones de escolares no reciben beca de comedor, la mitad del alumnado vulnerable",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-06T12:22:52+02:00",
-      "enlace": "https://www.lavanguardia.com/clic/20260906/11628487/muere-luis-fermoso-53-anos-periodista-puso-nombre-gravesinha-paco-gonzalez-dani-garrido-despiden-lol.html"
+      "fecha": "2026-09-06T15:56:45+02:00",
+      "enlace": "https://www.lavanguardia.com/vida/20260906/11628542/1-2-millones-escolares-reciben-beca-comedor-mitad-alumnado-vulnerable.html"
+    },
+    {
+      "titular": "Lamine Yamal se recupera a tiempo en el debut de Rodri como titular con el Barça en Valencia",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-06T15:33:13+02:00",
+      "enlace": "https://www.lavanguardia.com/deportes/fc-barcelona/20260906/11628538/lamine-yamal-recupera-debut-rodri-titular-barca-valencia.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -75,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 16,
+    "antiguedad_minima_min": 7,
     "detalle": [
       {
         "medio": "RTVE",
@@ -83,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2231285,
+        "antiguedad_min": 2231472,
         "descartados_por_gancho": 0
       },
       {
@@ -98,28 +97,28 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 134,
+        "items": 135,
         "error": null,
-        "antiguedad_min": 16,
+        "antiguedad_min": 9,
         "descartados_por_gancho": 7
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 124,
+        "items": 126,
         "error": null,
-        "antiguedad_min": 47,
-        "descartados_por_gancho": 28
+        "antiguedad_min": 20,
+        "descartados_por_gancho": 27
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 25,
+        "items": 24,
         "error": null,
-        "antiguedad_min": 22,
-        "descartados_por_gancho": 0
+        "antiguedad_min": 7,
+        "descartados_por_gancho": 1
       }
     ]
   }
