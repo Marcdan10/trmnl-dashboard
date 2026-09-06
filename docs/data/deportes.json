@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-09-06T16:17:13+02:00",
+  "generado": "2026-09-06T19:12:20+02:00",
   "titulares": [
     {
-      "titular": "Nuevo equipo para Jamie Vardy a sus 39 años",
+      "titular": "Barça - ElPozo Murcia, en directo | Final Supercopa de España",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-06T15:50:33+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/premier-league/20260906/1004223957/nuevo-equipo-jamie-vardy-39-anos.html"
+      "fecha": "2026-09-06T18:53:45+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/sala/20260906/1004224032/barca-elpozo-murcia-directo-supercopa-espana-futbol-sala.html"
     },
     {
-      "titular": "Anuncio crucial de la FIFA sobre Infantino",
+      "titular": "Carlos Sainz: \"Habrá que ver si es Madring es un 'destroza-coches' de F1 o no. Es muy difícil\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-06T15:46:35+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/internacional/20260906/1004223963/anuncio-crucial-fifa-sobre-infantino.html"
+      "fecha": "2026-09-06T18:51:12+02:00",
+      "enlace": "https://www.mundodeportivo.com/motor/f1/20260906/1004224027/carlos-sainz-habra-ver-madring-destroza-coches-f1-no-dificil.html"
     },
     {
       "titular": "Bombazo: Messi se retira de la selección argentina",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/motor/formula1/gp-italia/2026/08/31/lando-norris-cree-deberia-ganar-verstappen-hamilton.html"
     },
     {
-      "titular": "Reacciones y polémica del Valencia - Barça de La Liga",
+      "titular": "Van Aert, califa de la Vuelta, entre un calor inhumano",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/barca/reacciones-polemica-valencia-barca-liga-134005266"
+      "enlace": "https://www.sport.es/es/noticias/ciclismo/la-vuelta/aert-proclama-califa-cordoba-calor-134008279"
     },
     {
-      "titular": "En directo: Málaga CF - Levante UD",
+      "titular": "Pedri: \"Siempre se dice que no hemos funcionado juntos con Rodri\"",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/futbol/directo-malaga-cf-levante-ud-134005281"
+      "enlace": "https://www.sport.es/es/noticias/barca/pedri-dice-hemos-funcionado-rodri-134010078"
     },
     {
-      "titular": "Flick: \"Es increíble jugar con este calor\"",
+      "titular": "Jordi Cruz: \"Un truco para que no se pegue la pasta es usar mucha agua en una olla grande\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-06T15:40:20+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260906/1004223960/flick-increible-jugar-calor.html"
+      "fecha": "2026-09-06T18:49:56+02:00",
+      "enlace": "https://www.mundodeportivo.com/foodie/20260906/1004224028/jordi-cruz-cocinero-catalan-truco-no-pegue-pasta-agua-olla-grande-pueda-mover-echar-aceite-agua-coccion-no-sirve-xef-dct.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 26,
+    "antiguedad_minima_min": 18,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 61,
         "error": null,
-        "antiguedad_min": 8584,
+        "antiguedad_min": 8759,
         "descartados_por_gancho": 10
       },
       {
@@ -98,19 +98,19 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 141,
+        "items": 138,
         "error": null,
-        "antiguedad_min": 26,
-        "descartados_por_gancho": 5
+        "antiguedad_min": 18,
+        "descartados_por_gancho": 6
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 46,
+        "items": 45,
         "error": null,
         "antiguedad_min": null,
-        "descartados_por_gancho": 1
+        "descartados_por_gancho": 2
       },
       {
         "medio": "NBA",

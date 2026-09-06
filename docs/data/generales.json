@@ -2,61 +2,62 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-09-06T16:17:08+02:00",
+  "generado": "2026-09-06T19:12:15+02:00",
   "titulares": [
     {
-      "titular": "La FIFA confirma que Infantino se presentará a la reelección como presidente",
+      "titular": "Devueltos a Marruecos 21 inmigrantes por lanzar piedras a militares y guardias civiles en Ceuta",
       "medios": [
+        "La Vanguardia",
         "ABC"
       ],
-      "consenso": 1,
-      "fecha": "2026-09-06T16:09:55+02:00",
-      "enlace": "https://www.abc.es/deportes/futbol/fifa-confirma-infantino-presentara-reeleccion-presidente-20260906155019-nt.html"
+      "consenso": 2,
+      "fecha": "2026-09-06T18:58:22+02:00",
+      "enlace": "https://www.abc.es/espana/veintena-inmigrantes-detenidos-ceuta-lanzar-piedras-militares-20260906135011-nt.html"
     },
     {
-      "titular": "Luis Fermoso, el periodista detrás de todo",
+      "titular": "La extrema derecha roza la mayoría absoluta en Sajonia-Anhalt, según los sondeos",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-06T16:07:10+02:00",
-      "enlace": "https://elpais.com/deportes/2026-09-06/luis-fermoso-el-periodista-detras-de-todo.html"
+      "fecha": "2026-09-06T18:56:09+02:00",
+      "enlace": "https://elpais.com/internacional/2026-09-06/la-participacion-se-dispara-en-las-elecciones-regionales-alemanas-donde-la-extrema-derecha-aspira-a-gobernar.html"
     },
     {
-      "titular": "Valencia - Barcelona en directo | Rodri se estrena en el equipo titular",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-06T16:06:03+02:00",
-      "enlace": "https://elpais.com/deportes/futbol/2026-09-06/valencia-barcelona-en-directo-el-partido-de-la-liga-en-vivo.html"
-    },
-    {
-      "titular": "Los enviados especiales de Trump visitan por primera vez Kiev para reactivar las conversaciones de paz",
+      "titular": "La gran mayoría piensa que Marruecos está detrás de la invasión y que Sánchez debería haber vuelto de las vacaciones",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-06T16:03:40+02:00",
-      "enlace": "https://www.abc.es/internacional/enviados-especiales-trump-visitan-primera-vez-kiev-20260906160339-nt.html"
+      "fecha": "2026-09-06T18:54:15+02:00",
+      "enlace": "https://www.abc.es/espana/gran-mayoria-piensa-marruecos-detras-invasion-sanchez-20260906014650-nt.html"
     },
     {
-      "titular": "1,2 millones de escolares no reciben beca de comedor, la mitad del alumnado vulnerable",
+      "titular": "Van Aert prolonga la sequía del ciclismo español",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-06T18:53:45+02:00",
+      "enlace": "https://www.abc.es/deportes/ciclismo/van-aert-prolonga-sequia-ciclismo-espanol-20260906175020-nt.html"
+    },
+    {
+      "titular": "El Barça disfruta en Mestalla a costa de un pobre Valencia",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-06T18:46:09+02:00",
+      "enlace": "https://elpais.com/deportes/futbol/2026-09-06/el-barca-disfruta-en-mestalla-a-costa-de-un-pobre-valencia.html"
+    },
+    {
+      "titular": "Van Aert repite triunfo en una etapa recortada por el calor extremo",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-06T15:56:45+02:00",
-      "enlace": "https://www.lavanguardia.com/vida/20260906/11628542/1-2-millones-escolares-reciben-beca-comedor-mitad-alumnado-vulnerable.html"
-    },
-    {
-      "titular": "Lamine Yamal se recupera a tiempo en el debut de Rodri como titular con el Barça en Valencia",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-06T15:33:13+02:00",
-      "enlace": "https://www.lavanguardia.com/deportes/fc-barcelona/20260906/11628538/lamine-yamal-recupera-debut-rodri-titular-barca-valencia.html"
+      "fecha": "2026-09-06T18:29:35+02:00",
+      "enlace": "https://www.lavanguardia.com/deportes/ciclismo/20260906/11628583/aert-repite-triunfo-etapa-recortada-calor-extremo.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -74,7 +75,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 7,
+    "antiguedad_minima_min": 13,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +83,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2231472,
+        "antiguedad_min": 2231647,
         "descartados_por_gancho": 0
       },
       {
@@ -97,19 +98,19 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 135,
+        "items": 129,
         "error": null,
-        "antiguedad_min": 9,
-        "descartados_por_gancho": 7
+        "antiguedad_min": 16,
+        "descartados_por_gancho": 3
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 126,
+        "items": 127,
         "error": null,
-        "antiguedad_min": 20,
-        "descartados_por_gancho": 27
+        "antiguedad_min": 42,
+        "descartados_por_gancho": 28
       },
       {
         "medio": "ABC",
@@ -117,7 +118,7 @@
         "ok": true,
         "items": 24,
         "error": null,
-        "antiguedad_min": 7,
+        "antiguedad_min": 13,
         "descartados_por_gancho": 1
       }
     ]
