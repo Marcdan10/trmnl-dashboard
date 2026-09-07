@@ -2,62 +2,61 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-09-07T14:51:31+02:00",
+  "generado": "2026-09-07T20:02:00+02:00",
   "titulares": [
     {
-      "titular": "Última hora de la entrada de inmigrantes a Ceuta, en directo | La Audiencia Nacional acuerda investigar la entrada masiva irregular en Ceuta",
+      "titular": "La histórica victoria de la extrema derecha abre una crisis en el Gobierno alemán",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-07T14:49:48+02:00",
-      "enlace": "https://elpais.com/espana/2026-09-07/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html"
+      "fecha": "2026-09-07T19:56:53+02:00",
+      "enlace": "https://elpais.com/internacional/2026-09-07/la-victoria-de-la-extrema-derecha-en-sajonia-anhalt-sacude-a-la-coalicion-de-gobierno-en-alemania.html"
     },
     {
-      "titular": "El juez Peinado cita a Begoña Gómez este martes a una audiencia preliminar antes de abrir juicio oral",
-      "medios": [
-        "El País",
-        "ABC"
-      ],
-      "consenso": 2,
-      "fecha": "2026-09-07T14:47:43+02:00",
-      "enlace": "https://elpais.com/espana/2026-09-07/el-juez-cita-a-begona-gomez-este-martes-a-una-audiencia-preliminar-antes-de-abrir-juicio-oral.html"
-    },
-    {
-      "titular": "Europa ensaya una inmunoterapia pionera contra el peor tumor cerebral infantil: «Es una sentencia de muerte para 25 niños cada año en España»",
+      "titular": "Merz se atrinchera en la Constitución e insiste en el «cortafuegos» contra la extrema derecha",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-07T14:30:39+02:00",
-      "enlace": "https://www.abc.es/sociedad/europa-ensaya-inmunoterapia-pionera-atacar-tumor-cerebral-20260906110251-nt.html"
+      "fecha": "2026-09-07T19:46:33+02:00",
+      "enlace": "https://www.abc.es/internacional/merz-atrinchera-constitucion-insiste-cortafuegos-extrema-derecha-20260907172936-nt.html"
     },
     {
-      "titular": "Los vecinos del Bernabéu abren un nuevo frente judicial por el ruido que amenaza a la NFL y la F1",
+      "titular": "Óscar Puente, el sucesor imposible",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-07T14:30:10+02:00",
-      "enlace": "https://www.abc.es/espana/madrid/vecinos-bernabeu-abren-nuevo-frente-judicial-ruido-20260907141150-nt.html"
+      "fecha": "2026-09-07T19:44:10+02:00",
+      "enlace": "https://www.abc.es/opinion/julian-quiros-oscar-puente-sucesor-imposible-20260907191921-nt.html"
     },
     {
-      "titular": "Pradales advierte de que la crisis de Ceuta puede “precipitar” la legislatura",
+      "titular": "España resurge ante Japón (59-79) y se clasifica directamente para cuartos del Mundial",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-07T19:41:27+02:00",
+      "enlace": "https://elpais.com/deportes/baloncesto/2026-09-07/espana-resurge-ante-japon-59-79-y-se-clasifica-directamente-para-cuartos-del-mundial.html"
+    },
+    {
+      "titular": "Los Mossos investigan el hallazgo de un cadáver en una acequia del canal de Amposta",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-07T14:07:14+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20260907/11629131/pradales-advierte-ceuta-precipitar-legislatura.html"
+      "fecha": "2026-09-07T19:11:10+02:00",
+      "enlace": "https://www.lavanguardia.com/local/tarragona/20260907/11629454/mossos-investigan-hallazgo-cadaver-acequia-canal-amposta.html"
     },
     {
-      "titular": "Santander comienza a brillar como el nuevo faro cultural del norte",
+      "titular": "Comparativa de motoazadas 2026: cuáles son las mejores",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-07T14:05:01+02:00",
-      "enlace": "https://www.lavanguardia.com/cultura/20260907/11629008/santander-comienza-brillar-nuevo-faro-cultural-norte.html"
+      "fecha": "2026-09-07T19:00:00+02:00",
+      "enlace": "https://www.lavanguardia.com/comprar/mas-valorados/20260907/11629283/mejores-motoazadas-comparativa-mkt-eo.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -75,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 1,
+    "antiguedad_minima_min": 5,
     "detalle": [
       {
         "medio": "RTVE",
@@ -83,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2232826,
+        "antiguedad_min": 2233136,
         "descartados_por_gancho": 0
       },
       {
@@ -98,9 +97,9 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 140,
+        "items": 145,
         "error": null,
-        "antiguedad_min": 1,
+        "antiguedad_min": 5,
         "descartados_por_gancho": 4
       },
       {
@@ -109,17 +108,17 @@
         "ok": true,
         "items": 129,
         "error": null,
-        "antiguedad_min": 44,
-        "descartados_por_gancho": 14
+        "antiguedad_min": 50,
+        "descartados_por_gancho": 12
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 25,
+        "items": 24,
         "error": null,
-        "antiguedad_min": 20,
-        "descartados_por_gancho": 0
+        "antiguedad_min": 15,
+        "descartados_por_gancho": 1
       }
     ]
   }
