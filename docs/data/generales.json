@@ -1,9 +1,64 @@
 {
   "pantalla": "generales",
   "titulo": "Titulares",
-  "modo": "portadas",
-  "generado": "2026-09-07T08:20:34+02:00",
+  "modo": "ultimas",
+  "generado": "2026-09-07T14:51:31+02:00",
   "titulares": [
+    {
+      "titular": "Última hora de la entrada de inmigrantes a Ceuta, en directo | La Audiencia Nacional acuerda investigar la entrada masiva irregular en Ceuta",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-07T14:49:48+02:00",
+      "enlace": "https://elpais.com/espana/2026-09-07/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html"
+    },
+    {
+      "titular": "El juez Peinado cita a Begoña Gómez este martes a una audiencia preliminar antes de abrir juicio oral",
+      "medios": [
+        "El País",
+        "ABC"
+      ],
+      "consenso": 2,
+      "fecha": "2026-09-07T14:47:43+02:00",
+      "enlace": "https://elpais.com/espana/2026-09-07/el-juez-cita-a-begona-gomez-este-martes-a-una-audiencia-preliminar-antes-de-abrir-juicio-oral.html"
+    },
+    {
+      "titular": "Europa ensaya una inmunoterapia pionera contra el peor tumor cerebral infantil: «Es una sentencia de muerte para 25 niños cada año en España»",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-07T14:30:39+02:00",
+      "enlace": "https://www.abc.es/sociedad/europa-ensaya-inmunoterapia-pionera-atacar-tumor-cerebral-20260906110251-nt.html"
+    },
+    {
+      "titular": "Los vecinos del Bernabéu abren un nuevo frente judicial por el ruido que amenaza a la NFL y la F1",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-07T14:30:10+02:00",
+      "enlace": "https://www.abc.es/espana/madrid/vecinos-bernabeu-abren-nuevo-frente-judicial-ruido-20260907141150-nt.html"
+    },
+    {
+      "titular": "Pradales advierte de que la crisis de Ceuta puede “precipitar” la legislatura",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-07T14:07:14+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20260907/11629131/pradales-advierte-ceuta-precipitar-legislatura.html"
+    },
+    {
+      "titular": "Santander comienza a brillar como el nuevo faro cultural del norte",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-07T14:05:01+02:00",
+      "enlace": "https://www.lavanguardia.com/cultura/20260907/11629008/santander-comienza-brillar-nuevo-faro-cultural-norte.html"
+    },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
       "medios": [
@@ -12,62 +67,6 @@
       "consenso": 1,
       "fecha": "2022-06-10T01:05:00+02:00",
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
-    },
-    {
-      "titular": "El 90% de la sociedad española culpa a Marruecos de la crisis de Ceuta",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-07T05:30:01+02:00",
-      "enlace": "https://elpais.com/espana/2026-09-07/el-90-de-la-sociedad-espanola-culpa-a-marruecos-de-la-crisis-de-ceuta.html"
-    },
-    {
-      "titular": "Los ultras arrasan en Sajonia-Anhalt y dejan en situación crítica a Merz",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-06T18:20:09+02:00",
-      "enlace": "https://www.lavanguardia.com/internacional/20260906/11628575/ultraderechista-afd-arrasa-sajonia-anhalt-logra-mayoria-absoluta-sondeos.html"
-    },
-    {
-      "titular": "El ex número dos de la inteligencia marroquí filtra «información sensible» a los hackers de Jabaroot",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-07T07:41:20+02:00",
-      "enlace": "https://www.abc.es/espana/numero-dos-inteligencia-marroqui-filtra-informacion-sensible-20260907020434-nt.html"
-    },
-    {
-      "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
-      "medios": [
-        "RTVE"
-      ],
-      "consenso": 1,
-      "fecha": "2022-06-10T00:03:00+02:00",
-      "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
-    },
-    {
-      "titular": "David Jiménez: «Pon esta cláusula en tu testamento para que tus hijos no paguen impuestos en la herencia»",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-07T07:30:05+02:00",
-      "enlace": "https://www.abc.es/recreo/david-jimenez-abogado-pon-clausula-testamento-tus-20260907073000-nt.html"
-    },
-    {
-      "titular": "Al menos cinco muertos tras salirse de pista un avión de carga en el aeropuerto de Miami",
-      "medios": [
-        "El País",
-        "La Vanguardia",
-        "ABC"
-      ],
-      "consenso": 3,
-      "fecha": "2026-09-07T03:28:59+02:00",
-      "enlace": "https://www.abc.es/internacional/avion-carga-incendia-tras-salirse-pista-aterrizaje-20260906215206-nt.html"
     }
   ],
   "salud": {
@@ -76,7 +75,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 28,
+    "antiguedad_minima_min": 1,
     "detalle": [
       {
         "medio": "RTVE",
@@ -84,7 +83,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2232435,
+        "antiguedad_min": 2232826,
         "descartados_por_gancho": 0
       },
       {
@@ -99,28 +98,28 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 134,
+        "items": 140,
         "error": null,
-        "antiguedad_min": 28,
-        "descartados_por_gancho": 7
+        "antiguedad_min": 1,
+        "descartados_por_gancho": 4
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 115,
+        "items": 129,
         "error": null,
-        "antiguedad_min": 43,
-        "descartados_por_gancho": 16
+        "antiguedad_min": 44,
+        "descartados_por_gancho": 14
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 24,
+        "items": 25,
         "error": null,
-        "antiguedad_min": 39,
-        "descartados_por_gancho": 1
+        "antiguedad_min": 20,
+        "descartados_por_gancho": 0
       }
     ]
   }

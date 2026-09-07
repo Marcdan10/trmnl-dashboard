@@ -1,26 +1,26 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "portadas",
-  "generado": "2026-09-07T08:20:38+02:00",
+  "modo": "ultimas",
+  "generado": "2026-09-07T14:51:37+02:00",
   "titulares": [
     {
-      "titular": "Rodri, el fichaje que el Barça no sabía que necesitaba",
+      "titular": "El CTA tiene claro que no debió repetirse el penalti de Mbappé",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-07T06:30:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260907/1004224152/rodri-fichaje-barca-no-sabia-necesitaba.html"
+      "fecha": "2026-09-07T14:12:32+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260907/1004224309/cta-claro-no-debio-repetirse-penalti-mbappe.html"
     },
     {
-      "titular": "Camello se sienta en la mesa de los grandes goleadores",
+      "titular": "La sentencia sobre el caso de agresión sexual de Valdebebas arroja más datos sobre la pena impuesta a los acompañantes de Raúl Asencio",
       "medios": [
-        "Sport"
+        "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/apuestas-deportivas/el-corner-de-pronosticos/camello-sienta-mesa-grandes-goleadores-134019694"
+      "fecha": "2026-09-07T14:08:44+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260907/1004224307/sentencia-sobre-caso-agresion-sexual-valdebebas-arroja-datos-sobre-pena-impuesta-acompanantes-raul-asencio.html"
     },
     {
       "titular": "Bombazo: Messi se retira de la selección argentina",
@@ -32,24 +32,6 @@
       "enlace": "https://www.marca.com/futbol/2026/08/31/bombazo-messi-retira-seleccion-argentina.html"
     },
     {
-      "titular": "1-1: El Espanyol rasca un agónico punto sobre la campana",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-06T23:15:49+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/laliga/20260906/1004224119/espanyol-sevilla.html"
-    },
-    {
-      "titular": "Posibles alineaciones del Sabadell-Córdoba CF: altas, bajas y dudas del encuentro",
-      "medios": [
-        "Sport"
-      ],
-      "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/futbol/posibles-alineaciones-sabadell-cordoba-cf-134019689"
-    },
-    {
       "titular": "Lando Norris y por qué cree que debería ganar lo que Verstappen y Hamilton",
       "medios": [
         "Marca"
@@ -59,13 +41,31 @@
       "enlace": "https://www.marca.com/motor/formula1/gp-italia/2026/08/31/lando-norris-cree-deberia-ganar-verstappen-hamilton.html"
     },
     {
-      "titular": "El 1x1 del Espanyol ante el Sevilla",
+      "titular": "¡Sorteo! Gana dos entradas para el Villarreal CF - Real Betis en el Estadio de la Cerámica",
+      "medios": [
+        "Sport"
+      ],
+      "consenso": 1,
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/villarreal/sorteo-gana-entradas-villarreal-cf-134035821"
+    },
+    {
+      "titular": "La Posesión 4x01: El Barça arrasa... y le saca la careta a Mou",
+      "medios": [
+        "Sport"
+      ],
+      "consenso": 1,
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/la-posesion/posesion-4x01-barca-arrasa-le-134034204"
+    },
+    {
+      "titular": "'Galifardeu' y otras palabras que hablan catalán en el Barça",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-06T23:06:13+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/rcd-espanyol/20260906/1004224123/1x1-espanyol-sevilla.html"
+      "fecha": "2026-09-07T14:07:59+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260907/1004224289/barca-vuelca-lengua-catalana.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 24,
+    "antiguedad_minima_min": 39,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 61,
         "error": null,
-        "antiguedad_min": 9548,
+        "antiguedad_min": 9939,
         "descartados_por_gancho": 10
       },
       {
@@ -98,19 +98,19 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 145,
+        "items": 150,
         "error": null,
-        "antiguedad_min": 24,
+        "antiguedad_min": 39,
         "descartados_por_gancho": 3
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 46,
+        "items": 48,
         "error": null,
         "antiguedad_min": null,
-        "descartados_por_gancho": 3
+        "descartados_por_gancho": 1
       },
       {
         "medio": "NBA",
