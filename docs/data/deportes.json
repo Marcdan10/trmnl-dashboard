@@ -1,26 +1,26 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "ultimas",
-  "generado": "2026-09-07T23:38:58+02:00",
+  "modo": "portadas",
+  "generado": "2026-09-08T01:53:19+02:00",
   "titulares": [
     {
-      "titular": "El Lazio de Gattuso prolonga su gran aranque",
+      "titular": "Cazan a Rodri en Mestalla hablando de la pobre resistencia del Valencia",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-07T23:26:44+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/serie-a/20260907/1004224520/lazio-gattuso.html"
+      "fecha": "2026-09-07T23:06:07+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260907/1004224522/cazan-rodri-mestalla-hablando-pobre-resistencia-valencia.html"
     },
     {
-      "titular": "Pablo Motos vuelve con vídeos y un monólogo sobre Ceuta: \"Todo tiene un límite. Lo razonable sería ir a las urnas\"",
+      "titular": "Anselmi, tras el Elche 2-3 Real Sociedad: \"Ha sido una derrota de mucha crueldad\"",
       "medios": [
-        "Mundo Deportivo"
+        "Sport"
       ],
       "consenso": 1,
-      "fecha": "2026-09-07T23:24:02+02:00",
-      "enlace": "https://www.mundodeportivo.com/elotromundo/television/20260907/1004224530/hormiguero-regresa-escudarse-tertulias-politicas-pablo-motos-arranca-videos-monologo-sobre-ceuta-limite-razonable-seria-urnas-dct.html"
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/elche/anselmi-elche-2-3-real-134050836"
     },
     {
       "titular": "Bombazo: Messi se retira de la selección argentina",
@@ -32,6 +32,24 @@
       "enlace": "https://www.marca.com/futbol/2026/08/31/bombazo-messi-retira-seleccion-argentina.html"
     },
     {
+      "titular": "Fermín y Gordon, el hambre que alimenta al Barça",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-07T15:27:04+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260907/1004224315/fermin-gordon-hambre-alimenta-barca.html"
+    },
+    {
+      "titular": "Fútbol +Arte desembarca en Barcelona con “El legado del 10” una experiencia cultural que une a Maradona, Messi y Lamine Yamal",
+      "medios": [
+        "Sport"
+      ],
+      "consenso": 1,
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/futbol-internacional/futbol-arte-desembarca-barcelona-legado-133918635"
+    },
+    {
       "titular": "Lando Norris y por qué cree que debería ganar lo que Verstappen y Hamilton",
       "medios": [
         "Marca"
@@ -41,31 +59,13 @@
       "enlace": "https://www.marca.com/motor/formula1/gp-italia/2026/08/31/lando-norris-cree-deberia-ganar-verstappen-hamilton.html"
     },
     {
-      "titular": "Sorteo Bonoloto del lunes 7 de septiembre de 2026",
-      "medios": [
-        "Sport"
-      ],
-      "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/sociedad/sorteo-bonoloto-lunes-7-septiembre-134048742"
-    },
-    {
-      "titular": "Bordalás se queja del arbitraje ante el Celta: \"Es evidente que no se nos trata de la misma manera\"",
-      "medios": [
-        "Sport"
-      ],
-      "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/getafe/bordalas-queja-arbitraje-celta-evidente-134049184"
-    },
-    {
-      "titular": "Destrozo de Rybakina, a tiro del nº 1 mundial",
+      "titular": "Bisiwu regresa y se apunta a la Champions",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-07T23:22:42+02:00",
-      "enlace": "https://www.mundodeportivo.com/tenis/open-usa/20260907/1004224528/destrozo-rybakina-tiro-no-1-mundial.html"
+      "fecha": "2026-09-07T14:49:52+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260907/1004224314/bisiwu-regresa-apunta-champions.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 12,
+    "antiguedad_minima_min": 70,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 61,
         "error": null,
-        "antiguedad_min": 10466,
+        "antiguedad_min": 10600,
         "descartados_por_gancho": 10
       },
       {
@@ -98,10 +98,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 155,
+        "items": 156,
         "error": null,
-        "antiguedad_min": 12,
-        "descartados_por_gancho": 3
+        "antiguedad_min": 70,
+        "descartados_por_gancho": 2
       },
       {
         "medio": "Sport",

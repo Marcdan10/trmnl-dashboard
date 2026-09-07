@@ -1,44 +1,17 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "ultimas",
-  "generado": "2026-09-07T23:39:03+02:00",
+  "modo": "portadas",
+  "generado": "2026-09-08T01:53:23+02:00",
   "titulares": [
     {
-      "titular": "27 médicos se ofrecen para reforzar de inmediato la asistencia sanitaria en Ceuta",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-07T20:11:48+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20260907/medicos-se-ofrecen-para-reforzar-de-inmediato-la-asistencia-sanitaria-en-ceuta/350297_0.html"
-    },
-    {
-      "titular": "La FIP fija ocho principios para impulsar la acreditación profesional en farmacia",
+      "titular": "Sanidad abre la puerta a retener el RD de precios si avanza la Ley de Medicamentos",
       "medios": [
         "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-09-07T19:52:44+02:00",
-      "enlace": "https://diariofarma.com/2026/09/07/la-fip-fijo-ocho-principios-para-impulsar-la-acreditacion-profesional-en-farmacia"
-    },
-    {
-      "titular": "Ibima y UMA prueban el potencial del D-chiro-inositol frente al alzhéimer preclínico",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-07T19:42:22+02:00",
-      "enlace": "https://diariofarma.com/2026/09/07/ibima-y-uma-prueban-el-potencial-del-d-chiro-inositol-frente-al-alzheimer-preclinico"
-    },
-    {
-      "titular": "Las últimas 24 horas en Ceuta: Casi 300 asistencias sanitarias y ocupación de camas al 51%",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-07T19:24:24+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20260907/las-ultimas-horas-en-ceuta-casi-asistencias-sanitarias-ocupacion-de-camas-al/350296_0.html"
+      "fecha": "2026-09-08T01:28:00+02:00",
+      "enlace": "https://diariofarma.com/2026/09/08/sanidad-abre-la-puerta-a-retener-el-rd-de-precios-si-avanza-la-ley-de-medicamentos"
     },
     {
       "titular": "Las nuevas formas de evaluar la innovación en salud y los cambios en la normativa: ¿qué modelo quieren las CCAA?",
@@ -50,6 +23,24 @@
       "enlace": "https://elglobalfarma.com/politica/salud-evaluacion-innovacion-ccaa-leyes/"
     },
     {
+      "titular": "Mugeju e Isfas buscan cerrar su futuro antes de acabar el 2026 y evitar otra crisis Muface",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-07T18:29:46+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/muface/20260907/mugeju-isfas-buscan-cerrar-su-futuro-antes-de-acabar-el-evitar-otra-crisis-muface/350040_0.html"
+    },
+    {
+      "titular": "La FIP fija ocho principios para impulsar la acreditación profesional en farmacia",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-07T19:52:44+02:00",
+      "enlace": "https://diariofarma.com/2026/09/07/la-fip-fijo-ocho-principios-para-impulsar-la-acreditacion-profesional-en-farmacia"
+    },
+    {
       "titular": "Cómo Europa puede sobrevivir frente a EEUU y China: «Hay que encontrar el camino para aumentar la competitividad en el sector farmacéutico»",
       "medios": [
         "El Global"
@@ -59,13 +50,22 @@
       "enlace": "https://elglobalfarma.com/industria/farmaindustria-europa-recuperar-competitividad-sector-farmaceutico/"
     },
     {
-      "titular": "El farmacéutico comunitario afianza su rol estratégico frente a la resistencia bacteriana",
+      "titular": "Las autonomías miran al paciente como clave en la fijación de precios de medicamentos: \"Necesitamos su visión\"",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-07T18:31:40+02:00",
+      "enlace": "https://www.redaccionmedica.com/empresas/industria-farmaceutica/20260907/las-autonomias-miran-al-paciente-como-clave-en-la-fijacion-de-precios-medicamentos-necesitamos-su-vision/350293_0.html"
+    },
+    {
+      "titular": "Ibima y UMA prueban el potencial del D-chiro-inositol frente al alzhéimer preclínico",
       "medios": [
         "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-09-07T19:25:25+02:00",
-      "enlace": "https://diariofarma.com/2026/09/07/el-farmaceutico-comunitario-afianza-su-rol-estrategico-frente-a-la-resistencia-bacteriana"
+      "fecha": "2026-09-07T19:42:22+02:00",
+      "enlace": "https://diariofarma.com/2026/09/07/ibima-y-uma-prueban-el-potencial-del-d-chiro-inositol-frente-al-alzheimer-preclinico"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 207,
+    "antiguedad_minima_min": 25,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 226,
+        "antiguedad_min": 25,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 375,
+        "antiguedad_min": 509,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 207,
+        "antiguedad_min": 341,
         "descartados_por_gancho": 0
       },
       {
