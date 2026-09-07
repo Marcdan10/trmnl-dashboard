@@ -1,30 +1,14 @@
 {
   "ciudad": "Barcelona",
-  "generado": "2026-09-06T23:03:08",
+  "generado": "2026-09-07T01:10:38",
   "horas": [
-    {
-      "hora": "00",
-      "temp": 26,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "nube"
-    },
-    {
-      "hora": "01",
-      "temp": 26,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "nube"
-    },
     {
       "hora": "02",
       "temp": 25,
       "prob": 0,
       "mm": 0,
       "mostrar_prob": false,
-      "icono": "luna"
+      "icono": "nube"
     },
     {
       "hora": "03",
@@ -44,7 +28,7 @@
     },
     {
       "hora": "05",
-      "temp": 25,
+      "temp": 24,
       "prob": 0,
       "mm": 0,
       "mostrar_prob": false,
@@ -56,7 +40,7 @@
       "prob": 0,
       "mm": 0,
       "mostrar_prob": false,
-      "icono": "nube"
+      "icono": "luna"
     },
     {
       "hora": "07",
@@ -64,7 +48,7 @@
       "prob": 0,
       "mm": 0,
       "mostrar_prob": false,
-      "icono": "nube"
+      "icono": "luna"
     },
     {
       "hora": "08",
@@ -92,7 +76,23 @@
     },
     {
       "hora": "11",
-      "temp": 28,
+      "temp": 29,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "sol"
+    },
+    {
+      "hora": "12",
+      "temp": 30,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "sol"
+    },
+    {
+      "hora": "13",
+      "temp": 30,
       "prob": 0,
       "mm": 0,
       "mostrar_prob": false,
@@ -100,16 +100,6 @@
     }
   ],
   "dias": [
-    {
-      "etiqueta": "lun 7",
-      "max": 29,
-      "min": 24,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "destacar": false,
-      "icono": "nube"
-    },
     {
       "etiqueta": "mar 8",
       "max": 31,
@@ -169,6 +159,16 @@
       "mostrar_prob": false,
       "destacar": false,
       "icono": "nube"
+    },
+    {
+      "etiqueta": "lun 14",
+      "max": 29,
+      "min": 17,
+      "prob": 10,
+      "mm": 0,
+      "mostrar_prob": true,
+      "destacar": false,
+      "icono": "sol"
     }
   ],
   "aviso": {
