@@ -2,8 +2,17 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "ultimas",
-  "generado": "2026-09-07T20:02:12+02:00",
+  "generado": "2026-09-07T23:39:03+02:00",
   "titulares": [
+    {
+      "titular": "27 médicos se ofrecen para reforzar de inmediato la asistencia sanitaria en Ceuta",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-07T20:11:48+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20260907/medicos-se-ofrecen-para-reforzar-de-inmediato-la-asistencia-sanitaria-en-ceuta/350297_0.html"
+    },
     {
       "titular": "La FIP fija ocho principios para impulsar la acreditación profesional en farmacia",
       "medios": [
@@ -30,15 +39,6 @@
       "consenso": 1,
       "fecha": "2026-09-07T19:24:24+02:00",
       "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20260907/las-ultimas-horas-en-ceuta-casi-asistencias-sanitarias-ocupacion-de-camas-al/350296_0.html"
-    },
-    {
-      "titular": "Vivas pide al Estado que “potencie” la sanidad en Ceuta: “No puede replegarse”",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-07T19:06:27+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/20260907/vivas-pide-al-estado-que-potencie-la-sanidad-en-ceuta-no-puede-replegarse/350295_0.html"
     },
     {
       "titular": "Las nuevas formas de evaluar la innovación en salud y los cambios en la normativa: ¿qué modelo quieren las CCAA?",
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 9,
+    "antiguedad_minima_min": 207,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 9,
+        "antiguedad_min": 226,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 158,
+        "antiguedad_min": 375,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 37,
+        "antiguedad_min": 207,
         "descartados_por_gancho": 0
       },
       {

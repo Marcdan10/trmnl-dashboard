@@ -2,61 +2,61 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-09-07T20:02:00+02:00",
+  "generado": "2026-09-07T23:38:55+02:00",
   "titulares": [
     {
-      "titular": "La histórica victoria de la extrema derecha abre una crisis en el Gobierno alemán",
+      "titular": "Serbia, a un paso de las elecciones anticipadas tras casi dos años de protestas estudiantiles",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-07T19:56:53+02:00",
-      "enlace": "https://elpais.com/internacional/2026-09-07/la-victoria-de-la-extrema-derecha-en-sajonia-anhalt-sacude-a-la-coalicion-de-gobierno-en-alemania.html"
+      "fecha": "2026-09-07T22:52:06+02:00",
+      "enlace": "https://elpais.com/internacional/2026-09-07/serbia-a-un-paso-de-las-elecciones-anticipadas-tras-casi-dos-anos-de-protestas-estudiantiles.html"
     },
     {
-      "titular": "Merz se atrinchera en la Constitución e insiste en el «cortafuegos» contra la extrema derecha",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-07T19:46:33+02:00",
-      "enlace": "https://www.abc.es/internacional/merz-atrinchera-constitucion-insiste-cortafuegos-extrema-derecha-20260907172936-nt.html"
-    },
-    {
-      "titular": "Óscar Puente, el sucesor imposible",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-07T19:44:10+02:00",
-      "enlace": "https://www.abc.es/opinion/julian-quiros-oscar-puente-sucesor-imposible-20260907191921-nt.html"
-    },
-    {
-      "titular": "España resurge ante Japón (59-79) y se clasifica directamente para cuartos del Mundial",
+      "titular": "Un soldado denunció corrupción de las autoridades en Guerrero. El domingo apareció descuartizado",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-07T19:41:27+02:00",
-      "enlace": "https://elpais.com/deportes/baloncesto/2026-09-07/espana-resurge-ante-japon-59-79-y-se-clasifica-directamente-para-cuartos-del-mundial.html"
+      "fecha": "2026-09-07T22:48:16+02:00",
+      "enlace": "https://elpais.com/mexico/2026-09-07/un-soldado-denuncio-corrupcion-de-las-autoridades-en-guerrero-el-domingo-aparecio-descuartizado.html"
     },
     {
-      "titular": "Los Mossos investigan el hallazgo de un cadáver en una acequia del canal de Amposta",
+      "titular": "Broncano pone en duda el futuro de 'La Revuelta' y se dirige a Sánchez por las elecciones: «Me dejas vendido»",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-07T22:45:45+02:00",
+      "enlace": "https://www.abc.es/play/television/noticias/broncano-pone-duda-futuro-revuelta-dirige-sanchez-20260907224410-nt.html"
+    },
+    {
+      "titular": "Barcelona recuerda el legado de Beatriz de Moura en la inauguración del Forum Edita",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-07T19:11:10+02:00",
-      "enlace": "https://www.lavanguardia.com/local/tarragona/20260907/11629454/mossos-investigan-hallazgo-cadaver-acequia-canal-amposta.html"
+      "fecha": "2026-09-07T21:45:00+02:00",
+      "enlace": "https://www.lavanguardia.com/cultura/20260907/11629494/barcelona-recuerda-legado-beatriz-moura-inauguracion-forum-edita.html"
     },
     {
-      "titular": "Comparativa de motoazadas 2026: cuáles son las mejores",
+      "titular": "Europa ensaya una inmunoterapia contra el peor tumor cerebral: «Fue una sentencia de muerte para Max»",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-07T21:33:01+02:00",
+      "enlace": "https://www.abc.es/sociedad/europa-ensaya-inmunoterapia-pionera-atacar-tumor-cerebral-20260906110251-nt.html"
+    },
+    {
+      "titular": "Bernie Ecclestone, retenido en un aeropuerto portugués por llevar una escopeta",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-07T19:00:00+02:00",
-      "enlace": "https://www.lavanguardia.com/comprar/mas-valorados/20260907/11629283/mejores-motoazadas-comparativa-mkt-eo.html"
+      "fecha": "2026-09-07T20:35:41+02:00",
+      "enlace": "https://www.lavanguardia.com/deportes/formula-1/20260907/11629481/bernie-ecclestone-retenido-aeropuerto-portugues-llevar-escopeta.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 5,
+    "antiguedad_minima_min": 46,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2233136,
+        "antiguedad_min": 2233353,
         "descartados_por_gancho": 0
       },
       {
@@ -97,18 +97,18 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 145,
+        "items": 147,
         "error": null,
-        "antiguedad_min": 5,
+        "antiguedad_min": 46,
         "descartados_por_gancho": 4
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 129,
+        "items": 130,
         "error": null,
-        "antiguedad_min": 50,
+        "antiguedad_min": 113,
         "descartados_por_gancho": 12
       },
       {
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 24,
         "error": null,
-        "antiguedad_min": 15,
+        "antiguedad_min": 53,
         "descartados_por_gancho": 1
       }
     ]

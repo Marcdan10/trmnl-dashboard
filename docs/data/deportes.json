@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-09-07T20:02:06+02:00",
+  "generado": "2026-09-07T23:38:58+02:00",
   "titulares": [
     {
-      "titular": "La nueva heroína del US Open protagoniza un nuevo milagro",
+      "titular": "El Lazio de Gattuso prolonga su gran aranque",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-07T19:52:04+02:00",
-      "enlace": "https://www.mundodeportivo.com/tenis/open-usa/20260907/1004224467/nueva-heroina-us-open-protagoniza-nuevo-milagro.html"
+      "fecha": "2026-09-07T23:26:44+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/serie-a/20260907/1004224520/lazio-gattuso.html"
     },
     {
-      "titular": "'Barça Team': El Barça llega lanzado a la Champions",
+      "titular": "Pablo Motos vuelve con vídeos y un monólogo sobre Ceuta: \"Todo tiene un límite. Lo razonable sería ir a las urnas\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-07T19:51:42+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260907/1004224456/barca-team-barca-llega-lanzado-champions.html"
+      "fecha": "2026-09-07T23:24:02+02:00",
+      "enlace": "https://www.mundodeportivo.com/elotromundo/television/20260907/1004224530/hormiguero-regresa-escudarse-tertulias-politicas-pablo-motos-arranca-videos-monologo-sobre-ceuta-limite-razonable-seria-urnas-dct.html"
     },
     {
       "titular": "Bombazo: Messi se retira de la selección argentina",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/motor/formula1/gp-italia/2026/08/31/lando-norris-cree-deberia-ganar-verstappen-hamilton.html"
     },
     {
-      "titular": "Hadjar, baja para Madrid; Tsunoda y Lawson se mantienen como sustitutos",
+      "titular": "Sorteo Bonoloto del lunes 7 de septiembre de 2026",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/motor/formula1/hadjar-baja-madrid-tsunoda-lawson-134045684"
+      "enlace": "https://www.sport.es/es/noticias/sociedad/sorteo-bonoloto-lunes-7-septiembre-134048742"
     },
     {
-      "titular": "El Barça cumple con el presupuesto y prevé ingresos récord para esta temporada",
+      "titular": "Bordalás se queja del arbitraje ante el Celta: \"Es evidente que no se nos trata de la misma manera\"",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/barca/barca-cumple-presupuesto-preve-ingresos-134043906"
+      "enlace": "https://www.sport.es/es/noticias/getafe/bordalas-queja-arbitraje-celta-evidente-134049184"
     },
     {
-      "titular": "Barcelona envía un mensaje a Madrid antes del estreno del Madring en F1",
+      "titular": "Destrozo de Rybakina, a tiro del nº 1 mundial",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-07T19:36:46+02:00",
-      "enlace": "https://www.mundodeportivo.com/motor/f1/20260907/1004224458/barcelona-envia-mensaje-madrid-estreno-madring-f1.html"
+      "fecha": "2026-09-07T23:22:42+02:00",
+      "enlace": "https://www.mundodeportivo.com/tenis/open-usa/20260907/1004224528/destrozo-rybakina-tiro-no-1-mundial.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 10,
+    "antiguedad_minima_min": 12,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 61,
         "error": null,
-        "antiguedad_min": 10249,
+        "antiguedad_min": 10466,
         "descartados_por_gancho": 10
       },
       {
@@ -98,9 +98,9 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 154,
+        "items": 155,
         "error": null,
-        "antiguedad_min": 10,
+        "antiguedad_min": 12,
         "descartados_por_gancho": 3
       },
       {

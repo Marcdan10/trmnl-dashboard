@@ -2,8 +2,44 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-09-07T20:02:04+02:00",
+  "generado": "2026-09-07T23:38:57+02:00",
   "titulares": [
+    {
+      "titular": "Bernie Ecclestone, ex-CEO de la F1, retenido en un aeropuerto de Portugal por llevar una escopeta",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-07T21:55:46+02:00",
+      "enlace": "https://www.expansion.com/deporte-negocio/2026/09/07/6a9f141d468aebb06a8b458a.html"
+    },
+    {
+      "titular": "Qualitas sella una histórica compra de renovables a Macquarie",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-07T21:26:39+02:00",
+      "enlace": "https://www.expansion.com/empresas/energia/2026/09/07/6a9f0faae5fdea5d4b8b457e.html"
+    },
+    {
+      "titular": "Siemens invertirá 160 millones en su nueva sede en Madrid",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-07T20:53:03+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/09/07/6a9f06efe5fdea73368b4577.html"
+    },
+    {
+      "titular": "El Gobierno británico ve prioritario controlar el gasto público",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-07T19:58:08+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/09/07/6a9ef7f8e5fdea0b358b456e.html"
+    },
     {
       "titular": "Cuerpo avanza un crecimiento del PIB del 0,6% en el tercer trimestre pese a la guerra",
       "medios": [
@@ -30,42 +66,6 @@
       "consenso": 1,
       "fecha": "2026-09-07T19:35:34+02:00",
       "enlace": "https://www.expansion.com/economia/financial-times/2026/09/07/6a9ef5d1e5fdeacd028b459a.html"
-    },
-    {
-      "titular": "Nazca Capital ficha a Carme Artigas como nueva socia para crecer en tecnología",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-07T18:41:05+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/09/07/6a9ee829468aebbb508b4576.html"
-    },
-    {
-      "titular": "Las pérdidas fiscales se han convertido en un activo muy codiciado en las M&A deportivas",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-07T18:32:01+02:00",
-      "enlace": "https://www.expansion.com/economia/financial-times/2026/09/07/6a9ee6f1e5fdea5d4b8b4571.html"
-    },
-    {
-      "titular": "OHLA pide una dispensa a acreedores tras el revés de 26 millones en Catar",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-07T18:22:21+02:00",
-      "enlace": "https://www.expansion.com/empresas/inmobiliario/2026/09/07/6a9ee3c2e5fdea414e8b456f.html"
-    },
-    {
-      "titular": "Singapur construye un megapuerto automatizado para ser una potencia marítima en 2040",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-07T18:10:52+02:00",
-      "enlace": "https://www.expansion.com/empresas/transporte/2026/09/07/6a9ed941468aebac628b4594.html"
     }
   ],
   "salud": {
@@ -78,7 +78,7 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 7,
+    "antiguedad_minima_min": 103,
     "detalle": [
       {
         "medio": "Expansión",
@@ -86,7 +86,7 @@
         "ok": true,
         "items": 70,
         "error": null,
-        "antiguedad_min": 7,
+        "antiguedad_min": 103,
         "descartados_por_gancho": 1
       },
       {
