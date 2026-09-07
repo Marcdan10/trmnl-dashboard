@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-09-07T03:10:31+02:00",
+  "generado": "2026-09-07T08:20:38+02:00",
   "titulares": [
     {
-      "titular": "El Espanyol rasca un agónico punto sobre la campana",
+      "titular": "Rodri, el fichaje que el Barça no sabía que necesitaba",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-06T23:15:49+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/laliga/20260906/1004224119/espanyol-sevilla.html"
+      "fecha": "2026-09-07T06:30:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260907/1004224152/rodri-fichaje-barca-no-sabia-necesitaba.html"
     },
     {
-      "titular": "Los ‘hijos’ de Yepes son siempre protagonistas",
+      "titular": "Camello se sienta en la mesa de los grandes goleadores",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/las-palmas/hijos-yepes-son-protagonistas-134016908"
+      "enlace": "https://www.sport.es/es/noticias/apuestas-deportivas/el-corner-de-pronosticos/camello-sienta-mesa-grandes-goleadores-134019694"
     },
     {
       "titular": "Bombazo: Messi se retira de la selección argentina",
@@ -32,22 +32,22 @@
       "enlace": "https://www.marca.com/futbol/2026/08/31/bombazo-messi-retira-seleccion-argentina.html"
     },
     {
-      "titular": "El 1x1 del Espanyol ante el Sevilla",
+      "titular": "1-1: El Espanyol rasca un agónico punto sobre la campana",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-06T23:06:13+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/rcd-espanyol/20260906/1004224123/1x1-espanyol-sevilla.html"
+      "fecha": "2026-09-06T23:15:49+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/laliga/20260906/1004224119/espanyol-sevilla.html"
     },
     {
-      "titular": "Jefté contra su sequía y el intocable Jesé está de vuelta",
+      "titular": "Posibles alineaciones del Sabadell-Córdoba CF: altas, bajas y dudas del encuentro",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/las-palmas/jefte-sequia-intocable-jese-vuelta-134016878"
+      "enlace": "https://www.sport.es/es/noticias/futbol/posibles-alineaciones-sabadell-cordoba-cf-134019689"
     },
     {
       "titular": "Lando Norris y por qué cree que debería ganar lo que Verstappen y Hamilton",
@@ -59,13 +59,13 @@
       "enlace": "https://www.marca.com/motor/formula1/gp-italia/2026/08/31/lando-norris-cree-deberia-ganar-verstappen-hamilton.html"
     },
     {
-      "titular": "\"Nos vamos insatisfechos con el empate\"",
+      "titular": "El 1x1 del Espanyol ante el Sevilla",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-06T23:47:09+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/rcd-espanyol/20260906/1004224129/marcos-insatisfechos-empate.html"
+      "fecha": "2026-09-06T23:06:13+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/rcd-espanyol/20260906/1004224123/1x1-espanyol-sevilla.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 152,
+    "antiguedad_minima_min": 24,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 61,
         "error": null,
-        "antiguedad_min": 9238,
+        "antiguedad_min": 9548,
         "descartados_por_gancho": 10
       },
       {
@@ -98,19 +98,19 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 143,
+        "items": 145,
         "error": null,
-        "antiguedad_min": 152,
-        "descartados_por_gancho": 4
+        "antiguedad_min": 24,
+        "descartados_por_gancho": 3
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 50,
+        "items": 46,
         "error": null,
         "antiguedad_min": null,
-        "descartados_por_gancho": 0
+        "descartados_por_gancho": 3
       },
       {
         "medio": "NBA",

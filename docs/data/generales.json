@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-09-07T03:10:25+02:00",
+  "generado": "2026-09-07T08:20:34+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -14,16 +14,16 @@
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
     },
     {
-      "titular": "La extrema derecha arrasa en Sajonia-Anhalt y opta a gobernar por primera vez en un Estado alemán",
+      "titular": "El 90% de la sociedad española culpa a Marruecos de la crisis de Ceuta",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-06T23:33:42+02:00",
-      "enlace": "https://elpais.com/internacional/2026-09-06/la-participacion-se-dispara-en-las-elecciones-regionales-alemanas-donde-la-extrema-derecha-aspira-a-gobernar.html"
+      "fecha": "2026-09-07T05:30:01+02:00",
+      "enlace": "https://elpais.com/espana/2026-09-07/el-90-de-la-sociedad-espanola-culpa-a-marruecos-de-la-crisis-de-ceuta.html"
     },
     {
-      "titular": "La ultraderecha alemana arrasa en Sajonia-Anhalt y podría llegar a gobernar por primera vez",
+      "titular": "Los ultras arrasan en Sajonia-Anhalt y dejan en situación crítica a Merz",
       "medios": [
         "La Vanguardia"
       ],
@@ -32,15 +32,13 @@
       "enlace": "https://www.lavanguardia.com/internacional/20260906/11628575/ultraderechista-afd-arrasa-sajonia-anhalt-logra-mayoria-absoluta-sondeos.html"
     },
     {
-      "titular": "Al menos cinco muertos tras salirse de pista un avión de carga en el aeropuerto de Miami",
+      "titular": "El ex número dos de la inteligencia marroquí filtra «información sensible» a los hackers de Jabaroot",
       "medios": [
-        "El País",
-        "La Vanguardia",
         "ABC"
       ],
-      "consenso": 3,
-      "fecha": "2026-09-07T02:46:59+02:00",
-      "enlace": "https://www.abc.es/internacional/avion-carga-incendia-tras-salirse-pista-aterrizaje-20260906215206-nt.html"
+      "consenso": 1,
+      "fecha": "2026-09-07T07:41:20+02:00",
+      "enlace": "https://www.abc.es/espana/numero-dos-inteligencia-marroqui-filtra-informacion-sensible-20260907020434-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -52,22 +50,24 @@
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
     },
     {
-      "titular": "El otro calvario de las víctimas de una negligencia médica",
+      "titular": "David Jiménez: «Pon esta cláusula en tu testamento para que tus hijos no paguen impuestos en la herencia»",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-07T02:52:57+02:00",
-      "enlace": "https://www.abc.es/sociedad/segundo-calvario-victimas-negligencia-tras-salir-hospital-20260903015237-nt.html"
+      "fecha": "2026-09-07T07:30:05+02:00",
+      "enlace": "https://www.abc.es/recreo/david-jimenez-abogado-pon-clausula-testamento-tus-20260907073000-nt.html"
     },
     {
-      "titular": "“¿Lealtad del gobierno de Ceuta? Hay cuestiones que, cuando esto acabe, diremos”",
+      "titular": "Al menos cinco muertos tras salirse de pista un avión de carga en el aeropuerto de Miami",
       "medios": [
-        "La Vanguardia"
+        "El País",
+        "La Vanguardia",
+        "ABC"
       ],
-      "consenso": 1,
-      "fecha": "2026-09-06T06:00:00+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20260906/11628029/angel-victor-torres-lealtad-gobierno-ceuta-hay-cuestiones-esto-acabe-diremos.html"
+      "consenso": 3,
+      "fecha": "2026-09-07T03:28:59+02:00",
+      "enlace": "https://www.abc.es/internacional/avion-carga-incendia-tras-salirse-pista-aterrizaje-20260906215206-nt.html"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 17,
+    "antiguedad_minima_min": 28,
     "detalle": [
       {
         "medio": "RTVE",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2232125,
+        "antiguedad_min": 2232435,
         "descartados_por_gancho": 0
       },
       {
@@ -99,28 +99,28 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 132,
+        "items": 134,
         "error": null,
-        "antiguedad_min": 216,
-        "descartados_por_gancho": 3
+        "antiguedad_min": 28,
+        "descartados_por_gancho": 7
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 129,
+        "items": 115,
         "error": null,
-        "antiguedad_min": 74,
-        "descartados_por_gancho": 19
+        "antiguedad_min": 43,
+        "descartados_por_gancho": 16
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 22,
+        "items": 24,
         "error": null,
-        "antiguedad_min": 17,
-        "descartados_por_gancho": 3
+        "antiguedad_min": 39,
+        "descartados_por_gancho": 1
       }
     ]
   }
