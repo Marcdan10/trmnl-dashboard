@@ -1,44 +1,26 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "ultimas",
-  "generado": "2026-09-08T21:47:38+02:00",
+  "modo": "portadas",
+  "generado": "2026-09-09T00:16:31+02:00",
   "titulares": [
     {
-      "titular": "La Justicia ratifica la suspensión cautelar de la guía enfermera de indicación para infección urinaria",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-08T21:03:53+02:00",
-      "enlace": "https://www.redaccionmedica.com/profesionales/enfermeria/20260908/la-justicia-ratifica-la-suspension-cautelar-de-guia-enfermera-indicacion-para-infeccion-urinaria/350393_0.html"
-    },
-    {
-      "titular": "Novedades en guardias y jubilación, las claves del último texto del Estatuto Marco",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-08T20:36:26+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/ministerio-sanidad/20260908/novedades-en-guardias-jubilacion-las-claves-del-ultimo-texto-estatuto-marco/350392_0.html"
-    },
-    {
-      "titular": "El PP abre el curso en el Senado pidiendo la dimisión de García por el Estatuto Marco y la situación de Ceuta",
+      "titular": "Sanidad confirma que habrá RD de precios y decidirá antes de diciembre si espera a la ley",
       "medios": [
         "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-09-08T19:12:13+02:00",
-      "enlace": "https://diariofarma.com/2026/09/08/el-pp-abre-el-curso-en-el-senado-pidiendo-la-dimision-de-garcia-por-el-estatuto-marco-y-la-situacion-de-ceuta"
+      "fecha": "2026-09-08T23:23:42+02:00",
+      "enlace": "https://diariofarma.com/2026/09/08/sanidad-confirma-que-habra-rd-de-precios-y-decidira-antes-de-diciembre-si-espera-a-la-ley"
     },
     {
-      "titular": "La Consejería de Sanidad y el COFM refuerzan su alianza para potenciar las farmacias",
+      "titular": "FEFAC recuerda el papel de la farmacia ante el cansancio y el estrés posvacacional",
       "medios": [
-        "Diariofarma"
+        "El Global"
       ],
       "consenso": 1,
-      "fecha": "2026-09-08T17:58:14+02:00",
-      "enlace": "https://diariofarma.com/2026/09/08/la-consejeria-de-sanidad-y-el-cofm-refuerzan-su-alianza-para-potenciar-las-farmacias"
+      "fecha": "2026-09-08T17:49:52+02:00",
+      "enlace": "https://elglobalfarma.com/farmacia/fefac-recuerda-el-papel-de-la-farmacia-ante-el-cansancio-y-el-estres-posvacacional/"
     },
     {
       "titular": "El grado en Medicina plantea un ingreso con valoración competencial tras el hundimiento de España en el informe PISA",
@@ -50,34 +32,52 @@
       "enlace": "https://www.redaccionmedica.com/formacion/estudiantes/20260908/el-grado-en-medicina-plantea-un-ingreso-con-valoracion-competencial-tras-el-hundimiento-de-espana-informe-pisa/350390_0.html"
     },
     {
-      "titular": "Sanidad rechaza en el Senado declarar a Ceuta como zona de difícil cobertura como pide el PP",
+      "titular": "Padilla insiste en un ‘early procurement’ que la industria ve desincentivador y arriesgado",
       "medios": [
         "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-09-08T17:45:06+02:00",
-      "enlace": "https://diariofarma.com/2026/09/08/sanidad-rechaza-en-el-senado-declarar-a-ceuta-como-zona-de-dificil-cobertura-como-pide-el-pp"
+      "fecha": "2026-09-08T22:25:18+02:00",
+      "enlace": "https://diariofarma.com/2026/09/08/padilla-insiste-en-el-early-procurement-que-la-industria-ve-desincentivador-y-arriesgado"
+    },
+    {
+      "titular": "Hefame acoge la reunión de los consejos rectores de Ucomur y UcoeRM",
+      "medios": [
+        "El Global"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-08T17:19:22+02:00",
+      "enlace": "https://elglobalfarma.com/farmacia/hefame-acoge-reunion-consejos-ucomur-ucoerm/"
+    },
+    {
+      "titular": "La Justicia ratifica la suspensión cautelar de la guía enfermera de indicación para infección urinaria",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-08T21:03:53+02:00",
+      "enlace": "https://www.redaccionmedica.com/profesionales/enfermeria/20260908/la-justicia-ratifica-la-suspension-cautelar-de-guia-enfermera-indicacion-para-infeccion-urinaria/350393_0.html"
     },
     {
       "titular": "Reino Unido incluye la vacuna de Hipra para la campaña contra la covid de otoño",
       "medios": [
-        "Diariofarma"
+        "Diariofarma",
+        "El Global"
       ],
-      "consenso": 1,
+      "consenso": 2,
       "fecha": "2026-09-08T17:11:26+02:00",
       "enlace": "https://diariofarma.com/2026/09/08/reino-unido-incluye-la-vacuna-de-hipra-para-la-campana-contra-la-covid-de-otono"
     }
   ],
   "salud": {
     "feeds_totales": 7,
-    "feeds_ok": 3,
+    "feeds_ok": 4,
     "feeds_caidos": [
-      "El Global",
       "PMFarma",
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 43,
+    "antiguedad_minima_min": 52,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -85,16 +85,17 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 155,
+        "antiguedad_min": 52,
         "descartados_por_gancho": 0
       },
       {
         "medio": "El Global",
         "url": "https://elglobal.es/feed/",
-        "ok": false,
-        "items": 0,
-        "error": "URLError: <urlopen error timed out>",
-        "antiguedad_min": null
+        "ok": true,
+        "items": 10,
+        "error": null,
+        "antiguedad_min": 386,
+        "descartados_por_gancho": 0
       },
       {
         "medio": "Redacción Médica",
@@ -102,7 +103,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 43,
+        "antiguedad_min": 192,
         "descartados_por_gancho": 0
       },
       {

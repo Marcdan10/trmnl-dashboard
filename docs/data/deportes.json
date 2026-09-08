@@ -1,26 +1,26 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "ultimas",
-  "generado": "2026-09-08T21:47:12+02:00",
+  "modo": "portadas",
+  "generado": "2026-09-09T00:16:26+02:00",
   "titulares": [
     {
-      "titular": "Es oficial: 'Crackòvia' vuelve con su sátira deportiva nueve años después de su adiós",
+      "titular": "2-1: El Real Madrid vence, pero no convence ante el Inter",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-08T21:26:11+02:00",
-      "enlace": "https://www.mundodeportivo.com/elotromundo/television/20260908/1004224952/oficial-crackovia-vuelve-satira-deportiva-9-anos-adios-tv3-dct.html"
+      "fecha": "2026-09-08T23:04:18+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260908/1004224990/real-madrid-vence-no-convence-inter.html"
     },
     {
-      "titular": "Mbappé adelanta al Real Madrid y abre la lata de la Champions",
+      "titular": "Valverde, sobre los pitos del Bernabéu: “Tienen toda la razón”",
       "medios": [
-        "Mundo Deportivo"
+        "Sport"
       ],
       "consenso": 1,
-      "fecha": "2026-09-08T21:22:51+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260908/1004224953/mbappe-adelanta-real-madrid-abre-lata-champions.html"
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/real-madrid/valverde-pitos-bernabeu-razon-134087801"
     },
     {
       "titular": "El Barça femenino roza los 30 millones de negocio y gana 8 millones tras crecer un 33%",
@@ -32,6 +32,24 @@
       "enlace": "https://www.marca.com/sport-business/2playbook/2026/09/08/barca-femenino-roza-30-millones-negocio-gana-8-millones-crecer-33.html"
     },
     {
+      "titular": "Josep Martínez entra en el club de Donnarumma, Mendy y Karius con una pifia monumental",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-08T21:41:29+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260908/1004224957/josep-martinez-entra-club-ulreich-donnarumma-mendy-karius-pifia-monumental.html"
+    },
+    {
+      "titular": "El presidente del Inter: \"Lautaro evitó cualquier negociación con el Barça\"",
+      "medios": [
+        "Sport"
+      ],
+      "consenso": 1,
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/barca/presidente-inter-lautaro-evito-negociacion-134087716"
+    },
+    {
       "titular": "Diez 'joyas' que pueden dar el pelotazo en Champions",
       "medios": [
         "Marca"
@@ -41,31 +59,14 @@
       "enlace": "https://www.marca.com/futbol/champions-league/2026/09/08/diez-joyas-dar-pelotazo-champions-nico-paz-manzambi-karetsas-godts-karl.html"
     },
     {
-      "titular": "Ni nevera ni bolsa de tela: así puedes conservar el pan en verano",
+      "titular": "El 1x1 del Real Madrid ante el Inter",
       "medios": [
+        "Mundo Deportivo",
         "Sport"
       ],
-      "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/actualidad/nevera-bolsa-tela-puedes-conservar-pan-verano-134072639"
-    },
-    {
-      "titular": "Madrid se rinde a Carlos Sainz: \"Se me hace muy raro estar en Madrid, nunca me hubiera imaginado estar aquí a las puertas de un Gran Premio\"",
-      "medios": [
-        "Sport"
-      ],
-      "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/motor/formula1/madrid-rinde-carlos-sainz-raro-134082455"
-    },
-    {
-      "titular": "Marotta: \"Lautaro se negó a negociar con el Barcelona\"",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-08T21:19:56+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260908/1004224949/marotta.html"
+      "consenso": 2,
+      "fecha": "2026-09-08T23:25:27+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260908/1004224973/1x1-real-madrid-inter.html"
     }
   ],
   "salud": {
@@ -82,7 +83,7 @@
         "ok": true,
         "items": 62,
         "error": null,
-        "antiguedad_min": 661,
+        "antiguedad_min": 810,
         "descartados_por_gancho": 6
       },
       {
@@ -98,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 142,
+        "items": 145,
         "error": null,
         "antiguedad_min": 21,
-        "descartados_por_gancho": 5
+        "descartados_por_gancho": 4
       },
       {
         "medio": "Sport",

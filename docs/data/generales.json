@@ -1,65 +1,9 @@
 {
   "pantalla": "generales",
   "titulo": "Titulares",
-  "modo": "ultimas",
-  "generado": "2026-09-08T21:47:06+02:00",
+  "modo": "portadas",
+  "generado": "2026-09-09T00:16:22+02:00",
   "titulares": [
-    {
-      "titular": "Messi alcanza un principio de acuerdo para convertirse en el máximo accionista del Eldense",
-      "medios": [
-        "El País",
-        "La Vanguardia"
-      ],
-      "consenso": 2,
-      "fecha": "2026-09-08T21:25:39+02:00",
-      "enlace": "https://elpais.com/deportes/futbol/2026-09-08/messi-alcanza-un-principio-de-acuerdo-para-convertirse-en-el-maximo-accionista-del-eldense.html"
-    },
-    {
-      "titular": "Mbappé saca petróleo de la primera ocasión del Madrid",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-08T21:18:45+02:00",
-      "enlace": "https://www.abc.es/deportes/real-madrid/real-madrid-inter-milan-directo-resultado-ganador-20260908203754-di.html"
-    },
-    {
-      "titular": "«¿Cómo los pibes de PISA van a solucionar nuestros problemas si antes no entienden los problemas?»",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-08T21:16:58+02:00",
-      "enlace": "https://www.abc.es/espana/pibes-pisa-van-solucionar-problemas-entienden-problemas-20260908205917-nt.html"
-    },
-    {
-      "titular": "Última hora de la entrada de inmigrantes a Ceuta, en directo | El Rey se reunió con Margarita Robles y mandos militares para “examinar la situación en Ceuta desde el punto de vista de la defensa”",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-08T21:07:21+02:00",
-      "enlace": "https://elpais.com/espana/2026-09-08/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html"
-    },
-    {
-      "titular": "El Supremo paraliza el censo de la 'ley de nietos'",
-      "medios": [
-        "La Vanguardia",
-        "ABC"
-      ],
-      "consenso": 2,
-      "fecha": "2026-09-08T21:03:13+02:00",
-      "enlace": "https://www.abc.es/espana/supremo-paraliza-censo-ley-nietos-20260908134440-nt.html"
-    },
-    {
-      "titular": "El juez Peinado cierra la investigación sobre Begoña Gómez y la deja al borde del banquillo",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-08T20:34:34+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20260908/11630421/juez-peinado-cierra-investigacion-sobre-begona-gomez-deja-borde-banquillo.html"
-    },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
       "medios": [
@@ -68,6 +12,60 @@
       "consenso": 1,
       "fecha": "2022-06-10T01:05:00+02:00",
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
+    },
+    {
+      "titular": "Los alumnos españoles se hunden en matemáticas y lectura en el Informe PISA y obtienen el peor resultado de su historia",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-08T10:41:10+02:00",
+      "enlace": "https://elpais.com/educacion/2026-09-08/los-alumnos-espanoles-se-hunden-en-matematicas-y-lectura-en-el-informe-pisa-y-obtienen-el-peor-resultado-de-su-historia.html"
+    },
+    {
+      "titular": "Batacazo de España en el informe PISA: retroceso de un curso en lectura y casi otro en matemáticas",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-08T09:30:00+02:00",
+      "enlace": "https://www.lavanguardia.com/vida/20260908/11628631/batacazo-pisa-jovenes-espanoles-pierden-curso-lectura-matematicas.html"
+    },
+    {
+      "titular": "Un mal Madrid, un gran Courtois y tres puntos entre pitos",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-08T23:13:18+02:00",
+      "enlace": "https://www.abc.es/deportes/real-madrid/mal-madrid-gran-courtois-tres-puntos-pitos-20260908225930-nt.html"
+    },
+    {
+      "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
+      "medios": [
+        "RTVE"
+      ],
+      "consenso": 1,
+      "fecha": "2022-06-10T00:03:00+02:00",
+      "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
+    },
+    {
+      "titular": "Caídas educativas salvajes de la Comunidad Valenciana y el País Vasco en el Informe PISA en una debacle general de las autonomías",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-08T09:30:17+02:00",
+      "enlace": "https://elpais.com/educacion/2026-09-08/caidas-educativas-salvajes-de-la-comunidad-valenciana-y-el-pais-vasco-en-el-informe-pisa-en-una-debacle-general-de-las-autonomias.html"
+    },
+    {
+      "titular": "Educación atribuye los resultados PISA a la falta de comprensión lectora y rechaza vincularlos a la 'ley Celaá'",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-08T11:38:50+02:00",
+      "enlace": "https://www.lavanguardia.com/vida/20260908/11629898/educacion-atribuye-resultados-pisa-falta-comprension-lectora-rechaza-vincularlos-ley-celaa.html"
     }
   ],
   "salud": {
@@ -76,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 21,
+    "antiguedad_minima_min": 36,
     "detalle": [
       {
         "medio": "RTVE",
@@ -84,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2234682,
+        "antiguedad_min": 2234831,
         "descartados_por_gancho": 0
       },
       {
@@ -99,18 +97,18 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 144,
+        "items": 143,
         "error": null,
-        "antiguedad_min": 21,
+        "antiguedad_min": 36,
         "descartados_por_gancho": 6
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 130,
+        "items": 129,
         "error": null,
-        "antiguedad_min": 55,
+        "antiguedad_min": 62,
         "descartados_por_gancho": 12
       },
       {
@@ -119,7 +117,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 28,
+        "antiguedad_min": 63,
         "descartados_por_gancho": 0
       }
     ]
