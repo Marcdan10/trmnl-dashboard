@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-09-08T18:59:14+02:00",
+  "generado": "2026-09-08T21:47:12+02:00",
   "titulares": [
     {
-      "titular": "El Real Madrid se reconcilia con el Balón de Oro",
+      "titular": "Es oficial: 'Crackòvia' vuelve con su sátira deportiva nueve años después de su adiós",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-08T18:28:47+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260908/1004224891/real-madrid-reconcilia-balon-oro.html"
+      "fecha": "2026-09-08T21:26:11+02:00",
+      "enlace": "https://www.mundodeportivo.com/elotromundo/television/20260908/1004224952/oficial-crackovia-vuelve-satira-deportiva-9-anos-adios-tv3-dct.html"
     },
     {
-      "titular": "“Esto permite que no tengamos que elegir entre nuestro futuro personal y profesional”",
+      "titular": "Mbappé adelanta al Real Madrid y abre la lata de la Champions",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-08T18:21:30+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/femenino/20260908/1004224888/esto-permite-no-tengamos-elegir-nuestro-futuro-personal-profesional.html"
+      "fecha": "2026-09-08T21:22:51+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260908/1004224953/mbappe-adelanta-real-madrid-abre-lata-champions.html"
     },
     {
       "titular": "El Barça femenino roza los 30 millones de negocio y gana 8 millones tras crecer un 33%",
@@ -41,32 +41,31 @@
       "enlace": "https://www.marca.com/futbol/champions-league/2026/09/08/diez-joyas-dar-pelotazo-champions-nico-paz-manzambi-karetsas-godts-karl.html"
     },
     {
-      "titular": "Dani Miret y una pretemporada preocupante: “La temporada empieza con adversidades”",
+      "titular": "Ni nevera ni bolsa de tela: así puedes conservar el pan en verano",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/baloncesto/dani-miret-pretemporada-preocupante-temporada-134076379"
+      "enlace": "https://www.sport.es/es/noticias/actualidad/nevera-bolsa-tela-puedes-conservar-pan-verano-134072639"
     },
     {
-      "titular": "El mensaje de apoyo de Carolina Yuste a su pareja Héctor Bellerín tras los insultos homófobos",
+      "titular": "Madrid se rinde a Carlos Sainz: \"Se me hace muy raro estar en Madrid, nunca me hubiera imaginado estar aquí a las puertas de un Gran Premio\"",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/futbol/mensaje-apoyo-carolina-yuste-pareja-134080560"
+      "enlace": "https://www.sport.es/es/noticias/motor/formula1/madrid-rinde-carlos-sainz-raro-134082455"
     },
     {
-      "titular": "Carlos Ortega, tras firmar con el Barça hasta 2031: \"Los entrenadores no renuevan tantos años\"",
+      "titular": "Marotta: \"Lautaro se negó a negociar con el Barcelona\"",
       "medios": [
-        "Mundo Deportivo",
-        "Sport"
+        "Mundo Deportivo"
       ],
-      "consenso": 2,
-      "fecha": "2026-09-08T18:19:28+02:00",
-      "enlace": "https://www.mundodeportivo.com/balonmano/20260908/1004224838/barca.html"
+      "consenso": 1,
+      "fecha": "2026-09-08T21:19:56+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260908/1004224949/marotta.html"
     }
   ],
   "salud": {
@@ -75,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 30,
+    "antiguedad_minima_min": 21,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +82,7 @@
         "ok": true,
         "items": 62,
         "error": null,
-        "antiguedad_min": 493,
+        "antiguedad_min": 661,
         "descartados_por_gancho": 6
       },
       {
@@ -99,16 +98,16 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 143,
+        "items": 142,
         "error": null,
-        "antiguedad_min": 30,
-        "descartados_por_gancho": 3
+        "antiguedad_min": 21,
+        "descartados_por_gancho": 5
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 48,
+        "items": 49,
         "error": null,
         "antiguedad_min": null,
         "descartados_por_gancho": 1

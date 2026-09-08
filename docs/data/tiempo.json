@@ -1,31 +1,7 @@
 {
   "ciudad": "Barcelona",
-  "generado": "2026-09-08T16:59:20",
+  "generado": "2026-09-08T19:47:39",
   "horas": [
-    {
-      "hora": "17",
-      "temp": 31,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "nube"
-    },
-    {
-      "hora": "18",
-      "temp": 30,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "nube"
-    },
-    {
-      "hora": "19",
-      "temp": 30,
-      "prob": 3,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "nube"
-    },
     {
       "hora": "20",
       "temp": 29,
@@ -84,9 +60,9 @@
     },
     {
       "hora": "03",
-      "temp": 25,
+      "temp": 26,
       "prob": 0,
-      "mm": 0.4,
+      "mm": 0.1,
       "mostrar_prob": false,
       "icono": "nube"
     },
@@ -94,18 +70,42 @@
       "hora": "04",
       "temp": 26,
       "prob": 8,
-      "mm": 0,
+      "mm": 0.5,
       "mostrar_prob": false,
       "icono": "nube"
+    },
+    {
+      "hora": "05",
+      "temp": 26,
+      "prob": 20,
+      "mm": 0,
+      "mostrar_prob": true,
+      "icono": "nube"
+    },
+    {
+      "hora": "06",
+      "temp": 25,
+      "prob": 58,
+      "mm": 0,
+      "mostrar_prob": true,
+      "icono": "nube"
+    },
+    {
+      "hora": "07",
+      "temp": 24,
+      "prob": 63,
+      "mm": 2.5,
+      "mostrar_prob": true,
+      "icono": "lluvia"
     }
   ],
   "dias": [
     {
       "etiqueta": "mié 9",
       "max": 26,
-      "min": 20,
+      "min": 19,
       "prob": 90,
-      "mm": 24.4,
+      "mm": 20.7,
       "mostrar_prob": true,
       "destacar": true,
       "icono": "lluvia"
@@ -173,8 +173,8 @@
   ],
   "aviso": {
     "activo": true,
-    "alcance": "semana",
-    "texto": "Lluvia prevista el mié 9 · 90%"
+    "alcance": "horas",
+    "texto": "Lluvia prevista a partir de las 07 h · 63%"
   },
   "atribucion": "Open-Meteo (CC BY 4.0)"
 }

@@ -2,16 +2,34 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "ultimas",
-  "generado": "2026-09-08T18:59:20+02:00",
+  "generado": "2026-09-08T21:47:38+02:00",
   "titulares": [
     {
-      "titular": "El grado en Medicina plantea un ingreso con valoración competencial tras el hundimiento de España en el informe PISA",
+      "titular": "La Justicia ratifica la suspensión cautelar de la guía enfermera de indicación para infección urinaria",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-09-08T18:16:41+02:00",
-      "enlace": "https://www.redaccionmedica.com/formacion/estudiantes/20260908/el-grado-en-medicina-plantea-un-ingreso-con-valoracion-competencial-tras-el-hundimiento-de-espana-informe-pisa/350390_0.html"
+      "fecha": "2026-09-08T21:03:53+02:00",
+      "enlace": "https://www.redaccionmedica.com/profesionales/enfermeria/20260908/la-justicia-ratifica-la-suspension-cautelar-de-guia-enfermera-indicacion-para-infeccion-urinaria/350393_0.html"
+    },
+    {
+      "titular": "Novedades en guardias y jubilación, las claves del último texto del Estatuto Marco",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-08T20:36:26+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/ministerio-sanidad/20260908/novedades-en-guardias-jubilacion-las-claves-del-ultimo-texto-estatuto-marco/350392_0.html"
+    },
+    {
+      "titular": "El PP abre el curso en el Senado pidiendo la dimisión de García por el Estatuto Marco y la situación de Ceuta",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-08T19:12:13+02:00",
+      "enlace": "https://diariofarma.com/2026/09/08/el-pp-abre-el-curso-en-el-senado-pidiendo-la-dimision-de-garcia-por-el-estatuto-marco-y-la-situacion-de-ceuta"
     },
     {
       "titular": "La Consejería de Sanidad y el COFM refuerzan su alianza para potenciar las farmacias",
@@ -23,13 +41,13 @@
       "enlace": "https://diariofarma.com/2026/09/08/la-consejeria-de-sanidad-y-el-cofm-refuerzan-su-alianza-para-potenciar-las-farmacias"
     },
     {
-      "titular": "FEFAC recuerda el papel de la farmacia ante el cansancio y el estrés posvacacional",
+      "titular": "El grado en Medicina plantea un ingreso con valoración competencial tras el hundimiento de España en el informe PISA",
       "medios": [
-        "El Global"
+        "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-09-08T17:49:52+02:00",
-      "enlace": "https://elglobalfarma.com/farmacia/fefac-recuerda-el-papel-de-la-farmacia-ante-el-cansancio-y-el-estres-posvacacional/"
+      "fecha": "2026-09-08T18:16:41+02:00",
+      "enlace": "https://www.redaccionmedica.com/formacion/estudiantes/20260908/el-grado-en-medicina-plantea-un-ingreso-con-valoracion-competencial-tras-el-hundimiento-de-espana-informe-pisa/350390_0.html"
     },
     {
       "titular": "Sanidad rechaza en el Senado declarar a Ceuta como zona de difícil cobertura como pide el PP",
@@ -41,42 +59,25 @@
       "enlace": "https://diariofarma.com/2026/09/08/sanidad-rechaza-en-el-senado-declarar-a-ceuta-como-zona-de-dificil-cobertura-como-pide-el-pp"
     },
     {
-      "titular": "Hefame acoge la reunión de los consejos rectores de Ucomur y UcoeRM",
+      "titular": "Reino Unido incluye la vacuna de Hipra para la campaña contra la covid de otoño",
       "medios": [
-        "El Global"
+        "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-09-08T17:19:22+02:00",
-      "enlace": "https://elglobalfarma.com/farmacia/hefame-acoge-reunion-consejos-ucomur-ucoerm/"
-    },
-    {
-      "titular": "Icomem para Todos pide una Asamblea General \"con atribuciones reales\" y presencial",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-08T16:10:18+02:00",
-      "enlace": "https://www.redaccionmedica.com/autonomias/madrid/20260908/icomem-para-todos-pide-una-asamblea-general-con-atribuciones-reales-presencial/350387_0.html"
-    },
-    {
-      "titular": "Scheifler pide acompasar las políticas sanitaria, industrial y de innovación: «La industria farmacéutica es un pilar del Estado del Bienestar»",
-      "medios": [
-        "El Global"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-08T17:18:08+02:00",
-      "enlace": "https://elglobalfarma.com/industria/scheifler-acompasar-politicas-sanitaria-industrial-innovacion-industria-farmaceutica-estado-bienestar/"
+      "fecha": "2026-09-08T17:11:26+02:00",
+      "enlace": "https://diariofarma.com/2026/09/08/reino-unido-incluye-la-vacuna-de-hipra-para-la-campana-contra-la-covid-de-otono"
     }
   ],
   "salud": {
     "feeds_totales": 7,
-    "feeds_ok": 4,
+    "feeds_ok": 3,
     "feeds_caidos": [
+      "El Global",
       "PMFarma",
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 42,
+    "antiguedad_minima_min": 43,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,17 +85,16 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 61,
+        "antiguedad_min": 155,
         "descartados_por_gancho": 0
       },
       {
         "medio": "El Global",
         "url": "https://elglobal.es/feed/",
-        "ok": true,
-        "items": 10,
-        "error": null,
-        "antiguedad_min": 69,
-        "descartados_por_gancho": 0
+        "ok": false,
+        "items": 0,
+        "error": "URLError: <urlopen error timed out>",
+        "antiguedad_min": null
       },
       {
         "medio": "Redacción Médica",
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 42,
+        "antiguedad_min": 43,
         "descartados_por_gancho": 0
       },
       {
