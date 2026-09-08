@@ -2,62 +2,61 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-09-08T14:30:30+02:00",
+  "generado": "2026-09-08T18:59:06+02:00",
   "titulares": [
     {
-      "titular": "Última hora de la entrada de inmigrantes a Ceuta, en directo | El Consejo de Ministros desclasifica los informes sobre Ceuta: “Damos un paso más en nuestro compromiso con la transparencia”",
+      "titular": "El juez Peinado mantiene este martes la audiencia preliminar de Begoña Gómez tras un pulso con las defensas",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-08T14:23:23+02:00",
+      "fecha": "2026-09-08T18:52:49+02:00",
+      "enlace": "https://elpais.com/espana/2026-09-08/begona-gomez-insiste-en-aplazar-la-audiencia-preliminar-de-este-martes-ante-el-plan-del-juez-peinado-de-mantenerla.html"
+    },
+    {
+      "titular": "Última hora de la entrada de inmigrantes a Ceuta, en directo | El Rey se reunió con Margarita Robles y mandos militares para “examinar la situación en Ceuta desde el punto de vista de la defensa”",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-08T18:47:58+02:00",
       "enlace": "https://elpais.com/espana/2026-09-08/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html"
     },
     {
-      "titular": "El Supremo paraliza el censo de la ley de nietos",
+      "titular": "El Rey analiza con Robles y la cúpula militar la situación de Ceuta",
       "medios": [
-        "La Vanguardia",
         "ABC"
       ],
-      "consenso": 2,
-      "fecha": "2026-09-08T14:13:02+02:00",
-      "enlace": "https://www.abc.es/espana/supremo-paraliza-censo-ley-nietos-20260908134440-nt.html"
+      "consenso": 1,
+      "fecha": "2026-09-08T18:47:28+02:00",
+      "enlace": "https://www.abc.es/espana/rey-analiza-robles-cupula-militar-situacion-ceuta-20260908182324-nt.html"
     },
     {
-      "titular": "Hungría expulsa a diez empleados de la embajada rusa en Budapest",
+      "titular": "Mbappé se cuela en el duelo entre España y el PSG por el Balón de Oro",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-08T18:45:37+02:00",
+      "enlace": "https://www.abc.es/deportes/futbol/mbappe-cuela-nominados-espana-psg-balon-oro-20260908182858-nt.html"
+    },
+    {
+      "titular": "No hay sprint que se le resista a Brennan en la Vueta",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-08T14:10:02+02:00",
-      "enlace": "https://www.lavanguardia.com/internacional/20260908/11630076/hungria-expulsa-diez-empleados-embajada-rusa-budapest.html"
+      "fecha": "2026-09-08T18:28:13+02:00",
+      "enlace": "https://www.lavanguardia.com/deportes/ciclismo/20260908/11630341/hay-sprint-le-resista-brennan-vueta.html"
     },
     {
-      "titular": "La planta de San Pablo vota a favor de mantener la huelga en Airbus y decanta la balanza global: 67 votos más a favor de continuar con el paro",
+      "titular": "Detenidos otros dos menores de edad por el crimen de Manresa",
       "medios": [
-        "El País"
+        "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-08T14:09:11+02:00",
-      "enlace": "https://cincodias.elpais.com/companias/2026-09-08/la-planta-de-san-pablo-vota-a-favor-de-mantener-la-huelga-en-airbus-y-decanta-la-balanza-global-67-votos-mas-a-favor-de-continuar-con-el-paro.html"
-    },
-    {
-      "titular": "Un patrullero español vigila a un buque ruso que navegaba por el estrecho de Gibraltar",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-08T14:02:54+02:00",
-      "enlace": "https://www.abc.es/espana/patrullero-espanol-vigila-buque-ruso-navegaba-estrecho-20260908140253-nt.html"
-    },
-    {
-      "titular": "El desembarco del Príncipe George en el college más caro: solo para la élite a razón de 74.000 euros por curso",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-08T14:01:45+02:00",
-      "enlace": "https://www.abc.es/gente/desembarco-principe-george-college-caro-solo-elite-20260908140145-nt.html"
+      "fecha": "2026-09-08T18:26:15+02:00",
+      "enlace": "https://www.lavanguardia.com/local/barcelona/barcelona-plus/20260908/11630344/detenidos-otros-dos-menores-edad-crimen-manresa.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -75,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 7,
+    "antiguedad_minima_min": 6,
     "detalle": [
       {
         "medio": "RTVE",
@@ -83,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2234245,
+        "antiguedad_min": 2234514,
         "descartados_por_gancho": 0
       },
       {
@@ -100,17 +99,17 @@
         "ok": true,
         "items": 143,
         "error": null,
-        "antiguedad_min": 7,
-        "descartados_por_gancho": 8
+        "antiguedad_min": 6,
+        "descartados_por_gancho": 6
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 132,
+        "items": 131,
         "error": null,
-        "antiguedad_min": 17,
-        "descartados_por_gancho": 13
+        "antiguedad_min": 30,
+        "descartados_por_gancho": 12
       },
       {
         "medio": "ABC",
@@ -118,7 +117,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 17,
+        "antiguedad_min": 11,
         "descartados_por_gancho": 0
       }
     ]

@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-09-08T14:30:33+02:00",
+  "generado": "2026-09-08T18:59:14+02:00",
   "titulares": [
     {
-      "titular": "El Espanyol ya supera un récord del pasado curso",
+      "titular": "El Real Madrid se reconcilia con el Balón de Oro",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-08T13:53:33+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/rcd-espanyol/20260908/1004224743/espanyol-supera-record-pasado-curso.html"
+      "fecha": "2026-09-08T18:28:47+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260908/1004224891/real-madrid-reconcilia-balon-oro.html"
     },
     {
-      "titular": "Joan Garcia, entre los 10 nominados a 'Mejor Portero' en el Balón de Oro 2026",
+      "titular": "“Esto permite que no tengamos que elegir entre nuestro futuro personal y profesional”",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-08T13:50:42+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/balon-oro/20260908/1004224753/joan-garcia-10-nominados-mejor-portero-balon-oro-2026.html"
+      "fecha": "2026-09-08T18:21:30+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/femenino/20260908/1004224888/esto-permite-no-tengamos-elegir-nuestro-futuro-personal-profesional.html"
     },
     {
       "titular": "El Barça femenino roza los 30 millones de negocio y gana 8 millones tras crecer un 33%",
@@ -41,31 +41,32 @@
       "enlace": "https://www.marca.com/futbol/champions-league/2026/09/08/diez-joyas-dar-pelotazo-champions-nico-paz-manzambi-karetsas-godts-karl.html"
     },
     {
-      "titular": "Ricky Rubio: \"La temporada pasada acabé fundido física y mentalmente\"",
+      "titular": "Dani Miret y una pretemporada preocupante: “La temporada empieza con adversidades”",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/baloncesto/ricky-rubio-temporada-pasada-acabe-134068757"
+      "enlace": "https://www.sport.es/es/noticias/baloncesto/dani-miret-pretemporada-preocupante-temporada-134076379"
     },
     {
-      "titular": "El Límite Salarial del Deportivo y la explicación detrás de su gasto en fichajes: \"Es un trabajo de varias temporadas\"",
+      "titular": "El mensaje de apoyo de Carolina Yuste a su pareja Héctor Bellerín tras los insultos homófobos",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/futbol/limite-salarial-deportivo-explicacion-detras-134069094"
+      "enlace": "https://www.sport.es/es/noticias/futbol/mensaje-apoyo-carolina-yuste-pareja-134080560"
     },
     {
-      "titular": "Jon Pacheco se reestrena con la Real Sociedad en un escenario de pura supervivencia",
+      "titular": "Carlos Ortega, tras firmar con el Barça hasta 2031: \"Los entrenadores no renuevan tantos años\"",
       "medios": [
-        "Mundo Deportivo"
+        "Mundo Deportivo",
+        "Sport"
       ],
-      "consenso": 1,
-      "fecha": "2026-09-08T13:48:45+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-sociedad/20260908/1004224740/jon-pacheco-reestrena-real-sociedad-escenario-pura-supervivencia.html"
+      "consenso": 2,
+      "fecha": "2026-09-08T18:19:28+02:00",
+      "enlace": "https://www.mundodeportivo.com/balonmano/20260908/1004224838/barca.html"
     }
   ],
   "salud": {
@@ -74,7 +75,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 36,
+    "antiguedad_minima_min": 30,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +83,7 @@
         "ok": true,
         "items": 62,
         "error": null,
-        "antiguedad_min": 224,
+        "antiguedad_min": 493,
         "descartados_por_gancho": 6
       },
       {
@@ -98,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 137,
+        "items": 143,
         "error": null,
-        "antiguedad_min": 36,
-        "descartados_por_gancho": 5
+        "antiguedad_min": 30,
+        "descartados_por_gancho": 3
       },
       {
         "medio": "Sport",
