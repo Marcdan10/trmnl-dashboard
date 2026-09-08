@@ -2,7 +2,7 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "portadas",
-  "generado": "2026-09-08T04:33:23+02:00",
+  "generado": "2026-09-08T09:41:32+02:00",
   "titulares": [
     {
       "titular": "Botín: \"La ambición de Santander es llegar a 500 millones de clientes pronto\"",
@@ -14,13 +14,31 @@
       "enlace": "https://www.expansion.com/empresas/banca/2026/09/08/6a9f047c468aebfd538b458e.html"
     },
     {
-      "titular": "Mutua pone el foco en Cataluña y diez provincias para crecer",
+      "titular": "Mistral cierra una ronda de 3.000 millones para desafiar desde Europa a los gigantes de la IA",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-08T08:36:28+02:00",
+      "enlace": "https://www.expansion.com/economia-digital/companias/2026/09/08/6a9fa4cc468aeb6a198b4597.html"
+    },
+    {
+      "titular": "Los fondos de pensiones impulsan a récord la inversión en residencias",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
       "fecha": "2026-09-08T00:55:18+02:00",
-      "enlace": "https://www.expansion.com/empresas/seguros/2026/09/08/6a9f22d8468aebf8208b458f.html"
+      "enlace": "https://www.expansion.com/inmobiliario/2026/09/08/6a9f1f85e5fdea40348b45a2.html"
+    },
+    {
+      "titular": "La Primera de Expansión sobre Tesla, BYD, Santander, vivienda, chips, Anthropic y Open AI",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-08T07:26:01+02:00",
+      "enlace": "https://www.expansion.com/podcasts/la-primera-de-expansion/2026/09/08/6a9f9c3ae5fdea73098b457d.html"
     },
     {
       "titular": "¿Qué escenario se abre para el accionista de Cirsa con la fusión con Lottomatica?",
@@ -41,31 +59,13 @@
       "enlace": "https://www.expansion.com/mercados/2026/09/07/6a9ed157468aeb6a198b4578.html"
     },
     {
-      "titular": "Los valores del Ibex favoritos de los bajistas antes de las subidas de tipos",
+      "titular": "El Ibex titubea con los 20.000 puntos",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-07T07:49:32+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/09/07/6a9ab562e5fdea92568b4587.html"
-    },
-    {
-      "titular": "Oportunidades y riesgos del bono de EEUU cerca del 5%",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-08T00:56:25+02:00",
-      "enlace": "https://www.expansion.com/mercados/renta-fija/2026/09/08/6a9ef43b468aeb366b8b458e.html"
-    },
-    {
-      "titular": "Los cinco temas clave del otoño para los inversores",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-07T12:50:39+02:00",
-      "enlace": "https://www.expansion.com/podcasts/en-accion/2026/09/07/6a9e8b85e5fdea36318b4586.html"
+      "fecha": "2026-09-08T09:33:48+02:00",
+      "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/09/08/6a9fa36ae5fdea79098b458d.html"
     }
   ],
   "salud": {
@@ -78,16 +78,16 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 213,
+    "antiguedad_minima_min": 7,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 64,
+        "items": 65,
         "error": null,
-        "antiguedad_min": 213,
-        "descartados_por_gancho": 1
+        "antiguedad_min": 7,
+        "descartados_por_gancho": 0
       },
       {
         "medio": "Cinco Días",

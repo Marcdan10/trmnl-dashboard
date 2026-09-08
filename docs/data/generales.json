@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-09-08T04:33:20+02:00",
+  "generado": "2026-09-08T09:41:28+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -14,31 +14,31 @@
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
     },
     {
-      "titular": "El juez Peinado cita a Begoña Gómez este martes a una audiencia preliminar antes de abrir juicio oral",
+      "titular": "Los alumnos españoles se hunden en matemáticas y lectura en el Informe PISA y obtienen el peor resultado de su historia",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-07T18:55:23+02:00",
-      "enlace": "https://elpais.com/espana/2026-09-07/el-juez-cita-a-begona-gomez-este-martes-a-una-audiencia-preliminar-antes-de-abrir-juicio-oral.html"
+      "fecha": "2026-09-08T09:30:02+02:00",
+      "enlace": "https://elpais.com/educacion/2026-09-08/los-alumnos-espanoles-se-hunden-en-matematicas-y-lectura-en-el-informe-pisa-y-obtienen-el-peor-resultado-de-su-historia.html"
     },
     {
-      "titular": "La jueza Tardón señala Ceuta como objetivo de “guerra híbrida” entre Estados",
+      "titular": "El curso escolar arranca en Catalunya con huelga, normas de IA y la polémica del informe PISA",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-07T23:26:54+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20260907/11629460/jueza-tardon-senala-ceuta-objetivo-guerra-hibrida-estados.html"
+      "fecha": "2026-09-08T00:05:00+02:00",
+      "enlace": "https://www.lavanguardia.com/vida/20260908/11629476/curso-escolar-arranca-huelga-normas-ia-polemica-pisa.html"
     },
     {
-      "titular": "La falsa escuela de hostelería colombiana que explotaba a sus alumnos en bares de Madrid",
+      "titular": "Las comunidades que mejor y peor manejan las Matemáticas: Madrid y Castilla y León, a la cabeza resolviendo problemas",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-08T03:13:24+02:00",
-      "enlace": "https://www.abc.es/espana/madrid/falsa-escuela-hosteleria-colombiana-explotaba-alumnos-bares-20260907012853-nt.html"
+      "fecha": "2026-09-08T09:30:25+02:00",
+      "enlace": "https://www.abc.es/sociedad/comunidades-mejor-peor-manejan-matematicas-segun-pisa-20260908093025-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -50,22 +50,22 @@
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
     },
     {
-      "titular": "El expresidente de Plus Ultra reitera que pagó una comisión de un 1% al empresario amigo de Zapatero para lograr el rescate",
+      "titular": "Caídas educativas salvajes de la Comunidad Valenciana y el País Vasco en el Informe PISA en una debacle general de las autonomías",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-07T12:17:38+02:00",
-      "enlace": "https://elpais.com/espana/2026-09-07/el-expresidente-de-plus-ultra-reitera-que-pago-una-comision-de-un-1-al-empresario-amigo-de-zapatero-para-lograr-el-rescate.html"
+      "fecha": "2026-09-08T09:30:17+02:00",
+      "enlace": "https://elpais.com/educacion/2026-09-08/caidas-educativas-salvajes-de-la-comunidad-valenciana-y-el-pais-vasco-en-el-informe-pisa-en-una-debacle-general-de-las-autonomias.html"
     },
     {
-      "titular": "Sánchez alerta de la “amenaza ultra” y se erige en “vanguardia del avance ante los reaccionarios”",
+      "titular": "Huelga de profesores en Catalunya, en directo | Manifestación hoy, cortes de carreteras y última hora",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-07T13:11:48+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20260907/11629076/sanchez-alerta-amenaza-ultra-erige-vanguardia-avance-reaccionarios.html"
+      "fecha": "2026-09-08T07:00:05+02:00",
+      "enlace": "https://www.lavanguardia.com/vida/20260908/11629473/manifestacion-docentes-barcelona-marcha-catalunya-ultima-hora-hoy-en-directo.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 79,
+    "antiguedad_minima_min": 8,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2233648,
+        "antiguedad_min": 2233956,
         "descartados_por_gancho": 0
       },
       {
@@ -97,19 +97,19 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 148,
+        "items": 137,
         "error": null,
-        "antiguedad_min": 243,
-        "descartados_por_gancho": 4
+        "antiguedad_min": 8,
+        "descartados_por_gancho": 8
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 121,
+        "items": 117,
         "error": null,
-        "antiguedad_min": 243,
-        "descartados_por_gancho": 10
+        "antiguedad_min": 33,
+        "descartados_por_gancho": 13
       },
       {
         "medio": "ABC",
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 79,
+        "antiguedad_min": 11,
         "descartados_por_gancho": 0
       }
     ]

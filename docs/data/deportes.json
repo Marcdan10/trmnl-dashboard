@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-09-08T04:33:25+02:00",
+  "generado": "2026-09-08T09:41:35+02:00",
   "titulares": [
     {
-      "titular": "Cazan a Rodri en Mestalla hablando de la pobre resistencia del Valencia",
+      "titular": "El reto de retos que le queda a Lamine: sólo le falta la Champions",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-07T23:06:07+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260907/1004224522/cazan-rodri-mestalla-hablando-pobre-resistencia-valencia.html"
+      "fecha": "2026-09-08T07:00:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260908/1004224514/reto-retos-le-queda-lamine-le-falta-champions.html"
     },
     {
-      "titular": "El objetivo es recuperar piezas durante la semana",
+      "titular": "Edu Aguirre sorprende con sus predicciones para LaLiga y señala a un inesperado candidato: \"El Valencia\"",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/oviedo/objetivo-recuperar-piezas-durante-semana-134051584"
+      "enlace": "https://www.sport.es/es/noticias/laliga/edu-aguirre-sorprende-predicciones-laliga-candidato-valencia-134055121"
     },
     {
       "titular": "Bombazo: Messi se retira de la selección argentina",
@@ -32,22 +32,22 @@
       "enlace": "https://www.marca.com/futbol/2026/08/31/bombazo-messi-retira-seleccion-argentina.html"
     },
     {
-      "titular": "Fermín y Gordon, el hambre que alimenta al Barça",
+      "titular": "Nuevas directrices arbitrales en la Champions: menos VAR y sin 'ley Prestianni'",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-07T15:27:04+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260907/1004224315/fermin-gordon-hambre-alimenta-barca.html"
+      "fecha": "2026-09-08T05:00:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260908/1004224386/nuevas-directrices-arbitrales-champions-var-ley-prestianni.html"
     },
     {
-      "titular": "Los motivos y la historia del 'no regreso' de Justin Smith al Sporting: dos ofertas, una llamada con Villaseñor, las dificultades con Borja Jiménez y la amistad con Perrin",
+      "titular": "Coco Gauff derrota a Jovic y se enfrentará a Andreeva en cuartos",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/futbol/motivos-historia-regreso-justin-smith-134051586"
+      "enlace": "https://www.sport.es/es/noticias/tenis/coco-gauff-derrota-jovic-enfrentara-134051452"
     },
     {
       "titular": "Lando Norris y por qué cree que debería ganar lo que Verstappen y Hamilton",
@@ -59,13 +59,13 @@
       "enlace": "https://www.marca.com/motor/formula1/gp-italia/2026/08/31/lando-norris-cree-deberia-ganar-verstappen-hamilton.html"
     },
     {
-      "titular": "Bisiwu regresa y se apunta a la Champions",
+      "titular": "Objetivo Metropolitano: Todo sobre la fase liga de la Champions League",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-07T14:49:52+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260907/1004224314/bisiwu-regresa-apunta-champions.html"
+      "fecha": "2026-09-08T07:00:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/champions-league/20260908/1004224293/objetivo-metropolitano-sobre-fase-liga-champions-league.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 230,
+    "antiguedad_minima_min": 17,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 61,
         "error": null,
-        "antiguedad_min": 10760,
+        "antiguedad_min": 11069,
         "descartados_por_gancho": 10
       },
       {
@@ -98,19 +98,19 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 156,
+        "items": 135,
         "error": null,
-        "antiguedad_min": 230,
-        "descartados_por_gancho": 2
+        "antiguedad_min": 17,
+        "descartados_por_gancho": 6
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 49,
+        "items": 47,
         "error": null,
         "antiguedad_min": null,
-        "descartados_por_gancho": 1
+        "descartados_por_gancho": 2
       },
       {
         "medio": "NBA",

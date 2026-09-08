@@ -1,47 +1,7 @@
 {
   "ciudad": "Barcelona",
-  "generado": "2026-09-08T02:33:29",
+  "generado": "2026-09-08T07:41:43",
   "horas": [
-    {
-      "hora": "03",
-      "temp": 24,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "nube"
-    },
-    {
-      "hora": "04",
-      "temp": 24,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "nube"
-    },
-    {
-      "hora": "05",
-      "temp": 24,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "nube"
-    },
-    {
-      "hora": "06",
-      "temp": 24,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "nube"
-    },
-    {
-      "hora": "07",
-      "temp": 23,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "nube"
-    },
     {
       "hora": "08",
       "temp": 24,
@@ -72,7 +32,7 @@
       "prob": 0,
       "mm": 0,
       "mostrar_prob": false,
-      "icono": "sol"
+      "icono": "nube"
     },
     {
       "hora": "12",
@@ -80,7 +40,7 @@
       "prob": 0,
       "mm": 0,
       "mostrar_prob": false,
-      "icono": "sol"
+      "icono": "nube"
     },
     {
       "hora": "13",
@@ -88,7 +48,7 @@
       "prob": 0,
       "mm": 0,
       "mostrar_prob": false,
-      "icono": "sol"
+      "icono": "nube"
     },
     {
       "hora": "14",
@@ -96,16 +56,56 @@
       "prob": 0,
       "mm": 0,
       "mostrar_prob": false,
+      "icono": "nube"
+    },
+    {
+      "hora": "15",
+      "temp": 32,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "nube"
+    },
+    {
+      "hora": "16",
+      "temp": 31,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "nube"
+    },
+    {
+      "hora": "17",
+      "temp": 31,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
       "icono": "sol"
+    },
+    {
+      "hora": "18",
+      "temp": 31,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "nube"
+    },
+    {
+      "hora": "19",
+      "temp": 30,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "nube"
     }
   ],
   "dias": [
     {
       "etiqueta": "mié 9",
       "max": 26,
-      "min": 20,
-      "prob": 88,
-      "mm": 33.1,
+      "min": 19,
+      "prob": 90,
+      "mm": 33.2,
       "mostrar_prob": true,
       "destacar": true,
       "icono": "lluvia"
@@ -113,9 +113,9 @@
     {
       "etiqueta": "jue 10",
       "max": 26,
-      "min": 19,
-      "prob": 60,
-      "mm": 0.7,
+      "min": 18,
+      "prob": 50,
+      "mm": 0,
       "mostrar_prob": true,
       "destacar": false,
       "icono": "nube"
@@ -128,13 +128,13 @@
       "mm": 0,
       "mostrar_prob": false,
       "destacar": false,
-      "icono": "sol"
+      "icono": "nube"
     },
     {
       "etiqueta": "sáb 12",
-      "max": 28,
-      "min": 19,
-      "prob": 4,
+      "max": 27,
+      "min": 20,
+      "prob": 3,
       "mm": 0,
       "mostrar_prob": false,
       "destacar": false,
@@ -142,18 +142,8 @@
     },
     {
       "etiqueta": "dom 13",
-      "max": 29,
-      "min": 19,
-      "prob": 5,
-      "mm": 0,
-      "mostrar_prob": false,
-      "destacar": false,
-      "icono": "nube"
-    },
-    {
-      "etiqueta": "lun 14",
-      "max": 30,
-      "min": 21,
+      "max": 28,
+      "min": 18,
       "prob": 3,
       "mm": 0,
       "mostrar_prob": false,
@@ -161,9 +151,19 @@
       "icono": "nube"
     },
     {
+      "etiqueta": "lun 14",
+      "max": 29,
+      "min": 20,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
+      "destacar": false,
+      "icono": "nube"
+    },
+    {
       "etiqueta": "mar 15",
-      "max": 28,
-      "min": 19,
+      "max": 30,
+      "min": 20,
       "prob": 1,
       "mm": 0,
       "mostrar_prob": false,
@@ -174,7 +174,7 @@
   "aviso": {
     "activo": true,
     "alcance": "semana",
-    "texto": "Lluvia prevista el mié 9 · 88%"
+    "texto": "Lluvia prevista el mié 9 · 90%"
   },
   "atribucion": "Open-Meteo (CC BY 4.0)"
 }
