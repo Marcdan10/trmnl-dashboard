@@ -2,7 +2,7 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-09-08T01:53:19+02:00",
+  "generado": "2026-09-08T04:33:25+02:00",
   "titulares": [
     {
       "titular": "Cazan a Rodri en Mestalla hablando de la pobre resistencia del Valencia",
@@ -14,13 +14,13 @@
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260907/1004224522/cazan-rodri-mestalla-hablando-pobre-resistencia-valencia.html"
     },
     {
-      "titular": "Anselmi, tras el Elche 2-3 Real Sociedad: \"Ha sido una derrota de mucha crueldad\"",
+      "titular": "El objetivo es recuperar piezas durante la semana",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/elche/anselmi-elche-2-3-real-134050836"
+      "enlace": "https://www.sport.es/es/noticias/oviedo/objetivo-recuperar-piezas-durante-semana-134051584"
     },
     {
       "titular": "Bombazo: Messi se retira de la selección argentina",
@@ -41,13 +41,13 @@
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260907/1004224315/fermin-gordon-hambre-alimenta-barca.html"
     },
     {
-      "titular": "Fútbol +Arte desembarca en Barcelona con “El legado del 10” una experiencia cultural que une a Maradona, Messi y Lamine Yamal",
+      "titular": "Los motivos y la historia del 'no regreso' de Justin Smith al Sporting: dos ofertas, una llamada con Villaseñor, las dificultades con Borja Jiménez y la amistad con Perrin",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/futbol-internacional/futbol-arte-desembarca-barcelona-legado-133918635"
+      "enlace": "https://www.sport.es/es/noticias/futbol/motivos-historia-regreso-justin-smith-134051586"
     },
     {
       "titular": "Lando Norris y por qué cree que debería ganar lo que Verstappen y Hamilton",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 70,
+    "antiguedad_minima_min": 230,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 61,
         "error": null,
-        "antiguedad_min": 10600,
+        "antiguedad_min": 10760,
         "descartados_por_gancho": 10
       },
       {
@@ -100,7 +100,7 @@
         "ok": true,
         "items": 156,
         "error": null,
-        "antiguedad_min": 70,
+        "antiguedad_min": 230,
         "descartados_por_gancho": 2
       },
       {

@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-09-08T01:53:13+02:00",
+  "generado": "2026-09-08T04:33:20+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -32,13 +32,13 @@
       "enlace": "https://www.lavanguardia.com/politica/20260907/11629460/jueza-tardon-senala-ceuta-objetivo-guerra-hibrida-estados.html"
     },
     {
-      "titular": "Debate de la Región: La oposición cargará contra Ayuso por el ático y el gobierno presumirá de gestión",
+      "titular": "La falsa escuela de hostelería colombiana que explotaba a sus alumnos en bares de Madrid",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-08T01:27:32+02:00",
-      "enlace": "https://www.abc.es/espana/madrid/debate-region-oposicion-cargara-ayuso-atico-gobierno-20260907171155-nt.html"
+      "fecha": "2026-09-08T03:13:24+02:00",
+      "enlace": "https://www.abc.es/espana/madrid/falsa-escuela-hosteleria-colombiana-explotaba-alumnos-bares-20260907012853-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 25,
+    "antiguedad_minima_min": 79,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2233488,
+        "antiguedad_min": 2233648,
         "descartados_por_gancho": 0
       },
       {
@@ -99,7 +99,7 @@
         "ok": true,
         "items": 148,
         "error": null,
-        "antiguedad_min": 83,
+        "antiguedad_min": 243,
         "descartados_por_gancho": 4
       },
       {
@@ -108,17 +108,17 @@
         "ok": true,
         "items": 121,
         "error": null,
-        "antiguedad_min": 83,
+        "antiguedad_min": 243,
         "descartados_por_gancho": 10
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 24,
+        "items": 25,
         "error": null,
-        "antiguedad_min": 25,
-        "descartados_por_gancho": 1
+        "antiguedad_min": 79,
+        "descartados_por_gancho": 0
       }
     ]
   }

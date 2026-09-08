@@ -2,7 +2,7 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "portadas",
-  "generado": "2026-09-08T01:53:23+02:00",
+  "generado": "2026-09-08T04:33:29+02:00",
   "titulares": [
     {
       "titular": "Sanidad abre la puerta a retener el RD de precios si avanza la Ley de Medicamentos",
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 25,
+    "antiguedad_minima_min": 185,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 25,
+        "antiguedad_min": 185,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 509,
+        "antiguedad_min": 669,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 341,
+        "antiguedad_min": 501,
         "descartados_por_gancho": 0
       },
       {
