@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-09-09T02:24:24+02:00",
+  "generado": "2026-09-09T06:57:11+02:00",
   "titulares": [
     {
-      "titular": "2-1: El Real Madrid vence, pero no convence ante el Inter",
+      "titular": "Alcaraz - Shelton, cuartos de final del US Open, en directo",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-08T23:04:18+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260908/1004224990/real-madrid-vence-no-convence-inter.html"
+      "fecha": "2026-09-09T04:40:16+02:00",
+      "enlace": "https://www.mundodeportivo.com/tenis/open-usa/20260909/1004224460/alcaraz-shelton-directo-us-open-2026-cuartos-final-hoy-vivo.html"
     },
     {
-      "titular": "Pablo Fornals, tras el triunfo del Betis al Lille: \"En el vestuario se siente ese golpe de realidad de que podemos competir en Champions",
+      "titular": "Gabriel Jesus y Raphinha, el factor 'brasuca' en el asalto del Barça a la Champions",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/betis/pablo-fornals-triunfo-betis-lille-134088860"
+      "enlace": "https://www.sport.es/es/noticias/barca/gabriel-jesus-raphinha-factor-brasuca-134073241"
     },
     {
       "titular": "El Barça femenino roza los 30 millones de negocio y gana 8 millones tras crecer un 33%",
@@ -32,22 +32,22 @@
       "enlace": "https://www.marca.com/sport-business/2playbook/2026/09/08/barca-femenino-roza-30-millones-negocio-gana-8-millones-crecer-33.html"
     },
     {
-      "titular": "Josep Martínez entra en el club de Donnarumma, Mendy y Karius con una pifia monumental",
+      "titular": "2-1: El Real Madrid vence, pero no convence ante el Inter",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-08T21:41:29+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260908/1004224957/josep-martinez-entra-club-ulreich-donnarumma-mendy-karius-pifia-monumental.html"
+      "fecha": "2026-09-08T23:04:18+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260908/1004224990/real-madrid-vence-no-convence-inter.html"
     },
     {
-      "titular": "Marc Bartra, tras su doblete en el Lille-Betis: \"Es una de las noches más bonitas de mi carrera por hacer historia con el Betis al volver a jugar la Champions\"",
+      "titular": "El camino a por 'la sexta' arranca en casa",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/betis/marc-bartra-doblete-lille-betis-134088849"
+      "enlace": "https://www.sport.es/es/noticias/barca/camino-sexta-arranca-casa-134082865"
     },
     {
       "titular": "Diez 'joyas' que pueden dar el pelotazo en Champions",
@@ -59,14 +59,13 @@
       "enlace": "https://www.marca.com/futbol/champions-league/2026/09/08/diez-joyas-dar-pelotazo-champions-nico-paz-manzambi-karetsas-godts-karl.html"
     },
     {
-      "titular": "El 1x1 del Real Madrid ante el Inter",
+      "titular": "El Bernabéu pierde la paciencia con Vinicius: se marchó silbado por el público",
       "medios": [
-        "Mundo Deportivo",
         "Sport"
       ],
-      "consenso": 2,
-      "fecha": "2026-09-08T23:25:27+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260908/1004224973/1x1-real-madrid-inter.html"
+      "consenso": 1,
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/real-madrid/bernabeu-pierde-paciencia-vinicius-marcho-134088669"
     }
   ],
   "salud": {
@@ -75,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 70,
+    "antiguedad_minima_min": 132,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +82,7 @@
         "ok": true,
         "items": 62,
         "error": null,
-        "antiguedad_min": 938,
+        "antiguedad_min": 1211,
         "descartados_por_gancho": 6
       },
       {
@@ -99,16 +98,16 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 145,
+        "items": 143,
         "error": null,
-        "antiguedad_min": 70,
+        "antiguedad_min": 132,
         "descartados_por_gancho": 5
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 49,
+        "items": 48,
         "error": null,
         "antiguedad_min": null,
         "descartados_por_gancho": 1

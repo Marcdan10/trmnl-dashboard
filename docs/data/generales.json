@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-09-09T02:24:18+02:00",
+  "generado": "2026-09-09T06:57:05+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -14,31 +14,31 @@
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
     },
     {
-      "titular": "Los alumnos españoles se hunden en matemáticas y lectura en el Informe PISA y obtienen el peor resultado de su historia",
+      "titular": "El Gobierno se revuelve contra una nueva “provocación” del Supremo, ahora con la ‘ley de nietos’",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-08T10:41:10+02:00",
-      "enlace": "https://elpais.com/educacion/2026-09-08/los-alumnos-espanoles-se-hunden-en-matematicas-y-lectura-en-el-informe-pisa-y-obtienen-el-peor-resultado-de-su-historia.html"
+      "fecha": "2026-09-09T05:30:01+02:00",
+      "enlace": "https://elpais.com/espana/2026-09-09/el-gobierno-se-revuelve-contra-una-nueva-provocacion-del-supremo-ahora-con-la-ley-de-nietos.html"
     },
     {
-      "titular": "Batacazo de España en el informe PISA: retroceso de un curso en lectura y casi otro en matemáticas",
+      "titular": "El Gobierno desclasifica los informes de Ceuta sin ver pruebas contra Marruecos",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-08T09:30:00+02:00",
-      "enlace": "https://www.lavanguardia.com/vida/20260908/11628631/batacazo-pisa-jovenes-espanoles-pierden-curso-lectura-matematicas.html"
+      "fecha": "2026-09-09T00:05:00+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20260909/11630378/gobierno-desclasifica-informes-ceuta-ver-pruebas-marruecos.html"
     },
     {
-      "titular": "Frenazo a la manipulación del censo",
+      "titular": "Sigue en directo el partido de cuartos entre Shelton y Alcaraz",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-09T02:17:31+02:00",
-      "enlace": "https://www.abc.es/opinion/editorial-frenazo-manipulacion-censo-20260908191547-nt.html"
+      "fecha": "2026-09-09T03:03:13+02:00",
+      "enlace": "https://www.abc.es/deportes/tenis/shelton-alcaraz-directo-resultado-partido-cuartos-final-20260909030313-di.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -50,22 +50,22 @@
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
     },
     {
-      "titular": "Caídas educativas salvajes de la Comunidad Valenciana y el País Vasco en el Informe PISA en una debacle general de las autonomías",
+      "titular": "Claves de la decisión del Supremo sobre la ‘ley de nietos’ que deja a españoles sin derecho al voto",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-08T09:30:17+02:00",
-      "enlace": "https://elpais.com/educacion/2026-09-08/caidas-educativas-salvajes-de-la-comunidad-valenciana-y-el-pais-vasco-en-el-informe-pisa-en-una-debacle-general-de-las-autonomias.html"
+      "fecha": "2026-09-08T18:13:21+02:00",
+      "enlace": "https://elpais.com/espana/2026-09-08/claves-de-la-decision-del-supremo-sobre-la-ley-de-nietos-que-deja-a-espanoles-sin-derecho-al-voto.html"
     },
     {
-      "titular": "Educación atribuye los resultados PISA a la falta de comprensión lectora y rechaza vincularlos a la 'ley Celaá'",
+      "titular": "La crisis humanitaria se enquista en Ceuta a la espera de plazas de acogida",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-08T11:38:50+02:00",
-      "enlace": "https://www.lavanguardia.com/vida/20260908/11629898/educacion-atribuye-resultados-pisa-falta-comprension-lectora-rechaza-vincularlos-ley-celaa.html"
+      "fecha": "2026-09-09T06:00:00+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20260909/11630437/crisis-humanitaria-enquista-ceuta-espera-plazas-acogida.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 6,
+    "antiguedad_minima_min": 12,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2234959,
+        "antiguedad_min": 2235232,
         "descartados_por_gancho": 0
       },
       {
@@ -97,28 +97,28 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 143,
+        "items": 138,
         "error": null,
-        "antiguedad_min": 65,
-        "descartados_por_gancho": 6
+        "antiguedad_min": 12,
+        "descartados_por_gancho": 5
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 126,
+        "items": 127,
         "error": null,
-        "antiguedad_min": 100,
-        "descartados_por_gancho": 7
+        "antiguedad_min": 53,
+        "descartados_por_gancho": 10
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 23,
+        "items": 24,
         "error": null,
-        "antiguedad_min": 6,
-        "descartados_por_gancho": 2
+        "antiguedad_min": 233,
+        "descartados_por_gancho": 1
       }
     ]
   }
