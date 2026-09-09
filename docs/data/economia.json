@@ -2,8 +2,44 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-09-09T19:28:21+02:00",
+  "generado": "2026-09-09T21:58:00+02:00",
   "titulares": [
+    {
+      "titular": "Apple presenta el iPhone Duo, su primer móvil plegable",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-09T20:53:08+02:00",
+      "enlace": "https://www.expansion.com/economia-digital/companias/2026/09/09/6aa167cb468aeb28158b4578.html"
+    },
+    {
+      "titular": "Sagalés se diversifica y entra en Andalucía con la compra de un operador de bus discrecional",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-09T20:28:12+02:00",
+      "enlace": "https://www.expansion.com/catalunya/2026/09/09/6aa1a50d468aeb28158b4586.html"
+    },
+    {
+      "titular": "Los dueños de Carglass inician la ruta hacia su mega-salida a Bolsa",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-09T19:51:28+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/09/09/6aa19c92e5fdeab6038b4580.html"
+    },
+    {
+      "titular": "La OPA de Jainaga sobre Azkoyen logra la autorización del regulador alemán",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-09T19:38:17+02:00",
+      "enlace": "https://www.expansion.com/pais-vasco/2026/09/09/6aa197c7468aeba0558b45bd.html"
+    },
     {
       "titular": "Kutxabank coloca 750 millones de euros en cédulas hipotecarias a 7 años",
       "medios": [
@@ -30,42 +66,6 @@
       "consenso": 1,
       "fecha": "2026-09-09T18:00:19+02:00",
       "enlace": "https://www.expansion.com/economia/2026/09/09/6aa1420d468aeb9b468b458c.html"
-    },
-    {
-      "titular": "El Ibex se aleja de los 20.000 puntos lastrado por el petróleo, la deuda e Inditex",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-09T17:39:23+02:00",
-      "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/09/09/6aa0f479468aeba0558b4580.html"
-    },
-    {
-      "titular": "EEUU recompra hasta 6.000 millones de dólares en bonos a largo plazo",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-09T17:28:47+02:00",
-      "enlace": "https://www.expansion.com/economia/financial-times/2026/09/09/6aa17a92468aebec218b4578.html"
-    },
-    {
-      "titular": "Marqués de Murrieta entra en el gran escaparate del lujo de la Fórmula 1",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-09T17:18:46+02:00",
-      "enlace": "https://www.expansion.com/estilo-vida/rincones-gastronomicos/2026/09/09/6aa177cfe5fdea04558b4570.html"
-    },
-    {
-      "titular": "El patrimonio de los fondos de inversión sube un 0,8% en agosto hasta 482.130 millones",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-09T17:05:36+02:00",
-      "enlace": "https://www.expansion.com/mercados/fondos/2026/09/09/6aa175bd468aebd3038b458a.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 19,
+    "antiguedad_minima_min": 64,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 72,
+        "items": 73,
         "error": null,
-        "antiguedad_min": 19,
+        "antiguedad_min": 64,
         "descartados_por_gancho": 1
       },
       {

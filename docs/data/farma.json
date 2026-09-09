@@ -2,8 +2,26 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "ultimas",
-  "generado": "2026-09-09T19:28:45+02:00",
+  "generado": "2026-09-09T21:58:06+02:00",
   "titulares": [
+    {
+      "titular": "El Globalfarma se renueva y reafirma su compromiso con la actualidad farmacéutica",
+      "medios": [
+        "El Global"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-09T20:55:38+02:00",
+      "enlace": "https://elglobalfarma.com/industria/el-globalfarma-renueva-reafirma-compromiso-actualidad-farmaceutica/"
+    },
+    {
+      "titular": "Jesús Aguilar ingresa en la Academia de Ciencias Farmacéuticas de Chile",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-09T20:07:01+02:00",
+      "enlace": "https://diariofarma.com/2026/09/09/jesus-aguilar-ingresa-en-la-academia-de-ciencias-farmaceuticas-de-chile"
+    },
     {
       "titular": "FEDER traslada a Sanidad sus aportaciones para agilizar el acceso a medicamentos huérfanos",
       "medios": [
@@ -12,15 +30,6 @@
       "consenso": 1,
       "fecha": "2026-09-09T18:58:09+02:00",
       "enlace": "https://diariofarma.com/2026/09/09/feder-traslada-a-sanidad-sus-aportaciones-para-agilizar-el-acceso-a-medicamentos-huerfanos"
-    },
-    {
-      "titular": "El valor social de la innovación oncológica exige método, datos y recursos comunes",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-09T18:32:00+02:00",
-      "enlace": "https://diariofarma.com/2026/09/09/el-valor-social-de-la-innovacion-oncologica-exige-metodo-datos-y-recursos-comunes"
     },
     {
       "titular": "El CNI alertó durante la crisis de un \"colapso total\" de las estructuras asistenciales de Ceuta",
@@ -41,43 +50,33 @@
       "enlace": "https://www.redaccionmedica.com/politica/ministerio-sanidad/20260909/sanidad-garantiza-un-modelo-de-fijacion-precios-mas-transparente-que-salvaguarda-los-datos-sensibles/349672_0.html"
     },
     {
-      "titular": "Las patronales reclaman calidad y resilencia en la reforma de contratación pública europea",
+      "titular": "Los efectos de los acuerdos de Trump con 26 compañías para reducir el precio de los medicamentos en EEUU",
       "medios": [
-        "Diariofarma"
+        "El Global"
       ],
       "consenso": 1,
-      "fecha": "2026-09-09T18:25:35+02:00",
-      "enlace": "https://diariofarma.com/2026/09/09/el-generico-europeo-pide-incorporar-criterios-de-calidad-en-la-propuesta-de-la-comision-sobre-contratacion-publica"
+      "fecha": "2026-09-09T16:04:58+02:00",
+      "enlace": "https://elglobalfarma.com/industria/efectos-acuerdos-trump-26-companias-precio-medicamentos-eeuu/"
     },
     {
-      "titular": "Un estudio avala la biopsia líquida en la personalización del tratamiento del cáncer de conductos biliares",
+      "titular": "El valor social de la innovación oncológica exige método, datos y recursos comunes",
       "medios": [
         "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-09-09T17:58:21+02:00",
-      "enlace": "https://diariofarma.com/2026/09/09/un-estudio-muestra-la-utilidad-de-la-biopsia-liquida-para-personalizar-el-tratamiento-en-el-cancer-de-conductos-biliares"
-    },
-    {
-      "titular": "La Farmacia Hospitalaria y la IA optimizan el seguimiento telemático en patologías crónicas",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-09T16:24:57+02:00",
-      "enlace": "https://diariofarma.com/2026/09/09/la-farmacia-hospitalaria-y-la-ia-optimizan-el-seguimiento-telematico-en-patologias-cronicas"
+      "fecha": "2026-09-09T18:32:00+02:00",
+      "enlace": "https://diariofarma.com/2026/09/09/el-valor-social-de-la-innovacion-oncologica-exige-metodo-datos-y-recursos-comunes"
     }
   ],
   "salud": {
     "feeds_totales": 7,
-    "feeds_ok": 3,
+    "feeds_ok": 4,
     "feeds_caidos": [
-      "El Global",
       "PMFarma",
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 30,
+    "antiguedad_minima_min": 62,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -85,16 +84,17 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 30,
+        "antiguedad_min": 111,
         "descartados_por_gancho": 0
       },
       {
         "medio": "El Global",
         "url": "https://elglobal.es/feed/",
-        "ok": false,
-        "items": 0,
-        "error": "URLError: <urlopen error timed out>",
-        "antiguedad_min": null
+        "ok": true,
+        "items": 10,
+        "error": null,
+        "antiguedad_min": 62,
+        "descartados_por_gancho": 0
       },
       {
         "medio": "Redacción Médica",
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 66,
+        "antiguedad_min": 215,
         "descartados_por_gancho": 0
       },
       {

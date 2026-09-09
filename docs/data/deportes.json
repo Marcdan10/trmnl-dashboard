@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-09-09T19:28:22+02:00",
+  "generado": "2026-09-09T21:58:01+02:00",
   "titulares": [
     {
-      "titular": "Crítica unánime sobre la nueva miniserie de siete episodios que acaba de llegar a Netflix: basada en una exitosa novela",
+      "titular": "Méndez: \"Vamos a intentar que el rival se adapte a nuestro estilo\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-09T18:53:54+02:00",
-      "enlace": "https://www.mundodeportivo.com/elotromundo/television/20260909/1004225313/critica-unanime-sobre-nueva-miniserie-siete-episodios-acaba-llegar-netflix-basada-exitosa-novela-tvp-dct.html"
+      "fecha": "2026-09-09T21:24:05+02:00",
+      "enlace": "https://www.mundodeportivo.com/baloncesto/mundial-femenino/20260909/1004225380/mendez-intentar-rival-adapte-nuestro-estilo.html"
     },
     {
-      "titular": "Los datos y la guía de la Solheim Cup 2026",
+      "titular": "Rodri se disculpa: \"Ojalá el Valencia pueda volver donde se merece\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-09T18:46:34+02:00",
-      "enlace": "https://www.mundodeportivo.com/golf/20260909/1004225276/datos-solheim-cup-2026.html"
+      "fecha": "2026-09-09T21:19:54+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260909/1004225376/rodri-disculpa-ojala-valencia-pueda-volver-merece.html"
     },
     {
       "titular": "El Barça femenino roza los 30 millones de negocio y gana 8 millones tras crecer un 33%",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/champions-league/2026/09/08/diez-joyas-dar-pelotazo-champions-nico-paz-manzambi-karetsas-godts-karl.html"
     },
     {
-      "titular": "Adeyemi estrena su 'celebración prohibida' con el Barça: una voltereta reservada para los goles importantes",
+      "titular": "Colapinto corre en casa: “Madrid me recuerda a Buenos Aires”",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/barca/adeyemi-estrena-celebracion-prohibida-barca-134120697"
+      "enlace": "https://www.sport.es/es/noticias/motor/formula1/colapinto-corre-casa-madrid-recuerda-134122710"
     },
     {
-      "titular": "Tebas: \"Es un honor que Messi y Cristiano piensen en poner ahorros en el fútbol español\"",
+      "titular": "El exazulgrana Nielsen ya asusta en el Veszprém",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/laliga/tebas-honor-messi-cristiano-piensen-134117184"
+      "enlace": "https://www.sport.es/es/noticias/deportes/balonmano/exazulgrana-nielsen-asusta-veszprem-134124137"
     },
     {
-      "titular": "Tebas: \"Rodri es el jugador más en forma del mundo actualmente y estoy muy contento\"",
+      "titular": "El Comité de Disciplina confirma la roja a Sangante",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-09T18:41:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/laliga/20260909/1004225308/tebas-rodri-jugador-forma-mundo-actualmente-contento.html"
+      "fecha": "2026-09-09T21:17:28+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/sevilla/20260909/1004225378/comite-disciplina-confirma-roja-sangante.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 34,
+    "antiguedad_minima_min": 33,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 62,
         "error": null,
-        "antiguedad_min": 1962,
+        "antiguedad_min": 2112,
         "descartados_por_gancho": 6
       },
       {
@@ -98,16 +98,16 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 135,
+        "items": 134,
         "error": null,
-        "antiguedad_min": 34,
+        "antiguedad_min": 33,
         "descartados_por_gancho": 9
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 48,
+        "items": 49,
         "error": null,
         "antiguedad_min": null,
         "descartados_por_gancho": 1

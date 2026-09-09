@@ -2,62 +2,63 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-09-09T19:28:19+02:00",
+  "generado": "2026-09-09T21:57:58+02:00",
   "titulares": [
     {
-      "titular": "Barcelona - Feyenoord en directo | Adeyemi marca el segundo y amplía la ventaja",
+      "titular": "Última hora de la entrada de inmigrantes a Ceuta, en directo | El CNI admite que no anticipó la naturaleza de lo ocurrido, según un inusual comunicado de La Moncloa",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-09T19:25:05+02:00",
-      "enlace": "https://elpais.com/deportes/futbol/2026-09-09/barcelona-feyenoord-en-directo-el-partido-de-la-champions-league-en-vivo.html"
+      "fecha": "2026-09-09T21:55:00+02:00",
+      "enlace": "https://elpais.com/espana/2026-09-09/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html"
     },
     {
-      "titular": "Un proveedor web italiano es acusado de terrorismo por Estados Unidos y se ve obligado a cerrar por el bloqueo de sus cuentas",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-09T19:10:09+02:00",
-      "enlace": "https://elpais.com/internacional/2026-09-09/un-proveedor-web-italiano-es-acusado-de-terrorismo-por-estados-unidos-y-se-ve-obligado-a-cerrar-por-el-bloqueo-de-sus-cuentas.html"
-    },
-    {
-      "titular": "Isabel Coixet, la cineasta de las letras: «Mi aspiración es rescatar el alma de los personajes»",
+      "titular": "Tras el empate de Szoboszlai, gran ocasión de Baena",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-09T19:05:44+02:00",
-      "enlace": "https://www.abc.es/cultura/isabel-coixet-cineasta-letras-aspiracion-rescatar-alma-20260909190348-nt.html"
+      "fecha": "2026-09-09T21:46:30+02:00",
+      "enlace": "https://www.abc.es/deportes/atletico-madrid/liverpool-atletico-madrid-directo-resultado-ganador-goles-20260909204824-di.html"
     },
     {
-      "titular": "El CNI avisó a Delegación del Gobierno el día 29 de un llamamiento para asaltar la frontera",
+      "titular": "Así es el iPhone Duo, el primer móvil plegable de Apple",
       "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-09T19:04:09+02:00",
-      "enlace": "https://www.abc.es/espana/cni-aviso-delegacion-gobierno-dia-llamamiento-asaltar-20260909172558-nt.html"
-    },
-    {
-      "titular": "Un ingeniero de Anthropic dimite y alerta de que «la IA podría matarnos a todos al final de esta década»",
-      "medios": [
+        "El País",
         "La Vanguardia",
         "ABC"
       ],
-      "consenso": 2,
-      "fecha": "2026-09-09T18:55:23+02:00",
-      "enlace": "https://www.abc.es/tecnologia/ingeniero-anthropic-dimite-alerta-ia-matarnos-final-20260909105015-nt.html"
+      "consenso": 3,
+      "fecha": "2026-09-09T21:40:33+02:00",
+      "enlace": "https://elpais.com/tecnologia/2026-09-09/presentacion-del-nuevo-iphone-18-precio-y-caracteristicas-en-el-evento-de-apple.html"
     },
     {
-      "titular": "La Simfònica del Vallès celebra sus 40 con una treintena de conciertos en su ciclo del Palau",
+      "titular": "Marruecos engañó a la Guardia Civil con un refuerzo de mil gendarmes en la frontera que nunca llegó",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-09T21:37:06+02:00",
+      "enlace": "https://www.abc.es/espana/marruecos-engano-guardia-civil-refuerzo-1000-gendarmes-20260909191524-nt.html"
+    },
+    {
+      "titular": "Rodri pide perdón al Valencia: “No quise burlarme de nadie”",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-09T18:54:07+02:00",
-      "enlace": "https://www.lavanguardia.com/cultura/20260909/11631209/simfonica-valles-celebra-40-treintena-conciertos-ciclo-palau.html"
+      "fecha": "2026-09-09T21:18:48+02:00",
+      "enlace": "https://www.lavanguardia.com/deportes/fc-barcelona/20260909/11631320/rodri-pide-perdon-valencia-quise-burlarme-nadie.html"
+    },
+    {
+      "titular": "La Comisión Europea recomienda a los estados tasar los pisos vacíos",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-09T20:55:50+02:00",
+      "enlace": "https://www.lavanguardia.com/economia/20260909/11631312/comision-europea-recomienda-estados-tasar-pisos-vacios.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -75,7 +76,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 3,
+    "antiguedad_minima_min": 2,
     "detalle": [
       {
         "medio": "RTVE",
@@ -83,7 +84,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2235983,
+        "antiguedad_min": 2236132,
         "descartados_por_gancho": 0
       },
       {
@@ -91,25 +92,25 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 429",
+        "error": "HTTP 500",
         "antiguedad_min": null
       },
       {
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 150,
+        "items": 149,
         "error": null,
-        "antiguedad_min": 3,
+        "antiguedad_min": 2,
         "descartados_por_gancho": 2
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 122,
+        "items": 126,
         "error": null,
-        "antiguedad_min": 34,
+        "antiguedad_min": 23,
         "descartados_por_gancho": 16
       },
       {
@@ -118,7 +119,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 22,
+        "antiguedad_min": 11,
         "descartados_por_gancho": 0
       }
     ]
