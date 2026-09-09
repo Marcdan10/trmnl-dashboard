@@ -2,61 +2,62 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-09-09T15:48:40+02:00",
+  "generado": "2026-09-09T19:28:19+02:00",
   "titulares": [
     {
-      "titular": "El Betis, un dolor de muelas para la familia Mbappé",
+      "titular": "Barcelona - Feyenoord en directo | Adeyemi marca el segundo y amplía la ventaja",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-09T15:39:43+02:00",
-      "enlace": "https://elpais.com/deportes/futbol/2026-09-09/el-betis-un-dolor-de-muelas-para-la-familia-mbappe.html"
+      "fecha": "2026-09-09T19:25:05+02:00",
+      "enlace": "https://elpais.com/deportes/futbol/2026-09-09/barcelona-feyenoord-en-directo-el-partido-de-la-champions-league-en-vivo.html"
     },
     {
-      "titular": "Trump entregó 116.000 euros en efectivo a tres de sus más cercanas asesoras, entre ellas Natalie Harp",
+      "titular": "Un proveedor web italiano es acusado de terrorismo por Estados Unidos y se ve obligado a cerrar por el bloqueo de sus cuentas",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-09T15:33:55+02:00",
-      "enlace": "https://elpais.com/internacional/2026-09-09/trump-regalo-mas-de-38000-euros-en-efectivo-a-natalie-harp-y-a-dos-colaboradoras-mas.html"
+      "fecha": "2026-09-09T19:10:09+02:00",
+      "enlace": "https://elpais.com/internacional/2026-09-09/un-proveedor-web-italiano-es-acusado-de-terrorismo-por-estados-unidos-y-se-ve-obligado-a-cerrar-por-el-bloqueo-de-sus-cuentas.html"
     },
     {
-      "titular": "La realeza mundial despide a Harald V de Noruega en un histórico funeral",
+      "titular": "Isabel Coixet, la cineasta de las letras: «Mi aspiración es rescatar el alma de los personajes»",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-09T15:14:39+02:00",
-      "enlace": "https://www.abc.es/internacional/realeza-mundial-despide-harald-noruega-historico-funeral-20260909121554-nt.html"
+      "fecha": "2026-09-09T19:05:44+02:00",
+      "enlace": "https://www.abc.es/cultura/isabel-coixet-cineasta-letras-aspiracion-rescatar-alma-20260909190348-nt.html"
     },
     {
-      "titular": "Cae en Madrid el Camaleón, el famoso estafador, como falso CEO de Pemex",
+      "titular": "El CNI avisó a Delegación del Gobierno el día 29 de un llamamiento para asaltar la frontera",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-09T15:14:15+02:00",
-      "enlace": "https://www.abc.es/espana/madrid/cae-madrid-camaleon-famoso-estafador-falso-ceo-20260909105741-nt.html"
+      "fecha": "2026-09-09T19:04:09+02:00",
+      "enlace": "https://www.abc.es/espana/cni-aviso-delegacion-gobierno-dia-llamamiento-asaltar-20260909172558-nt.html"
     },
     {
-      "titular": "Pimec reclama una ley estatal para impulsar el crecimiento de las pequeñas y medianas empresas",
+      "titular": "Un ingeniero de Anthropic dimite y alerta de que «la IA podría matarnos a todos al final de esta década»",
+      "medios": [
+        "La Vanguardia",
+        "ABC"
+      ],
+      "consenso": 2,
+      "fecha": "2026-09-09T18:55:23+02:00",
+      "enlace": "https://www.abc.es/tecnologia/ingeniero-anthropic-dimite-alerta-ia-matarnos-final-20260909105015-nt.html"
+    },
+    {
+      "titular": "La Simfònica del Vallès celebra sus 40 con una treintena de conciertos en su ciclo del Palau",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-09T14:50:26+02:00",
-      "enlace": "https://www.lavanguardia.com/economia/20260909/11631038/pimec-reclama-ley-estatal-impulsar-crecimiento-pequenas-medianas-empresas.html"
-    },
-    {
-      "titular": "Muere Lucia Sisic, la actual Miss Austria, a los 22 años tras someterse a siete operaciones de corazón",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-09T14:45:47+02:00",
-      "enlace": "https://www.lavanguardia.com/gente/20260909/11631035/muere-lucia-sisic-actual-miss-austria-22-anos-someterse-siete-operaciones-corazon.html"
+      "fecha": "2026-09-09T18:54:07+02:00",
+      "enlace": "https://www.lavanguardia.com/cultura/20260909/11631209/simfonica-valles-celebra-40-treintena-conciertos-ciclo-palau.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -74,7 +75,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 8,
+    "antiguedad_minima_min": 3,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +83,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2235763,
+        "antiguedad_min": 2235983,
         "descartados_por_gancho": 0
       },
       {
@@ -90,26 +91,26 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 500",
+        "error": "HTTP 429",
         "antiguedad_min": null
       },
       {
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 146,
+        "items": 150,
         "error": null,
-        "antiguedad_min": 8,
-        "descartados_por_gancho": 3
+        "antiguedad_min": 3,
+        "descartados_por_gancho": 2
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 118,
+        "items": 122,
         "error": null,
-        "antiguedad_min": 58,
-        "descartados_por_gancho": 17
+        "antiguedad_min": 34,
+        "descartados_por_gancho": 16
       },
       {
         "medio": "ABC",
@@ -117,7 +118,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 34,
+        "antiguedad_min": 22,
         "descartados_por_gancho": 0
       }
     ]

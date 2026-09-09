@@ -2,26 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-09-09T15:48:47+02:00",
+  "generado": "2026-09-09T19:28:22+02:00",
   "titulares": [
     {
-      "titular": "Casadó saca pecho con el Dépor: \"Tenemos calidad para hacer una muy buena temporada\"",
-      "medios": [
-        "Mundo Deportivo",
-        "Sport"
-      ],
-      "consenso": 2,
-      "fecha": "2026-09-09T15:26:41+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/deportivo-coruna/20260909/1004225234/casado-saca-pecho-depor-calidad-buena-temporada.html"
-    },
-    {
-      "titular": "\"En España desincentivan buscar trabajo. Con el IMV, quedarse en casa significa cobrar 1.394€, frente a los 1.221 del SMI\"",
+      "titular": "Crítica unánime sobre la nueva miniserie de siete episodios que acaba de llegar a Netflix: basada en una exitosa novela",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-09T15:11:34+02:00",
-      "enlace": "https://www.mundodeportivo.com/actualidad/20260909/1004225211/ignacio-calzada-abogado-laboralista-espana-desincentivando-buscar-trabajo-imv-quedarse-casa-significa-cobrar-1-394-euros-frente-1-221-trabajar-smi-dnr-dct.html"
+      "fecha": "2026-09-09T18:53:54+02:00",
+      "enlace": "https://www.mundodeportivo.com/elotromundo/television/20260909/1004225313/critica-unanime-sobre-nueva-miniserie-siete-episodios-acaba-llegar-netflix-basada-exitosa-novela-tvp-dct.html"
+    },
+    {
+      "titular": "Los datos y la guía de la Solheim Cup 2026",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-09T18:46:34+02:00",
+      "enlace": "https://www.mundodeportivo.com/golf/20260909/1004225276/datos-solheim-cup-2026.html"
     },
     {
       "titular": "El Barça femenino roza los 30 millones de negocio y gana 8 millones tras crecer un 33%",
@@ -42,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/champions-league/2026/09/08/diez-joyas-dar-pelotazo-champions-nico-paz-manzambi-karetsas-godts-karl.html"
     },
     {
-      "titular": "Este es el horario del próximo partido del CD Tenerife",
+      "titular": "Adeyemi estrena su 'celebración prohibida' con el Barça: una voltereta reservada para los goles importantes",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/futbol/segunda-rfef/horario-proximo-partido-cd-tenerife-134112375"
+      "enlace": "https://www.sport.es/es/noticias/barca/adeyemi-estrena-celebracion-prohibida-barca-134120697"
     },
     {
-      "titular": "Jorge Valdano, sobre las ruedas de prensa de Mourinho: \"Tiene 40 años de experiencia y se le nota; todo lo que dice son mensajes muy bien orientados\"",
+      "titular": "Tebas: \"Es un honor que Messi y Cristiano piensen en poner ahorros en el fútbol español\"",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/real-madrid/jorge-valdano-ruedas-prensa-mourinho-134108230"
+      "enlace": "https://www.sport.es/es/noticias/laliga/tebas-honor-messi-cristiano-piensen-134117184"
     },
     {
-      "titular": "Laporta: \"Lamine es un genio y su nominación al Balón de Oro es más que merecida\"",
+      "titular": "Tebas: \"Rodri es el jugador más en forma del mundo actualmente y estoy muy contento\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-09T15:07:20+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260909/1004225198/comida-directivas.html"
+      "fecha": "2026-09-09T18:41:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/laliga/20260909/1004225308/tebas-rodri-jugador-forma-mundo-actualmente-contento.html"
     }
   ],
   "salud": {
@@ -75,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 22,
+    "antiguedad_minima_min": 34,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +82,7 @@
         "ok": true,
         "items": 62,
         "error": null,
-        "antiguedad_min": 1742,
+        "antiguedad_min": 1962,
         "descartados_por_gancho": 6
       },
       {
@@ -99,9 +98,9 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 137,
+        "items": 135,
         "error": null,
-        "antiguedad_min": 22,
+        "antiguedad_min": 34,
         "descartados_por_gancho": 9
       },
       {
@@ -111,7 +110,7 @@
         "items": 48,
         "error": null,
         "antiguedad_min": null,
-        "descartados_por_gancho": 0
+        "descartados_por_gancho": 1
       },
       {
         "medio": "NBA",
