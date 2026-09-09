@@ -2,7 +2,7 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-09-09T00:16:26+02:00",
+  "generado": "2026-09-09T02:24:24+02:00",
   "titulares": [
     {
       "titular": "2-1: El Real Madrid vence, pero no convence ante el Inter",
@@ -14,13 +14,13 @@
       "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260908/1004224990/real-madrid-vence-no-convence-inter.html"
     },
     {
-      "titular": "Valverde, sobre los pitos del Bernabéu: “Tienen toda la razón”",
+      "titular": "Pablo Fornals, tras el triunfo del Betis al Lille: \"En el vestuario se siente ese golpe de realidad de que podemos competir en Champions",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/real-madrid/valverde-pitos-bernabeu-razon-134087801"
+      "enlace": "https://www.sport.es/es/noticias/betis/pablo-fornals-triunfo-betis-lille-134088860"
     },
     {
       "titular": "El Barça femenino roza los 30 millones de negocio y gana 8 millones tras crecer un 33%",
@@ -41,13 +41,13 @@
       "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260908/1004224957/josep-martinez-entra-club-ulreich-donnarumma-mendy-karius-pifia-monumental.html"
     },
     {
-      "titular": "El presidente del Inter: \"Lautaro evitó cualquier negociación con el Barça\"",
+      "titular": "Marc Bartra, tras su doblete en el Lille-Betis: \"Es una de las noches más bonitas de mi carrera por hacer historia con el Betis al volver a jugar la Champions\"",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/barca/presidente-inter-lautaro-evito-negociacion-134087716"
+      "enlace": "https://www.sport.es/es/noticias/betis/marc-bartra-doblete-lille-betis-134088849"
     },
     {
       "titular": "Diez 'joyas' que pueden dar el pelotazo en Champions",
@@ -75,7 +75,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 21,
+    "antiguedad_minima_min": 70,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 62,
         "error": null,
-        "antiguedad_min": 810,
+        "antiguedad_min": 938,
         "descartados_por_gancho": 6
       },
       {
@@ -101,8 +101,8 @@
         "ok": true,
         "items": 145,
         "error": null,
-        "antiguedad_min": 21,
-        "descartados_por_gancho": 4
+        "antiguedad_min": 70,
+        "descartados_por_gancho": 5
       },
       {
         "medio": "Sport",

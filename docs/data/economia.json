@@ -2,26 +2,8 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "portadas",
-  "generado": "2026-09-09T00:16:25+02:00",
+  "generado": "2026-09-09T02:24:21+02:00",
   "titulares": [
-    {
-      "titular": "Santander se lanza a por las farmacias para llegar a 10.000 clientes este año",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-08T13:16:13+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/09/08/6a9fe5df468aebdc1a8b457d.html"
-    },
-    {
-      "titular": "Messi alcanza un principio de acuerdo para comprar el Eldense",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-08T21:04:37+02:00",
-      "enlace": "https://www.expansion.com/deporte-negocio/2026/09/08/6aa0575de5fdeaa54e8b4599.html"
-    },
     {
       "titular": "Franklin Templeton acuerda con Juan Pepa y Felipe Morenés la compra de Stoneshield",
       "medios": [
@@ -32,40 +14,58 @@
       "enlace": "https://www.expansion.com/empresas/2026/09/08/6a9fb581468aebeb1a8b458b.html"
     },
     {
-      "titular": "Los dos únicos valores españoles que se cuelan entre los favoritos de JPMorgan",
+      "titular": "\"La ambición de Revolut es ser el banco principal de los españoles\"",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-08T00:56:24+02:00",
-      "enlace": "https://www.expansion.com/inversion/2026/09/08/6a9edfce468aebd8428b4573.html"
+      "fecha": "2026-09-09T01:29:05+02:00",
+      "enlace": "https://www.expansion.com/empresas/banca/2026/09/09/6aa06efee5fdeaff258b458f.html"
     },
     {
-      "titular": "Apple se prepara para su evento más ambicioso en años: iPhone plegable, iPhone 18 Pro y nuevo Apple Watch",
+      "titular": "CaixaBank enfila por primera vez los 100.000 millones de valor en Bolsa",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-08T12:44:22+02:00",
-      "enlace": "https://www.expansion.com/economia-digital/companias/2026/09/08/6a9fe658468aeb772b8b4570.html"
+      "fecha": "2026-09-09T01:29:02+02:00",
+      "enlace": "https://www.expansion.com/empresas/banca/2026/09/09/6aa04128468aeb87588b457a.html"
     },
     {
-      "titular": "La rentabilidad de las Letras a 9 meses se dispara y roza el 2,8%",
+      "titular": "Bruselas declara la guerra a las corporaciones chinas",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-08T12:11:03+02:00",
-      "enlace": "https://www.expansion.com/ahorro/2026/09/08/6a9fdc01468aeb987f8b458d.html"
+      "fecha": "2026-09-09T01:29:03+02:00",
+      "enlace": "https://www.expansion.com/empresas/industria/2026/09/09/6aa07131468aeb34478b4581.html"
     },
     {
-      "titular": "Lo peor del informe PISA: España suspende en profesiones del futuro",
+      "titular": "El BCE subirá los tipos al 2,5%, pero dividido sobre futuros movimientos",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-08T15:51:20+02:00",
-      "enlace": "https://www.expansion.com/expansion-empleo/profesiones/2026/09/08/6a9fea44e5fdea67098b4579.html"
+      "fecha": "2026-09-09T01:29:04+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/09/09/6aa0746ae5fdeac86f8b457c.html"
+    },
+    {
+      "titular": "Cómo afecta a España el vuelco en la cartera del fondo de Noruega",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-08T20:37:29+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/09/08/6aa018abe5fdea79098b45af.html"
+    },
+    {
+      "titular": "SIX, dueño de BME, democratiza el acceso del minorista a los datos bursátiles",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-09T01:29:26+02:00",
+      "enlace": "https://www.expansion.com/inversion/2026/09/09/6aa03c44e5fdeab84f8b4597.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 59,
+    "antiguedad_minima_min": 52,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 78,
+        "items": 63,
         "error": null,
-        "antiguedad_min": 59,
+        "antiguedad_min": 52,
         "descartados_por_gancho": 0
       },
       {
