@@ -1,9 +1,18 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "ultimas",
-  "generado": "2026-09-09T21:58:06+02:00",
+  "modo": "portadas",
+  "generado": "2026-09-10T00:19:23+02:00",
   "titulares": [
+    {
+      "titular": "España propone al Biotech Act una ‘caja de herramientas europea’ de acceso al mercado",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-09T23:45:36+02:00",
+      "enlace": "https://diariofarma.com/2026/09/09/espana-propone-al-biotech-act-una-caja-de-herramientas-europea-de-acceso-al-mercado"
+    },
     {
       "titular": "El Globalfarma se renueva y reafirma su compromiso con la actualidad farmacéutica",
       "medios": [
@@ -12,33 +21,6 @@
       "consenso": 1,
       "fecha": "2026-09-09T20:55:38+02:00",
       "enlace": "https://elglobalfarma.com/industria/el-globalfarma-renueva-reafirma-compromiso-actualidad-farmaceutica/"
-    },
-    {
-      "titular": "Jesús Aguilar ingresa en la Academia de Ciencias Farmacéuticas de Chile",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-09T20:07:01+02:00",
-      "enlace": "https://diariofarma.com/2026/09/09/jesus-aguilar-ingresa-en-la-academia-de-ciencias-farmaceuticas-de-chile"
-    },
-    {
-      "titular": "FEDER traslada a Sanidad sus aportaciones para agilizar el acceso a medicamentos huérfanos",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-09T18:58:09+02:00",
-      "enlace": "https://diariofarma.com/2026/09/09/feder-traslada-a-sanidad-sus-aportaciones-para-agilizar-el-acceso-a-medicamentos-huerfanos"
-    },
-    {
-      "titular": "El CNI alertó durante la crisis de un \"colapso total\" de las estructuras asistenciales de Ceuta",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-09T18:22:27+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20260909/el-cni-alerto-durante-la-crisis-de-un-colapso-total-las-estructuras-asistenciales-ceuta/350463_0.html"
     },
     {
       "titular": "Sanidad garantiza un modelo de fijación de precios más transparente que salvaguarda los datos sensibles",
@@ -50,6 +32,15 @@
       "enlace": "https://www.redaccionmedica.com/politica/ministerio-sanidad/20260909/sanidad-garantiza-un-modelo-de-fijacion-precios-mas-transparente-que-salvaguarda-los-datos-sensibles/349672_0.html"
     },
     {
+      "titular": "La Ley de los Medicamentos se tramitará sin urgencia y dificulta el calendario de Sanidad",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-09T22:36:35+02:00",
+      "enlace": "https://diariofarma.com/2026/09/09/la-ley-de-los-medicamentos-se-tramitara-sin-urgencia-y-dificulta-el-calendario-de-sanidad"
+    },
+    {
       "titular": "Los efectos de los acuerdos de Trump con 26 compañías para reducir el precio de los medicamentos en EEUU",
       "medios": [
         "El Global"
@@ -59,13 +50,22 @@
       "enlace": "https://elglobalfarma.com/industria/efectos-acuerdos-trump-26-companias-precio-medicamentos-eeuu/"
     },
     {
-      "titular": "El valor social de la innovación oncológica exige método, datos y recursos comunes",
+      "titular": "El cambio de jornada del Estatuto Marco exige contratar a 4.190 sanitarios en toda España",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-09T13:16:01+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/ministerio-sanidad/20260909/el-cambio-de-jornada-del-estatuto-marco-exige-contratar-sanitarios-en-toda-espana/350421_0.html"
+    },
+    {
+      "titular": "Jesús Aguilar ingresa en la Academia de Ciencias Farmacéuticas de Chile",
       "medios": [
         "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-09-09T18:32:00+02:00",
-      "enlace": "https://diariofarma.com/2026/09/09/el-valor-social-de-la-innovacion-oncologica-exige-metodo-datos-y-recursos-comunes"
+      "fecha": "2026-09-09T20:07:01+02:00",
+      "enlace": "https://diariofarma.com/2026/09/09/jesus-aguilar-ingresa-en-la-academia-de-ciencias-farmaceuticas-de-chile"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 62,
+    "antiguedad_minima_min": 33,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 111,
+        "antiguedad_min": 33,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 62,
+        "antiguedad_min": 203,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 215,
+        "antiguedad_min": 356,
         "descartados_por_gancho": 0
       },
       {

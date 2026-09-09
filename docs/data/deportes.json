@@ -1,26 +1,26 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "ultimas",
-  "generado": "2026-09-09T21:58:01+02:00",
+  "modo": "portadas",
+  "generado": "2026-09-10T00:19:18+02:00",
   "titulares": [
     {
-      "titular": "Méndez: \"Vamos a intentar que el rival se adapte a nuestro estilo\"",
+      "titular": "\"El Barça es el mejor equipo del mundo\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-09T21:24:05+02:00",
-      "enlace": "https://www.mundodeportivo.com/baloncesto/mundial-femenino/20260909/1004225380/mendez-intentar-rival-adapte-nuestro-estilo.html"
+      "fecha": "2026-09-09T23:02:29+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260909/1004225415/barca-mejor-equipo-mundo.html"
     },
     {
-      "titular": "Rodri se disculpa: \"Ojalá el Valencia pueda volver donde se merece\"",
+      "titular": "Julián da la razón a Simeone: la Araña empieza a comprometerse",
       "medios": [
-        "Mundo Deportivo"
+        "Sport"
       ],
       "consenso": 1,
-      "fecha": "2026-09-09T21:19:54+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260909/1004225376/rodri-disculpa-ojala-valencia-pueda-volver-merece.html"
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/atletico-de-madrid/julian-da-razon-simeone-arana-134126768"
     },
     {
       "titular": "El Barça femenino roza los 30 millones de negocio y gana 8 millones tras crecer un 33%",
@@ -32,6 +32,24 @@
       "enlace": "https://www.marca.com/sport-business/2playbook/2026/09/08/barca-femenino-roza-30-millones-negocio-gana-8-millones-crecer-33.html"
     },
     {
+      "titular": "5-1: El ciclón Barça habla en el campo y presenta credenciales europeas",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-09T20:39:23+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260909/1004225325/ciclon-barca-habla-campo-presenta-credenciales-champions.html"
+    },
+    {
+      "titular": "Ferran Torres, tras su hat-trick en Champions: \"Estoy teniendo muy buenas sensaciones\"",
+      "medios": [
+        "Sport"
+      ],
+      "consenso": 1,
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/champions/ferran-torres-hat-trick-champions-134126846"
+    },
+    {
       "titular": "Diez 'joyas' que pueden dar el pelotazo en Champions",
       "medios": [
         "Marca"
@@ -41,31 +59,14 @@
       "enlace": "https://www.marca.com/futbol/champions-league/2026/09/08/diez-joyas-dar-pelotazo-champions-nico-paz-manzambi-karetsas-godts-karl.html"
     },
     {
-      "titular": "Colapinto corre en casa: “Madrid me recuerda a Buenos Aires”",
+      "titular": "El 1x1 del Barça ante el Feyenoord",
       "medios": [
+        "Mundo Deportivo",
         "Sport"
       ],
-      "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/motor/formula1/colapinto-corre-casa-madrid-recuerda-134122710"
-    },
-    {
-      "titular": "El exazulgrana Nielsen ya asusta en el Veszprém",
-      "medios": [
-        "Sport"
-      ],
-      "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/deportes/balonmano/exazulgrana-nielsen-asusta-veszprem-134124137"
-    },
-    {
-      "titular": "El Comité de Disciplina confirma la roja a Sangante",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-09T21:17:28+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/sevilla/20260909/1004225378/comite-disciplina-confirma-roja-sangante.html"
+      "consenso": 2,
+      "fecha": "2026-09-09T20:43:44+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260909/1004225311/1x1-barca-feyenoord.html"
     }
   ],
   "salud": {
@@ -74,7 +75,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 33,
+    "antiguedad_minima_min": 46,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +83,7 @@
         "ok": true,
         "items": 62,
         "error": null,
-        "antiguedad_min": 2112,
+        "antiguedad_min": 2253,
         "descartados_por_gancho": 6
       },
       {
@@ -98,19 +99,19 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 134,
+        "items": 142,
         "error": null,
-        "antiguedad_min": 33,
-        "descartados_por_gancho": 9
+        "antiguedad_min": 46,
+        "descartados_por_gancho": 6
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 49,
+        "items": 50,
         "error": null,
         "antiguedad_min": null,
-        "descartados_por_gancho": 1
+        "descartados_por_gancho": 0
       },
       {
         "medio": "NBA",

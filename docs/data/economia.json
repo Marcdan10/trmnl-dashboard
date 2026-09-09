@@ -1,8 +1,8 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "ultimas",
-  "generado": "2026-09-09T21:58:00+02:00",
+  "modo": "portadas",
+  "generado": "2026-09-10T00:19:16+02:00",
   "titulares": [
     {
       "titular": "Apple presenta el iPhone Duo, su primer móvil plegable",
@@ -14,15 +14,6 @@
       "enlace": "https://www.expansion.com/economia-digital/companias/2026/09/09/6aa167cb468aeb28158b4578.html"
     },
     {
-      "titular": "Sagalés se diversifica y entra en Andalucía con la compra de un operador de bus discrecional",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-09T20:28:12+02:00",
-      "enlace": "https://www.expansion.com/catalunya/2026/09/09/6aa1a50d468aeb28158b4586.html"
-    },
-    {
       "titular": "Los dueños de Carglass inician la ruta hacia su mega-salida a Bolsa",
       "medios": [
         "Expansión"
@@ -32,40 +23,49 @@
       "enlace": "https://www.expansion.com/empresas/2026/09/09/6aa19c92e5fdeab6038b4580.html"
     },
     {
-      "titular": "La OPA de Jainaga sobre Azkoyen logra la autorización del regulador alemán",
+      "titular": "Apple lleva los iPhone 18 Pro a nuevos máximos de precio",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-09T19:38:17+02:00",
-      "enlace": "https://www.expansion.com/pais-vasco/2026/09/09/6aa197c7468aeba0558b45bd.html"
+      "fecha": "2026-09-09T21:21:27+02:00",
+      "enlace": "https://www.expansion.com/economia-digital/companias/2026/09/09/6aa1ad35468aebf2348b458b.html"
     },
     {
-      "titular": "Kutxabank coloca 750 millones de euros en cédulas hipotecarias a 7 años",
+      "titular": "La rentabilidad de los bonos se dispara a pesar de la recompra de 6.000 millones de EEUU",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-09T19:08:53+02:00",
-      "enlace": "https://www.expansion.com/pais-vasco/2026/09/09/6aa184b4e5fdea41758b4592.html"
+      "fecha": "2026-09-09T22:18:52+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/09/09/6aa17a92468aebec218b4578.html"
     },
     {
-      "titular": "Richemont asciende al hijo del fundador del grupo y avanza en la planificación de la sucesión",
+      "titular": "Bruselas fija cinco requisitos para habilitar a los ayuntamientos a intervenir el mercado de vivienda",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-09T18:09:06+02:00",
-      "enlace": "https://www.expansion.com/economia/financial-times/2026/09/09/6aa182da468aebad548b45a6.html"
+      "fecha": "2026-09-09T12:36:28+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/09/09/6aa136a8468aebc71b8b4578.html"
     },
     {
-      "titular": "La UE creará una macroplataforma para centralizar toda la contratación pública europea",
+      "titular": "Cómo afecta a España el vuelco en la cartera del fondo de Noruega",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-09T18:00:19+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/09/09/6aa1420d468aeb9b468b458c.html"
+      "fecha": "2026-09-08T20:37:29+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/09/08/6aa018abe5fdea79098b45af.html"
+    },
+    {
+      "titular": "Inditex pisa el acelerador en el segundo trimestre y gana 1.605 millones de euros",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-09T07:45:26+02:00",
+      "enlace": "https://www.expansion.com/empresas/distribucion/2026/09/09/6aa0f272468aeb4d0a8b45a5.html"
     }
   ],
   "salud": {
@@ -78,7 +78,7 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 64,
+    "antiguedad_minima_min": 120,
     "detalle": [
       {
         "medio": "Expansión",
@@ -86,7 +86,7 @@
         "ok": true,
         "items": 73,
         "error": null,
-        "antiguedad_min": 64,
+        "antiguedad_min": 120,
         "descartados_por_gancho": 1
       },
       {
