@@ -2,16 +2,34 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "portadas",
-  "generado": "2026-09-09T06:57:09+02:00",
+  "generado": "2026-09-09T11:24:12+02:00",
   "titulares": [
     {
-      "titular": "Franklin Templeton acuerda con Juan Pepa y Felipe Morenés la compra de Stoneshield",
+      "titular": "Inditex sufre en el Ibex con las cifras de beneficios y costes",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-08T12:50:43+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/09/08/6a9fb581468aebeb1a8b458b.html"
+      "fecha": "2026-09-09T10:47:27+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/09/09/6aa0fff4468aeba0558b458a.html"
+    },
+    {
+      "titular": "Tres nuevas exigencias para las empresas en los contratos: salarios, jornada laboral y periodo de prueba",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-09T01:30:05+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/09/09/6aa04d4ae5fdead27a8b456d.html"
+    },
+    {
+      "titular": "Inditex pisa el acelerador en el segundo trimestre y gana 1.605 millones de euros",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-09T07:45:26+02:00",
+      "enlace": "https://www.expansion.com/empresas/distribucion/2026/09/09/6aa0f272468aeb4d0a8b45a5.html"
     },
     {
       "titular": "\"La ambición de Revolut es ser el banco principal de los españoles\"",
@@ -23,31 +41,13 @@
       "enlace": "https://www.expansion.com/empresas/banca/2026/09/09/6aa06efee5fdeaff258b458f.html"
     },
     {
-      "titular": "CaixaBank enfila por primera vez los 100.000 millones de valor en Bolsa",
+      "titular": "El petróleo alcanza los 100 dólares",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-09T01:29:02+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/09/09/6aa04128468aeb87588b457a.html"
-    },
-    {
-      "titular": "Bruselas declara la guerra a las corporaciones chinas",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-09T01:29:03+02:00",
-      "enlace": "https://www.expansion.com/empresas/industria/2026/09/09/6aa07131468aeb34478b4581.html"
-    },
-    {
-      "titular": "El BCE subirá los tipos al 2,5%, pero dividido sobre futuros movimientos",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-09T01:29:04+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/09/09/6aa0746ae5fdeac86f8b457c.html"
+      "fecha": "2026-09-09T11:14:32+02:00",
+      "enlace": "https://www.expansion.com/mercados/materias-primas/2026/09/09/6aa10ebf468aeb232c8b4592.html"
     },
     {
       "titular": "Cómo afecta a España el vuelco en la cartera del fondo de Noruega",
@@ -59,13 +59,13 @@
       "enlace": "https://www.expansion.com/mercados/2026/09/08/6aa018abe5fdea79098b45af.html"
     },
     {
-      "titular": "SIX, dueño de BME, democratiza el acceso del minorista a los datos bursátiles",
+      "titular": "El Ibex acusa las presiones de Inditex y del petróleo",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-09T01:29:26+02:00",
-      "enlace": "https://www.expansion.com/inversion/2026/09/09/6aa03c44e5fdeab84f8b4597.html"
+      "fecha": "2026-09-09T11:04:45+02:00",
+      "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/09/09/6aa0f479468aeba0558b4580.html"
     }
   ],
   "salud": {
@@ -78,16 +78,16 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 325,
+    "antiguedad_minima_min": 9,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 63,
+        "items": 61,
         "error": null,
-        "antiguedad_min": 325,
-        "descartados_por_gancho": 0
+        "antiguedad_min": 9,
+        "descartados_por_gancho": 2
       },
       {
         "medio": "Cinco Días",

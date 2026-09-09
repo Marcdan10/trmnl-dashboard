@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-09-09T06:57:05+02:00",
+  "generado": "2026-09-09T11:24:08+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -14,31 +14,31 @@
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
     },
     {
-      "titular": "El Gobierno se revuelve contra una nueva “provocación” del Supremo, ahora con la ‘ley de nietos’",
+      "titular": "Feijóo y Abascal acusan al presidente de no ser libre con Rabat y Sánchez replica que no tiene amo",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-09T05:30:01+02:00",
-      "enlace": "https://elpais.com/espana/2026-09-09/el-gobierno-se-revuelve-contra-una-nueva-provocacion-del-supremo-ahora-con-la-ley-de-nietos.html"
+      "fecha": "2026-09-09T10:52:31+02:00",
+      "enlace": "https://elpais.com/espana/2026-09-09/feijoo-y-abascal-acusan-al-presidente-de-no-ser-libre-con-rabat-y-sanchez-replica-que-no-tiene-amo.html"
     },
     {
-      "titular": "El Gobierno desclasifica los informes de Ceuta sin ver pruebas contra Marruecos",
+      "titular": "Primera sesión de control al Gobierno del curso",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-09T00:05:00+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20260909/11630378/gobierno-desclasifica-informes-ceuta-ver-pruebas-marruecos.html"
+      "fecha": "2026-09-09T07:00:23+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20260909/11630651/gobierno-consejo-de-ministros-informes-cni-seguridad-nacional-consejo-de-ministros-informes-ceuta-crisis-migratoria-entrevista-pedro-sanchez-ultima-hora-hoy-en-directo.html"
     },
     {
-      "titular": "Sigue en directo el partido de cuartos entre Shelton y Alcaraz",
+      "titular": "Cae en Madrid el Camaleón, el más famoso estafador, como falso CEO de Pemex",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-09T03:03:13+02:00",
-      "enlace": "https://www.abc.es/deportes/tenis/shelton-alcaraz-directo-resultado-partido-cuartos-final-20260909030313-di.html"
+      "fecha": "2026-09-09T11:19:58+02:00",
+      "enlace": "https://www.abc.es/espana/madrid/cae-madrid-camaleon-famoso-estafador-falso-ceo-20260909105741-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -50,22 +50,22 @@
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
     },
     {
-      "titular": "Claves de la decisión del Supremo sobre la ‘ley de nietos’ que deja a españoles sin derecho al voto",
+      "titular": "Se intensifican las agresiones en Ceuta: “Me gritaron invasora y tuberculosa, me pidieron el DNI”",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-08T18:13:21+02:00",
-      "enlace": "https://elpais.com/espana/2026-09-08/claves-de-la-decision-del-supremo-sobre-la-ley-de-nietos-que-deja-a-espanoles-sin-derecho-al-voto.html"
+      "fecha": "2026-09-09T05:30:01+02:00",
+      "enlace": "https://elpais.com/espana/2026-09-09/agresiones-por-confusion-en-ceuta-me-gritaron-invasora-y-tuberculosa-me-pidieron-el-dni.html"
     },
     {
-      "titular": "La crisis humanitaria se enquista en Ceuta a la espera de plazas de acogida",
+      "titular": "El Gobierno desclasifica los informes de Ceuta sin ver pruebas contra Marruecos",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-09T06:00:00+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20260909/11630437/crisis-humanitaria-enquista-ceuta-espera-plazas-acogida.html"
+      "fecha": "2026-09-09T00:05:00+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20260909/11630378/gobierno-desclasifica-informes-ceuta-ver-pruebas-marruecos.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 12,
+    "antiguedad_minima_min": 2,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2235232,
+        "antiguedad_min": 2235499,
         "descartados_por_gancho": 0
       },
       {
@@ -97,28 +97,28 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 138,
+        "items": 142,
         "error": null,
-        "antiguedad_min": 12,
+        "antiguedad_min": 2,
         "descartados_por_gancho": 5
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 127,
+        "items": 118,
         "error": null,
-        "antiguedad_min": 53,
-        "descartados_por_gancho": 10
+        "antiguedad_min": 144,
+        "descartados_por_gancho": 18
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 24,
+        "items": 25,
         "error": null,
-        "antiguedad_min": 233,
-        "descartados_por_gancho": 1
+        "antiguedad_min": 4,
+        "descartados_por_gancho": 0
       }
     ]
   }
