@@ -1,73 +1,72 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "portadas",
-  "generado": "2026-09-10T11:30:27+02:00",
+  "modo": "ultimas",
+  "generado": "2026-09-10T15:45:58+02:00",
   "titulares": [
     {
-      "titular": "Cofares eleva sus ventas un 6,5% hasta agosto y alcanza los 3.221 millones de euros",
+      "titular": "Bruselas pone la propiedad intelectual farmacéutica en el centro de su estrategia de financiación",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-10T15:31:52+02:00",
+      "enlace": "https://www.redaccionmedica.com/empresas/industria-farmaceutica/20260910/bruselas-pone-la-propiedad-intelectual-farmaceutica-en-el-centro-de-su-estrategia-financiacion/350466_0.html"
+    },
+    {
+      "titular": "La OMC brinda su apoyo a Ceuta y exige una respuesta coordinada: \"No se puede sostener con el esfuerzo de los profesionales\"",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-10T15:14:51+02:00",
+      "enlace": "https://www.redaccionmedica.com/profesionales/medicina/20260910/la-omc-brinda-su-apoyo-ceuta-exige-una-respuesta-coordinada-no-se-puede-sostener-con-el-esfuerzo-de-los-profesionales/350560_0.html"
+    },
+    {
+      "titular": "Sanidad prepara un nuevo sistema de vigilancia de salud mental que contará con un Registro Estatal del Suicidio",
       "medios": [
         "Diariofarma",
-        "El Global",
         "Redacción Médica"
       ],
-      "consenso": 3,
-      "fecha": "2026-09-10T11:20:00+02:00",
-      "enlace": "https://diariofarma.com/2026/09/10/cofares-eleva-sus-ventas-un-65-hasta-agosto-y-alcanza-los-3-221-millones-de-euros"
+      "consenso": 2,
+      "fecha": "2026-09-10T13:55:58+02:00",
+      "enlace": "https://diariofarma.com/2026/09/10/sanidad-prepara-un-nuevo-sistema-de-vigilancia-de-salud-mental-que-contara-con-un-registro-estatal-del-suicidio"
     },
     {
-      "titular": "La EFPIA pide que la Ley de Contratación Pública de la UE priorice la calidad y el valor frente al precio",
-      "medios": [
-        "El Global"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-10T10:21:13+02:00",
-      "enlace": "https://elglobalfarma.com/industria/efpia-ley-contratacion-publica-ue-priorice-calidad-valor-precio/"
-    },
-    {
-      "titular": "Víctor Sanz (Ribera Salud): \"La financiación no es el gran problema de la sanidad, es la organización\"",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-10T05:00:00+02:00",
-      "enlace": "https://www.redaccionmedica.com/empresas/sanidad-privada/20260910/victor-sanz-ribera-salud-la-financiacion-no-es-el-gran-problema-de-la-sanidad-organizacion/350027_0.html"
-    },
-    {
-      "titular": "Los sindicatos piden a FEFE retomar la negociación del convenio de oficinas",
+      "titular": "Un informe señala que las farmacias pueden aumentar un 11% sus ingresos en tres años con el apoyo del autocuidado",
       "medios": [
         "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-09-10T10:55:07+02:00",
-      "enlace": "https://diariofarma.com/2026/09/10/los-sindicatos-piden-a-fefe-retomar-la-negociacion-del-convenio-de-oficinas-de-farmacia"
+      "fecha": "2026-09-10T13:47:31+02:00",
+      "enlace": "https://diariofarma.com/2026/09/10/un-informe-senala-que-las-farmacias-pueden-aumentar-un-11-sus-ingresos-en-tres-anos-con-el-apoyo-del-autocuidado"
     },
     {
-      "titular": "Sanidad garantiza un modelo de fijación de precios más transparente que salvaguarda los datos sensibles",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-09T18:11:07+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/ministerio-sanidad/20260909/sanidad-garantiza-un-modelo-de-fijacion-precios-mas-transparente-que-salvaguarda-los-datos-sensibles/349672_0.html"
-    },
-    {
-      "titular": "El Globalfarma se renueva y reafirma su compromiso con la actualidad farmacéutica",
+      "titular": "«Los mayores vulnerables necesitan formarse y quieren hacerlo»: educación sanitaria desde la farmacia rural",
       "medios": [
         "El Global"
       ],
       "consenso": 1,
-      "fecha": "2026-09-09T20:55:38+02:00",
-      "enlace": "https://elglobalfarma.com/industria/el-globalfarma-renueva-reafirma-compromiso-actualidad-farmaceutica/"
+      "fecha": "2026-09-10T11:46:51+02:00",
+      "enlace": "https://elglobalfarma.com/farmacia/farmacia-rural-educacion-sanitaria-mayores-vulnerbles-educacion/"
     },
     {
-      "titular": "España propone al Biotech Act una ‘caja de herramientas europea’ de acceso al mercado",
+      "titular": "La AESGP celebra el dictamen del TJUE y reclama una aplicación «justa y proporcionada» del principio de quien contamina paga",
       "medios": [
-        "Diariofarma"
+        "El Global"
       ],
       "consenso": 1,
-      "fecha": "2026-09-09T23:45:36+02:00",
-      "enlace": "https://diariofarma.com/2026/09/09/espana-propone-al-biotech-act-una-caja-de-herramientas-europea-de-acceso-al-mercado"
+      "fecha": "2026-09-10T11:36:54+02:00",
+      "enlace": "https://elglobalfarma.com/suplementos/suplementos-autocuidado/aesgp-dictamen-tjue-reclama-aplicacion-justa-proporcionada-principio-quien-contamina-paga/"
+    },
+    {
+      "titular": "España resiste al avance de China en fármacos: marca superávit en las exportaciones",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-10T15:04:29+02:00",
+      "enlace": "https://www.redaccionmedica.com/empresas/industria-farmaceutica/20260910/espana-resiste-al-avance-de-china-en-farmacos-marca-superavit-las-exportaciones/350548_0.html"
     }
   ],
   "salud": {
@@ -78,7 +77,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 10,
+    "antiguedad_minima_min": 14,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -86,7 +85,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 10,
+        "antiguedad_min": 109,
         "descartados_por_gancho": 0
       },
       {
@@ -95,7 +94,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 69,
+        "antiguedad_min": 162,
         "descartados_por_gancho": 0
       },
       {
@@ -104,7 +103,7 @@
         "ok": true,
         "items": 29,
         "error": null,
-        "antiguedad_min": 27,
+        "antiguedad_min": 14,
         "descartados_por_gancho": 1
       },
       {

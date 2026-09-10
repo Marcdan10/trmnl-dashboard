@@ -1,9 +1,64 @@
 {
   "pantalla": "generales",
   "titulo": "Titulares",
-  "modo": "portadas",
-  "generado": "2026-09-10T11:30:00+02:00",
+  "modo": "ultimas",
+  "generado": "2026-09-10T15:45:45+02:00",
   "titulares": [
+    {
+      "titular": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Page advierte que la crisis de Ceuta puede convertirse en la “segunda gran mentira de la democracia”",
+      "medios": [
+        "El País",
+        "ABC"
+      ],
+      "consenso": 2,
+      "fecha": "2026-09-10T15:40:07+02:00",
+      "enlace": "https://elpais.com/espana/2026-09-10/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html"
+    },
+    {
+      "titular": "Larga vida a Carlos Sainz: quiere estar en la F1 hasta los 40 años",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-10T15:37:37+02:00",
+      "enlace": "https://www.abc.es/deportes/formula-1/larga-vida-carlos-sainz-quiere-estar-anos-20260909014412-nt.html"
+    },
+    {
+      "titular": "El icónico «vestido de la venganza» de Diana de gales sale a subasta y ya se habla de cifras astronómicas",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-10T15:31:56+02:00",
+      "enlace": "https://www.abc.es/gente/iconico-vestido-venganza-diana-gales-sale-subasta-20260910140557-nt.html"
+    },
+    {
+      "titular": "Robles defiende la unidad del Gobierno tras la guerra de versiones sobre el salto en Ceuta: “Un fenómeno de una magnitud no previsible”",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-10T15:12:05+02:00",
+      "enlace": "https://elpais.com/espana/2026-09-10/robles-defiende-la-unidad-del-gobierno-tras-la-guerra-de-versiones-sobre-el-salto-en-ceuta-un-fenomeno-de-una-magnitud-no-previsible.html"
+    },
+    {
+      "titular": "La jueza que investiga la crisis de Ceuta pide al Gobierno los documentos desclasificados",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-10T15:07:10+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20260910/11631989/jueza-investiga-crisis-ceuta-pide-gobierno-documentos-desclasificados.html"
+    },
+    {
+      "titular": "Las mejores Skechers para trabajar de pie: cinco zapatillas antideslizantes, cómodas y con amortiguación",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-10T15:00:00+02:00",
+      "enlace": "https://www.lavanguardia.com/comprar/moda-belleza/20260910/11630930/mejores-skechers-trabajar-pie-cinco-zapatillas-antideslizantes-comodas-amortiguacion-mkt-skec.html"
+    },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
       "medios": [
@@ -12,60 +67,6 @@
       "consenso": 1,
       "fecha": "2022-06-10T01:05:00+02:00",
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
-    },
-    {
-      "titular": "Anatomía de la desclasificación: los 40 documentos que revelan las claves y tensiones de la crisis migratoria en Ceuta",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-10T05:30:01+02:00",
-      "enlace": "https://elpais.com/espana/2026-09-10/anatomia-de-la-desclasificacion-los-40-documentos-que-revelan-las-claves-y-tensiones-de-la-crisis-migratoria-en-ceuta.html"
-    },
-    {
-      "titular": "El CNI avisó de “llamamientos” masivos en redes para cruzar a Ceuta, pero sin calibrar la gravedad",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-09T22:59:01+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20260909/11631340/cni-aviso-llamamientos-masivos-calibrar-gravedad.html"
-    },
-    {
-      "titular": "Marruecos ocultó al Gobierno y a la Guardia Civil la instalación de la nueva puerta en Ceuta",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-10T11:21:41+02:00",
-      "enlace": "https://www.abc.es/espana/marruecos-oculto-gobierno-guardia-civil-instalacion-nueva-20260910014522-nt.html"
-    },
-    {
-      "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
-      "medios": [
-        "RTVE"
-      ],
-      "consenso": 1,
-      "fecha": "2022-06-10T00:03:00+02:00",
-      "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
-    },
-    {
-      "titular": "El Gobierno intenta zanjar la guerra de versiones tras la desclasificación de los informes previos al salto de Ceuta",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-10T05:30:01+02:00",
-      "enlace": "https://elpais.com/espana/2026-09-09/la-moncloa-minimiza-el-aviso-del-cni-y-da-la-razon-a-marlaska-frente-a-robles-no-hubo-informe-ni-aviso-a-los-superiores.html"
-    },
-    {
-      "titular": "Sánchez asegura que nadie “ni en España ni en la UE” podía anticipar la entrada masiva en Ceuta",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-10T06:31:04+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20260910/11631544/sanchez-ceuta-entrada-masiva-informes-cni.html"
     }
   ],
   "salud": {
@@ -74,7 +75,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 8,
+    "antiguedad_minima_min": 5,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +83,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2236944,
+        "antiguedad_min": 2237200,
         "descartados_por_gancho": 0
       },
       {
@@ -97,28 +98,28 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 143,
+        "items": 146,
         "error": null,
-        "antiguedad_min": 12,
-        "descartados_por_gancho": 8
+        "antiguedad_min": 5,
+        "descartados_por_gancho": 7
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 126,
+        "items": 128,
         "error": null,
-        "antiguedad_min": 54,
-        "descartados_por_gancho": 16
+        "antiguedad_min": 38,
+        "descartados_por_gancho": 15
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 25,
+        "items": 24,
         "error": null,
         "antiguedad_min": 8,
-        "descartados_por_gancho": 0
+        "descartados_por_gancho": 1
       }
     ]
   }

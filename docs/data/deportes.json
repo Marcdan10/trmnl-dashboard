@@ -1,26 +1,26 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "portadas",
-  "generado": "2026-09-10T11:30:14+02:00",
+  "modo": "ultimas",
+  "generado": "2026-09-10T15:45:52+02:00",
   "titulares": [
     {
-      "titular": "Gabriel Jesus, instinto de 'killer'",
+      "titular": "Mbappé: \"Pienso que puede haber muchos éxitos esta temporada\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-10T06:25:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260910/1004225420/gabriel-jesus-instinto-killer.html"
+      "fecha": "2026-09-10T15:23:10+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260910/1004225639/mbappe-pienso-haber-exitos-temporada.html"
     },
     {
-      "titular": "Marruecos da por hecha la final del Mundial 2030: \"Tendremos el honor de organizarla\"",
+      "titular": "Fernando Alonso, sobre su futuro: \"No habrá noticias pronto. Es cuestión de entender la normativa del año que viene\"",
       "medios": [
-        "Sport"
+        "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/futbol-internacional/marruecos-da-hecha-final-mundial-134136425"
+      "fecha": "2026-09-10T15:15:12+02:00",
+      "enlace": "https://www.mundodeportivo.com/motor/f1/20260910/1004225622/fernando-alonso.html"
     },
     {
       "titular": "El Barça femenino roza los 30 millones de negocio y gana 8 millones tras crecer un 33%",
@@ -32,24 +32,6 @@
       "enlace": "https://www.marca.com/sport-business/2playbook/2026/09/08/barca-femenino-roza-30-millones-negocio-gana-8-millones-crecer-33.html"
     },
     {
-      "titular": "5-1: El ciclón Barça habla en el campo y presenta credenciales europeas",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-09T20:39:23+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260909/1004225325/ciclon-barca-habla-campo-presenta-credenciales-champions.html"
-    },
-    {
-      "titular": "Levante UD- FC Barcelona: horario y dónde ver en TV y online el partido de LaLiga",
-      "medios": [
-        "Sport"
-      ],
-      "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/levante/levante-ud-fc-barcelona-horario-134136923"
-    },
-    {
       "titular": "Diez 'joyas' que pueden dar el pelotazo en Champions",
       "medios": [
         "Marca"
@@ -59,13 +41,31 @@
       "enlace": "https://www.marca.com/futbol/champions-league/2026/09/08/diez-joyas-dar-pelotazo-champions-nico-paz-manzambi-karetsas-godts-karl.html"
     },
     {
-      "titular": "\"El Barça es el mejor equipo del mundo\"",
+      "titular": "Carolina Marín (33 años): \"Soy hija única, mis padres llevaban poco tiempo separados y mi padre lo estaba pasando muy mal. Cuando le hablaron de la oportunidad de que su hija se viniera al Centro de Alto Rendimiento, primero dijo que no, pero a los tres segundos me llamó para decirme que sí\"",
+      "medios": [
+        "Sport"
+      ],
+      "consenso": 1,
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/actualidad/carolina-marin-33-anos-hija-padres-separados-134141428"
+    },
+    {
+      "titular": "Adeyemi, especialista en Champions League",
+      "medios": [
+        "Sport"
+      ],
+      "consenso": 1,
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/barca/adeyemi-especialista-champions-league-134133026"
+    },
+    {
+      "titular": "Los meteorólogos coinciden y, a partir de esta fecha, podrían llegar más lluvias",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-09T23:02:29+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260909/1004225415/barca-mejor-equipo-mundo.html"
+      "fecha": "2026-09-10T15:02:15+02:00",
+      "enlace": "https://www.mundodeportivo.com/actualidad/20260910/1004225629/meteocat-meteorologos-coinciden-partir-fecha-llegar-mas-lluvias-barcelona-dct.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 42,
+    "antiguedad_minima_min": 22,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 62,
         "error": null,
-        "antiguedad_min": 2924,
+        "antiguedad_min": 3179,
         "descartados_por_gancho": 6
       },
       {
@@ -98,19 +98,19 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 135,
+        "items": 137,
         "error": null,
-        "antiguedad_min": 42,
-        "descartados_por_gancho": 5
+        "antiguedad_min": 22,
+        "descartados_por_gancho": 4
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 47,
+        "items": 49,
         "error": null,
         "antiguedad_min": null,
-        "descartados_por_gancho": 1
+        "descartados_por_gancho": 0
       },
       {
         "medio": "NBA",

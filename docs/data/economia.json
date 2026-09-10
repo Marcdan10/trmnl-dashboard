@@ -1,71 +1,71 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "portadas",
-  "generado": "2026-09-10T11:30:06+02:00",
+  "modo": "ultimas",
+  "generado": "2026-09-10T15:45:49+02:00",
   "titulares": [
     {
-      "titular": "Iberdrola se lanza a por 13.000 millones de Google en Finlandia",
+      "titular": "El Ibex, con el BCE y el petróleo de fondo, pone en duda su rebote",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-10T02:42:30+02:00",
-      "enlace": "https://www.expansion.com/empresas/energia/2026/09/10/6aa1c4e6e5fdea59598b4574.html"
+      "fecha": "2026-09-10T15:04:02+02:00",
+      "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/09/10/6aa24589e5fdeaa9398b4578.html"
     },
     {
-      "titular": "Ayuso: primera 'Tarifa Cero' para autónomos de Madrid que se acojan a la jubilación activa",
+      "titular": "Codere ingresa un 5,8% más y eleva un 14% su ebitda",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-10T02:42:31+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/09/10/6aa1a04de5fdea9e5d8b4576.html"
+      "fecha": "2026-09-10T15:03:35+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/09/10/6aa2aa09e5fdeada528b4591.html"
     },
     {
-      "titular": "BBVA busca 13.000 millones para financiar el crecimiento del crédito",
+      "titular": "El Hotel Dorchester confisca y vende un coche de la familia real de Catar por una factura impagada",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-10T02:42:32+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/09/10/6a9fe8b9e5fdea2c338b4580.html"
+      "fecha": "2026-09-10T14:48:18+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/09/10/6aa2a6bc468aeb206a8b4577.html"
     },
     {
-      "titular": "¿Pueden los altos rendimientos de los bonos hacer caer las acciones?",
+      "titular": "El BCE sube tipos al 2,5% y anticipa inflación muy alta durante \"un periodo prolongado\"",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-10T10:58:08+02:00",
-      "enlace": "https://www.expansion.com/economia/financial-times/2026/09/10/6aa2705f468aeb28158b45ad.html"
+      "fecha": "2026-09-10T14:41:17+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/09/10/6aa27ea6468aeb28158b45c2.html"
     },
     {
-      "titular": "Así afecta el descalabro del 'TACO trade' al petróleo y la Bolsa",
+      "titular": "Cuánto cuesta dejar el dinero parado en la cuenta",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-09T20:43:11+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/09/09/6aa17646468aeb420c8b4580.html"
+      "fecha": "2026-09-10T14:24:42+02:00",
+      "enlace": "https://www.expansion.com/empresas/banca/2026/09/10/6aa2a015468aeb9c1a8b4587.html"
     },
     {
-      "titular": "Los dividendos de septiembre más suculentos para el inversor",
+      "titular": "La ESMA advierte que los mercados de predicción están 'plagados de información privilegiada'",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-10T03:03:25+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/09/10/6aa1d1bb468aeb15478b4581.html"
+      "fecha": "2026-09-10T14:21:16+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/09/10/6aa2a0ab468aeb206a8b456f.html"
     },
     {
-      "titular": "El 98% de los inversores españoles invierte en ETF activos",
+      "titular": "Así afecta la subida de tipos del BCE a familias, empresas e inversores",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-10T03:03:26+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/09/10/6aa19d7ee5fdea761d8b457d.html"
+      "fecha": "2026-09-10T14:19:07+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/09/10/6aa15b41468aeb7f038b45a1.html"
     }
   ],
   "salud": {
@@ -78,16 +78,16 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 31,
+    "antiguedad_minima_min": 41,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 71,
+        "items": 80,
         "error": null,
-        "antiguedad_min": 31,
-        "descartados_por_gancho": 1
+        "antiguedad_min": 41,
+        "descartados_por_gancho": 0
       },
       {
         "medio": "Cinco Días",
