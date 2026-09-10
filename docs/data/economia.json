@@ -1,26 +1,17 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "ultimas",
-  "generado": "2026-09-10T21:55:51+02:00",
+  "modo": "portadas",
+  "generado": "2026-09-11T00:13:04+02:00",
   "titulares": [
     {
-      "titular": "Atrys Health acelera el crecimiento durante el primer semestre y se refuerza en oncología",
+      "titular": "Así afecta la subida de tipos del BCE a familias, empresas e inversores",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-10T21:12:00+02:00",
-      "enlace": "https://www.expansion.com/catalunya/2026/09/10/6aa2fd46468aeb20178b457b.html"
-    },
-    {
-      "titular": "Illa apela a la unidad ante el auge identitario y proclama: \"Nadie es más catalán que nadie\"",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-10T21:07:35+02:00",
-      "enlace": "https://www.expansion.com/catalunya/2026/09/10/6aa2febbe5fdea58688b458c.html"
+      "fecha": "2026-09-10T14:19:07+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/09/10/6aa15b41468aeb7f038b45a1.html"
     },
     {
       "titular": "Anthropic afirma que ha bloqueado varios intentos de crear armas biológicas con su IA",
@@ -32,13 +23,13 @@
       "enlace": "https://www.expansion.com/tecnologia/2026/09/10/6aa2fce5468aeb5b0f8b458f.html"
     },
     {
-      "titular": "El Gran Premio de España pone a Europa en el centro de la Fórmula 1",
+      "titular": "El BCE sube tipos al 2,5% y anticipa inflación muy alta durante \"un periodo prolongado\"",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-10T20:20:54+02:00",
-      "enlace": "https://www.expansion.com/deporte-negocio/2026/09/10/6aa2f267e5fdeae7168b457c.html"
+      "fecha": "2026-09-10T16:31:59+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/09/10/6aa27ea6468aeb28158b45c2.html"
     },
     {
       "titular": "Revuelta en Ryanair contra el incentivo de 153 millones para O'Leary",
@@ -50,22 +41,31 @@
       "enlace": "https://www.expansion.com/empresas/transporte/2026/09/10/6aa2da30468aebdc6b8b457d.html"
     },
     {
-      "titular": "Fallece el fundador de La Fageda, fabricante de lácteos y paradigma de empresa social",
+      "titular": "MyInvestor, Deutsche Bank y Trade Republic mejoran sus cuentas y depósitos",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-10T18:51:59+02:00",
-      "enlace": "https://www.expansion.com/catalunya/2026/09/10/6aa2e024e5fdeaab758b457c.html"
+      "fecha": "2026-09-10T16:18:15+02:00",
+      "enlace": "https://www.expansion.com/ahorro/2026/09/10/6aa27279468aeb921f8b4599.html"
     },
     {
-      "titular": "Casa Tarradellas bate un nuevo récord de facturación, con más de 1.580 millones",
+      "titular": "Los dividendos de septiembre más suculentos para el inversor",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-10T18:33:31+02:00",
-      "enlace": "https://www.expansion.com/catalunya/2026/09/10/6aa2db92468aebd5218b457a.html"
+      "fecha": "2026-09-10T03:03:25+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/09/10/6aa1d1bb468aeb15478b4581.html"
+    },
+    {
+      "titular": "El Gran Premio de España pone a Europa en el centro de la Fórmula 1",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-10T20:20:54+02:00",
+      "enlace": "https://www.expansion.com/deporte-negocio/2026/09/10/6aa2f267e5fdeae7168b457c.html"
     }
   ],
   "salud": {
@@ -78,7 +78,7 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 43,
+    "antiguedad_minima_min": 104,
     "detalle": [
       {
         "medio": "Expansión",
@@ -86,7 +86,7 @@
         "ok": true,
         "items": 81,
         "error": null,
-        "antiguedad_min": 43,
+        "antiguedad_min": 104,
         "descartados_por_gancho": 0
       },
       {

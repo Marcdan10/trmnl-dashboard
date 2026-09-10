@@ -1,44 +1,17 @@
 {
   "pantalla": "generales",
   "titulo": "Titulares",
-  "modo": "ultimas",
-  "generado": "2026-09-10T21:55:48+02:00",
+  "modo": "portadas",
+  "generado": "2026-09-11T00:12:59+02:00",
   "titulares": [
     {
-      "titular": "Cargas y detenciones de los Mossos para impedir el acoso de la izquierda radical contra Aliança",
+      "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
       "medios": [
-        "ABC"
+        "RTVE"
       ],
       "consenso": 1,
-      "fecha": "2026-09-10T21:38:38+02:00",
-      "enlace": "https://www.abc.es/espana/cataluna/mossos-blindan-fossar-ante-riesgo-choques-alianca-20260910170715-nt.html"
-    },
-    {
-      "titular": "Marruecos rechaza las acusaciones por el salto a Ceuta y lanza una indirecta al PP por caer en un “lodazal irracional y populista”",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-10T21:37:20+02:00",
-      "enlace": "https://elpais.com/espana/2026-09-10/marruecos-rechaza-las-acusaciones-por-el-salto-a-ceuta-y-lanza-una-indirecta-al-pp-por-caer-en-un-lodazal-irracional-y-populista.html"
-    },
-    {
-      "titular": "Marruecos irrumpe en la crisis de Ceuta: «No somos peón electoral ni chivo expiatorio de ajustes de cuentas políticos»",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-10T21:31:10+02:00",
-      "enlace": "https://www.abc.es/espana/marruecos-acusa-pp-utilizar-retorica-populista-irracional-20260910194658-nt.html"
-    },
-    {
-      "titular": "Un accidente de autobús causa varios muertos en el pueblo de los Alpes suizos de Susch",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-10T21:28:36+02:00",
-      "enlace": "https://elpais.com/internacional/2026-09-10/un-accidente-de-autobus-causa-varios-muertos-en-el-pueblo-de-los-alpes-suizos-de-susch.html"
+      "fecha": "2022-06-10T01:05:00+02:00",
+      "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
     },
     {
       "titular": "Illa reivindica la convivencia ante los problemas de gestión y el auge extremista",
@@ -50,22 +23,49 @@
       "enlace": "https://www.lavanguardia.com/politica/20260910/11632271/illa-reivindica-convivencia-problemas-gestion-auge-extremista.html"
     },
     {
-      "titular": "El grupo Vicente Torns apuesta por EE.UU. con 17 millones en una nueva fábrica",
+      "titular": "Cañas de Cervera, el dulce riojano de crema que se rellena al final",
       "medios": [
-        "La Vanguardia"
+        "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-10T19:49:37+02:00",
-      "enlace": "https://www.lavanguardia.com/dinero/20260910/11632257/grupo-vicente-torns-apuesta-ee-uu-17-millones-nueva-fabrica.html"
+      "fecha": "2026-09-10T23:37:02+02:00",
+      "enlace": "https://www.abc.es/recetasderechupete/canas-de-cervera-el-dulce-riojano-de-crema-que-se-rellena-al-final/170878/"
     },
     {
-      "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
+      "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
       "medios": [
         "RTVE"
       ],
       "consenso": 1,
-      "fecha": "2022-06-10T01:05:00+02:00",
-      "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
+      "fecha": "2022-06-10T00:03:00+02:00",
+      "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
+    },
+    {
+      "titular": "El ponente de la resolución sobre la ‘ley de nietos’ expresó a Feijóo su deseo de que el PP llegara al Gobierno",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-10T21:07:01+02:00",
+      "enlace": "https://elpais.com/espana/2026-09-10/el-ponente-de-la-resolucion-sobre-la-ley-de-nietos-expreso-a-feijoo-su-deseo-de-que-el-pp-llegara-al-gobierno.html"
+    },
+    {
+      "titular": "El juez Llarena revisará la amnistía de Puigdemont con la doctrina del Constitucional",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-10T19:23:39+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20260910/11632241/juez-llarena-revisara-amnistia-puigdemont-doctrina-constitucional.html"
+    },
+    {
+      "titular": "Mazapán de Soto, bocado riojano de almendra",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-10T23:29:23+02:00",
+      "enlace": "https://www.abc.es/recetasderechupete/mazapan-de-soto-el-bocado-riojano-de-almendra-que-queda-jugoso-por-dentro/170865/"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 17,
+    "antiguedad_minima_min": 23,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2237570,
+        "antiguedad_min": 2237707,
         "descartados_por_gancho": 0
       },
       {
@@ -97,9 +97,9 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 145,
+        "items": 146,
         "error": null,
-        "antiguedad_min": 18,
+        "antiguedad_min": 23,
         "descartados_por_gancho": 6
       },
       {
@@ -108,7 +108,7 @@
         "ok": true,
         "items": 136,
         "error": null,
-        "antiguedad_min": 55,
+        "antiguedad_min": 100,
         "descartados_por_gancho": 13
       },
       {
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 17,
+        "antiguedad_min": 35,
         "descartados_por_gancho": 0
       }
     ]

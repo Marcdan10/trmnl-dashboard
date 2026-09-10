@@ -1,27 +1,9 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "ultimas",
-  "generado": "2026-09-10T21:55:58+02:00",
+  "modo": "portadas",
+  "generado": "2026-09-11T00:13:13+02:00",
   "titulares": [
-    {
-      "titular": "Sanidad acepta alegaciones técnicas en el texto del Estatuto Marco, pero mantiene jornadas y guardias",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-10T21:40:39+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/ministerio-sanidad/20260910/sanidad-acepta-alegaciones-tecnicas-en-el-texto-del-estatuto-marco-pero-mantiene-jornadas-guardias/350475_0.html"
-    },
-    {
-      "titular": "Los sindicatos médicos confirman los peores pronósticos y ratifican su apuesta por la huelga estatal indefinida",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-10T20:42:56+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/ministerio-sanidad/20260910/los-sindicatos-medicos-confirman-los-peores-pronosticos-ratifican-su-apuesta-por-la-huelga-estatal-indefinida/350605_0.html"
-    },
     {
       "titular": "Las nuevas terapias modificadoras transforman el abordaje clínico del alzhéimer",
       "medios": [
@@ -30,15 +12,6 @@
       "consenso": 1,
       "fecha": "2026-09-10T20:01:48+02:00",
       "enlace": "https://diariofarma.com/2026/09/10/las-nuevas-terapias-modificadoras-transforman-el-abordaje-clinico-del-alzheimer"
-    },
-    {
-      "titular": "La MHRA evalúa un plan de licencias escalonadas para acelerar la IA en el NHS británico",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-10T19:23:39+02:00",
-      "enlace": "https://diariofarma.com/2026/09/10/la-mhra-evalua-un-plan-con-licencias-escalonadas-para-acelerar-la-ia-en-el-nhs-britanico"
     },
     {
       "titular": "El FIR 2027 encara sus últimos días de inscripción con 377 plazas de Farmacia",
@@ -50,6 +23,34 @@
       "enlace": "https://elglobalfarma.com/farmacia/fir-2027-ultimos-dias-inscripcion-farmacia/"
     },
     {
+      "titular": "La ingeniería médica logra la contención asistencial en Ceuta: \"Hablar de un colapso es faltar a la verdad\"",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-10T16:04:41+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20260910/la-ingenieria-medica-logra-la-contencion-asistencial-en-ceuta-hablar-de-un-colapso-es-faltar-verdad/350533_0.html"
+    },
+    {
+      "titular": "Convenio de farmacia: los sindicatos piden a FEFE retomar la negociación y avisan de nuevas movilizaciones",
+      "medios": [
+        "Diariofarma",
+        "El Global"
+      ],
+      "consenso": 2,
+      "fecha": "2026-09-10T13:03:39+02:00",
+      "enlace": "https://elglobalfarma.com/farmacia/convenio-farmacia-sindicatos-fefe-retomar-negociacion-nuevas-movilizaciones/"
+    },
+    {
+      "titular": "La soledad de Urgencias en el Hospital de Ceuta: \"Prácticamente nadie bajó a ayudar\"",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-10T16:05:49+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20260910/la-soledad-de-urgencias-en-el-hospital-ceuta-practicamente-nadie-bajo-ayudar/350500_0.html"
+    },
+    {
       "titular": "«Los mayores vulnerables necesitan formarse y quieren hacerlo»: educación sanitaria desde la farmacia rural",
       "medios": [
         "El Global"
@@ -59,13 +60,13 @@
       "enlace": "https://elglobalfarma.com/farmacia/farmacia-rural-educacion-sanitaria-mayores-vulnerbles-educacion/"
     },
     {
-      "titular": "Ni fotos, ni vídeos ni audios en clase y el hospital: la Facultad de Medicina de Sevilla veta los móviles a los estudiantes",
+      "titular": "La MHRA evalúa un plan de licencias escalonadas para acelerar la IA en el NHS británico",
       "medios": [
-        "Redacción Médica"
+        "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-09-10T19:40:13+02:00",
-      "enlace": "https://www.redaccionmedica.com/formacion/estudiantes/20260910/ni-fotos-ni-videos-audios-en-clase-el-hospital-la-facultad-de-medicina-sevilla-veta-los-moviles-estudiantes/350603_0.html"
+      "fecha": "2026-09-10T19:23:39+02:00",
+      "enlace": "https://diariofarma.com/2026/09/10/la-mhra-evalua-un-plan-con-licencias-escalonadas-para-acelerar-la-ia-en-el-nhs-britanico"
     }
   ],
   "salud": {
@@ -76,7 +77,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 15,
+    "antiguedad_minima_min": 152,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +85,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 114,
+        "antiguedad_min": 251,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +94,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 228,
+        "antiguedad_min": 365,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +103,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 15,
+        "antiguedad_min": 152,
         "descartados_por_gancho": 0
       },
       {

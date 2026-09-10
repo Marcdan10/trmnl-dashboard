@@ -1,26 +1,26 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "ultimas",
-  "generado": "2026-09-10T21:55:52+02:00",
+  "modo": "portadas",
+  "generado": "2026-09-11T00:13:06+02:00",
   "titulares": [
     {
-      "titular": "Antonio Cordón vuelve a Olympiacos de la mano de Imanol",
+      "titular": "Cesc Fàbregas: \"El Barça da miedo\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-10T21:17:35+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/internacional/20260910/1004225763/olympiacos.html"
+      "fecha": "2026-09-10T23:38:57+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/champions-league/20260910/1004225804/cesc-barca-da-miedo.html"
     },
     {
-      "titular": "¿Sigue abierto el restaurante 'Bodeguita Los 50' de 'Pesadilla en la cocina'?",
+      "titular": "¿Quién merece el Balón de Oro?",
       "medios": [
-        "Mundo Deportivo"
+        "Sport"
       ],
       "consenso": 1,
-      "fecha": "2026-09-10T21:11:56+02:00",
-      "enlace": "https://www.mundodeportivo.com/elotromundo/television/20260910/1004225760/sigue-abierto-restaurante-bodeguita-50-pesadilla-cocina-dct.html"
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/opinion/merece-balon-oro-134165685"
     },
     {
       "titular": "El Barça femenino roza los 30 millones de negocio y gana 8 millones tras crecer un 33%",
@@ -32,6 +32,24 @@
       "enlace": "https://www.marca.com/sport-business/2playbook/2026/09/08/barca-femenino-roza-30-millones-negocio-gana-8-millones-crecer-33.html"
     },
     {
+      "titular": "4-1: Primera vez inolvidable del Como de Cesc en la Champions",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-10T23:07:14+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/champions-league/20260910/1004225796/primera-vez-inolvidable-cesc-fabregas-champions.html"
+    },
+    {
+      "titular": "Del estadio a una experiencia inolvidable: esta es la propuesta de Unicaja para vivir el deporte desde dentro",
+      "medios": [
+        "Sport"
+      ],
+      "consenso": 1,
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/baloncesto/estadio-experiencia-inolvidable-propuesta-unicaja-134168254"
+    },
+    {
       "titular": "Diez 'joyas' que pueden dar el pelotazo en Champions",
       "medios": [
         "Marca"
@@ -41,31 +59,13 @@
       "enlace": "https://www.marca.com/futbol/champions-league/2026/09/08/diez-joyas-dar-pelotazo-champions-nico-paz-manzambi-karetsas-godts-karl.html"
     },
     {
-      "titular": "El CB Gran Canaria convence a cerca de 4.800 abonados: casi el 80 % repite tras el cierre de la campaña de renovaciones",
-      "medios": [
-        "Sport"
-      ],
-      "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/baloncesto/cb-gran-canaria-convence-cerca-134166578"
-    },
-    {
-      "titular": "El hermano de Jenni Hermoso asegura que a Vinicius le dijeron que ganaba el Balón de Oro 2024: \"Ya tenía sitio en la vitrina\"",
-      "medios": [
-        "Sport"
-      ],
-      "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/real-madrid/hermano-jenni-hermoso-asegura-vinicius-134166176"
-    },
-    {
-      "titular": "Vuelve a suceder 40 años después en el US Open: ¡es una auténtica guerra!",
+      "titular": "88-84: Un irregular Barça debuta con victoria y buscará ante el Manresa su pase a la final",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-10T21:10:43+02:00",
-      "enlace": "https://www.mundodeportivo.com/tenis/open-usa/20260910/1004225762/vuelve-suceder-40-anos-us-open-autentica-guerra.html"
+      "fecha": "2026-09-10T23:10:58+02:00",
+      "enlace": "https://www.mundodeportivo.com/baloncesto/20260910/1004225767/cronica-barca-andorra.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 38,
+    "antiguedad_minima_min": 34,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 62,
         "error": null,
-        "antiguedad_min": 3549,
+        "antiguedad_min": 3687,
         "descartados_por_gancho": 6
       },
       {
@@ -98,10 +98,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 143,
+        "items": 141,
         "error": null,
-        "antiguedad_min": 38,
-        "descartados_por_gancho": 5
+        "antiguedad_min": 34,
+        "descartados_por_gancho": 4
       },
       {
         "medio": "Sport",
