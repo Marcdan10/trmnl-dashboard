@@ -2,62 +2,63 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-09-10T15:45:45+02:00",
+  "generado": "2026-09-10T19:26:14+02:00",
   "titulares": [
     {
-      "titular": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Page advierte que la crisis de Ceuta puede convertirse en la “segunda gran mentira de la democracia”",
-      "medios": [
-        "El País",
-        "ABC"
-      ],
-      "consenso": 2,
-      "fecha": "2026-09-10T15:40:07+02:00",
-      "enlace": "https://elpais.com/espana/2026-09-10/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html"
-    },
-    {
-      "titular": "Larga vida a Carlos Sainz: quiere estar en la F1 hasta los 40 años",
+      "titular": "Los procesos relacionados con la pornografía infantil se disparan un 40% en dos años en España",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-10T15:37:37+02:00",
-      "enlace": "https://www.abc.es/deportes/formula-1/larga-vida-carlos-sainz-quiere-estar-anos-20260909014412-nt.html"
+      "fecha": "2026-09-10T19:14:25+02:00",
+      "enlace": "https://www.abc.es/espana/procesos-relacionados-pornografia-infantil-disparan-dos-anos-20260910134741-nt.html"
     },
     {
-      "titular": "El icónico «vestido de la venganza» de Diana de gales sale a subasta y ya se habla de cifras astronómicas",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-10T15:31:56+02:00",
-      "enlace": "https://www.abc.es/gente/iconico-vestido-venganza-diana-gales-sale-subasta-20260910140557-nt.html"
-    },
-    {
-      "titular": "Robles defiende la unidad del Gobierno tras la guerra de versiones sobre el salto en Ceuta: “Un fenómeno de una magnitud no previsible”",
+      "titular": "El fin del plan de recuperación europeo acelera un 20% la inversión autonómica en la primera mitad del año",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-10T15:12:05+02:00",
-      "enlace": "https://elpais.com/espana/2026-09-10/robles-defiende-la-unidad-del-gobierno-tras-la-guerra-de-versiones-sobre-el-salto-en-ceuta-un-fenomeno-de-una-magnitud-no-previsible.html"
+      "fecha": "2026-09-10T19:12:25+02:00",
+      "enlace": "https://elpais.com/economia/2026-09-10/el-fin-del-plan-de-recuperacion-europeo-acelera-un-20-la-inversion-autonomica-en-la-primera-mitad-del-ano.html"
     },
     {
-      "titular": "La jueza que investiga la crisis de Ceuta pide al Gobierno los documentos desclasificados",
+      "titular": "Los Mossos blindan el Fossar e impiden el choque entre Aliança y la izquierda radical",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-10T19:10:50+02:00",
+      "enlace": "https://www.abc.es/espana/cataluna/mossos-blindan-fossar-ante-riesgo-choques-alianca-20260910170715-nt.html"
+    },
+    {
+      "titular": "Un «peligro real» para las elecciones: el argumento del Supremo para suspender el censo de la 'ley de nietos'",
+      "medios": [
+        "El País",
+        "La Vanguardia",
+        "ABC"
+      ],
+      "consenso": 3,
+      "fecha": "2026-09-10T19:00:03+02:00",
+      "enlace": "https://www.abc.es/espana/supremo-suspende-censo-ley-nietos-peligro-fundado-20260910162625-nt.html"
+    },
+    {
+      "titular": "Josh Kerr: “No compito para hacer amigos”",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-10T15:07:10+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20260910/11631989/jueza-investiga-crisis-ceuta-pide-gobierno-documentos-desclasificados.html"
+      "fecha": "2026-09-10T18:49:40+02:00",
+      "enlace": "https://www.lavanguardia.com/deportes/otros-deportes/20260910/11632210/josh-kerr-compito-amigos.html"
     },
     {
-      "titular": "Las mejores Skechers para trabajar de pie: cinco zapatillas antideslizantes, cómodas y con amortiguación",
+      "titular": "Ian McEwan: “Existe un pesimismo colectivo que nos tiene paralizados”",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-10T15:00:00+02:00",
-      "enlace": "https://www.lavanguardia.com/comprar/moda-belleza/20260910/11630930/mejores-skechers-trabajar-pie-cinco-zapatillas-antideslizantes-comodas-amortiguacion-mkt-skec.html"
+      "fecha": "2026-09-10T18:47:56+02:00",
+      "enlace": "https://www.lavanguardia.com/cultura/20260910/11632217/ian-mcewan-existe-pesimismo-colectivo-paralizados-lo-que-podemos-saber.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -75,7 +76,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 5,
+    "antiguedad_minima_min": 11,
     "detalle": [
       {
         "medio": "RTVE",
@@ -83,7 +84,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2237200,
+        "antiguedad_min": 2237421,
         "descartados_por_gancho": 0
       },
       {
@@ -98,28 +99,28 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 146,
+        "items": 143,
         "error": null,
-        "antiguedad_min": 5,
-        "descartados_por_gancho": 7
+        "antiguedad_min": 13,
+        "descartados_por_gancho": 5
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 128,
+        "items": 138,
         "error": null,
-        "antiguedad_min": 38,
-        "descartados_por_gancho": 15
+        "antiguedad_min": 36,
+        "descartados_por_gancho": 13
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 24,
+        "items": 25,
         "error": null,
-        "antiguedad_min": 8,
-        "descartados_por_gancho": 1
+        "antiguedad_min": 11,
+        "descartados_por_gancho": 0
       }
     ]
   }

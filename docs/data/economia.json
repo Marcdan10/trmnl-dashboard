@@ -2,70 +2,70 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-09-10T15:45:49+02:00",
+  "generado": "2026-09-10T19:26:18+02:00",
   "titulares": [
     {
-      "titular": "El Ibex, con el BCE y el petróleo de fondo, pone en duda su rebote",
+      "titular": "Revuelta en Ryanair contra el incentivo de 153 millones para O'Leary",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-10T15:04:02+02:00",
+      "fecha": "2026-09-10T18:53:26+02:00",
+      "enlace": "https://www.expansion.com/empresas/transporte/2026/09/10/6aa2da30468aebdc6b8b457d.html"
+    },
+    {
+      "titular": "Fallece el fundador de La Fageda, fabricante de lácteos y paradigma de empresa social",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-10T18:51:59+02:00",
+      "enlace": "https://www.expansion.com/catalunya/2026/09/10/6aa2e024e5fdeaab758b457c.html"
+    },
+    {
+      "titular": "Casa Tarradellas bate un nuevo récord de facturación, con más de 1.580 millones",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-10T18:33:31+02:00",
+      "enlace": "https://www.expansion.com/catalunya/2026/09/10/6aa2db92468aebd5218b457a.html"
+    },
+    {
+      "titular": "Openbank baja las comisiones para comprar acciones y ETF",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-10T17:47:42+02:00",
+      "enlace": "https://www.expansion.com/inversion/2026/09/10/6aa2d119468aeb45668b457c.html"
+    },
+    {
+      "titular": "El Ibex encadena su cuarta sesión a la baja, presionado por el BCE, el petróleo y la deuda",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-10T17:40:59+02:00",
       "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/09/10/6aa24589e5fdeaa9398b4578.html"
     },
     {
-      "titular": "Codere ingresa un 5,8% más y eleva un 14% su ebitda",
+      "titular": "Howden apuesta por crecer en seguros para fusiones y adquisiciones con seis fichajes",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-10T15:03:35+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/09/10/6aa2aa09e5fdeada528b4591.html"
+      "fecha": "2026-09-10T17:34:12+02:00",
+      "enlace": "https://www.expansion.com/empresas/seguros/2026/09/10/6aa27d2be5fdea1f368b459c.html"
     },
     {
-      "titular": "El Hotel Dorchester confisca y vende un coche de la familia real de Catar por una factura impagada",
+      "titular": "Alquiler asequible: los anuncios de 'Casa 47' no cumplen la norma que aprobó el propio Gobierno",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-10T14:48:18+02:00",
-      "enlace": "https://www.expansion.com/economia/financial-times/2026/09/10/6aa2a6bc468aeb206a8b4577.html"
-    },
-    {
-      "titular": "El BCE sube tipos al 2,5% y anticipa inflación muy alta durante \"un periodo prolongado\"",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-10T14:41:17+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/09/10/6aa27ea6468aeb28158b45c2.html"
-    },
-    {
-      "titular": "Cuánto cuesta dejar el dinero parado en la cuenta",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-10T14:24:42+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/09/10/6aa2a015468aeb9c1a8b4587.html"
-    },
-    {
-      "titular": "La ESMA advierte que los mercados de predicción están 'plagados de información privilegiada'",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-10T14:21:16+02:00",
-      "enlace": "https://www.expansion.com/economia/financial-times/2026/09/10/6aa2a0ab468aeb206a8b456f.html"
-    },
-    {
-      "titular": "Así afecta la subida de tipos del BCE a familias, empresas e inversores",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-10T14:19:07+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/09/10/6aa15b41468aeb7f038b45a1.html"
+      "fecha": "2026-09-10T17:23:06+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/09/10/6aa2cb53e5fdeada528b459c.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 41,
+    "antiguedad_minima_min": 32,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 80,
+        "items": 82,
         "error": null,
-        "antiguedad_min": 41,
+        "antiguedad_min": 32,
         "descartados_por_gancho": 0
       },
       {

@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-09-10T15:45:52+02:00",
+  "generado": "2026-09-10T19:26:21+02:00",
   "titulares": [
     {
-      "titular": "Mbappé: \"Pienso que puede haber muchos éxitos esta temporada\"",
+      "titular": "Así están los límites salariales en el fútbol español",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-10T15:23:10+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260910/1004225639/mbappe-pienso-haber-exitos-temporada.html"
+      "fecha": "2026-09-10T18:53:06+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/20260910/1004225647/asi-limites-salariales-futbol-espanol.html"
     },
     {
-      "titular": "Fernando Alonso, sobre su futuro: \"No habrá noticias pronto. Es cuestión de entender la normativa del año que viene\"",
+      "titular": "El Barça pasa de 432 millones de límite salarial a 582",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-10T15:15:12+02:00",
-      "enlace": "https://www.mundodeportivo.com/motor/f1/20260910/1004225622/fernando-alonso.html"
+      "fecha": "2026-09-10T18:52:59+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260910/1004225711/barca-pasa-432-millones-limite-salarial-582.html"
     },
     {
       "titular": "El Barça femenino roza los 30 millones de negocio y gana 8 millones tras crecer un 33%",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/champions-league/2026/09/08/diez-joyas-dar-pelotazo-champions-nico-paz-manzambi-karetsas-godts-karl.html"
     },
     {
-      "titular": "Carolina Marín (33 años): \"Soy hija única, mis padres llevaban poco tiempo separados y mi padre lo estaba pasando muy mal. Cuando le hablaron de la oportunidad de que su hija se viniera al Centro de Alto Rendimiento, primero dijo que no, pero a los tres segundos me llamó para decirme que sí\"",
+      "titular": "Conexión Orellut: El CD Castellón defiende el liderato ante un Girona repleto de estrellas",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/actualidad/carolina-marin-33-anos-hija-padres-separados-134141428"
+      "enlace": "https://www.sport.es/es/noticias/futbol/conexion-orellut-cd-castellon-defiende-134162076"
     },
     {
-      "titular": "Adeyemi, especialista en Champions League",
+      "titular": "LaLiga vuelve a castigar al Celta con los horarios",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/barca/adeyemi-especialista-champions-league-134133026"
+      "enlace": "https://www.sport.es/es/noticias/celta-de-vigo/laliga-vuelve-castigar-celta-horarios-134161811"
     },
     {
-      "titular": "Los meteorólogos coinciden y, a partir de esta fecha, podrían llegar más lluvias",
+      "titular": "PSV - Shakhtar Donetsk, en directo",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-10T15:02:15+02:00",
-      "enlace": "https://www.mundodeportivo.com/actualidad/20260910/1004225629/meteocat-meteorologos-coinciden-partir-fecha-llegar-mas-lluvias-barcelona-dct.html"
+      "fecha": "2026-09-10T18:44:54+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/champions-league/20260910/1004223817/psv-shakhtar-donetsk-directo-champions-league.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 22,
+    "antiguedad_minima_min": 33,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 62,
         "error": null,
-        "antiguedad_min": 3179,
+        "antiguedad_min": 3400,
         "descartados_por_gancho": 6
       },
       {
@@ -98,10 +98,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 137,
+        "items": 139,
         "error": null,
-        "antiguedad_min": 22,
-        "descartados_por_gancho": 4
+        "antiguedad_min": 33,
+        "descartados_por_gancho": 6
       },
       {
         "medio": "Sport",
