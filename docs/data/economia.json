@@ -2,7 +2,7 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "portadas",
-  "generado": "2026-09-10T06:59:38+02:00",
+  "generado": "2026-09-10T11:30:06+02:00",
   "titulares": [
     {
       "titular": "Iberdrola se lanza a por 13.000 millones de Google en Finlandia",
@@ -32,6 +32,15 @@
       "enlace": "https://www.expansion.com/empresas/banca/2026/09/10/6a9fe8b9e5fdea2c338b4580.html"
     },
     {
+      "titular": "¿Pueden los altos rendimientos de los bonos hacer caer las acciones?",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-10T10:58:08+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/09/10/6aa2705f468aeb28158b45ad.html"
+    },
+    {
       "titular": "Así afecta el descalabro del 'TACO trade' al petróleo y la Bolsa",
       "medios": [
         "Expansión"
@@ -39,15 +48,6 @@
       "consenso": 1,
       "fecha": "2026-09-09T20:43:11+02:00",
       "enlace": "https://www.expansion.com/mercados/2026/09/09/6aa17646468aeb420c8b4580.html"
-    },
-    {
-      "titular": "Apple presenta el iPhone Duo, su primer móvil plegable",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-09T20:53:08+02:00",
-      "enlace": "https://www.expansion.com/economia-digital/companias/2026/09/09/6aa167cb468aeb28158b4578.html"
     },
     {
       "titular": "Los dividendos de septiembre más suculentos para el inversor",
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 236,
+    "antiguedad_minima_min": 31,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 70,
+        "items": 71,
         "error": null,
-        "antiguedad_min": 236,
+        "antiguedad_min": 31,
         "descartados_por_gancho": 1
       },
       {

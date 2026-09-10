@@ -2,25 +2,45 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "portadas",
-  "generado": "2026-09-10T06:59:48+02:00",
+  "generado": "2026-09-10T11:30:27+02:00",
   "titulares": [
     {
-      "titular": "España propone al Biotech Act una ‘caja de herramientas europea’ de acceso al mercado",
+      "titular": "Cofares eleva sus ventas un 6,5% hasta agosto y alcanza los 3.221 millones de euros",
       "medios": [
-        "Diariofarma"
+        "Diariofarma",
+        "El Global",
+        "Redacción Médica"
       ],
-      "consenso": 1,
-      "fecha": "2026-09-09T23:45:36+02:00",
-      "enlace": "https://diariofarma.com/2026/09/09/espana-propone-al-biotech-act-una-caja-de-herramientas-europea-de-acceso-al-mercado"
+      "consenso": 3,
+      "fecha": "2026-09-10T11:20:00+02:00",
+      "enlace": "https://diariofarma.com/2026/09/10/cofares-eleva-sus-ventas-un-65-hasta-agosto-y-alcanza-los-3-221-millones-de-euros"
     },
     {
-      "titular": "El Globalfarma se renueva y reafirma su compromiso con la actualidad farmacéutica",
+      "titular": "La EFPIA pide que la Ley de Contratación Pública de la UE priorice la calidad y el valor frente al precio",
       "medios": [
         "El Global"
       ],
       "consenso": 1,
-      "fecha": "2026-09-09T20:55:38+02:00",
-      "enlace": "https://elglobalfarma.com/industria/el-globalfarma-renueva-reafirma-compromiso-actualidad-farmaceutica/"
+      "fecha": "2026-09-10T10:21:13+02:00",
+      "enlace": "https://elglobalfarma.com/industria/efpia-ley-contratacion-publica-ue-priorice-calidad-valor-precio/"
+    },
+    {
+      "titular": "Víctor Sanz (Ribera Salud): \"La financiación no es el gran problema de la sanidad, es la organización\"",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-10T05:00:00+02:00",
+      "enlace": "https://www.redaccionmedica.com/empresas/sanidad-privada/20260910/victor-sanz-ribera-salud-la-financiacion-no-es-el-gran-problema-de-la-sanidad-organizacion/350027_0.html"
+    },
+    {
+      "titular": "Los sindicatos piden a FEFE retomar la negociación del convenio de oficinas",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-10T10:55:07+02:00",
+      "enlace": "https://diariofarma.com/2026/09/10/los-sindicatos-piden-a-fefe-retomar-la-negociacion-del-convenio-de-oficinas-de-farmacia"
     },
     {
       "titular": "Sanidad garantiza un modelo de fijación de precios más transparente que salvaguarda los datos sensibles",
@@ -32,40 +52,22 @@
       "enlace": "https://www.redaccionmedica.com/politica/ministerio-sanidad/20260909/sanidad-garantiza-un-modelo-de-fijacion-precios-mas-transparente-que-salvaguarda-los-datos-sensibles/349672_0.html"
     },
     {
-      "titular": "La Ley de los Medicamentos se tramitará sin urgencia y dificulta el calendario de Sanidad",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-09T22:36:35+02:00",
-      "enlace": "https://diariofarma.com/2026/09/09/la-ley-de-los-medicamentos-se-tramitara-sin-urgencia-y-dificulta-el-calendario-de-sanidad"
-    },
-    {
-      "titular": "Los efectos de los acuerdos de Trump con 26 compañías para reducir el precio de los medicamentos en EEUU",
+      "titular": "El Globalfarma se renueva y reafirma su compromiso con la actualidad farmacéutica",
       "medios": [
         "El Global"
       ],
       "consenso": 1,
-      "fecha": "2026-09-09T16:04:58+02:00",
-      "enlace": "https://elglobalfarma.com/industria/efectos-acuerdos-trump-26-companias-precio-medicamentos-eeuu/"
+      "fecha": "2026-09-09T20:55:38+02:00",
+      "enlace": "https://elglobalfarma.com/industria/el-globalfarma-renueva-reafirma-compromiso-actualidad-farmaceutica/"
     },
     {
-      "titular": "El cambio de jornada del Estatuto Marco exige contratar a 4.190 sanitarios en toda España",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-09T13:16:01+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/ministerio-sanidad/20260909/el-cambio-de-jornada-del-estatuto-marco-exige-contratar-sanitarios-en-toda-espana/350421_0.html"
-    },
-    {
-      "titular": "Jesús Aguilar ingresa en la Academia de Ciencias Farmacéuticas de Chile",
+      "titular": "España propone al Biotech Act una ‘caja de herramientas europea’ de acceso al mercado",
       "medios": [
         "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-09-09T20:07:01+02:00",
-      "enlace": "https://diariofarma.com/2026/09/09/jesus-aguilar-ingresa-en-la-academia-de-ciencias-farmaceuticas-de-chile"
+      "fecha": "2026-09-09T23:45:36+02:00",
+      "enlace": "https://diariofarma.com/2026/09/09/espana-propone-al-biotech-act-una-caja-de-herramientas-europea-de-acceso-al-mercado"
     }
   ],
   "salud": {
@@ -76,7 +78,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 434,
+    "antiguedad_minima_min": 10,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +86,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 434,
+        "antiguedad_min": 10,
         "descartados_por_gancho": 0
       },
       {
@@ -93,17 +95,17 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 604,
+        "antiguedad_min": 69,
         "descartados_por_gancho": 0
       },
       {
         "medio": "Redacción Médica",
         "url": "https://www.redaccionmedica.com/rss/",
         "ok": true,
-        "items": 30,
+        "items": 29,
         "error": null,
-        "antiguedad_min": 757,
-        "descartados_por_gancho": 0
+        "antiguedad_min": 27,
+        "descartados_por_gancho": 1
       },
       {
         "medio": "PMFarma",

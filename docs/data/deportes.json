@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-09-10T06:59:41+02:00",
+  "generado": "2026-09-10T11:30:14+02:00",
   "titulares": [
     {
-      "titular": "\"El Barça es el mejor equipo del mundo\"",
+      "titular": "Gabriel Jesus, instinto de 'killer'",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-09T23:02:29+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260909/1004225415/barca-mejor-equipo-mundo.html"
+      "fecha": "2026-09-10T06:25:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260910/1004225420/gabriel-jesus-instinto-killer.html"
     },
     {
-      "titular": "Lamine Yamal: todo preparado para darle un vuelco a la historia",
+      "titular": "Marruecos da por hecha la final del Mundial 2030: \"Tendremos el honor de organizarla\"",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/opinion/lamine-yamal-preparado-darle-vuelco-134126328"
+      "enlace": "https://www.sport.es/es/noticias/futbol-internacional/marruecos-da-hecha-final-mundial-134136425"
     },
     {
       "titular": "El Barça femenino roza los 30 millones de negocio y gana 8 millones tras crecer un 33%",
@@ -41,13 +41,13 @@
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260909/1004225325/ciclon-barca-habla-campo-presenta-credenciales-champions.html"
     },
     {
-      "titular": "Hartazgo en el Bernabéu con el Real Madrid",
+      "titular": "Levante UD- FC Barcelona: horario y dónde ver en TV y online el partido de LaLiga",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/real-madrid/hartazgo-bernabeu-real-madrid-134115057"
+      "enlace": "https://www.sport.es/es/noticias/levante/levante-ud-fc-barcelona-horario-134136923"
     },
     {
       "titular": "Diez 'joyas' que pueden dar el pelotazo en Champions",
@@ -59,14 +59,13 @@
       "enlace": "https://www.marca.com/futbol/champions-league/2026/09/08/diez-joyas-dar-pelotazo-champions-nico-paz-manzambi-karetsas-godts-karl.html"
     },
     {
-      "titular": "Flick: \"Por supuesto, Lamine Yamal merece el Balón de Oro\"",
+      "titular": "\"El Barça es el mejor equipo del mundo\"",
       "medios": [
-        "Mundo Deportivo",
-        "Sport"
+        "Mundo Deportivo"
       ],
-      "consenso": 2,
-      "fecha": "2026-09-09T21:07:48+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260909/1004225375/flick-capitan-lamine-le-ido-ese-gol.html"
+      "consenso": 1,
+      "fecha": "2026-09-09T23:02:29+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260909/1004225415/barca-mejor-equipo-mundo.html"
     }
   ],
   "salud": {
@@ -75,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 363,
+    "antiguedad_minima_min": 42,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +82,7 @@
         "ok": true,
         "items": 62,
         "error": null,
-        "antiguedad_min": 2653,
+        "antiguedad_min": 2924,
         "descartados_por_gancho": 6
       },
       {
@@ -99,19 +98,19 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 143,
+        "items": 135,
         "error": null,
-        "antiguedad_min": 363,
-        "descartados_por_gancho": 6
+        "antiguedad_min": 42,
+        "descartados_por_gancho": 5
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 48,
+        "items": 47,
         "error": null,
         "antiguedad_min": null,
-        "descartados_por_gancho": 2
+        "descartados_por_gancho": 1
       },
       {
         "medio": "NBA",
