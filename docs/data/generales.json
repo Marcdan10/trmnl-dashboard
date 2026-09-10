@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-09-10T00:19:14+02:00",
+  "generado": "2026-09-10T02:23:25+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -23,13 +23,22 @@
       "enlace": "https://elpais.com/espana/2026-09-09/el-cni-aviso-a-marruecos-delegacion-del-gobierno-y-guardia-civil-de-convocatorias-en-grupos-con-180000-personas-el-dia-antes-de-la-entrada-masiva-de-ceuta.html"
     },
     {
-      "titular": "El Atlético paga su inconsistencia también en Europa",
+      "titular": "El CNI se limitó a avisar por WhatsApp sobre llamadas en las redes a asaltar Ceuta",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-09T22:59:01+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20260909/11631340/cni-aviso-llamamientos-masivos-calibrar-gravedad.html"
+    },
+    {
+      "titular": "Rabat engañó a la Guardia Civil con un refuerzo de mil gendarmes en la frontera que nunca llegó",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-09T23:05:13+02:00",
-      "enlace": "https://www.abc.es/deportes/atletico-madrid/atletico-paga-inconsistencia-europa-20260909230119-nt.html"
+      "fecha": "2026-09-10T02:08:30+02:00",
+      "enlace": "https://www.abc.es/espana/marruecos-engano-guardia-civil-refuerzo-1000-gendarmes-20260909191524-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -41,32 +50,22 @@
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
     },
     {
-      "titular": "El CNI avisó a Delegación del Gobierno el día 29: «Hay un llamamiento para asalto por valla y mar mañana»",
-      "medios": [
-        "La Vanguardia",
-        "ABC"
-      ],
-      "consenso": 2,
-      "fecha": "2026-09-09T22:58:06+02:00",
-      "enlace": "https://www.abc.es/espana/cni-aviso-delegacion-gobierno-dia-llamamiento-asaltar-20260909172558-nt.html"
-    },
-    {
-      "titular": "Última hora de la entrada de inmigrantes a Ceuta - 9 de septiembre de 2026 | El CNI admite que no anticipó la naturaleza de lo ocurrido, según un inusual comunicado de La Moncloa",
+      "titular": "El Ejército avisó el día 30 de una entrada “masiva” y “muy probable” cuando esta ya se estaba produciendo",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-09T23:58:22+02:00",
-      "enlace": "https://elpais.com/espana/2026-09-09/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html"
+      "fecha": "2026-09-09T18:51:53+02:00",
+      "enlace": "https://elpais.com/espana/2026-09-09/el-ejercito-aviso-el-dia-30-de-una-entrada-masiva-y-muy-probable-cuando-esta-ya-se-estaba-produciendo.html"
     },
     {
-      "titular": "El CNI avisó de “llamamientos” masivos en redes para cruzar a Ceuta, pero sin calibrar la gravedad",
+      "titular": "El PP cree que los documentos desclasificados de Ceuta revelan una “mentira de Estado” y hacen “responsable directo” a Sánchez",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-09T22:59:01+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20260909/11631340/cni-aviso-llamamientos-masivos-calibrar-gravedad.html"
+      "fecha": "2026-09-09T19:26:59+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20260909/11631280/pp-cree-documentos-desclasificados-ceuta-revelan-mentira-responsable-directo-sanchez.html"
     }
   ],
   "salud": {
@@ -75,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 20,
+    "antiguedad_minima_min": 14,
     "detalle": [
       {
         "medio": "RTVE",
@@ -83,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2236274,
+        "antiguedad_min": 2236398,
         "descartados_por_gancho": 0
       },
       {
@@ -98,18 +97,18 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 150,
+        "items": 149,
         "error": null,
-        "antiguedad_min": 20,
+        "antiguedad_min": 172,
         "descartados_por_gancho": 2
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 127,
+        "items": 125,
         "error": null,
-        "antiguedad_min": 67,
+        "antiguedad_min": 113,
         "descartados_por_gancho": 16
       },
       {
@@ -118,7 +117,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 74,
+        "antiguedad_min": 14,
         "descartados_por_gancho": 0
       }
     ]

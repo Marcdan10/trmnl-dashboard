@@ -2,7 +2,7 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-09-10T00:19:18+02:00",
+  "generado": "2026-09-10T02:23:30+02:00",
   "titulares": [
     {
       "titular": "\"El Barça es el mejor equipo del mundo\"",
@@ -14,13 +14,13 @@
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260909/1004225415/barca-mejor-equipo-mundo.html"
     },
     {
-      "titular": "Julián da la razón a Simeone: la Araña empieza a comprometerse",
+      "titular": "Esta es la portada de SPORT de hoy, jueves 10 de septiembre",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/atletico-de-madrid/julian-da-razon-simeone-arana-134126768"
+      "enlace": "https://www.sport.es/es/noticias/la-portada-de-sport/portada-sport-hoy-jueves-10-134127440"
     },
     {
       "titular": "El Barça femenino roza los 30 millones de negocio y gana 8 millones tras crecer un 33%",
@@ -41,13 +41,13 @@
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260909/1004225325/ciclon-barca-habla-campo-presenta-credenciales-champions.html"
     },
     {
-      "titular": "Ferran Torres, tras su hat-trick en Champions: \"Estoy teniendo muy buenas sensaciones\"",
+      "titular": "Julián da la razón a Simeone: la Araña empieza a comprometerse",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/champions/ferran-torres-hat-trick-champions-134126846"
+      "enlace": "https://www.sport.es/es/noticias/atletico-de-madrid/julian-da-razon-simeone-arana-134126768"
     },
     {
       "titular": "Diez 'joyas' que pueden dar el pelotazo en Champions",
@@ -75,7 +75,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 46,
+    "antiguedad_minima_min": 86,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 62,
         "error": null,
-        "antiguedad_min": 2253,
+        "antiguedad_min": 2377,
         "descartados_por_gancho": 6
       },
       {
@@ -99,9 +99,9 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 142,
+        "items": 143,
         "error": null,
-        "antiguedad_min": 46,
+        "antiguedad_min": 86,
         "descartados_por_gancho": 6
       },
       {
