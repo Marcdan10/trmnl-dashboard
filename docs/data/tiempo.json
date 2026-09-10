@@ -1,39 +1,7 @@
 {
   "ciudad": "Barcelona",
-  "generado": "2026-09-10T00:23:38",
+  "generado": "2026-09-10T04:59:48",
   "horas": [
-    {
-      "hora": "01",
-      "temp": 20,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "nube"
-    },
-    {
-      "hora": "02",
-      "temp": 20,
-      "prob": 5,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "nube"
-    },
-    {
-      "hora": "03",
-      "temp": 20,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "luna"
-    },
-    {
-      "hora": "04",
-      "temp": 20,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "luna"
-    },
     {
       "hora": "05",
       "temp": 19,
@@ -56,7 +24,7 @@
       "prob": 0,
       "mm": 0,
       "mostrar_prob": false,
-      "icono": "luna"
+      "icono": "nube"
     },
     {
       "hora": "08",
@@ -97,6 +65,38 @@
       "mm": 0,
       "mostrar_prob": false,
       "icono": "sol"
+    },
+    {
+      "hora": "13",
+      "temp": 25,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "sol"
+    },
+    {
+      "hora": "14",
+      "temp": 26,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "sol"
+    },
+    {
+      "hora": "15",
+      "temp": 26,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "nube"
+    },
+    {
+      "hora": "16",
+      "temp": 25,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "nube"
     }
   ],
   "dias": [
@@ -112,8 +112,8 @@
     },
     {
       "etiqueta": "sáb 12",
-      "max": 27,
-      "min": 19,
+      "max": 26,
+      "min": 20,
       "prob": 0,
       "mm": 0,
       "mostrar_prob": false,
@@ -123,27 +123,27 @@
     {
       "etiqueta": "dom 13",
       "max": 29,
-      "min": 20,
+      "min": 21,
       "prob": 0,
       "mm": 0,
       "mostrar_prob": false,
       "destacar": false,
-      "icono": "sol"
+      "icono": "nube"
     },
     {
       "etiqueta": "lun 14",
-      "max": 30,
-      "min": 20,
+      "max": 32,
+      "min": 21,
       "prob": 0,
       "mm": 0,
       "mostrar_prob": false,
       "destacar": false,
-      "icono": "sol"
+      "icono": "nube"
     },
     {
       "etiqueta": "mar 15",
-      "max": 33,
-      "min": 19,
+      "max": 31,
+      "min": 18,
       "prob": 0,
       "mm": 0,
       "mostrar_prob": false,
@@ -152,10 +152,10 @@
     },
     {
       "etiqueta": "mié 16",
-      "max": 28,
-      "min": 20,
+      "max": 29,
+      "min": 18,
       "prob": 32,
-      "mm": 0.6,
+      "mm": 0.3,
       "mostrar_prob": true,
       "destacar": false,
       "icono": "nube"
@@ -164,11 +164,11 @@
       "etiqueta": "jue 17",
       "max": 26,
       "min": 20,
-      "prob": 32,
-      "mm": 0,
+      "prob": 35,
+      "mm": 1.9,
       "mostrar_prob": true,
       "destacar": false,
-      "icono": "nube"
+      "icono": "lluvia"
     }
   ],
   "aviso": {

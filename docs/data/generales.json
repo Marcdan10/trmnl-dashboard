@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-09-10T02:23:25+02:00",
+  "generado": "2026-09-10T06:59:34+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -14,13 +14,13 @@
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
     },
     {
-      "titular": "El CNI avisó a Marruecos, Delegación del Gobierno y Guardia Civil de convocatorias masivas “para asalto por valla y mar” en Ceuta",
+      "titular": "Anatomía de la desclasificación: los 40 documentos que revelan las claves y tensiones de la crisis migratoria en Ceuta",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-09T17:33:17+02:00",
-      "enlace": "https://elpais.com/espana/2026-09-09/el-cni-aviso-a-marruecos-delegacion-del-gobierno-y-guardia-civil-de-convocatorias-en-grupos-con-180000-personas-el-dia-antes-de-la-entrada-masiva-de-ceuta.html"
+      "fecha": "2026-09-10T05:30:01+02:00",
+      "enlace": "https://elpais.com/espana/2026-09-10/anatomia-de-la-desclasificacion-los-40-documentos-que-revelan-las-claves-y-tensiones-de-la-crisis-migratoria-en-ceuta.html"
     },
     {
       "titular": "El CNI se limitó a avisar por WhatsApp sobre llamadas en las redes a asaltar Ceuta",
@@ -32,13 +32,13 @@
       "enlace": "https://www.lavanguardia.com/politica/20260909/11631340/cni-aviso-llamamientos-masivos-calibrar-gravedad.html"
     },
     {
-      "titular": "Rabat engañó a la Guardia Civil con un refuerzo de mil gendarmes en la frontera que nunca llegó",
+      "titular": "Familiares del 11S rechazan al alcalde Mamdani en el aniversario: «Este espacio es sagrado»",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-10T02:08:30+02:00",
-      "enlace": "https://www.abc.es/espana/marruecos-engano-guardia-civil-refuerzo-1000-gendarmes-20260909191524-nt.html"
+      "fecha": "2026-09-10T05:18:57+02:00",
+      "enlace": "https://www.abc.es/internacional/familiares-victimas-11s-boicotean-homenaje-alcalde-musulman-20260909014609-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -50,13 +50,13 @@
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
     },
     {
-      "titular": "El Ejército avisó el día 30 de una entrada “masiva” y “muy probable” cuando esta ya se estaba produciendo",
+      "titular": "El Gobierno intenta zanjar la guerra de versiones tras la desclasificación de los informes previos al salto de Ceuta",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-09T18:51:53+02:00",
-      "enlace": "https://elpais.com/espana/2026-09-09/el-ejercito-aviso-el-dia-30-de-una-entrada-masiva-y-muy-probable-cuando-esta-ya-se-estaba-produciendo.html"
+      "fecha": "2026-09-10T05:30:01+02:00",
+      "enlace": "https://elpais.com/espana/2026-09-09/la-moncloa-minimiza-el-aviso-del-cni-y-da-la-razon-a-marlaska-frente-a-robles-no-hubo-informe-ni-aviso-a-los-superiores.html"
     },
     {
       "titular": "El PP cree que los documentos desclasificados de Ceuta revelan una “mentira de Estado” y hacen “responsable directo” a Sánchez",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2236398,
+        "antiguedad_min": 2236674,
         "descartados_por_gancho": 0
       },
       {
@@ -97,28 +97,28 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 149,
+        "items": 140,
         "error": null,
-        "antiguedad_min": 172,
-        "descartados_por_gancho": 2
+        "antiguedad_min": 14,
+        "descartados_por_gancho": 8
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 125,
+        "items": 126,
         "error": null,
-        "antiguedad_min": 113,
-        "descartados_por_gancho": 16
+        "antiguedad_min": 149,
+        "descartados_por_gancho": 15
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 25,
+        "items": 24,
         "error": null,
-        "antiguedad_min": 14,
-        "descartados_por_gancho": 0
+        "antiguedad_min": 100,
+        "descartados_por_gancho": 1
       }
     ]
   }

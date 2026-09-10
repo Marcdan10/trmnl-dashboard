@@ -2,8 +2,44 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "portadas",
-  "generado": "2026-09-10T02:23:27+02:00",
+  "generado": "2026-09-10T06:59:38+02:00",
   "titulares": [
+    {
+      "titular": "Iberdrola se lanza a por 13.000 millones de Google en Finlandia",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-10T02:42:30+02:00",
+      "enlace": "https://www.expansion.com/empresas/energia/2026/09/10/6aa1c4e6e5fdea59598b4574.html"
+    },
+    {
+      "titular": "Ayuso: primera 'Tarifa Cero' para autónomos de Madrid que se acojan a la jubilación activa",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-10T02:42:31+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/09/10/6aa1a04de5fdea9e5d8b4576.html"
+    },
+    {
+      "titular": "BBVA busca 13.000 millones para financiar el crecimiento del crédito",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-10T02:42:32+02:00",
+      "enlace": "https://www.expansion.com/empresas/banca/2026/09/10/6a9fe8b9e5fdea2c338b4580.html"
+    },
+    {
+      "titular": "Así afecta el descalabro del 'TACO trade' al petróleo y la Bolsa",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-09T20:43:11+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/09/09/6aa17646468aeb420c8b4580.html"
+    },
     {
       "titular": "Apple presenta el iPhone Duo, su primer móvil plegable",
       "medios": [
@@ -14,58 +50,22 @@
       "enlace": "https://www.expansion.com/economia-digital/companias/2026/09/09/6aa167cb468aeb28158b4578.html"
     },
     {
-      "titular": "Los dueños de Carglass inician la ruta hacia su mega-salida a Bolsa",
+      "titular": "Los dividendos de septiembre más suculentos para el inversor",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-09T19:51:28+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/09/09/6aa19c92e5fdeab6038b4580.html"
+      "fecha": "2026-09-10T03:03:25+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/09/10/6aa1d1bb468aeb15478b4581.html"
     },
     {
-      "titular": "Apple lleva los iPhone 18 Pro a nuevos máximos de precio",
+      "titular": "El 98% de los inversores españoles invierte en ETF activos",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-09T21:21:27+02:00",
-      "enlace": "https://www.expansion.com/economia-digital/companias/2026/09/09/6aa1ad35468aebf2348b458b.html"
-    },
-    {
-      "titular": "La rentabilidad de los bonos se dispara a pesar de la recompra de 6.000 millones de EEUU",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-09T22:18:52+02:00",
-      "enlace": "https://www.expansion.com/economia/financial-times/2026/09/09/6aa17a92468aebec218b4578.html"
-    },
-    {
-      "titular": "Bruselas fija cinco requisitos para habilitar a los ayuntamientos a intervenir el mercado de vivienda",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-09T12:36:28+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/09/09/6aa136a8468aebc71b8b4578.html"
-    },
-    {
-      "titular": "Cómo afecta a España el vuelco en la cartera del fondo de Noruega",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-08T20:37:29+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/09/08/6aa018abe5fdea79098b45af.html"
-    },
-    {
-      "titular": "Inditex pisa el acelerador en el segundo trimestre y gana 1.605 millones de euros",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-09T07:45:26+02:00",
-      "enlace": "https://www.expansion.com/empresas/distribucion/2026/09/09/6aa0f272468aeb4d0a8b45a5.html"
+      "fecha": "2026-09-10T03:03:26+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/09/10/6aa19d7ee5fdea761d8b457d.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 244,
+    "antiguedad_minima_min": 236,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 73,
+        "items": 70,
         "error": null,
-        "antiguedad_min": 244,
+        "antiguedad_min": 236,
         "descartados_por_gancho": 1
       },
       {
