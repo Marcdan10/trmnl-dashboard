@@ -2,8 +2,44 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-09-10T19:26:18+02:00",
+  "generado": "2026-09-10T21:55:51+02:00",
   "titulares": [
+    {
+      "titular": "Atrys Health acelera el crecimiento durante el primer semestre y se refuerza en oncología",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-10T21:12:00+02:00",
+      "enlace": "https://www.expansion.com/catalunya/2026/09/10/6aa2fd46468aeb20178b457b.html"
+    },
+    {
+      "titular": "Illa apela a la unidad ante el auge identitario y proclama: \"Nadie es más catalán que nadie\"",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-10T21:07:35+02:00",
+      "enlace": "https://www.expansion.com/catalunya/2026/09/10/6aa2febbe5fdea58688b458c.html"
+    },
+    {
+      "titular": "Anthropic afirma que ha bloqueado varios intentos de crear armas biológicas con su IA",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-10T21:01:42+02:00",
+      "enlace": "https://www.expansion.com/tecnologia/2026/09/10/6aa2fce5468aeb5b0f8b458f.html"
+    },
+    {
+      "titular": "El Gran Premio de España pone a Europa en el centro de la Fórmula 1",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-10T20:20:54+02:00",
+      "enlace": "https://www.expansion.com/deporte-negocio/2026/09/10/6aa2f267e5fdeae7168b457c.html"
+    },
     {
       "titular": "Revuelta en Ryanair contra el incentivo de 153 millones para O'Leary",
       "medios": [
@@ -30,42 +66,6 @@
       "consenso": 1,
       "fecha": "2026-09-10T18:33:31+02:00",
       "enlace": "https://www.expansion.com/catalunya/2026/09/10/6aa2db92468aebd5218b457a.html"
-    },
-    {
-      "titular": "Openbank baja las comisiones para comprar acciones y ETF",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-10T17:47:42+02:00",
-      "enlace": "https://www.expansion.com/inversion/2026/09/10/6aa2d119468aeb45668b457c.html"
-    },
-    {
-      "titular": "El Ibex encadena su cuarta sesión a la baja, presionado por el BCE, el petróleo y la deuda",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-10T17:40:59+02:00",
-      "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/09/10/6aa24589e5fdeaa9398b4578.html"
-    },
-    {
-      "titular": "Howden apuesta por crecer en seguros para fusiones y adquisiciones con seis fichajes",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-10T17:34:12+02:00",
-      "enlace": "https://www.expansion.com/empresas/seguros/2026/09/10/6aa27d2be5fdea1f368b459c.html"
-    },
-    {
-      "titular": "Alquiler asequible: los anuncios de 'Casa 47' no cumplen la norma que aprobó el propio Gobierno",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-10T17:23:06+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/09/10/6aa2cb53e5fdeada528b459c.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 32,
+    "antiguedad_minima_min": 43,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 82,
+        "items": 81,
         "error": null,
-        "antiguedad_min": 32,
+        "antiguedad_min": 43,
         "descartados_por_gancho": 0
       },
       {

@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-09-10T19:26:21+02:00",
+  "generado": "2026-09-10T21:55:52+02:00",
   "titulares": [
     {
-      "titular": "Así están los límites salariales en el fútbol español",
+      "titular": "Antonio Cordón vuelve a Olympiacos de la mano de Imanol",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-10T18:53:06+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/20260910/1004225647/asi-limites-salariales-futbol-espanol.html"
+      "fecha": "2026-09-10T21:17:35+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/internacional/20260910/1004225763/olympiacos.html"
     },
     {
-      "titular": "El Barça pasa de 432 millones de límite salarial a 582",
+      "titular": "¿Sigue abierto el restaurante 'Bodeguita Los 50' de 'Pesadilla en la cocina'?",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-10T18:52:59+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260910/1004225711/barca-pasa-432-millones-limite-salarial-582.html"
+      "fecha": "2026-09-10T21:11:56+02:00",
+      "enlace": "https://www.mundodeportivo.com/elotromundo/television/20260910/1004225760/sigue-abierto-restaurante-bodeguita-50-pesadilla-cocina-dct.html"
     },
     {
       "titular": "El Barça femenino roza los 30 millones de negocio y gana 8 millones tras crecer un 33%",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/champions-league/2026/09/08/diez-joyas-dar-pelotazo-champions-nico-paz-manzambi-karetsas-godts-karl.html"
     },
     {
-      "titular": "Conexión Orellut: El CD Castellón defiende el liderato ante un Girona repleto de estrellas",
+      "titular": "El CB Gran Canaria convence a cerca de 4.800 abonados: casi el 80 % repite tras el cierre de la campaña de renovaciones",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/futbol/conexion-orellut-cd-castellon-defiende-134162076"
+      "enlace": "https://www.sport.es/es/noticias/baloncesto/cb-gran-canaria-convence-cerca-134166578"
     },
     {
-      "titular": "LaLiga vuelve a castigar al Celta con los horarios",
+      "titular": "El hermano de Jenni Hermoso asegura que a Vinicius le dijeron que ganaba el Balón de Oro 2024: \"Ya tenía sitio en la vitrina\"",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/celta-de-vigo/laliga-vuelve-castigar-celta-horarios-134161811"
+      "enlace": "https://www.sport.es/es/noticias/real-madrid/hermano-jenni-hermoso-asegura-vinicius-134166176"
     },
     {
-      "titular": "PSV - Shakhtar Donetsk, en directo",
+      "titular": "Vuelve a suceder 40 años después en el US Open: ¡es una auténtica guerra!",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-10T18:44:54+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/champions-league/20260910/1004223817/psv-shakhtar-donetsk-directo-champions-league.html"
+      "fecha": "2026-09-10T21:10:43+02:00",
+      "enlace": "https://www.mundodeportivo.com/tenis/open-usa/20260910/1004225762/vuelve-suceder-40-anos-us-open-autentica-guerra.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 33,
+    "antiguedad_minima_min": 38,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 62,
         "error": null,
-        "antiguedad_min": 3400,
+        "antiguedad_min": 3549,
         "descartados_por_gancho": 6
       },
       {
@@ -98,19 +98,19 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 139,
+        "items": 143,
         "error": null,
-        "antiguedad_min": 33,
-        "descartados_por_gancho": 6
+        "antiguedad_min": 38,
+        "descartados_por_gancho": 5
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 49,
+        "items": 48,
         "error": null,
         "antiguedad_min": null,
-        "descartados_por_gancho": 0
+        "descartados_por_gancho": 1
       },
       {
         "medio": "NBA",

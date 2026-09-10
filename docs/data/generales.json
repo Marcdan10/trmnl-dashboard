@@ -2,63 +2,61 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-09-10T19:26:14+02:00",
+  "generado": "2026-09-10T21:55:48+02:00",
   "titulares": [
     {
-      "titular": "Los procesos relacionados con la pornografía infantil se disparan un 40% en dos años en España",
+      "titular": "Cargas y detenciones de los Mossos para impedir el acoso de la izquierda radical contra Aliança",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-10T19:14:25+02:00",
-      "enlace": "https://www.abc.es/espana/procesos-relacionados-pornografia-infantil-disparan-dos-anos-20260910134741-nt.html"
+      "fecha": "2026-09-10T21:38:38+02:00",
+      "enlace": "https://www.abc.es/espana/cataluna/mossos-blindan-fossar-ante-riesgo-choques-alianca-20260910170715-nt.html"
     },
     {
-      "titular": "El fin del plan de recuperación europeo acelera un 20% la inversión autonómica en la primera mitad del año",
+      "titular": "Marruecos rechaza las acusaciones por el salto a Ceuta y lanza una indirecta al PP por caer en un “lodazal irracional y populista”",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-10T19:12:25+02:00",
-      "enlace": "https://elpais.com/economia/2026-09-10/el-fin-del-plan-de-recuperacion-europeo-acelera-un-20-la-inversion-autonomica-en-la-primera-mitad-del-ano.html"
+      "fecha": "2026-09-10T21:37:20+02:00",
+      "enlace": "https://elpais.com/espana/2026-09-10/marruecos-rechaza-las-acusaciones-por-el-salto-a-ceuta-y-lanza-una-indirecta-al-pp-por-caer-en-un-lodazal-irracional-y-populista.html"
     },
     {
-      "titular": "Los Mossos blindan el Fossar e impiden el choque entre Aliança y la izquierda radical",
+      "titular": "Marruecos irrumpe en la crisis de Ceuta: «No somos peón electoral ni chivo expiatorio de ajustes de cuentas políticos»",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-10T19:10:50+02:00",
-      "enlace": "https://www.abc.es/espana/cataluna/mossos-blindan-fossar-ante-riesgo-choques-alianca-20260910170715-nt.html"
+      "fecha": "2026-09-10T21:31:10+02:00",
+      "enlace": "https://www.abc.es/espana/marruecos-acusa-pp-utilizar-retorica-populista-irracional-20260910194658-nt.html"
     },
     {
-      "titular": "Un «peligro real» para las elecciones: el argumento del Supremo para suspender el censo de la 'ley de nietos'",
+      "titular": "Un accidente de autobús causa varios muertos en el pueblo de los Alpes suizos de Susch",
       "medios": [
-        "El País",
-        "La Vanguardia",
-        "ABC"
+        "El País"
       ],
-      "consenso": 3,
-      "fecha": "2026-09-10T19:00:03+02:00",
-      "enlace": "https://www.abc.es/espana/supremo-suspende-censo-ley-nietos-peligro-fundado-20260910162625-nt.html"
+      "consenso": 1,
+      "fecha": "2026-09-10T21:28:36+02:00",
+      "enlace": "https://elpais.com/internacional/2026-09-10/un-accidente-de-autobus-causa-varios-muertos-en-el-pueblo-de-los-alpes-suizos-de-susch.html"
     },
     {
-      "titular": "Josh Kerr: “No compito para hacer amigos”",
+      "titular": "Illa reivindica la convivencia ante los problemas de gestión y el auge extremista",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-10T18:49:40+02:00",
-      "enlace": "https://www.lavanguardia.com/deportes/otros-deportes/20260910/11632210/josh-kerr-compito-amigos.html"
+      "fecha": "2026-09-10T21:00:00+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20260910/11632271/illa-reivindica-convivencia-problemas-gestion-auge-extremista.html"
     },
     {
-      "titular": "Ian McEwan: “Existe un pesimismo colectivo que nos tiene paralizados”",
+      "titular": "El grupo Vicente Torns apuesta por EE.UU. con 17 millones en una nueva fábrica",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-10T18:47:56+02:00",
-      "enlace": "https://www.lavanguardia.com/cultura/20260910/11632217/ian-mcewan-existe-pesimismo-colectivo-paralizados-lo-que-podemos-saber.html"
+      "fecha": "2026-09-10T19:49:37+02:00",
+      "enlace": "https://www.lavanguardia.com/dinero/20260910/11632257/grupo-vicente-torns-apuesta-ee-uu-17-millones-nueva-fabrica.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -76,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 11,
+    "antiguedad_minima_min": 17,
     "detalle": [
       {
         "medio": "RTVE",
@@ -84,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2237421,
+        "antiguedad_min": 2237570,
         "descartados_por_gancho": 0
       },
       {
@@ -99,18 +97,18 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 143,
+        "items": 145,
         "error": null,
-        "antiguedad_min": 13,
-        "descartados_por_gancho": 5
+        "antiguedad_min": 18,
+        "descartados_por_gancho": 6
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 138,
+        "items": 136,
         "error": null,
-        "antiguedad_min": 36,
+        "antiguedad_min": 55,
         "descartados_por_gancho": 13
       },
       {
@@ -119,7 +117,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 11,
+        "antiguedad_min": 17,
         "descartados_por_gancho": 0
       }
     ]

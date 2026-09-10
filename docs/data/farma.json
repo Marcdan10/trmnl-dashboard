@@ -2,16 +2,43 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "ultimas",
-  "generado": "2026-09-10T19:26:27+02:00",
+  "generado": "2026-09-10T21:55:58+02:00",
   "titulares": [
     {
-      "titular": "El Ingesa llevará a cabo un tratamiento pionero para un menor con ‘piel de mariposa’",
+      "titular": "Sanidad acepta alegaciones técnicas en el texto del Estatuto Marco, pero mantiene jornadas y guardias",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-09-10T18:48:12+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/ministerio-sanidad/20260910/ingesa-llevara-cabo-un-tratamiento-pionero-para-menor-con-piel-de-mariposa/350600_0.html"
+      "fecha": "2026-09-10T21:40:39+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/ministerio-sanidad/20260910/sanidad-acepta-alegaciones-tecnicas-en-el-texto-del-estatuto-marco-pero-mantiene-jornadas-guardias/350475_0.html"
+    },
+    {
+      "titular": "Los sindicatos médicos confirman los peores pronósticos y ratifican su apuesta por la huelga estatal indefinida",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-10T20:42:56+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/ministerio-sanidad/20260910/los-sindicatos-medicos-confirman-los-peores-pronosticos-ratifican-su-apuesta-por-la-huelga-estatal-indefinida/350605_0.html"
+    },
+    {
+      "titular": "Las nuevas terapias modificadoras transforman el abordaje clínico del alzhéimer",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-10T20:01:48+02:00",
+      "enlace": "https://diariofarma.com/2026/09/10/las-nuevas-terapias-modificadoras-transforman-el-abordaje-clinico-del-alzheimer"
+    },
+    {
+      "titular": "La MHRA evalúa un plan de licencias escalonadas para acelerar la IA en el NHS británico",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-10T19:23:39+02:00",
+      "enlace": "https://diariofarma.com/2026/09/10/la-mhra-evalua-un-plan-con-licencias-escalonadas-para-acelerar-la-ia-en-el-nhs-britanico"
     },
     {
       "titular": "El FIR 2027 encara sus últimos días de inscripción con 377 plazas de Farmacia",
@@ -23,33 +50,6 @@
       "enlace": "https://elglobalfarma.com/farmacia/fir-2027-ultimos-dias-inscripcion-farmacia/"
     },
     {
-      "titular": "La farmacia española soporta el superávit con China, pero la dependencia de insumos es alta",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-10T18:03:57+02:00",
-      "enlace": "https://diariofarma.com/2026/09/10/la-farmacia-espanola-sostiene-el-superavit-con-china-pero-la-dependencia-de-insumos-es-alta"
-    },
-    {
-      "titular": "El Congreso valorará reconocer la profesión de biólogo como profesión sanitaria",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-10T17:52:43+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/20260910/el-congreso-aprueba-reconocer-la-profesion-de-biologo-como-sanitaria/350580_0.html"
-    },
-    {
-      "titular": "Madrid potenciará la AF domiciaria y el desarrollo de Biosur para impulsar la I+D biomédica",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-10T17:30:43+02:00",
-      "enlace": "https://diariofarma.com/2026/09/10/diaz-ayuso-potenciara-la-atencion-farmaceutica-domiciaria-y-el-desarrollo-de-biosur-para-potenciar-la-investigacion-madrilena"
-    },
-    {
       "titular": "«Los mayores vulnerables necesitan formarse y quieren hacerlo»: educación sanitaria desde la farmacia rural",
       "medios": [
         "El Global"
@@ -59,13 +59,13 @@
       "enlace": "https://elglobalfarma.com/farmacia/farmacia-rural-educacion-sanitaria-mayores-vulnerbles-educacion/"
     },
     {
-      "titular": "Pané promete contribuir a que la huelga de médicos \"no se haga realidad\" en Cataluña: \"Tienen la puerta abierta\"",
+      "titular": "Ni fotos, ni vídeos ni audios en clase y el hospital: la Facultad de Medicina de Sevilla veta los móviles a los estudiantes",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-09-10T17:20:52+02:00",
-      "enlace": "https://www.redaccionmedica.com/autonomias/20260910/pane-promete-contribuir-que-la-huelga-de-medicos-no-se-haga-realidad-en-cataluna-tienen-puerta-abierta/350593_0.html"
+      "fecha": "2026-09-10T19:40:13+02:00",
+      "enlace": "https://www.redaccionmedica.com/formacion/estudiantes/20260910/ni-fotos-ni-videos-audios-en-clase-el-hospital-la-facultad-de-medicina-sevilla-veta-los-moviles-estudiantes/350603_0.html"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 38,
+    "antiguedad_minima_min": 15,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 82,
+        "antiguedad_min": 114,
         "descartados_por_gancho": 0
       },
       {
@@ -93,17 +93,17 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 78,
+        "antiguedad_min": 228,
         "descartados_por_gancho": 0
       },
       {
         "medio": "Redacción Médica",
         "url": "https://www.redaccionmedica.com/rss/",
         "ok": true,
-        "items": 29,
+        "items": 30,
         "error": null,
-        "antiguedad_min": 38,
-        "descartados_por_gancho": 1
+        "antiguedad_min": 15,
+        "descartados_por_gancho": 0
       },
       {
         "medio": "PMFarma",
