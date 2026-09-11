@@ -2,62 +2,62 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-09-11T15:41:59+02:00",
+  "generado": "2026-09-11T19:27:35+02:00",
   "titulares": [
     {
-      "titular": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Vivas ve “poco probable” que el delegado del Gobierno no fuera informado por su jefe de Gabinete de los avisos del CNI",
+      "titular": "Silencio contra la división: Nueva York conmemora su día más oscuro",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-11T19:13:59+02:00",
+      "enlace": "https://www.abc.es/internacional/silencio-division-nueva-york-conmemora-dia-oscuro-20260911172721-nt.html"
+    },
+    {
+      "titular": "La difusión de los informes causa un terremoto en Ferraz y Moncloa",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-11T19:12:31+02:00",
+      "enlace": "https://www.abc.es/espana/fiasco-informes-ceuta-causa-terremoto-psoe-gobierno-20260911012613-nt.html"
+    },
+    {
+      "titular": "La sombra de la guerra de Irán planea sobre la conmemoración de Trump del 11-S en el Pentágono",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-11T15:36:59+02:00",
+      "fecha": "2026-09-11T19:07:14+02:00",
+      "enlace": "https://elpais.com/internacional/2026-09-11/la-sombra-de-la-guerra-de-iran-planeo-sobre-la-conmemoracion-de-trump-del-11-s-en-el-pentagono.html"
+    },
+    {
+      "titular": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Vivas dice que La Moncloa le pidió “que no llamara más” tras días advirtiendo sobre la crisis migratoria",
+      "medios": [
+        "El País",
+        "La Vanguardia"
+      ],
+      "consenso": 2,
+      "fecha": "2026-09-11T18:41:11+02:00",
       "enlace": "https://elpais.com/espana/2026-09-11/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html"
     },
     {
-      "titular": "Fernando Alonso, primera ¿y última? vez en Madring",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-11T15:29:24+02:00",
-      "enlace": "https://www.abc.es/deportes/formula-1/alonso-primera-ultima-vez-madring-20260910012450-nt.html"
-    },
-    {
-      "titular": "Muere la Princesa Astrid de Noruega, hermana de Harald V, a los 94 años",
-      "medios": [
-        "El País",
-        "ABC"
-      ],
-      "consenso": 2,
-      "fecha": "2026-09-11T15:26:21+02:00",
-      "enlace": "https://www.abc.es/gente/muere-princesa-astrid-noruega-hermana-harald-anos-20260911151923-nt.html"
-    },
-    {
-      "titular": "Carreteras geotérmicas: la tecnología bajo el asfalto que busca acabar con las plagas de baches",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-11T15:19:20+02:00",
-      "enlace": "https://www.abc.es/motor/reportajes/carreteras-geotermicas-tecnologia-bajo-asfalto-busca-acabar-20260911100100-nt.html"
-    },
-    {
-      "titular": "Manolo González: “Vamos muy bien de moral”",
+      "titular": "Muere un motorista en un choque frontal con un turismo en la C-59 en Caldes de Montbui",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-11T14:22:05+02:00",
-      "enlace": "https://www.lavanguardia.com/deportes/futbol/20260911/11632767/manolo-gonzalez-moral.html"
+      "fecha": "2026-09-11T18:15:43+02:00",
+      "enlace": "https://www.lavanguardia.com/local/barcelona/barcelona-plus/20260911/11632869/muere-motorista-choque-frontal-turismo-c-59-caldes-montbui.html"
     },
     {
-      "titular": "Más Madrid y PSOE atacan a Ayuso por el ático e ironizan con su nueva residencia",
+      "titular": "Mas anula la emboscada de Roglic antes de la batalla final",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-11T14:19:08+02:00",
-      "enlace": "https://www.lavanguardia.com/local/madrid/20260911/11632714/mas-madrid-psoe-atacan-ayuso-atico-e-ironizan-nueva-residencia-presidenta.html"
+      "fecha": "2026-09-11T17:52:05+02:00",
+      "enlace": "https://www.lavanguardia.com/deportes/ciclismo/20260911/11632846/dunbar-gana-etapa-19-vuelta-a-espana-enric-mas-frena-roglic.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -75,7 +75,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 4,
+    "antiguedad_minima_min": 13,
     "detalle": [
       {
         "medio": "RTVE",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2238636,
+        "antiguedad_min": 2238862,
         "descartados_por_gancho": 0
       },
       {
@@ -98,28 +98,28 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 146,
+        "items": 144,
         "error": null,
-        "antiguedad_min": 4,
-        "descartados_por_gancho": 8
+        "antiguedad_min": 20,
+        "descartados_por_gancho": 6
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 133,
+        "items": 132,
         "error": null,
-        "antiguedad_min": 79,
+        "antiguedad_min": 71,
         "descartados_por_gancho": 16
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 24,
+        "items": 25,
         "error": null,
-        "antiguedad_min": 12,
-        "descartados_por_gancho": 1
+        "antiguedad_min": 13,
+        "descartados_por_gancho": 0
       }
     ]
   }

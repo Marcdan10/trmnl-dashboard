@@ -2,25 +2,25 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "ultimas",
-  "generado": "2026-09-11T15:42:08+02:00",
+  "generado": "2026-09-11T19:27:50+02:00",
   "titulares": [
     {
-      "titular": "Las consecuencias de las huelgas médicas castigan al paciente: 3 millones de actos suspendidos",
+      "titular": "Una urgencióloga y un forense se disputarán el decanato de Medicina de la Universidad de Murcia",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-09-11T15:10:20+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20260911/las-consecuencias-de-las-huelgas-medicas-castigan-al-paciente-millones-actos-suspendidos/350634_0.html"
+      "fecha": "2026-09-11T19:08:47+02:00",
+      "enlace": "https://www.redaccionmedica.com/formacion/estudiantes/20260911/una-urgenciologa-un-forense-se-disputaran-el-decanato-de-medicina-la-universidad-murcia/350659_0.html"
     },
     {
-      "titular": "El superávit de las comunidades autónomas podrá destinarse a inversiones sanitarias que generen ahorros o mejoren la eficiencia",
+      "titular": "El Estatuto Marco 'exige' más dotación en las plantillas de salud: \"Con 4.190 sanitarios más no se pueden asumir los cambios\"",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-09-11T14:51:54+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/20260911/el-superavit-de-las-comunidades-autonomas-podra-destinarse-inversiones-sanitarias-que-generen-ahorros-mejoren-la-eficiencia/350638_0.html"
+      "fecha": "2026-09-11T19:01:55+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20260911/estatuto-marco-dotacion-plantillas-salud-sanitarios/350647_0.html"
     },
     {
       "titular": "Impulso europeo para desarrollar antivirales nasales frente a pandemias",
@@ -60,13 +60,13 @@
       "enlace": "https://elglobalfarma.com/opinion/editorial/biotech-act-siguiente-movimiento-bruselas/"
     },
     {
-      "titular": "El reto sanitario de la Fórmula 1 en España: preparado para pasar de un mareo a una parada en segundos",
+      "titular": "Pello Latasa, nuevo presidente de la Sociedad Española de Epidemiología",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-09-11T14:44:17+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20260911/el-reto-sanitario-de-la-formula-en-espana-preparado-para-pasar-un-mareo-una-parada-segundos/350619_0.html"
+      "fecha": "2026-09-11T18:56:12+02:00",
+      "enlace": "https://www.redaccionmedica.com/profesionales/sociedades-cientificas/20260911/pello-latasa-nuevo-presidente-de-la-sociedad-espanola-epidemiologia/350669_0.html"
     }
   ],
   "salud": {
@@ -77,7 +77,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 31,
+    "antiguedad_minima_min": 18,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -85,7 +85,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 97,
+        "antiguedad_min": 323,
         "descartados_por_gancho": 0
       },
       {
@@ -94,17 +94,17 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 126,
+        "antiguedad_min": 352,
         "descartados_por_gancho": 0
       },
       {
         "medio": "Redacción Médica",
         "url": "https://www.redaccionmedica.com/rss/",
         "ok": true,
-        "items": 30,
+        "items": 29,
         "error": null,
-        "antiguedad_min": 31,
-        "descartados_por_gancho": 0
+        "antiguedad_min": 18,
+        "descartados_por_gancho": 1
       },
       {
         "medio": "PMFarma",
