@@ -2,7 +2,7 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-09-11T00:13:06+02:00",
+  "generado": "2026-09-11T02:18:46+02:00",
   "titulares": [
     {
       "titular": "Cesc Fàbregas: \"El Barça da miedo\"",
@@ -41,13 +41,13 @@
       "enlace": "https://www.mundodeportivo.com/futbol/champions-league/20260910/1004225796/primera-vez-inolvidable-cesc-fabregas-champions.html"
     },
     {
-      "titular": "Del estadio a una experiencia inolvidable: esta es la propuesta de Unicaja para vivir el deporte desde dentro",
+      "titular": "Vidorreta, tras ganar al Tenerife en el Costa del Sol: «Hernangómez se ha hecho grande en ataque y defensa y es una buena noticia para él y para el equipo»",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/baloncesto/estadio-experiencia-inolvidable-propuesta-unicaja-134168254"
+      "enlace": "https://www.sport.es/es/noticias/baloncesto/vidorreta-ganar-tenerife-costa-sol-134168621"
     },
     {
       "titular": "Diez 'joyas' que pueden dar el pelotazo en Champions",
@@ -59,13 +59,13 @@
       "enlace": "https://www.marca.com/futbol/champions-league/2026/09/08/diez-joyas-dar-pelotazo-champions-nico-paz-manzambi-karetsas-godts-karl.html"
     },
     {
-      "titular": "88-84: Un irregular Barça debuta con victoria y buscará ante el Manresa su pase a la final",
+      "titular": "Nico Paz, noche histórica y 'recado' al Madrid: \"He tomado la decisión correcta\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-10T23:10:58+02:00",
-      "enlace": "https://www.mundodeportivo.com/baloncesto/20260910/1004225767/cronica-barca-andorra.html"
+      "fecha": "2026-09-11T00:04:14+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260911/1004225827/nico-paz-noche-historica-recado-madrid-he-tomado-decision-correcta.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 34,
+    "antiguedad_minima_min": 108,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 62,
         "error": null,
-        "antiguedad_min": 3687,
+        "antiguedad_min": 3812,
         "descartados_por_gancho": 6
       },
       {
@@ -98,9 +98,9 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 141,
+        "items": 142,
         "error": null,
-        "antiguedad_min": 34,
+        "antiguedad_min": 108,
         "descartados_por_gancho": 4
       },
       {

@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-09-11T00:12:59+02:00",
+  "generado": "2026-09-11T02:18:38+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -23,13 +23,13 @@
       "enlace": "https://www.lavanguardia.com/politica/20260910/11632271/illa-reivindica-convivencia-problemas-gestion-auge-extremista.html"
     },
     {
-      "titular": "Cañas de Cervera, el dulce riojano de crema que se rellena al final",
+      "titular": "Los depósitos dan un 2% al ahorro por primera vez desde hace dos años",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-10T23:37:02+02:00",
-      "enlace": "https://www.abc.es/recetasderechupete/canas-de-cervera-el-dulce-riojano-de-crema-que-se-rellena-al-final/170878/"
+      "fecha": "2026-09-11T01:42:51+02:00",
+      "enlace": "https://www.abc.es/economia/cuentas-corrientes/depositos-dan-ahorro-primera-vez-dos-anos-20260911014251-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -50,22 +50,22 @@
       "enlace": "https://elpais.com/espana/2026-09-10/el-ponente-de-la-resolucion-sobre-la-ley-de-nietos-expreso-a-feijoo-su-deseo-de-que-el-pp-llegara-al-gobierno.html"
     },
     {
-      "titular": "El juez Llarena revisará la amnistía de Puigdemont con la doctrina del Constitucional",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-10T19:23:39+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20260910/11632241/juez-llarena-revisara-amnistia-puigdemont-doctrina-constitucional.html"
-    },
-    {
-      "titular": "Mazapán de Soto, bocado riojano de almendra",
+      "titular": "Los médicos convocan una huelga indefinida en toda España para mediados de octubre",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-10T23:29:23+02:00",
-      "enlace": "https://www.abc.es/recetasderechupete/mazapan-de-soto-el-bocado-riojano-de-almendra-que-queda-jugoso-por-dentro/170865/"
+      "fecha": "2026-09-11T01:42:12+02:00",
+      "enlace": "https://www.abc.es/sociedad/medicos-plantean-huelga-general-partir-octubre-monica-20260910205557-nt.html"
+    },
+    {
+      "titular": "La presidenta del Supremo: “No es admisible que la descalificación pública de los jueces se convierta en un instrumento de presión”",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-10T13:20:43+02:00",
+      "enlace": "https://elpais.com/espana/2026-09-10/apertura-del-ano-judicial.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 23,
+    "antiguedad_minima_min": 35,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2237707,
+        "antiguedad_min": 2237833,
         "descartados_por_gancho": 0
       },
       {
@@ -97,18 +97,18 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 146,
+        "items": 145,
         "error": null,
-        "antiguedad_min": 23,
+        "antiguedad_min": 125,
         "descartados_por_gancho": 6
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 136,
+        "items": 133,
         "error": null,
-        "antiguedad_min": 100,
+        "antiguedad_min": 79,
         "descartados_por_gancho": 13
       },
       {
