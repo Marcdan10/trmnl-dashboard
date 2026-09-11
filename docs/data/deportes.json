@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-09-11T06:57:17+02:00",
+  "generado": "2026-09-11T11:22:16+02:00",
   "titulares": [
     {
-      "titular": "Cesc Fàbregas: \"El Barça da miedo\"",
+      "titular": "Ilusión de Laporta en la Diada: \"Somos candidatos a todo\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-10T23:38:57+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/champions-league/20260910/1004225804/cesc-barca-da-miedo.html"
+      "fecha": "2026-09-11T10:14:51+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260911/1004225880/ilusion-laporta-diada-candidatos.html"
     },
     {
-      "titular": "¿Quién merece el Balón de Oro?",
+      "titular": "Araujo ya piensa en un futuro lejos del Barça",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/opinion/merece-balon-oro-134165685"
+      "enlace": "https://www.sport.es/es/noticias/barca/araujo-piensa-futuro-lejos-barca-134179016"
     },
     {
       "titular": "El Barça femenino roza los 30 millones de negocio y gana 8 millones tras crecer un 33%",
@@ -32,22 +32,13 @@
       "enlace": "https://www.marca.com/sport-business/2playbook/2026/09/08/barca-femenino-roza-30-millones-negocio-gana-8-millones-crecer-33.html"
     },
     {
-      "titular": "4-1: Primera vez inolvidable del Como de Cesc en la Champions",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-10T23:07:14+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/champions-league/20260910/1004225796/primera-vez-inolvidable-cesc-fabregas-champions.html"
-    },
-    {
-      "titular": "¿Puede jugar Messi en el Eldense?",
+      "titular": "El Valencia CF todavía no ha ganado con el árbitro que pitará en el Sánchez-Pizjuán",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/futbol/segunda/jugar-messi-eldense-134156287"
+      "enlace": "https://www.sport.es/es/noticias/valencia/valencia-cf-todavia-ganado-arbitro-134179135"
     },
     {
       "titular": "Diez 'joyas' que pueden dar el pelotazo en Champions",
@@ -59,13 +50,22 @@
       "enlace": "https://www.marca.com/futbol/champions-league/2026/09/08/diez-joyas-dar-pelotazo-champions-nico-paz-manzambi-karetsas-godts-karl.html"
     },
     {
-      "titular": "Nico Paz, noche histórica y 'recado' al Madrid: \"He tomado la decisión correcta\"",
+      "titular": "Los Libres 1 del GP de San Marino, en directo",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-11T00:04:14+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260911/1004225827/nico-paz-noche-historica-recado-madrid-he-tomado-decision-correcta.html"
+      "fecha": "2026-09-11T10:37:53+02:00",
+      "enlace": "https://www.mundodeportivo.com/motor/motogp/20260911/1004224839/motogp-misano-directo-libre-1-practica-gran-premio-san-marino-marc-marquez-jorge-martin-bezzecchi-pedro-acosta.html"
+    },
+    {
+      "titular": "Ni Pedri ni Raphinha: Luis de la Fuente no entiende cómo este futbolista no está entre los candidatos al Balón de Oro",
+      "medios": [
+        "Sport"
+      ],
+      "consenso": 1,
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/seleccion/pedri-raphinha-luis-fuente-entiende-134177669"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 101,
+    "antiguedad_minima_min": 30,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 62,
         "error": null,
-        "antiguedad_min": 4091,
+        "antiguedad_min": 4356,
         "descartados_por_gancho": 6
       },
       {
@@ -98,19 +98,19 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 142,
+        "items": 131,
         "error": null,
-        "antiguedad_min": 101,
-        "descartados_por_gancho": 4
+        "antiguedad_min": 30,
+        "descartados_por_gancho": 7
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 49,
+        "items": 47,
         "error": null,
         "antiguedad_min": null,
-        "descartados_por_gancho": 1
+        "descartados_por_gancho": 3
       },
       {
         "medio": "NBA",

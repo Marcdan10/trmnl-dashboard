@@ -2,7 +2,7 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "portadas",
-  "generado": "2026-09-11T06:57:24+02:00",
+  "generado": "2026-09-11T11:22:22+02:00",
   "titulares": [
     {
       "titular": "Las nuevas terapias modificadoras transforman el abordaje clínico del alzhéimer",
@@ -14,50 +14,22 @@
       "enlace": "https://diariofarma.com/2026/09/10/las-nuevas-terapias-modificadoras-transforman-el-abordaje-clinico-del-alzheimer"
     },
     {
-      "titular": "El FIR 2027 encara sus últimos días de inscripción con 377 plazas de Farmacia",
+      "titular": "El COFZ premia el compromiso de la farmacia con la salud mental, el medio rural y la cooperación",
       "medios": [
         "El Global"
       ],
       "consenso": 1,
-      "fecha": "2026-09-10T18:07:44+02:00",
-      "enlace": "https://elglobalfarma.com/farmacia/fir-2027-ultimos-dias-inscripcion-farmacia/"
+      "fecha": "2026-09-11T11:05:32+02:00",
+      "enlace": "https://elglobalfarma.com/farmacia/cofz-premia-compromiso-farmacia-salud-mental-rural-cooperacion/"
     },
     {
-      "titular": "La ingeniería médica logra la contención asistencial en Ceuta: \"Hablar de un colapso es faltar a la verdad\"",
+      "titular": "El 'Muface militar' alcanzará el despliegue total de su receta concertada un año después de iniciarlo",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-09-10T16:04:41+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20260910/la-ingenieria-medica-logra-la-contencion-asistencial-en-ceuta-hablar-de-un-colapso-es-faltar-verdad/350533_0.html"
-    },
-    {
-      "titular": "Convenio de farmacia: los sindicatos piden a FEFE retomar la negociación y avisan de nuevas movilizaciones",
-      "medios": [
-        "Diariofarma",
-        "El Global"
-      ],
-      "consenso": 2,
-      "fecha": "2026-09-10T13:03:39+02:00",
-      "enlace": "https://elglobalfarma.com/farmacia/convenio-farmacia-sindicatos-fefe-retomar-negociacion-nuevas-movilizaciones/"
-    },
-    {
-      "titular": "La soledad de Urgencias en el Hospital de Ceuta: \"Prácticamente nadie bajó a ayudar\"",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-10T16:05:49+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20260910/la-soledad-de-urgencias-en-el-hospital-ceuta-practicamente-nadie-bajo-ayudar/350500_0.html"
-    },
-    {
-      "titular": "«Los mayores vulnerables necesitan formarse y quieren hacerlo»: educación sanitaria desde la farmacia rural",
-      "medios": [
-        "El Global"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-10T11:46:51+02:00",
-      "enlace": "https://elglobalfarma.com/farmacia/farmacia-rural-educacion-sanitaria-mayores-vulnerbles-educacion/"
+      "fecha": "2026-09-11T05:05:00+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/muface/20260911/el-muface-militar-alcanzara-el-despliegue-total-de-su-receta-concertada-un-ano-despues-iniciarlo/350464_0.html"
     },
     {
       "titular": "La MHRA evalúa un plan de licencias escalonadas para acelerar la IA en el NHS británico",
@@ -67,6 +39,34 @@
       "consenso": 1,
       "fecha": "2026-09-10T19:23:39+02:00",
       "enlace": "https://diariofarma.com/2026/09/10/la-mhra-evalua-un-plan-con-licencias-escalonadas-para-acelerar-la-ia-en-el-nhs-britanico"
+    },
+    {
+      "titular": "Lladós: «Reforzar los incentivos a la innovación ya no es opcional; es urgente»",
+      "medios": [
+        "El Global"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-11T11:04:05+02:00",
+      "enlace": "https://elglobalfarma.com/industria/llados-farmaindustria-incentivos-innovacion-urgente/"
+    },
+    {
+      "titular": "La expansión de la lengua azul pone el foco sobre la escasa vacunación voluntaria del ganado",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-11T05:07:00+02:00",
+      "enlace": "https://www.redaccionmedica.com/salud-animal/20260911/expansion-lengua-azul-vacunacion-voluntaria-ganado/350577_0.html"
+    },
+    {
+      "titular": "Sanidad prepara un sistema de vigilancia de salud mental que contará con un Registro Estatal del Suicidio",
+      "medios": [
+        "Diariofarma",
+        "Redacción Médica"
+      ],
+      "consenso": 2,
+      "fecha": "2026-09-10T13:55:58+02:00",
+      "enlace": "https://diariofarma.com/2026/09/10/sanidad-prepara-un-nuevo-sistema-de-vigilancia-de-salud-mental-que-contara-con-un-registro-estatal-del-suicidio"
     }
   ],
   "salud": {
@@ -77,7 +77,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 97,
+    "antiguedad_minima_min": 16,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -85,7 +85,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 655,
+        "antiguedad_min": 920,
         "descartados_por_gancho": 0
       },
       {
@@ -94,7 +94,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 769,
+        "antiguedad_min": 16,
         "descartados_por_gancho": 0
       },
       {
@@ -103,7 +103,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 97,
+        "antiguedad_min": 66,
         "descartados_por_gancho": 0
       },
       {

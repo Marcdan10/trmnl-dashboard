@@ -2,8 +2,17 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "portadas",
-  "generado": "2026-09-11T06:57:15+02:00",
+  "generado": "2026-09-11T11:22:15+02:00",
   "titulares": [
+    {
+      "titular": "Los grandes banqueros piden a la UE flexibilizar la regulación para crecer más",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-11T10:40:35+02:00",
+      "enlace": "https://www.expansion.com/empresas/banca/2026/09/11/6aa3b698468aebda7c8b4594.html"
+    },
     {
       "titular": "La banca sube la rentabilidad de depósitos y cuentas",
       "medios": [
@@ -12,15 +21,6 @@
       "consenso": 1,
       "fecha": "2026-09-11T01:59:02+02:00",
       "enlace": "https://www.expansion.com/empresas/banca/2026/09/11/6aa3159f468aeb206a8b458e.html"
-    },
-    {
-      "titular": "La inflación presiona los convenios con subidas salariales por encima del 4%",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-11T01:59:03+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/09/11/6aa2ef5de5fdea075a8b4579.html"
     },
     {
       "titular": "El decreto de 'data center' provocaría la huida de 9.000 millones de inversión",
@@ -32,6 +32,24 @@
       "enlace": "https://www.expansion.com/tecnologia/2026/09/11/6aa323afe5fdea41248b4577.html"
     },
     {
+      "titular": "Cox emite 800 millones de dólares en deuda híbrida para inversores institucionales",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-11T10:46:08+02:00",
+      "enlace": "https://www.expansion.com/empresas/energia/2026/09/11/6aa3bfbf468aebcb4f8b4590.html"
+    },
+    {
+      "titular": "OpenAI abre la puerta a frenar el ritmo de desarrollo de la IA",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-11T07:52:04+02:00",
+      "enlace": "https://www.expansion.com/tecnologia/companias/2026/09/11/6aa39650e5fdeaf83e8b4594.html"
+    },
+    {
       "titular": "Santander lanza sus primeros productos de IA en banca de inversión",
       "medios": [
         "Expansión"
@@ -41,15 +59,6 @@
       "enlace": "https://www.expansion.com/empresas/banca/2026/09/11/6aa2a32be5fdea16718b4570.html"
     },
     {
-      "titular": "BBVA apuesta firme por Italia y redobla la oferta por el ahorro",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-11T00:28:47+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/09/11/6aa32c89468aeb3b4a8b458c.html"
-    },
-    {
       "titular": "Cuánto tiempo tarda la Bolsa en reponerse de una subida de tipos",
       "medios": [
         "Expansión"
@@ -57,15 +66,6 @@
       "consenso": 1,
       "fecha": "2026-09-11T00:28:51+02:00",
       "enlace": "https://www.expansion.com/mercados/2026/09/11/6aa29938e5fdeaea508b4594.html"
-    },
-    {
-      "titular": "La F1 calienta el mercado de alquiler de lujo en Madrid: así es la oferta más exclusiva",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-11T00:55:13+02:00",
-      "enlace": "https://www.expansion.com/inmobiliario/casas/2026/09/11/6aa30469e5fdeae5348b4577.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 298,
+    "antiguedad_minima_min": 20,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 73,
+        "items": 79,
         "error": null,
-        "antiguedad_min": 298,
+        "antiguedad_min": 20,
         "descartados_por_gancho": 0
       },
       {
