@@ -1,26 +1,26 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "portadas",
-  "generado": "2026-09-11T11:22:16+02:00",
+  "modo": "ultimas",
+  "generado": "2026-09-11T15:42:03+02:00",
   "titulares": [
     {
-      "titular": "Ilusión de Laporta en la Diada: \"Somos candidatos a todo\"",
+      "titular": "Pogacar viajará al Campeonato del Mundo de ciclismo de Montreal",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-11T10:14:51+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260911/1004225880/ilusion-laporta-diada-candidatos.html"
+      "fecha": "2026-09-11T15:03:16+02:00",
+      "enlace": "https://www.mundodeportivo.com/motor/motociclismo/20260911/1004225965/pogacar-viajara-campeonato-mundo-ciclismo-montreal.html"
     },
     {
-      "titular": "Araujo ya piensa en un futuro lejos del Barça",
+      "titular": "Ésta es la convocatoria del Espanyol para intentar ganar en El Sadar",
       "medios": [
-        "Sport"
+        "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/barca/araujo-piensa-futuro-lejos-barca-134179016"
+      "fecha": "2026-09-11T15:00:54+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/rcd-espanyol/20260911/1004225959/convocatoria-espanyol-intentar-ganar-sadar.html"
     },
     {
       "titular": "El Barça femenino roza los 30 millones de negocio y gana 8 millones tras crecer un 33%",
@@ -32,15 +32,6 @@
       "enlace": "https://www.marca.com/sport-business/2playbook/2026/09/08/barca-femenino-roza-30-millones-negocio-gana-8-millones-crecer-33.html"
     },
     {
-      "titular": "El Valencia CF todavía no ha ganado con el árbitro que pitará en el Sánchez-Pizjuán",
-      "medios": [
-        "Sport"
-      ],
-      "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/valencia/valencia-cf-todavia-ganado-arbitro-134179135"
-    },
-    {
       "titular": "Diez 'joyas' que pueden dar el pelotazo en Champions",
       "medios": [
         "Marca"
@@ -50,22 +41,31 @@
       "enlace": "https://www.marca.com/futbol/champions-league/2026/09/08/diez-joyas-dar-pelotazo-champions-nico-paz-manzambi-karetsas-godts-karl.html"
     },
     {
-      "titular": "Los Libres 1 del GP de San Marino, en directo",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-11T10:37:53+02:00",
-      "enlace": "https://www.mundodeportivo.com/motor/motogp/20260911/1004224839/motogp-misano-directo-libre-1-practica-gran-premio-san-marino-marc-marquez-jorge-martin-bezzecchi-pedro-acosta.html"
-    },
-    {
-      "titular": "Ni Pedri ni Raphinha: Luis de la Fuente no entiende cómo este futbolista no está entre los candidatos al Balón de Oro",
+      "titular": "Chus Bueno comparte con los jugadores el plan de expansión de la Euroliga",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/seleccion/pedri-raphinha-luis-fuente-entiende-134177669"
+      "enlace": "https://www.sport.es/es/noticias/baloncesto/euroliga/chus-bueno-comparte-jugadores-plan-134191318"
+    },
+    {
+      "titular": "Carmelo Ezpeleta, CEO de MotoGP y antiguo director del Jarama, dará el banderazo final al GP de Madrid de F-1",
+      "medios": [
+        "Sport"
+      ],
+      "consenso": 1,
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/motor/formula1/carmelo-ezpeleta-ceo-motogp-antiguo-134191545"
+    },
+    {
+      "titular": "Un dron 4K de DJI por debajo de los 250 euros: el Neo 2 pesa 151 gramos y entra en la categoría A1",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-11T15:00:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/elrecomendador/ofertas/20260911/1004224287/dron-4k-dji-debajo-250-euros-neo-2-pesa-151-gramos-entra-categoria-a1-mkt-alie.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 30,
+    "antiguedad_minima_min": 38,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 62,
         "error": null,
-        "antiguedad_min": 4356,
+        "antiguedad_min": 4616,
         "descartados_por_gancho": 6
       },
       {
@@ -98,19 +98,19 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 131,
+        "items": 135,
         "error": null,
-        "antiguedad_min": 30,
-        "descartados_por_gancho": 7
+        "antiguedad_min": 38,
+        "descartados_por_gancho": 8
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 47,
+        "items": 46,
         "error": null,
         "antiguedad_min": null,
-        "descartados_por_gancho": 3
+        "descartados_por_gancho": 1
       },
       {
         "medio": "NBA",

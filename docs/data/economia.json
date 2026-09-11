@@ -1,71 +1,71 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "portadas",
-  "generado": "2026-09-11T11:22:15+02:00",
+  "modo": "ultimas",
+  "generado": "2026-09-11T15:42:01+02:00",
   "titulares": [
     {
-      "titular": "Los grandes banqueros piden a la UE flexibilizar la regulación para crecer más",
+      "titular": "El déficit público crece al 1,89% del PIB en el primer semestre",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-11T10:40:35+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/09/11/6aa3b698468aebda7c8b4594.html"
+      "fecha": "2026-09-11T15:22:46+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/09/11/6aa400a4468aeb2b048b4583.html"
     },
     {
-      "titular": "La banca sube la rentabilidad de depósitos y cuentas",
+      "titular": "Starbucks apuesta 1.000 millones de dólares por las cafeterías como antídoto para las solitarias vidas digitales",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-11T01:59:02+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/09/11/6aa3159f468aeb206a8b458e.html"
+      "fecha": "2026-09-11T15:12:45+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/09/11/6aa3fe23468aeba8528b4599.html"
     },
     {
-      "titular": "El decreto de 'data center' provocaría la huida de 9.000 millones de inversión",
+      "titular": "BBVA recibe una multa de 5,5 millones en Italia por enviar a un cliente publicidad no consentida",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-11T00:14:39+02:00",
-      "enlace": "https://www.expansion.com/tecnologia/2026/09/11/6aa323afe5fdea41248b4577.html"
+      "fecha": "2026-09-11T15:11:52+02:00",
+      "enlace": "https://www.expansion.com/empresas/banca/2026/09/11/6aa3f131468aeb3a418b4571.html"
     },
     {
-      "titular": "Cox emite 800 millones de dólares en deuda híbrida para inversores institucionales",
+      "titular": "Por qué debes sacar tu dinero del banco y empezar a invertir",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-11T10:46:08+02:00",
-      "enlace": "https://www.expansion.com/empresas/energia/2026/09/11/6aa3bfbf468aebcb4f8b4590.html"
+      "fecha": "2026-09-11T14:42:25+02:00",
+      "enlace": "https://www.expansion.com/podcasts/en-accion/2026/09/11/6aa3f6a5468aeba8198b456d.html"
     },
     {
-      "titular": "OpenAI abre la puerta a frenar el ritmo de desarrollo de la IA",
+      "titular": "El IPC de EEUU se estanca en el 3,4% y eleva la presión sobre la Fed para subir tipos",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-11T07:52:04+02:00",
-      "enlace": "https://www.expansion.com/tecnologia/companias/2026/09/11/6aa39650e5fdeaf83e8b4594.html"
+      "fecha": "2026-09-11T14:41:53+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/09/11/6aa3f70fe5fdea162e8b4572.html"
     },
     {
-      "titular": "Santander lanza sus primeros productos de IA en banca de inversión",
+      "titular": "Detenido el cabecilla de la macroestafa inmobiliaria de Lujo Casa mientras se escondía en casa de su madre",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-11T00:15:59+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/09/11/6aa2a32be5fdea16718b4570.html"
+      "fecha": "2026-09-11T14:31:34+02:00",
+      "enlace": "https://www.expansion.com/inmobiliario/mercado/2026/09/11/6aa3f4a3e5fdeae5348b459b.html"
     },
     {
-      "titular": "Cuánto tiempo tarda la Bolsa en reponerse de una subida de tipos",
+      "titular": "Telefónica y Liberty preparan recortes por 700 millones en la británica VMO2",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-11T00:28:51+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/09/11/6aa29938e5fdeaea508b4594.html"
+      "fecha": "2026-09-11T14:07:57+02:00",
+      "enlace": "https://www.expansion.com/empresas/tecnologia/2026/09/11/6aa3e984468aeb482b8b457c.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 20,
+    "antiguedad_minima_min": 19,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 79,
+        "items": 83,
         "error": null,
-        "antiguedad_min": 20,
+        "antiguedad_min": 19,
         "descartados_por_gancho": 0
       },
       {

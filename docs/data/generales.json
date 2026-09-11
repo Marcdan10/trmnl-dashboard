@@ -1,9 +1,64 @@
 {
   "pantalla": "generales",
   "titulo": "Titulares",
-  "modo": "portadas",
-  "generado": "2026-09-11T11:22:11+02:00",
+  "modo": "ultimas",
+  "generado": "2026-09-11T15:41:59+02:00",
   "titulares": [
+    {
+      "titular": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Vivas ve “poco probable” que el delegado del Gobierno no fuera informado por su jefe de Gabinete de los avisos del CNI",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-11T15:36:59+02:00",
+      "enlace": "https://elpais.com/espana/2026-09-11/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html"
+    },
+    {
+      "titular": "Fernando Alonso, primera ¿y última? vez en Madring",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-11T15:29:24+02:00",
+      "enlace": "https://www.abc.es/deportes/formula-1/alonso-primera-ultima-vez-madring-20260910012450-nt.html"
+    },
+    {
+      "titular": "Muere la Princesa Astrid de Noruega, hermana de Harald V, a los 94 años",
+      "medios": [
+        "El País",
+        "ABC"
+      ],
+      "consenso": 2,
+      "fecha": "2026-09-11T15:26:21+02:00",
+      "enlace": "https://www.abc.es/gente/muere-princesa-astrid-noruega-hermana-harald-anos-20260911151923-nt.html"
+    },
+    {
+      "titular": "Carreteras geotérmicas: la tecnología bajo el asfalto que busca acabar con las plagas de baches",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-11T15:19:20+02:00",
+      "enlace": "https://www.abc.es/motor/reportajes/carreteras-geotermicas-tecnologia-bajo-asfalto-busca-acabar-20260911100100-nt.html"
+    },
+    {
+      "titular": "Manolo González: “Vamos muy bien de moral”",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-11T14:22:05+02:00",
+      "enlace": "https://www.lavanguardia.com/deportes/futbol/20260911/11632767/manolo-gonzalez-moral.html"
+    },
+    {
+      "titular": "Más Madrid y PSOE atacan a Ayuso por el ático e ironizan con su nueva residencia",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-11T14:19:08+02:00",
+      "enlace": "https://www.lavanguardia.com/local/madrid/20260911/11632714/mas-madrid-psoe-atacan-ayuso-atico-e-ironizan-nueva-residencia-presidenta.html"
+    },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
       "medios": [
@@ -12,61 +67,6 @@
       "consenso": 1,
       "fecha": "2022-06-10T01:05:00+02:00",
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
-    },
-    {
-      "titular": "El Govern reivindica una Catalunya “sin exclusiones” en “un mundo actual que cierra fronteras”",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-11T07:59:23+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20260911/11632318/diada-catalunya-2026-ultima-hora-actos-11-septiembre-en-directo-ext-pau.html"
-    },
-    {
-      "titular": "Una avería obliga a suspender durante varias horas la circulación en la línea C5 de Cercanías Madrid",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-11T11:09:56+02:00",
-      "enlace": "https://www.abc.es/espana/madrid/averia-obliga-suspender-circulacion-linea-cercanias-madrid-20260911083911-nt.html"
-    },
-    {
-      "titular": "Dimite el jefe de gabinete del delegado del Gobierno en Ceuta que recibió los avisos del CNI",
-      "medios": [
-        "El País",
-        "ABC"
-      ],
-      "consenso": 2,
-      "fecha": "2026-09-11T11:08:19+02:00",
-      "enlace": "https://www.abc.es/espana/dimite-jefe-gabinete-delegado-gobierno-ceuta-recibio-20260911094046-nt.html"
-    },
-    {
-      "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
-      "medios": [
-        "RTVE"
-      ],
-      "consenso": 1,
-      "fecha": "2022-06-10T00:03:00+02:00",
-      "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
-    },
-    {
-      "titular": "La Moncloa y Robles pactaron la posición oficial del CNI para intentar frenar las críticas al Gobierno por ignorar los avisos",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-11T05:30:01+02:00",
-      "enlace": "https://elpais.com/espana/2026-09-11/la-moncloa-y-robles-pactaron-la-posicion-oficial-del-cni-para-intentar-frenar-las-criticas-al-gobierno-por-ignorar-los-avisos.html"
-    },
-    {
-      "titular": "Tres detenidos en la concentración de la izquierda independentista contra Aliança Catalana",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-10T17:32:18+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20260910/11632105/mossos-blindan-fossar-les-moreres-evitar-choques-alianca-catalana-entidades-antifascistas.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 2,
+    "antiguedad_minima_min": 4,
     "detalle": [
       {
         "medio": "RTVE",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2238377,
+        "antiguedad_min": 2238636,
         "descartados_por_gancho": 0
       },
       {
@@ -98,28 +98,28 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 145,
+        "items": 146,
         "error": null,
-        "antiguedad_min": 2,
-        "descartados_por_gancho": 6
+        "antiguedad_min": 4,
+        "descartados_por_gancho": 8
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 135,
+        "items": 133,
         "error": null,
-        "antiguedad_min": 60,
-        "descartados_por_gancho": 15
+        "antiguedad_min": 79,
+        "descartados_por_gancho": 16
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 25,
+        "items": 24,
         "error": null,
         "antiguedad_min": 12,
-        "descartados_por_gancho": 0
+        "descartados_por_gancho": 1
       }
     ]
   }
