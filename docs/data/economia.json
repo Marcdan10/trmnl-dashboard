@@ -1,62 +1,26 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "ultimas",
-  "generado": "2026-09-11T21:56:12+02:00",
+  "modo": "portadas",
+  "generado": "2026-09-12T00:12:11+02:00",
   "titulares": [
     {
-      "titular": "El independentismo, estancado un año más por la Diada: reúne a 45.000 personas en Barcelona",
+      "titular": "La patronal de los centros de datos dice que el nuevo decreto es un \"veto\" que acabará con el sector",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-11T19:24:03+02:00",
-      "enlace": "https://www.expansion.com/catalunya/2026/09/11/6aa4380e468aeb84728b4583.html"
+      "fecha": "2026-09-11T14:06:57+02:00",
+      "enlace": "https://www.expansion.com/empresas/tecnologia/2026/09/11/6aa3e8b4e5fdeaf16b8b4572.html"
     },
     {
-      "titular": "Lagarde insta a reducir ciertas partidas de gasto público para financiar inversiones en IA",
+      "titular": "Arabia Saudí cierra su oleoducto alternativo a Ormuz tras sufrir varios ataques",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-11T19:09:47+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/09/11/6aa4341a468aeb474b8b4575.html"
-    },
-    {
-      "titular": "Inditex sube las apuestas en EEUU con nuevas tiendas de Zara, Massimo Dutti y Bershka",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-11T18:53:16+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/09/11/6aa42d91468aeba96b8b458d.html"
-    },
-    {
-      "titular": "China extiende su alcance jurídico en el extranjero para combatir las sanciones de Estados Unidos",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-11T18:10:54+02:00",
-      "enlace": "https://www.expansion.com/economia/financial-times/2026/09/11/6aa427db468aeb7f608b4582.html"
-    },
-    {
-      "titular": "El Ibex rompe su racha bajista y modera la caída semanal al 1%",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-11T17:44:40+02:00",
-      "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/09/11/6aa3972d468aeb89578b4579.html"
-    },
-    {
-      "titular": "Indra presentará en noviembre el nuevo plan Simón-Recasens",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-11T16:51:50+02:00",
-      "enlace": "https://www.expansion.com/empresas/tecnologia/2026/09/11/6aa41583e5fdea59228b4585.html"
+      "fecha": "2026-09-11T21:55:36+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/09/11/6aa45b15e5fdea2f2e8b458d.html"
     },
     {
       "titular": "La inflación persiste en el 3,4% en EEUU y eleva la presión sobre la Fed para subir tipos",
@@ -66,6 +30,42 @@
       "consenso": 1,
       "fecha": "2026-09-11T16:39:37+02:00",
       "enlace": "https://www.expansion.com/economia/2026/09/11/6aa3f70fe5fdea162e8b4572.html"
+    },
+    {
+      "titular": "Por qué debes sacar tu dinero del banco y empezar a invertir",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-11T14:42:25+02:00",
+      "enlace": "https://www.expansion.com/podcasts/en-accion/2026/09/11/6aa3f6a5468aeba8198b456d.html"
+    },
+    {
+      "titular": "Fórmula 1, el nuevo gran negocio de Madrid",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-11T00:39:14+02:00",
+      "enlace": "https://www.expansion.com/deporte-negocio/2026/09/11/6aa2c602468aeba8528b4575.html"
+    },
+    {
+      "titular": "Cuánto tiempo tarda la Bolsa en reponerse de una subida de tipos",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-11T00:28:51+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/09/11/6aa29938e5fdeaea508b4594.html"
+    },
+    {
+      "titular": "Así es Aresbank, el banco que hace de puente entre España y el mundo árabe",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-10T20:47:55+02:00",
+      "enlace": "https://www.expansion.com/empresas/banca/2026/09/10/6aa26d13468aeb28158b45a5.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 152,
+    "antiguedad_minima_min": 6,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 84,
+        "items": 82,
         "error": null,
-        "antiguedad_min": 152,
+        "antiguedad_min": 6,
         "descartados_por_gancho": 0
       },
       {
