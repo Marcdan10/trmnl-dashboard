@@ -2,7 +2,7 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "ultimas",
-  "generado": "2026-09-11T19:27:50+02:00",
+  "generado": "2026-09-11T21:56:22+02:00",
   "titulares": [
     {
       "titular": "Una urgencióloga y un forense se disputarán el decanato de Medicina de la Universidad de Murcia",
@@ -77,7 +77,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 18,
+    "antiguedad_minima_min": 167,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -85,7 +85,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 323,
+        "antiguedad_min": 471,
         "descartados_por_gancho": 0
       },
       {
@@ -94,7 +94,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 352,
+        "antiguedad_min": 501,
         "descartados_por_gancho": 0
       },
       {
@@ -103,7 +103,7 @@
         "ok": true,
         "items": 29,
         "error": null,
-        "antiguedad_min": 18,
+        "antiguedad_min": 167,
         "descartados_por_gancho": 1
       },
       {

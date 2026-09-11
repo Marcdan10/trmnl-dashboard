@@ -2,8 +2,17 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-09-11T19:27:39+02:00",
+  "generado": "2026-09-11T21:56:12+02:00",
   "titulares": [
+    {
+      "titular": "El independentismo, estancado un año más por la Diada: reúne a 45.000 personas en Barcelona",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-11T19:24:03+02:00",
+      "enlace": "https://www.expansion.com/catalunya/2026/09/11/6aa4380e468aeb84728b4583.html"
+    },
     {
       "titular": "Lagarde insta a reducir ciertas partidas de gasto público para financiar inversiones en IA",
       "medios": [
@@ -57,15 +66,6 @@
       "consenso": 1,
       "fecha": "2026-09-11T16:39:37+02:00",
       "enlace": "https://www.expansion.com/economia/2026/09/11/6aa3f70fe5fdea162e8b4572.html"
-    },
-    {
-      "titular": "Muere la princesa Astrid de Noruega dos días después del funeral de su hermano",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-11T15:37:46+02:00",
-      "enlace": "https://www.expansion.com/sociedad/2026/09/11/muere-princesa-astrid-noruega-dos-dias-despues-funeral-hermano.html"
     }
   ],
   "salud": {
@@ -78,7 +78,7 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 17,
+    "antiguedad_minima_min": 152,
     "detalle": [
       {
         "medio": "Expansión",
@@ -86,7 +86,7 @@
         "ok": true,
         "items": 84,
         "error": null,
-        "antiguedad_min": 17,
+        "antiguedad_min": 152,
         "descartados_por_gancho": 0
       },
       {

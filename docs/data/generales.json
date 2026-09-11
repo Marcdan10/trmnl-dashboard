@@ -2,62 +2,61 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-09-11T19:27:35+02:00",
+  "generado": "2026-09-11T21:56:06+02:00",
   "titulares": [
     {
-      "titular": "Silencio contra la división: Nueva York conmemora su día más oscuro",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-11T19:13:59+02:00",
-      "enlace": "https://www.abc.es/internacional/silencio-division-nueva-york-conmemora-dia-oscuro-20260911172721-nt.html"
-    },
-    {
-      "titular": "La difusión de los informes causa un terremoto en Ferraz y Moncloa",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-11T19:12:31+02:00",
-      "enlace": "https://www.abc.es/espana/fiasco-informes-ceuta-causa-terremoto-psoe-gobierno-20260911012613-nt.html"
-    },
-    {
-      "titular": "La sombra de la guerra de Irán planea sobre la conmemoración de Trump del 11-S en el Pentágono",
+      "titular": "El Supremo de Brasil investiga al candidato presidencial Bolsonaro por corrupción",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-11T19:07:14+02:00",
-      "enlace": "https://elpais.com/internacional/2026-09-11/la-sombra-de-la-guerra-de-iran-planeo-sobre-la-conmemoracion-de-trump-del-11-s-en-el-pentagono.html"
+      "fecha": "2026-09-11T21:46:37+02:00",
+      "enlace": "https://elpais.com/america/2026-09-11/el-supremo-de-brasil-revela-que-investiga-al-candidato-presidencial-bolsonaro-por-corrupcion.html"
     },
     {
-      "titular": "Última hora de la entrada de inmigrantes a Ceuta, en directo | Vivas dice que La Moncloa le pidió “que no llamara más” tras días advirtiendo sobre la crisis migratoria",
+      "titular": "Javier Cercas en el Hay Festival de Segovia: “Nadie dijo ni pío el 23-F porque había miedo. Por eso EL PAÍS tiene un mérito incontestable”",
       "medios": [
-        "El País",
-        "La Vanguardia"
+        "El País"
       ],
-      "consenso": 2,
-      "fecha": "2026-09-11T18:41:11+02:00",
-      "enlace": "https://elpais.com/espana/2026-09-11/ultima-hora-de-la-entrada-de-inmigrantes-a-ceuta-en-directo.html"
+      "consenso": 1,
+      "fecha": "2026-09-11T21:38:20+02:00",
+      "enlace": "https://elpais.com/cultura/2026-09-11/javier-cercas-en-el-hay-festival-de-segovia-nadie-dijo-ni-pio-el-23-f-porque-habia-miedo-por-eso-el-pais-tiene-un-merito-incontestable.html"
     },
     {
-      "titular": "Muere un motorista en un choque frontal con un turismo en la C-59 en Caldes de Montbui",
+      "titular": "El edificio de boxes del Madring, una obra a contra reloj: «En enero pusimos el primer pilar»",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-11T21:37:09+02:00",
+      "enlace": "https://www.abc.es/espana/madrid/edificio-boxes-madring-obra-contrarreloj-enero-poniamos-20260911192548-nt.html"
+    },
+    {
+      "titular": "Diada con la vista puesta en la extrema derecha",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-11T18:15:43+02:00",
-      "enlace": "https://www.lavanguardia.com/local/barcelona/barcelona-plus/20260911/11632869/muere-motorista-choque-frontal-turismo-c-59-caldes-montbui.html"
+      "fecha": "2026-09-11T21:19:12+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20260911/11632918/independentismo-conjura-volver-mas-fuerza-2027.html"
     },
     {
-      "titular": "Mas anula la emboscada de Roglic antes de la batalla final",
+      "titular": "Un independentismo a la defensiva no levanta cabeza en una Diada marcada por el auge de Aliança",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-11T20:52:21+02:00",
+      "enlace": "https://www.abc.es/espana/cataluna/independentismo-defensiva-levanta-cabeza-diada-marcada-auge-20260911192212-nt.html"
+    },
+    {
+      "titular": "Modi abraza a Putin y espera a Xi en una cumbre de los Brics bajo la sombra de Trump",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-11T17:52:05+02:00",
-      "enlace": "https://www.lavanguardia.com/deportes/ciclismo/20260911/11632846/dunbar-gana-etapa-19-vuelta-a-espana-enric-mas-frena-roglic.html"
+      "fecha": "2026-09-11T20:41:59+02:00",
+      "enlace": "https://www.lavanguardia.com/internacional/20260911/11632771/modi-abraza-putin-espera-xi-cumbre-brics-sombra-trump.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -75,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 13,
+    "antiguedad_minima_min": 9,
     "detalle": [
       {
         "medio": "RTVE",
@@ -83,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2238862,
+        "antiguedad_min": 2239011,
         "descartados_por_gancho": 0
       },
       {
@@ -91,7 +90,7 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 500",
+        "error": "HTTP 429",
         "antiguedad_min": null
       },
       {
@@ -100,26 +99,26 @@
         "ok": true,
         "items": 144,
         "error": null,
-        "antiguedad_min": 20,
+        "antiguedad_min": 9,
         "descartados_por_gancho": 6
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 132,
+        "items": 134,
         "error": null,
-        "antiguedad_min": 71,
-        "descartados_por_gancho": 16
+        "antiguedad_min": 36,
+        "descartados_por_gancho": 15
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 25,
+        "items": 24,
         "error": null,
-        "antiguedad_min": 13,
-        "descartados_por_gancho": 0
+        "antiguedad_min": 18,
+        "descartados_por_gancho": 1
       }
     ]
   }

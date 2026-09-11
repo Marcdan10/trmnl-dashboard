@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-09-11T19:27:43+02:00",
+  "generado": "2026-09-11T21:56:16+02:00",
   "titulares": [
     {
-      "titular": "Marruecos cuestiona el anuncio de su Federación sobre la final del Mundial",
+      "titular": "A partir del 31 de agosto de 2029 será obligatorio que los cuidadores inspeccionen a los animales al menos una vez al día",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-11T18:49:20+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/mundial/20260911/1004226019/mundial-2030.html"
+      "fecha": "2026-09-11T21:25:30+02:00",
+      "enlace": "https://www.mundodeportivo.com/elotromundo/mascotas/20260911/1004226073/union-europea-cambia-normas-partir-31-agosto-2029-sera-obligatorio-cuidadores-perros-gatos-inspeccionen-animales-vez-dia-pjm-dct.html"
     },
     {
-      "titular": "Dunbar, de estar tres meses KO tras romperse una costilla y ser atropellado por una moto, a ganar en La Vuelta",
+      "titular": "Romeu avisa antes del Barça-Atlético: \"No me gustó mucho el partido de Sevilla\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-11T18:48:53+02:00",
-      "enlace": "https://www.mundodeportivo.com/ciclismo/vuelta-espana/20260911/1004226028/dunbar-tres-meses-ko-romperse-costilla-paris-niza-atropellado-moto-ganar-vuelta.html"
+      "fecha": "2026-09-11T21:14:56+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260911/1004226078/romeu-avisa-barca-atletico-no-me-gusto-partido-sevilla.html"
     },
     {
       "titular": "El Barça femenino roza los 30 millones de negocio y gana 8 millones tras crecer un 33%",
@@ -50,22 +50,22 @@
       "enlace": "https://www.sport.es/es/noticias/motor/formula1/clasificacion-gp-espana-f1-horario-donde-ver-madring-fernando-alonso-134196912"
     },
     {
-      "titular": "Joao Pedro fundamenta el interés de Deco: primer MVP del Chelsea de Xabi Alonso",
+      "titular": "El UCAM Murcia toma vuelo en Yecla con otro recital de Boum y Forrest",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/premier-league/joao-pedro-fundamenta-interes-deco-134195688"
+      "enlace": "https://www.sport.es/es/noticias/baloncesto/ucam-murcia-toma-vuelo-yecla-134203438"
     },
     {
-      "titular": "A Marc Márquez no le hacen ni pizca de gracia los contraplanos en la tele con Valentino en Misano",
+      "titular": "Kang-In Lee ya tiene reconocimientos con el Atlético de Madrid",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-11T18:46:36+02:00",
-      "enlace": "https://www.mundodeportivo.com/motor/motogp/20260911/1004226026/marc-marquez-no-le-pizca-gracia-contraplanos-tele-valentino-misano.html"
+      "fecha": "2026-09-11T21:13:49+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20260911/1004226081/kang-in-lee-reconocimientos-atletico-madrid.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 38,
+    "antiguedad_minima_min": 30,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 62,
         "error": null,
-        "antiguedad_min": 4841,
+        "antiguedad_min": 4990,
         "descartados_por_gancho": 6
       },
       {
@@ -98,16 +98,16 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 137,
+        "items": 138,
         "error": null,
-        "antiguedad_min": 38,
-        "descartados_por_gancho": 6
+        "antiguedad_min": 30,
+        "descartados_por_gancho": 8
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 48,
+        "items": 49,
         "error": null,
         "antiguedad_min": null,
         "descartados_por_gancho": 0
