@@ -2,7 +2,7 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-09-11T02:18:46+02:00",
+  "generado": "2026-09-11T06:57:17+02:00",
   "titulares": [
     {
       "titular": "Cesc Fàbregas: \"El Barça da miedo\"",
@@ -41,13 +41,13 @@
       "enlace": "https://www.mundodeportivo.com/futbol/champions-league/20260910/1004225796/primera-vez-inolvidable-cesc-fabregas-champions.html"
     },
     {
-      "titular": "Vidorreta, tras ganar al Tenerife en el Costa del Sol: «Hernangómez se ha hecho grande en ataque y defensa y es una buena noticia para él y para el equipo»",
+      "titular": "¿Puede jugar Messi en el Eldense?",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/baloncesto/vidorreta-ganar-tenerife-costa-sol-134168621"
+      "enlace": "https://www.sport.es/es/noticias/futbol/segunda/jugar-messi-eldense-134156287"
     },
     {
       "titular": "Diez 'joyas' que pueden dar el pelotazo en Champions",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 108,
+    "antiguedad_minima_min": 101,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 62,
         "error": null,
-        "antiguedad_min": 3812,
+        "antiguedad_min": 4091,
         "descartados_por_gancho": 6
       },
       {
@@ -100,14 +100,14 @@
         "ok": true,
         "items": 142,
         "error": null,
-        "antiguedad_min": 108,
+        "antiguedad_min": 101,
         "descartados_por_gancho": 4
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 48,
+        "items": 49,
         "error": null,
         "antiguedad_min": null,
         "descartados_por_gancho": 1

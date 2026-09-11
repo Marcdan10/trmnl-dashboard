@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-09-11T02:18:38+02:00",
+  "generado": "2026-09-11T06:57:12+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -14,6 +14,15 @@
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
     },
     {
+      "titular": "Los argumentos del Supremo sobre la ley de nietos alimentan la tesis del pucherazo electoral que airea la derecha",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-11T05:30:01+02:00",
+      "enlace": "https://elpais.com/espana/2026-09-11/los-argumentos-del-supremo-sobre-la-ley-de-nietos-alimentan-la-tesis-del-pucherazo-electoral-que-airea-la-derecha.html"
+    },
+    {
       "titular": "Illa reivindica la convivencia ante los problemas de gestión y el auge extremista",
       "medios": [
         "La Vanguardia"
@@ -23,13 +32,13 @@
       "enlace": "https://www.lavanguardia.com/politica/20260910/11632271/illa-reivindica-convivencia-problemas-gestion-auge-extremista.html"
     },
     {
-      "titular": "Los depósitos dan un 2% al ahorro por primera vez desde hace dos años",
+      "titular": "«Hicimos un buen trabajo con los muertos, pero malo con los vivos»",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-11T01:42:51+02:00",
-      "enlace": "https://www.abc.es/economia/cuentas-corrientes/depositos-dan-ahorro-primera-vez-dos-anos-20260911014251-nt.html"
+      "fecha": "2026-09-11T02:49:38+02:00",
+      "enlace": "https://www.abc.es/internacional/testimonios-11s-memoria-20260911012717-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -41,6 +50,15 @@
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
     },
     {
+      "titular": "España aplasta a Australia para citarse en semifinales con Estados Unidos",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-11T02:47:22+02:00",
+      "enlace": "https://www.abc.es/deportes/baloncesto/espana-aplasta-australia-citarse-semifinales-estados-unidos-20260910223947-nt.html"
+    },
+    {
       "titular": "El ponente de la resolución sobre la ‘ley de nietos’ expresó a Feijóo su deseo de que el PP llegara al Gobierno",
       "medios": [
         "El País"
@@ -48,24 +66,6 @@
       "consenso": 1,
       "fecha": "2026-09-10T21:07:01+02:00",
       "enlace": "https://elpais.com/espana/2026-09-10/el-ponente-de-la-resolucion-sobre-la-ley-de-nietos-expreso-a-feijoo-su-deseo-de-que-el-pp-llegara-al-gobierno.html"
-    },
-    {
-      "titular": "Los médicos convocan una huelga indefinida en toda España para mediados de octubre",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-11T01:42:12+02:00",
-      "enlace": "https://www.abc.es/sociedad/medicos-plantean-huelga-general-partir-octubre-monica-20260910205557-nt.html"
-    },
-    {
-      "titular": "La presidenta del Supremo: “No es admisible que la descalificación pública de los jueces se convierta en un instrumento de presión”",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-10T13:20:43+02:00",
-      "enlace": "https://elpais.com/espana/2026-09-10/apertura-del-ano-judicial.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 35,
+    "antiguedad_minima_min": 12,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2237833,
+        "antiguedad_min": 2238112,
         "descartados_por_gancho": 0
       },
       {
@@ -90,26 +90,26 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 500",
+        "error": "HTTP 429",
         "antiguedad_min": null
       },
       {
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 145,
+        "items": 143,
         "error": null,
-        "antiguedad_min": 125,
+        "antiguedad_min": 12,
         "descartados_por_gancho": 6
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 133,
+        "items": 129,
         "error": null,
-        "antiguedad_min": 79,
-        "descartados_por_gancho": 13
+        "antiguedad_min": 39,
+        "descartados_por_gancho": 15
       },
       {
         "medio": "ABC",
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 35,
+        "antiguedad_min": 247,
         "descartados_por_gancho": 0
       }
     ]
