@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-09-12T06:50:44+02:00",
+  "generado": "2026-09-12T10:58:27+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -14,13 +14,13 @@
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
     },
     {
-      "titular": "La guerra abierta en la Delegación de Ceuta por los avisos del salto fronterizo atrapa al Gobierno en un nuevo cruce de versiones",
+      "titular": "Los riesgos de la IA según los que la han visto desde dentro: “El mundo no está preparado y nosotros no estamos preparados”",
       "medios": [
         "El País"
       ],
       "consenso": 1,
       "fecha": "2026-09-12T05:30:01+02:00",
-      "enlace": "https://elpais.com/espana/2026-09-12/la-guerra-abierta-en-la-delegacion-de-ceuta-por-los-avisos-del-salto-fronterizo-atrapa-al-gobierno-en-un-nuevo-cruce-de-versiones.html"
+      "enlace": "https://elpais.com/tecnologia/2026-09-12/los-riesgos-de-la-ia-segun-los-que-la-han-visto-desde-dentro-el-mundo-no-esta-preparado-y-nosotros-no-estamos-preparados.html"
     },
     {
       "titular": "La crisis migratoria de Ceuta hunde el turismo español a Marruecos",
@@ -32,13 +32,13 @@
       "enlace": "https://www.lavanguardia.com/economia/20260912/11632873/crisis-migratoria-ceuta-hunde-turismo-espanol-marruecos.html"
     },
     {
-      "titular": "Los secretos del paddock de Madring, el nuevo listón de la F1",
+      "titular": "La confianza en Trump se desploma en Venezuela mientras sube la de María Corina Machado",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-12T02:56:36+02:00",
-      "enlace": "https://www.abc.es/deportes/formula-1/secretos-paddock-madring-nuevo-liston-20260911015331-nt.html"
+      "fecha": "2026-09-12T10:31:58+02:00",
+      "enlace": "https://www.abc.es/internacional/confianza-trump-desploma-venezuela-sube-maria-corina-20260911011824-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -50,22 +50,22 @@
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
     },
     {
-      "titular": "De Indra a Correos y la ‘ley de nietos’: cuatro años del PP y Vox renovando la teoría de la trampa electoral",
+      "titular": "La guerra abierta en la Delegación de Ceuta por los avisos del salto fronterizo atrapa al Gobierno en un nuevo cruce de versiones",
       "medios": [
         "El País"
       ],
       "consenso": 1,
       "fecha": "2026-09-12T05:30:01+02:00",
-      "enlace": "https://elpais.com/espana/2026-09-12/de-indra-a-correos-y-la-ley-de-nietos-cuatro-anos-del-pp-y-vox-renovando-la-teoria-de-la-trampa-electoral.html"
+      "enlace": "https://elpais.com/espana/2026-09-12/la-guerra-abierta-en-la-delegacion-de-ceuta-por-los-avisos-del-salto-fronterizo-atrapa-al-gobierno-en-un-nuevo-cruce-de-versiones.html"
     },
     {
-      "titular": "Aitana, la princesa, regresa a Madrid",
+      "titular": "Cambio de hora en España 2025: este es el día que cambia al horario de invierno",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-12T02:54:28+02:00",
-      "enlace": "https://www.abc.es/cultura/musica/aitana-princesa-regresa-madrid-20260912023844-nt.html"
+      "fecha": "2026-09-12T10:15:38+02:00",
+      "enlace": "https://www.abc.es/sociedad/cambio-hora-espana-dia-cambiamos-reloj-entrar-20260912050000-nt.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 5,
+    "antiguedad_minima_min": 22,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2239545,
+        "antiguedad_min": 2239793,
         "descartados_por_gancho": 0
       },
       {
@@ -97,28 +97,28 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 138,
+        "items": 142,
         "error": null,
-        "antiguedad_min": 5,
-        "descartados_por_gancho": 6
+        "antiguedad_min": 22,
+        "descartados_por_gancho": 7
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 126,
+        "items": 120,
         "error": null,
-        "antiguedad_min": 50,
-        "descartados_por_gancho": 14
+        "antiguedad_min": 57,
+        "descartados_por_gancho": 21
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 23,
+        "items": 25,
         "error": null,
-        "antiguedad_min": 234,
-        "descartados_por_gancho": 2
+        "antiguedad_min": 26,
+        "descartados_por_gancho": 0
       }
     ]
   }

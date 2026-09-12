@@ -2,7 +2,7 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-09-12T06:50:49+02:00",
+  "generado": "2026-09-12T10:58:33+02:00",
   "titulares": [
     {
       "titular": "Las próximas renovaciones en las que ya trabaja el Barça",
@@ -14,15 +14,6 @@
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260912/1004226082/proximas-renovaciones-trabaja-barca.html"
     },
     {
-      "titular": "Clasificación del GP de España de F1 hoy: horario y dónde ver gratis por TV y en directo la Fórmula 1 en Madring con Fernando Alonso",
-      "medios": [
-        "Sport"
-      ],
-      "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/motor/formula1/clasificacion-gp-espana-f1-horario-donde-ver-madring-fernando-alonso-134196912"
-    },
-    {
       "titular": "El Barça femenino roza los 30 millones de negocio y gana 8 millones tras crecer un 33%",
       "medios": [
         "Marca"
@@ -32,22 +23,22 @@
       "enlace": "https://www.marca.com/sport-business/2playbook/2026/09/08/barca-femenino-roza-30-millones-negocio-gana-8-millones-crecer-33.html"
     },
     {
-      "titular": "'Bombazo' del verdugo de Alcaraz hacia la final del US Open",
+      "titular": "Comparan a la nueva joya de la Ligue 1 con Lamine Yamal",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-12T05:00:30+02:00",
-      "enlace": "https://www.mundodeportivo.com/tenis/open-usa/20260912/1004226192/bombazo-verdugo-alcaraz-final-us-open.html"
+      "fecha": "2026-09-11T17:35:05+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260911/1004225994/comparan-lamine-yamal-nueva-joya-ligue-1.html"
     },
     {
-      "titular": "Así queda la clasificación general de la Vuelta a España 2026 hoy tras la etapa 19",
+      "titular": "Calero, sobre la lesión de Carlos Fernández: \"Desconozco los tiempos, pero podrían ser dos-tres meses de baja\"",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/ciclismo/clasificacion-general-vuelta-espana-etapa-19-134194137"
+      "enlace": "https://www.sport.es/es/noticias/oviedo/calero-lesion-carlos-fernandez-desconozco-134210605"
     },
     {
       "titular": "Diez 'joyas' que pueden dar el pelotazo en Champions",
@@ -59,13 +50,22 @@
       "enlace": "https://www.marca.com/futbol/champions-league/2026/09/08/diez-joyas-dar-pelotazo-champions-nico-paz-manzambi-karetsas-godts-karl.html"
     },
     {
-      "titular": "1-0: El Valencia sigue su caída libre en Sevilla y Corberán peligra",
+      "titular": "Dembélé, sobre el Balón de Oro: \"Soy competitivo, así que mi objetivo es volver a ganarlo\"",
+      "medios": [
+        "Sport"
+      ],
+      "consenso": 1,
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/futbol-internacional/dembele-balon-oro-competitivo-objetivo-134209357"
+    },
+    {
+      "titular": "Busquets ve más cerca la Champions y avala a Cesc como futurible",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-11T23:20:19+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/sevilla/20260911/1004226104/valencia-sigue-caida-libre-sevilla-corberan-peligra.html"
+      "fecha": "2026-09-11T23:58:21+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260911/1004226136/busquets-ve-cerca-champions-avala-cesc-futurible.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 110,
+    "antiguedad_minima_min": 40,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 62,
         "error": null,
-        "antiguedad_min": 5524,
+        "antiguedad_min": 5772,
         "descartados_por_gancho": 6
       },
       {
@@ -98,19 +98,19 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 140,
+        "items": 144,
         "error": null,
-        "antiguedad_min": 110,
+        "antiguedad_min": 40,
         "descartados_por_gancho": 6
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 50,
+        "items": 46,
         "error": null,
         "antiguedad_min": null,
-        "descartados_por_gancho": 0
+        "descartados_por_gancho": 3
       },
       {
         "medio": "NBA",
