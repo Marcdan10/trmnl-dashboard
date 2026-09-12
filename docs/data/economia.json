@@ -2,8 +2,44 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-09-12T20:07:39+02:00",
+  "generado": "2026-09-12T22:45:01+02:00",
   "titulares": [
+    {
+      "titular": "Así transforma la IA los restaurantes de McDonald's en España",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-12T20:51:03+02:00",
+      "enlace": "https://www.expansion.com/tecnologia/companias/2026/09/12/6aa51d0c468aeb4d548b457d.html"
+    },
+    {
+      "titular": "El juicio en Nueva York que puede costar millones a Huawei",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-12T20:51:02+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/09/12/6aa552c2e5fdeaba4b8b4597.html"
+    },
+    {
+      "titular": "Fondos emergentes para diversificar la inversión",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-12T20:50:51+02:00",
+      "enlace": "https://www.expansion.com/mercados/fondos/2026/09/12/6aa53930468aeb4a2c8b4590.html"
+    },
+    {
+      "titular": "Los principales competidores del nuevo iPhone Duo",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-12T20:50:50+02:00",
+      "enlace": "https://www.expansion.com/tecnologia/companias/2026/09/12/6aa51f4d468aebec128b4573.html"
+    },
     {
       "titular": "Irán abordará las rutas seguras de navegación en Ormuz con Omán el lunes",
       "medios": [
@@ -30,42 +66,6 @@
       "consenso": 1,
       "fecha": "2026-09-12T15:48:38+02:00",
       "enlace": "https://www.expansion.com/economia/2026/09/12/6aa52092e5fdeace6d8b4573.html"
-    },
-    {
-      "titular": "UGT, CGT y ÚTIL visibilizan su conflicto con Airbus con otra marcha en Madrid",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-12T14:56:19+02:00",
-      "enlace": "https://www.expansion.com/empresas/industria/2026/09/12/6aa5495a468aeb2b048b45b1.html"
-    },
-    {
-      "titular": "Irene Montero se someterá a unas primarias abiertas para ser la candidata de Podemos a las elecciones",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-12T14:41:58+02:00",
-      "enlace": "https://www.expansion.com/economia/politica/2026/09/12/6aa5403a468aeb45728b459e.html"
-    },
-    {
-      "titular": "Trump afirma que los precios del gasóleo se \"desplomarán\" si Reino Unido abre el mar del Norte",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-12T13:22:20+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/09/12/6aa533c6e5fdea7e1f8b4590.html"
-    },
-    {
-      "titular": "Scope eleva el rating de España a 'A+' y cambia la perspectiva a estable",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-12T11:47:54+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/09/12/6aa51ebbe5fdea7e1f8b4589.html"
     }
   ],
   "salud": {
@@ -78,16 +78,16 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 16,
+    "antiguedad_minima_min": 113,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 75,
+        "items": 68,
         "error": null,
-        "antiguedad_min": 16,
-        "descartados_por_gancho": 1
+        "antiguedad_min": 113,
+        "descartados_por_gancho": 2
       },
       {
         "medio": "Cinco Días",

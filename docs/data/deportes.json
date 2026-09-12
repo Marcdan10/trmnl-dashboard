@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-09-12T20:07:40+02:00",
+  "generado": "2026-09-12T22:45:04+02:00",
   "titulares": [
     {
-      "titular": "Sorpresón en el once titular del Real Madrid ante el Rayo Vallecano",
+      "titular": "4-2: El Barça vence a un Atlético respondón",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-12T19:50:02+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260912/1004226439/sorpreson-once-titular-real-madrid-rayo-vallecano.html"
+      "fecha": "2026-09-12T22:05:26+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260912/1004226444/1-1.html"
     },
     {
-      "titular": "Madre de 7 hijos: \"Me gusta estar en casa cuidando a los pequeños y haciendo la comida\"",
+      "titular": "Iker Jiménez y Carmen Porter regresan a las noches de Cuatro",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-12T19:41:56+02:00",
-      "enlace": "https://www.mundodeportivo.com/tressesenta/20260912/1004226436/esther-madre-7-hijos-me-gusta-casa-cuidando-pequenos-haciendo-comida-estuviese-trabajando-fuera-seria-imposible-dct.html"
+      "fecha": "2026-09-12T21:55:33+02:00",
+      "enlace": "https://www.mundodeportivo.com/elotromundo/television/20260912/1004226479/iker-jimenez-carmen-porter-regresan-noches-cuatro-cuarto-milenio-estrena-temporada-reportaje-sobre-enigmas-zona-desmilitarizada-corea-dct.html"
     },
     {
       "titular": "El Barça femenino roza los 30 millones de negocio y gana 8 millones tras crecer un 33%",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/champions-league/2026/09/08/diez-joyas-dar-pelotazo-champions-nico-paz-manzambi-karetsas-godts-karl.html"
     },
     {
-      "titular": "A Xabi Alonso no le funciona la defensa",
+      "titular": "Alarma Julián Álvarez: podría ser baja ante la Real Sociedad",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/premier-league/xabi-alonso-le-funciona-defensa-134222713"
+      "enlace": "https://www.sport.es/es/noticias/atletico-de-madrid/alarma-julian-alvarez-baja-real-134226757"
     },
     {
-      "titular": "La previa | ¡Misión ascenso! El Villarreal Femenino arranca su gran revancha en Primera Federación",
+      "titular": "Así está el Pichichi de LaLiga 2026/27: Camello aprieta a Raphinha y Mbappé se acerca en la clasificación de máximos goleadores",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/villarreal/previa-mision-ascenso-villarreal-femenino-134223016"
+      "enlace": "https://www.sport.es/es/noticias/laliga/pichichi-laliga-2026-27-mbappe-133782518"
     },
     {
-      "titular": "Osasuna clama al cielo: \"La decisión del VAR es absolutamente inexplicable\"",
+      "titular": "66-76: Una España para enmarcar se queda sin final",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-12T19:36:47+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/osasuna/20260912/1004226433/ramis-clama-cielo-decision-var-absolutamente-inexplicable.html"
+      "fecha": "2026-09-12T21:47:41+02:00",
+      "enlace": "https://www.mundodeportivo.com/baloncesto/basket-feb/20260912/1004226434/espana-estados-unidos-mundial-baloncesto-berlin-iyana-martin-awa-francia-alemania.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 17,
+    "antiguedad_minima_min": 39,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 62,
         "error": null,
-        "antiguedad_min": 6321,
+        "antiguedad_min": 6479,
         "descartados_por_gancho": 6
       },
       {
@@ -98,9 +98,9 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 140,
+        "items": 142,
         "error": null,
-        "antiguedad_min": 17,
+        "antiguedad_min": 39,
         "descartados_por_gancho": 5
       },
       {
