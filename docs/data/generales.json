@@ -2,34 +2,16 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-09-12T17:57:10+02:00",
+  "generado": "2026-09-12T20:07:35+02:00",
   "titulares": [
     {
-      "titular": "Clasificación del GP de Madrid de F1, en directo | Lando Norris logra la primera ‘pole’ en el circuito de Madring",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-12T17:50:51+02:00",
-      "enlace": "https://elpais.com/deportes/formula-1/2026-09-12/la-clasificacion-del-gp-de-madrid-de-f1-en-directo-el-circuito-de-madring-en-vivo.html"
-    },
-    {
-      "titular": "Enric Mas mantiene a raya a Roglic y acaricia la Vuelta a España en una etapa que gana Mikel Landa",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-12T17:41:26+02:00",
-      "enlace": "https://elpais.com/deportes/ciclismo/2026-09-12/enric-mas-mantiene-a-raya-a-roglic-y-acaricia-la-vuelta-a-espana-en-una-etapa-que-gana-mikel-landa.html"
-    },
-    {
-      "titular": "'Palcos' improvisados en áticos y árboles y sonómetros vigilantes tras la valla del Madring",
+      "titular": "La influencer Rocío Irisarri anuncia la muerte de su hermano de 21 años: «Vuela alto, Javito»",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-12T17:38:07+02:00",
-      "enlace": "https://www.abc.es/espana/madrid/divide-vecinos-madring-puede-vivir-frente-solo-20260912165838-nt.html"
+      "fecha": "2026-09-12T19:54:32+02:00",
+      "enlace": "https://www.abc.es/gente/influencer-rocio-irisarri-anuncia-muerte-hermano-anos-20260912193010-nt.html"
     },
     {
       "titular": "El ponente del primer amparo de la amnistía en el TC propone desestimar el recurso de Turull",
@@ -37,26 +19,45 @@
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-12T17:35:01+02:00",
+      "fecha": "2026-09-12T19:37:24+02:00",
       "enlace": "https://www.abc.es/espana/ponente-primer-amparo-amnistia-tc-propone-desestimar-20260912142230-nt.html"
     },
     {
-      "titular": "Norris pone su nombre a la primera 'pole' del circuito de Madring",
+      "titular": "Lando Norris deja su firma en la primera pole de Madring",
       "medios": [
-        "La Vanguardia"
+        "El País",
+        "ABC"
       ],
-      "consenso": 1,
-      "fecha": "2026-09-12T17:18:53+02:00",
-      "enlace": "https://www.lavanguardia.com/deportes/20260912/11633318/f1-formula-1-gp-espana-qualy-clasificacion-parrilla-pole-antonelli-leclerc-alonso-sainz.html"
+      "consenso": 2,
+      "fecha": "2026-09-12T19:34:24+02:00",
+      "enlace": "https://www.abc.es/deportes/formula-1/norris-deja-firma-primera-pole-madring-20260912171317-nt.html"
     },
     {
-      "titular": "El CEO de Anthropic pide bajar el ritmo en el desarrollo de la IA",
+      "titular": "Real Madrid - Rayo Vallecano: posibles alineaciones y horario del partido, la previa de la LaLiga EA Sports, en directo",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-12T17:18:36+02:00",
-      "enlace": "https://www.lavanguardia.com/vida/20260912/11633315/director-ejecutivo-anthropic-afirma-hora-ralentizar-ritmo-mejora-modelos-ia.html"
+      "fecha": "2026-09-12T19:26:25+02:00",
+      "enlace": "https://www.lavanguardia.com/deportes/futbol/20260912/11633238/real-madrid-rayo-vallecanp-laliga-ea-sports-partido-futbol-hoy-en-directo.html"
+    },
+    {
+      "titular": "Trabajadores de Airbus se manifiestan en Madrid para reclamar una “negociación real” con la empresa",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-12T19:01:10+02:00",
+      "enlace": "https://www.lavanguardia.com/economia/20260912/11633340/trabajadores-airbus-manifiestan-madrid-reclamar-negociacion-real-empresa.html"
+    },
+    {
+      "titular": "Carín León, el primer latino en la Sphere de Las Vegas, deja roncos a sus 20.000 fans tras la cancelación del jueves",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-12T18:47:47+02:00",
+      "enlace": "https://elpais.com/us/entretenimiento/2026-09-12/carin-leon-el-primer-latino-en-la-sphere-de-las-vegas-deja-roncos-a-sus-20000-fans-tras-la-cancelacion-del-jueves.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -74,7 +75,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 6,
+    "antiguedad_minima_min": 13,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +83,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2240212,
+        "antiguedad_min": 2240342,
         "descartados_por_gancho": 0
       },
       {
@@ -97,18 +98,18 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 140,
+        "items": 141,
         "error": null,
-        "antiguedad_min": 6,
+        "antiguedad_min": 48,
         "descartados_por_gancho": 5
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 124,
+        "items": 119,
         "error": null,
-        "antiguedad_min": 38,
+        "antiguedad_min": 41,
         "descartados_por_gancho": 20
       },
       {
@@ -117,7 +118,7 @@
         "ok": true,
         "items": 24,
         "error": null,
-        "antiguedad_min": 19,
+        "antiguedad_min": 13,
         "descartados_por_gancho": 1
       }
     ]

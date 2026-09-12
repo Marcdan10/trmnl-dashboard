@@ -2,8 +2,26 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-09-12T17:57:13+02:00",
+  "generado": "2026-09-12T20:07:39+02:00",
   "titulares": [
+    {
+      "titular": "Irán abordará las rutas seguras de navegación en Ormuz con Omán el lunes",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-12T19:51:34+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/09/12/6aa5889de5fdea59228b45aa.html"
+    },
+    {
+      "titular": "El CEO de Anthropic pide \"bajar el ritmo\" de desarrollo de la IA y avisa: se puede \"perder el control\"",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-12T19:27:46+02:00",
+      "enlace": "https://www.expansion.com/tecnologia/2026/09/12/6aa58a60e5fdead8258b4583.html"
+    },
     {
       "titular": "Los testamentos solidarios aumentan un 46% en los últimos cinco años",
       "medios": [
@@ -48,24 +66,6 @@
       "consenso": 1,
       "fecha": "2026-09-12T11:47:54+02:00",
       "enlace": "https://www.expansion.com/economia/2026/09/12/6aa51ebbe5fdea7e1f8b4589.html"
-    },
-    {
-      "titular": "España suministra el segundo diésel más barato de la UE",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-12T11:37:19+02:00",
-      "enlace": "https://www.expansion.com/empresas/energia/2026/09/12/6aa5063c468aebe04b8b4573.html"
-    },
-    {
-      "titular": "El petróleo y el gas consolidan su escalada tras reactivarse los ataques en Oriente Medio",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-12T10:41:39+02:00",
-      "enlace": "https://www.expansion.com/empresas/energia/2026/09/12/6aa50b97468aeb3a418b459c.html"
     }
   ],
   "salud": {
@@ -78,7 +78,7 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 128,
+    "antiguedad_minima_min": 16,
     "detalle": [
       {
         "medio": "Expansión",
@@ -86,7 +86,7 @@
         "ok": true,
         "items": 75,
         "error": null,
-        "antiguedad_min": 128,
+        "antiguedad_min": 16,
         "descartados_por_gancho": 1
       },
       {

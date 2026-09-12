@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-09-12T17:57:15+02:00",
+  "generado": "2026-09-12T20:07:40+02:00",
   "titulares": [
     {
-      "titular": "Cuatro equipos diferentes en el TOP4 y drama para los españoles: así queda la parrilla de salida de F1 en el GP de España",
+      "titular": "Sorpresón en el once titular del Real Madrid ante el Rayo Vallecano",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-12T17:19:16+02:00",
-      "enlace": "https://www.mundodeportivo.com/motor/f1/20260912/1004226350/asi-queda-parrilla-salida-f1-gp-espana.html"
+      "fecha": "2026-09-12T19:50:02+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260912/1004226439/sorpreson-once-titular-real-madrid-rayo-vallecano.html"
     },
     {
-      "titular": "Marc Márquez y el libro de Valentino: \"A lo mejor me lo leo cuando me retire\"",
+      "titular": "Madre de 7 hijos: \"Me gusta estar en casa cuidando a los pequeños y haciendo la comida\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-12T17:15:24+02:00",
-      "enlace": "https://www.mundodeportivo.com/motor/motogp/20260912/1004226364/marc-marquez-libro-valentino-mejor-me-leo-me-retire.html"
+      "fecha": "2026-09-12T19:41:56+02:00",
+      "enlace": "https://www.mundodeportivo.com/tressesenta/20260912/1004226436/esther-madre-7-hijos-me-gusta-casa-cuidando-pequenos-haciendo-comida-estuviese-trabajando-fuera-seria-imposible-dct.html"
     },
     {
       "titular": "El Barça femenino roza los 30 millones de negocio y gana 8 millones tras crecer un 33%",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/champions-league/2026/09/08/diez-joyas-dar-pelotazo-champions-nico-paz-manzambi-karetsas-godts-karl.html"
     },
     {
-      "titular": "Yassir Zabiri, el delantero de moda que sueña con el Barça",
+      "titular": "A Xabi Alonso no le funciona la defensa",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/barca/yassir-zabiri-delantero-moda-suena-134218229"
+      "enlace": "https://www.sport.es/es/noticias/premier-league/xabi-alonso-le-funciona-defensa-134222713"
     },
     {
-      "titular": "Celta de Vigo - Málaga CF: Balaídos pone a prueba la sed de goles y victorias",
+      "titular": "La previa | ¡Misión ascenso! El Villarreal Femenino arranca su gran revancha en Primera Federación",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/futbol/celta-vigo-malaga-cf-balaidos-134218536"
+      "enlace": "https://www.sport.es/es/noticias/villarreal/previa-mision-ascenso-villarreal-femenino-134223016"
     },
     {
-      "titular": "Norris firma una pole histórica en Madring por solo 11 milésimas; Alonso, sin potencia",
+      "titular": "Osasuna clama al cielo: \"La decisión del VAR es absolutamente inexplicable\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-12T17:14:53+02:00",
-      "enlace": "https://www.mundodeportivo.com/motor/f1/20260912/1004226363/norris-firma-pole-historica-madring-11-milesimas-alonso-potencia.html"
+      "fecha": "2026-09-12T19:36:47+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/osasuna/20260912/1004226433/ramis-clama-cielo-decision-var-absolutamente-inexplicable.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 37,
+    "antiguedad_minima_min": 17,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 62,
         "error": null,
-        "antiguedad_min": 6191,
+        "antiguedad_min": 6321,
         "descartados_por_gancho": 6
       },
       {
@@ -98,16 +98,16 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 141,
+        "items": 140,
         "error": null,
-        "antiguedad_min": 37,
-        "descartados_por_gancho": 4
+        "antiguedad_min": 17,
+        "descartados_por_gancho": 5
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 45,
+        "items": 48,
         "error": null,
         "antiguedad_min": null,
         "descartados_por_gancho": 2
