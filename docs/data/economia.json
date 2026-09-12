@@ -1,26 +1,53 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "portadas",
-  "generado": "2026-09-12T10:58:31+02:00",
+  "modo": "ultimas",
+  "generado": "2026-09-12T14:43:27+02:00",
   "titulares": [
     {
-      "titular": "Cómo armar la cartera de inversión tras la subida de tipos",
+      "titular": "Trump afirma que los precios del gasóleo se \"desplomarán\" si Reino Unido abre el mar del Norte",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-12T00:21:09+02:00",
-      "enlace": "https://www.expansion.com/inversion/2026/09/12/6aa41b9f468aeb3a2c8b4572.html"
+      "fecha": "2026-09-12T13:22:20+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/09/12/6aa533c6e5fdea7e1f8b4590.html"
     },
     {
-      "titular": "Apple lleva el iPhone a una escala inédita de precios: hasta 3.839 euros",
+      "titular": "Scope eleva el rating de España a 'A+' y cambia la perspectiva a estable",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-12T00:20:57+02:00",
-      "enlace": "https://www.expansion.com/tecnologia/companias/2026/09/12/6aa45b88468aebc5268b4596.html"
+      "fecha": "2026-09-12T11:47:54+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/09/12/6aa51ebbe5fdea7e1f8b4589.html"
+    },
+    {
+      "titular": "España suministra el segundo diésel más barato de la UE",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-12T11:37:19+02:00",
+      "enlace": "https://www.expansion.com/empresas/energia/2026/09/12/6aa5063c468aebe04b8b4573.html"
+    },
+    {
+      "titular": "El petróleo y el gas consolidan su escalada tras reactivarse los ataques en Oriente Medio",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-12T10:41:39+02:00",
+      "enlace": "https://www.expansion.com/empresas/energia/2026/09/12/6aa50b97468aeb3a418b459c.html"
+    },
+    {
+      "titular": "El PSOE pide un pacto de Estado en Educación tras los \"lamentables\" resultados del informe PISA",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-12T10:20:33+02:00",
+      "enlace": "https://www.expansion.com/economia/politica/2026/09/12/6aa509bc468aeba0758b4590.html"
     },
     {
       "titular": "Bancos: cómo subirse al tirón en Bolsa",
@@ -32,40 +59,13 @@
       "enlace": "https://www.expansion.com/mercados/2026/09/12/6aa4687be5fdeaa37f8b4581.html"
     },
     {
-      "titular": "VW, Toyota y Stellantis llevan a récord los ingresos del automóvil",
+      "titular": "Cómo armar la cartera de inversión tras la subida de tipos",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-12T00:21:04+02:00",
-      "enlace": "https://www.expansion.com/empresas/motor/2026/09/12/6aa459d2468aeba3628b45ac.html"
-    },
-    {
-      "titular": "Guerra de sucesión entre multimillonarios: quién herederá los grandes imperios empresariales",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-12T00:10:09+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/09/11/6aa3d41ce5fdeaba4b8b4573.html"
-    },
-    {
-      "titular": "Stan Kroenke, el mayor terrateniente de EEUU",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-11T20:56:51+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/09/11/6aa432b7468aebf3068b457c.html"
-    },
-    {
-      "titular": "El bitcoin, de la especulación a la estrategia de comprar y mantener",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-12T00:10:37+02:00",
-      "enlace": "https://www.expansion.com/mercados/criptomonedas/2026/09/12/6aa3fe80e5fdeaa8778b4575.html"
+      "fecha": "2026-09-12T00:21:09+02:00",
+      "enlace": "https://www.expansion.com/inversion/2026/09/12/6aa41b9f468aeb3a2c8b4572.html"
     }
   ],
   "salud": {
@@ -78,7 +78,7 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 16,
+    "antiguedad_minima_min": 81,
     "detalle": [
       {
         "medio": "Expansión",
@@ -86,7 +86,7 @@
         "ok": true,
         "items": 75,
         "error": null,
-        "antiguedad_min": 16,
+        "antiguedad_min": 81,
         "descartados_por_gancho": 1
       },
       {

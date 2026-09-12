@@ -1,17 +1,26 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "portadas",
-  "generado": "2026-09-12T10:58:33+02:00",
+  "modo": "ultimas",
+  "generado": "2026-09-12T14:43:30+02:00",
   "titulares": [
     {
-      "titular": "Las próximas renovaciones en las que ya trabaja el Barça",
+      "titular": "Hugo Duro responde a la polémica por su risa en el banquillo: “De ninguna manera me reía de nuestra difícil situación”",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-12T00:10:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260912/1004226082/proximas-renovaciones-trabaja-barca.html"
+      "fecha": "2026-09-12T14:20:05+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/valencia/20260912/1004226311/hugo-duro-responde-polemica-risa-banquillo-ninguna-manera-me-reia-nuestra-dificil-situacion.html"
+    },
+    {
+      "titular": "El nuevo motor monocilíndrico de QJ Motor... pero que tiene dos cilindros",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-12T13:55:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/solomoto/20260912/1004223284/nuevo-motor-monocilindrico-qj-motor-dos-cilindros.html"
     },
     {
       "titular": "El Barça femenino roza los 30 millones de negocio y gana 8 millones tras crecer un 33%",
@@ -23,24 +32,6 @@
       "enlace": "https://www.marca.com/sport-business/2playbook/2026/09/08/barca-femenino-roza-30-millones-negocio-gana-8-millones-crecer-33.html"
     },
     {
-      "titular": "Comparan a la nueva joya de la Ligue 1 con Lamine Yamal",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-11T17:35:05+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260911/1004225994/comparan-lamine-yamal-nueva-joya-ligue-1.html"
-    },
-    {
-      "titular": "Calero, sobre la lesión de Carlos Fernández: \"Desconozco los tiempos, pero podrían ser dos-tres meses de baja\"",
-      "medios": [
-        "Sport"
-      ],
-      "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/oviedo/calero-lesion-carlos-fernandez-desconozco-134210605"
-    },
-    {
       "titular": "Diez 'joyas' que pueden dar el pelotazo en Champions",
       "medios": [
         "Marca"
@@ -50,22 +41,31 @@
       "enlace": "https://www.marca.com/futbol/champions-league/2026/09/08/diez-joyas-dar-pelotazo-champions-nico-paz-manzambi-karetsas-godts-karl.html"
     },
     {
-      "titular": "Dembélé, sobre el Balón de Oro: \"Soy competitivo, así que mi objetivo es volver a ganarlo\"",
+      "titular": "Cervera insiste en que LaLiga desprecia a los equipos canarios: \"Tenemos un problema gordo con los viajes\"",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/futbol-internacional/dembele-balon-oro-competitivo-objetivo-134209357"
+      "enlace": "https://www.sport.es/es/noticias/futbol/segunda-rfef/cervera-insiste-laliga-desprecia-equipos-134216061"
     },
     {
-      "titular": "Busquets ve más cerca la Champions y avala a Cesc como futurible",
+      "titular": "La desafortunada comparación de Amorim en pleno 11-S: \"Es como cuando tienes un accidente con un avión, aprendes algo de ello\"",
+      "medios": [
+        "Sport"
+      ],
+      "consenso": 1,
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/futbol-internacional/desafortunada-comparacion-amorim-pleno-11-134215371"
+    },
+    {
+      "titular": "Incertidumbre y accidentes antes del caos de la clasificación en Madring",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-11T23:58:21+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260911/1004226136/busquets-ve-cerca-champions-avala-cesc-futurible.html"
+      "fecha": "2026-09-12T13:54:44+02:00",
+      "enlace": "https://www.mundodeportivo.com/motor/f1/20260912/1004226307/incertidumbre-accidentes-caos-clasificacion-madring.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 40,
+    "antiguedad_minima_min": 23,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 62,
         "error": null,
-        "antiguedad_min": 5772,
+        "antiguedad_min": 5997,
         "descartados_por_gancho": 6
       },
       {
@@ -98,19 +98,19 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 144,
+        "items": 140,
         "error": null,
-        "antiguedad_min": 40,
-        "descartados_por_gancho": 6
+        "antiguedad_min": 23,
+        "descartados_por_gancho": 5
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 46,
+        "items": 45,
         "error": null,
         "antiguedad_min": null,
-        "descartados_por_gancho": 3
+        "descartados_por_gancho": 1
       },
       {
         "medio": "NBA",

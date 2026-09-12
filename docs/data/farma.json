@@ -1,9 +1,27 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "portadas",
-  "generado": "2026-09-12T10:58:39+02:00",
+  "modo": "ultimas",
+  "generado": "2026-09-12T14:43:39+02:00",
   "titulares": [
+    {
+      "titular": "Sanidad niega que haya un brote de tuberculosis en Ceuta",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-12T14:38:57+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/ministerio-sanidad/20260912/sanidad-niega-que-haya-un-brote-de-tuberculosis-en-ceuta/350678_0.html"
+    },
+    {
+      "titular": "La formación en IA y Teleasistencia no socava el núcleo asistencial del grado en Odontología",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-12T14:25:40+02:00",
+      "enlace": "https://www.redaccionmedica.com/formacion/estudiantes/20260912/la-formacion-en-ia-teleasistencia-no-socava-el-nucleo-asistencial-del-grado-odontologia/350621_0.html"
+    },
     {
       "titular": "Impulso europeo para desarrollar antivirales nasales frente a pandemias",
       "medios": [
@@ -12,24 +30,6 @@
       "consenso": 1,
       "fecha": "2026-09-11T14:04:27+02:00",
       "enlace": "https://diariofarma.com/2026/09/11/impulso-europeo-para-desarrollar-antivirales-nasales-frente-a-pandemias"
-    },
-    {
-      "titular": "FIR 2027: claves para acreditar correctamente el expediente académico",
-      "medios": [
-        "El Global"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-11T13:35:13+02:00",
-      "enlace": "https://elglobalfarma.com/farmacia/fir-2027-claves-acreditar-correctamente-expediente-academico/"
-    },
-    {
-      "titular": "La migraña en la mujer, una enfermedad invisible: \"Aparentemente no es mortal, aunque te mata la calidad de vida\"",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-12T10:00:42+02:00",
-      "enlace": "https://www.redaccionmedica.com/profesionales/medicina/20260912/migrana-mujer-enfermedad-invisible-aparentemente-no-es-mortal-mata-calidad-vida/350626_0.html"
     },
     {
       "titular": "La farmacia rural, la salud mental y la cooperación protagonizan los Premios COFZ 2026",
@@ -42,6 +42,15 @@
       "enlace": "https://diariofarma.com/2026/09/11/la-farmacia-rural-la-salud-mental-y-la-cooperacion-protagonizan-los-premios-cofz-2026"
     },
     {
+      "titular": "FIR 2027: claves para acreditar correctamente el expediente académico",
+      "medios": [
+        "El Global"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-11T13:35:13+02:00",
+      "enlace": "https://elglobalfarma.com/farmacia/fir-2027-claves-acreditar-correctamente-expediente-academico/"
+    },
+    {
       "titular": "Biotech Act: el siguiente movimiento está en Bruselas",
       "medios": [
         "El Global"
@@ -51,22 +60,13 @@
       "enlace": "https://elglobalfarma.com/opinion/editorial/biotech-act-siguiente-movimiento-bruselas/"
     },
     {
-      "titular": "El Estatuto Marco 'exige' más dotación en las plantillas de salud: \"Con 4.190 sanitarios más no se pueden asumir los cambios\"",
+      "titular": "Irene Montero (Podemos) presenta su candidatura a las elecciones generales: \"Los sanitarios tienen que estar bien remunerados\"",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-09-11T19:01:55+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20260911/estatuto-marco-dotacion-plantillas-salud-sanitarios/350647_0.html"
-    },
-    {
-      "titular": "La adopción de biosimilares en oncología supera el 90% de penetración en 2025",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-11T11:26:31+02:00",
-      "enlace": "https://diariofarma.com/2026/09/11/la-adopcion-de-biosimilares-en-oncologia-supera-el-90-tras-administrar-500-000-envases"
+      "fecha": "2026-09-12T13:28:34+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20260912/irene-montero-podemos-presenta-su-candidatura-las-elecciones-generales-los-sanitarios-tienen-que-estar-bien-remunerados/350674_0.html"
     }
   ],
   "salud": {
@@ -77,7 +77,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 49,
+    "antiguedad_minima_min": 4,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -85,7 +85,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 1254,
+        "antiguedad_min": 1479,
         "descartados_por_gancho": 0
       },
       {
@@ -94,7 +94,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 1283,
+        "antiguedad_min": 1508,
         "descartados_por_gancho": 0
       },
       {
@@ -103,7 +103,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 49,
+        "antiguedad_min": 4,
         "descartados_por_gancho": 0
       },
       {
