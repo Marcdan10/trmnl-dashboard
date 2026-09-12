@@ -2,61 +2,61 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-09-12T14:43:24+02:00",
+  "generado": "2026-09-12T17:57:10+02:00",
   "titulares": [
+    {
+      "titular": "Clasificación del GP de Madrid de F1, en directo | Lando Norris logra la primera ‘pole’ en el circuito de Madring",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-12T17:50:51+02:00",
+      "enlace": "https://elpais.com/deportes/formula-1/2026-09-12/la-clasificacion-del-gp-de-madrid-de-f1-en-directo-el-circuito-de-madring-en-vivo.html"
+    },
+    {
+      "titular": "Enric Mas mantiene a raya a Roglic y acaricia la Vuelta a España en una etapa que gana Mikel Landa",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-12T17:41:26+02:00",
+      "enlace": "https://elpais.com/deportes/ciclismo/2026-09-12/enric-mas-mantiene-a-raya-a-roglic-y-acaricia-la-vuelta-a-espana-en-una-etapa-que-gana-mikel-landa.html"
+    },
+    {
+      "titular": "'Palcos' improvisados en áticos y árboles y sonómetros vigilantes tras la valla del Madring",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-12T17:38:07+02:00",
+      "enlace": "https://www.abc.es/espana/madrid/divide-vecinos-madring-puede-vivir-frente-solo-20260912165838-nt.html"
+    },
     {
       "titular": "El ponente del primer amparo de la amnistía en el TC propone desestimar el recurso de Turull",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-12T14:41:09+02:00",
+      "fecha": "2026-09-12T17:35:01+02:00",
       "enlace": "https://www.abc.es/espana/ponente-primer-amparo-amnistia-tc-propone-desestimar-20260912142230-nt.html"
     },
     {
-      "titular": "Trump señala que sería «fantástica» la unificación de Irlanda",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-12T14:15:22+02:00",
-      "enlace": "https://www.abc.es/internacional/trump-senala-fantastica-unificacion-irlanda-encantaria-20260912140729-nt.html"
-    },
-    {
-      "titular": "Flick, ante el gran inicio de temporada del Barcelona: “El objetivo es mejorar, siempre”",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-12T13:46:50+02:00",
-      "enlace": "https://elpais.com/deportes/futbol/2026-09-12/flick-ante-el-gran-inicio-de-temporada-del-barcelona-el-objetivo-es-mejorar-siempre.html"
-    },
-    {
-      "titular": "Los BRICS ponen a prueba su unidad tras dos décadas de expansión",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-12T13:37:25+02:00",
-      "enlace": "https://elpais.com/internacional/2026-09-12/los-brics-ponen-a-prueba-su-unidad-tras-dos-decadas-de-expansion.html"
-    },
-    {
-      "titular": "Colegios e institutos mantienen dudas sobre la llegada de los auxiliares de inglés este curso",
+      "titular": "Norris pone su nombre a la primera 'pole' del circuito de Madring",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-12T12:23:42+02:00",
-      "enlace": "https://www.lavanguardia.com/local/madrid/20260912/11632651/colegios-e-institutos-mantienen-dudas-sobre-llegada-auxiliares-ingles-curso.html"
+      "fecha": "2026-09-12T17:18:53+02:00",
+      "enlace": "https://www.lavanguardia.com/deportes/20260912/11633318/f1-formula-1-gp-espana-qualy-clasificacion-parrilla-pole-antonelli-leclerc-alonso-sainz.html"
     },
     {
-      "titular": "Marc Márquez quiere volver a ganar en San Marino y acercarse todavía más al liderato del Mundial de MotoGP: aquí puedes verlo todo",
+      "titular": "El CEO de Anthropic pide bajar el ritmo en el desarrollo de la IA",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-12T12:00:00+02:00",
-      "enlace": "https://www.lavanguardia.com/comprar/cultura-ocio/20260912/11630058/marc-marquez-motogp-san-marino-mkt-dasp.html"
+      "fecha": "2026-09-12T17:18:36+02:00",
+      "enlace": "https://www.lavanguardia.com/vida/20260912/11633315/director-ejecutivo-anthropic-afirma-hora-ralentizar-ritmo-mejora-modelos-ia.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 2,
+    "antiguedad_minima_min": 6,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2240018,
+        "antiguedad_min": 2240212,
         "descartados_por_gancho": 0
       },
       {
@@ -97,19 +97,19 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 142,
+        "items": 140,
         "error": null,
-        "antiguedad_min": 56,
-        "descartados_por_gancho": 7
+        "antiguedad_min": 6,
+        "descartados_por_gancho": 5
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 121,
+        "items": 124,
         "error": null,
-        "antiguedad_min": 139,
-        "descartados_por_gancho": 21
+        "antiguedad_min": 38,
+        "descartados_por_gancho": 20
       },
       {
         "medio": "ABC",
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 24,
         "error": null,
-        "antiguedad_min": 2,
+        "antiguedad_min": 19,
         "descartados_por_gancho": 1
       }
     ]

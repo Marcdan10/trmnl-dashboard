@@ -2,8 +2,35 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-09-12T14:43:27+02:00",
+  "generado": "2026-09-12T17:57:13+02:00",
   "titulares": [
+    {
+      "titular": "Los testamentos solidarios aumentan un 46% en los últimos cinco años",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-12T15:48:38+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/09/12/6aa52092e5fdeace6d8b4573.html"
+    },
+    {
+      "titular": "UGT, CGT y ÚTIL visibilizan su conflicto con Airbus con otra marcha en Madrid",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-12T14:56:19+02:00",
+      "enlace": "https://www.expansion.com/empresas/industria/2026/09/12/6aa5495a468aeb2b048b45b1.html"
+    },
+    {
+      "titular": "Irene Montero se someterá a unas primarias abiertas para ser la candidata de Podemos a las elecciones",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-12T14:41:58+02:00",
+      "enlace": "https://www.expansion.com/economia/politica/2026/09/12/6aa5403a468aeb45728b459e.html"
+    },
     {
       "titular": "Trump afirma que los precios del gasóleo se \"desplomarán\" si Reino Unido abre el mar del Norte",
       "medios": [
@@ -39,33 +66,6 @@
       "consenso": 1,
       "fecha": "2026-09-12T10:41:39+02:00",
       "enlace": "https://www.expansion.com/empresas/energia/2026/09/12/6aa50b97468aeb3a418b459c.html"
-    },
-    {
-      "titular": "El PSOE pide un pacto de Estado en Educación tras los \"lamentables\" resultados del informe PISA",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-12T10:20:33+02:00",
-      "enlace": "https://www.expansion.com/economia/politica/2026/09/12/6aa509bc468aeba0758b4590.html"
-    },
-    {
-      "titular": "Bancos: cómo subirse al tirón en Bolsa",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-12T00:26:04+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/09/12/6aa4687be5fdeaa37f8b4581.html"
-    },
-    {
-      "titular": "Cómo armar la cartera de inversión tras la subida de tipos",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-12T00:21:09+02:00",
-      "enlace": "https://www.expansion.com/inversion/2026/09/12/6aa41b9f468aeb3a2c8b4572.html"
     }
   ],
   "salud": {
@@ -78,7 +78,7 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 81,
+    "antiguedad_minima_min": 128,
     "detalle": [
       {
         "medio": "Expansión",
@@ -86,7 +86,7 @@
         "ok": true,
         "items": 75,
         "error": null,
-        "antiguedad_min": 81,
+        "antiguedad_min": 128,
         "descartados_por_gancho": 1
       },
       {

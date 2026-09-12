@@ -2,25 +2,25 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "ultimas",
-  "generado": "2026-09-12T14:43:39+02:00",
+  "generado": "2026-09-12T17:57:20+02:00",
   "titulares": [
     {
-      "titular": "Sanidad niega que haya un brote de tuberculosis en Ceuta",
+      "titular": "José Abellán, cardiólogo: \"Tener un problema de corazón no implica que quedarse quieto sea la opción más segura\"",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-09-12T14:38:57+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/ministerio-sanidad/20260912/sanidad-niega-que-haya-un-brote-de-tuberculosis-en-ceuta/350678_0.html"
+      "fecha": "2026-09-12T17:24:30+02:00",
+      "enlace": "https://www.redaccionmedica.com/virico/20260912/jose-abellan-cardiologo-tener-un-problema-de-corazon-no-implica-que-quedarse-quieto-sea-la-opcion-mas-segura/350400_0.html"
     },
     {
-      "titular": "La formación en IA y Teleasistencia no socava el núcleo asistencial del grado en Odontología",
+      "titular": "La privada mira a un equilibrio de primas y mayor duración para los ‘hermanos’ de Muface",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-09-12T14:25:40+02:00",
-      "enlace": "https://www.redaccionmedica.com/formacion/estudiantes/20260912/la-formacion-en-ia-teleasistencia-no-socava-el-nucleo-asistencial-del-grado-odontologia/350621_0.html"
+      "fecha": "2026-09-12T15:45:37+02:00",
+      "enlace": "https://www.redaccionmedica.com/empresas/sanidad-privada/20260912/la-privada-mira-un-equilibrio-de-primas-mayor-duracion-para-los-hermanos-muface/350554_0.html"
     },
     {
       "titular": "Impulso europeo para desarrollar antivirales nasales frente a pandemias",
@@ -60,13 +60,13 @@
       "enlace": "https://elglobalfarma.com/opinion/editorial/biotech-act-siguiente-movimiento-bruselas/"
     },
     {
-      "titular": "Irene Montero (Podemos) presenta su candidatura a las elecciones generales: \"Los sanitarios tienen que estar bien remunerados\"",
+      "titular": "Sanidad niega que haya un brote de tuberculosis en Ceuta",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-09-12T13:28:34+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20260912/irene-montero-podemos-presenta-su-candidatura-las-elecciones-generales-los-sanitarios-tienen-que-estar-bien-remunerados/350674_0.html"
+      "fecha": "2026-09-12T14:38:57+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/ministerio-sanidad/20260912/sanidad-niega-que-haya-un-brote-de-tuberculosis-en-ceuta/350678_0.html"
     }
   ],
   "salud": {
@@ -77,7 +77,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 4,
+    "antiguedad_minima_min": 32,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -85,7 +85,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 1479,
+        "antiguedad_min": 1672,
         "descartados_por_gancho": 0
       },
       {
@@ -94,7 +94,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 1508,
+        "antiguedad_min": 1702,
         "descartados_por_gancho": 0
       },
       {
@@ -103,7 +103,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 4,
+        "antiguedad_min": 32,
         "descartados_por_gancho": 0
       },
       {
