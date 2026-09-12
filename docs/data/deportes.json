@@ -1,26 +1,26 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "ultimas",
-  "generado": "2026-09-12T22:45:04+02:00",
+  "modo": "portadas",
+  "generado": "2026-09-13T00:45:57+02:00",
   "titulares": [
     {
-      "titular": "4-2: El Barça vence a un Atlético respondón",
+      "titular": "El Madrid, de golear a sufrir ante el Rayo",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-12T22:05:26+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260912/1004226444/1-1.html"
+      "fecha": "2026-09-12T23:09:49+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260912/1004226499/real-madrid-golear-sufrir-rayo.html"
     },
     {
-      "titular": "Iker Jiménez y Carmen Porter regresan a las noches de Cuatro",
+      "titular": "Valentín González, campeón del US Open de dobles júnior",
       "medios": [
-        "Mundo Deportivo"
+        "Sport"
       ],
       "consenso": 1,
-      "fecha": "2026-09-12T21:55:33+02:00",
-      "enlace": "https://www.mundodeportivo.com/elotromundo/television/20260912/1004226479/iker-jimenez-carmen-porter-regresan-noches-cuatro-cuarto-milenio-estrena-temporada-reportaje-sobre-enigmas-zona-desmilitarizada-corea-dct.html"
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/tenis/valentin-gonzalez-campeon-us-open-134228709"
     },
     {
       "titular": "El Barça femenino roza los 30 millones de negocio y gana 8 millones tras crecer un 33%",
@@ -32,6 +32,24 @@
       "enlace": "https://www.marca.com/sport-business/2playbook/2026/09/08/barca-femenino-roza-30-millones-negocio-gana-8-millones-crecer-33.html"
     },
     {
+      "titular": "Así queda la clasificación general de La Vuelta",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-12T18:16:51+02:00",
+      "enlace": "https://www.mundodeportivo.com/ciclismo/vuelta-espana/20260912/1004226394/asi-queda-clasificacion-general-vuelta-dia-historico-ciclismo-espanol-falta-ultima-etapa.html"
+    },
+    {
+      "titular": "Esta es la portada SPORT de hoy, domingo 13 de septiembre de 2026",
+      "medios": [
+        "Sport"
+      ],
+      "consenso": 1,
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/la-portada-de-sport/portada-sport-hoy-domingo-13-134228344"
+    },
+    {
       "titular": "Diez 'joyas' que pueden dar el pelotazo en Champions",
       "medios": [
         "Marca"
@@ -39,24 +57,6 @@
       "consenso": 1,
       "fecha": "2026-09-08T10:42:13+02:00",
       "enlace": "https://www.marca.com/futbol/champions-league/2026/09/08/diez-joyas-dar-pelotazo-champions-nico-paz-manzambi-karetsas-godts-karl.html"
-    },
-    {
-      "titular": "Alarma Julián Álvarez: podría ser baja ante la Real Sociedad",
-      "medios": [
-        "Sport"
-      ],
-      "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/atletico-de-madrid/alarma-julian-alvarez-baja-real-134226757"
-    },
-    {
-      "titular": "Así está el Pichichi de LaLiga 2026/27: Camello aprieta a Raphinha y Mbappé se acerca en la clasificación de máximos goleadores",
-      "medios": [
-        "Sport"
-      ],
-      "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/laliga/pichichi-laliga-2026-27-mbappe-133782518"
     },
     {
       "titular": "66-76: Una España para enmarcar se queda sin final",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 39,
+    "antiguedad_minima_min": 61,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 62,
         "error": null,
-        "antiguedad_min": 6479,
+        "antiguedad_min": 6599,
         "descartados_por_gancho": 6
       },
       {
@@ -98,19 +98,19 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 142,
+        "items": 144,
         "error": null,
-        "antiguedad_min": 39,
+        "antiguedad_min": 61,
         "descartados_por_gancho": 5
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 48,
+        "items": 49,
         "error": null,
         "antiguedad_min": null,
-        "descartados_por_gancho": 2
+        "descartados_por_gancho": 1
       },
       {
         "medio": "NBA",
