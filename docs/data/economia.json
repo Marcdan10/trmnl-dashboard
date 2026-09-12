@@ -2,70 +2,70 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "portadas",
-  "generado": "2026-09-12T00:12:11+02:00",
+  "generado": "2026-09-12T02:26:00+02:00",
   "titulares": [
     {
-      "titular": "La patronal de los centros de datos dice que el nuevo decreto es un \"veto\" que acabará con el sector",
+      "titular": "Cómo armar la cartera de inversión tras la subida de tipos",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-11T14:06:57+02:00",
-      "enlace": "https://www.expansion.com/empresas/tecnologia/2026/09/11/6aa3e8b4e5fdeaf16b8b4572.html"
+      "fecha": "2026-09-12T00:21:09+02:00",
+      "enlace": "https://www.expansion.com/inversion/2026/09/12/6aa41b9f468aeb3a2c8b4572.html"
     },
     {
-      "titular": "Arabia Saudí cierra su oleoducto alternativo a Ormuz tras sufrir varios ataques",
+      "titular": "Apple lleva el iPhone a una escala inédita de precios: hasta 3.839 euros",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-11T21:55:36+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/09/11/6aa45b15e5fdea2f2e8b458d.html"
+      "fecha": "2026-09-12T00:20:57+02:00",
+      "enlace": "https://www.expansion.com/tecnologia/companias/2026/09/12/6aa45b88468aebc5268b4596.html"
     },
     {
-      "titular": "La inflación persiste en el 3,4% en EEUU y eleva la presión sobre la Fed para subir tipos",
+      "titular": "Bancos: cómo subirse al tirón en Bolsa",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-11T16:39:37+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/09/11/6aa3f70fe5fdea162e8b4572.html"
+      "fecha": "2026-09-12T00:26:04+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/09/12/6aa4687be5fdeaa37f8b4581.html"
     },
     {
-      "titular": "Por qué debes sacar tu dinero del banco y empezar a invertir",
+      "titular": "VW, Toyota y Stellantis llevan a récord los ingresos del automóvil",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-11T14:42:25+02:00",
-      "enlace": "https://www.expansion.com/podcasts/en-accion/2026/09/11/6aa3f6a5468aeba8198b456d.html"
+      "fecha": "2026-09-12T00:21:04+02:00",
+      "enlace": "https://www.expansion.com/empresas/motor/2026/09/12/6aa459d2468aeba3628b45ac.html"
     },
     {
-      "titular": "Fórmula 1, el nuevo gran negocio de Madrid",
+      "titular": "Guerra de sucesión entre multimillonarios: quién herederá los grandes imperios empresariales",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-11T00:39:14+02:00",
-      "enlace": "https://www.expansion.com/deporte-negocio/2026/09/11/6aa2c602468aeba8528b4575.html"
+      "fecha": "2026-09-12T00:10:09+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/09/11/6aa3d41ce5fdeaba4b8b4573.html"
     },
     {
-      "titular": "Cuánto tiempo tarda la Bolsa en reponerse de una subida de tipos",
+      "titular": "Stan Kroenke, el mayor terrateniente de EEUU",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-11T00:28:51+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/09/11/6aa29938e5fdeaea508b4594.html"
+      "fecha": "2026-09-11T20:56:51+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/09/11/6aa432b7468aebf3068b457c.html"
     },
     {
-      "titular": "Así es Aresbank, el banco que hace de puente entre España y el mundo árabe",
+      "titular": "El bitcoin, de la especulación a la estrategia de comprar y mantener",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-10T20:47:55+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/09/10/6aa26d13468aeb28158b45a5.html"
+      "fecha": "2026-09-12T00:10:37+02:00",
+      "enlace": "https://www.expansion.com/mercados/criptomonedas/2026/09/12/6aa3fe80e5fdeaa8778b4575.html"
     }
   ],
   "salud": {
@@ -78,16 +78,16 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 6,
+    "antiguedad_minima_min": 119,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 82,
+        "items": 74,
         "error": null,
-        "antiguedad_min": 6,
-        "descartados_por_gancho": 0
+        "antiguedad_min": 119,
+        "descartados_por_gancho": 1
       },
       {
         "medio": "Cinco Días",

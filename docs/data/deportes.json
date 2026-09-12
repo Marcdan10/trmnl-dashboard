@@ -2,16 +2,16 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-09-12T00:12:13+02:00",
+  "generado": "2026-09-12T02:26:02+02:00",
   "titulares": [
     {
-      "titular": "El Valencia sigue su caída libre y Corberán peligra",
+      "titular": "Las próximas renovaciones en las que ya trabaja el Barça",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-11T23:20:19+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/sevilla/20260911/1004226104/valencia-sigue-caida-libre-sevilla-corberan-peligra.html"
+      "fecha": "2026-09-12T00:10:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260912/1004226082/proximas-renovaciones-trabaja-barca.html"
     },
     {
       "titular": "Clasificación del GP de España de F1 hoy: horario y dónde ver gratis por TV y en directo la Fórmula 1 en Madring con Fernando Alonso",
@@ -32,22 +32,22 @@
       "enlace": "https://www.marca.com/sport-business/2playbook/2026/09/08/barca-femenino-roza-30-millones-negocio-gana-8-millones-crecer-33.html"
     },
     {
-      "titular": "77-90: El Barça supera por desgaste al campeón",
+      "titular": "Paliza colosal de Zverev en el US Open",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-11T23:19:50+02:00",
-      "enlace": "https://www.mundodeportivo.com/baloncesto/acb/20260911/1004226106/77-90-barca-supera-desgaste-campeon.html"
+      "fecha": "2026-09-12T00:16:07+02:00",
+      "enlace": "https://www.mundodeportivo.com/tenis/open-usa/20260912/1004226130/paliza-colosal-zverev-us-open.html"
     },
     {
-      "titular": "Sekulic destaca el papel de Ubal: \"Un pilar importante\"",
+      "titular": "El cambio que trama De la Barrera en la UD Las Palmas: apostar por el Iñaki-Enzo y sentar a Kirian",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/baloncesto-barca/sekulic-destaca-papel-ubal-pilar-134205181"
+      "enlace": "https://www.sport.es/es/noticias/las-palmas/cambio-trama-barrera-ud-palmas-134205593"
     },
     {
       "titular": "Diez 'joyas' que pueden dar el pelotazo en Champions",
@@ -59,13 +59,13 @@
       "enlace": "https://www.marca.com/futbol/champions-league/2026/09/08/diez-joyas-dar-pelotazo-champions-nico-paz-manzambi-karetsas-godts-karl.html"
     },
     {
-      "titular": "El Barça, una máquina de goles sin rival en Europa",
+      "titular": "1-0: El Valencia sigue su caída libre en Sevilla y Corberán peligra",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-11T19:14:44+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260911/1004226000/barca-maquina-goles-comparacion-europa.html"
+      "fecha": "2026-09-11T23:20:19+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/sevilla/20260911/1004226104/valencia-sigue-caida-libre-sevilla-corberan-peligra.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 25,
+    "antiguedad_minima_min": 129,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 62,
         "error": null,
-        "antiguedad_min": 5126,
+        "antiguedad_min": 5260,
         "descartados_por_gancho": 6
       },
       {
@@ -98,10 +98,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 139,
+        "items": 140,
         "error": null,
-        "antiguedad_min": 25,
-        "descartados_por_gancho": 7
+        "antiguedad_min": 129,
+        "descartados_por_gancho": 6
       },
       {
         "medio": "Sport",
