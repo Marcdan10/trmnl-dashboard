@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-09-12T02:25:58+02:00",
+  "generado": "2026-09-12T06:50:44+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -14,23 +14,22 @@
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
     },
     {
-      "titular": "Dimite el jefe de gabinete del delegado de Ceuta tras asegurar que sí informó del aviso del CNI",
+      "titular": "La guerra abierta en la Delegación de Ceuta por los avisos del salto fronterizo atrapa al Gobierno en un nuevo cruce de versiones",
       "medios": [
-        "El País",
-        "La Vanguardia"
+        "El País"
       ],
-      "consenso": 2,
-      "fecha": "2026-09-11T12:46:19+02:00",
-      "enlace": "https://elpais.com/espana/2026-09-11/dimite-el-jefe-de-gabinete-del-delegado-del-gobierno-en-ceuta-por-el-salto-fronterizo.html"
+      "consenso": 1,
+      "fecha": "2026-09-12T05:30:01+02:00",
+      "enlace": "https://elpais.com/espana/2026-09-12/la-guerra-abierta-en-la-delegacion-de-ceuta-por-los-avisos-del-salto-fronterizo-atrapa-al-gobierno-en-un-nuevo-cruce-de-versiones.html"
     },
     {
-      "titular": "Diada con la vista puesta en la extrema derecha",
+      "titular": "La crisis migratoria de Ceuta hunde el turismo español a Marruecos",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-11T21:19:12+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20260911/11632918/independentismo-conjura-volver-mas-fuerza-2027.html"
+      "fecha": "2026-09-12T06:00:00+02:00",
+      "enlace": "https://www.lavanguardia.com/economia/20260912/11632873/crisis-migratoria-ceuta-hunde-turismo-espanol-marruecos.html"
     },
     {
       "titular": "Los secretos del paddock de Madring, el nuevo listón de la F1",
@@ -38,18 +37,8 @@
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-12T02:14:18+02:00",
+      "fecha": "2026-09-12T02:56:36+02:00",
       "enlace": "https://www.abc.es/deportes/formula-1/secretos-paddock-madring-nuevo-liston-20260911015331-nt.html"
-    },
-    {
-      "titular": "Vivas asegura que Moncloa le pidió “que no llamara más” tras días advirtiendo sobre la crisis migratoria",
-      "medios": [
-        "El País",
-        "La Vanguardia"
-      ],
-      "consenso": 2,
-      "fecha": "2026-09-11T18:41:21+02:00",
-      "enlace": "https://elpais.com/espana/2026-09-11/vivas-asegura-que-moncloa-le-pidio-que-no-llamara-mas-tras-dias-advirtiendo-sobre-la-crisis-migratoria.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -61,13 +50,22 @@
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
     },
     {
-      "titular": "Libertad para los tres detenidos durante los disturbios en el Fossar de les Moreres",
+      "titular": "De Indra a Correos y la ‘ley de nietos’: cuatro años del PP y Vox renovando la teoría de la trampa electoral",
       "medios": [
-        "La Vanguardia"
+        "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-11T16:43:43+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20260911/11632817/libertad-tres-detenidos-disturbios-fossar-les-moreres.html"
+      "fecha": "2026-09-12T05:30:01+02:00",
+      "enlace": "https://elpais.com/espana/2026-09-12/de-indra-a-correos-y-la-ley-de-nietos-cuatro-anos-del-pp-y-vox-renovando-la-teoria-de-la-trampa-electoral.html"
+    },
+    {
+      "titular": "Aitana, la princesa, regresa a Madrid",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-12T02:54:28+02:00",
+      "enlace": "https://www.abc.es/cultura/musica/aitana-princesa-regresa-madrid-20260912023844-nt.html"
     }
   ],
   "salud": {
@@ -76,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 11,
+    "antiguedad_minima_min": 5,
     "detalle": [
       {
         "medio": "RTVE",
@@ -84,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2239280,
+        "antiguedad_min": 2239545,
         "descartados_por_gancho": 0
       },
       {
@@ -99,28 +97,28 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 144,
+        "items": 138,
         "error": null,
-        "antiguedad_min": 144,
+        "antiguedad_min": 5,
         "descartados_por_gancho": 6
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 130,
+        "items": 126,
         "error": null,
-        "antiguedad_min": 140,
-        "descartados_por_gancho": 12
+        "antiguedad_min": 50,
+        "descartados_por_gancho": 14
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 24,
+        "items": 23,
         "error": null,
-        "antiguedad_min": 11,
-        "descartados_por_gancho": 1
+        "antiguedad_min": 234,
+        "descartados_por_gancho": 2
       }
     ]
   }
