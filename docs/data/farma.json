@@ -2,25 +2,34 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "ultimas",
-  "generado": "2026-09-13T16:46:29+02:00",
+  "generado": "2026-09-13T19:50:39+02:00",
   "titulares": [
     {
-      "titular": "España afronta la reforma farmacéutica con el reto de reforzar su plantilla y alinear procedimientos con Europa",
+      "titular": "La propuesta de Padilla sobre incentivos en la Biotech Act centra su reunión con Varheyli",
       "medios": [
-        "Redacción Médica"
+        "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-09-13T15:55:20+02:00",
-      "enlace": "https://www.redaccionmedica.com/empresas/industria-farmaceutica/20260913/espana-afronta-la-reforma-farmaceutica-con-el-reto-de-reforzar-su-plantilla-alinear-procedimientos-europa/350280_0.html"
+      "fecha": "2026-09-13T18:44:00+02:00",
+      "enlace": "https://diariofarma.com/2026/09/13/la-propuesta-de-padilla-sobre-incentivos-en-la-biotech-act-centra-su-reunion-con-varheyli"
     },
     {
-      "titular": "Ni presencial ni por teléfono: la vía más eficaz para tratar la salud mental es por videollamada",
+      "titular": "El seguro de salud opta por la personalización y la digitalización para equilibrar las primas en pleno reto demográfico",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-09-13T15:04:07+02:00",
-      "enlace": "https://www.redaccionmedica.com/innovacion/avances/20260913/ni-presencial-ni-por-telefono-la-via-mas-eficaz-para-tratar-salud-mental-es-videollamada/350456_0.html"
+      "fecha": "2026-09-13T18:00:15+02:00",
+      "enlace": "https://www.redaccionmedica.com/empresas/sanidad-privada/20260913/el-seguro-de-salud-opta-por-la-personalizacion-digitalizacion-para-equilibrar-las-primas-en-pleno-reto-demografico/350561_0.html"
+    },
+    {
+      "titular": "¿Apoyas el ordenador sobre el cuerpo? Cuidado con las consecuencias en la piel",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-13T17:39:50+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20260913/apoyas-el-ordenador-sobre-cuerpo-cuidado-con-las-consecuencias-en-la-piel/350682_0.html"
     },
     {
       "titular": "Canarias impulsa una Subdirección de Farmacia para la garantizar el acceso a fármacos",
@@ -30,15 +39,6 @@
       "consenso": 1,
       "fecha": "2026-09-13T13:00:15+02:00",
       "enlace": "https://diariofarma.com/2026/09/13/canarias-impulsa-una-subdireccion-de-farmacia-para-la-equidad-garantizar-el-acceso-a-farmacos"
-    },
-    {
-      "titular": "El equilibrio competencial y los precios marcan las posturas de los grupos en la Ley de Medicamentos",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-13T12:18:51+02:00",
-      "enlace": "https://diariofarma.com/2026/09/13/el-congreso-de-los-diputados-abre-la-tramitacion-de-la-ley-de-medicamentos"
     },
     {
       "titular": "FIR 2027: claves para acreditar correctamente el expediente académico",
@@ -59,13 +59,13 @@
       "enlace": "https://elglobalfarma.com/opinion/editorial/biotech-act-siguiente-movimiento-bruselas/"
     },
     {
-      "titular": "CSIF demanda un nuevo centro de salud en Ceuta para afrontar la presión asistencial",
+      "titular": "La farmacéutica que se marchó a Irlanda en busca de la motivación perdida: \"He crecido profesionalmente muchísimo\"",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-09-13T14:23:48+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20260913/csif-demanda-un-nuevo-centro-de-salud-en-ceuta-para-afrontar-la-presion-asistencial/350681_0.html"
+      "fecha": "2026-09-13T17:10:10+02:00",
+      "enlace": "https://www.redaccionmedica.com/profesionales/20260913/la-farmaceutica-que-se-marcho-irlanda-en-busca-de-la-motivacion-perdida-he-crecido-profesionalmente-muchisimo/350177_0.html"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 51,
+    "antiguedad_minima_min": 66,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 226,
+        "antiguedad_min": 66,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 3071,
+        "antiguedad_min": 3255,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 51,
+        "antiguedad_min": 110,
         "descartados_por_gancho": 0
       },
       {

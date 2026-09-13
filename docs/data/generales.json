@@ -2,61 +2,61 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-09-13T16:46:17+02:00",
+  "generado": "2026-09-13T19:50:26+02:00",
   "titulares": [
     {
-      "titular": "Levante - Barcelona en directo | Lamine marca el segundo del Barça y amplía la ventaja",
+      "titular": "Enric Mas y el laurel de la perseverancia: el mallorquín gana la Vuelta",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-13T16:44:09+02:00",
-      "enlace": "https://elpais.com/deportes/futbol/2026-09-13/levante-barcelona-en-directo-el-partido-de-la-liga-en-vivo.html"
+      "fecha": "2026-09-13T19:44:02+02:00",
+      "enlace": "https://elpais.com/deportes/ciclismo/2026-09-13/enric-mas-y-el-laurel-de-la-perseverancia-el-mallorquin-gana-la-vuelta.html"
     },
     {
-      "titular": "GP de Madrid de F1, en directo | Antonelli gana la primera carrera en el circuito de Madring y consolida su liderato en el Mundial",
+      "titular": "Escocia, Irlanda del Norte y Gales se unen para pedir su independencia del Reino Unido",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-13T19:40:05+02:00",
+      "enlace": "https://www.abc.es/internacional/escocia-irlanda-norte-gales-unen-pedir-independencia-20260913193919-nt.html"
+    },
+    {
+      "titular": "Así es Enric Mas, el campeón español de la Vuelta: disciplina de hierro, amor de adolescencia y arraigo familiar",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-13T19:34:35+02:00",
+      "enlace": "https://www.abc.es/deportes/ciclismo/disciplina-hierro-amor-adolescencia-arraigo-familiar-detras-20260913193038-nt.html"
+    },
+    {
+      "titular": "Rusia ataca la zona fronteriza entre Polonia y Ucrania, a dos kilómetros de territorio OTAN",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-13T16:43:46+02:00",
-      "enlace": "https://elpais.com/deportes/formula-1/2026-09-13/gp-de-madrid-de-f1-en-directo-la-carrera-en-el-circuito-de-madring-en-vivo.html"
+      "fecha": "2026-09-13T19:21:04+02:00",
+      "enlace": "https://elpais.com/internacional/2026-09-13/rusia-ataca-la-zona-fronteriza-entre-polonia-y-ucrania-a-pocos-kilometros-de-territorio-otan.html"
     },
     {
-      "titular": "Antonelli estrena Madring con una victoria que le hace más líder del Mundial",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-13T16:40:37+02:00",
-      "enlace": "https://www.abc.es/deportes/formula-1/carrera-madrid-directo-resultado-ganador-posicion-alonso-20260913122647-di.html"
-    },
-    {
-      "titular": "Lamine, a pase de Raphinha, marca el segundo del Barça",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-13T16:37:45+02:00",
-      "enlace": "https://www.abc.es/deportes/futbol/levante-barcelona-directo-resultado-ganador-goles-partido-20260913155505-di.html"
-    },
-    {
-      "titular": "Siete heridos en un accidente entre tres coches y una ambulancia en la ronda de Dalt",
+      "titular": "La histórica victoria de Kimi Antonelli en el Madring, en las imágenes del día",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-13T15:34:06+02:00",
-      "enlace": "https://www.lavanguardia.com/local/barcelona/20260913/11633756/siete-heridos-accidente-tres-coches-ambulancia-ronda-dalt.html"
+      "fecha": "2026-09-13T19:09:41+02:00",
+      "enlace": "https://www.lavanguardia.com/fotos/20260913/11633351/historica-victoria-kimi-antonelli-madring-imagenes-dia.html"
     },
     {
-      "titular": "Decretado por el incendio el confinamiento preventivo en Benahavís (Málaga)",
+      "titular": "La lección que aprende el Barça en Levante: “Nos hemos complicado la vida más de la cuenta”",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-13T15:21:00+02:00",
-      "enlace": "https://www.lavanguardia.com/vida/20260913/11633753/elevada-fase-emergencia-1-incendio-benahavis-malaga.html"
+      "fecha": "2026-09-13T19:04:01+02:00",
+      "enlace": "https://www.lavanguardia.com/deportes/fc-barcelona/20260913/11633810/eric-garcia-hemos-complicado-vida-mas-cuenta-reacciones-triunfo-barca-levante-liga.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 2,
+    "antiguedad_minima_min": 6,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2241581,
+        "antiguedad_min": 2241765,
         "descartados_por_gancho": 0
       },
       {
@@ -97,28 +97,28 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 136,
+        "items": 133,
         "error": null,
-        "antiguedad_min": 2,
-        "descartados_por_gancho": 6
+        "antiguedad_min": 6,
+        "descartados_por_gancho": 4
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 129,
+        "items": 133,
         "error": null,
-        "antiguedad_min": 72,
-        "descartados_por_gancho": 19
+        "antiguedad_min": 40,
+        "descartados_por_gancho": 21
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 24,
+        "items": 23,
         "error": null,
-        "antiguedad_min": 5,
-        "descartados_por_gancho": 1
+        "antiguedad_min": 10,
+        "descartados_por_gancho": 2
       }
     ]
   }
