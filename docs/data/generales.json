@@ -2,62 +2,61 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-09-13T12:55:08+02:00",
+  "generado": "2026-09-13T16:46:17+02:00",
   "titulares": [
     {
-      "titular": "Un Madrid de más a menos golea al Rayo, pero no silencia los pitos",
+      "titular": "Levante - Barcelona en directo | Lamine marca el segundo del Barça y amplía la ventaja",
       "medios": [
-        "La Vanguardia",
-        "ABC"
+        "El País"
       ],
-      "consenso": 2,
-      "fecha": "2026-09-13T12:49:21+02:00",
-      "enlace": "https://www.abc.es/deportes/real-madrid/madrid-derrota-rayo-silencia-pitos-20260912225758-nt.html"
+      "consenso": 1,
+      "fecha": "2026-09-13T16:44:09+02:00",
+      "enlace": "https://elpais.com/deportes/futbol/2026-09-13/levante-barcelona-en-directo-el-partido-de-la-liga-en-vivo.html"
     },
     {
-      "titular": "Las noventa tumbas sin nombre de Ceuta",
+      "titular": "GP de Madrid de F1, en directo | Antonelli gana la primera carrera en el circuito de Madring y consolida su liderato en el Mundial",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-13T16:43:46+02:00",
+      "enlace": "https://elpais.com/deportes/formula-1/2026-09-13/gp-de-madrid-de-f1-en-directo-la-carrera-en-el-circuito-de-madring-en-vivo.html"
+    },
+    {
+      "titular": "Antonelli estrena Madring con una victoria que le hace más líder del Mundial",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-13T12:43:57+02:00",
-      "enlace": "https://www.abc.es/espana/tumbas-nombre-tarajal-20260913020518-nt.html"
-    },
-    {
-      "titular": "Jornada histórica en Madrid: la Fórmula 1 llega a la capital después de 45 años",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-13T12:39:43+02:00",
+      "fecha": "2026-09-13T16:40:37+02:00",
       "enlace": "https://www.abc.es/deportes/formula-1/carrera-madrid-directo-resultado-ganador-posicion-alonso-20260913122647-di.html"
     },
     {
-      "titular": "Una nueva donación multimillonaria al ultra Farage hace sonar las alarmas en el resto de partidos británicos",
+      "titular": "Lamine, a pase de Raphinha, marca el segundo del Barça",
       "medios": [
-        "El País"
+        "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-13T12:30:19+02:00",
-      "enlace": "https://elpais.com/internacional/2026-09-13/una-nueva-donacion-multimillonaria-al-ultra-farage-hace-sonar-las-alarmas-en-el-resto-de-partidos-britanicos.html"
+      "fecha": "2026-09-13T16:37:45+02:00",
+      "enlace": "https://www.abc.es/deportes/futbol/levante-barcelona-directo-resultado-ganador-goles-partido-20260913155505-di.html"
     },
     {
-      "titular": "El Madring alumbra al mejor Lando Norris, que firma la primera ‘pole’ de la historia del circuito",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-13T12:03:25+02:00",
-      "enlace": "https://elpais.com/deportes/formula-1/2026-09-12/el-madring-alumbra-al-mejor-lando-norris-que-firma-la-primera-pole-de-la-historia-del-circuito.html"
-    },
-    {
-      "titular": "Alumnos de casa Árabe piden una reunión a Almeida para no desalojar el edificio",
+      "titular": "Siete heridos en un accidente entre tres coches y una ambulancia en la ronda de Dalt",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-13T10:52:59+02:00",
-      "enlace": "https://www.lavanguardia.com/local/madrid/20260913/11633683/alumnos-casa-arabe-piden-reunion-almeida-desalojar-edificio.html"
+      "fecha": "2026-09-13T15:34:06+02:00",
+      "enlace": "https://www.lavanguardia.com/local/barcelona/20260913/11633756/siete-heridos-accidente-tres-coches-ambulancia-ronda-dalt.html"
+    },
+    {
+      "titular": "Decretado por el incendio el confinamiento preventivo en Benahavís (Málaga)",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-13T15:21:00+02:00",
+      "enlace": "https://www.lavanguardia.com/vida/20260913/11633753/elevada-fase-emergencia-1-incendio-benahavis-malaga.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -75,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 5,
+    "antiguedad_minima_min": 2,
     "detalle": [
       {
         "medio": "RTVE",
@@ -83,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2241350,
+        "antiguedad_min": 2241581,
         "descartados_por_gancho": 0
       },
       {
@@ -98,28 +97,28 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 135,
+        "items": 136,
         "error": null,
-        "antiguedad_min": 24,
+        "antiguedad_min": 2,
         "descartados_por_gancho": 6
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 126,
+        "items": 129,
         "error": null,
-        "antiguedad_min": 122,
-        "descartados_por_gancho": 21
+        "antiguedad_min": 72,
+        "descartados_por_gancho": 19
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 21,
+        "items": 24,
         "error": null,
         "antiguedad_min": 5,
-        "descartados_por_gancho": 4
+        "descartados_por_gancho": 1
       }
     ]
   }

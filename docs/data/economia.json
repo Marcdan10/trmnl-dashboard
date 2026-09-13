@@ -2,8 +2,62 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-09-13T12:55:11+02:00",
+  "generado": "2026-09-13T16:46:20+02:00",
   "titulares": [
+    {
+      "titular": "La CNMC bloqueará los SMS comerciales con alias no registrados en su base de datos",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-13T16:14:20+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/09/13/6aa68f0f468aebe04b8b458d.html"
+    },
+    {
+      "titular": "El valor de las bolsas del golfo Pérsico cayó en 2025 arrastrado por Arabia Saudí",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-13T15:37:48+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/09/13/6aa6a13d468aebaa308b4576.html"
+    },
+    {
+      "titular": "Irán afirma que el acuerdo con Omán sobre Ormuz no implica la reapertura del paso",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-13T14:31:49+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/09/13/6aa67051468aeb2b278b4574.html"
+    },
+    {
+      "titular": "Uno de cada cuatro contratos firmados en agosto duró 7 días o menos",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-13T13:52:34+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/09/13/6aa687a9468aebd7628b457a.html"
+    },
+    {
+      "titular": "Cientos de migrantes de Ceuta, trasladados a una nueva instalación acondicionada",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-13T13:24:32+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/09/13/6aa686cbe5fdea592a8b457c.html"
+    },
+    {
+      "titular": "Las medidas fiscales por la guerra en Irán restan 1.812 millones a la recaudación hasta julio",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-13T12:54:38+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/09/13/6aa67f14e5fdeaae658b457a.html"
+    },
     {
       "titular": "Trump y donaciones por 84 millones a Farage sacuden la política inglesa",
       "medios": [
@@ -12,60 +66,6 @@
       "consenso": 1,
       "fecha": "2026-09-13T12:30:02+02:00",
       "enlace": "https://www.expansion.com/economia/politica/2026/09/13/6aa67959e5fdeace738b4592.html"
-    },
-    {
-      "titular": "El Imserso comercializa desde el lunes 879.213 plazas, con 7.447 viajes a 50 euros",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-13T12:19:41+02:00",
-      "enlace": "https://www.expansion.com/empresas/transporte/2026/09/13/6aa674d1e5fdea82668b4587.html"
-    },
-    {
-      "titular": "Isabel Rodríguez: Casa 47 habrá puesto 100.000 pisos en alquiler en 10 años",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-13T11:40:51+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/09/13/6aa6642b468aebec128b4588.html"
-    },
-    {
-      "titular": "'Woman Unknown' gana el León de Oro en Venecia",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-13T11:34:33+02:00",
-      "enlace": "https://www.expansion.com/estilo-vida/2026/09/13/6aa669da468aebfa268b4576.html"
-    },
-    {
-      "titular": "El Tesoro cerrará las emisiones de septiembre con una subasta de obligaciones",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-13T11:27:32+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/09/13/6aa66b73e5fdeaa96b8b459c.html"
-    },
-    {
-      "titular": "Altman: \"Sería poco aconsejable\" sacar OpenAI a Bolsa ante los riesgos de la IA",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-13T11:21:36+02:00",
-      "enlace": "https://www.expansion.com/tecnologia/2026/09/13/6aa6693a468aebeb2f8b4583.html"
-    },
-    {
-      "titular": "No busque la habilidad mejor pagada; pregunte qué problema resuelve y cómo combinarla",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-13T09:47:40+02:00",
-      "enlace": "https://www.expansion.com/expansion-empleo/profesiones/2026/09/13/6aa5ee36468aeb96018b456d.html"
     }
   ],
   "salud": {
@@ -78,7 +78,7 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 25,
+    "antiguedad_minima_min": 31,
     "detalle": [
       {
         "medio": "Expansión",
@@ -86,7 +86,7 @@
         "ok": true,
         "items": 68,
         "error": null,
-        "antiguedad_min": 25,
+        "antiguedad_min": 31,
         "descartados_por_gancho": 2
       },
       {

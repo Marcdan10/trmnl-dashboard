@@ -2,8 +2,35 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "ultimas",
-  "generado": "2026-09-13T12:55:21+02:00",
+  "generado": "2026-09-13T16:46:29+02:00",
   "titulares": [
+    {
+      "titular": "España afronta la reforma farmacéutica con el reto de reforzar su plantilla y alinear procedimientos con Europa",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-13T15:55:20+02:00",
+      "enlace": "https://www.redaccionmedica.com/empresas/industria-farmaceutica/20260913/espana-afronta-la-reforma-farmaceutica-con-el-reto-de-reforzar-su-plantilla-alinear-procedimientos-europa/350280_0.html"
+    },
+    {
+      "titular": "Ni presencial ni por teléfono: la vía más eficaz para tratar la salud mental es por videollamada",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-13T15:04:07+02:00",
+      "enlace": "https://www.redaccionmedica.com/innovacion/avances/20260913/ni-presencial-ni-por-telefono-la-via-mas-eficaz-para-tratar-salud-mental-es-videollamada/350456_0.html"
+    },
+    {
+      "titular": "Canarias impulsa una Subdirección de Farmacia para la garantizar el acceso a fármacos",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-13T13:00:15+02:00",
+      "enlace": "https://diariofarma.com/2026/09/13/canarias-impulsa-una-subdireccion-de-farmacia-para-la-equidad-garantizar-el-acceso-a-farmacos"
+    },
     {
       "titular": "El equilibrio competencial y los precios marcan las posturas de los grupos en la Ley de Medicamentos",
       "medios": [
@@ -12,33 +39,6 @@
       "consenso": 1,
       "fecha": "2026-09-13T12:18:51+02:00",
       "enlace": "https://diariofarma.com/2026/09/13/el-congreso-de-los-diputados-abre-la-tramitacion-de-la-ley-de-medicamentos"
-    },
-    {
-      "titular": "La formación práctica veterinaria palidece en España por el recorte de horas en la facultad",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-13T12:02:34+02:00",
-      "enlace": "https://www.redaccionmedica.com/formacion/estudiantes/20260913/la-formacion-practica-veterinaria-palidece-en-espana-por-el-recorte-de-horas-la-facultad/350532_0.html"
-    },
-    {
-      "titular": "Montero plantea priorizar sanidad ante gasto militar en su plan para liderar Podemos en las generales",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-13T11:59:13+02:00",
-      "enlace": "https://diariofarma.com/2026/09/13/montero-plantea-priorizar-sanidad-frente-a-gasto-militar-en-su-propuesta-para-encabezar-podemos-en-las-elecciones-generales"
-    },
-    {
-      "titular": "China adelanta a Europa en la regulación del antropomorfismo en la IA",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-13T10:04:06+02:00",
-      "enlace": "https://www.redaccionmedica.com/opinion/20260913/china-adelanta-europa-en-la-regulacion-del-antropomorfismo-ia/350630_12.html"
     },
     {
       "titular": "FIR 2027: claves para acreditar correctamente el expediente académico",
@@ -59,13 +59,13 @@
       "enlace": "https://elglobalfarma.com/opinion/editorial/biotech-act-siguiente-movimiento-bruselas/"
     },
     {
-      "titular": "\"Garantizar una edición genética segura para el paciente exige regular de forma más estricta\"",
+      "titular": "CSIF demanda un nuevo centro de salud en Ceuta para afrontar la presión asistencial",
       "medios": [
-        "Diariofarma"
+        "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-09-13T11:45:25+02:00",
-      "enlace": "https://diariofarma.com/2026/09/13/garantizar-una-edicion-genetica-segura-para-el-paciente-exige-regular-de-forma-mas-estricta"
+      "fecha": "2026-09-13T14:23:48+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20260913/csif-demanda-un-nuevo-centro-de-salud-en-ceuta-para-afrontar-la-presion-asistencial/350681_0.html"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 36,
+    "antiguedad_minima_min": 51,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 36,
+        "antiguedad_min": 226,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 2840,
+        "antiguedad_min": 3071,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 52,
+        "antiguedad_min": 51,
         "descartados_por_gancho": 0
       },
       {

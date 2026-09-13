@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-09-13T12:55:14+02:00",
+  "generado": "2026-09-13T16:46:23+02:00",
   "titulares": [
     {
-      "titular": "Fran, ingeniero español en Japón: \"La mayoría de las interacciones que he tenido han sido por la noche\"",
+      "titular": "El Barça activa las alarmas por otra lesión importante",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-13T12:03:41+02:00",
-      "enlace": "https://www.mundodeportivo.com/tressesenta/20260913/1004226603/fran-ingeniero-espanol-japon-gran-mayoria-interacciones-he-tenido-japoneses-han-surgido-noche-expt-dct.html"
+      "fecha": "2026-09-13T16:25:46+02:00",
+      "enlace": "https://www.mundodeportivo.com/baloncesto/20260913/1004226706/barca-activa-alarmas-lesion-brizuela.html"
     },
     {
-      "titular": "El Rayo Vallecano- Espanyol, seguro en Butarque",
+      "titular": "El Levante y todo su estadio homenajean a los ocho campeones del mundo del Barça",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-13T12:03:12+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/laliga/20260913/1004226635/rayo-vallecano-espanyol-seguro-butarque.html"
+      "fecha": "2026-09-13T16:24:42+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260913/1004226707/levante-estadio-homenajean-ocho-campeones-mundo-barca.html"
     },
     {
       "titular": "El Barça femenino roza los 30 millones de negocio y gana 8 millones tras crecer un 33%",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/champions-league/2026/09/08/diez-joyas-dar-pelotazo-champions-nico-paz-manzambi-karetsas-godts-karl.html"
     },
     {
-      "titular": "El Bernabéu empieza a desconfiar del 'efecto Mourinho'",
+      "titular": "La Vuelta 2027 empezará en Galicia y se disputará íntegramente en septiembre",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/real-madrid/bernabeu-empieza-desconfiar-efecto-mourinho-134234985"
+      "enlace": "https://www.sport.es/es/noticias/ciclismo/la-vuelta/vuelta-2027-empezara-galicia-disputara-septiembre-134240602"
     },
     {
-      "titular": "Un experto en pensiones avisa: \"37 años cotizados no nos garantiza que nos podamos jubilar a los 65 años\"",
+      "titular": "2-0 | El Juvenil B del Deportivo cae 2-0 ante el Auriense",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/economia/experto-pensiones-avisa-37-anos-134220012"
+      "enlace": "https://www.sport.es/es/noticias/futbol/2-0-juvenil-b-deportivo-134240969"
     },
     {
-      "titular": "Ferran Adrià: \"Yo no cocino. No me gusta nada cocinar en casa. Pero este verano lo he hecho y me he cuestionado todo\"",
+      "titular": "Ari Sánchez-Andrea Ustero se coronan en el Paris Major y arrollan a la pareja de moda",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-13T12:00:24+02:00",
-      "enlace": "https://www.mundodeportivo.com/foodie/20260913/1004226629/ferran-adria-cocinero-catalan-no-cocino-no-me-gusta-cocinar-casa-verano-he-hecho-me-he-cuestionado-ejemplo-guiso-mayoria-le-pone-caldo-encuentro-ilogico-xef-dct.html"
+      "fecha": "2026-09-13T16:08:38+02:00",
+      "enlace": "https://www.mundodeportivo.com/padel/premier-padel/20260913/1004226700/ari-sanchez-andrea-ustero-coronan-paris-major-arrollan-pareja-moda.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 51,
+    "antiguedad_minima_min": 20,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 62,
         "error": null,
-        "antiguedad_min": 7329,
+        "antiguedad_min": 7560,
         "descartados_por_gancho": 6
       },
       {
@@ -100,17 +100,17 @@
         "ok": true,
         "items": 143,
         "error": null,
-        "antiguedad_min": 51,
-        "descartados_por_gancho": 7
+        "antiguedad_min": 20,
+        "descartados_por_gancho": 5
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 46,
+        "items": 47,
         "error": null,
         "antiguedad_min": null,
-        "descartados_por_gancho": 3
+        "descartados_por_gancho": 0
       },
       {
         "medio": "NBA",
