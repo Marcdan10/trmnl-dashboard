@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-09-13T02:32:11+02:00",
+  "generado": "2026-09-13T07:33:47+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -14,13 +14,13 @@
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
     },
     {
-      "titular": "El analista jefe del Informe PISA: “La IA está dando a los alumnos la experiencia opuesta al aprendizaje”",
+      "titular": "Zohran Mamdani: “La democracia no sirve si la gente no puede cubrir sus necesidades”",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-12T17:12:00+02:00",
-      "enlace": "https://elpais.com/educacion/2026-09-13/el-analista-jefe-del-informe-pisa-la-ia-esta-dando-a-los-alumnos-la-experiencia-opuesta-al-aprendizaje.html"
+      "fecha": "2026-09-13T05:30:00+02:00",
+      "enlace": "https://elpais.com/eps/2026-09-13/zohran-mamdani-la-democracia-no-sirve-si-la-gente-no-puede-cubrir-sus-necesidades.html"
     },
     {
       "titular": "El CEO de Anthropic pide ralentizar el avance de la IA “antes de perder el control”",
@@ -32,13 +32,13 @@
       "enlace": "https://www.lavanguardia.com/vida/20260912/11633315/director-ejecutivo-anthropic-afirma-hora-ralentizar-ritmo-mejora-modelos-ia.html"
     },
     {
-      "titular": "Los centros de datos y el aceite, nuevos desbarajustes de Moncloa para abrir el curso",
+      "titular": "La hora del nuncio: los diez nombramientos que reconfigurarán el episcopado español",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-13T02:28:56+02:00",
-      "enlace": "https://www.abc.es/economia/centros-datos-aceite-nuevos-desbarajustes-moncloa-abrir-20260913013337-nt.html"
+      "fecha": "2026-09-13T02:55:01+02:00",
+      "enlace": "https://www.abc.es/sociedad/hora-nuncio-diez-nombramientos-reconfiguraran-episcopado-espanol-20260913012733-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -50,13 +50,13 @@
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
     },
     {
-      "titular": "Los líderes de la IA alertan de que esta tecnología crece demasiado rápido",
+      "titular": "La entrevista a Zohran Mamdani resumida en un vídeo de cinco minutos",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-13T02:05:23+02:00",
-      "enlace": "https://elpais.com/tecnologia/2026-09-12/el-director-general-de-anthropic-pide-ralentizar-el-progreso-de-la-ia-y-que-todas-las-empresas-admitan-verificadores-externos.html"
+      "fecha": "2026-09-13T05:30:01+02:00",
+      "enlace": "https://elpais.com/videos/2026-09-13/la-entrevista-a-zohran-mamdani-resumida-en-un-video-de-cinco-minutos.html"
     },
     {
       "titular": "Anthropic radiografía los riesgos de su IA y cree que aún puede vigilarla",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 3,
+    "antiguedad_minima_min": 33,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2240727,
+        "antiguedad_min": 2241028,
         "descartados_por_gancho": 0
       },
       {
@@ -97,10 +97,10 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 143,
+        "items": 136,
         "error": null,
-        "antiguedad_min": 26,
-        "descartados_por_gancho": 5
+        "antiguedad_min": 33,
+        "descartados_por_gancho": 6
       },
       {
         "medio": "La Vanguardia",
@@ -108,7 +108,7 @@
         "ok": true,
         "items": 120,
         "error": null,
-        "antiguedad_min": 122,
+        "antiguedad_min": 198,
         "descartados_por_gancho": 20
       },
       {
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 3,
+        "antiguedad_min": 278,
         "descartados_por_gancho": 0
       }
     ]

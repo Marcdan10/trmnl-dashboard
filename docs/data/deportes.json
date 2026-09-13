@@ -2,10 +2,10 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-09-13T02:32:18+02:00",
+  "generado": "2026-09-13T07:33:53+02:00",
   "titulares": [
     {
-      "titular": "El Madrid, de golear a sufrir ante el Rayo",
+      "titular": "4-1: El Madrid, de golear a sufrir ante el Rayo",
       "medios": [
         "Mundo Deportivo"
       ],
@@ -14,13 +14,13 @@
       "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260912/1004226499/real-madrid-golear-sufrir-rayo.html"
     },
     {
-      "titular": "Rybakina es la reina del tenis: campeona del US Open y número uno del mundo",
+      "titular": "El Unicaja volvió al Martín Carpena junto a su afición 112 días después",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/tenis/rybakina-reina-tenis-campeona-us-134228212"
+      "enlace": "https://www.sport.es/es/noticias/baloncesto/unicaja-volvio-martin-carpena-aficion-134231279"
     },
     {
       "titular": "El Barça femenino roza los 30 millones de negocio y gana 8 millones tras crecer un 33%",
@@ -32,22 +32,22 @@
       "enlace": "https://www.marca.com/sport-business/2playbook/2026/09/08/barca-femenino-roza-30-millones-negocio-gana-8-millones-crecer-33.html"
     },
     {
-      "titular": "Así queda la clasificación general de La Vuelta",
+      "titular": "El Madrid no da esquinazo a la desidia",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-12T18:16:51+02:00",
-      "enlace": "https://www.mundodeportivo.com/ciclismo/vuelta-espana/20260912/1004226394/asi-queda-clasificacion-general-vuelta-dia-historico-ciclismo-espanol-falta-ultima-etapa.html"
+      "fecha": "2026-09-12T23:05:07+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260912/1004226498/madrid-no-da-esquinazo-desidia.html"
     },
     {
-      "titular": "Valentín González, campeón del US Open de dobles júnior",
+      "titular": "La afición del Real Zaragoza juega en otra categoría",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/tenis/valentin-gonzalez-campeon-us-open-134228709"
+      "enlace": "https://www.sport.es/es/noticias/futbol/aficion-real-zaragoza-juega-categoria-134231275"
     },
     {
       "titular": "Diez 'joyas' que pueden dar el pelotazo en Champions",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 105,
+    "antiguedad_minima_min": 33,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 62,
         "error": null,
-        "antiguedad_min": 6706,
+        "antiguedad_min": 7007,
         "descartados_por_gancho": 6
       },
       {
@@ -100,17 +100,17 @@
         "ok": true,
         "items": 144,
         "error": null,
-        "antiguedad_min": 105,
-        "descartados_por_gancho": 5
+        "antiguedad_min": 33,
+        "descartados_por_gancho": 6
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 49,
+        "items": 50,
         "error": null,
         "antiguedad_min": null,
-        "descartados_por_gancho": 1
+        "descartados_por_gancho": 0
       },
       {
         "medio": "NBA",
