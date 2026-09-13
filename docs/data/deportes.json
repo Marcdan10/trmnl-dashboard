@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-09-13T19:50:32+02:00",
+  "generado": "2026-09-13T22:07:16+02:00",
   "titulares": [
     {
-      "titular": "0-1: Haaland y Donnarumma dan el derbi de Manchester al City",
+      "titular": "Así serán los nuevos obuses que sustituirán a los veteranos M109 del Ejército español",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-13T19:24:38+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/premier-league/20260913/1004226771/derbi.html"
+      "fecha": "2026-09-13T21:53:11+02:00",
+      "enlace": "https://www.mundodeportivo.com/actualidad/20260913/1004226847/ministerio-defensa-confirma-asi-seran-nuevos-obuses-sustituiran-veteranos-m109-ejercito-espanol-dml-dct.html"
     },
     {
-      "titular": "Tapia-Coello sobreviven a Galán-Chingotto y dan un puñetazo sobre la mesa en Roland Garros",
+      "titular": "El Mundial de rallies ya tiene su primer campeón",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-13T19:18:56+02:00",
-      "enlace": "https://www.mundodeportivo.com/padel/premier-padel/20260913/1004226786/tapia-coello-sobreviven-galan-chingotto-dan-punetazo-sobre-mesa-roland-garros.html"
+      "fecha": "2026-09-13T21:50:40+02:00",
+      "enlace": "https://www.mundodeportivo.com/motor/rallies/20260913/1004226848/mundial-rallies-primer-campeon.html"
     },
     {
       "titular": "El Barça femenino roza los 30 millones de negocio y gana 8 millones tras crecer un 33%",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/champions-league/2026/09/08/diez-joyas-dar-pelotazo-champions-nico-paz-manzambi-karetsas-godts-karl.html"
     },
     {
-      "titular": "El Zaragoza está bajo de defensas a pesar de ganar en Torremolinos: mismos centrales, idénticos problemas",
+      "titular": "Ferran Jutglà: «El equipo no estuvo contundente en el córner y nos costó un punto»",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/futbol/zaragoza-defensas-pesar-ganar-torremolinos-134247646"
+      "enlace": "https://www.sport.es/es/noticias/celta-de-vigo/ferran-jutgla-equipo-estuvo-contundente-134250704"
     },
     {
-      "titular": "Zverev - Shelton hoy en directo: final del US Open 2026 en vivo",
+      "titular": "Ya es oficial: los pensionistas pueden cobrar un 25% extra si cumplen este requisito",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/tenis/zverev-shelton-hoy-directo-final-134245202"
+      "enlace": "https://www.sport.es/es/noticias/economia/oficial-pensionistas-cobrar-25-extra-134220232"
     },
     {
-      "titular": "Flick: \"Sufrimos en la segunda parte, pero estoy contento\"",
+      "titular": "97-79: Estados Unidos aplasta a Francia y prolonga su hegemonía mundial",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-13T19:02:52+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260913/1004226705/flick-sufrimos-segunda-parte-contento.html"
+      "fecha": "2026-09-13T21:48:44+02:00",
+      "enlace": "https://www.mundodeportivo.com/baloncesto/mundial/20260913/1004226818/mundial-baloncesto-francia-estados-unidos-espana-alemania.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 25,
+    "antiguedad_minima_min": 14,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 62,
         "error": null,
-        "antiguedad_min": 7744,
+        "antiguedad_min": 7881,
         "descartados_por_gancho": 6
       },
       {
@@ -98,19 +98,19 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 143,
+        "items": 141,
         "error": null,
-        "antiguedad_min": 25,
-        "descartados_por_gancho": 4
+        "antiguedad_min": 14,
+        "descartados_por_gancho": 6
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 48,
+        "items": 50,
         "error": null,
         "antiguedad_min": null,
-        "descartados_por_gancho": 1
+        "descartados_por_gancho": 0
       },
       {
         "medio": "NBA",

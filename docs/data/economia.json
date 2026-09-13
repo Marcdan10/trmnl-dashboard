@@ -2,10 +2,28 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-09-13T19:50:30+02:00",
+  "generado": "2026-09-13T22:07:15+02:00",
   "titulares": [
     {
-      "titular": "Trump pide a Zelenski que Ucrania deje de atacar refinerías de Rusia",
+      "titular": "Los hutíes toman el sur de Yemen y amenazan el paso por Bab el-Mandeb",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-13T21:44:35+02:00",
+      "enlace": "https://www.expansion.com/empresas/banca/2026/09/13/6aa6fb08e5fdea9d648b4584.html"
+    },
+    {
+      "titular": "García Munté sube el beneficio un 9% y abre una filial en Dinamarca",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-13T20:45:53+02:00",
+      "enlace": "https://www.expansion.com/catalunya/2026/09/13/6aa6ed1d468aebe04b8b45a3.html"
+    },
+    {
+      "titular": "Trump: EEUU saldrá de Irán \"a no ser que decida quedarse por el petróleo, como en Venezuela\"",
       "medios": [
         "Expansión"
       ],
@@ -41,15 +59,6 @@
       "enlace": "https://www.expansion.com/mercados/2026/09/13/6aa6a13d468aebaa308b4576.html"
     },
     {
-      "titular": "Irán afirma que el acuerdo con Omán sobre Ormuz no implica la reapertura del paso",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-13T14:31:49+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/09/13/6aa67051468aeb2b278b4574.html"
-    },
-    {
       "titular": "Uno de cada cuatro contratos firmados en agosto duró 7 días o menos",
       "medios": [
         "Expansión"
@@ -57,15 +66,6 @@
       "consenso": 1,
       "fecha": "2026-09-13T13:52:34+02:00",
       "enlace": "https://www.expansion.com/economia/2026/09/13/6aa687a9468aebd7628b457a.html"
-    },
-    {
-      "titular": "Cientos de migrantes de Ceuta, trasladados a una nueva instalación acondicionada",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-13T13:24:32+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/09/13/6aa686cbe5fdea592a8b457c.html"
     }
   ],
   "salud": {
@@ -78,7 +78,7 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 15,
+    "antiguedad_minima_min": 22,
     "detalle": [
       {
         "medio": "Expansión",
@@ -86,7 +86,7 @@
         "ok": true,
         "items": 68,
         "error": null,
-        "antiguedad_min": 15,
+        "antiguedad_min": 22,
         "descartados_por_gancho": 2
       },
       {

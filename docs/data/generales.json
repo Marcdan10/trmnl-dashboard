@@ -2,61 +2,61 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-09-13T19:50:26+02:00",
+  "generado": "2026-09-13T22:07:12+02:00",
   "titulares": [
     {
-      "titular": "Enric Mas y el laurel de la perseverancia: el mallorquín gana la Vuelta",
+      "titular": "Zverev - Shelton, la final del US Open en directo | Zverev se anota el primer set",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-13T19:44:02+02:00",
-      "enlace": "https://elpais.com/deportes/ciclismo/2026-09-13/enric-mas-y-el-laurel-de-la-perseverancia-el-mallorquin-gana-la-vuelta.html"
+      "fecha": "2026-09-13T22:02:44+02:00",
+      "enlace": "https://elpais.com/deportes/tenis/2026-09-13/zverev-shelton-en-directo-la-final-del-us-open-en-vivo.html"
     },
     {
-      "titular": "Escocia, Irlanda del Norte y Gales se unen para pedir su independencia del Reino Unido",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-13T19:40:05+02:00",
-      "enlace": "https://www.abc.es/internacional/escocia-irlanda-norte-gales-unen-pedir-independencia-20260913193919-nt.html"
-    },
-    {
-      "titular": "Así es Enric Mas, el campeón español de la Vuelta: disciplina de hierro, amor de adolescencia y arraigo familiar",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-13T19:34:35+02:00",
-      "enlace": "https://www.abc.es/deportes/ciclismo/disciplina-hierro-amor-adolescencia-arraigo-familiar-detras-20260913193038-nt.html"
-    },
-    {
-      "titular": "Rusia ataca la zona fronteriza entre Polonia y Ucrania, a dos kilómetros de territorio OTAN",
+      "titular": "El Ministro de Cultura de Israel amenaza con retirarles la ciudadanía a los dos directores del documental ‘NAZA’, premiado en Venecia",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-13T19:21:04+02:00",
-      "enlace": "https://elpais.com/internacional/2026-09-13/rusia-ataca-la-zona-fronteriza-entre-polonia-y-ucrania-a-pocos-kilometros-de-territorio-otan.html"
+      "fecha": "2026-09-13T21:46:27+02:00",
+      "enlace": "https://elpais.com/cultura/2026-09-13/el-ministro-de-cultura-de-israel-amenaza-con-retirarles-la-ciudadania-a-los-dos-directores-del-documental-naza-premiado-en-venecia.html"
     },
     {
-      "titular": "La histórica victoria de Kimi Antonelli en el Madring, en las imágenes del día",
+      "titular": "Dominio alterno sin ocasiones claras de gol",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-13T21:41:41+02:00",
+      "enlace": "https://www.abc.es/deportes/atletico-madrid/real-sociedad-atletico-madrid-directo-resultado-ganador-20260913204928-di.html"
+    },
+    {
+      "titular": "Los sondeos dan la victoria en las elecciones de Suecia a una izquierda más dura con la inmigración",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-13T21:40:19+02:00",
+      "enlace": "https://www.abc.es/internacional/suecia-vira-izquierda-dura-inmigrantes-delincuencia-20260913211841-nt.html"
+    },
+    {
+      "titular": "Ausente el fatigado Ingebrigtsen, Kerr se adueña del mediofondo",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-13T19:09:41+02:00",
-      "enlace": "https://www.lavanguardia.com/fotos/20260913/11633351/historica-victoria-kimi-antonelli-madring-imagenes-dia.html"
+      "fecha": "2026-09-13T20:55:26+02:00",
+      "enlace": "https://www.lavanguardia.com/deportes/otros-deportes/20260913/11633840/ausente-fatigado-ingebrigtsen-kerr-regala-monologo-1-500.html"
     },
     {
-      "titular": "La lección que aprende el Barça en Levante: “Nos hemos complicado la vida más de la cuenta”",
+      "titular": "La oposición de centroizquierda gana las elecciones en Suecia, según los sondeos",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-13T19:04:01+02:00",
-      "enlace": "https://www.lavanguardia.com/deportes/fc-barcelona/20260913/11633810/eric-garcia-hemos-complicado-vida-mas-cuenta-reacciones-triunfo-barca-levante-liga.html"
+      "fecha": "2026-09-13T20:22:31+02:00",
+      "enlace": "https://www.lavanguardia.com/internacional/20260913/11633822/oposicion-centroizquierda-gana-elecciones-suecia-sondeos.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 6,
+    "antiguedad_minima_min": 4,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2241765,
+        "antiguedad_min": 2241902,
         "descartados_por_gancho": 0
       },
       {
@@ -97,19 +97,19 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 133,
+        "items": 137,
         "error": null,
-        "antiguedad_min": 6,
+        "antiguedad_min": 4,
         "descartados_por_gancho": 4
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 133,
+        "items": 135,
         "error": null,
-        "antiguedad_min": 40,
-        "descartados_por_gancho": 21
+        "antiguedad_min": 71,
+        "descartados_por_gancho": 20
       },
       {
         "medio": "ABC",
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 23,
         "error": null,
-        "antiguedad_min": 10,
+        "antiguedad_min": 25,
         "descartados_por_gancho": 2
       }
     ]
