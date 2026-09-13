@@ -1,8 +1,8 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "ultimas",
-  "generado": "2026-09-13T22:07:21+02:00",
+  "modo": "portadas",
+  "generado": "2026-09-14T00:31:15+02:00",
   "titulares": [
     {
       "titular": "La propuesta de Padilla sobre incentivos en la Biotech Act centra su reunión con Varheyli",
@@ -14,6 +14,15 @@
       "enlace": "https://diariofarma.com/2026/09/13/la-propuesta-de-padilla-sobre-incentivos-en-la-biotech-act-centra-su-reunion-con-varheyli"
     },
     {
+      "titular": "FIR 2027: claves para acreditar correctamente el expediente académico",
+      "medios": [
+        "El Global"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-11T13:35:13+02:00",
+      "enlace": "https://elglobalfarma.com/farmacia/fir-2027-claves-acreditar-correctamente-expediente-academico/"
+    },
+    {
       "titular": "El seguro de salud opta por la personalización y la digitalización para equilibrar las primas en pleno reto demográfico",
       "medios": [
         "Redacción Médica"
@@ -21,15 +30,6 @@
       "consenso": 1,
       "fecha": "2026-09-13T18:00:15+02:00",
       "enlace": "https://www.redaccionmedica.com/empresas/sanidad-privada/20260913/el-seguro-de-salud-opta-por-la-personalizacion-digitalizacion-para-equilibrar-las-primas-en-pleno-reto-demografico/350561_0.html"
-    },
-    {
-      "titular": "¿Apoyas el ordenador sobre el cuerpo? Cuidado con las consecuencias en la piel",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-13T17:39:50+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20260913/apoyas-el-ordenador-sobre-cuerpo-cuidado-con-las-consecuencias-en-la-piel/350682_0.html"
     },
     {
       "titular": "Canarias impulsa una Subdirección de Farmacia para la garantizar el acceso a fármacos",
@@ -41,15 +41,6 @@
       "enlace": "https://diariofarma.com/2026/09/13/canarias-impulsa-una-subdireccion-de-farmacia-para-la-equidad-garantizar-el-acceso-a-farmacos"
     },
     {
-      "titular": "FIR 2027: claves para acreditar correctamente el expediente académico",
-      "medios": [
-        "El Global"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-11T13:35:13+02:00",
-      "enlace": "https://elglobalfarma.com/farmacia/fir-2027-claves-acreditar-correctamente-expediente-academico/"
-    },
-    {
       "titular": "Biotech Act: el siguiente movimiento está en Bruselas",
       "medios": [
         "El Global"
@@ -59,13 +50,22 @@
       "enlace": "https://elglobalfarma.com/opinion/editorial/biotech-act-siguiente-movimiento-bruselas/"
     },
     {
-      "titular": "La farmacéutica que se marchó a Irlanda en busca de la motivación perdida: \"He crecido profesionalmente muchísimo\"",
+      "titular": "España afronta la reforma farmacéutica con el reto de reforzar su plantilla y alinear procedimientos con Europa",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-09-13T17:10:10+02:00",
-      "enlace": "https://www.redaccionmedica.com/profesionales/20260913/la-farmaceutica-que-se-marcho-irlanda-en-busca-de-la-motivacion-perdida-he-crecido-profesionalmente-muchisimo/350177_0.html"
+      "fecha": "2026-09-13T15:55:20+02:00",
+      "enlace": "https://www.redaccionmedica.com/empresas/industria-farmaceutica/20260913/espana-afronta-la-reforma-farmaceutica-con-el-reto-de-reforzar-su-plantilla-alinear-procedimientos-europa/350280_0.html"
+    },
+    {
+      "titular": "El equilibrio competencial y los precios marcan las posturas de los grupos en la Ley de Medicamentos",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-13T12:18:51+02:00",
+      "enlace": "https://diariofarma.com/2026/09/13/el-congreso-de-los-diputados-abre-la-tramitacion-de-la-ley-de-medicamentos"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 203,
+    "antiguedad_minima_min": 347,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 203,
+        "antiguedad_min": 347,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 3392,
+        "antiguedad_min": 3535,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 247,
+        "antiguedad_min": 390,
         "descartados_por_gancho": 0
       },
       {

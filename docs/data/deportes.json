@@ -1,26 +1,27 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "ultimas",
-  "generado": "2026-09-13T22:07:16+02:00",
+  "modo": "portadas",
+  "generado": "2026-09-14T00:31:08+02:00",
   "titulares": [
     {
-      "titular": "Así serán los nuevos obuses que sustituirán a los veteranos M109 del Ejército español",
+      "titular": "Lamine: \"Mbappé y yo somos los dos mejores, pero creo que el Balón de Oro me lo merecería yo\"",
       "medios": [
-        "Mundo Deportivo"
+        "Mundo Deportivo",
+        "Sport"
       ],
-      "consenso": 1,
-      "fecha": "2026-09-13T21:53:11+02:00",
-      "enlace": "https://www.mundodeportivo.com/actualidad/20260913/1004226847/ministerio-defensa-confirma-asi-seran-nuevos-obuses-sustituiran-veteranos-m109-ejercito-espanol-dml-dct.html"
+      "consenso": 2,
+      "fecha": "2026-09-14T00:02:57+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260914/1004226919/lamine-mbappe-dos-mejores-creo-balon-oro-me-mereceria.html"
     },
     {
-      "titular": "El Mundial de rallies ya tiene su primer campeón",
+      "titular": "Esta es la portada SPORT de hoy, lunes 14 de septiembre de 2026",
       "medios": [
-        "Mundo Deportivo"
+        "Sport"
       ],
       "consenso": 1,
-      "fecha": "2026-09-13T21:50:40+02:00",
-      "enlace": "https://www.mundodeportivo.com/motor/rallies/20260913/1004226848/mundial-rallies-primer-campeon.html"
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/la-portada-de-sport/portada-sport-hoy-lunes-14-134252409"
     },
     {
       "titular": "El Barça femenino roza los 30 millones de negocio y gana 8 millones tras crecer un 33%",
@@ -32,6 +33,24 @@
       "enlace": "https://www.marca.com/sport-business/2playbook/2026/09/08/barca-femenino-roza-30-millones-negocio-gana-8-millones-crecer-33.html"
     },
     {
+      "titular": "2-4: El Barça mantiene el pleno ante un correoso Levante",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-13T18:22:55+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260913/1004226757/2-4-barca-sigue-racha-correoso-levante.html"
+    },
+    {
+      "titular": "¡Insólito! Zverev no se dio cuenta de que había ganado el US Open",
+      "medios": [
+        "Sport"
+      ],
+      "consenso": 1,
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/tenis/insolito-zverev-dio-cuenta-habia-134252382"
+    },
+    {
       "titular": "Diez 'joyas' que pueden dar el pelotazo en Champions",
       "medios": [
         "Marca"
@@ -41,31 +60,13 @@
       "enlace": "https://www.marca.com/futbol/champions-league/2026/09/08/diez-joyas-dar-pelotazo-champions-nico-paz-manzambi-karetsas-godts-karl.html"
     },
     {
-      "titular": "Ferran Jutglà: «El equipo no estuvo contundente en el córner y nos costó un punto»",
-      "medios": [
-        "Sport"
-      ],
-      "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/celta-de-vigo/ferran-jutgla-equipo-estuvo-contundente-134250704"
-    },
-    {
-      "titular": "Ya es oficial: los pensionistas pueden cobrar un 25% extra si cumplen este requisito",
-      "medios": [
-        "Sport"
-      ],
-      "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/economia/oficial-pensionistas-cobrar-25-extra-134220232"
-    },
-    {
-      "titular": "97-79: Estados Unidos aplasta a Francia y prolonga su hegemonía mundial",
+      "titular": "¡Enric Mas hace historia y gana La Vuelta!",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-13T21:48:44+02:00",
-      "enlace": "https://www.mundodeportivo.com/baloncesto/mundial/20260913/1004226818/mundial-baloncesto-francia-estados-unidos-espana-alemania.html"
+      "fecha": "2026-09-13T19:51:31+02:00",
+      "enlace": "https://www.mundodeportivo.com/ciclismo/vuelta-espana/20260913/1004226801/enric-historia-gana-forma-brillante-vuelta-johannessen-lleva-ultima-espectacular-etapa-granada.html"
     }
   ],
   "salud": {
@@ -74,7 +75,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 14,
+    "antiguedad_minima_min": 28,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +83,7 @@
         "ok": true,
         "items": 62,
         "error": null,
-        "antiguedad_min": 7881,
+        "antiguedad_min": 8025,
         "descartados_por_gancho": 6
       },
       {
@@ -98,9 +99,9 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 141,
+        "items": 142,
         "error": null,
-        "antiguedad_min": 14,
+        "antiguedad_min": 28,
         "descartados_por_gancho": 6
       },
       {

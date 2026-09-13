@@ -1,35 +1,35 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "ultimas",
-  "generado": "2026-09-13T22:07:15+02:00",
+  "modo": "portadas",
+  "generado": "2026-09-14T00:31:05+02:00",
   "titulares": [
     {
-      "titular": "Los hutíes toman el sur de Yemen y amenazan el paso por Bab el-Mandeb",
+      "titular": "OpenAI descarta salir a Bolsa este año por los riesgos de la IA",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-13T21:44:35+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/09/13/6aa6fb08e5fdea9d648b4584.html"
+      "fecha": "2026-09-13T11:21:36+02:00",
+      "enlace": "https://www.expansion.com/tecnologia/2026/09/13/6aa6693a468aebeb2f8b4583.html"
     },
     {
-      "titular": "García Munté sube el beneficio un 9% y abre una filial en Dinamarca",
+      "titular": "Bancos: cómo subirse al tirón en Bolsa",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-13T20:45:53+02:00",
-      "enlace": "https://www.expansion.com/catalunya/2026/09/13/6aa6ed1d468aebe04b8b45a3.html"
+      "fecha": "2026-09-12T00:26:04+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/09/12/6aa4687be5fdeaa37f8b4581.html"
     },
     {
-      "titular": "Trump: EEUU saldrá de Irán \"a no ser que decida quedarse por el petróleo, como en Venezuela\"",
+      "titular": "Los principales competidores del nuevo iPhone Duo",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-13T19:35:08+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/09/13/6aa6dda0e5fdea204f8b457a.html"
+      "fecha": "2026-09-12T20:50:50+02:00",
+      "enlace": "https://www.expansion.com/tecnologia/companias/2026/09/12/6aa51f4d468aebec128b4573.html"
     },
     {
       "titular": "Madrid supera su primer gran examen de Fórmula 1",
@@ -41,31 +41,31 @@
       "enlace": "https://www.expansion.com/deporte-negocio/2026/09/13/6aa6bc08468aebe04b8b4598.html"
     },
     {
-      "titular": "La CNMC bloqueará los SMS comerciales con alias no registrados en su base de datos",
+      "titular": "Fondos emergentes para diversificar la inversión",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-13T16:14:20+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/09/13/6aa68f0f468aebe04b8b458d.html"
+      "fecha": "2026-09-12T20:50:51+02:00",
+      "enlace": "https://www.expansion.com/mercados/fondos/2026/09/12/6aa53930468aeb4a2c8b4590.html"
     },
     {
-      "titular": "El valor de las bolsas del golfo Pérsico cayó en 2025 arrastrado por Arabia Saudí",
+      "titular": "Guerra de sucesión entre multimillonarios: quién herederá los grandes imperios empresariales",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-13T15:37:48+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/09/13/6aa6a13d468aebaa308b4576.html"
+      "fecha": "2026-09-12T00:10:09+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/09/11/6aa3d41ce5fdeaba4b8b4573.html"
     },
     {
-      "titular": "Uno de cada cuatro contratos firmados en agosto duró 7 días o menos",
+      "titular": "Por qué debes sacar tu dinero del banco y empezar a invertir",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-13T13:52:34+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/09/13/6aa687a9468aebd7628b457a.html"
+      "fecha": "2026-09-11T14:42:25+02:00",
+      "enlace": "https://www.expansion.com/podcasts/en-accion/2026/09/11/6aa3f6a5468aeba8198b456d.html"
     }
   ],
   "salud": {
@@ -78,7 +78,7 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 22,
+    "antiguedad_minima_min": 166,
     "detalle": [
       {
         "medio": "Expansión",
@@ -86,7 +86,7 @@
         "ok": true,
         "items": 68,
         "error": null,
-        "antiguedad_min": 22,
+        "antiguedad_min": 166,
         "descartados_por_gancho": 2
       },
       {
