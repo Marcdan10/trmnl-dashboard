@@ -1,17 +1,44 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "portadas",
-  "generado": "2026-09-13T07:33:59+02:00",
+  "modo": "ultimas",
+  "generado": "2026-09-13T12:55:21+02:00",
   "titulares": [
     {
-      "titular": "Impulso europeo para desarrollar antivirales nasales frente a pandemias",
+      "titular": "El equilibrio competencial y los precios marcan las posturas de los grupos en la Ley de Medicamentos",
       "medios": [
         "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-09-11T14:04:27+02:00",
-      "enlace": "https://diariofarma.com/2026/09/11/impulso-europeo-para-desarrollar-antivirales-nasales-frente-a-pandemias"
+      "fecha": "2026-09-13T12:18:51+02:00",
+      "enlace": "https://diariofarma.com/2026/09/13/el-congreso-de-los-diputados-abre-la-tramitacion-de-la-ley-de-medicamentos"
+    },
+    {
+      "titular": "La formación práctica veterinaria palidece en España por el recorte de horas en la facultad",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-13T12:02:34+02:00",
+      "enlace": "https://www.redaccionmedica.com/formacion/estudiantes/20260913/la-formacion-practica-veterinaria-palidece-en-espana-por-el-recorte-de-horas-la-facultad/350532_0.html"
+    },
+    {
+      "titular": "Montero plantea priorizar sanidad ante gasto militar en su plan para liderar Podemos en las generales",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-13T11:59:13+02:00",
+      "enlace": "https://diariofarma.com/2026/09/13/montero-plantea-priorizar-sanidad-frente-a-gasto-militar-en-su-propuesta-para-encabezar-podemos-en-las-elecciones-generales"
+    },
+    {
+      "titular": "China adelanta a Europa en la regulación del antropomorfismo en la IA",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-13T10:04:06+02:00",
+      "enlace": "https://www.redaccionmedica.com/opinion/20260913/china-adelanta-europa-en-la-regulacion-del-antropomorfismo-ia/350630_12.html"
     },
     {
       "titular": "FIR 2027: claves para acreditar correctamente el expediente académico",
@@ -23,25 +50,6 @@
       "enlace": "https://elglobalfarma.com/farmacia/fir-2027-claves-acreditar-correctamente-expediente-academico/"
     },
     {
-      "titular": "Los médicos urgen una reforma formativa para proteger su salud mental: \"La prevención debe comenzar en el grado y el MIR\"",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-12T18:00:28+02:00",
-      "enlace": "https://www.redaccionmedica.com/formacion/estudiantes/20260912/los-medicos-urgen-una-reforma-formativa-para-proteger-su-salud-mental-la-prevencion-debe-comenzar-en-el-grado-mir/350601_0.html"
-    },
-    {
-      "titular": "La farmacia rural, la salud mental y la cooperación protagonizan los Premios COFZ 2026",
-      "medios": [
-        "Diariofarma",
-        "El Global"
-      ],
-      "consenso": 2,
-      "fecha": "2026-09-11T13:49:50+02:00",
-      "enlace": "https://diariofarma.com/2026/09/11/la-farmacia-rural-la-salud-mental-y-la-cooperacion-protagonizan-los-premios-cofz-2026"
-    },
-    {
       "titular": "Biotech Act: el siguiente movimiento está en Bruselas",
       "medios": [
         "El Global"
@@ -51,22 +59,13 @@
       "enlace": "https://elglobalfarma.com/opinion/editorial/biotech-act-siguiente-movimiento-bruselas/"
     },
     {
-      "titular": "La privada mira a un equilibrio de primas y mayor duración para los ‘hermanos’ de Muface",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-12T15:45:37+02:00",
-      "enlace": "https://www.redaccionmedica.com/empresas/sanidad-privada/20260912/la-privada-mira-un-equilibrio-de-primas-mayor-duracion-para-los-hermanos-muface/350554_0.html"
-    },
-    {
-      "titular": "La adopción de biosimilares en oncología supera el 90% de penetración en 2025",
+      "titular": "\"Garantizar una edición genética segura para el paciente exige regular de forma más estricta\"",
       "medios": [
         "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-09-11T11:26:31+02:00",
-      "enlace": "https://diariofarma.com/2026/09/11/la-adopcion-de-biosimilares-en-oncologia-supera-el-90-tras-administrar-500-000-envases"
+      "fecha": "2026-09-13T11:45:25+02:00",
+      "enlace": "https://diariofarma.com/2026/09/13/garantizar-una-edicion-genetica-segura-para-el-paciente-exige-regular-de-forma-mas-estricta"
     }
   ],
   "salud": {
@@ -77,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 813,
+    "antiguedad_minima_min": 36,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -85,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 2489,
+        "antiguedad_min": 36,
         "descartados_por_gancho": 0
       },
       {
@@ -94,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 2518,
+        "antiguedad_min": 2840,
         "descartados_por_gancho": 0
       },
       {
@@ -103,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 813,
+        "antiguedad_min": 52,
         "descartados_por_gancho": 0
       },
       {

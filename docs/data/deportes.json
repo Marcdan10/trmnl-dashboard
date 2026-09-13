@@ -1,26 +1,26 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "portadas",
-  "generado": "2026-09-13T07:33:53+02:00",
+  "modo": "ultimas",
+  "generado": "2026-09-13T12:55:14+02:00",
   "titulares": [
     {
-      "titular": "4-1: El Madrid, de golear a sufrir ante el Rayo",
+      "titular": "Fran, ingeniero español en Japón: \"La mayoría de las interacciones que he tenido han sido por la noche\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-12T23:09:49+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260912/1004226499/real-madrid-golear-sufrir-rayo.html"
+      "fecha": "2026-09-13T12:03:41+02:00",
+      "enlace": "https://www.mundodeportivo.com/tressesenta/20260913/1004226603/fran-ingeniero-espanol-japon-gran-mayoria-interacciones-he-tenido-japoneses-han-surgido-noche-expt-dct.html"
     },
     {
-      "titular": "El Unicaja volvió al Martín Carpena junto a su afición 112 días después",
+      "titular": "El Rayo Vallecano- Espanyol, seguro en Butarque",
       "medios": [
-        "Sport"
+        "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/baloncesto/unicaja-volvio-martin-carpena-aficion-134231279"
+      "fecha": "2026-09-13T12:03:12+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/laliga/20260913/1004226635/rayo-vallecano-espanyol-seguro-butarque.html"
     },
     {
       "titular": "El Barça femenino roza los 30 millones de negocio y gana 8 millones tras crecer un 33%",
@@ -32,24 +32,6 @@
       "enlace": "https://www.marca.com/sport-business/2playbook/2026/09/08/barca-femenino-roza-30-millones-negocio-gana-8-millones-crecer-33.html"
     },
     {
-      "titular": "El Madrid no da esquinazo a la desidia",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-12T23:05:07+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260912/1004226498/madrid-no-da-esquinazo-desidia.html"
-    },
-    {
-      "titular": "La afición del Real Zaragoza juega en otra categoría",
-      "medios": [
-        "Sport"
-      ],
-      "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/futbol/aficion-real-zaragoza-juega-categoria-134231275"
-    },
-    {
       "titular": "Diez 'joyas' que pueden dar el pelotazo en Champions",
       "medios": [
         "Marca"
@@ -59,13 +41,31 @@
       "enlace": "https://www.marca.com/futbol/champions-league/2026/09/08/diez-joyas-dar-pelotazo-champions-nico-paz-manzambi-karetsas-godts-karl.html"
     },
     {
-      "titular": "66-76: Una España para enmarcar se queda sin final",
+      "titular": "El Bernabéu empieza a desconfiar del 'efecto Mourinho'",
+      "medios": [
+        "Sport"
+      ],
+      "consenso": 1,
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/real-madrid/bernabeu-empieza-desconfiar-efecto-mourinho-134234985"
+    },
+    {
+      "titular": "Un experto en pensiones avisa: \"37 años cotizados no nos garantiza que nos podamos jubilar a los 65 años\"",
+      "medios": [
+        "Sport"
+      ],
+      "consenso": 1,
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/economia/experto-pensiones-avisa-37-anos-134220012"
+    },
+    {
+      "titular": "Ferran Adrià: \"Yo no cocino. No me gusta nada cocinar en casa. Pero este verano lo he hecho y me he cuestionado todo\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-12T21:47:41+02:00",
-      "enlace": "https://www.mundodeportivo.com/baloncesto/basket-feb/20260912/1004226434/espana-estados-unidos-mundial-baloncesto-berlin-iyana-martin-awa-francia-alemania.html"
+      "fecha": "2026-09-13T12:00:24+02:00",
+      "enlace": "https://www.mundodeportivo.com/foodie/20260913/1004226629/ferran-adria-cocinero-catalan-no-cocino-no-me-gusta-cocinar-casa-verano-he-hecho-me-he-cuestionado-ejemplo-guiso-mayoria-le-pone-caldo-encuentro-ilogico-xef-dct.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 33,
+    "antiguedad_minima_min": 51,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 62,
         "error": null,
-        "antiguedad_min": 7007,
+        "antiguedad_min": 7329,
         "descartados_por_gancho": 6
       },
       {
@@ -98,19 +98,19 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 144,
+        "items": 143,
         "error": null,
-        "antiguedad_min": 33,
-        "descartados_por_gancho": 6
+        "antiguedad_min": 51,
+        "descartados_por_gancho": 7
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 50,
+        "items": 46,
         "error": null,
         "antiguedad_min": null,
-        "descartados_por_gancho": 0
+        "descartados_por_gancho": 3
       },
       {
         "medio": "NBA",
