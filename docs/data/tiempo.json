@@ -1,15 +1,7 @@
 {
   "ciudad": "Barcelona",
-  "generado": "2026-09-12T22:46:03",
+  "generado": "2026-09-13T00:32:27",
   "horas": [
-    {
-      "hora": "00",
-      "temp": 23,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "luna"
-    },
     {
       "hora": "01",
       "temp": 23,
@@ -97,19 +89,17 @@
       "mm": 0,
       "mostrar_prob": false,
       "icono": "sol"
-    }
-  ],
-  "dias": [
+    },
     {
-      "etiqueta": "dom 13",
-      "max": 28,
-      "min": 21,
+      "hora": "12",
+      "temp": 28,
       "prob": 0,
       "mm": 0,
       "mostrar_prob": false,
-      "destacar": false,
       "icono": "sol"
-    },
+    }
+  ],
+  "dias": [
     {
       "etiqueta": "lun 14",
       "max": 30,
@@ -169,6 +159,16 @@
       "mostrar_prob": false,
       "destacar": false,
       "icono": "nube"
+    },
+    {
+      "etiqueta": "dom 20",
+      "max": 26,
+      "min": 16,
+      "prob": 8,
+      "mm": 0,
+      "mostrar_prob": false,
+      "destacar": false,
+      "icono": "sol"
     }
   ],
   "aviso": {

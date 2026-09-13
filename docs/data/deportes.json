@@ -2,7 +2,7 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-09-13T00:45:57+02:00",
+  "generado": "2026-09-13T02:32:18+02:00",
   "titulares": [
     {
       "titular": "El Madrid, de golear a sufrir ante el Rayo",
@@ -14,13 +14,13 @@
       "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260912/1004226499/real-madrid-golear-sufrir-rayo.html"
     },
     {
-      "titular": "Valentín González, campeón del US Open de dobles júnior",
+      "titular": "Rybakina es la reina del tenis: campeona del US Open y número uno del mundo",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/tenis/valentin-gonzalez-campeon-us-open-134228709"
+      "enlace": "https://www.sport.es/es/noticias/tenis/rybakina-reina-tenis-campeona-us-134228212"
     },
     {
       "titular": "El Barça femenino roza los 30 millones de negocio y gana 8 millones tras crecer un 33%",
@@ -41,13 +41,13 @@
       "enlace": "https://www.mundodeportivo.com/ciclismo/vuelta-espana/20260912/1004226394/asi-queda-clasificacion-general-vuelta-dia-historico-ciclismo-espanol-falta-ultima-etapa.html"
     },
     {
-      "titular": "Esta es la portada SPORT de hoy, domingo 13 de septiembre de 2026",
+      "titular": "Valentín González, campeón del US Open de dobles júnior",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/la-portada-de-sport/portada-sport-hoy-domingo-13-134228344"
+      "enlace": "https://www.sport.es/es/noticias/tenis/valentin-gonzalez-campeon-us-open-134228709"
     },
     {
       "titular": "Diez 'joyas' que pueden dar el pelotazo en Champions",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 61,
+    "antiguedad_minima_min": 105,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 62,
         "error": null,
-        "antiguedad_min": 6599,
+        "antiguedad_min": 6706,
         "descartados_por_gancho": 6
       },
       {
@@ -100,7 +100,7 @@
         "ok": true,
         "items": 144,
         "error": null,
-        "antiguedad_min": 61,
+        "antiguedad_min": 105,
         "descartados_por_gancho": 5
       },
       {
