@@ -1,64 +1,9 @@
 {
   "pantalla": "generales",
   "titulo": "Titulares",
-  "modo": "ultimas",
-  "generado": "2026-09-14T23:00:18+02:00",
+  "modo": "portadas",
+  "generado": "2026-09-15T01:47:47+02:00",
   "titulares": [
-    {
-      "titular": "Trump elimina los límites a las emisiones de las plantas energéticas de carbón y gas",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-14T22:49:27+02:00",
-      "enlace": "https://www.abc.es/sociedad/trump-elimina-limites-emisiones-plantas-energeticas-carbon-20260914210005-nt.html"
-    },
-    {
-      "titular": "El jefe de Moncloa para Ceuta estuvo todo agosto de vacaciones en Japón durante el asalto",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-14T22:38:10+02:00",
-      "enlace": "https://www.abc.es/espana/jefe-gabinete-sanchez-agosto-vacaciones-japon-asalto-20260915220201-nt.html"
-    },
-    {
-      "titular": "Albares avala el acercamiento de Andorra a la Unión Europea como motor de “prosperidad”",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-14T21:53:25+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20260914/11634780/albares-avala-acercamiento-andorra-union-europea-motor-prosperidad.html"
-    },
-    {
-      "titular": "El president que propone imaginar",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-14T21:38:32+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20260914/11634792/president-propone-imaginar.html"
-    },
-    {
-      "titular": "‘La mesa de Hora 25’, en directo en EL PAÍS",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-14T21:27:47+02:00",
-      "enlace": "https://elpais.com/videos/2026-09-14/la-mesa-de-hora-25-programa-en-el-pais.html"
-    },
-    {
-      "titular": "La Comunidad de Madrid levanta la suspensión cautelar del estadio de Vallecas",
-      "medios": [
-        "El País",
-        "ABC"
-      ],
-      "consenso": 2,
-      "fecha": "2026-09-14T20:54:30+02:00",
-      "enlace": "https://www.abc.es/espana/madrid/comunidad-madrid-levanta-suspension-cautelar-estadio-vallecas-20260914205213-nt.html"
-    },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
       "medios": [
@@ -67,6 +12,60 @@
       "consenso": 1,
       "fecha": "2022-06-10T01:05:00+02:00",
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
+    },
+    {
+      "titular": "El informe de la oficina del censo aclara que los nacionalizados se inscriben en el municipio que ellos eligen: “No hay inscripciones de oficio”",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-14T20:04:12+02:00",
+      "enlace": "https://elpais.com/espana/2026-09-14/el-informe-de-la-oficina-del-censo-despeja-las-dudas-sobre-el-municipio-donde-votan-los-nacionalizados-no-hay-inscripciones-de-oficio.html"
+    },
+    {
+      "titular": "Las alertas sobre la IA sacuden unos mercados dependientes de la tecnología",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-14T20:23:43+02:00",
+      "enlace": "https://www.lavanguardia.com/economia/20260914/11634759/alertas-sobre-ia-sacuden-mercados-dependientes-tecnologia.html"
+    },
+    {
+      "titular": "Woody Allen elige a Alexi Wasser y Jemima Kirke para su película de Madrid",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-15T01:30:47+02:00",
+      "enlace": "https://www.abc.es/play/cine/noticias/woody-allen-elige-alexi-wasser-jemima-kirke-20260914172756-nt.html"
+    },
+    {
+      "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
+      "medios": [
+        "RTVE"
+      ],
+      "consenso": 1,
+      "fecha": "2022-06-10T00:03:00+02:00",
+      "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
+    },
+    {
+      "titular": "La crisis de Ceuta castiga al PSOE con dos puntos de voto menos, según el CIS",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-14T13:52:03+02:00",
+      "enlace": "https://elpais.com/espana/2026-09-14/la-crisis-de-ceuta-castiga-al-psoe-con-dos-puntos-menos-segun-el-cis.html"
+    },
+    {
+      "titular": "Sam Altman: “Podríamos perder el control del futuro ante la IA”",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-14T10:07:53+02:00",
+      "enlace": "https://www.lavanguardia.com/vida/20260914/11634119/sam-altman-perder-control-futuro-ia.html"
     }
   ],
   "salud": {
@@ -75,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 10,
+    "antiguedad_minima_min": 17,
     "detalle": [
       {
         "medio": "RTVE",
@@ -83,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2243395,
+        "antiguedad_min": 2243562,
         "descartados_por_gancho": 0
       },
       {
@@ -91,16 +90,16 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 429",
+        "error": "HTTP 500",
         "antiguedad_min": null
       },
       {
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 143,
+        "items": 144,
         "error": null,
-        "antiguedad_min": 92,
+        "antiguedad_min": 106,
         "descartados_por_gancho": 5
       },
       {
@@ -109,17 +108,17 @@
         "ok": true,
         "items": 126,
         "error": null,
-        "antiguedad_min": 66,
-        "descartados_por_gancho": 15
+        "antiguedad_min": 77,
+        "descartados_por_gancho": 8
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 22,
+        "items": 23,
         "error": null,
-        "antiguedad_min": 10,
-        "descartados_por_gancho": 3
+        "antiguedad_min": 17,
+        "descartados_por_gancho": 2
       }
     ]
   }

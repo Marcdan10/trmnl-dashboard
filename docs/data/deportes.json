@@ -1,26 +1,26 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "ultimas",
-  "generado": "2026-09-14T23:00:22+02:00",
+  "modo": "portadas",
+  "generado": "2026-09-15T01:47:53+02:00",
   "titulares": [
     {
-      "titular": "4-1: El Leeds sigue con su racha y atropella al Newcastle",
+      "titular": "Rodri da las claves de su elección por el Barça y su no al Madrid",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-14T22:56:48+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/premier-league/20260914/1004227289/leeds-sigue-racha-atropella-newcastle.html"
+      "fecha": "2026-09-15T00:00:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260915/1004227285/rodri-da-claves-eleccion-barca-no-madrid.html"
     },
     {
-      "titular": "Mendes: \"El Balón de Oro es para Lamine, es el mejor con mucha diferencia\"",
+      "titular": "Esta es la portada de SPORT de hoy, martes 15 de septiembre",
       "medios": [
-        "Mundo Deportivo"
+        "Sport"
       ],
       "consenso": 1,
-      "fecha": "2026-09-14T22:47:36+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260914/1004227287/mendes-balon-oro-lamine-mejor-diferencia.html"
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/la-portada-de-sport/portada-sport-hoy-martes-15-134289321"
     },
     {
       "titular": "El Barça femenino roza los 30 millones de negocio y gana 8 millones tras crecer un 33%",
@@ -32,6 +32,24 @@
       "enlace": "https://www.marca.com/sport-business/2playbook/2026/09/08/barca-femenino-roza-30-millones-negocio-gana-8-millones-crecer-33.html"
     },
     {
+      "titular": "Rodri: \"La Champions es factible pero no creo que seamos los favoritos\"",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-14T20:04:43+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260914/1004227249/rodri-champions-factible-no-favoritos.html"
+    },
+    {
+      "titular": "Natan, goleador del Betis ante el Villarreal: \"Cuando sufrimos el gol sabíamos que íbamos a remontar\"",
+      "medios": [
+        "Sport"
+      ],
+      "consenso": 1,
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/betis/natan-goleador-betis-villarreal-sufrimos-134289316"
+    },
+    {
       "titular": "Diez 'joyas' que pueden dar el pelotazo en Champions",
       "medios": [
         "Marca"
@@ -41,31 +59,14 @@
       "enlace": "https://www.marca.com/futbol/champions-league/2026/09/08/diez-joyas-dar-pelotazo-champions-nico-paz-manzambi-karetsas-godts-karl.html"
     },
     {
-      "titular": "La opinión sobre el Real Oviedo y el Sporting: Un punto, dos caras",
+      "titular": "Lamine Yamal: \"Estar obsesionado con ganar la Champions es bueno\"",
       "medios": [
+        "Mundo Deportivo",
         "Sport"
       ],
-      "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/futbol/opinion-real-oviedo-sporting-punto-134288356"
-    },
-    {
-      "titular": "Remontada, manita y locura del Inter ante el Udinese",
-      "medios": [
-        "Sport"
-      ],
-      "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/futbol-internacional/remontada-manita-locura-inter-udinese-134288070"
-    },
-    {
-      "titular": "Telecinco toma medidas con '¡De Viernes!' tras sus últimos datos de audiencia: reduce su emisión",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-14T22:19:48+02:00",
-      "enlace": "https://www.mundodeportivo.com/elotromundo/television/20260914/1004227282/telecinco-toma-medidas-viernes-ultimos-datos-audiencia-partir-viernes-18-septiembre-reduce-duracion-dct.html"
+      "consenso": 2,
+      "fecha": "2026-09-14T23:42:12+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260914/1004227304/lamine-yamal-obsesionado-ganar-champions-bueno.html"
     }
   ],
   "salud": {
@@ -74,7 +75,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 3,
+    "antiguedad_minima_min": 89,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +83,7 @@
         "ok": true,
         "items": 62,
         "error": null,
-        "antiguedad_min": 9374,
+        "antiguedad_min": 9541,
         "descartados_por_gancho": 6
       },
       {
@@ -98,19 +99,19 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 150,
+        "items": 152,
         "error": null,
-        "antiguedad_min": 3,
-        "descartados_por_gancho": 2
+        "antiguedad_min": 89,
+        "descartados_por_gancho": 0
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 49,
+        "items": 50,
         "error": null,
         "antiguedad_min": null,
-        "descartados_por_gancho": 1
+        "descartados_por_gancho": 0
       },
       {
         "medio": "NBA",
