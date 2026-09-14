@@ -1,71 +1,71 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "portadas",
-  "generado": "2026-09-14T07:38:56+02:00",
+  "modo": "ultimas",
+  "generado": "2026-09-14T13:28:43+02:00",
   "titulares": [
     {
-      "titular": "Juanjo Cano (KPMG): \"Todos deberán adaptarse a la IA o saldrán, empezando por los socios\"",
+      "titular": "Los valores del Ibex más afectados por el freno en la IA",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-14T00:30:49+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/09/14/6aa6dacee5fdeacd378b456d.html"
+      "fecha": "2026-09-14T13:11:59+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/09/14/6aa7a08d468aeb6d2d8b459e.html"
     },
     {
-      "titular": "Qué empresas dan a su plantilla la mayor pensión privada",
+      "titular": "Barómetro CIS de septiembre: el PSOE cae en estimación de voto tras la crisis de Ceuta, el PP se estanca y Vox crece",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-13T23:52:39+02:00",
-      "enlace": "https://www.expansion.com/ahorro/pensiones/2026/09/13/6aa7178f468aeb8f188b4587.html"
+      "fecha": "2026-09-14T12:57:57+02:00",
+      "enlace": "https://www.expansion.com/economia/politica/2026/09/14/6aa7d32ae5fdea1d668b456d.html"
     },
     {
-      "titular": "De la OPV al M&A en tiempo récord; por qué salir a Bolsa lleva a opas y fusiones",
+      "titular": "Los centros de datos, camino de impulsar un gran crecimiento en los seguros cautivos",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-14T00:57:50+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/09/14/6aa67ad5e5fdea204f8b456f.html"
+      "fecha": "2026-09-14T12:50:56+02:00",
+      "enlace": "https://www.expansion.com/sostenibilidad/2026/09/14/6aa7d03e468aeb006c8b4576.html"
     },
     {
-      "titular": "La Primera de Expansión sobre Santander, KPMG, Hacienda, Ziphu AI, China, Anthropic y la Fed",
+      "titular": "La CNMV completará \"en las próximas semanas\" la normativa sobre prevención del blanqueo",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-14T07:22:54+02:00",
-      "enlace": "https://www.expansion.com/podcasts/la-primera-de-expansion/2026/09/14/6aa77d90e5fdeace6d8b4599.html"
+      "fecha": "2026-09-14T12:41:52+02:00",
+      "enlace": "https://www.expansion.com/mercados/criptomonedas/2026/09/14/6aa7c7bbe5fdead5718b4583.html"
     },
     {
-      "titular": "El Wall Street post Lehman Brothers entra en la mayoría de edad",
+      "titular": "El Ibex flojea en medio del revés global a las tecnológicas",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-14T00:58:35+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/09/14/6aa44dbc468aeba3628b45a4.html"
+      "fecha": "2026-09-14T12:40:12+02:00",
+      "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/09/14/6aa78bad468aeb9a538b459f.html"
     },
     {
-      "titular": "Las 7 joyas de inversión que no hay que dejar escapar",
+      "titular": "Istobal y la Politécnica buscan emprendedores que innoven en secado de vehículos",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-14T00:40:36+02:00",
-      "enlace": "https://www.expansion.com/inversion/2026/09/14/6aa3c257e5fdeab5728b456f.html"
+      "fecha": "2026-09-14T12:21:29+02:00",
+      "enlace": "https://www.expansion.com/valencia/2026/09/14/6aa7c5f3e5fdea7a4a8b456e.html"
     },
     {
-      "titular": "Madrid supera su primer gran examen de Fórmula 1",
+      "titular": "Financiación regional más enrevesada",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-13T17:11:21+02:00",
-      "enlace": "https://www.expansion.com/deporte-negocio/2026/09/13/6aa6bc08468aebe04b8b4598.html"
+      "fecha": "2026-09-14T12:05:38+02:00",
+      "enlace": "https://www.expansion.com/opinion/2026/09/14/6aa7c6d1468aeba4258b456f.html"
     }
   ],
   "salud": {
@@ -78,16 +78,16 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 13,
+    "antiguedad_minima_min": 16,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 60,
+        "items": 67,
         "error": null,
-        "antiguedad_min": 13,
-        "descartados_por_gancho": 1
+        "antiguedad_min": 16,
+        "descartados_por_gancho": 3
       },
       {
         "medio": "Cinco Días",

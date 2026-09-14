@@ -1,18 +1,26 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "portadas",
-  "generado": "2026-09-14T07:38:58+02:00",
+  "modo": "ultimas",
+  "generado": "2026-09-14T13:28:45+02:00",
   "titulares": [
     {
-      "titular": "Lamine: \"Mbappé y yo somos los dos mejores, pero creo que el Balón de Oro me lo merecería yo\"",
+      "titular": "Javier Ruiz, sobre su fichaje por La Séptima: \"Estoy preparado para pasar del 29,6% de audiencia al 0,6%\"",
       "medios": [
-        "Mundo Deportivo",
-        "Sport"
+        "Mundo Deportivo"
       ],
-      "consenso": 2,
-      "fecha": "2026-09-14T00:02:57+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260914/1004226919/lamine-mbappe-dos-mejores-creo-balon-oro-me-mereceria.html"
+      "consenso": 1,
+      "fecha": "2026-09-14T12:56:48+02:00",
+      "enlace": "https://www.mundodeportivo.com/elotromundo/television/20260914/1004227035/javier-ruiz-sobre-salida-rtve-fichaje-septima-preparado-pasar-29-6-record-mananeros-0-6-dct.html"
+    },
+    {
+      "titular": "Raphinha lidera la generación de gol en las grandes ligas",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-14T12:43:37+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260914/1004227009/raphinha-lidera-generacion-gol-grandes-ligas.html"
     },
     {
       "titular": "El Barça femenino roza los 30 millones de negocio y gana 8 millones tras crecer un 33%",
@@ -24,24 +32,6 @@
       "enlace": "https://www.marca.com/sport-business/2playbook/2026/09/08/barca-femenino-roza-30-millones-negocio-gana-8-millones-crecer-33.html"
     },
     {
-      "titular": "Lamine se viste de Balón de Oro y ya está arriba en el Pichichi",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-14T06:00:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260914/1004226830/lamine-viste-balon-oro-pichichi.html"
-    },
-    {
-      "titular": "UCAM y Obradoiro, últimos test de la pretemporada para el Unicaja",
-      "medios": [
-        "Sport"
-      ],
-      "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/baloncesto/ucam-obradoiro-ultimos-test-pretemporada-134255438"
-    },
-    {
       "titular": "Diez 'joyas' que pueden dar el pelotazo en Champions",
       "medios": [
         "Marca"
@@ -51,22 +41,31 @@
       "enlace": "https://www.marca.com/futbol/champions-league/2026/09/08/diez-joyas-dar-pelotazo-champions-nico-paz-manzambi-karetsas-godts-karl.html"
     },
     {
-      "titular": "La zurda mágica de Jardí, su 'banquillazo', el galgo Lalo Arantegui y la estrella del Real Zaragoza",
+      "titular": "Las cabañuelas de Jorge Rey ponen en alerta a España: \"Habrá temperaturas plenamente veraniegas a lo largo de la semana\"",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/futbol/zurda-magica-jardi-banquillazo-galgo-134255435"
+      "enlace": "https://www.sport.es/es/noticias/actualidad/cabanuelas-jorge-rey-ponen-alerta-134265670"
     },
     {
-      "titular": "El Barça de Flick eleva a seis Ligas un arranque con 5 de 5",
+      "titular": "Anselmi, en la previa del Elche-Real Madrid: \"Seremos 11 contra 11 y quiero que tengamos la pelota\"",
+      "medios": [
+        "Sport"
+      ],
+      "consenso": 1,
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/elche/anselmi-previa-elche-real-madrid-134267930"
+    },
+    {
+      "titular": "El Atlético dio a Simeone lo que demandaba antes de visitar Anoeta",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-14T06:30:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260914/1004226895/barca-flick-eleva-seis-ligas-arranque-5-5.html"
+      "fecha": "2026-09-14T12:35:06+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20260914/1004227030/atletico-dio-simeone-demandaba-visitar-anoeta.html"
     }
   ],
   "salud": {
@@ -75,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 18,
+    "antiguedad_minima_min": 31,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +82,7 @@
         "ok": true,
         "items": 62,
         "error": null,
-        "antiguedad_min": 8452,
+        "antiguedad_min": 8802,
         "descartados_por_gancho": 6
       },
       {
@@ -99,10 +98,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 141,
+        "items": 144,
         "error": null,
-        "antiguedad_min": 18,
-        "descartados_por_gancho": 5
+        "antiguedad_min": 31,
+        "descartados_por_gancho": 4
       },
       {
         "medio": "Sport",
@@ -111,7 +110,7 @@
         "items": 48,
         "error": null,
         "antiguedad_min": null,
-        "descartados_por_gancho": 1
+        "descartados_por_gancho": 2
       },
       {
         "medio": "NBA",
