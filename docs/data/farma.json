@@ -2,7 +2,7 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "portadas",
-  "generado": "2026-09-14T00:31:15+02:00",
+  "generado": "2026-09-14T02:35:59+02:00",
   "titulares": [
     {
       "titular": "La propuesta de Padilla sobre incentivos en la Biotech Act centra su reunión con Varheyli",
@@ -12,15 +12,6 @@
       "consenso": 1,
       "fecha": "2026-09-13T18:44:00+02:00",
       "enlace": "https://diariofarma.com/2026/09/13/la-propuesta-de-padilla-sobre-incentivos-en-la-biotech-act-centra-su-reunion-con-varheyli"
-    },
-    {
-      "titular": "FIR 2027: claves para acreditar correctamente el expediente académico",
-      "medios": [
-        "El Global"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-11T13:35:13+02:00",
-      "enlace": "https://elglobalfarma.com/farmacia/fir-2027-claves-acreditar-correctamente-expediente-academico/"
     },
     {
       "titular": "El seguro de salud opta por la personalización y la digitalización para equilibrar las primas en pleno reto demográfico",
@@ -41,15 +32,6 @@
       "enlace": "https://diariofarma.com/2026/09/13/canarias-impulsa-una-subdireccion-de-farmacia-para-la-equidad-garantizar-el-acceso-a-farmacos"
     },
     {
-      "titular": "Biotech Act: el siguiente movimiento está en Bruselas",
-      "medios": [
-        "El Global"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-11T13:30:36+02:00",
-      "enlace": "https://elglobalfarma.com/opinion/editorial/biotech-act-siguiente-movimiento-bruselas/"
-    },
-    {
       "titular": "España afronta la reforma farmacéutica con el reto de reforzar su plantilla y alinear procedimientos con Europa",
       "medios": [
         "Redacción Médica"
@@ -66,17 +48,36 @@
       "consenso": 1,
       "fecha": "2026-09-13T12:18:51+02:00",
       "enlace": "https://diariofarma.com/2026/09/13/el-congreso-de-los-diputados-abre-la-tramitacion-de-la-ley-de-medicamentos"
+    },
+    {
+      "titular": "Lluvia de millones para climatizar centros sanitarios: \"Hay que no tienen aire acondicionado\"",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-13T14:08:46+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20260913/lluvia-de-millones-para-climatizar-centros-sanitarios-hay-que-no-tienen-aire-acondicionado/348036_0.html"
+    },
+    {
+      "titular": "Montero plantea priorizar sanidad ante gasto militar en su plan para liderar Podemos en las generales",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-13T11:59:13+02:00",
+      "enlace": "https://diariofarma.com/2026/09/13/montero-plantea-priorizar-sanidad-frente-a-gasto-militar-en-su-propuesta-para-encabezar-podemos-en-las-elecciones-generales"
     }
   ],
   "salud": {
     "feeds_totales": 7,
-    "feeds_ok": 4,
+    "feeds_ok": 3,
     "feeds_caidos": [
+      "El Global",
       "PMFarma",
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 347,
+    "antiguedad_minima_min": 471,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,17 +85,16 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 347,
+        "antiguedad_min": 471,
         "descartados_por_gancho": 0
       },
       {
         "medio": "El Global",
         "url": "https://elglobal.es/feed/",
-        "ok": true,
-        "items": 10,
-        "error": null,
-        "antiguedad_min": 3535,
-        "descartados_por_gancho": 0
+        "ok": false,
+        "items": 0,
+        "error": "URLError: <urlopen error timed out>",
+        "antiguedad_min": null
       },
       {
         "medio": "Redacción Médica",
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 390,
+        "antiguedad_min": 515,
         "descartados_por_gancho": 0
       },
       {
