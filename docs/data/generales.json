@@ -2,62 +2,62 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-09-14T19:00:56+02:00",
+  "generado": "2026-09-14T23:00:18+02:00",
   "titulares": [
     {
-      "titular": "Muere Bob Mackie, el diseñador que convirtió a Cher en reina del glamour setentero",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-14T18:56:54+02:00",
-      "enlace": "https://elpais.com/us/entretenimiento/2026-09-14/muere-bob-mackie-el-disenador-que-convirtio-a-cher-en-reina-del-glamour-setentero.html"
-    },
-    {
-      "titular": "Los Mossos buscan al violador de una mujer que había salido a correr en Vidreres",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-14T18:49:51+02:00",
-      "enlace": "https://elpais.com/espana/catalunya/2026-09-14/los-mossos-buscan-al-violador-de-una-mujer-que-habia-salido-a-correr-en-vidreres.html"
-    },
-    {
-      "titular": "La juez de la Audiencia Nacional pide asumir también la causa contra el delegado del Gobierno",
+      "titular": "Trump elimina los límites a las emisiones de las plantas energéticas de carbón y gas",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-14T18:48:31+02:00",
-      "enlace": "https://www.abc.es/espana/audiencia-nacional-pide-expediente-delegado-gobierno-ceuta-20260914131057-nt.html"
+      "fecha": "2026-09-14T22:49:27+02:00",
+      "enlace": "https://www.abc.es/sociedad/trump-elimina-limites-emisiones-plantas-energeticas-carbon-20260914210005-nt.html"
     },
     {
-      "titular": "Los trabajadores de RNE convocan paros para «defender la independencia de RTVE»",
+      "titular": "El jefe de Moncloa para Ceuta estuvo todo agosto de vacaciones en Japón durante el asalto",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-14T18:48:17+02:00",
-      "enlace": "https://www.abc.es/play/television/noticias/trabajadores-rne-convocan-paros-defender-independencia-rtve-20260914170930-nt.html"
+      "fecha": "2026-09-14T22:38:10+02:00",
+      "enlace": "https://www.abc.es/espana/jefe-gabinete-sanchez-agosto-vacaciones-japon-asalto-20260915220201-nt.html"
     },
     {
-      "titular": "Puig compra por 1.200 millones el 50% de Isdin que aún estaba en manos de Esteve",
-      "medios": [
-        "La Vanguardia",
-        "ABC"
-      ],
-      "consenso": 2,
-      "fecha": "2026-09-14T18:30:37+02:00",
-      "enlace": "https://www.abc.es/espana/cataluna/puig-compra-1200-millones-isdin-manos-esteve-20260914183036-nt.html"
-    },
-    {
-      "titular": "Andorra tendrá su propia Titan Desert en junio del 2027",
+      "titular": "Albares avala el acercamiento de Andorra a la Unión Europea como motor de “prosperidad”",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-14T18:16:57+02:00",
-      "enlace": "https://www.lavanguardia.com/deportes/ciclismo/20260914/11634703/andorra-tendra-propia-titan-desert-junio-2027.html"
+      "fecha": "2026-09-14T21:53:25+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20260914/11634780/albares-avala-acercamiento-andorra-union-europea-motor-prosperidad.html"
+    },
+    {
+      "titular": "El president que propone imaginar",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-14T21:38:32+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20260914/11634792/president-propone-imaginar.html"
+    },
+    {
+      "titular": "‘La mesa de Hora 25’, en directo en EL PAÍS",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-14T21:27:47+02:00",
+      "enlace": "https://elpais.com/videos/2026-09-14/la-mesa-de-hora-25-programa-en-el-pais.html"
+    },
+    {
+      "titular": "La Comunidad de Madrid levanta la suspensión cautelar del estadio de Vallecas",
+      "medios": [
+        "El País",
+        "ABC"
+      ],
+      "consenso": 2,
+      "fecha": "2026-09-14T20:54:30+02:00",
+      "enlace": "https://www.abc.es/espana/madrid/comunidad-madrid-levanta-suspension-cautelar-estadio-vallecas-20260914205213-nt.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -75,7 +75,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 4,
+    "antiguedad_minima_min": 10,
     "detalle": [
       {
         "medio": "RTVE",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2243155,
+        "antiguedad_min": 2243395,
         "descartados_por_gancho": 0
       },
       {
@@ -91,35 +91,35 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 403",
+        "error": "HTTP 429",
         "antiguedad_min": null
       },
       {
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 142,
+        "items": 143,
         "error": null,
-        "antiguedad_min": 4,
-        "descartados_por_gancho": 7
+        "antiguedad_min": 92,
+        "descartados_por_gancho": 5
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 127,
+        "items": 126,
         "error": null,
-        "antiguedad_min": 43,
+        "antiguedad_min": 66,
         "descartados_por_gancho": 15
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 25,
+        "items": 22,
         "error": null,
-        "antiguedad_min": 12,
-        "descartados_por_gancho": 0
+        "antiguedad_min": 10,
+        "descartados_por_gancho": 3
       }
     ]
   }

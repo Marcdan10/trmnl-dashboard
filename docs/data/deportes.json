@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-09-14T19:01:03+02:00",
+  "generado": "2026-09-14T23:00:22+02:00",
   "titulares": [
     {
-      "titular": "Defensa aumenta un 12% los alumnos militares y refuerza la formación en IA y ciberdefensa",
+      "titular": "4-1: El Leeds sigue con su racha y atropella al Newcastle",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-14T18:50:30+02:00",
-      "enlace": "https://www.mundodeportivo.com/actualidad/20260914/1004227232/confirmado-ministerio-defensa-aumenta-12-alumnos-militares-refuerza-formacion-ia-ciberdefensa-dml-dct.html"
+      "fecha": "2026-09-14T22:56:48+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/premier-league/20260914/1004227289/leeds-sigue-racha-atropella-newcastle.html"
     },
     {
-      "titular": "Verstappen: \"Consideré seriamente retirarme\"",
+      "titular": "Mendes: \"El Balón de Oro es para Lamine, es el mejor con mucha diferencia\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-14T18:43:53+02:00",
-      "enlace": "https://www.mundodeportivo.com/motor/f1/20260914/1004227233/verstappen-considere-seriamente-retirarme.html"
+      "fecha": "2026-09-14T22:47:36+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260914/1004227287/mendes-balon-oro-lamine-mejor-diferencia.html"
     },
     {
       "titular": "El Barça femenino roza los 30 millones de negocio y gana 8 millones tras crecer un 33%",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/champions-league/2026/09/08/diez-joyas-dar-pelotazo-champions-nico-paz-manzambi-karetsas-godts-karl.html"
     },
     {
-      "titular": "El fenómeno Kakulov irrumpe en las MMA: “No han visto algo como yo”",
+      "titular": "La opinión sobre el Real Oviedo y el Sporting: Un punto, dos caras",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/deportes/fenomeno-kakulov-irrumpe-mma-han-134198897"
+      "enlace": "https://www.sport.es/es/noticias/futbol/opinion-real-oviedo-sporting-punto-134288356"
     },
     {
-      "titular": "Barcelona rinde homenaje a Pere Miró, figura clave del olimpismo español",
+      "titular": "Remontada, manita y locura del Inter ante el Udinese",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/deportes/barcelona-rinde-homenaje-pere-miro-134275543"
+      "enlace": "https://www.sport.es/es/noticias/futbol-internacional/remontada-manita-locura-inter-udinese-134288070"
     },
     {
-      "titular": "\"No jugar en nuestro estadio ha sido un jarro de agua fría que no esperaba\"",
+      "titular": "Telecinco toma medidas con '¡De Viernes!' tras sus últimos datos de audiencia: reduce su emisión",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-14T18:42:43+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/rayo-vallecano/20260914/1004227226/no-jugar-nuestro-estadio-sido-jarro-agua-fria-no-esperaba.html"
+      "fecha": "2026-09-14T22:19:48+02:00",
+      "enlace": "https://www.mundodeportivo.com/elotromundo/television/20260914/1004227282/telecinco-toma-medidas-viernes-ultimos-datos-audiencia-partir-viernes-18-septiembre-reduce-duracion-dct.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 10,
+    "antiguedad_minima_min": 3,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 62,
         "error": null,
-        "antiguedad_min": 9134,
+        "antiguedad_min": 9374,
         "descartados_por_gancho": 6
       },
       {
@@ -98,19 +98,19 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 148,
+        "items": 150,
         "error": null,
-        "antiguedad_min": 10,
-        "descartados_por_gancho": 3
+        "antiguedad_min": 3,
+        "descartados_por_gancho": 2
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 48,
+        "items": 49,
         "error": null,
         "antiguedad_min": null,
-        "descartados_por_gancho": 2
+        "descartados_por_gancho": 1
       },
       {
         "medio": "NBA",

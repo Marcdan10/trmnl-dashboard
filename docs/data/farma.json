@@ -2,43 +2,43 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "ultimas",
-  "generado": "2026-09-14T19:01:07+02:00",
+  "generado": "2026-09-14T23:00:28+02:00",
   "titulares": [
     {
-      "titular": "Las opciones farmacológicas de última generación ganan terreno en estadios más precoces del linfoma",
+      "titular": "Ley de los medicamentos: sin rechazo frontal, pero con un calendario casi imposible",
       "medios": [
         "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-09-14T18:49:29+02:00",
-      "enlace": "https://diariofarma.com/2026/09/14/las-opciones-farmacologicas-de-ultima-generacion-ganan-terreno-en-estadios-mas-precoces-del-linfoma"
+      "fecha": "2026-09-14T22:33:49+02:00",
+      "enlace": "https://diariofarma.com/2026/09/14/ley-de-los-medicamentos-sin-rechazo-frontal-pero-con-un-calendario-casi-imposible"
     },
     {
-      "titular": "La CUN pionera en tratar el alzhéimer inicial con donanemab y prevé sumar lecanemab",
+      "titular": "Saavedra apela al \"espíritu de diálogo\" de los partidos políticos para sacar adelante la ley de salud mental",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-14T20:29:55+02:00",
+      "enlace": "https://www.redaccionmedica.com/autonomias/20260914/saavedra-apela-al-espiritu-de-dialogo-los-partidos-politicos-para-sacar-adelante-la-ley-salud-mental/350768_0.html"
+    },
+    {
+      "titular": "“La investigación clínica es y será una prioridad de Estado que ocupa y preocupa”",
       "medios": [
         "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-09-14T18:15:29+02:00",
-      "enlace": "https://diariofarma.com/2026/09/14/la-cun-pionera-en-espana-en-tratar-del-alzheimer-inicial-con-donanemab-y-preve-sumar-lecanemab"
+      "fecha": "2026-09-14T20:02:00+02:00",
+      "enlace": "https://diariofarma.com/2026/09/14/la-investigacion-clinica-es-y-sera-una-prioridad-de-estado-que-ocupa-y-preocupa"
     },
     {
-      "titular": "Padilla señala un cambio de modelo para garantizar el acceso a los medicamentos innovadores",
+      "titular": "El Senado asume el exceso de burocracia ganadera y llama a trabajar “de la mano de los veterinarios” para los retos del sector",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-09-14T17:59:51+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/ministerio-sanidad/20260914/padilla-senala-un-cambio-de-modelo-para-garantizar-el-acceso-los-medicamentos-innovadores/350753_0.html"
-    },
-    {
-      "titular": "Generalitat Valenciana y sindicatos acuerdan la implantación de la jornada de 35 horas en sanidad",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-14T17:51:11+02:00",
-      "enlace": "https://www.redaccionmedica.com/autonomias/comunitat-valenciana/20260914/generalitat-valenciana-sindicatos-acuerdan-la-implantacion-de-jornada-horas-en-sanidad/350754_0.html"
+      "fecha": "2026-09-14T19:32:42+02:00",
+      "enlace": "https://www.redaccionmedica.com/salud-animal/20260914/el-senado-asume-el-exceso-de-burocracia-ganadera-llama-trabajar-la-mano-los-veterinarios-para-retos-del-sector/350766_0.html"
     },
     {
       "titular": "Canarias crea una subdirección de Farmacia liderada por Guayarmina Luján",
@@ -59,13 +59,13 @@
       "enlace": "https://elglobalfarma.com/farmacia/autocuidado/ejercicio-fisico-consolida-principales-habitos-autocuidado-espana/"
     },
     {
-      "titular": "Galicia invierte 3,2 millones en un sistema predictivo de prescripción farmacéutica",
+      "titular": "La Rioja amplía hasta los 13 años la protección antigripal en colegios",
       "medios": [
         "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-09-14T17:41:37+02:00",
-      "enlace": "https://diariofarma.com/2026/09/14/galicia-invierte-32-millones-en-un-sistema-predictivo-de-prescripcion-farmaceutica"
+      "fecha": "2026-09-14T19:30:50+02:00",
+      "enlace": "https://diariofarma.com/2026/09/14/opcion-3-la-rioja-aumenta-su-presupuesto-en-vacunas-y-amplia-la-dosis-intranasal"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 11,
+    "antiguedad_minima_min": 26,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 11,
+        "antiguedad_min": 26,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 162,
+        "antiguedad_min": 401,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 61,
+        "antiguedad_min": 150,
         "descartados_por_gancho": 0
       },
       {

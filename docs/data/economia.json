@@ -2,8 +2,44 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-09-14T19:00:58+02:00",
+  "generado": "2026-09-14T23:00:21+02:00",
   "titulares": [
+    {
+      "titular": "Consumo y turismo tiran del PIB catalán, que sube un 3% interanual hasta junio",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-14T21:46:03+02:00",
+      "enlace": "https://www.expansion.com/catalunya/2026/09/14/6aa84ef6468aeb935e8b4578.html"
+    },
+    {
+      "titular": "Illa saca pecho de agenda económica y de \"tener proyecto\" en el arranque del curso",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-14T21:36:47+02:00",
+      "enlace": "https://www.expansion.com/catalunya/2026/09/14/6aa84c37e5fdeadb368b4597.html"
+    },
+    {
+      "titular": "Los líderes nacionalistas de Escocia, Gales e Irlanda del Norte se unen por la independencia",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-14T20:19:43+02:00",
+      "enlace": "https://www.expansion.com/economia/politica/2026/09/14/6aa83829e5fdea91508b4580.html"
+    },
+    {
+      "titular": "La cartera anti-IA: plumas estilográficas, Warhammer y cámaras de vídeo",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-14T18:52:20+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/09/14/6aa8263c468aeb97258b4589.html"
+    },
     {
       "titular": "Berenberg amplía el recorrido en Bolsa de Repsol hasta cerca del 30%",
       "medios": [
@@ -30,42 +66,6 @@
       "consenso": 1,
       "fecha": "2026-09-14T18:31:40+02:00",
       "enlace": "https://www.expansion.com/empresas/distribucion/2026/09/14/6aa818ef468aeb065a8b4586.html"
-    },
-    {
-      "titular": "El temor a un freno en la IA desata caídas en el sector de hasta el 12%",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-14T18:18:30+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/09/14/6aa7947f468aeb49028b4570.html"
-    },
-    {
-      "titular": "Los valores del Ibex más afectados por el freno en la IA",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-14T18:14:05+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/09/14/6aa7a08d468aeb6d2d8b459e.html"
-    },
-    {
-      "titular": "El Ibex cae hasta los 19.500 puntos arrastrado por el petróleo y la IA",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-14T17:39:14+02:00",
-      "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/09/14/6aa78bad468aeb9a538b459f.html"
-    },
-    {
-      "titular": "Trump asegura que Rusia y Ucrania han pactado no atacar \"objetivos energéticos\"",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-14T17:34:55+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/09/14/6aa81419468aebec138b4576.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 9,
+    "antiguedad_minima_min": 74,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 68,
+        "items": 70,
         "error": null,
-        "antiguedad_min": 9,
+        "antiguedad_min": 74,
         "descartados_por_gancho": 2
       },
       {
