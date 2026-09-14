@@ -2,7 +2,7 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-09-14T02:35:36+02:00",
+  "generado": "2026-09-14T07:38:58+02:00",
   "titulares": [
     {
       "titular": "Lamine: \"Mbappé y yo somos los dos mejores, pero creo que el Balón de Oro me lo merecería yo\"",
@@ -15,15 +15,6 @@
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260914/1004226919/lamine-mbappe-dos-mejores-creo-balon-oro-me-mereceria.html"
     },
     {
-      "titular": "La fórmula mágica de De la Barrera en la UD Las Palmas: pragmatismo, cantera, Iñaki y Bonfanti",
-      "medios": [
-        "Sport"
-      ],
-      "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/las-palmas/formula-magica-barrera-ud-palmas-134252981"
-    },
-    {
       "titular": "El Barça femenino roza los 30 millones de negocio y gana 8 millones tras crecer un 33%",
       "medios": [
         "Marca"
@@ -33,22 +24,22 @@
       "enlace": "https://www.marca.com/sport-business/2playbook/2026/09/08/barca-femenino-roza-30-millones-negocio-gana-8-millones-crecer-33.html"
     },
     {
-      "titular": "2-4: El Barça mantiene el pleno ante un correoso Levante",
+      "titular": "Lamine se viste de Balón de Oro y ya está arriba en el Pichichi",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-13T18:22:55+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260913/1004226757/2-4-barca-sigue-racha-correoso-levante.html"
+      "fecha": "2026-09-14T06:00:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260914/1004226830/lamine-viste-balon-oro-pichichi.html"
     },
     {
-      "titular": "El emotivo discurso de Zverev: \"Cuando a los cuatro años te dicen que tienes diabetes, necesitas una madre como la mía\"",
+      "titular": "UCAM y Obradoiro, últimos test de la pretemporada para el Unicaja",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/tenis/emotivo-discurso-zverev-cuatro-anos-134252940"
+      "enlace": "https://www.sport.es/es/noticias/baloncesto/ucam-obradoiro-ultimos-test-pretemporada-134255438"
     },
     {
       "titular": "Diez 'joyas' que pueden dar el pelotazo en Champions",
@@ -60,13 +51,22 @@
       "enlace": "https://www.marca.com/futbol/champions-league/2026/09/08/diez-joyas-dar-pelotazo-champions-nico-paz-manzambi-karetsas-godts-karl.html"
     },
     {
-      "titular": "¡Enric Mas hace historia y gana La Vuelta!",
+      "titular": "La zurda mágica de Jardí, su 'banquillazo', el galgo Lalo Arantegui y la estrella del Real Zaragoza",
+      "medios": [
+        "Sport"
+      ],
+      "consenso": 1,
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/futbol/zurda-magica-jardi-banquillazo-galgo-134255435"
+    },
+    {
+      "titular": "El Barça de Flick eleva a seis Ligas un arranque con 5 de 5",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-13T19:51:31+02:00",
-      "enlace": "https://www.mundodeportivo.com/ciclismo/vuelta-espana/20260913/1004226801/enric-historia-gana-forma-brillante-vuelta-johannessen-lleva-ultima-espectacular-etapa-granada.html"
+      "fecha": "2026-09-14T06:30:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260914/1004226895/barca-flick-eleva-seis-ligas-arranque-5-5.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 152,
+    "antiguedad_minima_min": 18,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 62,
         "error": null,
-        "antiguedad_min": 8149,
+        "antiguedad_min": 8452,
         "descartados_por_gancho": 6
       },
       {
@@ -99,19 +99,19 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 142,
+        "items": 141,
         "error": null,
-        "antiguedad_min": 152,
-        "descartados_por_gancho": 6
+        "antiguedad_min": 18,
+        "descartados_por_gancho": 5
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 50,
+        "items": 48,
         "error": null,
         "antiguedad_min": null,
-        "descartados_por_gancho": 0
+        "descartados_por_gancho": 1
       },
       {
         "medio": "NBA",

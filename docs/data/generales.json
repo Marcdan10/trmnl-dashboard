@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-09-14T02:35:31+02:00",
+  "generado": "2026-09-14T07:38:53+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -14,31 +14,32 @@
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
     },
     {
-      "titular": "Código rojo en la IA: el vértigo paraliza a las tecnológicas y OpenAI suspende la salida a Bolsa",
+      "titular": "El ministro de Cultura de Israel amenaza con retirar la nacionalidad a los directores del documental 'Naza'",
+      "medios": [
+        "El País",
+        "ABC"
+      ],
+      "consenso": 2,
+      "fecha": "2026-09-14T07:30:08+02:00",
+      "enlace": "https://www.abc.es/cultura/cine/ministro-cultura-israel-amenaza-retirar-nacionalidad-directores-20260913222355-nt.html"
+    },
+    {
+      "titular": "Estados Unidos frena la investigación en España de Alejandro Betancourt, su nuevo zar del petróleo en Venezuela",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-13T19:52:09+02:00",
-      "enlace": "https://elpais.com/tecnologia/2026-09-13/codigo-rojo-en-la-ia-el-vertigo-paraliza-a-las-tecnologicas-y-openai-suspende-la-salida-a-bolsa.html"
+      "fecha": "2026-09-14T05:30:01+02:00",
+      "enlace": "https://elpais.com/america/2026-09-14/estados-unidos-frena-la-investigacion-en-espana-de-alejandro-betancourt-su-nuevo-zar-del-petroleo-en-venezuela.html"
     },
     {
-      "titular": "Un escaño decide la mayoría: ventaja del bloque opositor socialdemócrata en las elecciones suecas",
+      "titular": "El sector del automóvil afronta en España una difícil reconversión",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-13T20:22:31+02:00",
-      "enlace": "https://www.lavanguardia.com/internacional/20260913/11633822/oposicion-centroizquierda-gana-elecciones-suecia-sondeos.html"
-    },
-    {
-      "titular": "Las noventa tumbas sin nombre de Ceuta",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-14T02:30:15+02:00",
-      "enlace": "https://www.abc.es/espana/tumbas-nombre-tarajal-20260913020518-nt.html"
+      "fecha": "2026-09-14T06:00:00+02:00",
+      "enlace": "https://www.lavanguardia.com/economia/20260914/11633799/espana-afronta-reconversion-industrial-fabricas-coches.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -50,22 +51,22 @@
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
     },
     {
-      "titular": "Los métodos que puede usar la IA para matarnos",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-13T05:30:01+02:00",
-      "enlace": "https://elpais.com/videos/2026-09-13/los-metodos-que-puede-usar-la-ia-para-matarnos.html"
-    },
-    {
-      "titular": "Pradales: “Ceuta puede acabar con la legislatura si Pedro Sánchez no cierra la crisis ya”",
+      "titular": "Cuando la Seat de Griffiths coqueteó con un socio chino // El G-8 vuelve a reunirse",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-13T06:00:00+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20260913/11633321/veo-feijoo-obsesionado-vox-ecosistema-m-30-le-contagiado.html"
+      "fecha": "2026-09-14T06:00:00+02:00",
+      "enlace": "https://www.lavanguardia.com/economia/20260914/11633849/seat-griffiths-coqueteo-socio-chino-g-8-vuelve-reunirse-cambra-fira.html"
+    },
+    {
+      "titular": "El PP de Ayuso y Vox remarcan sus diferencias sobre inmigración y seguridad",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-14T07:29:34+02:00",
+      "enlace": "https://www.abc.es/espana/madrid/pp-ayuso-vox-remarcan-diferencias-sobre-inmigracion-20260913012234-nt.html"
     }
   ],
   "salud": {
@@ -74,7 +75,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 5,
+    "antiguedad_minima_min": 8,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +83,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2242170,
+        "antiguedad_min": 2242473,
         "descartados_por_gancho": 0
       },
       {
@@ -97,18 +98,18 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 138,
+        "items": 131,
         "error": null,
-        "antiguedad_min": 26,
-        "descartados_por_gancho": 4
+        "antiguedad_min": 9,
+        "descartados_por_gancho": 10
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 133,
+        "items": 113,
         "error": null,
-        "antiguedad_min": 125,
+        "antiguedad_min": 55,
         "descartados_por_gancho": 21
       },
       {
@@ -117,7 +118,7 @@
         "ok": true,
         "items": 24,
         "error": null,
-        "antiguedad_min": 5,
+        "antiguedad_min": 8,
         "descartados_por_gancho": 1
       }
     ]
