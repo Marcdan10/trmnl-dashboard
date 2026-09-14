@@ -2,25 +2,52 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "ultimas",
-  "generado": "2026-09-14T13:28:52+02:00",
+  "generado": "2026-09-14T19:01:07+02:00",
   "titulares": [
     {
-      "titular": "Los modelos de nación más favorecida de EE.UU. amenazan con alterar el mercado global",
+      "titular": "Las opciones farmacológicas de última generación ganan terreno en estadios más precoces del linfoma",
       "medios": [
         "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-09-14T12:23:12+02:00",
-      "enlace": "https://diariofarma.com/2026/09/14/los-modelos-de-nacion-mas-favorecida-amenazan-con-alterar-el-mercado-global"
+      "fecha": "2026-09-14T18:49:29+02:00",
+      "enlace": "https://diariofarma.com/2026/09/14/las-opciones-farmacologicas-de-ultima-generacion-ganan-terreno-en-estadios-mas-precoces-del-linfoma"
     },
     {
-      "titular": "El Estatuto Marco en el laberinto",
+      "titular": "La CUN pionera en tratar el alzhéimer inicial con donanemab y prevé sumar lecanemab",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-14T18:15:29+02:00",
+      "enlace": "https://diariofarma.com/2026/09/14/la-cun-pionera-en-espana-en-tratar-del-alzheimer-inicial-con-donanemab-y-preve-sumar-lecanemab"
+    },
+    {
+      "titular": "Padilla señala un cambio de modelo para garantizar el acceso a los medicamentos innovadores",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-09-14T12:22:30+02:00",
-      "enlace": "https://www.redaccionmedica.com/opinion/20260914/el-estatuto-marco-en-el-laberinto/350686_12.html"
+      "fecha": "2026-09-14T17:59:51+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/ministerio-sanidad/20260914/padilla-senala-un-cambio-de-modelo-para-garantizar-el-acceso-los-medicamentos-innovadores/350753_0.html"
+    },
+    {
+      "titular": "Generalitat Valenciana y sindicatos acuerdan la implantación de la jornada de 35 horas en sanidad",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-14T17:51:11+02:00",
+      "enlace": "https://www.redaccionmedica.com/autonomias/comunitat-valenciana/20260914/generalitat-valenciana-sindicatos-acuerdan-la-implantacion-de-jornada-horas-en-sanidad/350754_0.html"
+    },
+    {
+      "titular": "Canarias crea una subdirección de Farmacia liderada por Guayarmina Luján",
+      "medios": [
+        "El Global"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-14T16:18:34+02:00",
+      "enlace": "https://elglobalfarma.com/politica/canarias-crea-subdireccion-farmacia-liderada-guayarmina-lujan/"
     },
     {
       "titular": "El ejercicio físico se consolida como uno de los principales hábitos de autocuidado en España",
@@ -32,40 +59,13 @@
       "enlace": "https://elglobalfarma.com/farmacia/autocuidado/ejercicio-fisico-consolida-principales-habitos-autocuidado-espana/"
     },
     {
-      "titular": "Lo que dice tu piel si cambia de color: \"El cuerpo es muy sabio y no envía señales por casualidad\"",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-14T12:15:37+02:00",
-      "enlace": "https://www.redaccionmedica.com/virico/20260914/lo-que-dice-tu-piel-si-cambia-de-color-el-cuerpo-es-muy-sabio-no-envia-senales-por-casualidad/350697_0.html"
-    },
-    {
-      "titular": "La segunda fase del Plan VEO dispondrá de 23 millones extra para gafas y lentillas",
+      "titular": "Galicia invierte 3,2 millones en un sistema predictivo de prescripción farmacéutica",
       "medios": [
         "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-09-14T12:02:04+02:00",
-      "enlace": "https://diariofarma.com/2026/09/14/la-segunda-fase-del-plan-veo-dispondra-de-23-millones-extra-para-gafas-y-lentillas"
-    },
-    {
-      "titular": "Padilla reclama repensar el acceso a los medicamentos ante el cambio del modelo de I+D biomédico global",
-      "medios": [
-        "El Global"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-14T11:16:46+02:00",
-      "enlace": "https://elglobalfarma.com/politica/padilla-repensar-acceso-medicamentos-cambio-modelo-id-biomedico-global/"
-    },
-    {
-      "titular": "El 63% de los medicamentos huérfanos pediátricos financiados en España sufren restricciones de acceso",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-14T12:06:30+02:00",
-      "enlace": "https://www.redaccionmedica.com/empresas/industria-farmaceutica/20260914/el-de-los-medicamentos-huerfanos-pediatricos-financiados-en-espana-sufren-restricciones-acceso/350499_0.html"
+      "fecha": "2026-09-14T17:41:37+02:00",
+      "enlace": "https://diariofarma.com/2026/09/14/galicia-invierte-32-millones-en-un-sistema-predictivo-de-prescripcion-farmaceutica"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 65,
+    "antiguedad_minima_min": 11,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 65,
+        "antiguedad_min": 11,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 70,
+        "antiguedad_min": 162,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 66,
+        "antiguedad_min": 61,
         "descartados_por_gancho": 0
       },
       {

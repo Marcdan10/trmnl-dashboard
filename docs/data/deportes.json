@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-09-14T13:28:45+02:00",
+  "generado": "2026-09-14T19:01:03+02:00",
   "titulares": [
     {
-      "titular": "Javier Ruiz, sobre su fichaje por La Séptima: \"Estoy preparado para pasar del 29,6% de audiencia al 0,6%\"",
+      "titular": "Defensa aumenta un 12% los alumnos militares y refuerza la formación en IA y ciberdefensa",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-14T12:56:48+02:00",
-      "enlace": "https://www.mundodeportivo.com/elotromundo/television/20260914/1004227035/javier-ruiz-sobre-salida-rtve-fichaje-septima-preparado-pasar-29-6-record-mananeros-0-6-dct.html"
+      "fecha": "2026-09-14T18:50:30+02:00",
+      "enlace": "https://www.mundodeportivo.com/actualidad/20260914/1004227232/confirmado-ministerio-defensa-aumenta-12-alumnos-militares-refuerza-formacion-ia-ciberdefensa-dml-dct.html"
     },
     {
-      "titular": "Raphinha lidera la generación de gol en las grandes ligas",
+      "titular": "Verstappen: \"Consideré seriamente retirarme\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-14T12:43:37+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260914/1004227009/raphinha-lidera-generacion-gol-grandes-ligas.html"
+      "fecha": "2026-09-14T18:43:53+02:00",
+      "enlace": "https://www.mundodeportivo.com/motor/f1/20260914/1004227233/verstappen-considere-seriamente-retirarme.html"
     },
     {
       "titular": "El Barça femenino roza los 30 millones de negocio y gana 8 millones tras crecer un 33%",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/champions-league/2026/09/08/diez-joyas-dar-pelotazo-champions-nico-paz-manzambi-karetsas-godts-karl.html"
     },
     {
-      "titular": "Las cabañuelas de Jorge Rey ponen en alerta a España: \"Habrá temperaturas plenamente veraniegas a lo largo de la semana\"",
+      "titular": "El fenómeno Kakulov irrumpe en las MMA: “No han visto algo como yo”",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/actualidad/cabanuelas-jorge-rey-ponen-alerta-134265670"
+      "enlace": "https://www.sport.es/es/noticias/deportes/fenomeno-kakulov-irrumpe-mma-han-134198897"
     },
     {
-      "titular": "Anselmi, en la previa del Elche-Real Madrid: \"Seremos 11 contra 11 y quiero que tengamos la pelota\"",
+      "titular": "Barcelona rinde homenaje a Pere Miró, figura clave del olimpismo español",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/elche/anselmi-previa-elche-real-madrid-134267930"
+      "enlace": "https://www.sport.es/es/noticias/deportes/barcelona-rinde-homenaje-pere-miro-134275543"
     },
     {
-      "titular": "El Atlético dio a Simeone lo que demandaba antes de visitar Anoeta",
+      "titular": "\"No jugar en nuestro estadio ha sido un jarro de agua fría que no esperaba\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-14T12:35:06+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20260914/1004227030/atletico-dio-simeone-demandaba-visitar-anoeta.html"
+      "fecha": "2026-09-14T18:42:43+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/rayo-vallecano/20260914/1004227226/no-jugar-nuestro-estadio-sido-jarro-agua-fria-no-esperaba.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 31,
+    "antiguedad_minima_min": 10,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 62,
         "error": null,
-        "antiguedad_min": 8802,
+        "antiguedad_min": 9134,
         "descartados_por_gancho": 6
       },
       {
@@ -98,10 +98,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 144,
+        "items": 148,
         "error": null,
-        "antiguedad_min": 31,
-        "descartados_por_gancho": 4
+        "antiguedad_min": 10,
+        "descartados_por_gancho": 3
       },
       {
         "medio": "Sport",

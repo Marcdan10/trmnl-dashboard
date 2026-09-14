@@ -2,70 +2,70 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-09-14T13:28:43+02:00",
+  "generado": "2026-09-14T19:00:58+02:00",
   "titulares": [
+    {
+      "titular": "Berenberg amplía el recorrido en Bolsa de Repsol hasta cerca del 30%",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-14T18:51:00+02:00",
+      "enlace": "https://www.expansion.com/inversion/2026/09/14/6aa7b853468aebc72f8b4589.html"
+    },
+    {
+      "titular": "Jeff Jones, un veterano en Ford, presidirá la sociedad conjunta con Geely",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-14T18:50:59+02:00",
+      "enlace": "https://www.expansion.com/valencia/2026/09/14/6aa822e2468aeb006c8b4597.html"
+    },
+    {
+      "titular": "Puig compra el 50% que no tenía de Isdin a Esteve por 1.200 millones",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-14T18:31:40+02:00",
+      "enlace": "https://www.expansion.com/empresas/distribucion/2026/09/14/6aa818ef468aeb065a8b4586.html"
+    },
+    {
+      "titular": "El temor a un freno en la IA desata caídas en el sector de hasta el 12%",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-14T18:18:30+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/09/14/6aa7947f468aeb49028b4570.html"
+    },
     {
       "titular": "Los valores del Ibex más afectados por el freno en la IA",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-14T13:11:59+02:00",
+      "fecha": "2026-09-14T18:14:05+02:00",
       "enlace": "https://www.expansion.com/mercados/2026/09/14/6aa7a08d468aeb6d2d8b459e.html"
     },
     {
-      "titular": "Barómetro CIS de septiembre: el PSOE cae en estimación de voto tras la crisis de Ceuta, el PP se estanca y Vox crece",
+      "titular": "El Ibex cae hasta los 19.500 puntos arrastrado por el petróleo y la IA",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-14T12:57:57+02:00",
-      "enlace": "https://www.expansion.com/economia/politica/2026/09/14/6aa7d32ae5fdea1d668b456d.html"
-    },
-    {
-      "titular": "Los centros de datos, camino de impulsar un gran crecimiento en los seguros cautivos",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-14T12:50:56+02:00",
-      "enlace": "https://www.expansion.com/sostenibilidad/2026/09/14/6aa7d03e468aeb006c8b4576.html"
-    },
-    {
-      "titular": "La CNMV completará \"en las próximas semanas\" la normativa sobre prevención del blanqueo",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-14T12:41:52+02:00",
-      "enlace": "https://www.expansion.com/mercados/criptomonedas/2026/09/14/6aa7c7bbe5fdead5718b4583.html"
-    },
-    {
-      "titular": "El Ibex flojea en medio del revés global a las tecnológicas",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-14T12:40:12+02:00",
+      "fecha": "2026-09-14T17:39:14+02:00",
       "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/09/14/6aa78bad468aeb9a538b459f.html"
     },
     {
-      "titular": "Istobal y la Politécnica buscan emprendedores que innoven en secado de vehículos",
+      "titular": "Trump asegura que Rusia y Ucrania han pactado no atacar \"objetivos energéticos\"",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-14T12:21:29+02:00",
-      "enlace": "https://www.expansion.com/valencia/2026/09/14/6aa7c5f3e5fdea7a4a8b456e.html"
-    },
-    {
-      "titular": "Financiación regional más enrevesada",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-14T12:05:38+02:00",
-      "enlace": "https://www.expansion.com/opinion/2026/09/14/6aa7c6d1468aeba4258b456f.html"
+      "fecha": "2026-09-14T17:34:55+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/09/14/6aa81419468aebec138b4576.html"
     }
   ],
   "salud": {
@@ -78,16 +78,16 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 16,
+    "antiguedad_minima_min": 9,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 67,
+        "items": 68,
         "error": null,
-        "antiguedad_min": 16,
-        "descartados_por_gancho": 3
+        "antiguedad_min": 9,
+        "descartados_por_gancho": 2
       },
       {
         "medio": "Cinco Días",
