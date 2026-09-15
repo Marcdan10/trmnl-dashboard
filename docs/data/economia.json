@@ -1,8 +1,8 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "portadas",
-  "generado": "2026-09-15T10:18:11+02:00",
+  "modo": "ultimas",
+  "generado": "2026-09-15T15:44:21+02:00",
   "titulares": [],
   "salud": {
     "feeds_totales": 6,
@@ -22,7 +22,7 @@
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": false,
         "items": 0,
-        "error": "XML invalido: undefined entity: line 159, column 1336",
+        "error": "XML invalido: undefined entity: line 283, column 1336",
         "antiguedad_min": null
       },
       {

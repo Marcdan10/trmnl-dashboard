@@ -1,26 +1,26 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "portadas",
-  "generado": "2026-09-15T10:18:13+02:00",
+  "modo": "ultimas",
+  "generado": "2026-09-15T15:44:24+02:00",
   "titulares": [
     {
-      "titular": "Rodri, feliz: \"Flipo con el cariño de los culés\"",
+      "titular": "\"Hay personas contentas con el partido ante el Barça, yo no\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-15T06:00:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260915/1004227359/rodri-feliz-flipo-carino-cules.html"
+      "fecha": "2026-09-15T15:15:10+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/levante/20260915/1004227533/hay-personas-contentas-partido-barca-no.html"
     },
     {
-      "titular": "Kirian cumple 200 partidos y lucha por la titularidad en la UD Las Palmas ante la 'eclosión Iñaki'",
+      "titular": "Sergio Álvarez se pronuncia sobre Claudio Giráldez: \"La temporada pasada tuvimos un inicio parecido\"",
       "medios": [
-        "Sport"
+        "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/las-palmas/kirian-cumple-200-partidos-lucha-134296718"
+      "fecha": "2026-09-15T15:09:21+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/celta-vigo/20260915/1004227531/sergio-alvarez-pronuncia-sobre-claudio-giraldez-temporada-pasada-tuvimos-inicio-parecido.html"
     },
     {
       "titular": "El Barça femenino roza los 30 millones de negocio y gana 8 millones tras crecer un 33%",
@@ -32,24 +32,6 @@
       "enlace": "https://www.marca.com/sport-business/2playbook/2026/09/08/barca-femenino-roza-30-millones-negocio-gana-8-millones-crecer-33.html"
     },
     {
-      "titular": "Rodri: \"La Champions es factible pero no creo que seamos los favoritos\"",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-14T20:04:43+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260914/1004227249/rodri-champions-factible-no-favoritos.html"
-    },
-    {
-      "titular": "Lara Ferreiro, psicóloga: \"Lamine Yamal mantiene la calma cuando le provocan, toma buenas decisiones y no se deja llevar por la impulsividad\"",
-      "medios": [
-        "Sport"
-      ],
-      "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/barca/lara-ferreiro-psicologa-lamine-yamal-calma-decisiones-impulsividad-134295697"
-    },
-    {
       "titular": "Diez 'joyas' que pueden dar el pelotazo en Champions",
       "medios": [
         "Marca"
@@ -59,13 +41,31 @@
       "enlace": "https://www.marca.com/futbol/champions-league/2026/09/08/diez-joyas-dar-pelotazo-champions-nico-paz-manzambi-karetsas-godts-karl.html"
     },
     {
-      "titular": "Rodri da las claves de su elección por el Barça y su no al Madrid",
+      "titular": "Amancio Ortega (90 años): \"Lo que más siento de mi infancia es no hablar inglés, no tenía tiempo para estudiar porque trabajaba las 24 horas del día\"",
+      "medios": [
+        "Sport"
+      ],
+      "consenso": 1,
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/actualidad/amancio-ortega-90-anos-siento-134305628"
+    },
+    {
+      "titular": "Tres equipos de la Comunitat Valenciana copan los tres puestos de descenso por primera vez",
+      "medios": [
+        "Sport"
+      ],
+      "consenso": 1,
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/valencia/tres-equipos-comunitat-valenciana-copan-134313079"
+    },
+    {
+      "titular": "La Fiesta de las Ofertas Prime ya tiene fecha: 10 productos rebajados que puedes comprar ya",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-15T00:00:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260915/1004227285/rodri-da-claves-eleccion-barca-no-madrid.html"
+      "fecha": "2026-09-15T15:00:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/elrecomendador/ofertas/20260915/1004227458/fiesta-ofertas-prime-2026-fecha-10-productos-rebajados-puedes-comprar.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 22,
+    "antiguedad_minima_min": 29,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 62,
         "error": null,
-        "antiguedad_min": 10052,
+        "antiguedad_min": 10378,
         "descartados_por_gancho": 6
       },
       {
@@ -98,19 +98,19 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 138,
+        "items": 147,
         "error": null,
-        "antiguedad_min": 22,
-        "descartados_por_gancho": 3
+        "antiguedad_min": 29,
+        "descartados_por_gancho": 2
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 48,
+        "items": 50,
         "error": null,
         "antiguedad_min": null,
-        "descartados_por_gancho": 1
+        "descartados_por_gancho": 0
       },
       {
         "medio": "NBA",
