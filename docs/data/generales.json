@@ -2,61 +2,63 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-09-15T15:44:18+02:00",
+  "generado": "2026-09-15T19:52:16+02:00",
   "titulares": [
     {
-      "titular": "Atresmedia rentabiliza su inversión en ‘start-ups’ y vende su 5% de Fever Labs por 227 millones",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-15T15:38:16+02:00",
-      "enlace": "https://cincodias.elpais.com/companias/2026-09-15/atresmedia-tira-de-sus-inversiones-en-start-ups-y-vende-su-5-de-fever-labs-por-227-millones.html"
-    },
-    {
-      "titular": "Quién es Umar Kremliov, el magnate ruso que pagó los festejos de boda de su “amigo”, el hijo mayor de Trump",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-15T15:32:56+02:00",
-      "enlace": "https://elpais.com/internacional/2026-09-15/quien-es-umar-kremliov-el-magnate-ruso-que-pago-los-festejos-de-boda-de-su-amigo-el-hijo-mayor-de-trump.html"
-    },
-    {
-      "titular": "El boicot al Festival de las Ideas provoca la retirada de Allianz",
+      "titular": "Un boicot al Festival de las Ideas se lleva por delante a su principal patrocinador",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-15T15:20:53+02:00",
+      "fecha": "2026-09-15T19:33:40+02:00",
       "enlace": "https://www.abc.es/cultura/boicot-festival-ideas-provoca-retirada-allianz-20260915144024-nt.html"
     },
     {
-      "titular": "Pablo Fernández se presenta a las primarias para ser el candidato de Podemos en Madrid",
+      "titular": "El testaferro de Maduro se declara culpable y puede convertirse en testigo contra el dictador",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-15T15:19:11+02:00",
-      "enlace": "https://www.abc.es/espana/madrid/pablo-fernandez-presenta-primarias-podemos-candidato-ayuntamiento-20260915105610-nt.html"
+      "fecha": "2026-09-15T19:29:15+02:00",
+      "enlace": "https://www.abc.es/internacional/alex-saab-testaferro-maduro-declara-culpable-conspiracion-20260915162308-nt.html"
     },
     {
-      "titular": "El Govern solo garantiza un “incremento gradual” para llegar al 6% del PIB en educación",
+      "titular": "Un incendio incontrolado en Tuéjar afecta a la Reserva de la Biosfera del Alto Turia",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-15T19:22:47+02:00",
+      "enlace": "https://elpais.com/espana/comunidad-valenciana/2026-09-15/un-incendio-incontrolado-en-tuejar-afecta-a-la-reserva-de-la-biosfera-del-alto-turia.html"
+    },
+    {
+      "titular": "El Rey habla por primera vez en público sobre Ceuta: «Situación de extraordinaria complejidad»",
+      "medios": [
+        "La Vanguardia",
+        "ABC"
+      ],
+      "consenso": 2,
+      "fecha": "2026-09-15T19:16:17+02:00",
+      "enlace": "https://www.abc.es/espana/casa-real/rey-pronuncia-primera-vez-publicamente-sobre-ceuta-20260915130537-nt.html"
+    },
+    {
+      "titular": "Llarena rechaza aplicar la amnistía a Puigdemont por la malversación",
+      "medios": [
+        "El País",
+        "ABC"
+      ],
+      "consenso": 2,
+      "fecha": "2026-09-15T19:15:23+02:00",
+      "enlace": "https://www.abc.es/espana/llarena-rechaza-aplicar-amnistia-puigdemont-malversacion-tras-20260915144311-nt.html"
+    },
+    {
+      "titular": "Hamza Abdelkarim: “No me daría vergüenza jugar con el filial”",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-15T14:54:02+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20260915/11635459/govern-garantiza-incremento-gradual-llegar-6-pib-educacion.html"
-    },
-    {
-      "titular": "La UE ultima la ley que prohibirá a los menores de 15 años acceder a las redes sociales",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-15T14:50:45+02:00",
-      "enlace": "https://www.lavanguardia.com/vida/20260915/11635435/ue-ultima-ley-prohibira-menores-15-anos-acceder-redes-sociales.html"
+      "fecha": "2026-09-15T18:57:01+02:00",
+      "enlace": "https://www.lavanguardia.com/deportes/futbol/20260915/11635670/hamza-abdelkarim-me-daria-vergueenza-jugar-filial-barca-renovacion-2030.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -74,7 +76,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 6,
+    "antiguedad_minima_min": 18,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +84,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2244399,
+        "antiguedad_min": 2244647,
         "descartados_por_gancho": 0
       },
       {
@@ -97,19 +99,19 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 147,
+        "items": 150,
         "error": null,
-        "antiguedad_min": 6,
-        "descartados_por_gancho": 6
+        "antiguedad_min": 29,
+        "descartados_por_gancho": 5
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 132,
+        "items": 133,
         "error": null,
-        "antiguedad_min": 50,
-        "descartados_por_gancho": 13
+        "antiguedad_min": 55,
+        "descartados_por_gancho": 12
       },
       {
         "medio": "ABC",
@@ -117,7 +119,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 23,
+        "antiguedad_min": 18,
         "descartados_por_gancho": 0
       }
     ]

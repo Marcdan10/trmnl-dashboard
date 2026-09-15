@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-09-15T15:44:24+02:00",
+  "generado": "2026-09-15T19:52:21+02:00",
   "titulares": [
     {
-      "titular": "\"Hay personas contentas con el partido ante el Barça, yo no\"",
+      "titular": "La miniserie de ocho episodios que imagina una Berlín dominada por el crimen y los vampiros",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-15T15:15:10+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/levante/20260915/1004227533/hay-personas-contentas-partido-barca-no.html"
+      "fecha": "2026-09-15T19:16:27+02:00",
+      "enlace": "https://www.mundodeportivo.com/elotromundo/television/20260915/1004227668/hoy-disney-miniserie-ocho-episodios-imagina-berlin-dominada-crimen-vampiros-tvp-dct.html"
     },
     {
-      "titular": "Sergio Álvarez se pronuncia sobre Claudio Giráldez: \"La temporada pasada tuvimos un inicio parecido\"",
+      "titular": "Hamza Abdelkarim, el ‘9’ de futuro: “Tengo muchas cosas que mejorar”",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-15T15:09:21+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/celta-vigo/20260915/1004227531/sergio-alvarez-pronuncia-sobre-claudio-giraldez-temporada-pasada-tuvimos-inicio-parecido.html"
+      "fecha": "2026-09-15T19:16:20+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260915/1004227669/hamza-abdelkarim-9-futuro-muchas-cosas-mejorar.html"
     },
     {
       "titular": "El Barça femenino roza los 30 millones de negocio y gana 8 millones tras crecer un 33%",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/champions-league/2026/09/08/diez-joyas-dar-pelotazo-champions-nico-paz-manzambi-karetsas-godts-karl.html"
     },
     {
-      "titular": "Amancio Ortega (90 años): \"Lo que más siento de mi infancia es no hablar inglés, no tenía tiempo para estudiar porque trabajaba las 24 horas del día\"",
+      "titular": "Tebas: \"Rodri se merece el Balón de Oro por el Mundial que ha hecho\"",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/actualidad/amancio-ortega-90-anos-siento-134305628"
+      "enlace": "https://www.sport.es/es/noticias/laliga/tebas-rodri-merece-balon-oro-134321887"
     },
     {
-      "titular": "Tres equipos de la Comunitat Valenciana copan los tres puestos de descenso por primera vez",
+      "titular": "James Rodríguez anuncia que deja la selección Colombia",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/valencia/tres-equipos-comunitat-valenciana-copan-134313079"
+      "enlace": "https://www.sport.es/es/noticias/futbol-internacional/james-rodriguez-anuncia-deja-seleccion-134323174"
     },
     {
-      "titular": "La Fiesta de las Ofertas Prime ya tiene fecha: 10 productos rebajados que puedes comprar ya",
+      "titular": "El deseo de Rodri para el Balón de Oro",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-15T15:00:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/elrecomendador/ofertas/20260915/1004227458/fiesta-ofertas-prime-2026-fecha-10-productos-rebajados-puedes-comprar.html"
+      "fecha": "2026-09-15T19:12:13+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260915/1004227651/deseo-rodri-balon-oro.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 29,
+    "antiguedad_minima_min": 35,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 62,
         "error": null,
-        "antiguedad_min": 10378,
+        "antiguedad_min": 10626,
         "descartados_por_gancho": 6
       },
       {
@@ -98,19 +98,19 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 147,
+        "items": 144,
         "error": null,
-        "antiguedad_min": 29,
-        "descartados_por_gancho": 2
+        "antiguedad_min": 35,
+        "descartados_por_gancho": 4
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 50,
+        "items": 49,
         "error": null,
         "antiguedad_min": null,
-        "descartados_por_gancho": 0
+        "descartados_por_gancho": 1
       },
       {
         "medio": "NBA",
