@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-09-15T04:55:22+02:00",
+  "generado": "2026-09-15T10:18:13+02:00",
   "titulares": [
     {
-      "titular": "Rodri da las claves de su elección por el Barça y su no al Madrid",
+      "titular": "Rodri, feliz: \"Flipo con el cariño de los culés\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-15T00:00:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260915/1004227285/rodri-da-claves-eleccion-barca-no-madrid.html"
+      "fecha": "2026-09-15T06:00:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260915/1004227359/rodri-feliz-flipo-carino-cules.html"
     },
     {
-      "titular": "Irarragorri, dueño del Sporting, se abre en exclusiva con LA NUEVA ESPAÑA: \"Hay un acuerdo con la ciudad para cuando el club suba a Primera recomprar Mareo\"",
+      "titular": "Kirian cumple 200 partidos y lucha por la titularidad en la UD Las Palmas ante la 'eclosión Iñaki'",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/futbol/irarragorri-dueno-sporting-abre-exclusiva-134290444"
+      "enlace": "https://www.sport.es/es/noticias/las-palmas/kirian-cumple-200-partidos-lucha-134296718"
     },
     {
       "titular": "El Barça femenino roza los 30 millones de negocio y gana 8 millones tras crecer un 33%",
@@ -41,13 +41,13 @@
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260914/1004227249/rodri-champions-factible-no-favoritos.html"
     },
     {
-      "titular": "Emanuele, fontanero: \"En España hay trabajo y no te mueres de hambre. He facturado 2.540 euros por un trabajo de 12 horas”",
+      "titular": "Lara Ferreiro, psicóloga: \"Lamine Yamal mantiene la calma cuando le provocan, toma buenas decisiones y no se deja llevar por la impulsividad\"",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/economia/emanuele-fontanero-espana-hay-trabajo-134265357"
+      "enlace": "https://www.sport.es/es/noticias/barca/lara-ferreiro-psicologa-lamine-yamal-calma-decisiones-impulsividad-134295697"
     },
     {
       "titular": "Diez 'joyas' que pueden dar el pelotazo en Champions",
@@ -59,14 +59,13 @@
       "enlace": "https://www.marca.com/futbol/champions-league/2026/09/08/diez-joyas-dar-pelotazo-champions-nico-paz-manzambi-karetsas-godts-karl.html"
     },
     {
-      "titular": "Lamine Yamal: \"Estar obsesionado con ganar la Champions es bueno\"",
+      "titular": "Rodri da las claves de su elección por el Barça y su no al Madrid",
       "medios": [
-        "Mundo Deportivo",
-        "Sport"
+        "Mundo Deportivo"
       ],
-      "consenso": 2,
-      "fecha": "2026-09-14T23:42:12+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260914/1004227304/lamine-yamal-obsesionado-ganar-champions-bueno.html"
+      "consenso": 1,
+      "fecha": "2026-09-15T00:00:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260915/1004227285/rodri-da-claves-eleccion-barca-no-madrid.html"
     }
   ],
   "salud": {
@@ -75,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 55,
+    "antiguedad_minima_min": 22,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +82,7 @@
         "ok": true,
         "items": 62,
         "error": null,
-        "antiguedad_min": 9729,
+        "antiguedad_min": 10052,
         "descartados_por_gancho": 6
       },
       {
@@ -99,19 +98,19 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 152,
+        "items": 138,
         "error": null,
-        "antiguedad_min": 55,
-        "descartados_por_gancho": 0
+        "antiguedad_min": 22,
+        "descartados_por_gancho": 3
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 50,
+        "items": 48,
         "error": null,
         "antiguedad_min": null,
-        "descartados_por_gancho": 0
+        "descartados_por_gancho": 1
       },
       {
         "medio": "NBA",

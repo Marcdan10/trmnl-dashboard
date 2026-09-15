@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-09-15T04:55:15+02:00",
+  "generado": "2026-09-15T10:18:07+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -14,31 +14,41 @@
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
     },
     {
-      "titular": "El informe de la oficina del censo aclara que los nacionalizados se inscriben en el municipio que ellos eligen: “No hay inscripciones de oficio”",
+      "titular": "Uno de los mayores hospitales de Madrid altera la gravedad de los pacientes para maquillar su lista de espera quirúrgica",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-14T20:04:12+02:00",
-      "enlace": "https://elpais.com/espana/2026-09-14/el-informe-de-la-oficina-del-censo-despeja-las-dudas-sobre-el-municipio-donde-votan-los-nacionalizados-no-hay-inscripciones-de-oficio.html"
+      "fecha": "2026-09-15T05:30:00+02:00",
+      "enlace": "https://elpais.com/espana/madrid/2026-09-15/uno-de-los-mayores-hospitales-madrilenos-altera-la-gravedad-de-los-pacientes-para-maquillar-su-lista-de-espera-quirurgica.html"
     },
     {
-      "titular": "Las alertas sobre la IA sacuden unos mercados dependientes de la tecnología",
+      "titular": "La carrera entre EE.UU. y China por la IA frena cualquier intento de control",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-14T20:23:43+02:00",
-      "enlace": "https://www.lavanguardia.com/economia/20260914/11634759/alertas-sobre-ia-sacuden-mercados-dependientes-tecnologia.html"
+      "fecha": "2026-09-15T06:00:00+02:00",
+      "enlace": "https://www.lavanguardia.com/vida/20260915/11634797/carrera-ee-uu-china-ia-frena-intento-control.html"
     },
     {
-      "titular": "¿Cuántas partículas cósmicas nos atraviesan a cada segundo?",
+      "titular": "Llevar el coche al taller: costes disparados y sin citas",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-15T02:50:00+02:00",
-      "enlace": "https://www.abc.es/podcast/materia-oscura/cuantas-particulas-cosmicas-atraviesan-segundo-20260915025000-aud.html"
+      "fecha": "2026-09-15T09:47:19+02:00",
+      "enlace": "https://www.abc.es/economia/cuentas-corrientes/reparaciones-taller-disparado-solo-tres-anos-20260915015447-nt.html"
+    },
+    {
+      "titular": "Cazas de la OTAN interceptan un dron en el espacio aéreo de Lituania",
+      "medios": [
+        "La Vanguardia",
+        "ABC"
+      ],
+      "consenso": 2,
+      "fecha": "2026-09-15T09:39:54+02:00",
+      "enlace": "https://www.abc.es/internacional/cazas-otan-interceptan-dron-espacio-aereo-lituania-20260915093644-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -50,22 +60,13 @@
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
     },
     {
-      "titular": "La crisis de Ceuta castiga al PSOE con dos puntos de voto menos, según el CIS",
+      "titular": "De blanco y con mochila negra: en busca del presunto asesino de Claudia Tacoronte en México",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-14T13:52:03+02:00",
-      "enlace": "https://elpais.com/espana/2026-09-14/la-crisis-de-ceuta-castiga-al-psoe-con-dos-puntos-menos-segun-el-cis.html"
-    },
-    {
-      "titular": "Sam Altman: “Podríamos perder el control del futuro ante la IA”",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-14T10:07:53+02:00",
-      "enlace": "https://www.lavanguardia.com/vida/20260914/11634119/sam-altman-perder-control-futuro-ia.html"
+      "fecha": "2026-09-15T08:52:57+02:00",
+      "enlace": "https://elpais.com/mexico/2026-09-15/de-blanco-y-con-mochila-negra-en-busca-del-presunto-asesino-de-claudia-tacoronte-en-morelos.html"
     }
   ],
   "salud": {
@@ -74,7 +75,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 125,
+    "antiguedad_minima_min": 8,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +83,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2243750,
+        "antiguedad_min": 2244073,
         "descartados_por_gancho": 0
       },
       {
@@ -90,35 +91,35 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 500",
+        "error": "HTTP 403",
         "antiguedad_min": null
       },
       {
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 144,
+        "items": 142,
         "error": null,
-        "antiguedad_min": 294,
-        "descartados_por_gancho": 5
+        "antiguedad_min": 8,
+        "descartados_por_gancho": 8
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 126,
+        "items": 128,
         "error": null,
-        "antiguedad_min": 235,
-        "descartados_por_gancho": 8
+        "antiguedad_min": 32,
+        "descartados_por_gancho": 13
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 23,
+        "items": 25,
         "error": null,
-        "antiguedad_min": 125,
-        "descartados_por_gancho": 2
+        "antiguedad_min": 30,
+        "descartados_por_gancho": 0
       }
     ]
   }

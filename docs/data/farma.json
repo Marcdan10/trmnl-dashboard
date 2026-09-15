@@ -2,7 +2,7 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "portadas",
-  "generado": "2026-09-15T04:55:29+02:00",
+  "generado": "2026-09-15T10:18:20+02:00",
   "titulares": [
     {
       "titular": "Ley de los medicamentos: sin rechazo frontal, pero con un calendario casi imposible",
@@ -12,6 +12,33 @@
       "consenso": 1,
       "fecha": "2026-09-14T22:33:49+02:00",
       "enlace": "https://diariofarma.com/2026/09/14/ley-de-los-medicamentos-sin-rechazo-frontal-pero-con-un-calendario-casi-imposible"
+    },
+    {
+      "titular": "Cronología del pulso de Trump por los precios de «nación más favorecida» sobre el sector farmacéutico",
+      "medios": [
+        "El Global"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-15T09:13:16+02:00",
+      "enlace": "https://elglobalfarma.com/industria/cronologia-trump-precios-nacion-mas-favorecida-sector-farmaceutico/"
+    },
+    {
+      "titular": "Los pacientes, ante la huelga indefinida: \"Entendemos al médico, pero hay que buscar otra solución\"",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-15T05:00:00+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20260915/los-pacientes-ante-la-huelga-indefinida-entendemos-al-medico-pero-hay-que-buscar-otra-solucion/350651_0.html"
+    },
+    {
+      "titular": "“La investigación clínica es y será una prioridad de Estado que ocupa y preocupa”",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-14T20:02:00+02:00",
+      "enlace": "https://diariofarma.com/2026/09/14/la-investigacion-clinica-es-y-sera-una-prioridad-de-estado-que-ocupa-y-preocupa"
     },
     {
       "titular": "Canarias crea una subdirección de Farmacia liderada por Guayarmina Luján",
@@ -32,33 +59,6 @@
       "enlace": "https://www.redaccionmedica.com/opinion/20260914/el-estatuto-marco-en-el-laberinto/350686_12.html"
     },
     {
-      "titular": "“La investigación clínica es y será una prioridad de Estado que ocupa y preocupa”",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-14T20:02:00+02:00",
-      "enlace": "https://diariofarma.com/2026/09/14/la-investigacion-clinica-es-y-sera-una-prioridad-de-estado-que-ocupa-y-preocupa"
-    },
-    {
-      "titular": "El ejercicio físico se consolida como uno de los principales hábitos de autocuidado en España",
-      "medios": [
-        "El Global"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-14T12:18:23+02:00",
-      "enlace": "https://elglobalfarma.com/farmacia/autocuidado/ejercicio-fisico-consolida-principales-habitos-autocuidado-espana/"
-    },
-    {
-      "titular": "Fin a la prevención 'rutinaria' y tratamientos de precisión: más pasos de la EMA contra la resistencia antimicrobiana animal",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-14T14:55:36+02:00",
-      "enlace": "https://www.redaccionmedica.com/salud-animal/20260914/prevencion-rutinaria-tratamientos-precision-ema-resistencia-antimicrobiana-animal/350732_0.html"
-    },
-    {
       "titular": "La Rioja amplía hasta los 13 años la protección antigripal en colegios",
       "medios": [
         "Diariofarma"
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 381,
+    "antiguedad_minima_min": 46,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 381,
+        "antiguedad_min": 704,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 756,
+        "antiguedad_min": 64,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 505,
+        "antiguedad_min": 46,
         "descartados_por_gancho": 0
       },
       {
