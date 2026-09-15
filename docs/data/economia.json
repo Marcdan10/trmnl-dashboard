@@ -2,92 +2,28 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "portadas",
-  "generado": "2026-09-15T01:47:50+02:00",
-  "titulares": [
-    {
-      "titular": "¿Qué está pasando con la IA? Guía para entender una semana de vértigo",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-14T11:35:03+02:00",
-      "enlace": "https://www.expansion.com/tecnologia/companias/2026/09/14/6aa7ba36468aeb89258b459b.html"
-    },
-    {
-      "titular": "Puig compra el 50% que no tenía de Isdin a Esteve por 1.200 millones",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-14T18:31:40+02:00",
-      "enlace": "https://www.expansion.com/empresas/distribucion/2026/09/14/6aa818ef468aeb065a8b4586.html"
-    },
-    {
-      "titular": "Santander lanza el 'gancho' del nuevo iPhone para captar clientes de altos ingresos y banca privada",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-14T13:34:12+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/09/14/6aa7cebd468aeb6c048b457b.html"
-    },
-    {
-      "titular": "El euríbor se dispara al 3,31% tras la segunda mayor subida del año",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-14T16:52:35+02:00",
-      "enlace": "https://www.expansion.com/ahorro/2026/09/14/6aa8059ae5fdea1d668b4582.html"
-    },
-    {
-      "titular": "Los valores del Ibex más afectados por el freno en la IA",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-14T18:14:05+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/09/14/6aa7a08d468aeb6d2d8b459e.html"
-    },
-    {
-      "titular": "Juanjo Cano (KPMG): \"Todos deberán adaptarse a la IA o saldrán, empezando por los socios\"",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-14T00:30:49+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/09/14/6aa6dacee5fdeacd378b456d.html"
-    },
-    {
-      "titular": "El Ibex cae hasta los 19.500 puntos arrastrado por el petróleo y la IA",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-14T17:39:14+02:00",
-      "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/09/14/6aa78bad468aeb9a538b459f.html"
-    }
-  ],
+  "generado": "2026-09-15T04:55:20+02:00",
+  "titulares": [],
   "salud": {
     "feeds_totales": 6,
-    "feeds_ok": 1,
+    "feeds_ok": 0,
     "feeds_caidos": [
+      "Expansión",
       "Cinco Días",
       "El Economista",
       "Invertia",
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 241,
+    "antiguedad_minima_min": null,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
-        "ok": true,
-        "items": 70,
-        "error": null,
-        "antiguedad_min": 241,
-        "descartados_por_gancho": 2
+        "ok": false,
+        "items": 0,
+        "error": "XML invalido: undefined entity: line 139, column 1336",
+        "antiguedad_min": null
       },
       {
         "medio": "Cinco Días",
