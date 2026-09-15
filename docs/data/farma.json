@@ -1,8 +1,8 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "ultimas",
-  "generado": "2026-09-15T22:45:08+02:00",
+  "modo": "portadas",
+  "generado": "2026-09-16T01:21:31+02:00",
   "titulares": [
     {
       "titular": "Los juristas ven avances en la Ley, pero alertan de lagunas para su aplicación",
@@ -14,24 +14,6 @@
       "enlace": "https://diariofarma.com/2026/09/15/los-juristas-ven-avances-en-la-ley-pero-alertan-de-lagunas-para-su-aplicacion"
     },
     {
-      "titular": "Moncloa acota el nuevo concierto del 'hermano' judicial de Muface a un año",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-15T20:18:10+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/muface/20260915/moncloa-acota-el-nuevo-concierto-del-hermano-judicial-de-muface-un-ano/350859_0.html"
-    },
-    {
-      "titular": "Sanidad planifica una inversión de 500 millones de euros en cinco años para el cribado de cáncer de mama",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-15T19:31:42+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/ministerio-sanidad/20260915/sanidad-planifica-una-inversion-de-millones-euros-en-cinco-anos-para-el-cribado-cancer-mama/350853_0.html"
-    },
-    {
       "titular": "Convenio de farmacia: sindicatos y FEFE, pendientes de fecha para retomar la negociación",
       "medios": [
         "El Global"
@@ -39,6 +21,15 @@
       "consenso": 1,
       "fecha": "2026-09-15T18:05:22+02:00",
       "enlace": "https://elglobalfarma.com/farmacia/convenio-farmacia-sindicatos-fefe-pendientes-fecha-negociacion/"
+    },
+    {
+      "titular": "Las comunidades alertan sobre el impacto de la huelga médica y exigen diálogo: \"El desastre va a ser brutal\"",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-15T18:22:27+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20260915/las-comunidades-alertan-sobre-el-impacto-de-la-huelga-medica-exigen-dialogo-el-desastre-va-ser-brutal/350837_0.html"
     },
     {
       "titular": "Asturias refuerza la función asistencial de la farmacia en cribados de cáncer y VIH",
@@ -66,6 +57,15 @@
       "consenso": 1,
       "fecha": "2026-09-15T18:26:10+02:00",
       "enlace": "https://www.redaccionmedica.com/politica/muface/20260915/el-muface-judicial-sin-pasos-concretos-en-su-renovacion-con-la-inclusion-del-concertada-el-aire/350839_0.html"
+    },
+    {
+      "titular": "La Aemps habilita la plataforma para tramitar la declaración de productos de cuidado personal",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-15T17:44:45+02:00",
+      "enlace": "https://diariofarma.com/2026/09/15/la-aemps-habilita-la-plataforma-para-tramitar-la-declaracion-de-productos-de-cuidado-personal"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 56,
+    "antiguedad_minima_min": 213,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 56,
+        "antiguedad_min": 213,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 279,
+        "antiguedad_min": 436,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 146,
+        "antiguedad_min": 303,
         "descartados_por_gancho": 0
       },
       {

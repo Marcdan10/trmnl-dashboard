@@ -1,26 +1,26 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "ultimas",
-  "generado": "2026-09-15T22:45:04+02:00",
+  "modo": "portadas",
+  "generado": "2026-09-16T01:21:27+02:00",
   "titulares": [
     {
-      "titular": "Umtiti ironiza sobre el lío Mbappé-Dembélé por el Balón de Oro: \"Nunca vi a Messi hablar así\"",
+      "titular": "Espí evita un tropezón del Real Madrid en Elche",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-15T22:22:19+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260915/1004227718/umtiti-ironiza-sobre-debate-mbappe-dembele-balon-oro-nunca-vi-messi-hablar-asi.html"
+      "fecha": "2026-09-15T23:34:58+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260915/1004227748/espi-evita-tropezon-real-madrid-elche.html"
     },
     {
-      "titular": "0-1: El Valencia resucita en Mendizorroza",
+      "titular": "Esta es la portada de SPORT de hoy, miércoles 16 de septiembre",
       "medios": [
-        "Mundo Deportivo"
+        "Sport"
       ],
       "consenso": 1,
-      "fecha": "2026-09-15T22:12:44+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/laliga/20260915/1004227720/valencia-resucita-mendizorroza.html"
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/la-portada-de-sport/portada-sport-hoy-miercoles-16-134329815"
     },
     {
       "titular": "El Barça femenino roza los 30 millones de negocio y gana 8 millones tras crecer un 33%",
@@ -32,6 +32,25 @@
       "enlace": "https://www.marca.com/sport-business/2playbook/2026/09/08/barca-femenino-roza-30-millones-negocio-gana-8-millones-crecer-33.html"
     },
     {
+      "titular": "Mbappé, Vinicius y Konaté 'deslucen' el gesto a Ceuta quitándose la camiseta de apoyo",
+      "medios": [
+        "Mundo Deportivo",
+        "Sport"
+      ],
+      "consenso": 2,
+      "fecha": "2026-09-15T21:35:23+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260915/1004227706/mbappe-vinicius-konate-deslucen-gesto-ceuta-quitandose-camiseta-apoyo.html"
+    },
+    {
+      "titular": "Martín Anselmi: \"Si fuera hincha del Elche, me iría a casa orgulloso\"",
+      "medios": [
+        "Sport"
+      ],
+      "consenso": 1,
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/elche/martin-anselmi-fuera-hincha-elche-134329711"
+    },
+    {
       "titular": "Diez 'joyas' que pueden dar el pelotazo en Champions",
       "medios": [
         "Marca"
@@ -41,31 +60,13 @@
       "enlace": "https://www.marca.com/futbol/champions-league/2026/09/08/diez-joyas-dar-pelotazo-champions-nico-paz-manzambi-karetsas-godts-karl.html"
     },
     {
-      "titular": "Puesta de largo en Madrid de las Ligas que defiende el Valencia Basket",
-      "medios": [
-        "Sport"
-      ],
-      "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/baloncesto/puesta-madrid-ligas-defiende-valencia-134327792"
-    },
-    {
-      "titular": "Pogacar vuelve a subirse a una bici tras su operación de clavícula",
-      "medios": [
-        "Sport"
-      ],
-      "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/ciclismo/pogacar-vuelve-subirse-bici-operacion-134326721"
-    },
-    {
-      "titular": "4-0. Cristiano Ronaldo y su Al Nassr se estrellan en la Champions asiática",
+      "titular": "2-1: El Espanyol despierta tarde en Butarque",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-15T22:11:51+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/internacional/20260915/1004227717/4-0-cristiano-ronaldo-nassr-estrellan-champions-asiatica.html"
+      "fecha": "2026-09-15T21:04:17+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/rcd-espanyol/20260915/1004227697/espanyol-despierta-tarde-butarque.html"
     }
   ],
   "salud": {
@@ -74,7 +75,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 22,
+    "antiguedad_minima_min": 52,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +83,7 @@
         "ok": true,
         "items": 62,
         "error": null,
-        "antiguedad_min": 10799,
+        "antiguedad_min": 10955,
         "descartados_por_gancho": 6
       },
       {
@@ -100,17 +101,17 @@
         "ok": true,
         "items": 143,
         "error": null,
-        "antiguedad_min": 22,
+        "antiguedad_min": 52,
         "descartados_por_gancho": 4
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 49,
+        "items": 50,
         "error": null,
         "antiguedad_min": null,
-        "descartados_por_gancho": 1
+        "descartados_por_gancho": 0
       },
       {
         "medio": "NBA",
