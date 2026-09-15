@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-09-15T19:52:21+02:00",
+  "generado": "2026-09-15T22:45:04+02:00",
   "titulares": [
     {
-      "titular": "La miniserie de ocho episodios que imagina una Berlín dominada por el crimen y los vampiros",
+      "titular": "Umtiti ironiza sobre el lío Mbappé-Dembélé por el Balón de Oro: \"Nunca vi a Messi hablar así\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-15T19:16:27+02:00",
-      "enlace": "https://www.mundodeportivo.com/elotromundo/television/20260915/1004227668/hoy-disney-miniserie-ocho-episodios-imagina-berlin-dominada-crimen-vampiros-tvp-dct.html"
+      "fecha": "2026-09-15T22:22:19+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260915/1004227718/umtiti-ironiza-sobre-debate-mbappe-dembele-balon-oro-nunca-vi-messi-hablar-asi.html"
     },
     {
-      "titular": "Hamza Abdelkarim, el ‘9’ de futuro: “Tengo muchas cosas que mejorar”",
+      "titular": "0-1: El Valencia resucita en Mendizorroza",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-15T19:16:20+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260915/1004227669/hamza-abdelkarim-9-futuro-muchas-cosas-mejorar.html"
+      "fecha": "2026-09-15T22:12:44+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/laliga/20260915/1004227720/valencia-resucita-mendizorroza.html"
     },
     {
       "titular": "El Barça femenino roza los 30 millones de negocio y gana 8 millones tras crecer un 33%",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/champions-league/2026/09/08/diez-joyas-dar-pelotazo-champions-nico-paz-manzambi-karetsas-godts-karl.html"
     },
     {
-      "titular": "Tebas: \"Rodri se merece el Balón de Oro por el Mundial que ha hecho\"",
+      "titular": "Puesta de largo en Madrid de las Ligas que defiende el Valencia Basket",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/laliga/tebas-rodri-merece-balon-oro-134321887"
+      "enlace": "https://www.sport.es/es/noticias/baloncesto/puesta-madrid-ligas-defiende-valencia-134327792"
     },
     {
-      "titular": "James Rodríguez anuncia que deja la selección Colombia",
+      "titular": "Pogacar vuelve a subirse a una bici tras su operación de clavícula",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/futbol-internacional/james-rodriguez-anuncia-deja-seleccion-134323174"
+      "enlace": "https://www.sport.es/es/noticias/ciclismo/pogacar-vuelve-subirse-bici-operacion-134326721"
     },
     {
-      "titular": "El deseo de Rodri para el Balón de Oro",
+      "titular": "4-0. Cristiano Ronaldo y su Al Nassr se estrellan en la Champions asiática",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-15T19:12:13+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260915/1004227651/deseo-rodri-balon-oro.html"
+      "fecha": "2026-09-15T22:11:51+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/internacional/20260915/1004227717/4-0-cristiano-ronaldo-nassr-estrellan-champions-asiatica.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 35,
+    "antiguedad_minima_min": 22,
     "detalle": [
       {
         "medio": "Marca",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 62,
         "error": null,
-        "antiguedad_min": 10626,
+        "antiguedad_min": 10799,
         "descartados_por_gancho": 6
       },
       {
@@ -98,9 +98,9 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 144,
+        "items": 143,
         "error": null,
-        "antiguedad_min": 35,
+        "antiguedad_min": 22,
         "descartados_por_gancho": 4
       },
       {
