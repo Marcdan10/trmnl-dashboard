@@ -2,28 +2,92 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "portadas",
-  "generado": "2026-09-16T01:21:25+02:00",
-  "titulares": [],
+  "generado": "2026-09-16T03:30:33+02:00",
+  "titulares": [
+    {
+      "titular": "Alerta en el turismo: Bruselas pone en peligro el IVA reducido",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-16T02:30:43+02:00",
+      "enlace": "https://www.expansion.com/fiscal/2026/09/16/6aa98cf5e5fdea7a788b4579.html"
+    },
+    {
+      "titular": "Javier Echave deja Heathrow tras 18 años para fichar por Merlin Properties",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-16T02:30:44+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/09/16/6aa93d06e5fdea0c188b457f.html"
+    },
+    {
+      "titular": "Mañana en EXPANSIÓN TecnologIA, todas las claves del debate que sacude la inteligencia artificial",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-16T02:30:49+02:00",
+      "enlace": "https://www.expansion.com/tecnologia/2026/09/16/6aa999b6e5fdea73508b45a2.html"
+    },
+    {
+      "titular": "Cuánto llevan perdido los inversores del Ibex con las 'ampliaciones de la IA'",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-15T20:49:51+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/09/15/6aa96ffce5fdea39568b4584.html"
+    },
+    {
+      "titular": "El petróleo retoma su escalada y vuelve a rozar los 109 dólares",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-15T21:54:18+02:00",
+      "enlace": "https://www.expansion.com/mercados/materias-primas/2026/09/15/6aa98d6ee5fdea73508b4599.html"
+    },
+    {
+      "titular": "El Ibex 35 rinde más por dividendos que el bono español a 10 años",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-16T02:30:50+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/09/16/6aa98c51468aeb30298b459f.html"
+    },
+    {
+      "titular": "La española Fever se valora en más de 4.500 millones",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-16T02:31:35+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/09/16/6aa9905ee5fdeab7028b45a4.html"
+    }
+  ],
   "salud": {
     "feeds_totales": 6,
-    "feeds_ok": 0,
+    "feeds_ok": 1,
     "feeds_caidos": [
-      "Expansión",
       "Cinco Días",
       "El Economista",
       "Invertia",
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": null,
+    "antiguedad_minima_min": 58,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
-        "ok": false,
-        "items": 0,
-        "error": "XML invalido: undefined entity: line 299, column 1336",
-        "antiguedad_min": null
+        "ok": true,
+        "items": 62,
+        "error": null,
+        "antiguedad_min": 58,
+        "descartados_por_gancho": 1
       },
       {
         "medio": "Cinco Días",

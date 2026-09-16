@@ -2,7 +2,7 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-09-16T01:21:27+02:00",
+  "generado": "2026-09-16T03:30:35+02:00",
   "titulares": [
     {
       "titular": "Espí evita un tropezón del Real Madrid en Elche",
@@ -14,13 +14,13 @@
       "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260915/1004227748/espi-evita-tropezon-real-madrid-elche.html"
     },
     {
-      "titular": "Esta es la portada de SPORT de hoy, miércoles 16 de septiembre",
+      "titular": "Messi efectúa la compra del Eldense",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/la-portada-de-sport/portada-sport-hoy-miercoles-16-134329815"
+      "enlace": "https://www.sport.es/es/noticias/futbol/segunda-rfef/messi-efectua-compra-eldense-134330072"
     },
     {
       "titular": "El Barça femenino roza los 30 millones de negocio y gana 8 millones tras crecer un 33%",
@@ -42,13 +42,13 @@
       "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260915/1004227706/mbappe-vinicius-konate-deslucen-gesto-ceuta-quitandose-camiseta-apoyo.html"
     },
     {
-      "titular": "Martín Anselmi: \"Si fuera hincha del Elche, me iría a casa orgulloso\"",
+      "titular": "Esta es la portada de SPORT de hoy, miércoles 16 de septiembre",
       "medios": [
         "Sport"
       ],
       "consenso": 1,
       "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/elche/martin-anselmi-fuera-hincha-elche-134329711"
+      "enlace": "https://www.sport.es/es/noticias/la-portada-de-sport/portada-sport-hoy-miercoles-16-134329815"
     },
     {
       "titular": "Diez 'joyas' que pueden dar el pelotazo en Champions",
@@ -75,7 +75,7 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 52,
+    "antiguedad_minima_min": 181,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 62,
         "error": null,
-        "antiguedad_min": 10955,
+        "antiguedad_min": 11084,
         "descartados_por_gancho": 6
       },
       {
@@ -101,7 +101,7 @@
         "ok": true,
         "items": 143,
         "error": null,
-        "antiguedad_min": 52,
+        "antiguedad_min": 181,
         "descartados_por_gancho": 4
       },
       {
