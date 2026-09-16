@@ -2,8 +2,44 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-09-16T19:25:00+02:00",
+  "generado": "2026-09-16T22:19:02+02:00",
   "titulares": [
+    {
+      "titular": "DWS pone a la venta el centro comercial Diagonal Mar",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-16T21:39:50+02:00",
+      "enlace": "https://www.expansion.com/catalunya/2026/09/16/6aaaf083468aeb4c6f8b459d.html"
+    },
+    {
+      "titular": "Cofides se suma a Viserion en Elian con una inversión de 40 millones de euros",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-16T21:24:01+02:00",
+      "enlace": "https://www.expansion.com/catalunya/2026/09/16/6aaaebbae5fdea3c2b8b4575.html"
+    },
+    {
+      "titular": "Portobello levanta 710 millones y cierra el mayor fondo de capital riesgo español",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-16T20:15:51+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/09/16/6aaadcbfe5fdea99608b4582.html"
+    },
+    {
+      "titular": "La Fed desafía a Trump y sube tipos, por primera vez en tres años, al 4%",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-16T20:00:35+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/09/16/6aaad639468aeb81748b458d.html"
+    },
     {
       "titular": "El Congreso tumba la ley de 'lobbies' y anula el nuevo registro de grupos de interés",
       "medios": [
@@ -30,42 +66,6 @@
       "consenso": 1,
       "fecha": "2026-09-16T18:07:04+02:00",
       "enlace": "https://www.expansion.com/mercados/2026/09/16/6aaa7883e5fdea955a8b4583.html"
-    },
-    {
-      "titular": "Zurich aumenta un 26% su hucha para recompensar a Sabadell",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-16T17:50:36+02:00",
-      "enlace": "https://www.expansion.com/empresas/seguros/2026/09/16/6aa98347468aebf6148b45a2.html"
-    },
-    {
-      "titular": "Plan de choque histórico en REE para evitar que la red de luz colapse",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-16T17:47:50+02:00",
-      "enlace": "https://www.expansion.com/empresas/energia/2026/09/16/6aaab9abe5fdea21668b4588.html"
-    },
-    {
-      "titular": "El Ibex recupera los 19.600 puntos pendiente de la decisión de la Fed",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-16T17:39:01+02:00",
-      "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/09/16/6aaa2ead468aeb06058b45a0.html"
-    },
-    {
-      "titular": "La iniciativa de los directivos de la IA a favor de la seguridad provoca una fractura interna en OpenAI y Anthropic",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-16T17:04:23+02:00",
-      "enlace": "https://www.expansion.com/economia/financial-times/2026/09/16/6aaaafb5468aeb9f698b458a.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 16,
+    "antiguedad_minima_min": 39,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 72,
+        "items": 71,
         "error": null,
-        "antiguedad_min": 16,
+        "antiguedad_min": 39,
         "descartados_por_gancho": 1
       },
       {

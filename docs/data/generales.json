@@ -2,61 +2,62 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-09-16T19:24:58+02:00",
+  "generado": "2026-09-16T22:19:00+02:00",
   "titulares": [
     {
-      "titular": "Crisis en Ceuta y actualidad política, en directo | El Congreso aprueba el plan de 309 millones para Ceuta con el respaldo del PP",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-16T19:16:29+02:00",
-      "enlace": "https://elpais.com/espana/2026-09-16/crisis-en-ceuta-y-actualidad-politica-en-directo.html"
-    },
-    {
-      "titular": "Enrique Riquelme se lleva su fortuna a Panamá tras la macroperación de México",
+      "titular": "Vuelve a marcar Cancelo: el Barça pone la directa",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-16T19:11:29+02:00",
-      "enlace": "https://www.abc.es/sevilla/economia/enrique-riquelme-lleva-fortuna-panama-tras-macroperacion-20260916172453-nts.html"
+      "fecha": "2026-09-16T22:11:17+02:00",
+      "enlace": "https://www.abc.es/deportes/futbol/barcelona-racing-santander-directo-resultado-ganador-goles-20260916204413-di.html"
     },
     {
-      "titular": "La UE ofrece a Canadá que sea su primer Estado asociado para crear una mini-OTAN sin Estados Unidos",
+      "titular": "Mbappé se explica tras esconder el apoyo a Ceuta",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-16T19:11:17+02:00",
-      "enlace": "https://www.abc.es/internacional/von-der-leyen-ofrece-canada-primer-estado-20260916100735-nt.html"
+      "fecha": "2026-09-16T22:07:43+02:00",
+      "enlace": "https://www.abc.es/deportes/real-madrid/mbappe-explica-tras-esconder-apoyo-ceuta-queria-20260916215318-nt.html"
     },
     {
-      "titular": "El PP apoya a Vox en una iniciativa del Congreso para rechazar a los menores de Ceuta en la Península",
+      "titular": "Carlos III, sobre adelanto del libro del hermano de Diana: “El duelo puede nublar la razón”",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-16T22:02:36+02:00",
+      "enlace": "https://www.lavanguardia.com/gente/20260916/11636645/carlos-iii-sobre-adelanto-libro-hermano-diana-duelo-nublar-razon.html"
+    },
+    {
+      "titular": "El Atlético golea al Osasuna y toma fuerza para el derbi",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-16T21:50:38+02:00",
+      "enlace": "https://www.lavanguardia.com/deportes/futbol/20260916/11636643/atletico-golea-osasuna-toma-fuerza-derbi-osasuna-real-madrid-sin-julian-alvarez.html"
+    },
+    {
+      "titular": "El Celta cae en Chipre y traslada su mal inicio de temporada a la Liga Europa",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-16T19:04:02+02:00",
-      "enlace": "https://elpais.com/espana/2026-09-16/el-pp-apoya-a-vox-en-una-iniciativa-del-congreso-para-rechazar-a-los-menores-de-ceuta-en-la-peninsula.html"
+      "fecha": "2026-09-16T21:46:30+02:00",
+      "enlace": "https://elpais.com/deportes/futbol/2026-09-16/el-celta-cae-en-chipre-y-traslada-su-mal-inicio-de-temporada-a-la-liga-europa.html"
     },
     {
-      "titular": "“Las arquitecturas imposibles buscan despertar la curiosidad”: Así es el nuevo escaparate de Hermès en el paseo de Gràcia",
+      "titular": "El Gobierno muestra su “perplejidad” por el freno de la Audiencia Nacional al campamento para migrantes del Puerto de Ceuta",
       "medios": [
+        "El País",
         "La Vanguardia"
       ],
-      "consenso": 1,
-      "fecha": "2026-09-16T18:33:52+02:00",
-      "enlace": "https://www.lavanguardia.com/magazine/casa/20260916/11635520/arquitecturas-escaparate-hermes-paseo-gracia-mesura.html"
-    },
-    {
-      "titular": "El Gobierno activa la negociación de los presupuestos del 2027",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-16T18:25:05+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20260916/11636531/gobierno-activa-negociacion-presupuestos-2027.html"
+      "consenso": 2,
+      "fecha": "2026-09-16T21:39:31+02:00",
+      "enlace": "https://elpais.com/espana/2026-09-16/el-gobierno-muestra-su-perplejidad-por-el-freno-de-la-audiencia-nacional-al-campamento-para-migrantes-del-puerto-de-ceuta.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -74,7 +75,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 8,
+    "antiguedad_minima_min": 7,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +83,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2246059,
+        "antiguedad_min": 2246233,
         "descartados_por_gancho": 0
       },
       {
@@ -97,28 +98,28 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 153,
+        "items": 154,
         "error": null,
-        "antiguedad_min": 8,
+        "antiguedad_min": 32,
         "descartados_por_gancho": 2
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 122,
+        "items": 128,
         "error": null,
-        "antiguedad_min": 51,
-        "descartados_por_gancho": 18
+        "antiguedad_min": 16,
+        "descartados_por_gancho": 17
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 25,
+        "items": 24,
         "error": null,
-        "antiguedad_min": 13,
-        "descartados_por_gancho": 0
+        "antiguedad_min": 7,
+        "descartados_por_gancho": 1
       }
     ]
   }
