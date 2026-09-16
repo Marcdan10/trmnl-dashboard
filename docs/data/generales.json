@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-09-16T03:30:30+02:00",
+  "generado": "2026-09-16T09:04:33+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -14,31 +14,41 @@
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
     },
     {
-      "titular": "Sanidad reclama a la Comunidad de Madrid que aclare si manipula las listas de espera de sus hospitales",
+      "titular": "Crisis en Ceuta y actualidad política, en directo | Sánchez y Feijóo se enfrentan en medio de las tensiones por Ceuta y la ‘ley de nietos’",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-15T18:59:51+02:00",
-      "enlace": "https://elpais.com/sociedad/2026-09-15/sanidad-reclama-a-la-comunidad-de-madrid-que-aclare-si-manipula-las-listas-de-espera-de-sus-hospitales.html"
+      "fecha": "2026-09-16T09:02:47+02:00",
+      "enlace": "https://elpais.com/espana/2026-09-16/crisis-en-ceuta-y-actualidad-politica-en-directo.html"
     },
     {
-      "titular": "Llarena rechaza levantar la orden de detención de Puigdemont a la espera del TC",
+      "titular": "Redes sociales vetadas a menores de 15 años, más seguridad y control parental, las claves de la nueva ley europea",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-15T14:27:19+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20260915/11635442/llarena-rechaza-levantar-orden-detencion-puigdemont-espera-tc.html"
+      "fecha": "2026-09-16T00:05:00+02:00",
+      "enlace": "https://www.lavanguardia.com/vida/20260916/11635711/redes-sociales-vetadas-menores-15-anos-mas-seguridad-control-parental-claves-nueva-ley-europea.html"
     },
     {
-      "titular": "Llevar el coche al taller: costes disparados y sin citas",
+      "titular": "La confesión del testaferro de Maduro abre una nueva vía sobre Zapatero y Plus Ultra",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-16T02:58:36+02:00",
-      "enlace": "https://www.abc.es/economia/cuentas-corrientes/reparaciones-taller-disparado-solo-tres-anos-20260915015447-nt.html"
+      "fecha": "2026-09-16T08:47:33+02:00",
+      "enlace": "https://www.abc.es/internacional/confesion-testaferro-maduro-abre-nueva-via-sobre-20260915221002-nt.html"
+    },
+    {
+      "titular": "Al menos tres muertos tras estrellarse un helicóptero de informativos en Los Ángeles",
+      "medios": [
+        "La Vanguardia",
+        "ABC"
+      ],
+      "consenso": 2,
+      "fecha": "2026-09-16T08:41:55+02:00",
+      "enlace": "https://www.abc.es/internacional/tres-muertos-tras-estrellarse-helicoptero-informativos-angeles-20260916083943-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -50,22 +60,13 @@
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
     },
     {
-      "titular": "La Comunidad de Madrid anuncia una investigación tras el caso del Ramón y Cajal y anticipa el resultado: “No se falsean las listas”",
+      "titular": "Madrid ataca al cirujano denunciante del Ramón y Cajal y reduce el escándalo a una rencilla entre médicos",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-15T20:05:07+02:00",
-      "enlace": "https://elpais.com/espana/madrid/2026-09-15/la-comunidad-de-madrid-anuncia-una-investigacion-tras-el-caso-del-ramon-y-cajal-y-anticipa-el-resultado-no-se-falsean-las-listas.html"
-    },
-    {
-      "titular": "Italia prorroga otros 15 días los controles a viajes desde España, que replica con la misma medida",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-15T15:39:45+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20260915/11635492/italia-prorroga-controles-espana-schengen-ceuta.html"
+      "fecha": "2026-09-16T05:30:00+02:00",
+      "enlace": "https://elpais.com/espana/madrid/2026-09-16/madrid-ataca-al-cirujano-denunciante-del-ramon-y-cajal-y-reduce-el-escandalo-a-una-rencilla-entre-medicos.html"
     }
   ],
   "salud": {
@@ -74,7 +75,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 31,
+    "antiguedad_minima_min": 1,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +83,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2245105,
+        "antiguedad_min": 2245439,
         "descartados_por_gancho": 0
       },
       {
@@ -90,35 +91,35 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 500",
+        "error": "HTTP 403",
         "antiguedad_min": null
       },
       {
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 148,
+        "items": 144,
         "error": null,
-        "antiguedad_min": 163,
-        "descartados_por_gancho": 5
+        "antiguedad_min": 1,
+        "descartados_por_gancho": 3
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 136,
+        "items": 108,
         "error": null,
-        "antiguedad_min": 180,
-        "descartados_por_gancho": 10
+        "antiguedad_min": 68,
+        "descartados_por_gancho": 18
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 25,
+        "items": 23,
         "error": null,
-        "antiguedad_min": 31,
-        "descartados_por_gancho": 0
+        "antiguedad_min": 17,
+        "descartados_por_gancho": 2
       }
     ]
   }

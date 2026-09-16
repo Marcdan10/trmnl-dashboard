@@ -2,71 +2,71 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-09-16T03:30:35+02:00",
+  "generado": "2026-09-16T09:04:39+02:00",
   "titulares": [
     {
-      "titular": "Espí evita un tropezón del Real Madrid en Elche",
+      "titular": "El probable once del Barça ante el Racing",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-16T07:00:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260916/1004227617/probable-once-barca-racing.html"
+    },
+    {
+      "titular": "Atlético de Madrid - Osasuna: horario y dónde ver hoy el partido de LaLiga EA Sports por TV, online y en directo",
+      "medios": [
+        "Sport"
+      ],
+      "consenso": 1,
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/laliga/atletico-madrid-osasuna-horario-ver-134287138"
+    },
+    {
+      "titular": "La joya de 15 años que quiere escapar del United asombra a la prensa inglesa",
+      "medios": [
+        "Marca"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-16T01:55:17+02:00",
+      "enlace": "https://www.marca.com/futbol/album/2026/09/16/portadas-dia.html"
+    },
+    {
+      "titular": "Así queda la clasificación de LaLiga tras el sufrido triunfo del Real Madrid en Elche",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-15T23:27:29+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260915/1004227723/asi-queda-clasificacion-laliga-sufrido-triunfo-real-madrid-elche.html"
+    },
+    {
+      "titular": "Sebastià, padre de Rafa Nadal: \"Toni es mi hermano, pero lo primero es mi hijo. Toni a lo mejor no estaba contento, pero entendíamos que era beneficioso para Rafa\"",
+      "medios": [
+        "Sport"
+      ],
+      "consenso": 1,
+      "fecha": null,
+      "enlace": "https://www.sport.es/es/noticias/tenis/rafa-nadal-padre-toni-hermano-hijo-133633347"
+    },
+    {
+      "titular": "Elche 2-3 Real Madrid | Resumen",
+      "medios": [
+        "Marca",
+        "Mundo Deportivo"
+      ],
+      "consenso": 2,
+      "fecha": "2026-09-15T23:50:41+02:00",
+      "enlace": "https://www.marca.com/futbol/primera-division/2026/09/15/elche-2-3-real-madrid-resumen-video.html"
+    },
+    {
+      "titular": "2-3: Espí evita un tropezón del Real Madrid en Elche",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
       "fecha": "2026-09-15T23:34:58+02:00",
       "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260915/1004227748/espi-evita-tropezon-real-madrid-elche.html"
-    },
-    {
-      "titular": "Messi efectúa la compra del Eldense",
-      "medios": [
-        "Sport"
-      ],
-      "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/futbol/segunda-rfef/messi-efectua-compra-eldense-134330072"
-    },
-    {
-      "titular": "El Barça femenino roza los 30 millones de negocio y gana 8 millones tras crecer un 33%",
-      "medios": [
-        "Marca"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-08T10:46:01+02:00",
-      "enlace": "https://www.marca.com/sport-business/2playbook/2026/09/08/barca-femenino-roza-30-millones-negocio-gana-8-millones-crecer-33.html"
-    },
-    {
-      "titular": "Mbappé, Vinicius y Konaté 'deslucen' el gesto a Ceuta quitándose la camiseta de apoyo",
-      "medios": [
-        "Mundo Deportivo",
-        "Sport"
-      ],
-      "consenso": 2,
-      "fecha": "2026-09-15T21:35:23+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260915/1004227706/mbappe-vinicius-konate-deslucen-gesto-ceuta-quitandose-camiseta-apoyo.html"
-    },
-    {
-      "titular": "Esta es la portada de SPORT de hoy, miércoles 16 de septiembre",
-      "medios": [
-        "Sport"
-      ],
-      "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/la-portada-de-sport/portada-sport-hoy-miercoles-16-134329815"
-    },
-    {
-      "titular": "Diez 'joyas' que pueden dar el pelotazo en Champions",
-      "medios": [
-        "Marca"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-08T10:42:13+02:00",
-      "enlace": "https://www.marca.com/futbol/champions-league/2026/09/08/diez-joyas-dar-pelotazo-champions-nico-paz-manzambi-karetsas-godts-karl.html"
-    },
-    {
-      "titular": "2-1: El Espanyol despierta tarde en Butarque",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-15T21:04:17+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/rcd-espanyol/20260915/1004227697/espanyol-despierta-tarde-butarque.html"
     }
   ],
   "salud": {
@@ -75,16 +75,16 @@
     "feeds_caidos": [
       "NBA"
     ],
-    "antiguedad_minima_min": 181,
+    "antiguedad_minima_min": 25,
     "detalle": [
       {
         "medio": "Marca",
         "url": "https://e00-marca.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 62,
+        "items": 57,
         "error": null,
-        "antiguedad_min": 11084,
-        "descartados_por_gancho": 6
+        "antiguedad_min": 429,
+        "descartados_por_gancho": 8
       },
       {
         "medio": "AS",
@@ -99,19 +99,19 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 143,
+        "items": 144,
         "error": null,
-        "antiguedad_min": 181,
-        "descartados_por_gancho": 4
+        "antiguedad_min": 25,
+        "descartados_por_gancho": 5
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
         "ok": true,
-        "items": 50,
+        "items": 48,
         "error": null,
         "antiguedad_min": null,
-        "descartados_por_gancho": 0
+        "descartados_por_gancho": 1
       },
       {
         "medio": "NBA",
