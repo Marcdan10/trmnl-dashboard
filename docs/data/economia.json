@@ -1,62 +1,17 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "portadas",
-  "generado": "2026-09-16T09:04:36+02:00",
+  "modo": "ultimas",
+  "generado": "2026-09-16T14:41:16+02:00",
   "titulares": [
     {
-      "titular": "Alerta en el turismo: Bruselas pone en peligro el IVA reducido",
+      "titular": "Mónaco 'limpia' su nombre: el paraíso de las fortunas, a un paso de salir de la lista del 'dinero sucio'",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-16T02:30:43+02:00",
-      "enlace": "https://www.expansion.com/fiscal/2026/09/16/6aa98cf5e5fdea7a788b4579.html"
-    },
-    {
-      "titular": "CaixaBank venderá más riesgo para blindar el dividendo pese al alza del crédito",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-16T02:30:44+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/09/16/6aa141d3468aeb420c8b4571.html"
-    },
-    {
-      "titular": "La Primera de Expansión sobre CaixaBank, lobbies, la IA en Bolsa, China, Trump y los megarricos de EEUU",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-16T07:20:02+02:00",
-      "enlace": "https://www.expansion.com/podcasts/la-primera-de-expansion/2026/09/16/6aaa1eb7e5fdea7a788b458d.html"
-    },
-    {
-      "titular": "Cómo valoran los expertos la compra de Isdin por parte de Puig",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-16T02:31:35+02:00",
-      "enlace": "https://www.expansion.com/inversion/2026/09/16/6aa9402ce5fdeab7028b4580.html"
-    },
-    {
-      "titular": "Cómo reaccionar en Bolsa al posible freno en la IA",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-16T08:34:50+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/09/16/6aa937e4468aebf92e8b4588.html"
-    },
-    {
-      "titular": "Lepas L8: la nueva marca china que llega a España con 52 puntos de venta y un gran objetivo",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-16T00:33:15+02:00",
-      "enlace": "https://www.expansion.com/empresas/motor/2026/09/16/6aa98026468aebf92e8b45a4.html"
+      "fecha": "2026-09-16T14:10:13+02:00",
+      "enlace": "https://www.expansion.com/fiscal/2026/09/16/6aaa8723e5fdea797a8b4589.html"
     },
     {
       "titular": "El Ibex tantea otra tregua antes de la Fed",
@@ -64,8 +19,53 @@
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-16T08:30:11+02:00",
+      "fecha": "2026-09-16T14:06:16+02:00",
       "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/09/16/6aaa2ead468aeb06058b45a0.html"
+    },
+    {
+      "titular": "Amadeus acelera en el Ibex: Deutsche Bank eleva un 23% su valoración",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-16T14:06:12+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/09/16/6aaa4077e5fdea7f5a8b4592.html"
+    },
+    {
+      "titular": "Técnicas Reunidas se dispara en Bolsa con su recompra de acciones",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-16T14:06:10+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/09/16/6aaa7883e5fdea955a8b4583.html"
+    },
+    {
+      "titular": "Estos son los 50 mejores hoteles del mundo",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-16T13:37:31+02:00",
+      "enlace": "https://www.expansion.com/estilo-vida/viajes/2026/09/16/6aaa74d6e5fdea4a0d8b4573.html"
+    },
+    {
+      "titular": "El discreto encanto de la algarroba",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-16T13:26:18+02:00",
+      "enlace": "https://www.expansion.com/empresas/distribucion/2026/09/16/6aaa7b19e5fdea336a8b4597.html"
+    },
+    {
+      "titular": "El Panel de Funcas eleva la previsión de crecimiento de PIB para 2026 al 2,5%, pero empeora la inflación",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-16T13:06:43+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/09/16/6aaa7841468aeb81748b4581.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 29,
+    "antiguedad_minima_min": 31,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 65,
+        "items": 68,
         "error": null,
-        "antiguedad_min": 29,
+        "antiguedad_min": 31,
         "descartados_por_gancho": 1
       },
       {

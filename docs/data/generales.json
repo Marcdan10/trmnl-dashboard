@@ -1,9 +1,63 @@
 {
   "pantalla": "generales",
   "titulo": "Titulares",
-  "modo": "portadas",
-  "generado": "2026-09-16T09:04:33+02:00",
+  "modo": "ultimas",
+  "generado": "2026-09-16T14:41:14+02:00",
   "titulares": [
+    {
+      "titular": "El PSOE rechaza la propuesta de Bruselas de excluir los fertilizantes de la tasa verde para bajar los precios",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-16T14:28:32+02:00",
+      "enlace": "https://www.abc.es/economia/psoe-rechaza-propuesta-bruselas-excluir-fertilizantes-tasa-20260916133211-nt.html"
+    },
+    {
+      "titular": "La patronal se sube a la curva de Laffer y reclama bajar impuestos a empresas y rentas altas",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-16T14:20:08+02:00",
+      "enlace": "https://elpais.com/economia/2026-09-16/la-patronal-se-sube-a-la-curva-de-laffer-y-reclama-bajar-impuestos-a-empresas-y-rentas-altas.html"
+    },
+    {
+      "titular": "Madring repite fechas en el calendario de la Fórmula 1 para 2027: el Gran Premio de España será el 12 de septiembre",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-16T14:18:57+02:00",
+      "enlace": "https://elpais.com/deportes/formula-1/2026-09-16/madring-repite-fechas-en-el-calendario-de-la-formula-1-para-2027-el-gran-premio-de-espana-sera-el-12-de-septiembre.html"
+    },
+    {
+      "titular": "Detenidas dos personas más por el tiroteo mortal de Isla Cristina",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-16T14:01:15+02:00",
+      "enlace": "https://www.abc.es/espana/andalucia/huelva/detenidas-dos-personas-tiroteo-mortal-isla-cristina-20260916101720-nts.html"
+    },
+    {
+      "titular": "Detenido un segundo entrenador del Joventut de Badalona por acoso sexual a un menor",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-16T14:00:15+02:00",
+      "enlace": "https://www.lavanguardia.com/local/barcelones-nord/20260916/11636341/detenido-segundo-entrenador-joventut-badalona-acoso-sexual-menor.html"
+    },
+    {
+      "titular": "La jueza que procesó al hermano de Sánchez ve contactos de la trama de Leire Díez con el narcotráfico para actuar contra ella",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-16T13:57:52+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20260916/11636336/jueza-proceso-hermano-sanchez-ve-contactos-trama-leire-diez-narcotrafico-actuar.html"
+    },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
       "medios": [
@@ -12,61 +66,6 @@
       "consenso": 1,
       "fecha": "2022-06-10T01:05:00+02:00",
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
-    },
-    {
-      "titular": "Crisis en Ceuta y actualidad política, en directo | Sánchez y Feijóo se enfrentan en medio de las tensiones por Ceuta y la ‘ley de nietos’",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-16T09:02:47+02:00",
-      "enlace": "https://elpais.com/espana/2026-09-16/crisis-en-ceuta-y-actualidad-politica-en-directo.html"
-    },
-    {
-      "titular": "Redes sociales vetadas a menores de 15 años, más seguridad y control parental, las claves de la nueva ley europea",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-16T00:05:00+02:00",
-      "enlace": "https://www.lavanguardia.com/vida/20260916/11635711/redes-sociales-vetadas-menores-15-anos-mas-seguridad-control-parental-claves-nueva-ley-europea.html"
-    },
-    {
-      "titular": "La confesión del testaferro de Maduro abre una nueva vía sobre Zapatero y Plus Ultra",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-16T08:47:33+02:00",
-      "enlace": "https://www.abc.es/internacional/confesion-testaferro-maduro-abre-nueva-via-sobre-20260915221002-nt.html"
-    },
-    {
-      "titular": "Al menos tres muertos tras estrellarse un helicóptero de informativos en Los Ángeles",
-      "medios": [
-        "La Vanguardia",
-        "ABC"
-      ],
-      "consenso": 2,
-      "fecha": "2026-09-16T08:41:55+02:00",
-      "enlace": "https://www.abc.es/internacional/tres-muertos-tras-estrellarse-helicoptero-informativos-angeles-20260916083943-nt.html"
-    },
-    {
-      "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
-      "medios": [
-        "RTVE"
-      ],
-      "consenso": 1,
-      "fecha": "2022-06-10T00:03:00+02:00",
-      "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
-    },
-    {
-      "titular": "Madrid ataca al cirujano denunciante del Ramón y Cajal y reduce el escándalo a una rencilla entre médicos",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-16T05:30:00+02:00",
-      "enlace": "https://elpais.com/espana/madrid/2026-09-16/madrid-ataca-al-cirujano-denunciante-del-ramon-y-cajal-y-reduce-el-escandalo-a-una-rencilla-entre-medicos.html"
     }
   ],
   "salud": {
@@ -75,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 1,
+    "antiguedad_minima_min": 12,
     "detalle": [
       {
         "medio": "RTVE",
@@ -83,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2245439,
+        "antiguedad_min": 2245776,
         "descartados_por_gancho": 0
       },
       {
@@ -98,28 +97,28 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 144,
+        "items": 150,
         "error": null,
-        "antiguedad_min": 1,
-        "descartados_por_gancho": 3
+        "antiguedad_min": 21,
+        "descartados_por_gancho": 4
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 108,
+        "items": 120,
         "error": null,
-        "antiguedad_min": 68,
-        "descartados_por_gancho": 18
+        "antiguedad_min": 40,
+        "descartados_por_gancho": 17
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 23,
+        "items": 25,
         "error": null,
-        "antiguedad_min": 17,
-        "descartados_por_gancho": 2
+        "antiguedad_min": 12,
+        "descartados_por_gancho": 0
       }
     ]
   }

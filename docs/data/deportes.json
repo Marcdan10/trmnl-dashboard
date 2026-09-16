@@ -1,26 +1,36 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "portadas",
-  "generado": "2026-09-16T09:04:39+02:00",
+  "modo": "ultimas",
+  "generado": "2026-09-16T14:41:17+02:00",
   "titulares": [
     {
-      "titular": "El probable once del Barça ante el Racing",
+      "titular": "\"Soy muy bueno en el uno contra uno\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-16T07:00:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260916/1004227617/probable-once-barca-racing.html"
+      "fecha": "2026-09-16T14:25:18+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-valladolid/20260916/1004227991/bueno.html"
     },
     {
-      "titular": "Atlético de Madrid - Osasuna: horario y dónde ver hoy el partido de LaLiga EA Sports por TV, online y en directo",
+      "titular": "Vicente del Bosque y Michele Kang lideran la lista de premiados del World Footbal Summit",
       "medios": [
-        "Sport"
+        "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/laliga/atletico-madrid-osasuna-horario-ver-134287138"
+      "fecha": "2026-09-16T14:18:38+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/femenino/20260916/1004227987/vicente-bosque-michele-kang-lideran-lista-premiados-world-footbal-summit.html"
+    },
+    {
+      "titular": "Impactante postura del Real Madrid con Mbappé, Vinicius y Konaté y la camiseta por Ceuta",
+      "medios": [
+        "Marca",
+        "Mundo Deportivo"
+      ],
+      "consenso": 2,
+      "fecha": "2026-09-16T08:08:42+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260916/1004227832/impactante-postura-real-madrid-mbappe-vinicius-konate-camiseta-ceuta.html"
     },
     {
       "titular": "La joya de 15 años que quiere escapar del United asombra a la prensa inglesa",
@@ -32,50 +42,41 @@
       "enlace": "https://www.marca.com/futbol/album/2026/09/16/portadas-dia.html"
     },
     {
-      "titular": "Así queda la clasificación de LaLiga tras el sufrido triunfo del Real Madrid en Elche",
+      "titular": "\"Un experto en sueño revela cómo saber si has dormido mal\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-15T23:27:29+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260915/1004227723/asi-queda-clasificacion-laliga-sufrido-triunfo-real-madrid-elche.html"
+      "fecha": "2026-09-16T14:18:17+02:00",
+      "enlace": "https://www.mundodeportivo.com/pulso/20260916/1004227989/eduard-estivill-experto-sueno-personas-no-duermen-mas-irritables-entrar-estados-decaimiento-tristeza-e-mini-depresiones-dct.html"
     },
     {
-      "titular": "Sebastià, padre de Rafa Nadal: \"Toni es mi hermano, pero lo primero es mi hijo. Toni a lo mejor no estaba contento, pero entendíamos que era beneficioso para Rafa\"",
-      "medios": [
-        "Sport"
-      ],
-      "consenso": 1,
-      "fecha": null,
-      "enlace": "https://www.sport.es/es/noticias/tenis/rafa-nadal-padre-toni-hermano-hijo-133633347"
-    },
-    {
-      "titular": "Elche 2-3 Real Madrid | Resumen",
-      "medios": [
-        "Marca",
-        "Mundo Deportivo"
-      ],
-      "consenso": 2,
-      "fecha": "2026-09-15T23:50:41+02:00",
-      "enlace": "https://www.marca.com/futbol/primera-division/2026/09/15/elche-2-3-real-madrid-resumen-video.html"
-    },
-    {
-      "titular": "2-3: Espí evita un tropezón del Real Madrid en Elche",
+      "titular": "Claudia Bavel comparte con sus seguidores las imágenes de su nueva vida en República Dominicana",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-15T23:34:58+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260915/1004227748/espi-evita-tropezon-real-madrid-elche.html"
+      "fecha": "2026-09-16T14:09:13+02:00",
+      "enlace": "https://www.mundodeportivo.com/elotromundo/gente/20260916/1004227986/claudia-bavel-comparte-seguidores-imagenes-vida-republica-dominicana-galeria-dct.html"
+    },
+    {
+      "titular": "\"Vengo a ser un hermano mayor en el vestuario\"",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-16T14:06:23+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/liga-segunda-division/20260916/1004227985/vengo-hermano-mayor-vestuario.html"
     }
   ],
   "salud": {
     "feeds_totales": 5,
-    "feeds_ok": 4,
+    "feeds_ok": 3,
     "feeds_caidos": [
+      "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 25,
+    "antiguedad_minima_min": 15,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +84,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 429,
+        "antiguedad_min": 766,
         "descartados_por_gancho": 8
       },
       {
@@ -99,19 +100,18 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 144,
+        "items": 148,
         "error": null,
-        "antiguedad_min": 25,
-        "descartados_por_gancho": 5
+        "antiguedad_min": 15,
+        "descartados_por_gancho": 4
       },
       {
         "medio": "Sport",
         "url": "https://www.sport.es/es/rss/last-news/news.xml",
-        "ok": true,
-        "items": 48,
-        "error": null,
-        "antiguedad_min": null,
-        "descartados_por_gancho": 1
+        "ok": false,
+        "items": 0,
+        "error": "HTTP 406",
+        "antiguedad_min": null
       },
       {
         "medio": "NBA",
