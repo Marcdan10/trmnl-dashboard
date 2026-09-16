@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-09-16T14:41:17+02:00",
+  "generado": "2026-09-16T19:25:01+02:00",
   "titulares": [
     {
-      "titular": "\"Soy muy bueno en el uno contra uno\"",
+      "titular": "Postecoglou planta cara por Cristiano: \"¿No hizo nada? Estás viendo otro partido\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-16T14:25:18+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-valladolid/20260916/1004227991/bueno.html"
+      "fecha": "2026-09-16T18:54:28+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/internacional/20260916/1004228092/postecoglou-planta-cara-cristiano-no-hizo-viendo-partido.html"
     },
     {
-      "titular": "Vicente del Bosque y Michele Kang lideran la lista de premiados del World Footbal Summit",
+      "titular": "Nuevos cambios en el banquillo del equipo femenino de la Real",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-16T14:18:38+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/femenino/20260916/1004227987/vicente-bosque-michele-kang-lideran-lista-premiados-world-footbal-summit.html"
+      "fecha": "2026-09-16T18:39:07+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-sociedad/20260916/1004228089/nuevos-cambios-banquillo-equipo-femenino-real.html"
     },
     {
       "titular": "Impactante postura del Real Madrid con Mbappé, Vinicius y Konaté y la camiseta por Ceuta",
@@ -42,31 +42,31 @@
       "enlace": "https://www.marca.com/futbol/album/2026/09/16/portadas-dia.html"
     },
     {
-      "titular": "\"Un experto en sueño revela cómo saber si has dormido mal\"",
+      "titular": "\"Alonso tenía el coche dañado en Madring pero decidió acabar la carrera por los aficionados\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-16T14:18:17+02:00",
-      "enlace": "https://www.mundodeportivo.com/pulso/20260916/1004227989/eduard-estivill-experto-sueno-personas-no-duermen-mas-irritables-entrar-estados-decaimiento-tristeza-e-mini-depresiones-dct.html"
+      "fecha": "2026-09-16T18:37:22+02:00",
+      "enlace": "https://www.mundodeportivo.com/motor/f1/20260916/1004228088/mike-krack-aston-martin-f1-alonso-tenia-coche-danado-madring-lejos-decidio-acabar-carrera-aficionados-quiero-agradecerle.html"
     },
     {
-      "titular": "Claudia Bavel comparte con sus seguidores las imágenes de su nueva vida en República Dominicana",
+      "titular": "Comunicado del Borussia Dortmund sobre Karetsas",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-16T14:09:13+02:00",
-      "enlace": "https://www.mundodeportivo.com/elotromundo/gente/20260916/1004227986/claudia-bavel-comparte-seguidores-imagenes-vida-republica-dominicana-galeria-dct.html"
+      "fecha": "2026-09-16T18:32:55+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/bundesliga/20260916/1004228083/comunicado-borussia-dortmund-sobre-karetsas.html"
     },
     {
-      "titular": "\"Vengo a ser un hermano mayor en el vestuario\"",
+      "titular": "Deportivo de A Coruña - Sevilla, en directo",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-16T14:06:23+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/liga-segunda-division/20260916/1004227985/vengo-hermano-mayor-vestuario.html"
+      "fecha": "2026-09-16T18:29:09+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/laliga/20260916/1004226144/deportivo-coruna-sevilla-directo-ultima-hora-partido-laliga-ea-sports.html"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 15,
+    "antiguedad_minima_min": 30,
     "detalle": [
       {
         "medio": "Marca",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 766,
+        "antiguedad_min": 1049,
         "descartados_por_gancho": 8
       },
       {
@@ -100,9 +100,9 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 148,
+        "items": 141,
         "error": null,
-        "antiguedad_min": 15,
+        "antiguedad_min": 30,
         "descartados_por_gancho": 4
       },
       {

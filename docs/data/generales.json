@@ -2,61 +2,61 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-09-16T14:41:14+02:00",
+  "generado": "2026-09-16T19:24:58+02:00",
   "titulares": [
     {
-      "titular": "El PSOE rechaza la propuesta de Bruselas de excluir los fertilizantes de la tasa verde para bajar los precios",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-16T14:28:32+02:00",
-      "enlace": "https://www.abc.es/economia/psoe-rechaza-propuesta-bruselas-excluir-fertilizantes-tasa-20260916133211-nt.html"
-    },
-    {
-      "titular": "La patronal se sube a la curva de Laffer y reclama bajar impuestos a empresas y rentas altas",
+      "titular": "Crisis en Ceuta y actualidad política, en directo | El Congreso aprueba el plan de 309 millones para Ceuta con el respaldo del PP",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-16T14:20:08+02:00",
-      "enlace": "https://elpais.com/economia/2026-09-16/la-patronal-se-sube-a-la-curva-de-laffer-y-reclama-bajar-impuestos-a-empresas-y-rentas-altas.html"
+      "fecha": "2026-09-16T19:16:29+02:00",
+      "enlace": "https://elpais.com/espana/2026-09-16/crisis-en-ceuta-y-actualidad-politica-en-directo.html"
     },
     {
-      "titular": "Madring repite fechas en el calendario de la Fórmula 1 para 2027: el Gran Premio de España será el 12 de septiembre",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-16T14:18:57+02:00",
-      "enlace": "https://elpais.com/deportes/formula-1/2026-09-16/madring-repite-fechas-en-el-calendario-de-la-formula-1-para-2027-el-gran-premio-de-espana-sera-el-12-de-septiembre.html"
-    },
-    {
-      "titular": "Detenidas dos personas más por el tiroteo mortal de Isla Cristina",
+      "titular": "Enrique Riquelme se lleva su fortuna a Panamá tras la macroperación de México",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-16T14:01:15+02:00",
-      "enlace": "https://www.abc.es/espana/andalucia/huelva/detenidas-dos-personas-tiroteo-mortal-isla-cristina-20260916101720-nts.html"
+      "fecha": "2026-09-16T19:11:29+02:00",
+      "enlace": "https://www.abc.es/sevilla/economia/enrique-riquelme-lleva-fortuna-panama-tras-macroperacion-20260916172453-nts.html"
     },
     {
-      "titular": "Detenido un segundo entrenador del Joventut de Badalona por acoso sexual a un menor",
+      "titular": "La UE ofrece a Canadá que sea su primer Estado asociado para crear una mini-OTAN sin Estados Unidos",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-16T19:11:17+02:00",
+      "enlace": "https://www.abc.es/internacional/von-der-leyen-ofrece-canada-primer-estado-20260916100735-nt.html"
+    },
+    {
+      "titular": "El PP apoya a Vox en una iniciativa del Congreso para rechazar a los menores de Ceuta en la Península",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-16T19:04:02+02:00",
+      "enlace": "https://elpais.com/espana/2026-09-16/el-pp-apoya-a-vox-en-una-iniciativa-del-congreso-para-rechazar-a-los-menores-de-ceuta-en-la-peninsula.html"
+    },
+    {
+      "titular": "“Las arquitecturas imposibles buscan despertar la curiosidad”: Así es el nuevo escaparate de Hermès en el paseo de Gràcia",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-16T14:00:15+02:00",
-      "enlace": "https://www.lavanguardia.com/local/barcelones-nord/20260916/11636341/detenido-segundo-entrenador-joventut-badalona-acoso-sexual-menor.html"
+      "fecha": "2026-09-16T18:33:52+02:00",
+      "enlace": "https://www.lavanguardia.com/magazine/casa/20260916/11635520/arquitecturas-escaparate-hermes-paseo-gracia-mesura.html"
     },
     {
-      "titular": "La jueza que procesó al hermano de Sánchez ve contactos de la trama de Leire Díez con el narcotráfico para actuar contra ella",
+      "titular": "El Gobierno activa la negociación de los presupuestos del 2027",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-16T13:57:52+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20260916/11636336/jueza-proceso-hermano-sanchez-ve-contactos-trama-leire-diez-narcotrafico-actuar.html"
+      "fecha": "2026-09-16T18:25:05+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20260916/11636531/gobierno-activa-negociacion-presupuestos-2027.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 12,
+    "antiguedad_minima_min": 8,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2245776,
+        "antiguedad_min": 2246059,
         "descartados_por_gancho": 0
       },
       {
@@ -97,19 +97,19 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 150,
+        "items": 153,
         "error": null,
-        "antiguedad_min": 21,
-        "descartados_por_gancho": 4
+        "antiguedad_min": 8,
+        "descartados_por_gancho": 2
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 120,
+        "items": 122,
         "error": null,
-        "antiguedad_min": 40,
-        "descartados_por_gancho": 17
+        "antiguedad_min": 51,
+        "descartados_por_gancho": 18
       },
       {
         "medio": "ABC",
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 12,
+        "antiguedad_min": 13,
         "descartados_por_gancho": 0
       }
     ]

@@ -2,34 +2,25 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-09-16T14:41:16+02:00",
+  "generado": "2026-09-16T19:25:00+02:00",
   "titulares": [
     {
-      "titular": "Mónaco 'limpia' su nombre: el paraíso de las fortunas, a un paso de salir de la lista del 'dinero sucio'",
+      "titular": "El Congreso tumba la ley de 'lobbies' y anula el nuevo registro de grupos de interés",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-16T14:10:13+02:00",
-      "enlace": "https://www.expansion.com/fiscal/2026/09/16/6aaa8723e5fdea797a8b4589.html"
+      "fecha": "2026-09-16T19:08:01+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/09/16/6aaa9e63e5fdea81118b4588.html"
     },
     {
-      "titular": "El Ibex tantea otra tregua antes de la Fed",
+      "titular": "Sánchez aprieta a los empresarios: exige una subida general de sueldos ante el alza del IPC",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-16T14:06:16+02:00",
-      "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/09/16/6aaa2ead468aeb06058b45a0.html"
-    },
-    {
-      "titular": "Amadeus acelera en el Ibex: Deutsche Bank eleva un 23% su valoración",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-16T14:06:12+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/09/16/6aaa4077e5fdea7f5a8b4592.html"
+      "fecha": "2026-09-16T18:33:28+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/09/16/6aaabc3ee5fdea9a078b4584.html"
     },
     {
       "titular": "Técnicas Reunidas se dispara en Bolsa con su recompra de acciones",
@@ -37,35 +28,44 @@
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-16T14:06:10+02:00",
+      "fecha": "2026-09-16T18:07:04+02:00",
       "enlace": "https://www.expansion.com/mercados/2026/09/16/6aaa7883e5fdea955a8b4583.html"
     },
     {
-      "titular": "Estos son los 50 mejores hoteles del mundo",
+      "titular": "Zurich aumenta un 26% su hucha para recompensar a Sabadell",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-16T13:37:31+02:00",
-      "enlace": "https://www.expansion.com/estilo-vida/viajes/2026/09/16/6aaa74d6e5fdea4a0d8b4573.html"
+      "fecha": "2026-09-16T17:50:36+02:00",
+      "enlace": "https://www.expansion.com/empresas/seguros/2026/09/16/6aa98347468aebf6148b45a2.html"
     },
     {
-      "titular": "El discreto encanto de la algarroba",
+      "titular": "Plan de choque histórico en REE para evitar que la red de luz colapse",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-16T13:26:18+02:00",
-      "enlace": "https://www.expansion.com/empresas/distribucion/2026/09/16/6aaa7b19e5fdea336a8b4597.html"
+      "fecha": "2026-09-16T17:47:50+02:00",
+      "enlace": "https://www.expansion.com/empresas/energia/2026/09/16/6aaab9abe5fdea21668b4588.html"
     },
     {
-      "titular": "El Panel de Funcas eleva la previsión de crecimiento de PIB para 2026 al 2,5%, pero empeora la inflación",
+      "titular": "El Ibex recupera los 19.600 puntos pendiente de la decisión de la Fed",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-16T13:06:43+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/09/16/6aaa7841468aeb81748b4581.html"
+      "fecha": "2026-09-16T17:39:01+02:00",
+      "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/09/16/6aaa2ead468aeb06058b45a0.html"
+    },
+    {
+      "titular": "La iniciativa de los directivos de la IA a favor de la seguridad provoca una fractura interna en OpenAI y Anthropic",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-16T17:04:23+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/09/16/6aaaafb5468aeb9f698b458a.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 31,
+    "antiguedad_minima_min": 16,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 68,
+        "items": 72,
         "error": null,
-        "antiguedad_min": 31,
+        "antiguedad_min": 16,
         "descartados_por_gancho": 1
       },
       {
