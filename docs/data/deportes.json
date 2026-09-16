@@ -1,26 +1,17 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "ultimas",
-  "generado": "2026-09-16T22:19:03+02:00",
+  "modo": "portadas",
+  "generado": "2026-09-17T01:06:36+02:00",
   "titulares": [
     {
-      "titular": "¡Raphinha hace el segundo de penalti!",
+      "titular": "Nueva exhibición de un Barça torrencial",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-16T21:54:33+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260916/1004226147/fc-barcelona-racing-santander-directo-laliga-ea-sports-primera-division.html"
-    },
-    {
-      "titular": "Simeone: \"Este partido no tiene relación con lo que pase en el derbi\"",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-16T21:51:44+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20260916/1004228171/simeone-partido-no-relacion-pase-derbi.html"
+      "fecha": "2026-09-16T23:35:09+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260916/1004228168/nueva-exhibicion-barca-torrencial.html"
     },
     {
       "titular": "La joya de 15 años que quiere escapar del United asombra a la prensa inglesa",
@@ -32,6 +23,15 @@
       "enlace": "https://www.marca.com/futbol/album/2026/09/16/portadas-dia.html"
     },
     {
+      "titular": "Flick: \"Es importante manejar los minutos antes del parón\"",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-16T21:02:24+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260916/1004228138/flick-racing.html"
+    },
+    {
       "titular": "\"¿Qué narices le pasa al Madrid?\"",
       "medios": [
         "Marca"
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/real-madrid/opinion/2026/09/16/espi-evita-ridiculo-mourinho.html"
     },
     {
-      "titular": "Mbappé rompe su silencio sobre la polémica con las camisetas de apoyo a Ceuta",
+      "titular": "Lamine se las verá con Salinas, objetivo del Barça en verano",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-16T21:51:43+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260916/1004228170/mbappe-explica-version-polemica-camisetas-elche.html"
+      "fecha": "2026-09-16T07:00:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260916/1004227466/lamine-vera-salinas-objetivo-barca-verano.html"
     },
     {
-      "titular": "Protecció Civil lo confirma con un aviso urgente para Barcelona: riesgo de inundaciones",
+      "titular": "\"El problema me parece obvio...\"",
       "medios": [
-        "Mundo Deportivo"
+        "Marca"
       ],
       "consenso": 1,
-      "fecha": "2026-09-16T21:40:48+02:00",
-      "enlace": "https://www.mundodeportivo.com/actualidad/20260916/1004228166/proteccio-civil-confirma-aviso-urgente-catalunya-alerta-desbordamiento-rios-e-inundaciones-dct.html"
+      "fecha": "2026-09-15T23:56:38+02:00",
+      "enlace": "https://www.marca.com/futbol/real-madrid/2026/09/15/mourinho-mi-unica-critica-matar-partidos.html"
     },
     {
-      "titular": "Oficial: suspendido el partido Levante-Athletic",
+      "titular": "Lamine ya tiene nuevo reto: 'la manita'",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-16T21:30:04+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/athletic-bilbao/20260916/1004228074/suspendido-partido-levante-athletic.html"
+      "fecha": "2026-09-16T07:00:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260916/1004227423/dsa.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 24,
+    "antiguedad_minima_min": 19,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 1223,
+        "antiguedad_min": 1391,
         "descartados_por_gancho": 8
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 139,
+        "items": 146,
         "error": null,
-        "antiguedad_min": 24,
-        "descartados_por_gancho": 6
+        "antiguedad_min": 19,
+        "descartados_por_gancho": 4
       },
       {
         "medio": "Sport",

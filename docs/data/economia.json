@@ -1,26 +1,17 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "ultimas",
-  "generado": "2026-09-16T22:19:02+02:00",
+  "modo": "portadas",
+  "generado": "2026-09-17T01:06:35+02:00",
   "titulares": [
     {
-      "titular": "DWS pone a la venta el centro comercial Diagonal Mar",
+      "titular": "Plan de choque histórico en REE para evitar que la red de luz colapse",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-16T21:39:50+02:00",
-      "enlace": "https://www.expansion.com/catalunya/2026/09/16/6aaaf083468aeb4c6f8b459d.html"
-    },
-    {
-      "titular": "Cofides se suma a Viserion en Elian con una inversión de 40 millones de euros",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-16T21:24:01+02:00",
-      "enlace": "https://www.expansion.com/catalunya/2026/09/16/6aaaebbae5fdea3c2b8b4575.html"
+      "fecha": "2026-09-16T17:47:50+02:00",
+      "enlace": "https://www.expansion.com/empresas/energia/2026/09/16/6aaab9abe5fdea21668b4588.html"
     },
     {
       "titular": "Portobello levanta 710 millones y cierra el mayor fondo de capital riesgo español",
@@ -41,15 +32,6 @@
       "enlace": "https://www.expansion.com/mercados/2026/09/16/6aaad639468aeb81748b458d.html"
     },
     {
-      "titular": "El Congreso tumba la ley de 'lobbies' y anula el nuevo registro de grupos de interés",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-16T19:08:01+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/09/16/6aaa9e63e5fdea81118b4588.html"
-    },
-    {
       "titular": "Sánchez aprieta a los empresarios: exige una subida general de sueldos ante el alza del IPC",
       "medios": [
         "Expansión"
@@ -59,13 +41,31 @@
       "enlace": "https://www.expansion.com/economia/2026/09/16/6aaabc3ee5fdea9a078b4584.html"
     },
     {
-      "titular": "Técnicas Reunidas se dispara en Bolsa con su recompra de acciones",
+      "titular": "Si no votan los 'nietos', se alejan las urnas",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-16T18:07:04+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/09/16/6aaa7883e5fdea955a8b4583.html"
+      "fecha": "2026-09-15T21:43:21+02:00",
+      "enlace": "https://www.expansion.com/opinion/2026/09/15/6aa99fae468aebba5e8b456f.html"
+    },
+    {
+      "titular": "Los multimillonarios de EEUU se alinean para financiar la campaña electoral republicana",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-16T15:46:53+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/09/16/6aaa9dae468aebaa758b457e.html"
+    },
+    {
+      "titular": "Cómo reaccionar en Bolsa al posible freno en la IA",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-16T08:34:50+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/09/16/6aa937e4468aebf92e8b4588.html"
     }
   ],
   "salud": {
@@ -78,7 +78,7 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 39,
+    "antiguedad_minima_min": 206,
     "detalle": [
       {
         "medio": "Expansión",
@@ -86,7 +86,7 @@
         "ok": true,
         "items": 71,
         "error": null,
-        "antiguedad_min": 39,
+        "antiguedad_min": 206,
         "descartados_por_gancho": 1
       },
       {

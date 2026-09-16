@@ -1,99 +1,99 @@
 {
   "ciudad": "Barcelona",
-  "generado": "2026-09-16T20:19:10",
+  "generado": "2026-09-16T23:06:41",
   "horas": [
-    {
-      "hora": "21",
-      "temp": 22,
-      "prob": 63,
-      "mm": 0.1,
-      "mostrar_prob": true,
-      "icono": "nube"
-    },
-    {
-      "hora": "22",
-      "temp": 22,
-      "prob": 85,
-      "mm": 0.3,
-      "mostrar_prob": true,
-      "icono": "lluvia"
-    },
-    {
-      "hora": "23",
-      "temp": 22,
-      "prob": 88,
-      "mm": 1.6,
-      "mostrar_prob": true,
-      "icono": "lluvia"
-    },
     {
       "hora": "00",
       "temp": 21,
-      "prob": 85,
-      "mm": 4.9,
+      "prob": 98,
+      "mm": 4.0,
       "mostrar_prob": true,
       "icono": "lluvia"
     },
     {
       "hora": "01",
       "temp": 21,
-      "prob": 80,
-      "mm": 3.9,
+      "prob": 90,
+      "mm": 2.3,
       "mostrar_prob": true,
       "icono": "lluvia"
     },
     {
       "hora": "02",
-      "temp": 20,
-      "prob": 73,
-      "mm": 2.2,
+      "temp": 21,
+      "prob": 60,
+      "mm": 0.4,
       "mostrar_prob": true,
       "icono": "lluvia"
     },
     {
       "hora": "03",
       "temp": 21,
-      "prob": 58,
-      "mm": 0.2,
+      "prob": 35,
+      "mm": 0,
       "mostrar_prob": true,
-      "icono": "lluvia"
+      "icono": "nube"
     },
     {
       "hora": "04",
       "temp": 21,
-      "prob": 63,
-      "mm": 0.1,
+      "prob": 35,
+      "mm": 0,
       "mostrar_prob": true,
       "icono": "nube"
     },
     {
       "hora": "05",
-      "temp": 20,
-      "prob": 65,
-      "mm": 0.2,
+      "temp": 21,
+      "prob": 43,
+      "mm": 0,
       "mostrar_prob": true,
       "icono": "nube"
     },
     {
       "hora": "06",
       "temp": 20,
-      "prob": 45,
-      "mm": 0.5,
+      "prob": 40,
+      "mm": 0.1,
       "mostrar_prob": true,
       "icono": "nube"
     },
     {
       "hora": "07",
       "temp": 20,
-      "prob": 38,
-      "mm": 0.1,
+      "prob": 43,
+      "mm": 0.2,
       "mostrar_prob": true,
       "icono": "nube"
     },
     {
       "hora": "08",
       "temp": 20,
-      "prob": 33,
+      "prob": 20,
+      "mm": 0,
+      "mostrar_prob": true,
+      "icono": "nube"
+    },
+    {
+      "hora": "09",
+      "temp": 21,
+      "prob": 10,
+      "mm": 0,
+      "mostrar_prob": true,
+      "icono": "nube"
+    },
+    {
+      "hora": "10",
+      "temp": 21,
+      "prob": 13,
+      "mm": 0,
+      "mostrar_prob": true,
+      "icono": "nube"
+    },
+    {
+      "hora": "11",
+      "temp": 22,
+      "prob": 20,
       "mm": 0,
       "mostrar_prob": true,
       "icono": "nube"
@@ -104,18 +104,18 @@
       "etiqueta": "jue 17",
       "max": 24,
       "min": 20,
-      "prob": 85,
-      "mm": 12.9,
+      "prob": 98,
+      "mm": 8.1,
       "mostrar_prob": true,
       "destacar": true,
       "icono": "lluvia"
     },
     {
       "etiqueta": "vie 18",
-      "max": 24,
+      "max": 23,
       "min": 19,
-      "prob": 40,
-      "mm": 2.4,
+      "prob": 48,
+      "mm": 3.0,
       "mostrar_prob": true,
       "destacar": false,
       "icono": "lluvia"
@@ -142,7 +142,7 @@
     },
     {
       "etiqueta": "lun 21",
-      "max": 34,
+      "max": 31,
       "min": 20,
       "prob": 0,
       "mm": 0,
@@ -174,7 +174,7 @@
   "aviso": {
     "activo": true,
     "alcance": "horas",
-    "texto": "Lluvia prevista a partir de las 23 h · 88%"
+    "texto": "Lluvia prevista a partir de las 00 h · 98%"
   },
   "atribucion": "Open-Meteo (CC BY 4.0)"
 }

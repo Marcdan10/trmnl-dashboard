@@ -1,8 +1,8 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "ultimas",
-  "generado": "2026-09-16T22:19:09+02:00",
+  "modo": "portadas",
+  "generado": "2026-09-17T01:06:41+02:00",
   "titulares": [
     {
       "titular": "El sector ve en la Ley una oportunidad, pero reclama ajustes antes de su aprobación",
@@ -14,13 +14,13 @@
       "enlace": "https://diariofarma.com/2026/09/16/el-sector-ve-en-la-ley-una-oportunidad-pero-reclama-ajustes-antes-de-su-aprobacion"
     },
     {
-      "titular": "El Congreso aprueba la Ley de dependencia con la sanidad como eje: \"Es la mayor reforma en décadas\"",
+      "titular": "Convenio de farmacia: FEFE niega el bloqueo y defiende que «su voluntad de negociar ha sido constante»",
       "medios": [
-        "Redacción Médica"
+        "El Global"
       ],
       "consenso": 1,
-      "fecha": "2026-09-16T19:35:48+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/20260916/el-congreso-aprueba-la-ley-de-dependencia-con-sanidad-como-eje-es-mayor-reforma-en-decadas/352883_0.html"
+      "fecha": "2026-09-16T16:47:48+02:00",
+      "enlace": "https://elglobalfarma.com/farmacia/convenio-farmacia-fefe-niega-bloqueo-asegura-negociar-constante/"
     },
     {
       "titular": "Los partidos, dispuestos a escuchar a los médicos en un intergrupo parlamentario para 'reescribir' el Estatuto Marco",
@@ -41,15 +41,6 @@
       "enlace": "https://diariofarma.com/2026/09/16/aragon-plantea-crear-una-nueva-ley-de-farmacia-en-esta-legislatura-con-la-mirada-puesta-en-el-ambito-rual"
     },
     {
-      "titular": "Convenio de farmacia: FEFE niega el bloqueo y defiende que «su voluntad de negociar ha sido constante»",
-      "medios": [
-        "El Global"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-16T16:47:48+02:00",
-      "enlace": "https://elglobalfarma.com/farmacia/convenio-farmacia-fefe-niega-bloqueo-asegura-negociar-constante/"
-    },
-    {
       "titular": "«Cada dosis cuenta»: los farmacéuticos ponen el foco en los Sistemas Personalizados de Dosificación",
       "medios": [
         "El Global"
@@ -59,13 +50,22 @@
       "enlace": "https://elglobalfarma.com/farmacia/cgcof-farmaceuticos-foco-sistemas-personalizados-dosificacion/"
     },
     {
-      "titular": "La Justicia tumba la orden que garantiza la atención de sanitarios que sepan euskera",
+      "titular": "Debate interno en el Comité de Huelga ante la propuesta del Foro de la Profesión Médica: \"Dependerá de los objetivos\"",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-09-16T18:52:40+02:00",
-      "enlace": "https://www.redaccionmedica.com/autonomias/20260916/la-justicia-tumba-la-orden-que-garantiza-atencion-de-sanitarios-sepan-euskera/352872_0.html"
+      "fecha": "2026-09-16T18:45:21+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20260916/debate-interno-en-el-comite-de-huelga-ante-la-propuesta-del-foro-profesion-medica-dependera-los-objetivos/352867_0.html"
+    },
+    {
+      "titular": "FEFE atribuye el parón en la negociación del convenio a los sindicatos y apuesta por seguir trabajando",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-16T16:58:48+02:00",
+      "enlace": "https://diariofarma.com/2026/09/16/fefe-atribuye-el-paron-en-la-negociacion-del-convenio-a-los-sindicatos-y-apuesta-por-seguir-trabajando"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 59,
+    "antiguedad_minima_min": 226,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 59,
+        "antiguedad_min": 226,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 331,
+        "antiguedad_min": 498,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 163,
+        "antiguedad_min": 330,
         "descartados_por_gancho": 0
       },
       {
