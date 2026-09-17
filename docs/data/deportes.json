@@ -2,16 +2,16 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-09-17T03:34:26+02:00",
+  "generado": "2026-09-17T09:01:13+02:00",
   "titulares": [
     {
-      "titular": "Nueva exhibición de un Barça torrencial",
+      "titular": "Adeyemi, números de vértigo para una noche de espectáculo",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-16T23:35:09+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260916/1004228168/nueva-exhibicion-barca-torrencial.html"
+      "fecha": "2026-09-17T08:54:21+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260917/1004228249/adeyemi-numeros-vertigo-noche-espectaculo.html"
     },
     {
       "titular": "La joya de 15 años que quiere escapar del United asombra a la prensa inglesa",
@@ -23,13 +23,13 @@
       "enlace": "https://www.marca.com/futbol/album/2026/09/16/portadas-dia.html"
     },
     {
-      "titular": "Flick: \"Es importante manejar los minutos antes del parón\"",
+      "titular": "El Barça de Flick es ya histórico",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-16T21:02:24+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260916/1004228138/flick-racing.html"
+      "fecha": "2026-09-17T00:21:39+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260917/1004228112/barca-flick-historico.html"
     },
     {
       "titular": "\"¿Qué narices le pasa al Madrid?\"",
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 159,
+    "antiguedad_minima_min": 6,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 1539,
+        "antiguedad_min": 1865,
         "descartados_por_gancho": 8
       },
       {
@@ -99,9 +99,9 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 146,
+        "items": 140,
         "error": null,
-        "antiguedad_min": 159,
+        "antiguedad_min": 6,
         "descartados_por_gancho": 4
       },
       {

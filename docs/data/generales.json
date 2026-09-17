@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-09-17T03:34:20+02:00",
+  "generado": "2026-09-17T09:01:10+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -23,7 +23,7 @@
       "enlace": "https://elpais.com/espana/madrid/2026-09-16/los-documentos-que-desmienten-la-acusacion-de-madrid-contra-el-denunciante-en-el-caso-ramon-y-cajal-evitad-anotarlos-como-preferentes.html"
     },
     {
-      "titular": "El temporal deja carreteras cortadas, calles inundadas y vuelos cancelados en Barcelona",
+      "titular": "Un muerto tras un violento temporal que ha colapsado el área metropolitana de Barcelona",
       "medios": [
         "La Vanguardia"
       ],
@@ -32,13 +32,13 @@
       "enlace": "https://www.lavanguardia.com/local/catalunya/20260916/11636537/intensas-lluvias-descargan-catalunya-dejan-fuerte-tormenta-granizo-girona.html"
     },
     {
-      "titular": "Rosa Montero: «Me interesa la autoficción, pero no puede ser lo único ni lo más valorado»",
+      "titular": "El Día D pudo acabar en desastre: el milagro que evitó que los nazis resistieran en Normandía",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-17T03:16:13+02:00",
-      "enlace": "https://www.abc.es/cultura/rosa-montero-interesa-autoficcion-puede-unico-valorado-20260916012048-nt.html"
+      "fecha": "2026-09-17T08:50:55+02:00",
+      "enlace": "https://www.abc.es/historia/dia-acaba-desastre-decision-eisenhower-pudo-costar-20260917012026-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -50,22 +50,22 @@
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
     },
     {
-      "titular": "La Comunidad de Madrid redobla sus ataques al cirujano que denunció las listas de espera: “Él mismo las manipuló para trabajar menos”",
+      "titular": "Feijóo se enroca con Vox y cierra la puerta a que ningún menor de Ceuta vaya a la Península",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-16T13:54:49+02:00",
-      "enlace": "https://elpais.com/espana/madrid/2026-09-16/la-comunidad-de-madrid-redobla-sus-ataques-al-cirujano-que-denuncio-las-listas-de-espera-el-mismo-las-manipulo-para-trabajar-menos.html"
+      "fecha": "2026-09-17T05:30:01+02:00",
+      "enlace": "https://elpais.com/espana/2026-09-17/feijoo-se-enroca-con-vox-y-cierra-la-puerta-a-que-ningun-menor-de-ceuta-vaya-la-peninsula.html"
     },
     {
-      "titular": "Una tromba de agua paraliza València, suspende los vuelos y obliga a aplazar el Levante-Athletic",
+      "titular": "València y la zona dana recuperan la normalidad tras una noche de pesadilla",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-16T23:20:32+02:00",
-      "enlace": "https://www.lavanguardia.com/local/valencia/20260916/11636656/tromba-agua-paraliza-valencia-suspende-vuelos-obliga-suspender-levante-atletic.html"
+      "fecha": "2026-09-17T08:21:21+02:00",
+      "enlace": "https://www.lavanguardia.com/local/valencia/20260917/11636887/valencia-zona-dana-recuperan-normalidad-noche-pesadilla.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 18,
+    "antiguedad_minima_min": 10,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2246549,
+        "antiguedad_min": 2246876,
         "descartados_por_gancho": 0
       },
       {
@@ -97,19 +97,19 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 152,
+        "items": 146,
         "error": null,
-        "antiguedad_min": 108,
-        "descartados_por_gancho": 2
+        "antiguedad_min": 29,
+        "descartados_por_gancho": 4
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 128,
+        "items": 117,
         "error": null,
-        "antiguedad_min": 176,
-        "descartados_por_gancho": 15
+        "antiguedad_min": 27,
+        "descartados_por_gancho": 16
       },
       {
         "medio": "ABC",
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 18,
+        "antiguedad_min": 10,
         "descartados_por_gancho": 0
       }
     ]

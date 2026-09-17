@@ -2,16 +2,16 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "portadas",
-  "generado": "2026-09-17T03:34:24+02:00",
+  "generado": "2026-09-17T09:01:12+02:00",
   "titulares": [
     {
-      "titular": "Las alarmas de la IA: qué preocupa a los laboratorios y quién se beneficia del debate",
+      "titular": "El fondo soberano más rentable prevé caídas en Bolsa",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-17T02:40:13+02:00",
-      "enlace": "https://www.expansion.com/tecnologia/innovacion/2026/09/17/6aaac8ece5fdea797a8b4597.html"
+      "fecha": "2026-09-17T00:06:39+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/09/17/6aab0e69e5fdea99608b458d.html"
     },
     {
       "titular": "El paso al frente de la Fed hace prever nuevas alzas de tipos",
@@ -23,6 +23,24 @@
       "enlace": "https://www.expansion.com/economia/2026/09/17/6aaaf95ce5fdea0a068b458d.html"
     },
     {
+      "titular": "El tráfico aéreo nacional vuelve a subir por el caos del AVE y pese a Ryanair",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-17T02:40:13+02:00",
+      "enlace": "https://www.expansion.com/empresas/transporte/2026/09/17/6aaadc83e5fdea797a8b45a1.html"
+    },
+    {
+      "titular": "La Primera de Expansión sobre Anthropic, OpenAI, Reserva Federal, lobbies, TikTok y Neuralink",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-17T07:25:00+02:00",
+      "enlace": "https://www.expansion.com/podcasts/la-primera-de-expansion/2026/09/17/6aab6dc3e5fdea1a5e8b456f.html"
+    },
+    {
       "titular": "Sabadell y Bankinter, los más generosos con sus directivos",
       "medios": [
         "Expansión"
@@ -30,15 +48,6 @@
       "consenso": 1,
       "fecha": "2026-09-17T02:40:14+02:00",
       "enlace": "https://www.expansion.com/empresas/banca/2026/09/17/6a32811ee5fdea7a028b4583.html"
-    },
-    {
-      "titular": "Santander será el proveedor exclusivo de servicios financieros de la CNMV",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-17T02:40:20+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/09/17/6aaae761468aebf1328b4571.html"
     },
     {
       "titular": "Los dividendos españoles y europeos que más van a crecer para paliar el alza de los tipos",
@@ -57,15 +66,6 @@
       "consenso": 1,
       "fecha": "2026-09-17T02:56:16+02:00",
       "enlace": "https://www.expansion.com/inversion/2026/09/17/6aaa9230e5fdeaf5798b4574.html"
-    },
-    {
-      "titular": "La Bolsa se adentra en la \"zona de peligro\"",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-17T02:56:17+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/09/17/6aaa8c3de5fdea1d428b45a2.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 37,
+    "antiguedad_minima_min": 25,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 68,
+        "items": 71,
         "error": null,
-        "antiguedad_min": 37,
+        "antiguedad_min": 25,
         "descartados_por_gancho": 0
       },
       {
