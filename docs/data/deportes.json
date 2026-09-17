@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-09-17T19:24:37+02:00",
+  "generado": "2026-09-17T22:27:29+02:00",
   "titulares": [
     {
-      "titular": "Netflix anuncia el estreno de 'Grande de España', su nueva miniserie con Antonio de la Torre y Alexandra Jiménez",
+      "titular": "Movistar ofrecerá por primera vez LaLiga Hypermotion para todos los aficionados",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-17T18:55:28+02:00",
-      "enlace": "https://www.mundodeportivo.com/elotromundo/television/20260917/1004228469/netflix-anuncia-estreno-grande-espana-nueva-miniserie-6-episodios-protagonizada-antonio-torre-alexandra-jimenez-llega-23-octubre-tvp-dct.html"
+      "fecha": "2026-09-17T21:51:09+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/20260917/1004228519/movistar-ofrecera-primera-vez-laliga-hypermotion-todos-aficionados.html"
     },
     {
-      "titular": "El seleccionador marroquí, Abde y Ceuta: \"Fue un desliz, una torpeza\"",
+      "titular": "Lotería Nacional jueves, en directo hoy: comprobar números y premios",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-17T18:54:45+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/20260917/1004228472/seleccionador-marroqui-abde-ceuta-desliz-torpeza.html"
+      "fecha": "2026-09-17T21:48:16+02:00",
+      "enlace": "https://www.mundodeportivo.com/actualidad/20260917/1004228032/loteria-nacional-jueves-directo-hoy-comprobar-numeros-premios-17-septiembre-smd.html"
     },
     {
       "titular": "La joya de 15 años que quiere escapar del United asombra a la prensa inglesa",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/real-madrid/opinion/2026/09/16/espi-evita-ridiculo-mourinho.html"
     },
     {
-      "titular": "Se obligará a los conductores a ceder el paso a los peatones aunque no haya paso de cebra",
+      "titular": "El PSG quiere blindar a otro de sus intocables",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-17T18:30:59+02:00",
-      "enlace": "https://www.mundodeportivo.com/actualidad/20260917/1004228452/oficial-gobierno-cambia-normas-partir-1-octubre-obligara-conductores-ceder-paso-peatones-no-haya-paso-cebra-calles-plataforma-unica-cmt-dct.html"
+      "fecha": "2026-09-17T21:45:16+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/ligue-1/20260917/1004228516/psg.html"
     },
     {
-      "titular": "Lista del Barça para el partido de Champions en Montpellier: nueva baja de última hora",
+      "titular": "Surrealista procedimiento del VAR en el Sao Paulo - Boca Juniors: \"Tu mueve, que yo te aviso\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-17T18:30:32+02:00",
-      "enlace": "https://www.mundodeportivo.com/balonmano/20260917/1004228466/lista-barca-partido-champions-montpellier-nueva-baja-ultima-hora.html"
+      "fecha": "2026-09-17T21:32:37+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/internacional/20260917/1004228517/surrealista-procedimiento-var-sao-paulo-boca-juniors-mueve-te-aviso.html"
     },
     {
-      "titular": "Real Betis - Getafe, en directo",
+      "titular": "1-0: Este Betis va como un cohete",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-17T18:30:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/laliga/20260917/1004228420/real-betis-getafe-partido-futbol-hoy-en-directo-laliga-ea-sports-ext-pau.html"
+      "fecha": "2026-09-17T21:20:55+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/laliga/20260917/1004228515/betis-cohete.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 29,
+    "antiguedad_minima_min": 36,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 2489,
+        "antiguedad_min": 2672,
         "descartados_por_gancho": 8
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 139,
+        "items": 137,
         "error": null,
-        "antiguedad_min": 29,
-        "descartados_por_gancho": 5
+        "antiguedad_min": 36,
+        "descartados_por_gancho": 7
       },
       {
         "medio": "Sport",

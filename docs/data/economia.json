@@ -2,8 +2,17 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-09-17T19:24:36+02:00",
+  "generado": "2026-09-17T22:27:27+02:00",
   "titulares": [
+    {
+      "titular": "St James's Place parece bien preparada para la fiesta de la IA en la gestión de patrimonios",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-17T19:48:23+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/09/17/6aac234f468aebfd098b4589.html"
+    },
     {
       "titular": "Sánchez ofrece la paz a los empresarios y acudirá a su gran cumbre en Madrid",
       "medios": [
@@ -57,15 +66,6 @@
       "consenso": 1,
       "fecha": "2026-09-17T17:54:02+02:00",
       "enlace": "https://www.expansion.com/tecnologia/companias/2026/09/17/6aac0d15e5fdeabd108b458e.html"
-    },
-    {
-      "titular": "El Ibex supera los 19.800 puntos aupado por Wall Street y la caída del petróleo",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-17T17:38:35+02:00",
-      "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/09/17/6aab8064e5fdea855c8b4584.html"
     }
   ],
   "salud": {
@@ -78,16 +78,16 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 18,
+    "antiguedad_minima_min": 159,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 80,
+        "items": 79,
         "error": null,
-        "antiguedad_min": 18,
-        "descartados_por_gancho": 0
+        "antiguedad_min": 159,
+        "descartados_por_gancho": 1
       },
       {
         "medio": "Cinco Días",
@@ -126,7 +126,7 @@
         "url": "https://www.bde.es/wbe/es/rss/noticias.xml",
         "ok": false,
         "items": 0,
-        "error": "HTTP 503",
+        "error": "HTTP 404",
         "antiguedad_min": null
       }
     ]

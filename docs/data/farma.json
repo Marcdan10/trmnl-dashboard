@@ -2,16 +2,25 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "ultimas",
-  "generado": "2026-09-17T19:24:43+02:00",
+  "generado": "2026-09-17T22:27:35+02:00",
   "titulares": [
     {
-      "titular": "Josep Maria Nicolàs, decano de la Facultad de Medicina de la Universitat de Barcelona",
+      "titular": "“Con la Ley de Listas de Espera será mucho más difícil tener una ‘caja B’ donde guardar pacientes”",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-09-17T18:00:28+02:00",
-      "enlace": "https://www.redaccionmedica.com/autonomias/catalunya/20260917/josep-maria-nicolas-decano-de-la-facultad-medicina-universitat-barcelona/352997_0.html"
+      "fecha": "2026-09-17T22:10:37+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/ministerio-sanidad/20260917/con-la-ley-de-listas-espera-sera-mucho-mas-dificil-tener-una-caja-donde-guardar-pacientes/352990_0.html"
+    },
+    {
+      "titular": "García reitera que la presión asistencial se mantiene estable en Ceuta con una ocupación del 53%: \"Ningún dato avala el colapso\"",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-17T19:56:04+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/20260917/garcia-reitera-que-la-presion-asistencial-se-mantiene-estable-en-ceuta-con-una-ocupacion-del-ningun-dato-avala-el-colapso/353050_0.html"
     },
     {
       "titular": "Eisai busca vías con las autoridades para incorporar las terapias frente al Alzheimer en el SNS",
@@ -21,15 +30,6 @@
       "consenso": 1,
       "fecha": "2026-09-17T17:53:28+02:00",
       "enlace": "https://diariofarma.com/2026/09/17/eisai-busca-vias-con-las-autoridades-para-incorporar-las-terapias-frente-al-alzheimer-en-el-sns"
-    },
-    {
-      "titular": "Vacunación, atención a vulnerables y cambio de sedes: el balance de la visita de Sanidad a Ceuta",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-17T17:45:20+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/20260917/vacunacion-atencion-vulnerables-cambio-de-sedes-el-balance-la-visita-sanidad-ceuta/352941_0.html"
     },
     {
       "titular": "La vacunación gripal reduce hasta un 45% el riesgo de sufrir un infarto de miocardio, según la AEV",
@@ -59,13 +59,13 @@
       "enlace": "https://elglobalfarma.com/farmacia/el-premio-fundacion-cofares-alcanza-los-40-000-euros-en-su-xxvi-edicion/"
     },
     {
-      "titular": "Pané y los médicos catalanes retoman el diálogo tras un año de bloqueo sin lograr frenar la huelga",
+      "titular": "Josep Maria Nicolàs, decano de la Facultad de Medicina de la Universitat de Barcelona",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-09-17T17:41:41+02:00",
-      "enlace": "https://www.redaccionmedica.com/autonomias/catalunya/20260917/pane-los-medicos-catalanes-retoman-el-dialogo-tras-un-ano-de-bloqueo-sin-lograr-frenar-la-huelga/352991_0.html"
+      "fecha": "2026-09-17T18:00:28+02:00",
+      "enlace": "https://www.redaccionmedica.com/autonomias/catalunya/20260917/josep-maria-nicolas-decano-de-la-facultad-medicina-universitat-barcelona/352997_0.html"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 84,
+    "antiguedad_minima_min": 16,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 91,
+        "antiguedad_min": 274,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 155,
+        "antiguedad_min": 338,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 84,
+        "antiguedad_min": 16,
         "descartados_por_gancho": 0
       },
       {

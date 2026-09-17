@@ -2,61 +2,61 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-09-17T19:24:33+02:00",
+  "generado": "2026-09-17T22:27:24+02:00",
   "titulares": [
     {
-      "titular": "Las obras para regenerar el puente de Vallecas comenzarán en octubre, con más pasos de peatones y zonas verdes",
+      "titular": "Leire aclarará que le entregó a Mercedes González un expediente para restituir al guardia civil imputado por Koldo",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-17T19:09:49+02:00",
-      "enlace": "https://www.abc.es/espana/madrid/luz-verde-obras-bajo-puente-vallecas-pasos-20260917140240-nt.html"
+      "fecha": "2026-09-17T22:08:51+02:00",
+      "enlace": "https://www.abc.es/espana/leire-diez-aclarara-ante-juez-entrego-mercedes-20260917212846-nt.html"
     },
     {
-      "titular": "Luis Millares: «Dos kiwis una hora antes de dormir ayudan a quedarte dormido más rápido»",
+      "titular": "Navantia entrega de tapadillo un barco de guerra a la Marina Real de Marruecos",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-17T19:08:03+02:00",
-      "enlace": "https://www.abc.es/bienestar/alimentacion/luis-millares-nutricionista-tomar-dos-kiwis-hora-20260916190803-nt.html"
+      "fecha": "2026-09-17T22:03:02+02:00",
+      "enlace": "https://www.abc.es/espana/navantia-entrega-sotto-voce-barco-guerra-marina-20260917115559-nt.html"
     },
     {
-      "titular": "“Los hispanos se sienten traicionados”: la congresista republicana Salazar rompe con Trump por su ofensiva migratoria",
+      "titular": "El Betis gana al Getafe y agarra la tercera plaza",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-17T19:06:17+02:00",
-      "enlace": "https://elpais.com/us/migracion/2026-09-17/los-hispanos-se-sienten-traicionados-la-congresista-salazar-rompe-con-trump-por-su-ofensiva-migratoria-en-un-anuncio-de-campana.html"
+      "fecha": "2026-09-17T21:38:29+02:00",
+      "enlace": "https://elpais.com/deportes/futbol/2026-09-17/el-betis-gana-al-getafe-y-agarra-la-tercera-plaza.html"
     },
     {
-      "titular": "Las mujeres pierden poder en un mundo cada vez más hostil a la igualdad, según la ONU",
+      "titular": "Robles afirma que el Ejército defenderá siempre “la convivencia, la tolerancia y el respeto” en Ceuta y Melilla",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-17T19:01:58+02:00",
-      "enlace": "https://elpais.com/planeta-futuro/2026-09-17/las-mujeres-pierden-poder-en-un-mundo-cada-vez-mas-hostil-a-la-igualdad-segun-la-onu.html"
+      "fecha": "2026-09-17T21:33:13+02:00",
+      "enlace": "https://elpais.com/espana/2026-09-17/robles-afirma-que-el-ejercito-defendera-siempre-la-convivencia-la-tolerancia-y-el-respeto-en-ceuta-y-melilla.html"
     },
     {
-      "titular": "Citan como testigo del caso 'Les Naus' al edil que Barcala 'sacrificó para pactar con Vox",
+      "titular": "Rexach, una vida de servicio al Barça y al fútbol",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-17T18:19:05+02:00",
-      "enlace": "https://www.lavanguardia.com/local/valencia/20260917/11637466/citan-testigo-caso-les-naus-edil-barcala-sacrifico-pactar-vox.html"
+      "fecha": "2026-09-17T21:06:00+02:00",
+      "enlace": "https://www.lavanguardia.com/deportes/20260917/11637555/rexach-vida-servicio-barca-futbol.html"
     },
     {
-      "titular": "Millie Bobby Brown y Jake Bongiovi dan la bienvenida a su segundo hijo",
+      "titular": "Abascal aparca en Catalunya el discurso ‘antiprocés’ y se centra en la inmigración",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-17T18:17:09+02:00",
-      "enlace": "https://www.lavanguardia.com/gente/20260917/11637469/millie-bobby-brown-jake-bongiovi-dan-bienvenida-segundo-hijo.html"
+      "fecha": "2026-09-17T20:48:10+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20260917/11637541/abascal-aparca-catalunya-discurso-antiproces-centra-inmigracion.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 14,
+    "antiguedad_minima_min": 18,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2247499,
+        "antiguedad_min": 2247682,
         "descartados_por_gancho": 0
       },
       {
@@ -99,26 +99,26 @@
         "ok": true,
         "items": 151,
         "error": null,
-        "antiguedad_min": 18,
+        "antiguedad_min": 48,
         "descartados_por_gancho": 4
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 129,
+        "items": 131,
         "error": null,
-        "antiguedad_min": 65,
+        "antiguedad_min": 81,
         "descartados_por_gancho": 13
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 25,
+        "items": 24,
         "error": null,
-        "antiguedad_min": 14,
-        "descartados_por_gancho": 0
+        "antiguedad_min": 18,
+        "descartados_por_gancho": 1
       }
     ]
   }
