@@ -2,70 +2,70 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "portadas",
-  "generado": "2026-09-17T01:06:35+02:00",
+  "generado": "2026-09-17T03:34:24+02:00",
   "titulares": [
     {
-      "titular": "Plan de choque histórico en REE para evitar que la red de luz colapse",
+      "titular": "Las alarmas de la IA: qué preocupa a los laboratorios y quién se beneficia del debate",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-16T17:47:50+02:00",
-      "enlace": "https://www.expansion.com/empresas/energia/2026/09/16/6aaab9abe5fdea21668b4588.html"
+      "fecha": "2026-09-17T02:40:13+02:00",
+      "enlace": "https://www.expansion.com/tecnologia/innovacion/2026/09/17/6aaac8ece5fdea797a8b4597.html"
     },
     {
-      "titular": "Portobello levanta 710 millones y cierra el mayor fondo de capital riesgo español",
+      "titular": "El paso al frente de la Fed hace prever nuevas alzas de tipos",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-16T20:15:51+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/09/16/6aaadcbfe5fdea99608b4582.html"
+      "fecha": "2026-09-17T02:31:33+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/09/17/6aaaf95ce5fdea0a068b458d.html"
     },
     {
-      "titular": "La Fed desafía a Trump y sube tipos, por primera vez en tres años, al 4%",
+      "titular": "Sabadell y Bankinter, los más generosos con sus directivos",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-16T20:00:35+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/09/16/6aaad639468aeb81748b458d.html"
+      "fecha": "2026-09-17T02:40:14+02:00",
+      "enlace": "https://www.expansion.com/empresas/banca/2026/09/17/6a32811ee5fdea7a028b4583.html"
     },
     {
-      "titular": "Sánchez aprieta a los empresarios: exige una subida general de sueldos ante el alza del IPC",
+      "titular": "Santander será el proveedor exclusivo de servicios financieros de la CNMV",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-16T18:33:28+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/09/16/6aaabc3ee5fdea9a078b4584.html"
+      "fecha": "2026-09-17T02:40:20+02:00",
+      "enlace": "https://www.expansion.com/empresas/banca/2026/09/17/6aaae761468aebf1328b4571.html"
     },
     {
-      "titular": "Si no votan los 'nietos', se alejan las urnas",
+      "titular": "Los dividendos españoles y europeos que más van a crecer para paliar el alza de los tipos",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-15T21:43:21+02:00",
-      "enlace": "https://www.expansion.com/opinion/2026/09/15/6aa99fae468aebba5e8b456f.html"
+      "fecha": "2026-09-16T20:54:41+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/09/16/6aaab642468aeb03598b45ad.html"
     },
     {
-      "titular": "Los multimillonarios de EEUU se alinean para financiar la campaña electoral republicana",
+      "titular": "Los valores rezagados del Ibex con más gancho para invertir",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-16T15:46:53+02:00",
-      "enlace": "https://www.expansion.com/economia/financial-times/2026/09/16/6aaa9dae468aebaa758b457e.html"
+      "fecha": "2026-09-17T02:56:16+02:00",
+      "enlace": "https://www.expansion.com/inversion/2026/09/17/6aaa9230e5fdeaf5798b4574.html"
     },
     {
-      "titular": "Cómo reaccionar en Bolsa al posible freno en la IA",
+      "titular": "La Bolsa se adentra en la \"zona de peligro\"",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-16T08:34:50+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/09/16/6aa937e4468aebf92e8b4588.html"
+      "fecha": "2026-09-17T02:56:17+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/09/17/6aaa8c3de5fdea1d428b45a2.html"
     }
   ],
   "salud": {
@@ -78,16 +78,16 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 206,
+    "antiguedad_minima_min": 37,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 71,
+        "items": 68,
         "error": null,
-        "antiguedad_min": 206,
-        "descartados_por_gancho": 1
+        "antiguedad_min": 37,
+        "descartados_por_gancho": 0
       },
       {
         "medio": "Cinco Días",
