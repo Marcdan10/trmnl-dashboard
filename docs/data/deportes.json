@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-09-17T14:40:14+02:00",
+  "generado": "2026-09-17T19:24:37+02:00",
   "titulares": [
     {
-      "titular": "Adrián Conde, veterinario: \"Algo tan sencillo como añadir agua al pienso de tu perro o de tu gato mejora su salud\"",
+      "titular": "Netflix anuncia el estreno de 'Grande de España', su nueva miniserie con Antonio de la Torre y Alexandra Jiménez",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-17T14:06:30+02:00",
-      "enlace": "https://www.mundodeportivo.com/elotromundo/mascotas/20260917/1004228353/adrian-conde-veterinario-sencillo-anadir-agua-pienso-perro-gato-mejora-salud-pjm-dct.html"
+      "fecha": "2026-09-17T18:55:28+02:00",
+      "enlace": "https://www.mundodeportivo.com/elotromundo/television/20260917/1004228469/netflix-anuncia-estreno-grande-espana-nueva-miniserie-6-episodios-protagonizada-antonio-torre-alexandra-jimenez-llega-23-octubre-tvp-dct.html"
     },
     {
-      "titular": "Alcaraz se queda sin su revancha con Shelton en la Laver Cup",
+      "titular": "El seleccionador marroquí, Abde y Ceuta: \"Fue un desliz, una torpeza\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-17T14:00:59+02:00",
-      "enlace": "https://www.mundodeportivo.com/tenis/20260917/1004228374/shelton-no-reencontrara-alcaraz-laver-cup.html"
+      "fecha": "2026-09-17T18:54:45+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/20260917/1004228472/seleccionador-marroqui-abde-ceuta-desliz-torpeza.html"
     },
     {
       "titular": "La joya de 15 años que quiere escapar del United asombra a la prensa inglesa",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/real-madrid/opinion/2026/09/16/espi-evita-ridiculo-mourinho.html"
     },
     {
-      "titular": "La Rojita arrasa, el mercado se mueve y una polémica que traspasa el deporte",
+      "titular": "Se obligará a los conductores a ceder el paso a los peatones aunque no haya paso de cebra",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-17T13:59:11+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/femenino/20260917/1004228321/rojita-arrasa-mercado-mueve-polemica-traspasa-deporte.html"
+      "fecha": "2026-09-17T18:30:59+02:00",
+      "enlace": "https://www.mundodeportivo.com/actualidad/20260917/1004228452/oficial-gobierno-cambia-normas-partir-1-octubre-obligara-conductores-ceder-paso-peatones-no-haya-paso-cebra-calles-plataforma-unica-cmt-dct.html"
     },
     {
-      "titular": "\"No es lo mismo que tener la energía suficiente que tu organismo necesita\"",
+      "titular": "Lista del Barça para el partido de Champions en Montpellier: nueva baja de última hora",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-17T13:58:32+02:00",
-      "enlace": "https://www.mundodeportivo.com/running/20260917/1004228357/energia-terminar-entrenamiento-esta-claudio-nieto-experto-rendimiento-aclara-no-energia-suficiente-organismo-necesita-dct.html"
+      "fecha": "2026-09-17T18:30:32+02:00",
+      "enlace": "https://www.mundodeportivo.com/balonmano/20260917/1004228466/lista-barca-partido-champions-montpellier-nueva-baja-ultima-hora.html"
     },
     {
-      "titular": "Comunicado de la presidenta del Eldense por la llegada de Messi",
+      "titular": "Real Betis - Getafe, en directo",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-17T13:58:21+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/20260917/1004228373/comunicado-presidenta-eldense-llegada-messi.html"
+      "fecha": "2026-09-17T18:30:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/laliga/20260917/1004228420/real-betis-getafe-partido-futbol-hoy-en-directo-laliga-ea-sports-ext-pau.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 33,
+    "antiguedad_minima_min": 29,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 2204,
+        "antiguedad_min": 2489,
         "descartados_por_gancho": 8
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 140,
+        "items": 139,
         "error": null,
-        "antiguedad_min": 33,
-        "descartados_por_gancho": 4
+        "antiguedad_min": 29,
+        "descartados_por_gancho": 5
       },
       {
         "medio": "Sport",
