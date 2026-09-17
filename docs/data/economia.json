@@ -1,71 +1,71 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "portadas",
-  "generado": "2026-09-17T09:01:12+02:00",
+  "modo": "ultimas",
+  "generado": "2026-09-17T14:40:13+02:00",
   "titulares": [
     {
-      "titular": "El fondo soberano más rentable prevé caídas en Bolsa",
+      "titular": "Cómo ganar en la Bolsa española más allá de los bancos",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-17T00:06:39+02:00",
-      "enlace": "https://www.expansion.com/economia/financial-times/2026/09/17/6aab0e69e5fdea99608b458d.html"
+      "fecha": "2026-09-17T14:07:33+02:00",
+      "enlace": "https://www.expansion.com/podcasts/en-accion/2026/09/17/6aaba466e5fdea7b558b456f.html"
     },
     {
-      "titular": "El paso al frente de la Fed hace prever nuevas alzas de tipos",
+      "titular": "El Parlamento Europeo define la crisis de Ceuta como \"invasión\" pese al voto en contra de los socialistas",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-17T02:31:33+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/09/17/6aaaf95ce5fdea0a068b458d.html"
+      "fecha": "2026-09-17T13:57:36+02:00",
+      "enlace": "https://www.expansion.com/economia/politica/2026/09/17/6aabd5aae5fdeac1528b45a1.html"
     },
     {
-      "titular": "El tráfico aéreo nacional vuelve a subir por el caos del AVE y pese a Ryanair",
+      "titular": "El bitcoin resiste la embestida de la Fed",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-17T02:40:13+02:00",
-      "enlace": "https://www.expansion.com/empresas/transporte/2026/09/17/6aaadc83e5fdea797a8b45a1.html"
+      "fecha": "2026-09-17T13:49:14+02:00",
+      "enlace": "https://www.expansion.com/mercados/criptomonedas/2026/09/17/6aabaa75e5fdea92728b458a.html"
     },
     {
-      "titular": "La Primera de Expansión sobre Anthropic, OpenAI, Reserva Federal, lobbies, TikTok y Neuralink",
+      "titular": "El Banco de Inglaterra mantiene tipos en el 3,75%, pero alerta de subidas por la volatilidad",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-17T07:25:00+02:00",
-      "enlace": "https://www.expansion.com/podcasts/la-primera-de-expansion/2026/09/17/6aab6dc3e5fdea1a5e8b456f.html"
+      "fecha": "2026-09-17T13:44:28+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/09/17/6aabd15e468aeb7b188b4581.html"
     },
     {
-      "titular": "Sabadell y Bankinter, los más generosos con sus directivos",
+      "titular": "Sanitas paga casi 4 millones a su ex CEO Iñaki Peralta",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-17T02:40:14+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/09/17/6a32811ee5fdea7a028b4583.html"
+      "fecha": "2026-09-17T13:29:10+02:00",
+      "enlace": "https://www.expansion.com/empresas/seguros/2026/09/17/6aaad751468aeba0728b45a3.html"
     },
     {
-      "titular": "Los dividendos españoles y europeos que más van a crecer para paliar el alza de los tipos",
+      "titular": "El Ibex no se deja intimidar por la Fed",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-16T20:54:41+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/09/16/6aaab642468aeb03598b45ad.html"
+      "fecha": "2026-09-17T13:24:29+02:00",
+      "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/09/17/6aab8064e5fdea855c8b4584.html"
     },
     {
-      "titular": "Los valores rezagados del Ibex con más gancho para invertir",
+      "titular": "Los hackers exigen a Revolut un rescate de tres millones de dólares para no filtrar los datos de los clientes",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-17T02:56:16+02:00",
-      "enlace": "https://www.expansion.com/inversion/2026/09/17/6aaa9230e5fdeaf5798b4574.html"
+      "fecha": "2026-09-17T13:10:52+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/09/17/6aabc9e7468aeb7b378b4589.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 25,
+    "antiguedad_minima_min": 32,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 71,
+        "items": 77,
         "error": null,
-        "antiguedad_min": 25,
+        "antiguedad_min": 32,
         "descartados_por_gancho": 0
       },
       {

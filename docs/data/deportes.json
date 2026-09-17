@@ -1,17 +1,26 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "portadas",
-  "generado": "2026-09-17T09:01:13+02:00",
+  "modo": "ultimas",
+  "generado": "2026-09-17T14:40:14+02:00",
   "titulares": [
     {
-      "titular": "Adeyemi, números de vértigo para una noche de espectáculo",
+      "titular": "Adrián Conde, veterinario: \"Algo tan sencillo como añadir agua al pienso de tu perro o de tu gato mejora su salud\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-17T08:54:21+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260917/1004228249/adeyemi-numeros-vertigo-noche-espectaculo.html"
+      "fecha": "2026-09-17T14:06:30+02:00",
+      "enlace": "https://www.mundodeportivo.com/elotromundo/mascotas/20260917/1004228353/adrian-conde-veterinario-sencillo-anadir-agua-pienso-perro-gato-mejora-salud-pjm-dct.html"
+    },
+    {
+      "titular": "Alcaraz se queda sin su revancha con Shelton en la Laver Cup",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-17T14:00:59+02:00",
+      "enlace": "https://www.mundodeportivo.com/tenis/20260917/1004228374/shelton-no-reencontrara-alcaraz-laver-cup.html"
     },
     {
       "titular": "La joya de 15 años que quiere escapar del United asombra a la prensa inglesa",
@@ -23,15 +32,6 @@
       "enlace": "https://www.marca.com/futbol/album/2026/09/16/portadas-dia.html"
     },
     {
-      "titular": "El Barça de Flick es ya histórico",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-17T00:21:39+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260917/1004228112/barca-flick-historico.html"
-    },
-    {
       "titular": "\"¿Qué narices le pasa al Madrid?\"",
       "medios": [
         "Marca"
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/real-madrid/opinion/2026/09/16/espi-evita-ridiculo-mourinho.html"
     },
     {
-      "titular": "Lamine se las verá con Salinas, objetivo del Barça en verano",
+      "titular": "La Rojita arrasa, el mercado se mueve y una polémica que traspasa el deporte",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-16T07:00:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260916/1004227466/lamine-vera-salinas-objetivo-barca-verano.html"
+      "fecha": "2026-09-17T13:59:11+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/femenino/20260917/1004228321/rojita-arrasa-mercado-mueve-polemica-traspasa-deporte.html"
     },
     {
-      "titular": "\"El problema me parece obvio...\"",
-      "medios": [
-        "Marca"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-15T23:56:38+02:00",
-      "enlace": "https://www.marca.com/futbol/real-madrid/2026/09/15/mourinho-mi-unica-critica-matar-partidos.html"
-    },
-    {
-      "titular": "Lamine ya tiene nuevo reto: 'la manita'",
+      "titular": "\"No es lo mismo que tener la energía suficiente que tu organismo necesita\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-16T07:00:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260916/1004227423/dsa.html"
+      "fecha": "2026-09-17T13:58:32+02:00",
+      "enlace": "https://www.mundodeportivo.com/running/20260917/1004228357/energia-terminar-entrenamiento-esta-claudio-nieto-experto-rendimiento-aclara-no-energia-suficiente-organismo-necesita-dct.html"
+    },
+    {
+      "titular": "Comunicado de la presidenta del Eldense por la llegada de Messi",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-17T13:58:21+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/20260917/1004228373/comunicado-presidenta-eldense-llegada-messi.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 6,
+    "antiguedad_minima_min": 33,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 1865,
+        "antiguedad_min": 2204,
         "descartados_por_gancho": 8
       },
       {
@@ -101,7 +101,7 @@
         "ok": true,
         "items": 140,
         "error": null,
-        "antiguedad_min": 6,
+        "antiguedad_min": 33,
         "descartados_por_gancho": 4
       },
       {
