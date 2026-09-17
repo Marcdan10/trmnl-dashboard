@@ -1,63 +1,9 @@
 {
   "pantalla": "generales",
   "titulo": "Titulares",
-  "modo": "ultimas",
-  "generado": "2026-09-17T22:27:24+02:00",
+  "modo": "portadas",
+  "generado": "2026-09-18T00:58:34+02:00",
   "titulares": [
-    {
-      "titular": "Leire aclarará que le entregó a Mercedes González un expediente para restituir al guardia civil imputado por Koldo",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-17T22:08:51+02:00",
-      "enlace": "https://www.abc.es/espana/leire-diez-aclarara-ante-juez-entrego-mercedes-20260917212846-nt.html"
-    },
-    {
-      "titular": "Navantia entrega de tapadillo un barco de guerra a la Marina Real de Marruecos",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-17T22:03:02+02:00",
-      "enlace": "https://www.abc.es/espana/navantia-entrega-sotto-voce-barco-guerra-marina-20260917115559-nt.html"
-    },
-    {
-      "titular": "El Betis gana al Getafe y agarra la tercera plaza",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-17T21:38:29+02:00",
-      "enlace": "https://elpais.com/deportes/futbol/2026-09-17/el-betis-gana-al-getafe-y-agarra-la-tercera-plaza.html"
-    },
-    {
-      "titular": "Robles afirma que el Ejército defenderá siempre “la convivencia, la tolerancia y el respeto” en Ceuta y Melilla",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-17T21:33:13+02:00",
-      "enlace": "https://elpais.com/espana/2026-09-17/robles-afirma-que-el-ejercito-defendera-siempre-la-convivencia-la-tolerancia-y-el-respeto-en-ceuta-y-melilla.html"
-    },
-    {
-      "titular": "Rexach, una vida de servicio al Barça y al fútbol",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-17T21:06:00+02:00",
-      "enlace": "https://www.lavanguardia.com/deportes/20260917/11637555/rexach-vida-servicio-barca-futbol.html"
-    },
-    {
-      "titular": "Abascal aparca en Catalunya el discurso ‘antiprocés’ y se centra en la inmigración",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-17T20:48:10+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20260917/11637541/abascal-aparca-catalunya-discurso-antiproces-centra-inmigracion.html"
-    },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
       "medios": [
@@ -66,6 +12,61 @@
       "consenso": 1,
       "fecha": "2022-06-10T01:05:00+02:00",
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
+    },
+    {
+      "titular": "La Audiencia Nacional autoriza las carpas para migrantes en el puerto de Ceuta",
+      "medios": [
+        "El País",
+        "La Vanguardia"
+      ],
+      "consenso": 2,
+      "fecha": "2026-09-17T14:29:52+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20260917/11637298/audiencia-nacional-rechaza-paralizar-instalacion-carpas-puerto-ceuta.html"
+    },
+    {
+      "titular": "El Gobierno de Ayuso reconoce ahora que el ático de 6,3 millones iba a usarse para “alojamiento ocasional de autoridades de la Comunidad”",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-17T16:19:04+02:00",
+      "enlace": "https://elpais.com/espana/madrid/2026-09-17/nadie-compra-el-atico-por-el-que-el-gobierno-de-ayuso-pago-63-millones-de-euros-la-subasta-queda-desierta.html"
+    },
+    {
+      "titular": "Vladímir Sorokin: «La Europa ilustrada no dejará los museos en manos de los idiotas»",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-18T00:41:48+02:00",
+      "enlace": "https://www.abc.es/cultura/vladimir-sorokin-europa-ilustrada-dejara-museos-manos-20260917130641-nt.html"
+    },
+    {
+      "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
+      "medios": [
+        "RTVE"
+      ],
+      "consenso": 1,
+      "fecha": "2022-06-10T00:03:00+02:00",
+      "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
+    },
+    {
+      "titular": "La Eurocámara aprueba una resolución sobre Ceuta crítica con la regularización sin los socialistas",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-17T13:23:11+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20260917/11637195/el-parlamento-europeo-aprueba-resolucion-ceuta-smr.html"
+    },
+    {
+      "titular": "Todo listo para un encuentro entre Donald Trump y Delcy Rodríguez en Nueva York",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-18T00:13:25+02:00",
+      "enlace": "https://www.abc.es/internacional/listo-encuentro-trump-delcy-nueva-york-20260916192814-nt.html"
     }
   ],
   "salud": {
@@ -74,7 +75,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 18,
+    "antiguedad_minima_min": 16,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +83,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2247682,
+        "antiguedad_min": 2247833,
         "descartados_por_gancho": 0
       },
       {
@@ -90,25 +91,25 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 403",
+        "error": "HTTP 500",
         "antiguedad_min": null
       },
       {
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 151,
+        "items": 148,
         "error": null,
-        "antiguedad_min": 48,
+        "antiguedad_min": 80,
         "descartados_por_gancho": 4
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 131,
+        "items": 133,
         "error": null,
-        "antiguedad_min": 81,
+        "antiguedad_min": 28,
         "descartados_por_gancho": 13
       },
       {
@@ -117,7 +118,7 @@
         "ok": true,
         "items": 24,
         "error": null,
-        "antiguedad_min": 18,
+        "antiguedad_min": 16,
         "descartados_por_gancho": 1
       }
     ]

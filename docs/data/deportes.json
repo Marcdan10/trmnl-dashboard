@@ -1,26 +1,17 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "ultimas",
-  "generado": "2026-09-17T22:27:29+02:00",
+  "modo": "portadas",
+  "generado": "2026-09-18T00:58:38+02:00",
   "titulares": [
     {
-      "titular": "Movistar ofrecerá por primera vez LaLiga Hypermotion para todos los aficionados",
+      "titular": "Sensación Adeyemi en Barcelona",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-17T21:51:09+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/20260917/1004228519/movistar-ofrecera-primera-vez-laliga-hypermotion-todos-aficionados.html"
-    },
-    {
-      "titular": "Lotería Nacional jueves, en directo hoy: comprobar números y premios",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-17T21:48:16+02:00",
-      "enlace": "https://www.mundodeportivo.com/actualidad/20260917/1004228032/loteria-nacional-jueves-directo-hoy-comprobar-numeros-premios-17-septiembre-smd.html"
+      "fecha": "2026-09-18T00:25:20+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260918/1004228438/sensacion-adeyemi-barcelona.html"
     },
     {
       "titular": "La joya de 15 años que quiere escapar del United asombra a la prensa inglesa",
@@ -32,6 +23,15 @@
       "enlace": "https://www.marca.com/futbol/album/2026/09/16/portadas-dia.html"
     },
     {
+      "titular": "Premio para Adeyemi: vuelve con Alemania",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-17T23:25:04+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260917/1004228544/premio-adeyemi-vuelve-alemania.html"
+    },
+    {
       "titular": "\"¿Qué narices le pasa al Madrid?\"",
       "medios": [
         "Marca"
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/real-madrid/opinion/2026/09/16/espi-evita-ridiculo-mourinho.html"
     },
     {
-      "titular": "El PSG quiere blindar a otro de sus intocables",
+      "titular": "La comida nigeriana, ‘secreto’ de la velocidad de Adeyemi",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-17T21:45:16+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/ligue-1/20260917/1004228516/psg.html"
+      "fecha": "2026-09-17T14:53:39+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260917/1004228388/comida-nigeriana-secreto-velocidad-adeyemi.html"
     },
     {
-      "titular": "Surrealista procedimiento del VAR en el Sao Paulo - Boca Juniors: \"Tu mueve, que yo te aviso\"",
+      "titular": "27-28: Golpe del Barça para cumplir ya un año sin perder en la Champions",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-17T21:32:37+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/internacional/20260917/1004228517/surrealista-procedimiento-var-sao-paulo-boca-juniors-mueve-te-aviso.html"
+      "fecha": "2026-09-17T22:35:36+02:00",
+      "enlace": "https://www.mundodeportivo.com/balonmano/20260917/1004228526/27-28-golpe-barca-cumplir-ano-perder-champions.html"
     },
     {
-      "titular": "1-0: Este Betis va como un cohete",
+      "titular": "\"El problema me parece obvio...\"",
       "medios": [
-        "Mundo Deportivo"
+        "Marca"
       ],
       "consenso": 1,
-      "fecha": "2026-09-17T21:20:55+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/laliga/20260917/1004228515/betis-cohete.html"
+      "fecha": "2026-09-15T23:56:38+02:00",
+      "enlace": "https://www.marca.com/futbol/real-madrid/2026/09/15/mourinho-mi-unica-critica-matar-partidos.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 36,
+    "antiguedad_minima_min": 33,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 2672,
+        "antiguedad_min": 2823,
         "descartados_por_gancho": 8
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 137,
+        "items": 140,
         "error": null,
-        "antiguedad_min": 36,
-        "descartados_por_gancho": 7
+        "antiguedad_min": 33,
+        "descartados_por_gancho": 4
       },
       {
         "medio": "Sport",

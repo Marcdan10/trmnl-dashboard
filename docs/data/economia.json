@@ -1,44 +1,26 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "ultimas",
-  "generado": "2026-09-17T22:27:27+02:00",
+  "modo": "portadas",
+  "generado": "2026-09-18T00:58:37+02:00",
   "titulares": [
     {
-      "titular": "St James's Place parece bien preparada para la fiesta de la IA en la gestión de patrimonios",
+      "titular": "Revolut planea una doble cotización en Nueva York y Londres y aspira a \"cientos de millones\" de clientes",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-17T19:48:23+02:00",
-      "enlace": "https://www.expansion.com/economia/financial-times/2026/09/17/6aac234f468aebfd098b4589.html"
+      "fecha": "2026-09-17T14:56:01+02:00",
+      "enlace": "https://www.expansion.com/empresas/banca/2026/09/17/6aabdf6fe5fdea3c2b8b4597.html"
     },
     {
-      "titular": "Sánchez ofrece la paz a los empresarios y acudirá a su gran cumbre en Madrid",
+      "titular": "Los hackers exigen a Revolut un rescate de tres millones de dólares para no filtrar los datos de los clientes",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-17T19:06:02+02:00",
-      "enlace": "https://www.expansion.com/economia/politica/2026/09/17/6aac1d32e5fdea017c8b45a4.html"
-    },
-    {
-      "titular": "El rodaje de Disney genera un impacto directo de 40 millones en Alicante",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-17T18:56:48+02:00",
-      "enlace": "https://www.expansion.com/valencia/2026/09/17/6aac1bc9e5fdea88468b4579.html"
-    },
-    {
-      "titular": "La SEC da vía libre a la negociación de 'criptoacciones' en Wall Street",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-17T18:22:57+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/09/17/6aac12e7468aebe5148b458c.html"
+      "fecha": "2026-09-17T13:10:52+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/09/17/6aabc9e7468aeb7b378b4589.html"
     },
     {
       "titular": "Santander comienza a negociar un ERE en sus filiales tecnológicas",
@@ -50,22 +32,40 @@
       "enlace": "https://www.expansion.com/empresas/banca/2026/09/17/6aac0deee5fdea017c8b459b.html"
     },
     {
-      "titular": "Trump ve un \"acto hostil\" en la alianza UE-Canadá y amenaza con \"severos aranceles\" a Europa",
+      "titular": "Cómo ganar en la Bolsa española más allá de los bancos",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-17T17:55:08+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/09/17/6aac0d54e5fdea3d678b458c.html"
+      "fecha": "2026-09-17T14:07:33+02:00",
+      "enlace": "https://www.expansion.com/podcasts/en-accion/2026/09/17/6aaba466e5fdea7b558b456f.html"
     },
     {
-      "titular": "El fundador de TikTok se convierte en la mayor fortuna de Asia",
+      "titular": "El fondo soberano más rentable prevé caídas en Bolsa",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-17T17:54:02+02:00",
-      "enlace": "https://www.expansion.com/tecnologia/companias/2026/09/17/6aac0d15e5fdeabd108b458e.html"
+      "fecha": "2026-09-17T00:06:39+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/09/17/6aab0e69e5fdea99608b458d.html"
+    },
+    {
+      "titular": "Así ha reaccionado Trump a la subida de tipos de la Fed",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-17T12:02:46+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/09/17/6aabbac3e5fdea71768b457f.html"
+    },
+    {
+      "titular": "Los dividendos españoles y europeos que más van a crecer para paliar el alza de los tipos",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-16T20:54:41+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/09/16/6aaab642468aeb03598b45ad.html"
     }
   ],
   "salud": {
@@ -78,7 +78,7 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 159,
+    "antiguedad_minima_min": 310,
     "detalle": [
       {
         "medio": "Expansión",
@@ -86,7 +86,7 @@
         "ok": true,
         "items": 79,
         "error": null,
-        "antiguedad_min": 159,
+        "antiguedad_min": 310,
         "descartados_por_gancho": 1
       },
       {

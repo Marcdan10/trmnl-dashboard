@@ -1,44 +1,17 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "ultimas",
-  "generado": "2026-09-17T22:27:35+02:00",
+  "modo": "portadas",
+  "generado": "2026-09-18T00:58:45+02:00",
   "titulares": [
     {
-      "titular": "“Con la Ley de Listas de Espera será mucho más difícil tener una ‘caja B’ donde guardar pacientes”",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-17T22:10:37+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/ministerio-sanidad/20260917/con-la-ley-de-listas-espera-sera-mucho-mas-dificil-tener-una-caja-donde-guardar-pacientes/352990_0.html"
-    },
-    {
-      "titular": "García reitera que la presión asistencial se mantiene estable en Ceuta con una ocupación del 53%: \"Ningún dato avala el colapso\"",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-17T19:56:04+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/20260917/garcia-reitera-que-la-presion-asistencial-se-mantiene-estable-en-ceuta-con-una-ocupacion-del-ningun-dato-avala-el-colapso/353050_0.html"
-    },
-    {
-      "titular": "Eisai busca vías con las autoridades para incorporar las terapias frente al Alzheimer en el SNS",
+      "titular": "Feder sitúa diagnóstico, acceso y equidad en el centro del Congreso de EERR",
       "medios": [
         "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-09-17T17:53:28+02:00",
-      "enlace": "https://diariofarma.com/2026/09/17/eisai-busca-vias-con-las-autoridades-para-incorporar-las-terapias-frente-al-alzheimer-en-el-sns"
-    },
-    {
-      "titular": "La vacunación gripal reduce hasta un 45% el riesgo de sufrir un infarto de miocardio, según la AEV",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-17T17:24:51+02:00",
-      "enlace": "https://diariofarma.com/2026/09/17/la-vacunacion-gripal-reduce-hasta-un-45-el-riesgo-de-sufrir-un-infarto-de-miocardio-segun-la-aev"
+      "fecha": "2026-09-17T22:31:58+02:00",
+      "enlace": "https://diariofarma.com/2026/09/17/feder-situa-diagnostico-acceso-y-equidad-en-el-centro-del-congreso-de-eerr"
     },
     {
       "titular": "PRENO: diez años para aplicar una buena idea",
@@ -50,6 +23,24 @@
       "enlace": "https://elglobalfarma.com/opinion/tribunas/preno-diez-anos-para-aplicar-una-buena-idea/"
     },
     {
+      "titular": "“Con la Ley de Listas de Espera será mucho más difícil tener una ‘caja B’ donde guardar pacientes”",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-17T22:10:37+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/ministerio-sanidad/20260917/con-la-ley-de-listas-espera-sera-mucho-mas-dificil-tener-una-caja-donde-guardar-pacientes/352990_0.html"
+    },
+    {
+      "titular": "Eisai busca vías con las autoridades para incorporar las terapias frente al Alzheimer en el SNS",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-17T17:53:28+02:00",
+      "enlace": "https://diariofarma.com/2026/09/17/eisai-busca-vias-con-las-autoridades-para-incorporar-las-terapias-frente-al-alzheimer-en-el-sns"
+    },
+    {
       "titular": "El Premio Fundación Cofares alcanza los 40.000 euros en su XXVI edición",
       "medios": [
         "El Global"
@@ -59,13 +50,22 @@
       "enlace": "https://elglobalfarma.com/farmacia/el-premio-fundacion-cofares-alcanza-los-40-000-euros-en-su-xxvi-edicion/"
     },
     {
-      "titular": "Josep Maria Nicolàs, decano de la Facultad de Medicina de la Universitat de Barcelona",
+      "titular": "El intergrupo médico mirará a las autonomías para atajar el análisis del Estatuto Marco",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-09-17T18:00:28+02:00",
-      "enlace": "https://www.redaccionmedica.com/autonomias/catalunya/20260917/josep-maria-nicolas-decano-de-la-facultad-medicina-universitat-barcelona/352997_0.html"
+      "fecha": "2026-09-17T16:42:29+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/20260917/el-intergrupo-medico-mirara-las-autonomias-para-atajar-el-analisis-del-estatuto-marco/352933_0.html"
+    },
+    {
+      "titular": "La vacunación gripal reduce hasta un 45% el riesgo de sufrir un infarto de miocardio, según la AEV",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-17T17:24:51+02:00",
+      "enlace": "https://diariofarma.com/2026/09/17/la-vacunacion-gripal-reduce-hasta-un-45-el-riesgo-de-sufrir-un-infarto-de-miocardio-segun-la-aev"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 16,
+    "antiguedad_minima_min": 146,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 274,
+        "antiguedad_min": 146,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 338,
+        "antiguedad_min": 489,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 16,
+        "antiguedad_min": 168,
         "descartados_por_gancho": 0
       },
       {
