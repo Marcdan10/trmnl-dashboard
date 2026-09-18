@@ -1,71 +1,71 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "portadas",
-  "generado": "2026-09-18T08:12:41+02:00",
+  "modo": "ultimas",
+  "generado": "2026-09-18T13:34:21+02:00",
   "titulares": [
     {
-      "titular": "Santander comienza a negociar un ERE en sus filiales tecnológicas",
+      "titular": "La SEC dispara a la 'española' Securitize en Wall Street",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-17T18:13:42+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/09/17/6aac0deee5fdea017c8b459b.html"
+      "fecha": "2026-09-18T13:30:47+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/09/18/6aad1d21e5fdea387e8b4583.html"
     },
     {
-      "titular": "Cuáles son los valores favoritos en el Ibex del fondo más rentable del mundo",
+      "titular": "De Ámsterdam a Boston: American Express acelera la expansión de sus salas VIP",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-17T20:44:55+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/09/17/6aac0469468aeb92438b458e.html"
+      "fecha": "2026-09-18T13:22:43+02:00",
+      "enlace": "https://www.expansion.com/estilo-vida/viajes/2026/09/18/6aad1effe5fdea0d158b458e.html"
     },
     {
-      "titular": "La quita de deuda encalla en el Congreso por las exigencias del independentismo",
+      "titular": "Rusia toma el control de los negocios de Nestlé y Auchan en el país",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-18T01:54:25+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/09/18/6aac0bbee5fdeac7028b4593.html"
+      "fecha": "2026-09-18T13:17:28+02:00",
+      "enlace": "https://www.expansion.com/empresas/distribucion/2026/09/18/6aad1daf468aeb0e118b4587.html"
     },
     {
-      "titular": "La Primera de Expansión sobre Indra, Santander, Nueva Zelanda, Paramount, OpenAI y el yuan",
+      "titular": "Portugal baja el impuesto sobre la renta y aprueba un bono para pensionistas para paliar los efectos de la guerra de Irán",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-18T07:20:52+02:00",
-      "enlace": "https://www.expansion.com/podcasts/la-primera-de-expansion/2026/09/18/6aacc617e5fdeab1388b456d.html"
+      "fecha": "2026-09-18T13:15:25+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/09/18/6aad176d468aeb7f028b4583.html"
     },
     {
-      "titular": "El fondo agrícola de Harvard negocia la compra de Projar",
+      "titular": "El Ibex duda con la cuádruple hora bruja",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-18T01:54:26+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/09/18/6aac362fe5fdea0a218b4578.html"
+      "fecha": "2026-09-18T13:06:54+02:00",
+      "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/09/18/6aacd28c468aebb3298b4599.html"
     },
     {
-      "titular": "El seguro ofrece rentabilidades al ahorro conservador de hasta el 4%",
+      "titular": "Buffett deja la presidencia de Berkshire Hathaway, que asume su hijo Howard",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-18T01:54:27+02:00",
-      "enlace": "https://www.expansion.com/ahorro/pensiones/2026/09/18/6aac2f6be5fdea274d8b4595.html"
+      "fecha": "2026-09-18T12:45:27+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/09/18/6aad157be5fdea17108b456d.html"
     },
     {
-      "titular": "De los seis millones al cielo inmobiliario: así es el súper lujo en Madrid",
+      "titular": "Las criptomonedas más favorecidas por la SEC vuelan hasta un 30%",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-18T00:14:22+02:00",
-      "enlace": "https://www.expansion.com/inmobiliario/casas/2026/09/18/6aabdcf9e5fdea077a8b458a.html"
+      "fecha": "2026-09-18T12:22:59+02:00",
+      "enlace": "https://www.expansion.com/mercados/criptomonedas/2026/09/18/6aad070c468aebfe708b457e.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 13,
+    "antiguedad_minima_min": 3,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 68,
+        "items": 77,
         "error": null,
-        "antiguedad_min": 13,
+        "antiguedad_min": 3,
         "descartados_por_gancho": 2
       },
       {

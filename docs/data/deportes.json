@@ -1,17 +1,26 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "portadas",
-  "generado": "2026-09-18T08:12:42+02:00",
+  "modo": "ultimas",
+  "generado": "2026-09-18T13:34:21+02:00",
   "titulares": [
     {
-      "titular": "Sensación Adeyemi en Barcelona",
+      "titular": "\"No es fácil entrar desde el banquillo, el que ha jugado a fútbol lo sabe\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-18T00:25:20+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260918/1004228438/sensacion-adeyemi-barcelona.html"
+      "fecha": "2026-09-18T13:26:18+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/villarreal/20260918/1004228699/no-facil-entrar-banquillo-jugado-futbol.html"
+    },
+    {
+      "titular": "De la Fuente, crítico y sin tapujos: \"A mí no me gusta, prefería el formato anterior\"",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-18T13:26:07+02:00",
+      "enlace": "https://www.mundodeportivo.com/seleccion-espanola/20260918/1004228698/fuente-critico-tapujos-mi-no-me-gusta-preferia-formato-anterior.html"
     },
     {
       "titular": "La joya de 15 años que quiere escapar del United asombra a la prensa inglesa",
@@ -23,15 +32,6 @@
       "enlace": "https://www.marca.com/futbol/album/2026/09/16/portadas-dia.html"
     },
     {
-      "titular": "Premio para Adeyemi: vuelve con Alemania",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-17T23:25:04+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260917/1004228544/premio-adeyemi-vuelve-alemania.html"
-    },
-    {
       "titular": "\"¿Qué narices le pasa al Madrid?\"",
       "medios": [
         "Marca"
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/real-madrid/opinion/2026/09/16/espi-evita-ridiculo-mourinho.html"
     },
     {
-      "titular": "La comida nigeriana, ‘secreto’ de la velocidad de Adeyemi",
+      "titular": "\"Me he enfrentado al Barça de Pep y no veías el balón, pero éste es increíble. Ya lo dijo Cesc: dan miedo\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-17T14:53:39+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260917/1004228388/comida-nigeriana-secreto-velocidad-adeyemi.html"
+      "fecha": "2026-09-18T13:13:35+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/sevilla/20260918/1004228694/me-he-enfrentado-barca-pep-no-veias-balon-increible-dijo-cesc-dan-miedo.html"
     },
     {
-      "titular": "Gran preestreno del documental de Carles Rexach",
+      "titular": "El destino lleva otra vez a Szczesny al Sánchez Pizjuán: cara y cruz con el Barça",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-18T00:48:33+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260918/1004228569/gran-preestreno-documental-carles-rexach.html"
+      "fecha": "2026-09-18T13:13:04+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260918/1004228670/destino-lleva-vez-szczesny-sanchez-pizjuan-cara-cruz-barca.html"
     },
     {
-      "titular": "\"El problema me parece obvio...\"",
+      "titular": "Xavi deja a Memphis Depay fuera de su primera lista con los Países Bajos",
       "medios": [
-        "Marca"
+        "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-15T23:56:38+02:00",
-      "enlace": "https://www.marca.com/futbol/real-madrid/2026/09/15/mourinho-mi-unica-critica-matar-partidos.html"
+      "fecha": "2026-09-18T13:04:50+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/uefa-nations-league/20260918/1004228679/xavi-deja-memphis-depay-fuera-primera-lista-paises-bajos.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 23,
+    "antiguedad_minima_min": 8,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 3257,
+        "antiguedad_min": 3579,
         "descartados_por_gancho": 8
       },
       {
@@ -101,8 +101,8 @@
         "ok": true,
         "items": 133,
         "error": null,
-        "antiguedad_min": 23,
-        "descartados_por_gancho": 9
+        "antiguedad_min": 8,
+        "descartados_por_gancho": 7
       },
       {
         "medio": "Sport",
