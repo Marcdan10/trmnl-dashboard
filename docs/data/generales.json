@@ -2,62 +2,62 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-09-18T13:34:18+02:00",
+  "generado": "2026-09-18T17:37:17+02:00",
   "titulares": [
     {
-      "titular": "Barbra Streisand carga contra el “ego desmedido” de Trump y Zara Larsson califica de “perdedores” a quienes han puesto su canción en un vídeo del ICE",
+      "titular": "Werner Herzog: «A los jóvenes les digo que no vivan una vida dictada por algoritmos»",
+      "medios": [
+        "El País",
+        "ABC"
+      ],
+      "consenso": 2,
+      "fecha": "2026-09-18T17:30:51+02:00",
+      "enlace": "https://www.abc.es/cultura/werner-herzog-donostia-veterano-imparable-jovenes-digo-20260918160321-nt.html"
+    },
+    {
+      "titular": "El Gobierno propone incorporar progresivamente a 45.000 estudiantes con discapacidad a la escuela ordinaria",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-18T13:19:31+02:00",
-      "enlace": "https://elpais.com/gente/2026-09-18/barbra-streisand-carga-contra-el-ego-desmedido-de-trump-y-zara-larsson-califica-de-perdedores-a-quienes-han-puesto-su-cancion-en-un-video-del-ice.html"
+      "fecha": "2026-09-18T17:29:26+02:00",
+      "enlace": "https://elpais.com/educacion/2026-09-18/el-gobierno-propone-incorporar-progresivamente-a-45000-estudiantes-con-discapacidad-a-la-escuela-ordinaria.html"
     },
     {
-      "titular": "Detenido un hombre de 25 años que guardaba el cadáver de su padre en un armario de su casa de Segovia desde hace año y medio",
+      "titular": "El presidente del puerto de Ceuta denuncia que «se ha enterado por la televisión» del traslado a los inmigrantes",
       "medios": [
-        "El País"
+        "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-18T13:12:20+02:00",
-      "enlace": "https://elpais.com/espana/2026-09-18/detenido-un-hombre-de-25-anos-que-guardaba-el-cadaver-de-su-padre-en-un-armario-de-su-casa-de-segovia-desde-hace-ano-y-medio.html"
+      "fecha": "2026-09-18T17:16:43+02:00",
+      "enlace": "https://www.abc.es/espana/presidente-puerto-ceuta-denuncia-enterado-television-traslado-20260918113030-nt.html"
     },
     {
-      "titular": "El príncipe Enrique reaparece sin Meghan Markle en Reino Unido tras su regreso de Estados Unidos",
+      "titular": "La historia del sospechoso de matar a Claudia Tacoronte: paso por la cárcel y robos menores",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-18T17:14:59+02:00",
+      "enlace": "https://www.abc.es/espana/historia-sospechoso-matar-claudia-tacoronte-paso-carcel-20260918170421-nt.html"
+    },
+    {
+      "titular": "Adiós al mueble bajo de TV: 5 alternativas elegantes, funcionales y perfectas para salones pequeños",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-18T13:09:13+02:00",
-      "enlace": "https://www.lavanguardia.com/gente/20260918/11638191/principe-enrique-reaparece-meghan-markle-reino-unido-regreso-estados-unidos.html"
+      "fecha": "2026-09-18T17:00:00+02:00",
+      "enlace": "https://www.lavanguardia.com/comprar/hogar-cocina/20260918/11636954/adios-mueble-tv-5-alternativas-elegantes-funcionales-perfectas-salones-pequenos.html"
     },
     {
-      "titular": "Sube la criminalidad en Madrid: más delitos sexuales y reyertas callejeras",
+      "titular": "La historia detrás de la modelo que abrió el desfile de Celia B",
       "medios": [
-        "ABC"
+        "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-18T13:07:58+02:00",
-      "enlace": "https://www.abc.es/espana/madrid/sube-criminalidad-madrid-delitos-sexuales-reyertas-callejeras-20260918114435-nt.html"
-    },
-    {
-      "titular": "Un preso mata a otro en su celda del módulo de sancionados de Quatre Camins",
-      "medios": [
-        "La Vanguardia",
-        "ABC"
-      ],
-      "consenso": 2,
-      "fecha": "2026-09-18T13:03:16+02:00",
-      "enlace": "https://www.abc.es/espana/cataluna/preso-mata-modulo-sancionados-quatre-camins-20260918114051-nt.html"
-    },
-    {
-      "titular": "El ático de Chamberí tenía como fin ser un lugar de trabajo y de alojamiento ocasional",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-18T13:02:41+02:00",
-      "enlace": "https://www.abc.es/espana/madrid/atico-chamberi-fin-lugar-trabajo-alojamiento-ocasional-20260918112724-nt.html"
+      "fecha": "2026-09-18T16:53:33+02:00",
+      "enlace": "https://www.lavanguardia.com/magazine/moda/20260918/11636568/historia-detras-modelo-abrio-desfile-celia-b.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -75,7 +75,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 14,
+    "antiguedad_minima_min": 6,
     "detalle": [
       {
         "medio": "RTVE",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2248589,
+        "antiguedad_min": 2248832,
         "descartados_por_gancho": 0
       },
       {
@@ -98,18 +98,18 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 146,
+        "items": 150,
         "error": null,
-        "antiguedad_min": 14,
-        "descartados_por_gancho": 7
+        "antiguedad_min": 7,
+        "descartados_por_gancho": 6
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 129,
+        "items": 131,
         "error": null,
-        "antiguedad_min": 25,
+        "antiguedad_min": 37,
         "descartados_por_gancho": 12
       },
       {
@@ -118,7 +118,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 26,
+        "antiguedad_min": 6,
         "descartados_por_gancho": 0
       }
     ]
