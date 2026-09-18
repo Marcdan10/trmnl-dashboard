@@ -2,26 +2,8 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "portadas",
-  "generado": "2026-09-18T00:58:37+02:00",
+  "generado": "2026-09-18T03:06:41+02:00",
   "titulares": [
-    {
-      "titular": "Revolut planea una doble cotización en Nueva York y Londres y aspira a \"cientos de millones\" de clientes",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-17T14:56:01+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/09/17/6aabdf6fe5fdea3c2b8b4597.html"
-    },
-    {
-      "titular": "Los hackers exigen a Revolut un rescate de tres millones de dólares para no filtrar los datos de los clientes",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-17T13:10:52+02:00",
-      "enlace": "https://www.expansion.com/economia/financial-times/2026/09/17/6aabc9e7468aeb7b378b4589.html"
-    },
     {
       "titular": "Santander comienza a negociar un ERE en sus filiales tecnológicas",
       "medios": [
@@ -32,40 +14,58 @@
       "enlace": "https://www.expansion.com/empresas/banca/2026/09/17/6aac0deee5fdea017c8b459b.html"
     },
     {
-      "titular": "Cómo ganar en la Bolsa española más allá de los bancos",
+      "titular": "Ángel Simón revoluciona la cúpula directiva de Indra",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-17T14:07:33+02:00",
-      "enlace": "https://www.expansion.com/podcasts/en-accion/2026/09/17/6aaba466e5fdea7b558b456f.html"
+      "fecha": "2026-09-18T01:54:25+02:00",
+      "enlace": "https://www.expansion.com/empresas/industria/2026/09/18/6aac5039e5fdeaba0f8b459c.html"
     },
     {
-      "titular": "El fondo soberano más rentable prevé caídas en Bolsa",
+      "titular": "Cuáles son los valores favoritos en el Ibex del fondo más rentable del mundo",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-17T00:06:39+02:00",
-      "enlace": "https://www.expansion.com/economia/financial-times/2026/09/17/6aab0e69e5fdea99608b458d.html"
+      "fecha": "2026-09-17T20:44:55+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/09/17/6aac0469468aeb92438b458e.html"
     },
     {
-      "titular": "Así ha reaccionado Trump a la subida de tipos de la Fed",
+      "titular": "El fondo agrícola de Harvard negocia la compra de Projar",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-17T12:02:46+02:00",
-      "enlace": "https://www.expansion.com/economia/financial-times/2026/09/17/6aabbac3e5fdea71768b457f.html"
+      "fecha": "2026-09-18T01:54:26+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/09/18/6aac362fe5fdea0a218b4578.html"
     },
     {
-      "titular": "Los dividendos españoles y europeos que más van a crecer para paliar el alza de los tipos",
+      "titular": "El seguro ofrece rentabilidades al ahorro conservador de hasta el 4%",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-16T20:54:41+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/09/16/6aaab642468aeb03598b45ad.html"
+      "fecha": "2026-09-18T01:54:27+02:00",
+      "enlace": "https://www.expansion.com/ahorro/pensiones/2026/09/18/6aac2f6be5fdea274d8b4595.html"
+    },
+    {
+      "titular": "Maíz y remolacha de quinta gama a ritmo de 'country'",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-18T01:54:32+02:00",
+      "enlace": "https://www.expansion.com/empresas/distribucion/2026/09/18/6aaa8f3b468aeb9e758b4584.html"
+    },
+    {
+      "titular": "Bankinter acelera el crédito en Irlanda y Portugal",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-18T01:54:33+02:00",
+      "enlace": "https://www.expansion.com/empresas/banca/2026/09/18/6aac2e16e5fdea376a8b45b8.html"
     }
   ],
   "salud": {
@@ -78,16 +78,16 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 310,
+    "antiguedad_minima_min": 72,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 79,
+        "items": 65,
         "error": null,
-        "antiguedad_min": 310,
-        "descartados_por_gancho": 1
+        "antiguedad_min": 72,
+        "descartados_por_gancho": 2
       },
       {
         "medio": "Cinco Días",
