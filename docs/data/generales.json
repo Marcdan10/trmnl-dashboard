@@ -1,63 +1,9 @@
 {
   "pantalla": "generales",
   "titulo": "Titulares",
-  "modo": "ultimas",
-  "generado": "2026-09-18T23:23:08+02:00",
+  "modo": "portadas",
+  "generado": "2026-09-19T01:25:52+02:00",
   "titulares": [
-    {
-      "titular": "Cómo hacer chocolate caliente a la taza",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-18T22:51:34+02:00",
-      "enlace": "https://www.abc.es/recetasderechupete/chocolate-a-la-taza-casero/23451/"
-    },
-    {
-      "titular": "Leche condensada. Qué es y cómo usarla",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-18T22:48:38+02:00",
-      "enlace": "https://www.abc.es/gastronomia/falsa-rechupete-20240712032340-nt.html"
-    },
-    {
-      "titular": "Shakira, al público español en su regreso a Madrid: “Con la cara que me fui de España y con la que vuelvo”",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-18T22:23:05+02:00",
-      "enlace": "https://www.lavanguardia.com/gente/20260918/11638764/shakira-publico-espanol-regreso-madrid-cara-me-espana-vuelvo.html"
-    },
-    {
-      "titular": "Los campamentos del puerto de Ceuta cuelgan el cartel de completo: “Miles de migrantes han tenido que volver a dormir al raso”",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-18T22:03:59+02:00",
-      "enlace": "https://elpais.com/videos/2026-09-18/los-campamentos-del-puerto-de-ceuta-cuelgan-el-cartel-de-completo-miles-de-migrantes-han-tenido-que-volver-a-dormir-al-raso.html"
-    },
-    {
-      "titular": "Un Barça ‘B’ golea al Alavés y pone la directa a la Champions",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-18T22:03:54+02:00",
-      "enlace": "https://www.lavanguardia.com/deportes/futbol-femenino/20260918/11638758/barca-b-golea-alaves-pone-directa-champions.html"
-    },
-    {
-      "titular": "Un nuevo Real Madrid y el mismo gran Tavares, a la final de la Supercopa de la Euroliga",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-18T21:42:33+02:00",
-      "enlace": "https://elpais.com/deportes/baloncesto/2026-09-18/un-nuevo-real-madrid-y-el-mismo-gran-tavares-a-la-final-de-la-supercopa-de-la-euroliga.html"
-    },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
       "medios": [
@@ -66,6 +12,60 @@
       "consenso": 1,
       "fecha": "2022-06-10T01:05:00+02:00",
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
+    },
+    {
+      "titular": "El Gobierno culpa al contencioso judicial del “efecto llamada” en el campamento del puerto de Ceuta",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-18T12:58:53+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20260918/11638163/gobierno-atribuye-contencioso-judicial-efecto-llamada-campamento-puerto-ceuta.html"
+    },
+    {
+      "titular": "Shakira convierte Madrid en un templo de 50.000 fieles entregados",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-19T01:10:38+02:00",
+      "enlace": "https://www.abc.es/cultura/musica/shakira-corona-mundo-shakira-ante-50000-feligreses-20260918230354-nt.html"
+    },
+    {
+      "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
+      "medios": [
+        "RTVE"
+      ],
+      "consenso": 1,
+      "fecha": "2022-06-10T00:03:00+02:00",
+      "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
+    },
+    {
+      "titular": "Caos y disparos al aire: la operación de realojo termina con miles de inmigrantes de vuelta a las playas",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-18T18:24:10+02:00",
+      "enlace": "https://elpais.com/espana/2026-09-18/tension-y-caos-en-el-traslado-de-los-migrantes-de-la-playa-benitez-al-puerto-de-ceuta.html"
+    },
+    {
+      "titular": "Aznar acusa a Sánchez de “traición” y pide que los militares “garanticen la integridad” de España",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-18T11:45:57+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20260918/11638049/aznar-acusa-sanchez-traicion-pide-militares-garanticen-integridad-espana.html"
+    },
+    {
+      "titular": "Los perros que combaten la apatía y el bajo estado de ánimo en las residencias",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-19T01:05:43+02:00",
+      "enlace": "https://www.abc.es/familia/mayores/perros-consiguen-manana-residencia-diferente-20260919010543-nt.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 31,
+    "antiguedad_minima_min": 15,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2249178,
+        "antiguedad_min": 2249300,
         "descartados_por_gancho": 0
       },
       {
@@ -97,28 +97,28 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 149,
+        "items": 152,
         "error": null,
-        "antiguedad_min": 79,
+        "antiguedad_min": 56,
         "descartados_por_gancho": 5
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 137,
+        "items": 132,
         "error": null,
-        "antiguedad_min": 60,
+        "antiguedad_min": 44,
         "descartados_por_gancho": 12
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 21,
+        "items": 23,
         "error": null,
-        "antiguedad_min": 31,
-        "descartados_por_gancho": 4
+        "antiguedad_min": 15,
+        "descartados_por_gancho": 2
       }
     ]
   }

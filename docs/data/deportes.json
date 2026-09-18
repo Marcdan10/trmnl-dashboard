@@ -1,26 +1,17 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "ultimas",
-  "generado": "2026-09-18T23:23:14+02:00",
+  "modo": "portadas",
+  "generado": "2026-09-19T01:25:58+02:00",
   "titulares": [
     {
-      "titular": "Acaba de aterrizar en Prime Video y ya es Top 2 de España: miniserie de ocho episodios",
+      "titular": "Raphinha: \"Pienso renovar y ojalá acabar mi carrera en el Barça\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-18T22:52:18+02:00",
-      "enlace": "https://www.mundodeportivo.com/elotromundo/television/20260918/1004228867/acaba-aterrizar-prime-video-top-2-espana-miniserie-ocho-episodios-basada-best-seller-tvp-dct.html"
-    },
-    {
-      "titular": "6-1: Barça - Peñíscola, en directo",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-18T22:46:30+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260918/1004228568/barca-peniscola-directo-liga-prime-futsal-torneo-apertura-futbol-sala.html"
+      "fecha": "2026-09-18T23:53:02+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260918/1004228845/raphinha-pienso-renovar-ojala-acabar-mi-carrera-barca.html"
     },
     {
       "titular": "La joya de 15 años que quiere escapar del United asombra a la prensa inglesa",
@@ -32,6 +23,15 @@
       "enlace": "https://www.marca.com/futbol/album/2026/09/16/portadas-dia.html"
     },
     {
+      "titular": "1-3: La noche más negra de Manolo González",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-18T23:03:55+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/rcd-espanyol/20260918/1004228870/espanyol-nino-manos-elche.html"
+    },
+    {
       "titular": "\"¿Qué narices le pasa al Madrid?\"",
       "medios": [
         "Marca"
@@ -39,15 +39,6 @@
       "consenso": 1,
       "fecha": "2026-09-16T00:09:28+02:00",
       "enlace": "https://www.marca.com/futbol/real-madrid/opinion/2026/09/16/espi-evita-ridiculo-mourinho.html"
-    },
-    {
-      "titular": "7-0: El Bayern se divierte y se une a la fiesta de Múnich",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-18T22:42:20+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/bundesliga/20260918/1004228866/bayern-divierte-une-fiesta-munich.html"
     },
     {
       "titular": "0-6: Pina hace un 'hat trick' con un memorable gol desde medio campo",
@@ -59,13 +50,22 @@
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260918/1004228864/pina-hat-trick-memorable-gol-medio-campo.html"
     },
     {
-      "titular": "86-85: Agónica derrota del Kids&Us Manresa en Coruña",
+      "titular": "Última sesión para Sevilla, sin Joan Garcia y con una novedad",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-18T22:20:39+02:00",
-      "enlace": "https://www.mundodeportivo.com/baloncesto/acb/20260918/1004228862/86-85-agonica-derrota-kids-us-manresa-coruna.html"
+      "fecha": "2026-09-18T11:23:16+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260918/1004228610/ultima-sesion-sevilla-joan-garcia-novedad.html"
+    },
+    {
+      "titular": "\"El problema me parece obvio...\"",
+      "medios": [
+        "Marca"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-15T23:56:38+02:00",
+      "enlace": "https://www.marca.com/futbol/real-madrid/2026/09/15/mourinho-mi-unica-critica-matar-partidos.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 30,
+    "antiguedad_minima_min": 53,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 4167,
+        "antiguedad_min": 4290,
         "descartados_por_gancho": 8
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 136,
+        "items": 139,
         "error": null,
-        "antiguedad_min": 30,
-        "descartados_por_gancho": 7
+        "antiguedad_min": 53,
+        "descartados_por_gancho": 6
       },
       {
         "medio": "Sport",

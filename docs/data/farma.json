@@ -1,27 +1,9 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "ultimas",
-  "generado": "2026-09-18T23:23:39+02:00",
+  "modo": "portadas",
+  "generado": "2026-09-19T01:26:05+02:00",
   "titulares": [
-    {
-      "titular": "El peritaje veterinario 'se abre camino' con su I promoción de expertos universitarios: \"Es una garantía de calidad legal\"",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-18T20:06:00+02:00",
-      "enlace": "https://www.redaccionmedica.com/salud-animal/20260918/el-peritaje-veterinario-se-abre-camino-con-su-promocion-de-expertos-universitarios-es-una-garantia-calidad-legal/353187_0.html"
-    },
-    {
-      "titular": "El CHUS descubre biomarcadores capaces de anticipar la respuesta a la terapia antiangiogénica",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-18T18:35:23+02:00",
-      "enlace": "https://www.redaccionmedica.com/autonomias/galicia/20260918/el-chus-descubre-biomarcadores-capaces-de-anticipar-la-respuesta-terapia-antiangiogenica/353186_0.html"
-    },
     {
       "titular": "De La Rioja a Europa: las claves de la farmacia rural asistencial que ha conquistado a la OMS",
       "medios": [
@@ -32,22 +14,13 @@
       "enlace": "https://diariofarma.com/2026/09/18/de-la-rioja-a-europa-las-claves-de-la-farmacia-rural-asistencial-que-ha-conquistado-a-la-oms"
     },
     {
-      "titular": "Las terapias avanzadas elevan la supervivencia del cáncer hematológico a 5 años al 63 %, según la SEHH",
+      "titular": "La OMS se fija en el Programa de Farmacia Rural de La Rioja para uno de sus informes estrella",
       "medios": [
-        "Diariofarma"
+        "El Global"
       ],
       "consenso": 1,
-      "fecha": "2026-09-18T13:29:56+02:00",
-      "enlace": "https://diariofarma.com/2026/09/18/las-terapias-avanzadas-elevan-la-supervivencia-del-cancer-hematologico-a-5-anos-al-63-segun-la-sehh"
-    },
-    {
-      "titular": "El nuevo grado de Medicina del CEU UAO aúna la IA con el trato humano: \"Optaremos por la excelencia y el humanismo\"",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-18T18:01:39+02:00",
-      "enlace": "https://www.redaccionmedica.com/formacion/estudiantes/20260918/el-nuevo-grado-de-medicina-del-ceu-uao-auna-la-ia-con-el-trato-humano-optaremos-por-excelencia-humanismo/352952_0.html"
+      "fecha": "2026-09-18T13:54:03+02:00",
+      "enlace": "https://elglobalfarma.com/farmacia/oms-programa-farmacia-rural-rioja-estudios-informe-regional-2027/"
     },
     {
       "titular": "Consenso político para acelerar un gran registro de médicos especialistas: \"No sabemos cuántos hay\"",
@@ -59,25 +32,51 @@
       "enlace": "https://www.redaccionmedica.com/autonomias/20260918/consenso-politico-para-acelerar-un-gran-registro-de-medicos-especialistas-no-sabemos-cuantos-hay/353071_0.html"
     },
     {
-      "titular": "El polémico suspenso a un científico evidencia las fallas en la evaluación de los investigadores R3",
+      "titular": "Las terapias avanzadas elevan la supervivencia del cáncer hematológico a 5 años al 63 %, según la SEHH",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-18T13:29:56+02:00",
+      "enlace": "https://diariofarma.com/2026/09/18/las-terapias-avanzadas-elevan-la-supervivencia-del-cancer-hematologico-a-5-anos-al-63-segun-la-sehh"
+    },
+    {
+      "titular": "Inglaterra marca el camino para la farmacia comunitaria",
+      "medios": [
+        "El Global"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-18T13:35:43+02:00",
+      "enlace": "https://elglobalfarma.com/opinion/editorial/inglaterra-camino-farmacia-comunitaria/"
+    },
+    {
+      "titular": "Las comunidades adaptan sus estructuras para asumir nuevas competencias sobre el medicamento: \"Es un paso adelante\"",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-09-18T16:47:39+02:00",
-      "enlace": "https://www.redaccionmedica.com/profesionales/20260918/el-polemico-suspenso-un-cientifico-evidencia-las-fallas-en-la-evaluacion-de-los-investigadores-r3/350954_0.html"
+      "fecha": "2026-09-18T11:51:08+02:00",
+      "enlace": "https://www.redaccionmedica.com/empresas/industria-farmaceutica/20260918/las-comunidades-adaptan-sus-estructuras-para-asumir-nuevas-competencias-sobre-el-medicamento-es-un-paso-adelante/353022_0.html"
+    },
+    {
+      "titular": "La EMA respalda 12 nuevos medicamentos y estrecha el margen de uso de la ipidacrina",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-18T13:14:55+02:00",
+      "enlace": "https://diariofarma.com/2026/09/18/la-ema-respalda-12-nuevos-medicamentos-y-estrecha-el-margen-de-uso-de-la-ipidacrina"
     }
   ],
   "salud": {
     "feeds_totales": 7,
-    "feeds_ok": 3,
+    "feeds_ok": 4,
     "feeds_caidos": [
-      "El Global",
       "PMFarma",
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 197,
+    "antiguedad_minima_min": 320,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -85,16 +84,17 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 582,
+        "antiguedad_min": 705,
         "descartados_por_gancho": 0
       },
       {
         "medio": "El Global",
         "url": "https://elglobal.es/feed/",
-        "ok": false,
-        "items": 0,
-        "error": "URLError: <urlopen error timed out>",
-        "antiguedad_min": null
+        "ok": true,
+        "items": 9,
+        "error": null,
+        "antiguedad_min": 691,
+        "descartados_por_gancho": 1
       },
       {
         "medio": "Redacción Médica",
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 197,
+        "antiguedad_min": 320,
         "descartados_por_gancho": 0
       },
       {

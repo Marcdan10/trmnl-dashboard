@@ -1,71 +1,71 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "ultimas",
-  "generado": "2026-09-18T23:23:12+02:00",
+  "modo": "portadas",
+  "generado": "2026-09-19T01:25:57+02:00",
   "titulares": [
     {
-      "titular": "La industria catalana necesita 9.500 millones más para descarbonizarse",
+      "titular": "La carrera global por la IA despeja el recorrido en Bolsa de las tecnológicas",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-18T22:08:08+02:00",
-      "enlace": "https://www.expansion.com/catalunya/2026/09/18/6aad99cee5fdea17108b458b.html"
+      "fecha": "2026-09-19T00:02:59+02:00",
+      "enlace": "https://www.expansion.com/inversion/2026/09/19/6aad7c4ce5fdeafa338b4592.html"
     },
     {
-      "titular": "El plan catalán para \"proteger\" al comercio histórico: comprar locales con dinero público",
+      "titular": "EY se refuerza en capital riesgo con seis fichajes en Alvarez & Marsal",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-18T21:53:21+02:00",
-      "enlace": "https://www.expansion.com/catalunya/2026/09/18/6aad966fe5fdea9a0c8b459b.html"
+      "fecha": "2026-09-19T00:05:35+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/09/19/6aad7965468aebfe708b45ae.html"
     },
     {
-      "titular": "Cobega gana un 61% más y reparte 130 millones en dividendos",
+      "titular": "Guía de valores en Bolsa: los beneficios apuntalan las cotizaciones",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-18T21:06:40+02:00",
-      "enlace": "https://www.expansion.com/catalunya/2026/09/18/6aad8bbce5fdea303a8b4599.html"
+      "fecha": "2026-09-19T00:04:02+02:00",
+      "enlace": "https://www.expansion.com/mercados/2024/04/05/660d827a468aeb13368b4582.html"
     },
     {
-      "titular": "Lagarde deja abierta su salida anticipada del BCE: \"Ya veremos\"",
+      "titular": "Santander, BBVA, CaixaBank y Sabadell se preparan para embridar los depósitos",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-18T18:21:05+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/09/18/6aad64efe5fdea7b5f8b4571.html"
+      "fecha": "2026-09-19T00:04:58+02:00",
+      "enlace": "https://www.expansion.com/empresas/banca/2026/09/19/6aad19c7e5fdea72368b458a.html"
     },
     {
-      "titular": "Telefónica, víctima del correctivo bursátil a las telecos",
+      "titular": "Trump anuncia un acuerdo por el que EEUU controlará la seguridad de Groenlandia",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-18T18:14:26+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/09/18/6aad24d7e5fdeafd1f8b458f.html"
+      "fecha": "2026-09-18T23:50:46+02:00",
+      "enlace": "https://www.expansion.com/economia/politica/2026/09/18/6aadb113468aeb243a8b458f.html"
     },
     {
-      "titular": "El golpe de On a Nike: ficha a Mbappé y prepara sus primeras botas de fútbol",
+      "titular": "Los inversores, optimistas ante la recta final del año",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-18T17:38:52+02:00",
-      "enlace": "https://www.expansion.com/deporte-negocio/2026/09/18/6aad5a9e468aeb513d8b458e.html"
+      "fecha": "2026-09-19T00:02:43+02:00",
+      "enlace": "https://www.expansion.com/inversion/2026/09/19/6aad81af468aeba1058b4592.html"
     },
     {
-      "titular": "El Ibex cae hasta los 19.500 puntos y pierde en la semana un 1,6%",
+      "titular": "El retraso en la ley 'cripto' de EEUU frena el despegue del sector",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-18T17:38:48+02:00",
-      "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/09/18/6aacd28c468aebb3298b4599.html"
+      "fecha": "2026-09-19T00:57:19+02:00",
+      "enlace": "https://www.expansion.com/mercados/criptomonedas/2026/09/19/6aad7637e5fdeab6628b4583.html"
     }
   ],
   "salud": {
@@ -78,16 +78,16 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 75,
+    "antiguedad_minima_min": 27,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 79,
+        "items": 77,
         "error": null,
-        "antiguedad_min": 75,
-        "descartados_por_gancho": 3
+        "antiguedad_min": 27,
+        "descartados_por_gancho": 1
       },
       {
         "medio": "Cinco Días",
