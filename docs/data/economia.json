@@ -2,8 +2,35 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-09-18T20:47:34+02:00",
+  "generado": "2026-09-18T23:23:12+02:00",
   "titulares": [
+    {
+      "titular": "La industria catalana necesita 9.500 millones más para descarbonizarse",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-18T22:08:08+02:00",
+      "enlace": "https://www.expansion.com/catalunya/2026/09/18/6aad99cee5fdea17108b458b.html"
+    },
+    {
+      "titular": "El plan catalán para \"proteger\" al comercio histórico: comprar locales con dinero público",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-18T21:53:21+02:00",
+      "enlace": "https://www.expansion.com/catalunya/2026/09/18/6aad966fe5fdea9a0c8b459b.html"
+    },
+    {
+      "titular": "Cobega gana un 61% más y reparte 130 millones en dividendos",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-18T21:06:40+02:00",
+      "enlace": "https://www.expansion.com/catalunya/2026/09/18/6aad8bbce5fdea303a8b4599.html"
+    },
     {
       "titular": "Lagarde deja abierta su salida anticipada del BCE: \"Ya veremos\"",
       "medios": [
@@ -39,33 +66,6 @@
       "consenso": 1,
       "fecha": "2026-09-18T17:38:48+02:00",
       "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/09/18/6aacd28c468aebb3298b4599.html"
-    },
-    {
-      "titular": "Irán activa las rutas terrestres para eludir el bloqueo estadounidense",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-18T17:37:37+02:00",
-      "enlace": "https://www.expansion.com/economia/financial-times/2026/09/18/6aad5ab7468aeb016e8b457c.html"
-    },
-    {
-      "titular": "Las casas que le invitarán a volver a la gran ciudad",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-18T17:33:22+02:00",
-      "enlace": "https://www.expansion.com/estilo-vida/2026/09/18/6aac474de5fdea79728b4597.html"
-    },
-    {
-      "titular": "El CEO de Nvidia asegura que la IA hará que electricistas y albañiles sean algunos de los empleos mejor pagados",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-18T17:30:02+02:00",
-      "enlace": "https://www.expansion.com/empresas/tecnologia/2026/09/18/6aad551c468aeb513d8b4586.html"
     }
   ],
   "salud": {
@@ -78,7 +78,7 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 146,
+    "antiguedad_minima_min": 75,
     "detalle": [
       {
         "medio": "Expansión",
@@ -86,7 +86,7 @@
         "ok": true,
         "items": 79,
         "error": null,
-        "antiguedad_min": 146,
+        "antiguedad_min": 75,
         "descartados_por_gancho": 3
       },
       {
