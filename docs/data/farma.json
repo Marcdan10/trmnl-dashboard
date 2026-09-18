@@ -2,7 +2,7 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "portadas",
-  "generado": "2026-09-18T03:06:47+02:00",
+  "generado": "2026-09-18T08:12:47+02:00",
   "titulares": [
     {
       "titular": "Feder sitúa diagnóstico, acceso y equidad en el centro del Congreso de EERR",
@@ -50,13 +50,13 @@
       "enlace": "https://elglobalfarma.com/farmacia/el-premio-fundacion-cofares-alcanza-los-40-000-euros-en-su-xxvi-edicion/"
     },
     {
-      "titular": "El intergrupo médico mirará a las autonomías para atajar el análisis del Estatuto Marco",
+      "titular": "La 'sabiduría médica' no se halla en las nuevas tecnologías: \"La ética es la esencia de la propia Medicina\"",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-09-17T16:42:29+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/20260917/el-intergrupo-medico-mirara-las-autonomias-para-atajar-el-analisis-del-estatuto-marco/352933_0.html"
+      "fecha": "2026-09-18T05:07:00+02:00",
+      "enlace": "https://www.redaccionmedica.com/profesionales/medicina/20260918/la-sabiduria-medica-no-se-halla-en-las-nuevas-tecnologias-etica-es-la-esencia-de-propia-medicina/352911_0.html"
     },
     {
       "titular": "La vacunación gripal reduce hasta un 45% el riesgo de sufrir un infarto de miocardio, según la AEV",
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 274,
+    "antiguedad_minima_min": 180,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 274,
+        "antiguedad_min": 580,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 617,
+        "antiguedad_min": 923,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 296,
+        "antiguedad_min": 180,
         "descartados_por_gancho": 0
       },
       {
