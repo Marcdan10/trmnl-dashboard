@@ -2,8 +2,62 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-09-18T17:37:19+02:00",
+  "generado": "2026-09-18T20:47:34+02:00",
   "titulares": [
+    {
+      "titular": "Lagarde deja abierta su salida anticipada del BCE: \"Ya veremos\"",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-18T18:21:05+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/09/18/6aad64efe5fdea7b5f8b4571.html"
+    },
+    {
+      "titular": "Telefónica, víctima del correctivo bursátil a las telecos",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-18T18:14:26+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/09/18/6aad24d7e5fdeafd1f8b458f.html"
+    },
+    {
+      "titular": "El golpe de On a Nike: ficha a Mbappé y prepara sus primeras botas de fútbol",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-18T17:38:52+02:00",
+      "enlace": "https://www.expansion.com/deporte-negocio/2026/09/18/6aad5a9e468aeb513d8b458e.html"
+    },
+    {
+      "titular": "El Ibex cae hasta los 19.500 puntos y pierde en la semana un 1,6%",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-18T17:38:48+02:00",
+      "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/09/18/6aacd28c468aebb3298b4599.html"
+    },
+    {
+      "titular": "Irán activa las rutas terrestres para eludir el bloqueo estadounidense",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-18T17:37:37+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/09/18/6aad5ab7468aeb016e8b457c.html"
+    },
+    {
+      "titular": "Las casas que le invitarán a volver a la gran ciudad",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-18T17:33:22+02:00",
+      "enlace": "https://www.expansion.com/estilo-vida/2026/09/18/6aac474de5fdea79728b4597.html"
+    },
     {
       "titular": "El CEO de Nvidia asegura que la IA hará que electricistas y albañiles sean algunos de los empleos mejor pagados",
       "medios": [
@@ -12,60 +66,6 @@
       "consenso": 1,
       "fecha": "2026-09-18T17:30:02+02:00",
       "enlace": "https://www.expansion.com/empresas/tecnologia/2026/09/18/6aad551c468aeb513d8b4586.html"
-    },
-    {
-      "titular": "La familia real de Liechtenstein amenaza con una demanda por las reformas dinásticas",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-18T16:12:07+02:00",
-      "enlace": "https://www.expansion.com/economia/financial-times/2026/09/18/6aad4134468aeb8a7c8b458c.html"
-    },
-    {
-      "titular": "El Ibex pincha y sentencia las caídas en la semana",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-18T16:05:25+02:00",
-      "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/09/18/6aacd28c468aebb3298b4599.html"
-    },
-    {
-      "titular": "La Audiencia Nacional suspende provisionalmente la votación sobre la última propuesta de Airbus",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-18T15:16:52+02:00",
-      "enlace": "https://www.expansion.com/empresas/transporte/2026/09/18/6aad39c2e5fdeab6628b4579.html"
-    },
-    {
-      "titular": "Telefónica, víctima del correctivo bursátil a las telecos",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-18T14:32:22+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/09/18/6aad24d7e5fdeafd1f8b458f.html"
-    },
-    {
-      "titular": "Las criptomonedas más favorecidas por la SEC vuelan hasta un 30%",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-18T14:32:20+02:00",
-      "enlace": "https://www.expansion.com/mercados/criptomonedas/2026/09/18/6aad070c468aebfe708b457e.html"
-    },
-    {
-      "titular": "La SEC dispara a la 'española' Securitize en Wall Street",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-18T14:32:19+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/09/18/6aad1d21e5fdea387e8b4583.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 7,
+    "antiguedad_minima_min": 146,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 77,
+        "items": 79,
         "error": null,
-        "antiguedad_min": 7,
+        "antiguedad_min": 146,
         "descartados_por_gancho": 3
       },
       {

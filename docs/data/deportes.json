@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-09-18T17:37:20+02:00",
+  "generado": "2026-09-18T20:47:35+02:00",
   "titulares": [
     {
-      "titular": "La cláusula de rescisión de Roberto Fernández subirá si debuta con la Roja",
+      "titular": "Europa prohibirá crear cuentas propias en redes sociales a todos los menores de 15 años",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-18T17:12:49+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/rcd-espanyol/20260918/1004228767/clausula-rescision-roberto-fernandez-subira-debuta-roja.html"
+      "fecha": "2026-09-18T20:17:59+02:00",
+      "enlace": "https://www.mundodeportivo.com/actualidad/20260918/1004228837/entrara-vigor-europa-modifica-regla-partir-prohibira-crear-cuentas-propias-redes-sociales-todos-menores-no-hayan-cumplido-15-anos-dct.html"
     },
     {
-      "titular": "Entre 254 y 759 euros hay mucha potencia de diferencia: mini PCs de ACEMAGIC en oferta, del Ryzen Embedded al Core i7",
+      "titular": "El Atlético Femenino cierra a una delantera, con LaLiga ya comenzada",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-18T17:00:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/elrecomendador/ofertas/20260918/1004227903/254-759-euros-hay-potencia-diferencia-mini-pcs-acemagic-oferta-ryzen-embedded-core-i7-mkt-alie.html"
+      "fecha": "2026-09-18T20:15:08+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20260918/1004228836/atletico-femenino-cierra-delantera-laliga-comenzada.html"
     },
     {
       "titular": "La joya de 15 años que quiere escapar del United asombra a la prensa inglesa",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/real-madrid/opinion/2026/09/16/espi-evita-ridiculo-mourinho.html"
     },
     {
-      "titular": "El tiempo para Cursa de la Mercè 2026: predicción meteorológica de Barcelona este domingo 20 de septiembre",
+      "titular": "Un desconocido Jon Rahm acaba 138º y último a 23 golpes del líder en Wentworth",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-18T16:57:40+02:00",
-      "enlace": "https://www.mundodeportivo.com/running/20260918/1004228638/cursa-merce-2026-prediccion-meteorologica-barcelona-domingo-20-septiembre.html"
+      "fecha": "2026-09-18T20:10:21+02:00",
+      "enlace": "https://www.mundodeportivo.com/golf/20260918/1004228834/desconocido-jon-rahm-acaba-138o-ultimo-23-golpes-lider-wentworth.html"
     },
     {
-      "titular": "Woody Allen inicia el rodaje de su próxima película en Madrid y cierra el fichaje de este famoso actor catalán",
+      "titular": "El restaurante de Ibiza donde para a comer José Elías: \"Tienen buen producto\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-18T16:53:52+02:00",
-      "enlace": "https://www.mundodeportivo.com/elotromundo/television/20260918/1004228772/woody-allen-iniciara-rodaje-proxima-pelicula-5-octubre-madrid-cierra-fichaje-famoso-actor-catalan-dct.html"
+      "fecha": "2026-09-18T20:10:06+02:00",
+      "enlace": "https://www.mundodeportivo.com/foodie/20260918/1004228833/restaurante-ibiza-comer-jose-elias-buen-producto-te-quedas-loquisimo-ambientacion-dct.html"
     },
     {
-      "titular": "Ramis, sobre Sergio Herrera: \"Dudar o echar gasolina a la situación de él me parece injusto\"",
+      "titular": "Zidane se explica sobre Mbappé, Tchouaméni y Benzema",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-18T16:41:02+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/osasuna/20260918/1004228761/ramis-sobre-sergio-herrera-dudar-echar-gasolina-situacion-me-parece-injusto.html"
+      "fecha": "2026-09-18T20:08:12+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/uefa-nations-league/20260918/1004228835/zidane-explica-sobre-mbappe-tchouameni-benzema.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 24,
+    "antiguedad_minima_min": 29,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 3822,
+        "antiguedad_min": 4012,
         "descartados_por_gancho": 8
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 141,
+        "items": 137,
         "error": null,
-        "antiguedad_min": 24,
-        "descartados_por_gancho": 6
+        "antiguedad_min": 29,
+        "descartados_por_gancho": 7
       },
       {
         "medio": "Sport",

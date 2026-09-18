@@ -2,62 +2,61 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-09-18T17:37:17+02:00",
+  "generado": "2026-09-18T20:47:32+02:00",
   "titulares": [
     {
-      "titular": "Werner Herzog: «A los jóvenes les digo que no vivan una vida dictada por algoritmos»",
-      "medios": [
-        "El País",
-        "ABC"
-      ],
-      "consenso": 2,
-      "fecha": "2026-09-18T17:30:51+02:00",
-      "enlace": "https://www.abc.es/cultura/werner-herzog-donostia-veterano-imparable-jovenes-digo-20260918160321-nt.html"
-    },
-    {
-      "titular": "El Gobierno propone incorporar progresivamente a 45.000 estudiantes con discapacidad a la escuela ordinaria",
+      "titular": "Crisis en Ceuta y actualidad política, en directo | El Gobierno cree que el operativo en Ceuta ha salido muy bien para lo difícil que era y llama “irresponsable” a Feijóo",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-18T17:29:26+02:00",
-      "enlace": "https://elpais.com/educacion/2026-09-18/el-gobierno-propone-incorporar-progresivamente-a-45000-estudiantes-con-discapacidad-a-la-escuela-ordinaria.html"
+      "fecha": "2026-09-18T20:41:54+02:00",
+      "enlace": "https://elpais.com/espana/2026-09-18/crisis-en-ceuta-y-actualidad-politica-en-directo.html"
     },
     {
-      "titular": "El presidente del puerto de Ceuta denuncia que «se ha enterado por la televisión» del traslado a los inmigrantes",
+      "titular": "Revuelta republicana contra Trump por las malas encuestas para las elecciones de medio mandato",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-18T17:16:43+02:00",
-      "enlace": "https://www.abc.es/espana/presidente-puerto-ceuta-denuncia-enterado-television-traslado-20260918113030-nt.html"
+      "fecha": "2026-09-18T20:30:53+02:00",
+      "enlace": "https://www.abc.es/internacional/revuelta-republicana-trump-malas-encuestas-elecciones-medio-20260918202129-nt.html"
     },
     {
-      "titular": "La historia del sospechoso de matar a Claudia Tacoronte: paso por la cárcel y robos menores",
+      "titular": "La Palma dice adiós al Telescopio de Treinta Metros",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-18T17:14:59+02:00",
-      "enlace": "https://www.abc.es/espana/historia-sospechoso-matar-claudia-tacoronte-paso-carcel-20260918170421-nt.html"
+      "fecha": "2026-09-18T20:28:03+02:00",
+      "enlace": "https://www.abc.es/ciencia/palma-dice-adios-telescopio-treinta-metros-20260918201524-nt.html"
     },
     {
-      "titular": "Adiós al mueble bajo de TV: 5 alternativas elegantes, funcionales y perfectas para salones pequeños",
+      "titular": "La casa real noruega muestra por primera vez el sarcófago del rey Harald",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-18T20:20:14+02:00",
+      "enlace": "https://elpais.com/gente/2026-09-18/la-casa-real-noruega-muestra-por-primera-vez-el-sarcofago-del-rey-harald.html"
+    },
+    {
+      "titular": "La romántica boda de Phoebe Dynevor, actriz de ‘Los Bridgerton’ y Cameron Fuller: dos vestidos y un escenario cargado de historia",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-18T17:00:00+02:00",
-      "enlace": "https://www.lavanguardia.com/comprar/hogar-cocina/20260918/11636954/adios-mueble-tv-5-alternativas-elegantes-funcionales-perfectas-salones-pequenos.html"
+      "fecha": "2026-09-18T19:43:27+02:00",
+      "enlace": "https://www.lavanguardia.com/gente/20260918/11638707/romantica-boda-phoebe-dynevor-actriz-bridgerton-cameron-fuller-dos-vestidos-escenario-cargado-historia.html"
     },
     {
-      "titular": "La historia detrás de la modelo que abrió el desfile de Celia B",
+      "titular": "Vueling recibe el premio a la mejor ‘low cost’ de Europa",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-18T16:53:33+02:00",
-      "enlace": "https://www.lavanguardia.com/magazine/moda/20260918/11636568/historia-detras-modelo-abrio-desfile-celia-b.html"
+      "fecha": "2026-09-18T19:37:08+02:00",
+      "enlace": "https://www.lavanguardia.com/economia/20260918/11638705/vueling-recibe-premio-mejor-low-cost-europa.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -75,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 6,
+    "antiguedad_minima_min": 5,
     "detalle": [
       {
         "medio": "RTVE",
@@ -83,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2248832,
+        "antiguedad_min": 2249022,
         "descartados_por_gancho": 0
       },
       {
@@ -91,7 +90,7 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 500",
+        "error": "HTTP 403",
         "antiguedad_min": null
       },
       {
@@ -100,26 +99,26 @@
         "ok": true,
         "items": 150,
         "error": null,
-        "antiguedad_min": 7,
+        "antiguedad_min": 5,
         "descartados_por_gancho": 6
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 131,
+        "items": 134,
         "error": null,
-        "antiguedad_min": 37,
+        "antiguedad_min": 64,
         "descartados_por_gancho": 12
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 25,
+        "items": 24,
         "error": null,
-        "antiguedad_min": 6,
-        "descartados_por_gancho": 0
+        "antiguedad_min": 16,
+        "descartados_por_gancho": 1
       }
     ]
   }
