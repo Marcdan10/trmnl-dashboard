@@ -2,16 +2,16 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-09-19T03:22:27+02:00",
+  "generado": "2026-09-19T08:11:51+02:00",
   "titulares": [
     {
-      "titular": "Raphinha: \"Pienso renovar y ojalá acabar mi carrera en el Barça\"",
+      "titular": "Prueba de fuego en Sevilla para un Barça con alicientes",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-18T23:53:02+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260918/1004228845/raphinha-pienso-renovar-ojala-acabar-mi-carrera-barca.html"
+      "fecha": "2026-09-19T06:30:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260919/1004228806/prueba-fuego-sevilla-barca-alicientes.html"
     },
     {
       "titular": "La joya de 15 años que quiere escapar del United asombra a la prensa inglesa",
@@ -23,13 +23,13 @@
       "enlace": "https://www.marca.com/futbol/album/2026/09/16/portadas-dia.html"
     },
     {
-      "titular": "1-3: La noche más negra de Manolo González",
+      "titular": "Cómo Flick dosifica a Pedri, uno de sus jugadores clave",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-18T23:03:55+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/rcd-espanyol/20260918/1004228870/espanyol-nino-manos-elche.html"
+      "fecha": "2026-09-19T07:00:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260919/1004228900/como-flick-dosifica-pedri-jugadores-clave-barca.html"
     },
     {
       "titular": "\"¿Qué narices le pasa al Madrid?\"",
@@ -41,22 +41,22 @@
       "enlace": "https://www.marca.com/futbol/real-madrid/opinion/2026/09/16/espi-evita-ridiculo-mourinho.html"
     },
     {
-      "titular": "0-6: Pina hace un 'hat trick' con un memorable gol desde medio campo",
+      "titular": "1-3: La noche más negra de Manolo González",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-18T22:40:32+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260918/1004228864/pina-hat-trick-memorable-gol-medio-campo.html"
+      "fecha": "2026-09-18T23:03:55+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/rcd-espanyol/20260918/1004228870/espanyol-nino-manos-elche.html"
     },
     {
-      "titular": "Última sesión para Sevilla, sin Joan Garcia y con una novedad",
+      "titular": "\"Quiero poner mi nombre en el libro del ascenso\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-18T11:23:16+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260918/1004228610/ultima-sesion-sevilla-joan-garcia-novedad.html"
+      "fecha": "2026-09-19T07:00:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/girona-fc/20260919/1004228560/fran-beltran.html"
     },
     {
       "titular": "\"El problema me parece obvio...\"",
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 170,
+    "antiguedad_minima_min": 22,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 4407,
+        "antiguedad_min": 4696,
         "descartados_por_gancho": 8
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 139,
+        "items": 144,
         "error": null,
-        "antiguedad_min": 170,
-        "descartados_por_gancho": 6
+        "antiguedad_min": 22,
+        "descartados_por_gancho": 4
       },
       {
         "medio": "Sport",

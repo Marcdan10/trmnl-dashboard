@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-09-19T03:22:22+02:00",
+  "generado": "2026-09-19T08:11:45+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -14,13 +14,14 @@
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
     },
     {
-      "titular": "El Gobierno culpa al contencioso judicial del “efecto llamada” en el campamento del puerto de Ceuta",
+      "titular": "Trump anuncia el “control permanente” sobre la seguridad de Groenlandia",
       "medios": [
+        "El País",
         "La Vanguardia"
       ],
-      "consenso": 1,
-      "fecha": "2026-09-18T12:58:53+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20260918/11638163/gobierno-atribuye-contencioso-judicial-efecto-llamada-campamento-puerto-ceuta.html"
+      "consenso": 2,
+      "fecha": "2026-09-19T00:41:39+02:00",
+      "enlace": "https://www.lavanguardia.com/internacional/20260919/11638945/trump-anuncia-haber-obtenido-control-permanente-sobre-seguridad-groenlandia.html"
     },
     {
       "titular": "Revuelta republicana contra Trump por las malas encuestas para las elecciones de medio mandato",
@@ -41,22 +42,13 @@
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
     },
     {
-      "titular": "Caos y disparos al aire: la operación de realojo termina con miles de inmigrantes de vuelta a las playas",
+      "titular": "La Fiscalía investiga abusos y vejaciones en los centros de menores de Ceuta",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-18T18:24:10+02:00",
-      "enlace": "https://elpais.com/espana/2026-09-18/tension-y-caos-en-el-traslado-de-los-migrantes-de-la-playa-benitez-al-puerto-de-ceuta.html"
-    },
-    {
-      "titular": "Aznar acusa a Sánchez de “traición” y pide que los militares “garanticen la integridad” de España",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-18T11:45:57+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20260918/11638049/aznar-acusa-sanchez-traicion-pide-militares-garanticen-integridad-espana.html"
+      "fecha": "2026-09-19T05:30:01+02:00",
+      "enlace": "https://elpais.com/espana/2026-09-19/la-fiscalia-investiga-abusos-y-vejaciones-en-los-centros-de-menores-de-ceuta.html"
     },
     {
       "titular": "Los perros que combaten la apatía y el bajo estado de ánimo en las residencias",
@@ -66,6 +58,15 @@
       "consenso": 1,
       "fecha": "2026-09-19T02:48:13+02:00",
       "enlace": "https://www.abc.es/familia/mayores/perros-consiguen-manana-residencia-diferente-20260919010543-nt.html"
+    },
+    {
+      "titular": "La terapeuta pidió a su ayudante que indicara a Jonathan Andic los “puntos peligrosos” de la ruta",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-19T06:00:00+02:00",
+      "enlace": "https://www.lavanguardia.com/sucesos/20260919/11638717/terapeuta-pidio-ayudante-indicara-jonathan-andic-puntos-peligrosos-ruta.html"
     }
   ],
   "salud": {
@@ -74,7 +75,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 29,
+    "antiguedad_minima_min": 70,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +83,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2249417,
+        "antiguedad_min": 2249706,
         "descartados_por_gancho": 0
       },
       {
@@ -90,26 +91,26 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 403",
+        "error": "HTTP 500",
         "antiguedad_min": null
       },
       {
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 152,
+        "items": 136,
         "error": null,
-        "antiguedad_min": 173,
-        "descartados_por_gancho": 5
+        "antiguedad_min": 71,
+        "descartados_por_gancho": 11
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 132,
+        "items": 116,
         "error": null,
-        "antiguedad_min": 160,
-        "descartados_por_gancho": 12
+        "antiguedad_min": 70,
+        "descartados_por_gancho": 17
       },
       {
         "medio": "ABC",
@@ -117,7 +118,7 @@
         "ok": true,
         "items": 18,
         "error": null,
-        "antiguedad_min": 29,
+        "antiguedad_min": 318,
         "descartados_por_gancho": 7
       }
     ]
