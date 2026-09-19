@@ -2,61 +2,62 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-09-19T13:17:25+02:00",
+  "generado": "2026-09-19T16:35:40+02:00",
   "titulares": [
     {
-      "titular": "RSF denuncia “campaña de odio y difamación” contra cuatro periodistas críticos en Marruecos",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-19T13:00:12+02:00",
-      "enlace": "https://www.lavanguardia.com/internacional/20260919/11639071/rsf-denuncia-campana-odio-difamacion-cuatro-periodistas-criticos-marruecos.html"
-    },
-    {
-      "titular": "Hallan muerta en el Guadalquivir a la vecina desaparecida de Mairena del Aljarafe",
+      "titular": "Poseidón: la «navaja suiza» de la Armada para apoyar a los submarinos S-80",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-19T12:47:47+02:00",
-      "enlace": "https://www.abc.es/sevilla/provincia/aljarafe/hallan-muerta-guadalquivir-altura-san-juan-aznalfarache-20260919122859-nts.html"
+      "fecha": "2026-09-19T16:20:18+02:00",
+      "enlace": "https://www.abc.es/espana/poseidon-navaja-suiza-armada-apoyar-despliegue-submarinos-20260919133250-nt.html"
     },
     {
-      "titular": "La justica examinará la legalidad del uso del Puerto de Ceuta para la acogida de migrantes",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-19T12:41:14+02:00",
-      "enlace": "https://elpais.com/espana/2026-09-19/la-justica-examinara-la-legalidad-del-uso-del-puerto-de-ceuta-para-la-acogida-de-migrantes.html"
-    },
-    {
-      "titular": "Shakira convierte Madrid en un templo de 50.000 fieles entregados",
+      "titular": "Carmen Machi: «Las mujeres maduras también interesan»",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-19T12:41:09+02:00",
-      "enlace": "https://www.abc.es/cultura/musica/shakira-corona-mundo-shakira-ante-50000-feligreses-20260918230354-nt.html"
+      "fecha": "2026-09-19T16:13:22+02:00",
+      "enlace": "https://www.abc.es/cultura/cine/carmen-machi-premio-nacional-cinematografia-2026-mujeres-20260919133657-nt.html"
     },
     {
-      "titular": "Simeone: “Tengo mucha admiración por Mourinho”",
+      "titular": "Un soberbio Jorge Martín recupera el liderato a Marc Márquez en la Sprint de Austria",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-19T12:37:50+02:00",
-      "enlace": "https://www.lavanguardia.com/deportes/atletico-de-madrid/20260919/11639063/simeone-admiracion-mourinho.html"
+      "fecha": "2026-09-19T15:37:55+02:00",
+      "enlace": "https://www.lavanguardia.com/deportes/20260919/11639101/motogp-gp-austria-spielberg-red-bull-ring-sprint-martin-marquez-duelo-liderato.html"
     },
     {
-      "titular": "Naomi Watts, premio Donostia: “El odio está creciendo y lo que ocurre en el mundo asusta”",
+      "titular": "Los aeropuertos de Aena se preparan para atender 100 millones más de viajeros anuales dentro de 15 años",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-19T12:14:32+02:00",
-      "enlace": "https://elpais.com/cultura/cine/2026-09-19/naomi-watts-premio-donostia-el-odio-esta-creciendo-y-lo-que-ocurre-en-el-mundo-asusta.html"
+      "fecha": "2026-09-19T15:25:57+02:00",
+      "enlace": "https://elpais.com/economia/2026-09-19/aena-se-prepara-para-atender-100-millones-mas-de-viajeros-anuales-dentro-de-15-anos.html"
+    },
+    {
+      "titular": "La Fiscalía remite al juez denuncias de menores en Ceuta por vejaciones y abusos",
+      "medios": [
+        "El País",
+        "La Vanguardia"
+      ],
+      "consenso": 2,
+      "fecha": "2026-09-19T15:22:31+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20260919/11639111/fiscalia-lleva-juez-denuncias-menores-presuntos-malos-tratos-centros-ceuta.html"
+    },
+    {
+      "titular": "El auge del Google Pixel 11 Pro deja en oferta las versiones anteriores del Android de moda: 7 alternativas que son una ganga ahora mismo",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-19T14:30:00+02:00",
+      "enlace": "https://www.lavanguardia.com/comprar/tecnologia/20260919/11638037/google-pixel-11-pro-deja-oferta-versiones-anteriores-android-7-alternativas-ganga-mkt-alie.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -74,7 +75,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 17,
+    "antiguedad_minima_min": 15,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +83,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2250012,
+        "antiguedad_min": 2250210,
         "descartados_por_gancho": 0
       },
       {
@@ -97,28 +98,28 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 139,
+        "items": 140,
         "error": null,
-        "antiguedad_min": 36,
-        "descartados_por_gancho": 11
+        "antiguedad_min": 69,
+        "descartados_por_gancho": 10
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 120,
+        "items": 119,
         "error": null,
-        "antiguedad_min": 17,
+        "antiguedad_min": 57,
         "descartados_por_gancho": 17
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 23,
+        "items": 25,
         "error": null,
-        "antiguedad_min": 29,
-        "descartados_por_gancho": 2
+        "antiguedad_min": 15,
+        "descartados_por_gancho": 0
       }
     ]
   }

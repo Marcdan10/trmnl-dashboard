@@ -2,8 +2,17 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-09-19T13:17:28+02:00",
+  "generado": "2026-09-19T16:35:43+02:00",
   "titulares": [
+    {
+      "titular": "El Gobierno de Portugal explica la compra de acciones a Amancio Ortega en la empresa REN",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-19T13:46:14+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/09/19/6aae7467468aeb78728b4575.html"
+    },
     {
       "titular": "China y EEUU afinan en Nueva York la visita de Xi con la tregua comercial en juego",
       "medios": [
@@ -57,15 +66,6 @@
       "consenso": 1,
       "fecha": "2026-09-19T00:57:20+02:00",
       "enlace": "https://www.expansion.com/fueradeserie/viajes/2026/09/19/6a9a7a47468aeb8d378b45a1.html"
-    },
-    {
-      "titular": "El retraso en la ley 'cripto' de EEUU frena el despegue del sector",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-19T00:57:19+02:00",
-      "enlace": "https://www.expansion.com/mercados/criptomonedas/2026/09/19/6aad7637e5fdeab6628b4583.html"
     }
   ],
   "salud": {
@@ -78,7 +78,7 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 176,
+    "antiguedad_minima_min": 169,
     "detalle": [
       {
         "medio": "Expansión",
@@ -86,7 +86,7 @@
         "ok": true,
         "items": 77,
         "error": null,
-        "antiguedad_min": 176,
+        "antiguedad_min": 169,
         "descartados_por_gancho": 1
       },
       {

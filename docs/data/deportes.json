@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-09-19T13:17:29+02:00",
+  "generado": "2026-09-19T16:35:44+02:00",
   "titulares": [
     {
-      "titular": "Goleadores recientes del derbi: Julián Alvarez lidera una lista con representación variada",
+      "titular": "Mourinho: \"Es difícil escuchar una cosa positiva del Real Madrid\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-19T12:49:42+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260919/1004228997/goleadores-recientes-derbi-julian-alvarez-lidera-lista-representacion-variada.html"
+      "fecha": "2026-09-19T16:22:52+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260919/1004229082/mourinho-dificil-escuchar-cosa-positiva-real-madrid.html"
     },
     {
-      "titular": "Mercedes quiere liquidar el Mundial: en Malasia comienzan las mejoras",
+      "titular": "¡Deco anuncia las renovaciones inminentes de Raphinha (hasta 2030), Bernal y Espart!",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-19T12:46:27+02:00",
-      "enlace": "https://www.mundodeportivo.com/motor/f1/20260919/1004228996/mercedes-quiere-liquidar-mundial-malasia-comienzan-mejoras.html"
+      "fecha": "2026-09-19T16:21:41+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260919/1004229080/deco-anuncia-renovaciones-inminentes-raphinha-bernal-espart.html"
     },
     {
       "titular": "La joya de 15 años que quiere escapar del United asombra a la prensa inglesa",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/real-madrid/opinion/2026/09/16/espi-evita-ridiculo-mourinho.html"
     },
     {
-      "titular": "Olivé: \"Este año ya no habrá que hacer más devaluaciones\"",
+      "titular": "2-3: El Tottenham no levanta cabeza",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-19T12:33:35+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260919/1004228967/olive.html"
+      "fecha": "2026-09-19T16:21:16+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/premier-league/20260919/1004229081/tottenham-no-levanta-cabeza.html"
     },
     {
-      "titular": "La partida prevista de traspasos del Barça 2026-27, garantizada",
+      "titular": "Así queda la clasificación MotoGP: cambio de líder inesperado tras el sprint de Spielberg",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-19T12:29:30+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260919/1004228987/partida-prevista-traspasos-barca-2026-27-garantizada.html"
+      "fecha": "2026-09-19T16:15:56+02:00",
+      "enlace": "https://www.mundodeportivo.com/motor/motogp/20260919/1004229077/asi-queda-clasificacion-motogp-cambio-lider-inesperado-sprint-spielberg.html"
     },
     {
-      "titular": "Simeone: \"¿Derbi? Hay talento, pero la palabra delante de todo es seguridad\"",
+      "titular": "Vivian se incorporará al grupo en el parón liguero",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-19T12:22:16+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20260919/1004228983/simeone-derbi-hay-talento-palabra-delante-seguridad.html"
+      "fecha": "2026-09-19T16:07:42+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/athletic-bilbao/20260919/1004228952/vivian-incorporara-grupo-paron-liguero.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 27,
+    "antiguedad_minima_min": 12,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 5002,
+        "antiguedad_min": 5200,
         "descartados_por_gancho": 8
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 148,
+        "items": 143,
         "error": null,
-        "antiguedad_min": 27,
-        "descartados_por_gancho": 3
+        "antiguedad_min": 12,
+        "descartados_por_gancho": 5
       },
       {
         "medio": "Sport",
