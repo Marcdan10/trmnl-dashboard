@@ -1,26 +1,17 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "ultimas",
-  "generado": "2026-09-19T21:53:41+02:00",
+  "modo": "portadas",
+  "generado": "2026-09-20T00:01:55+02:00",
   "titulares": [
     {
-      "titular": "Decreto de listas de espera: \"Es necesaria una valoración más exhaustiva y método de trabajo\"",
+      "titular": "De La Rioja a Europa: las claves de la farmacia rural asistencial que ha conquistado a la OMS",
       "medios": [
-        "Redacción Médica"
+        "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-09-19T17:56:33+02:00",
-      "enlace": "https://www.redaccionmedica.com/autonomias/20260919/decreto-de-listas-espera-es-necesaria-una-valoracion-mas-exhaustiva-metodo-trabajo/353150_0.html"
-    },
-    {
-      "titular": "La Aemps retira lotes de duloxetina, un fármaco para la depresión y dolores crónicos",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-19T17:49:25+02:00",
-      "enlace": "https://www.redaccionmedica.com/empresas/industria-farmaceutica/20260919/la-aemps-retira-lotes-de-duloxetina-un-farmaco-para-la-depresion-dolores-cronicos/353198_0.html"
+      "fecha": "2026-09-18T13:40:49+02:00",
+      "enlace": "https://diariofarma.com/2026/09/18/de-la-rioja-a-europa-las-claves-de-la-farmacia-rural-asistencial-que-ha-conquistado-a-la-oms"
     },
     {
       "titular": "La OMS se fija en el Programa de Farmacia Rural de La Rioja para uno de sus informes estrella",
@@ -32,22 +23,13 @@
       "enlace": "https://elglobalfarma.com/farmacia/oms-programa-farmacia-rural-rioja-estudios-informe-regional-2027/"
     },
     {
-      "titular": "De La Rioja a Europa: las claves de la farmacia rural asistencial que ha conquistado a la OMS",
+      "titular": "Decreto de listas de espera: \"Es necesaria una valoración más exhaustiva y método de trabajo\"",
       "medios": [
-        "Diariofarma"
+        "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-09-18T13:40:49+02:00",
-      "enlace": "https://diariofarma.com/2026/09/18/de-la-rioja-a-europa-las-claves-de-la-farmacia-rural-asistencial-que-ha-conquistado-a-la-oms"
-    },
-    {
-      "titular": "Inglaterra marca el camino para la farmacia comunitaria",
-      "medios": [
-        "El Global"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-18T13:35:43+02:00",
-      "enlace": "https://elglobalfarma.com/opinion/editorial/inglaterra-camino-farmacia-comunitaria/"
+      "fecha": "2026-09-19T17:56:33+02:00",
+      "enlace": "https://www.redaccionmedica.com/autonomias/20260919/decreto-de-listas-espera-es-necesaria-una-valoracion-mas-exhaustiva-metodo-trabajo/353150_0.html"
     },
     {
       "titular": "Las terapias avanzadas elevan la supervivencia del cáncer hematológico a 5 años al 63 %, según la SEHH",
@@ -59,13 +41,31 @@
       "enlace": "https://diariofarma.com/2026/09/18/las-terapias-avanzadas-elevan-la-supervivencia-del-cancer-hematologico-a-5-anos-al-63-segun-la-sehh"
     },
     {
-      "titular": "Veterinaria rechaza la ampliación de su número de facultades sin garantías formativas",
+      "titular": "Inglaterra marca el camino para la farmacia comunitaria",
+      "medios": [
+        "El Global"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-18T13:35:43+02:00",
+      "enlace": "https://elglobalfarma.com/opinion/editorial/inglaterra-camino-farmacia-comunitaria/"
+    },
+    {
+      "titular": "La revolución silenciosa de la carrera profesional en sanidad: las comunidades buscan fórmulas más allá de la antigüedad",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-09-19T17:35:41+02:00",
-      "enlace": "https://www.redaccionmedica.com/salud-animal/20260919/veterinaria-rechaza-la-ampliacion-de-su-numero-facultades-sin-garantias-formativas/348627_0.html"
+      "fecha": "2026-09-19T10:33:36+02:00",
+      "enlace": "https://www.redaccionmedica.com/autonomias/20260919/la-revolucion-silenciosa-de-la-carrera-profesional-en-sanidad-las-comunidades-buscan-formulas-mas-alla-antiguedad/353052_0.html"
+    },
+    {
+      "titular": "La EMA respalda 12 nuevos medicamentos y estrecha el margen de uso de la ipidacrina",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-18T13:14:55+02:00",
+      "enlace": "https://diariofarma.com/2026/09/18/la-ema-respalda-12-nuevos-medicamentos-y-estrecha-el-margen-de-uso-de-la-ipidacrina"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 237,
+    "antiguedad_minima_min": 365,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 1932,
+        "antiguedad_min": 2061,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 9,
         "error": null,
-        "antiguedad_min": 1919,
+        "antiguedad_min": 2047,
         "descartados_por_gancho": 1
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 237,
+        "antiguedad_min": 365,
         "descartados_por_gancho": 0
       },
       {

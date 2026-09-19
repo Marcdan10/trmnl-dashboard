@@ -1,63 +1,9 @@
 {
   "pantalla": "generales",
   "titulo": "Titulares",
-  "modo": "ultimas",
-  "generado": "2026-09-19T21:53:29+02:00",
+  "modo": "portadas",
+  "generado": "2026-09-20T00:01:47+02:00",
   "titulares": [
-    {
-      "titular": "El Real Madrid reina en la primera edición de la Supercopa Europea",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-19T21:50:23+02:00",
-      "enlace": "https://www.abc.es/deportes/baloncesto/real-madrid-reina-primera-edicion-supercopa-europea-20260919213015-nt.html"
-    },
-    {
-      "titular": "Sevilla - Barcelona en directo | Raphinha iguala el partido",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-19T21:48:17+02:00",
-      "enlace": "https://elpais.com/deportes/futbol/2026-09-19/sevilla-barcelona-en-directo-el-partido-de-la-liga-en-vivo.html"
-    },
-    {
-      "titular": "La Audiencia Nacional da 20 días a Transportes para que envíe el expediente del campamento del Puerto",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-19T21:44:37+02:00",
-      "enlace": "https://www.abc.es/espana/audiencia-nacional-dias-transportes-envie-expediente-campamento-20260919162607-nt.html"
-    },
-    {
-      "titular": "Real Madrid-Olympiacos, la final de la Supercopa de la Euroliga en directo | El Real Madrid gana el título en un reñido partido ante Olympiacos",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-19T21:21:27+02:00",
-      "enlace": "https://elpais.com/deportes/baloncesto/2026-09-19/real-madrid-olympiacos-la-final-de-la-supercopa-de-la-euroliga-en-directo.html"
-    },
-    {
-      "titular": "Moldavia y Luxemburgo denuncian la presencia ilegal de drones en plena escalada de tensión con Rusia",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-19T21:16:32+02:00",
-      "enlace": "https://www.lavanguardia.com/internacional/20260919/11639239/moldavia-luxemburgo-denuncian-presencia-ilegal-drones-plena-escalada-tension-rusia.html"
-    },
-    {
-      "titular": "Hallan el cadáver de una mujer con signos de violencia en una vivienda en Leganés",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-19T21:14:55+02:00",
-      "enlace": "https://www.lavanguardia.com/vida/20260919/11639237/hallan-cadaver-mujer-signos-violencia-vivienda-leganes.html"
-    },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
       "medios": [
@@ -66,6 +12,60 @@
       "consenso": 1,
       "fecha": "2022-06-10T01:05:00+02:00",
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
+    },
+    {
+      "titular": "La Fiscalía investiga abusos y vejaciones en los centros de menores de Ceuta",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-19T05:30:01+02:00",
+      "enlace": "https://elpais.com/espana/2026-09-19/la-fiscalia-investiga-abusos-y-vejaciones-en-los-centros-de-menores-de-ceuta.html"
+    },
+    {
+      "titular": "Dinamarca matiza que el pacto con Estados Unidos sobre Groenlandia será de “seguridad compartida”",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-19T00:41:39+02:00",
+      "enlace": "https://www.lavanguardia.com/internacional/20260919/11638945/trump-anuncia-haber-obtenido-control-permanente-sobre-seguridad-groenlandia.html"
+    },
+    {
+      "titular": "Laprovittola coloca al Joventut en 'su' final de la Supercopa",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-19T23:51:44+02:00",
+      "enlace": "https://www.abc.es/deportes/baloncesto/supercopa-joventutbaskonia-20260919191306-nt.html"
+    },
+    {
+      "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
+      "medios": [
+        "RTVE"
+      ],
+      "consenso": 1,
+      "fecha": "2022-06-10T00:03:00+02:00",
+      "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
+    },
+    {
+      "titular": "Comunidades gobernadas por PP y Vox siguen acogiendo a menores migrantes que llegaron a Ceuta antes de la crisis",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-19T05:30:01+02:00",
+      "enlace": "https://elpais.com/espana/2026-09-19/comunidades-gobernadas-por-pp-y-vox-siguen-acogiendo-a-menores-migrantes-que-llegaron-a-ceuta-antes-de-la-crisis.html"
+    },
+    {
+      "titular": "La OTAN celebra el acuerdo sobre Groenlandia por su importancia para la seguridad del Ártico",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-19T17:17:26+02:00",
+      "enlace": "https://www.lavanguardia.com/internacional/20260919/11639165/otan-celebra-acuerdo-sobre-groenlandia-importancia-seguridad-artico.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 3,
+    "antiguedad_minima_min": 10,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2250528,
+        "antiguedad_min": 2250656,
         "descartados_por_gancho": 0
       },
       {
@@ -90,25 +90,25 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 403",
+        "error": "HTTP 500",
         "antiguedad_min": null
       },
       {
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 137,
+        "items": 138,
         "error": null,
-        "antiguedad_min": 5,
+        "antiguedad_min": 27,
         "descartados_por_gancho": 9
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 125,
+        "items": 124,
         "error": null,
-        "antiguedad_min": 36,
+        "antiguedad_min": 102,
         "descartados_por_gancho": 17
       },
       {
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 3,
+        "antiguedad_min": 10,
         "descartados_por_gancho": 0
       }
     ]

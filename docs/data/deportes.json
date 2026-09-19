@@ -1,26 +1,17 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "ultimas",
-  "generado": "2026-09-19T21:53:34+02:00",
+  "modo": "portadas",
+  "generado": "2026-09-20T00:01:51+02:00",
   "titulares": [
     {
-      "titular": "Sevilla - Barcelona, la previa en directo",
+      "titular": "Imparable Barça, soberbio Raphinha",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-19T21:22:56+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260919/1004227321/sevilla-barcelona-directo-hoy-laliga-ea-sports-futbol-primera-division.html"
-    },
-    {
-      "titular": "La vida actual de la modelo Estíbaliz Sanz: así convive con un diagnóstico de esquizofrenia",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-19T21:19:39+02:00",
-      "enlace": "https://www.mundodeportivo.com/elotromundo/gente/20260919/1004229201/nueva-vida-estibaliz-sanz-explosiva-modelo-triunfo-tv-diagnosticada-esquizofrenia-paranoide-espera-valoracion-tribunal-medico-evalue-capacidad-laboral-dct.html"
+      "fecha": "2026-09-19T23:02:43+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260919/1004229167/cronica-sevilla-barca.html"
     },
     {
       "titular": "La joya de 15 años que quiere escapar del United asombra a la prensa inglesa",
@@ -32,6 +23,15 @@
       "enlace": "https://www.marca.com/futbol/album/2026/09/16/portadas-dia.html"
     },
     {
+      "titular": "Sevilla - Barcelona, la previa en directo",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-19T23:06:50+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260919/1004227321/sevilla-barcelona-directo-hoy-laliga-ea-sports-futbol.html"
+    },
+    {
       "titular": "\"¿Qué narices le pasa al Madrid?\"",
       "medios": [
         "Marca"
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/real-madrid/opinion/2026/09/16/espi-evita-ridiculo-mourinho.html"
     },
     {
-      "titular": "89-93: Primer título de la era Pedro Martínez en el Real Madrid",
+      "titular": "86-87: El Barça sufre hasta el final para tumbar al Valencia",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-19T21:18:38+02:00",
-      "enlace": "https://www.mundodeportivo.com/baloncesto/euroliga/20260919/1004229202/89-93-primer-titulo-pedro-martinez-real-madrid.html"
+      "fecha": "2026-09-19T23:34:26+02:00",
+      "enlace": "https://www.mundodeportivo.com/baloncesto/acb/20260919/1004229240/barca.html"
     },
     {
-      "titular": "Valencia Basket - Barça, en directo",
+      "titular": "\"El problema me parece obvio...\"",
       "medios": [
-        "Mundo Deportivo"
+        "Marca"
       ],
       "consenso": 1,
-      "fecha": "2026-09-19T21:18:20+02:00",
-      "enlace": "https://www.mundodeportivo.com/baloncesto/20260919/1004228571/valencia-basket-barca-directo-supercopa-endesa-basket-semifinales.html"
+      "fecha": "2026-09-15T23:56:38+02:00",
+      "enlace": "https://www.marca.com/futbol/real-madrid/2026/09/15/mourinho-mi-unica-critica-matar-partidos.html"
     },
     {
-      "titular": "La lista de convocados del Madrid para el derbi",
+      "titular": "Raphinha Nazario Da Souza: 'hat-trick' perfecto y exhibición del capitán",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-19T21:02:08+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/derbi-madrileno/20260919/1004229194/lista-convocados-madrid-derbi-metropolitano.html"
+      "fecha": "2026-09-19T21:38:31+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260919/1004229209/golazo-raphinha-empatar-pizjuan.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 30,
+    "antiguedad_minima_min": 7,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 5518,
+        "antiguedad_min": 5646,
         "descartados_por_gancho": 8
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 139,
+        "items": 154,
         "error": null,
-        "antiguedad_min": 30,
-        "descartados_por_gancho": 6
+        "antiguedad_min": 7,
+        "descartados_por_gancho": 3
       },
       {
         "medio": "Sport",
