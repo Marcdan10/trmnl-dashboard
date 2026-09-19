@@ -1,9 +1,63 @@
 {
   "pantalla": "generales",
   "titulo": "Titulares",
-  "modo": "portadas",
-  "generado": "2026-09-19T08:11:45+02:00",
+  "modo": "ultimas",
+  "generado": "2026-09-19T13:17:25+02:00",
   "titulares": [
+    {
+      "titular": "RSF denuncia “campaña de odio y difamación” contra cuatro periodistas críticos en Marruecos",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-19T13:00:12+02:00",
+      "enlace": "https://www.lavanguardia.com/internacional/20260919/11639071/rsf-denuncia-campana-odio-difamacion-cuatro-periodistas-criticos-marruecos.html"
+    },
+    {
+      "titular": "Hallan muerta en el Guadalquivir a la vecina desaparecida de Mairena del Aljarafe",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-19T12:47:47+02:00",
+      "enlace": "https://www.abc.es/sevilla/provincia/aljarafe/hallan-muerta-guadalquivir-altura-san-juan-aznalfarache-20260919122859-nts.html"
+    },
+    {
+      "titular": "La justica examinará la legalidad del uso del Puerto de Ceuta para la acogida de migrantes",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-19T12:41:14+02:00",
+      "enlace": "https://elpais.com/espana/2026-09-19/la-justica-examinara-la-legalidad-del-uso-del-puerto-de-ceuta-para-la-acogida-de-migrantes.html"
+    },
+    {
+      "titular": "Shakira convierte Madrid en un templo de 50.000 fieles entregados",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-19T12:41:09+02:00",
+      "enlace": "https://www.abc.es/cultura/musica/shakira-corona-mundo-shakira-ante-50000-feligreses-20260918230354-nt.html"
+    },
+    {
+      "titular": "Simeone: “Tengo mucha admiración por Mourinho”",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-19T12:37:50+02:00",
+      "enlace": "https://www.lavanguardia.com/deportes/atletico-de-madrid/20260919/11639063/simeone-admiracion-mourinho.html"
+    },
+    {
+      "titular": "Naomi Watts, premio Donostia: “El odio está creciendo y lo que ocurre en el mundo asusta”",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-19T12:14:32+02:00",
+      "enlace": "https://elpais.com/cultura/cine/2026-09-19/naomi-watts-premio-donostia-el-odio-esta-creciendo-y-lo-que-ocurre-en-el-mundo-asusta.html"
+    },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
       "medios": [
@@ -12,61 +66,6 @@
       "consenso": 1,
       "fecha": "2022-06-10T01:05:00+02:00",
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
-    },
-    {
-      "titular": "Trump anuncia el “control permanente” sobre la seguridad de Groenlandia",
-      "medios": [
-        "El País",
-        "La Vanguardia"
-      ],
-      "consenso": 2,
-      "fecha": "2026-09-19T00:41:39+02:00",
-      "enlace": "https://www.lavanguardia.com/internacional/20260919/11638945/trump-anuncia-haber-obtenido-control-permanente-sobre-seguridad-groenlandia.html"
-    },
-    {
-      "titular": "Revuelta republicana contra Trump por las malas encuestas para las elecciones de medio mandato",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-19T02:53:06+02:00",
-      "enlace": "https://www.abc.es/internacional/revuelta-republicana-trump-malas-encuestas-elecciones-medio-20260918202129-nt.html"
-    },
-    {
-      "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
-      "medios": [
-        "RTVE"
-      ],
-      "consenso": 1,
-      "fecha": "2022-06-10T00:03:00+02:00",
-      "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
-    },
-    {
-      "titular": "La Fiscalía investiga abusos y vejaciones en los centros de menores de Ceuta",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-19T05:30:01+02:00",
-      "enlace": "https://elpais.com/espana/2026-09-19/la-fiscalia-investiga-abusos-y-vejaciones-en-los-centros-de-menores-de-ceuta.html"
-    },
-    {
-      "titular": "Los perros que combaten la apatía y el bajo estado de ánimo en las residencias",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-19T02:48:13+02:00",
-      "enlace": "https://www.abc.es/familia/mayores/perros-consiguen-manana-residencia-diferente-20260919010543-nt.html"
-    },
-    {
-      "titular": "La terapeuta pidió a su ayudante que indicara a Jonathan Andic los “puntos peligrosos” de la ruta",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-19T06:00:00+02:00",
-      "enlace": "https://www.lavanguardia.com/sucesos/20260919/11638717/terapeuta-pidio-ayudante-indicara-jonathan-andic-puntos-peligrosos-ruta.html"
     }
   ],
   "salud": {
@@ -75,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 70,
+    "antiguedad_minima_min": 17,
     "detalle": [
       {
         "medio": "RTVE",
@@ -83,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2249706,
+        "antiguedad_min": 2250012,
         "descartados_por_gancho": 0
       },
       {
@@ -91,35 +90,35 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 500",
+        "error": "HTTP 403",
         "antiguedad_min": null
       },
       {
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 136,
+        "items": 139,
         "error": null,
-        "antiguedad_min": 71,
+        "antiguedad_min": 36,
         "descartados_por_gancho": 11
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 116,
+        "items": 120,
         "error": null,
-        "antiguedad_min": 70,
+        "antiguedad_min": 17,
         "descartados_por_gancho": 17
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 18,
+        "items": 23,
         "error": null,
-        "antiguedad_min": 318,
-        "descartados_por_gancho": 7
+        "antiguedad_min": 29,
+        "descartados_por_gancho": 2
       }
     ]
   }
