@@ -2,8 +2,35 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-09-19T16:35:43+02:00",
+  "generado": "2026-09-19T19:40:18+02:00",
   "titulares": [
+    {
+      "titular": "Llega la nueva era de la guerra controlada con IA",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-19T19:28:02+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/09/19/6aae9eeee5fdeae26d8b456e.html"
+    },
+    {
+      "titular": "¿Podemos fiarnos de la nueva IA médica?",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-19T19:27:02+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/09/19/6aaea643468aeb710e8b458a.html"
+    },
+    {
+      "titular": "Chips: los soportes esperan más abajo",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-19T19:06:24+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/09/19/6aa2a76f468aebd5218b456d.html"
+    },
     {
       "titular": "El Gobierno de Portugal explica la compra de acciones a Amancio Ortega en la empresa REN",
       "medios": [
@@ -39,33 +66,6 @@
       "consenso": 1,
       "fecha": "2026-09-19T00:58:45+02:00",
       "enlace": "https://www.expansion.com/empresas/motor/2026/09/19/6aad8d3ee5fdea3d1c8b4588.html"
-    },
-    {
-      "titular": "Los 'hackers' usan IA de Anthropic para entrar en OpenAI",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-19T00:57:54+02:00",
-      "enlace": "https://www.expansion.com/economia/financial-times/2026/09/19/6aad8efb468aeb3a2b8b4580.html"
-    },
-    {
-      "titular": "La IA no vuelve al cole este curso en la Gran Manzana",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-19T00:57:27+02:00",
-      "enlace": "https://www.expansion.com/estilo-vida/2026/09/19/6aad9238468aebdf268b4594.html"
-    },
-    {
-      "titular": "Rosewood Luang Prabang, refugio de aventureros",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-19T00:57:20+02:00",
-      "enlace": "https://www.expansion.com/fueradeserie/viajes/2026/09/19/6a9a7a47468aeb8d378b45a1.html"
     }
   ],
   "salud": {
@@ -78,7 +78,7 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 169,
+    "antiguedad_minima_min": 12,
     "detalle": [
       {
         "medio": "Expansión",
@@ -86,7 +86,7 @@
         "ok": true,
         "items": 77,
         "error": null,
-        "antiguedad_min": 169,
+        "antiguedad_min": 12,
         "descartados_por_gancho": 1
       },
       {

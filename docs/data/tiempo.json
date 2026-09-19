@@ -1,31 +1,7 @@
 {
   "ciudad": "Barcelona",
-  "generado": "2026-09-19T14:35:49",
+  "generado": "2026-09-19T17:40:25",
   "horas": [
-    {
-      "hora": "15",
-      "temp": 26,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "nube"
-    },
-    {
-      "hora": "16",
-      "temp": 26,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "nube"
-    },
-    {
-      "hora": "17",
-      "temp": 25,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "nube"
-    },
     {
       "hora": "18",
       "temp": 25,
@@ -76,7 +52,7 @@
     },
     {
       "hora": "00",
-      "temp": 21,
+      "temp": 22,
       "prob": 0,
       "mm": 0,
       "mostrar_prob": false,
@@ -97,6 +73,30 @@
       "mm": 0,
       "mostrar_prob": false,
       "icono": "nube"
+    },
+    {
+      "hora": "03",
+      "temp": 21,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "luna"
+    },
+    {
+      "hora": "04",
+      "temp": 20,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "luna"
+    },
+    {
+      "hora": "05",
+      "temp": 20,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "luna"
     }
   ],
   "dias": [
@@ -133,7 +133,7 @@
     {
       "etiqueta": "mié 23",
       "max": 28,
-      "min": 20,
+      "min": 21,
       "prob": 0,
       "mm": 0,
       "mostrar_prob": false,
@@ -142,8 +142,8 @@
     },
     {
       "etiqueta": "jue 24",
-      "max": 30,
-      "min": 17,
+      "max": 29,
+      "min": 20,
       "prob": 3,
       "mm": 0,
       "mostrar_prob": false,
@@ -152,21 +152,21 @@
     },
     {
       "etiqueta": "vie 25",
-      "max": 28,
+      "max": 27,
       "min": 17,
       "prob": 0,
       "mm": 0,
       "mostrar_prob": false,
       "destacar": false,
-      "icono": "sol"
+      "icono": "nube"
     },
     {
       "etiqueta": "sáb 26",
-      "max": 27,
+      "max": 28,
       "min": 16,
-      "prob": 12,
+      "prob": 2,
       "mm": 0,
-      "mostrar_prob": true,
+      "mostrar_prob": false,
       "destacar": false,
       "icono": "nube"
     }

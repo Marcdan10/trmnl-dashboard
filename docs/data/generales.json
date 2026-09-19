@@ -2,62 +2,61 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-09-19T16:35:40+02:00",
+  "generado": "2026-09-19T19:40:15+02:00",
   "titulares": [
     {
-      "titular": "Poseidón: la «navaja suiza» de la Armada para apoyar a los submarinos S-80",
+      "titular": "El Líbano desentierra el espíritu del asesinado presidente Gemayel contra Hizbolá",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-19T16:20:18+02:00",
-      "enlace": "https://www.abc.es/espana/poseidon-navaja-suiza-armada-apoyar-despliegue-submarinos-20260919133250-nt.html"
+      "fecha": "2026-09-19T19:17:46+02:00",
+      "enlace": "https://www.abc.es/internacional/libano-desentierra-espiritu-asesinado-presidente-gemayel-hizbola-20260917185359-nt.html"
     },
     {
-      "titular": "Carmen Machi: «Las mujeres maduras también interesan»",
+      "titular": "El Olympiacos se mide ante el Madrid en la final de la Supercopa de Europa",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-19T16:13:22+02:00",
-      "enlace": "https://www.abc.es/cultura/cine/carmen-machi-premio-nacional-cinematografia-2026-mujeres-20260919133657-nt.html"
+      "fecha": "2026-09-19T18:50:00+02:00",
+      "enlace": "https://www.abc.es/deportes/baloncesto/olympiacos-real-madrid-directo-final-supercopa-europa-20260919185000-di.html"
     },
     {
-      "titular": "Un soberbio Jorge Martín recupera el liderato a Marc Márquez en la Sprint de Austria",
+      "titular": "Converse retira una polémica campaña tras ser relacionada con el Ku Klux Klan",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-19T15:37:55+02:00",
-      "enlace": "https://www.lavanguardia.com/deportes/20260919/11639101/motogp-gp-austria-spielberg-red-bull-ring-sprint-martin-marquez-duelo-liderato.html"
+      "fecha": "2026-09-19T18:37:18+02:00",
+      "enlace": "https://www.lavanguardia.com/gente/20260919/11639185/converse-retira-polemica-campana-relacionada-ku-klux-klan.html"
     },
     {
-      "titular": "Los aeropuertos de Aena se preparan para atender 100 millones más de viajeros anuales dentro de 15 años",
+      "titular": "El PP denuncia una cruzada de Collboni contra las calles dedicadas a santos en Barcelona",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-19T18:36:04+02:00",
+      "enlace": "https://www.lavanguardia.com/local/barcelona/20260919/11639191/pp-denuncia-cruzada-collboni-calles-dedicadas-santos-barcelona.html"
+    },
+    {
+      "titular": "Real Madrid-Olympiacos, la final de la Supercopa de la Euroliga en directo | El Madrid aventaja con nueve puntos en el primer cuarto",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-19T15:25:57+02:00",
-      "enlace": "https://elpais.com/economia/2026-09-19/aena-se-prepara-para-atender-100-millones-mas-de-viajeros-anuales-dentro-de-15-anos.html"
+      "fecha": "2026-09-19T18:23:46+02:00",
+      "enlace": "https://elpais.com/deportes/baloncesto/2026-09-19/real-madrid-olympiacos-la-final-de-la-supercopa-de-la-euroliga-en-directo.html"
     },
     {
-      "titular": "La Fiscalía remite al juez denuncias de menores en Ceuta por vejaciones y abusos",
+      "titular": "España, contra el fortín de Chile y el embrujo de Massú: “Va a ser duro, aquí son muy patriotas”",
       "medios": [
-        "El País",
-        "La Vanguardia"
-      ],
-      "consenso": 2,
-      "fecha": "2026-09-19T15:22:31+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20260919/11639111/fiscalia-lleva-juez-denuncias-menores-presuntos-malos-tratos-centros-ceuta.html"
-    },
-    {
-      "titular": "El auge del Google Pixel 11 Pro deja en oferta las versiones anteriores del Android de moda: 7 alternativas que son una ganga ahora mismo",
-      "medios": [
-        "La Vanguardia"
+        "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-19T14:30:00+02:00",
-      "enlace": "https://www.lavanguardia.com/comprar/tecnologia/20260919/11638037/google-pixel-11-pro-deja-oferta-versiones-anteriores-android-7-alternativas-ganga-mkt-alie.html"
+      "fecha": "2026-09-19T18:16:25+02:00",
+      "enlace": "https://elpais.com/deportes/tenis/2026-09-19/espana-contra-el-fortin-de-chile-y-el-embrujo-de-massu-va-a-ser-duro-aqui-son-muy-patriotas.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -75,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 15,
+    "antiguedad_minima_min": 22,
     "detalle": [
       {
         "medio": "RTVE",
@@ -83,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2250210,
+        "antiguedad_min": 2250395,
         "descartados_por_gancho": 0
       },
       {
@@ -98,19 +97,19 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 140,
+        "items": 137,
         "error": null,
-        "antiguedad_min": 69,
+        "antiguedad_min": 76,
         "descartados_por_gancho": 10
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 119,
+        "items": 121,
         "error": null,
-        "antiguedad_min": 57,
-        "descartados_por_gancho": 17
+        "antiguedad_min": 62,
+        "descartados_por_gancho": 18
       },
       {
         "medio": "ABC",
@@ -118,7 +117,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 15,
+        "antiguedad_min": 22,
         "descartados_por_gancho": 0
       }
     ]

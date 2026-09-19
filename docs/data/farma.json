@@ -2,25 +2,25 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "ultimas",
-  "generado": "2026-09-19T16:35:49+02:00",
+  "generado": "2026-09-19T19:40:24+02:00",
   "titulares": [
     {
-      "titular": "Cataluña declarará el nuevo Hospital Universitari de les Terres de l’Ebre proyecto estratégico",
+      "titular": "Decreto de listas de espera: \"Es necesaria una valoración más exhaustiva y método de trabajo\"",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-09-19T16:21:36+02:00",
-      "enlace": "https://www.redaccionmedica.com/autonomias/catalunya/20260919/cataluna-declarara-el-nuevo-hospital-universitari-de-les-terres-lebre-proyecto-estrategico/353196_0.html"
+      "fecha": "2026-09-19T17:56:33+02:00",
+      "enlace": "https://www.redaccionmedica.com/autonomias/20260919/decreto-de-listas-espera-es-necesaria-una-valoracion-mas-exhaustiva-metodo-trabajo/353150_0.html"
     },
     {
-      "titular": "El aspecto de un médico influye, pero el trato lo cambia todo: \"La bata más impecable no salva a nadie si detrás no hay empatía\"",
+      "titular": "La Aemps retira lotes de duloxetina, un fármaco para la depresión y dolores crónicos",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-09-19T14:29:59+02:00",
-      "enlace": "https://www.redaccionmedica.com/virico/20260919/el-aspecto-de-un-medico-influye-pero-el-trato-lo-cambia-todo-la-bata-mas-impecable-no-salva-nadie-si-detras-hay-empatia/350821_0.html"
+      "fecha": "2026-09-19T17:49:25+02:00",
+      "enlace": "https://www.redaccionmedica.com/empresas/industria-farmaceutica/20260919/la-aemps-retira-lotes-de-duloxetina-un-farmaco-para-la-depresion-dolores-cronicos/353198_0.html"
     },
     {
       "titular": "La OMS se fija en el Programa de Farmacia Rural de La Rioja para uno de sus informes estrella",
@@ -59,13 +59,13 @@
       "enlace": "https://diariofarma.com/2026/09/18/las-terapias-avanzadas-elevan-la-supervivencia-del-cancer-hematologico-a-5-anos-al-63-segun-la-sehh"
     },
     {
-      "titular": "Innovación 'analógica' y de bajo coste en la era de la educación médica digital",
+      "titular": "Veterinaria rechaza la ampliación de su número de facultades sin garantías formativas",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-09-19T14:23:14+02:00",
-      "enlace": "https://www.redaccionmedica.com/formacion/20260919/un-juego-de-cartas-mejora-el-aprendizaje-anatomia-en-estudiantes-medicina/353194_0.html"
+      "fecha": "2026-09-19T17:35:41+02:00",
+      "enlace": "https://www.redaccionmedica.com/salud-animal/20260919/veterinaria-rechaza-la-ampliacion-de-su-numero-facultades-sin-garantias-formativas/348627_0.html"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 14,
+    "antiguedad_minima_min": 103,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 1614,
+        "antiguedad_min": 1799,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 9,
         "error": null,
-        "antiguedad_min": 1601,
+        "antiguedad_min": 1786,
         "descartados_por_gancho": 1
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 14,
+        "antiguedad_min": 103,
         "descartados_por_gancho": 0
       },
       {
