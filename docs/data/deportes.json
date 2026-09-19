@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-09-19T19:40:18+02:00",
+  "generado": "2026-09-19T21:53:34+02:00",
   "titulares": [
     {
-      "titular": "Recuerdo de Laporta hacia Jorge Messi antes de hablar del homenaje a Leo",
+      "titular": "Sevilla - Barcelona, la previa en directo",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-19T19:21:50+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260919/1004229152/sentido-recuerdo-laporta-jorge-messi-hablar-homenaje-leo.html"
+      "fecha": "2026-09-19T21:22:56+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260919/1004227321/sevilla-barcelona-directo-hoy-laliga-ea-sports-futbol-primera-division.html"
     },
     {
-      "titular": "Despídete del verano con buen sabor de boca gracias a este helado de Lidl",
+      "titular": "La vida actual de la modelo Estíbaliz Sanz: así convive con un diagnóstico de esquizofrenia",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-19T19:20:52+02:00",
-      "enlace": "https://www.mundodeportivo.com/actualidad/20260919/1004228901/helado-chocolate-vainilla-lidl-smd.html"
+      "fecha": "2026-09-19T21:19:39+02:00",
+      "enlace": "https://www.mundodeportivo.com/elotromundo/gente/20260919/1004229201/nueva-vida-estibaliz-sanz-explosiva-modelo-triunfo-tv-diagnosticada-esquizofrenia-paranoide-espera-valoracion-tribunal-medico-evalue-capacidad-laboral-dct.html"
     },
     {
       "titular": "La joya de 15 años que quiere escapar del United asombra a la prensa inglesa",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/real-madrid/opinion/2026/09/16/espi-evita-ridiculo-mourinho.html"
     },
     {
-      "titular": "Ferran Adrià: \"La historia de El Bulli fueron 14 años cobrando lo que hoy serían 2.000 euros al mes\"",
+      "titular": "89-93: Primer título de la era Pedro Martínez en el Real Madrid",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-19T19:14:37+02:00",
-      "enlace": "https://www.mundodeportivo.com/foodie/20260919/1004229149/ferran-adria-cocinero-catalan-historia-bulli-catorce-anos-paciencia-cobrando-hoy-serian-2-000-euros-mes-siendo-propietario-xef-dct.html"
+      "fecha": "2026-09-19T21:18:38+02:00",
+      "enlace": "https://www.mundodeportivo.com/baloncesto/euroliga/20260919/1004229202/89-93-primer-titulo-pedro-martinez-real-madrid.html"
     },
     {
-      "titular": "El jefe arbitral en Portugal se defiende de las acusaciones de corrupción",
+      "titular": "Valencia Basket - Barça, en directo",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-19T19:05:43+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/internacional/20260919/1004229147/jefe-arbitral-portugal-defiende-acusaciones-corrupcion.html"
+      "fecha": "2026-09-19T21:18:20+02:00",
+      "enlace": "https://www.mundodeportivo.com/baloncesto/20260919/1004228571/valencia-basket-barca-directo-supercopa-endesa-basket-semifinales.html"
     },
     {
-      "titular": "Real Madrid - Olympiacos, la final en directo",
+      "titular": "La lista de convocados del Madrid para el derbi",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-19T19:03:19+02:00",
-      "enlace": "https://www.mundodeportivo.com/baloncesto/20260919/1004228850/real-madrid-olympiacos-directo-final-supercopa-euroliga-baloncesto-vivo.html"
+      "fecha": "2026-09-19T21:02:08+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/derbi-madrileno/20260919/1004229194/lista-convocados-madrid-derbi-metropolitano.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 18,
+    "antiguedad_minima_min": 30,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 5385,
+        "antiguedad_min": 5518,
         "descartados_por_gancho": 8
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 138,
+        "items": 139,
         "error": null,
-        "antiguedad_min": 18,
-        "descartados_por_gancho": 8
+        "antiguedad_min": 30,
+        "descartados_por_gancho": 6
       },
       {
         "medio": "Sport",

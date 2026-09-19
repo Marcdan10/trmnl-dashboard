@@ -2,7 +2,7 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "ultimas",
-  "generado": "2026-09-19T19:40:24+02:00",
+  "generado": "2026-09-19T21:53:41+02:00",
   "titulares": [
     {
       "titular": "Decreto de listas de espera: \"Es necesaria una valoración más exhaustiva y método de trabajo\"",
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 103,
+    "antiguedad_minima_min": 237,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 1799,
+        "antiguedad_min": 1932,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 9,
         "error": null,
-        "antiguedad_min": 1786,
+        "antiguedad_min": 1919,
         "descartados_por_gancho": 1
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 103,
+        "antiguedad_min": 237,
         "descartados_por_gancho": 0
       },
       {
