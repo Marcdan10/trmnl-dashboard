@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-09-20T19:13:30+02:00",
+  "generado": "2026-09-20T21:36:04+02:00",
   "titulares": [
     {
-      "titular": "Asisa Joventut - Barça, en directo | Final Supercopa",
+      "titular": "Luis Castro: \"Ellos son muy buenos, pero tenemos calidad para hacer más\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-20T18:57:05+02:00",
-      "enlace": "https://www.mundodeportivo.com/baloncesto/20260920/1004229249/asisa-joventut-barca-directo-final-supercopa-endesa-baloncesto.html"
+      "fecha": "2026-09-20T21:27:15+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/levante/20260920/1004229534/luis-castro-son-buenos-calidad.html"
     },
     {
-      "titular": "Samantha Vallejo-Nágera: \"El tomate se corta con cuchillo de sierra. El rallador sí que es un invento\"",
+      "titular": "Experto desvela qué abono usar en otoño: \"Ayuda a que soporten los cambios de temperatura\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-20T18:56:56+02:00",
-      "enlace": "https://www.mundodeportivo.com/foodie/20260920/1004229472/samantha-vallejo-nagera-cocinera-tomate-corta-cuchillo-sierra-rallador-invento-mi-me-tostada-espanola-pan-integral-tomate-aceite-sal-xef-dct.html"
+      "fecha": "2026-09-20T21:25:04+02:00",
+      "enlace": "https://www.mundodeportivo.com/economia-hogar/20260920/1004229493/ignacio-guio-experto-plantas-desvela-abono-otono-ayuda-raices-esten-fuertes-puedan-soportar-cambios-temperatura-lluvias-vienen-smd.html"
     },
     {
       "titular": "La joya de 15 años que quiere escapar del United asombra a la prensa inglesa",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/real-madrid/opinion/2026/09/16/espi-evita-ridiculo-mourinho.html"
     },
     {
-      "titular": "La joya del automovilismo español que ha arrasado en Misano",
+      "titular": "101-87: Un 'Lapro' descomunal guía al Asisa Joventut al título",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-20T18:51:13+02:00",
-      "enlace": "https://www.mundodeportivo.com/motor/f1/20260920/1004229475/joya-automovilismo-espanol-arrasado-misano.html"
+      "fecha": "2026-09-20T21:13:17+02:00",
+      "enlace": "https://www.mundodeportivo.com/baloncesto/acb/20260920/1004229499/101-87-lapro-descomunal-guia-asisa-joventut-titulo.html"
     },
     {
-      "titular": "Mundial 2026, en directo | Contrarreloj masculina",
+      "titular": "Manuel Elvira se queda a las puertas del triunfo en el BMW PGA",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-20T18:48:34+02:00",
-      "enlace": "https://www.mundodeportivo.com/ciclismo/20260920/1004229389/mundial-ciclismo-2026-directo-contrarreloj-elite-masculina-evenepoel-ganna-castrillo-romeo.html"
+      "fecha": "2026-09-20T21:05:49+02:00",
+      "enlace": "https://www.mundodeportivo.com/golf/20260920/1004229532/manuel-elvira-queda-puertas-triunfo-bmw-pga.html"
     },
     {
-      "titular": "Oblak: \"¿Polémica? Si nos expulsaron a nosotros con el Villarreal, esta también\"",
+      "titular": "España se prepara en La Haya para actuar ante una colisión de aviones militares",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-20T18:48:18+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20260920/1004229473/oblak-polemica-expulsaron-villarreal.html"
+      "fecha": "2026-09-20T21:03:22+02:00",
+      "enlace": "https://www.mundodeportivo.com/actualidad/20260920/1004229510/confirmado-ministerio-defensa-espana-prepara-haya-actuar-colision-aviones-militares-danos-instalacion-nuclear-dml-dct.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 16,
+    "antiguedad_minima_min": 8,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 6798,
+        "antiguedad_min": 6940,
         "descartados_por_gancho": 8
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 143,
+        "items": 145,
         "error": null,
-        "antiguedad_min": 16,
-        "descartados_por_gancho": 4
+        "antiguedad_min": 8,
+        "descartados_por_gancho": 6
       },
       {
         "medio": "Sport",

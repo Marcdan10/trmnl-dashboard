@@ -2,61 +2,61 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-09-20T19:13:25+02:00",
+  "generado": "2026-09-20T21:35:54+02:00",
   "titulares": [
     {
-      "titular": "La extrema derecha se dispara en las elecciones regionales alemanas y profundiza la crisis en la CDU del canciller Merz",
+      "titular": "El 'índice Big Mac' que revela tu bajo poder adquisitivo",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-20T21:20:36+02:00",
+      "enlace": "https://www.abc.es/economia/cuentas-corrientes/titu-indice-big-mac-20260918181920-nt.html"
+    },
+    {
+      "titular": "Un genial Laprovittola corona al Joventut como campeón de la Supercopa ante el Barcelona",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-20T19:01:42+02:00",
+      "fecha": "2026-09-20T21:19:14+02:00",
+      "enlace": "https://elpais.com/deportes/baloncesto/2026-09-20/un-genial-laprovittola-corona-al-joventut-como-campeon-de-la-supercopa-ante-el-barcelona.html"
+    },
+    {
+      "titular": "Ceutíes protestan contra la llegada de organizaciones proetarras a la ciudad: «No les vamos a dejar pasar»",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-20T21:14:48+02:00",
+      "enlace": "https://www.abc.es/espana/vecinos-ceuties-protestan-llegada-organizaciones-proetarras-ciudad-20260920204237-nt.html"
+    },
+    {
+      "titular": "La extrema derecha se dispara en las elecciones regionales alemanas y agrava la crisis de la CDU",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-20T21:11:01+02:00",
       "enlace": "https://elpais.com/internacional/2026-09-20/la-extrema-derecha-se-dispara-en-las-elecciones-regionales-alemanas-y-profundiza-la-crisis-de-la-cdu-del-canciller-merz.html"
     },
     {
-      "titular": "Así fue la película arbitral del derbi: Ortiz Arias se comió dos rojas al Atlético",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-20T18:52:44+02:00",
-      "enlace": "https://www.abc.es/deportes/futbol/martinez-montoro-pelicula-arbitral-derbi-ortiz-arias-comio-dos-20260920182450-nt.html"
-    },
-    {
-      "titular": "Otro revolcón del Madrid en el Metropolitano en un polémico derbi",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-20T18:50:33+02:00",
-      "enlace": "https://www.abc.es/deportes/futbol/cronica-atletico-real-madrid-20260920094941-nt.html"
-    },
-    {
-      "titular": "Huijsen condena al Madrid en el derbi ante el Atlético",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-20T18:48:51+02:00",
-      "enlace": "https://elpais.com/deportes/futbol/2026-09-20/huijsen-condena-al-madrid-en-el-derbi-ante-el-atletico.html"
-    },
-    {
-      "titular": "La izquierda triunfa en Berlín y la ultraderechista AfD arrasa en Mecklemburgo-Antepomerania, según los sondeos",
+      "titular": "Barcelona lidera una propuesta contra los especuladores globales de la vivienda",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-20T18:22:24+02:00",
-      "enlace": "https://www.lavanguardia.com/internacional/20260920/11639723/izquierda-triunfa-linke-berlin-elecciones-ultraderecha-arrasa-mecklemburgo-antepomerania.html"
+      "fecha": "2026-09-20T20:53:46+02:00",
+      "enlace": "https://www.lavanguardia.com/local/barcelona/20260920/11639779/barcelona-lidera-propuesta-especuladores-globales-vivienda.html"
     },
     {
-      "titular": "Lluvia de títulos mundiales en trial y en motocross, con hito histórico de Daniela Guillén",
+      "titular": "Los Javis: “Los Oscars son un sueño, ahora lo importante es que la gente vea nuestra película”",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-20T18:20:39+02:00",
-      "enlace": "https://www.lavanguardia.com/deportes/20260920/11639729/motociclismo-lluvia-titulos-mundiales-trial-motocross-hito-historico-daniela-guillen-guillem-farres-berta-abellan-arnau-farre-abril-montserrat.html"
+      "fecha": "2026-09-20T19:54:08+02:00",
+      "enlace": "https://www.lavanguardia.com/cultura/20260920/11639742/javis-oscars-son-sueno-grande-importante-gente-vea-nuestra-pelicula-la-bola-negra.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 11,
+    "antiguedad_minima_min": 15,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2251808,
+        "antiguedad_min": 2251950,
         "descartados_por_gancho": 0
       },
       {
@@ -90,26 +90,26 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 500",
+        "error": "HTTP 429",
         "antiguedad_min": null
       },
       {
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 136,
+        "items": 138,
         "error": null,
-        "antiguedad_min": 11,
+        "antiguedad_min": 16,
         "descartados_por_gancho": 8
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 138,
+        "items": 137,
         "error": null,
-        "antiguedad_min": 51,
-        "descartados_por_gancho": 17
+        "antiguedad_min": 42,
+        "descartados_por_gancho": 18
       },
       {
         "medio": "ABC",
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 20,
+        "antiguedad_min": 15,
         "descartados_por_gancho": 0
       }
     ]
