@@ -1,27 +1,9 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "ultimas",
-  "generado": "2026-09-20T21:36:04+02:00",
+  "modo": "portadas",
+  "generado": "2026-09-21T00:06:28+02:00",
   "titulares": [
-    {
-      "titular": "Luis Castro: \"Ellos son muy buenos, pero tenemos calidad para hacer más\"",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-20T21:27:15+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/levante/20260920/1004229534/luis-castro-son-buenos-calidad.html"
-    },
-    {
-      "titular": "Experto desvela qué abono usar en otoño: \"Ayuda a que soporten los cambios de temperatura\"",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-20T21:25:04+02:00",
-      "enlace": "https://www.mundodeportivo.com/economia-hogar/20260920/1004229493/ignacio-guio-experto-plantas-desvela-abono-otono-ayuda-raices-esten-fuertes-puedan-soportar-cambios-temperatura-lluvias-vienen-smd.html"
-    },
     {
       "titular": "La joya de 15 años que quiere escapar del United asombra a la prensa inglesa",
       "medios": [
@@ -30,6 +12,24 @@
       "consenso": 1,
       "fecha": "2026-09-16T01:55:17+02:00",
       "enlace": "https://www.marca.com/futbol/album/2026/09/16/portadas-dia.html"
+    },
+    {
+      "titular": "Oblak: \"¿Polémica? Si nos expulsaron a nosotros con el Villarreal, esta también\"",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-20T18:48:18+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20260920/1004229473/oblak-polemica-expulsaron-villarreal.html"
+    },
+    {
+      "titular": "Mou saca un papel con las dos rojas perdonadas: \"La historia del partido está aquí\"",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-20T18:39:49+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260920/1004229468/mou-saca-papel-dos-rojas-perdonadas-historia-partido.html"
     },
     {
       "titular": "\"¿Qué narices le pasa al Madrid?\"",
@@ -41,6 +41,24 @@
       "enlace": "https://www.marca.com/futbol/real-madrid/opinion/2026/09/16/espi-evita-ridiculo-mourinho.html"
     },
     {
+      "titular": "\"El problema me parece obvio...\"",
+      "medios": [
+        "Marca"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-15T23:56:38+02:00",
+      "enlace": "https://www.marca.com/futbol/real-madrid/2026/09/15/mourinho-mi-unica-critica-matar-partidos.html"
+    },
+    {
+      "titular": "Lamine también habló alto y claro en el campo",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-20T00:37:15+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260920/1004229274/lamine-hablo-campo.html"
+    },
+    {
       "titular": "101-87: Un 'Lapro' descomunal guía al Asisa Joventut al título",
       "medios": [
         "Mundo Deportivo"
@@ -48,24 +66,6 @@
       "consenso": 1,
       "fecha": "2026-09-20T21:13:17+02:00",
       "enlace": "https://www.mundodeportivo.com/baloncesto/acb/20260920/1004229499/101-87-lapro-descomunal-guia-asisa-joventut-titulo.html"
-    },
-    {
-      "titular": "Manuel Elvira se queda a las puertas del triunfo en el BMW PGA",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-20T21:05:49+02:00",
-      "enlace": "https://www.mundodeportivo.com/golf/20260920/1004229532/manuel-elvira-queda-puertas-triunfo-bmw-pga.html"
-    },
-    {
-      "titular": "España se prepara en La Haya para actuar ante una colisión de aviones militares",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-20T21:03:22+02:00",
-      "enlace": "https://www.mundodeportivo.com/actualidad/20260920/1004229510/confirmado-ministerio-defensa-espana-prepara-haya-actuar-colision-aviones-militares-danos-instalacion-nuclear-dml-dct.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 8,
+    "antiguedad_minima_min": 21,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 6940,
+        "antiguedad_min": 7091,
         "descartados_por_gancho": 8
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 145,
+        "items": 147,
         "error": null,
-        "antiguedad_min": 8,
-        "descartados_por_gancho": 6
+        "antiguedad_min": 21,
+        "descartados_por_gancho": 8
       },
       {
         "medio": "Sport",

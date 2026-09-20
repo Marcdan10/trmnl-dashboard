@@ -1,35 +1,17 @@
 {
   "pantalla": "generales",
   "titulo": "Titulares",
-  "modo": "ultimas",
-  "generado": "2026-09-20T21:35:54+02:00",
+  "modo": "portadas",
+  "generado": "2026-09-21T00:06:24+02:00",
   "titulares": [
     {
-      "titular": "El 'índice Big Mac' que revela tu bajo poder adquisitivo",
+      "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
       "medios": [
-        "ABC"
+        "RTVE"
       ],
       "consenso": 1,
-      "fecha": "2026-09-20T21:20:36+02:00",
-      "enlace": "https://www.abc.es/economia/cuentas-corrientes/titu-indice-big-mac-20260918181920-nt.html"
-    },
-    {
-      "titular": "Un genial Laprovittola corona al Joventut como campeón de la Supercopa ante el Barcelona",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-20T21:19:14+02:00",
-      "enlace": "https://elpais.com/deportes/baloncesto/2026-09-20/un-genial-laprovittola-corona-al-joventut-como-campeon-de-la-supercopa-ante-el-barcelona.html"
-    },
-    {
-      "titular": "Ceutíes protestan contra la llegada de organizaciones proetarras a la ciudad: «No les vamos a dejar pasar»",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-20T21:14:48+02:00",
-      "enlace": "https://www.abc.es/espana/vecinos-ceuties-protestan-llegada-organizaciones-proetarras-ciudad-20260920204237-nt.html"
+      "fecha": "2022-06-10T01:05:00+02:00",
+      "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
     },
     {
       "titular": "La extrema derecha se dispara en las elecciones regionales alemanas y agrava la crisis de la CDU",
@@ -41,31 +23,49 @@
       "enlace": "https://elpais.com/internacional/2026-09-20/la-extrema-derecha-se-dispara-en-las-elecciones-regionales-alemanas-y-profundiza-la-crisis-de-la-cdu-del-canciller-merz.html"
     },
     {
-      "titular": "Barcelona lidera una propuesta contra los especuladores globales de la vivienda",
+      "titular": "La izquierda triunfa en Berlín y la ultraderechista AfD arrasa en Mecklemburgo-Antepomerania, según los sondeos",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-20T20:53:46+02:00",
-      "enlace": "https://www.lavanguardia.com/local/barcelona/20260920/11639779/barcelona-lidera-propuesta-especuladores-globales-vivienda.html"
+      "fecha": "2026-09-20T18:22:24+02:00",
+      "enlace": "https://www.lavanguardia.com/internacional/20260920/11639723/izquierda-triunfa-linke-berlin-elecciones-ultraderecha-arrasa-mecklemburgo-antepomerania.html"
     },
     {
-      "titular": "Los Javis: “Los Oscars son un sueño, ahora lo importante es que la gente vea nuestra película”",
+      "titular": "Otro revolcón al Madrid en el Metropolitano en un polémico derbi",
       "medios": [
-        "La Vanguardia"
+        "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-20T19:54:08+02:00",
-      "enlace": "https://www.lavanguardia.com/cultura/20260920/11639742/javis-oscars-son-sueno-grande-importante-gente-vea-nuestra-pelicula-la-bola-negra.html"
+      "fecha": "2026-09-20T22:57:29+02:00",
+      "enlace": "https://www.abc.es/deportes/futbol/cronica-atletico-real-madrid-20260920094941-nt.html"
     },
     {
-      "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
+      "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
       "medios": [
         "RTVE"
       ],
       "consenso": 1,
-      "fecha": "2022-06-10T01:05:00+02:00",
-      "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
+      "fecha": "2022-06-10T00:03:00+02:00",
+      "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
+    },
+    {
+      "titular": "Putin finiquita unas elecciones plagadas de irregularidades y abre un nuevo capítulo de la guerra",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-20T20:59:59+02:00",
+      "enlace": "https://elpais.com/internacional/2026-09-20/putin-finiquita-una-elecciones-plagadas-de-irregularidades-y-abre-un-nuevo-capitulo-de-la-guerra.html"
+    },
+    {
+      "titular": "El 'índice Big Mac' que revela tu bajo poder adquisitivo",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-20T22:54:34+02:00",
+      "enlace": "https://www.abc.es/economia/cuentas-corrientes/titu-indice-big-mac-20260918181920-nt.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 15,
+    "antiguedad_minima_min": 42,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2251950,
+        "antiguedad_min": 2252101,
         "descartados_por_gancho": 0
       },
       {
@@ -90,7 +90,7 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 429",
+        "error": "HTTP 500",
         "antiguedad_min": null
       },
       {
@@ -99,7 +99,7 @@
         "ok": true,
         "items": 138,
         "error": null,
-        "antiguedad_min": 16,
+        "antiguedad_min": 49,
         "descartados_por_gancho": 8
       },
       {
@@ -109,7 +109,7 @@
         "items": 137,
         "error": null,
         "antiguedad_min": 42,
-        "descartados_por_gancho": 18
+        "descartados_por_gancho": 16
       },
       {
         "medio": "ABC",
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 15,
+        "antiguedad_min": 68,
         "descartados_por_gancho": 0
       }
     ]

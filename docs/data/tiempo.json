@@ -1,39 +1,7 @@
 {
   "ciudad": "Barcelona",
-  "generado": "2026-09-20T19:36:10",
+  "generado": "2026-09-20T22:06:33",
   "horas": [
-    {
-      "hora": "20",
-      "temp": 25,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "luna"
-    },
-    {
-      "hora": "21",
-      "temp": 24,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "luna"
-    },
-    {
-      "hora": "22",
-      "temp": 23,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "luna"
-    },
-    {
-      "hora": "23",
-      "temp": 22,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "nube"
-    },
     {
       "hora": "00",
       "temp": 22,
@@ -52,11 +20,11 @@
     },
     {
       "hora": "02",
-      "temp": 21,
+      "temp": 22,
       "prob": 0,
       "mm": 0,
       "mostrar_prob": false,
-      "icono": "luna"
+      "icono": "nube"
     },
     {
       "hora": "03",
@@ -97,6 +65,38 @@
       "mm": 0,
       "mostrar_prob": false,
       "icono": "luna"
+    },
+    {
+      "hora": "08",
+      "temp": 20,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "nube"
+    },
+    {
+      "hora": "09",
+      "temp": 22,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "sol"
+    },
+    {
+      "hora": "10",
+      "temp": 24,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "sol"
+    },
+    {
+      "hora": "11",
+      "temp": 26,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "sol"
     }
   ],
   "dias": [
@@ -123,7 +123,7 @@
     {
       "etiqueta": "mié 23",
       "max": 27,
-      "min": 20,
+      "min": 19,
       "prob": 0,
       "mm": 0,
       "mostrar_prob": false,
@@ -132,9 +132,9 @@
     },
     {
       "etiqueta": "jue 24",
-      "max": 27,
-      "min": 19,
-      "prob": 3,
+      "max": 30,
+      "min": 20,
+      "prob": 0,
       "mm": 0,
       "mostrar_prob": false,
       "destacar": false,
@@ -142,9 +142,9 @@
     },
     {
       "etiqueta": "vie 25",
-      "max": 29,
+      "max": 27,
       "min": 20,
-      "prob": 1,
+      "prob": 0,
       "mm": 0,
       "mostrar_prob": false,
       "destacar": false,

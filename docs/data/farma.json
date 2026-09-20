@@ -1,27 +1,9 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "ultimas",
-  "generado": "2026-09-20T21:36:10+02:00",
+  "modo": "portadas",
+  "generado": "2026-09-21T00:06:33+02:00",
   "titulares": [
-    {
-      "titular": "Las auditorías MIR encaran el segundo 'round' tras su renacer: Más peso a los tutores y una agenda más estructurada",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-20T18:18:34+02:00",
-      "enlace": "https://www.redaccionmedica.com/formacion/fse/20260920/las-auditorias-mir-encaran-el-segundo-round-tras-su-renacer-mas-peso-los-tutores-una-agenda-mas-estructurada/349063_0.html"
-    },
-    {
-      "titular": "La creación de un puente entre Primaria y Hospitalaria divide a la sanidad autonómica",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-20T18:17:49+02:00",
-      "enlace": "https://www.redaccionmedica.com/autonomias/20260920/la-creacion-de-un-puente-entre-primaria-hospitalaria-divide-la-sanidad-autonomica/353169_0.html"
-    },
     {
       "titular": "Biotec Act: Asebio ve interés en la propuesta de Padilla si se evita una erosión de precios",
       "medios": [
@@ -30,15 +12,6 @@
       "consenso": 1,
       "fecha": "2026-09-20T18:14:00+02:00",
       "enlace": "https://diariofarma.com/2026/09/20/biotec-act-asebio-ve-interes-en-la-propuesta-de-padilla-si-se-evita-una-erosion-de-precios"
-    },
-    {
-      "titular": "Galicia se integra en plan europeo contra el impacto ambiental de los productos sanitarios",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-20T14:33:24+02:00",
-      "enlace": "https://diariofarma.com/2026/09/20/galicia-se-integra-en-plan-europeo-contra-el-impacto-ambiental-de-los-productos-sanitarios"
     },
     {
       "titular": "La OMS se fija en el Programa de Farmacia Rural de La Rioja para uno de sus informes estrella",
@@ -50,6 +23,24 @@
       "enlace": "https://elglobalfarma.com/farmacia/oms-programa-farmacia-rural-rioja-estudios-informe-regional-2027/"
     },
     {
+      "titular": "La creación de un puente entre Primaria y Hospitalaria divide a la sanidad autonómica",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-20T18:17:49+02:00",
+      "enlace": "https://www.redaccionmedica.com/autonomias/20260920/la-creacion-de-un-puente-entre-primaria-hospitalaria-divide-la-sanidad-autonomica/353169_0.html"
+    },
+    {
+      "titular": "Galicia se integra en plan europeo contra el impacto ambiental de los productos sanitarios",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-20T14:33:24+02:00",
+      "enlace": "https://diariofarma.com/2026/09/20/galicia-se-integra-en-plan-europeo-contra-el-impacto-ambiental-de-los-productos-sanitarios"
+    },
+    {
       "titular": "Inglaterra marca el camino para la farmacia comunitaria",
       "medios": [
         "El Global"
@@ -59,13 +50,22 @@
       "enlace": "https://elglobalfarma.com/opinion/editorial/inglaterra-camino-farmacia-comunitaria/"
     },
     {
-      "titular": "La comida basura llena de grasa los músculos aunque no engordes y se asocia a la artrosis de rodilla",
+      "titular": "Separar innovación de novedad: la ecuación de los directores de Farmacia para el avance terapéutico",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-09-20T17:48:31+02:00",
-      "enlace": "https://www.redaccionmedica.com/innovacion/avances/20260920/comida-basura-llena-grasa-musculos-no-engordes-asocia-artrosis-rodilla/353110_0.html"
+      "fecha": "2026-09-20T10:32:00+02:00",
+      "enlace": "https://www.redaccionmedica.com/autonomias/20260920/separar-innovacion-de-novedad-la-ecuacion-los-directores-farmacia-para-el-avance-terapeutico/353096_0.html"
+    },
+    {
+      "titular": "La farmacia comunitaria reivindica su rol como eje clave en la seguridad del paciente",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-20T14:18:56+02:00",
+      "enlace": "https://diariofarma.com/2026/09/20/la-farmacia-comunitaria-reivindica-su-rol-como-barrera-clave-en-la-seguridad-del-paciente"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 197,
+    "antiguedad_minima_min": 347,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 202,
+        "antiguedad_min": 352,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 9,
         "error": null,
-        "antiguedad_min": 3342,
+        "antiguedad_min": 3492,
         "descartados_por_gancho": 1
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 197,
+        "antiguedad_min": 347,
         "descartados_por_gancho": 0
       },
       {
