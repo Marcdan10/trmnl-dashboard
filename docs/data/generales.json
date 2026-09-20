@@ -2,61 +2,61 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-09-20T15:52:26+02:00",
+  "generado": "2026-09-20T19:13:25+02:00",
   "titulares": [
     {
-      "titular": "Atlético - Real Madrid en directo | Vuelve Güler al once titular por Diomande",
+      "titular": "La extrema derecha se dispara en las elecciones regionales alemanas y profundiza la crisis en la CDU del canciller Merz",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-20T15:44:08+02:00",
-      "enlace": "https://elpais.com/deportes/futbol/2026-09-20/atletico-real-madrid-en-directo-el-partido-de-la-liga-en-vivo.html"
+      "fecha": "2026-09-20T19:01:42+02:00",
+      "enlace": "https://elpais.com/internacional/2026-09-20/la-extrema-derecha-se-dispara-en-las-elecciones-regionales-alemanas-y-profundiza-la-crisis-de-la-cdu-del-canciller-merz.html"
     },
     {
-      "titular": "Feijóo avanza que España estará «cerrada a cal y canto» para quien venga a infringir la ley si gobierna",
+      "titular": "Así fue la película arbitral del derbi: Ortiz Arias se comió dos rojas al Atlético",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-20T15:35:32+02:00",
-      "enlace": "https://www.abc.es/espana/cataluna/feijoo-confia-empuje-pp-cataluna-propiciar-limpieza-20260920131213-nt.html"
+      "fecha": "2026-09-20T18:52:44+02:00",
+      "enlace": "https://www.abc.es/deportes/futbol/martinez-montoro-pelicula-arbitral-derbi-ortiz-arias-comio-dos-20260920182450-nt.html"
     },
     {
-      "titular": "Lorca en Madrid cuando solo era Federico",
+      "titular": "Otro revolcón del Madrid en el Metropolitano en un polémico derbi",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-20T15:28:14+02:00",
-      "enlace": "https://www.abc.es/espana/madrid/lorca-madrid-solo-era-federico-20260919012500-nt.html"
+      "fecha": "2026-09-20T18:50:33+02:00",
+      "enlace": "https://www.abc.es/deportes/futbol/cronica-atletico-real-madrid-20260920094941-nt.html"
     },
     {
-      "titular": "Pedro Acosta gana el GP de Austria y conquista por fin la victoria en MotoGP",
+      "titular": "Huijsen condena al Madrid en el derbi ante el Atlético",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-20T15:25:35+02:00",
-      "enlace": "https://elpais.com/deportes/motociclismo/2026-09-20/pedro-acosta-gana-el-gp-de-austria-y-conquista-por-fin-la-victoria-en-motogp.html"
+      "fecha": "2026-09-20T18:48:51+02:00",
+      "enlace": "https://elpais.com/deportes/futbol/2026-09-20/huijsen-condena-al-madrid-en-el-derbi-ante-el-atletico.html"
     },
     {
-      "titular": "España despliega una campaña en redes para desalentar entradas irregulares a Ceuta y Melilla",
+      "titular": "La izquierda triunfa en Berlín y la ultraderechista AfD arrasa en Mecklemburgo-Antepomerania, según los sondeos",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-20T15:02:53+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20260920/11639671/espana-despliega-campana-redes-desalentar-entradas-irregulares-ceuta-melilla.html"
+      "fecha": "2026-09-20T18:22:24+02:00",
+      "enlace": "https://www.lavanguardia.com/internacional/20260920/11639723/izquierda-triunfa-linke-berlin-elecciones-ultraderecha-arrasa-mecklemburgo-antepomerania.html"
     },
     {
-      "titular": "Acosta descubre la victoria al cabo de 56 carreras en MotoGP; decepción de Márquez, 5.º",
+      "titular": "Lluvia de títulos mundiales en trial y en motocross, con hito histórico de Daniela Guillén",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-20T14:50:23+02:00",
-      "enlace": "https://www.lavanguardia.com/deportes/20260920/11639665/motogp-gp-austria-carrera-resumen-victoria-liderato-martin-marquez-marc.html"
+      "fecha": "2026-09-20T18:20:39+02:00",
+      "enlace": "https://www.lavanguardia.com/deportes/20260920/11639729/motociclismo-lluvia-titulos-mundiales-trial-motocross-hito-historico-daniela-guillen-guillem-farres-berta-abellan-arnau-farre-abril-montserrat.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 8,
+    "antiguedad_minima_min": 11,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2251607,
+        "antiguedad_min": 2251808,
         "descartados_por_gancho": 0
       },
       {
@@ -97,28 +97,28 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 137,
+        "items": 136,
         "error": null,
-        "antiguedad_min": 8,
-        "descartados_por_gancho": 9
+        "antiguedad_min": 11,
+        "descartados_por_gancho": 8
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 140,
+        "items": 138,
         "error": null,
-        "antiguedad_min": 49,
-        "descartados_por_gancho": 19
+        "antiguedad_min": 51,
+        "descartados_por_gancho": 17
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 24,
+        "items": 25,
         "error": null,
-        "antiguedad_min": 16,
-        "descartados_por_gancho": 1
+        "antiguedad_min": 20,
+        "descartados_por_gancho": 0
       }
     ]
   }

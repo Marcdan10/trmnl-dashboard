@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-09-20T15:52:32+02:00",
+  "generado": "2026-09-20T19:13:30+02:00",
   "titulares": [
     {
-      "titular": "El Atlético ya tiene once para el derbi; Julián, suplente",
+      "titular": "Asisa Joventut - Barça, en directo | Final Supercopa",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-20T15:09:35+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20260920/1004229388/atletico-once-derbi-julian-suplente.html"
+      "fecha": "2026-09-20T18:57:05+02:00",
+      "enlace": "https://www.mundodeportivo.com/baloncesto/20260920/1004229249/asisa-joventut-barca-directo-final-supercopa-endesa-baloncesto.html"
     },
     {
-      "titular": "Crítica unánime sobre la miniserie de ocho episodios de Prime Video que es Top 3 de España",
+      "titular": "Samantha Vallejo-Nágera: \"El tomate se corta con cuchillo de sierra. El rallador sí que es un invento\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-20T15:04:48+02:00",
-      "enlace": "https://www.mundodeportivo.com/elotromundo/television/20260920/1004229392/critica-unanime-sobre-miniserie-ocho-episodios-prime-video-top-3-espana-basada-hechos-reales-tvp-dct.html"
+      "fecha": "2026-09-20T18:56:56+02:00",
+      "enlace": "https://www.mundodeportivo.com/foodie/20260920/1004229472/samantha-vallejo-nagera-cocinera-tomate-corta-cuchillo-sierra-rallador-invento-mi-me-tostada-espanola-pan-integral-tomate-aceite-sal-xef-dct.html"
     },
     {
       "titular": "La joya de 15 años que quiere escapar del United asombra a la prensa inglesa",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/real-madrid/opinion/2026/09/16/espi-evita-ridiculo-mourinho.html"
     },
     {
-      "titular": "Este es el once del Real Madrid para el derbi ante el Atlético",
+      "titular": "La joya del automovilismo español que ha arrasado en Misano",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-20T15:02:40+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260920/1004229390/once-real-madrid-derbi-atletico.html"
+      "fecha": "2026-09-20T18:51:13+02:00",
+      "enlace": "https://www.mundodeportivo.com/motor/f1/20260920/1004229475/joya-automovilismo-espanol-arrasado-misano.html"
     },
     {
-      "titular": "Acosta aprende de su error y conquista por fin su primer triunfo MotoGP",
+      "titular": "Mundial 2026, en directo | Contrarreloj masculina",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-20T14:59:52+02:00",
-      "enlace": "https://www.mundodeportivo.com/motor/motogp/20260920/1004229380/acosta-aprende-error-conquista-primer-triunfo-motogp-spielberg.html"
+      "fecha": "2026-09-20T18:48:34+02:00",
+      "enlace": "https://www.mundodeportivo.com/ciclismo/20260920/1004229389/mundial-ciclismo-2026-directo-contrarreloj-elite-masculina-evenepoel-ganna-castrillo-romeo.html"
     },
     {
-      "titular": "\"De la Fuente renovará porque se lo ha ganado\"",
+      "titular": "Oblak: \"¿Polémica? Si nos expulsaron a nosotros con el Villarreal, esta también\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-20T14:59:06+02:00",
-      "enlace": "https://www.mundodeportivo.com/seleccion-espanola/20260920/1004229387/fuente-renovara-ganado.html"
+      "fecha": "2026-09-20T18:48:18+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20260920/1004229473/oblak-polemica-expulsaron-villarreal.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 42,
+    "antiguedad_minima_min": 16,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 6597,
+        "antiguedad_min": 6798,
         "descartados_por_gancho": 8
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 151,
+        "items": 143,
         "error": null,
-        "antiguedad_min": 42,
-        "descartados_por_gancho": 6
+        "antiguedad_min": 16,
+        "descartados_por_gancho": 4
       },
       {
         "medio": "Sport",
