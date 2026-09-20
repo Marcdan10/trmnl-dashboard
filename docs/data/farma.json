@@ -1,17 +1,44 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "portadas",
-  "generado": "2026-09-20T11:55:38+02:00",
+  "modo": "ultimas",
+  "generado": "2026-09-20T15:52:39+02:00",
   "titulares": [
     {
-      "titular": "Pacientes y expertos piden incorporar el valor social al evaluar medicamentos huérfanos",
+      "titular": "Las 10 profesiones sanitarias más expuestas a la Inteligencia Artificial: de nutricionistas a fisioterapeutas",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-20T15:47:01+02:00",
+      "enlace": "https://www.redaccionmedica.com/innovacion/sanidad-digital/20260920/las-profesiones-sanitarias-mas-expuestas-la-inteligencia-artificial-de-nutricionistas-fisioterapeutas/350939_0.html"
+    },
+    {
+      "titular": "Galicia se integra en plan europeo contra el impacto ambiental de los productos sanitarios",
       "medios": [
         "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-09-20T11:24:17+02:00",
-      "enlace": "https://diariofarma.com/2026/09/20/pacientes-y-expertos-piden-incorporar-el-valor-social-al-evaluar-medicamentos-huerfanos"
+      "fecha": "2026-09-20T14:33:24+02:00",
+      "enlace": "https://diariofarma.com/2026/09/20/galicia-se-integra-en-plan-europeo-contra-el-impacto-ambiental-de-los-productos-sanitarios"
+    },
+    {
+      "titular": "La farmacia comunitaria reivindica su rol como eje clave en la seguridad del paciente",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-20T14:18:56+02:00",
+      "enlace": "https://diariofarma.com/2026/09/20/la-farmacia-comunitaria-reivindica-su-rol-como-barrera-clave-en-la-seguridad-del-paciente"
+    },
+    {
+      "titular": "Muere una paciente de 64 años en Can Misses a la que habían aplicado medidas de contención",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-20T14:07:48+02:00",
+      "enlace": "https://www.redaccionmedica.com/profesionales/derecho-sanitario/20260920/muere-una-paciente-de-anos-en-can-misses-la-que-habian-aplicado-medidas-contencion/353202_0.html"
     },
     {
       "titular": "La OMS se fija en el Programa de Farmacia Rural de La Rioja para uno de sus informes estrella",
@@ -23,24 +50,6 @@
       "enlace": "https://elglobalfarma.com/farmacia/oms-programa-farmacia-rural-rioja-estudios-informe-regional-2027/"
     },
     {
-      "titular": "Separar innovación de novedad: la ecuación de los directores de Farmacia para el avance terapéutico",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-20T10:32:00+02:00",
-      "enlace": "https://www.redaccionmedica.com/autonomias/20260920/separar-innovacion-de-novedad-la-ecuacion-los-directores-farmacia-para-el-avance-terapeutico/353096_0.html"
-    },
-    {
-      "titular": "De La Rioja a Europa: las claves de la farmacia rural asistencial que ha conquistado a la OMS",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-18T13:40:49+02:00",
-      "enlace": "https://diariofarma.com/2026/09/18/de-la-rioja-a-europa-las-claves-de-la-farmacia-rural-asistencial-que-ha-conquistado-a-la-oms"
-    },
-    {
       "titular": "Inglaterra marca el camino para la farmacia comunitaria",
       "medios": [
         "El Global"
@@ -50,22 +59,13 @@
       "enlace": "https://elglobalfarma.com/opinion/editorial/inglaterra-camino-farmacia-comunitaria/"
     },
     {
-      "titular": "Decreto de listas de espera: \"Es necesaria una valoración más exhaustiva y método de trabajo\"",
+      "titular": "Javier, el MIR que afronta guardias de 24 horas con diabetes: \"Es difícil mantener el autocuidado\"",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-09-19T17:56:33+02:00",
-      "enlace": "https://www.redaccionmedica.com/autonomias/20260919/decreto-de-listas-espera-es-necesaria-una-valoracion-mas-exhaustiva-metodo-trabajo/353150_0.html"
-    },
-    {
-      "titular": "Las terapias avanzadas elevan la supervivencia del cáncer hematológico a 5 años al 63 %, según la SEHH",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-18T13:29:56+02:00",
-      "enlace": "https://diariofarma.com/2026/09/18/las-terapias-avanzadas-elevan-la-supervivencia-del-cancer-hematologico-a-5-anos-al-63-segun-la-sehh"
+      "fecha": "2026-09-20T14:06:07+02:00",
+      "enlace": "https://www.redaccionmedica.com/formacion/mir/20260920/javier-el-mir-que-afronta-guardias-de-horas-con-diabetes-es-dificil-mantener-autocuidado/349758_0.html"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 28,
+    "antiguedad_minima_min": 5,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 31,
+        "antiguedad_min": 79,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 9,
         "error": null,
-        "antiguedad_min": 2761,
+        "antiguedad_min": 2998,
         "descartados_por_gancho": 1
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 28,
+        "antiguedad_min": 5,
         "descartados_por_gancho": 0
       },
       {

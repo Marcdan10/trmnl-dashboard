@@ -1,9 +1,27 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "portadas",
-  "generado": "2026-09-20T11:55:32+02:00",
+  "modo": "ultimas",
+  "generado": "2026-09-20T15:52:32+02:00",
   "titulares": [
+    {
+      "titular": "El Atlético ya tiene once para el derbi; Julián, suplente",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-20T15:09:35+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20260920/1004229388/atletico-once-derbi-julian-suplente.html"
+    },
+    {
+      "titular": "Crítica unánime sobre la miniserie de ocho episodios de Prime Video que es Top 3 de España",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-20T15:04:48+02:00",
+      "enlace": "https://www.mundodeportivo.com/elotromundo/television/20260920/1004229392/critica-unanime-sobre-miniserie-ocho-episodios-prime-video-top-3-espana-basada-hechos-reales-tvp-dct.html"
+    },
     {
       "titular": "La joya de 15 años que quiere escapar del United asombra a la prensa inglesa",
       "medios": [
@@ -12,24 +30,6 @@
       "consenso": 1,
       "fecha": "2026-09-16T01:55:17+02:00",
       "enlace": "https://www.marca.com/futbol/album/2026/09/16/portadas-dia.html"
-    },
-    {
-      "titular": "Así queda la clasificación de LaLiga con el Barça presionando a Madrid y Atlético",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-19T22:57:32+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260919/1004229233/asi-queda-clasificacion-laliga-barca-presionando-madrid-atletico.html"
-    },
-    {
-      "titular": "1-3: Imparable Barça, soberbio Raphinha",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-19T23:02:43+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260919/1004229167/cronica-sevilla-barca.html"
     },
     {
       "titular": "\"¿Qué narices le pasa al Madrid?\"",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/real-madrid/opinion/2026/09/16/espi-evita-ridiculo-mourinho.html"
     },
     {
-      "titular": "Raphinha pulveriza un récord de Messi, va a por Cristiano y puede ser histórico",
+      "titular": "Este es el once del Real Madrid para el derbi ante el Atlético",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-20T11:15:16+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260920/1004229323/raphinha-pulveriza-record-messi-cristiano-historico.html"
+      "fecha": "2026-09-20T15:02:40+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260920/1004229390/once-real-madrid-derbi-atletico.html"
     },
     {
-      "titular": "\"El problema me parece obvio...\"",
-      "medios": [
-        "Marca"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-15T23:56:38+02:00",
-      "enlace": "https://www.marca.com/futbol/real-madrid/2026/09/15/mourinho-mi-unica-critica-matar-partidos.html"
-    },
-    {
-      "titular": "Fermín y el tierno gesto con su abuela en Sevilla",
+      "titular": "Acosta aprende de su error y conquista por fin su primer triunfo MotoGP",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-20T09:29:29+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260920/1004229304/fermin-tierno-gesto-abuela-sevilla.html"
+      "fecha": "2026-09-20T14:59:52+02:00",
+      "enlace": "https://www.mundodeportivo.com/motor/motogp/20260920/1004229380/acosta-aprende-error-conquista-primer-triunfo-motogp-spielberg.html"
+    },
+    {
+      "titular": "\"De la Fuente renovará porque se lo ha ganado\"",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-20T14:59:06+02:00",
+      "enlace": "https://www.mundodeportivo.com/seleccion-espanola/20260920/1004229387/fuente-renovara-ganado.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 40,
+    "antiguedad_minima_min": 42,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 6360,
+        "antiguedad_min": 6597,
         "descartados_por_gancho": 8
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 148,
+        "items": 151,
         "error": null,
-        "antiguedad_min": 40,
-        "descartados_por_gancho": 4
+        "antiguedad_min": 42,
+        "descartados_por_gancho": 6
       },
       {
         "medio": "Sport",

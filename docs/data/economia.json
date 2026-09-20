@@ -1,9 +1,54 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "portadas",
-  "generado": "2026-09-20T11:55:30+02:00",
+  "modo": "ultimas",
+  "generado": "2026-09-20T15:52:30+02:00",
   "titulares": [
+    {
+      "titular": "España recurre a las redes sociales para desalentar las entradas irregulares a Ceuta y Melilla",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-20T14:30:42+02:00",
+      "enlace": "https://www.expansion.com/economia/politica/2026/09/20/6aafd1c7468aeb7c618b4590.html"
+    },
+    {
+      "titular": "Meloni anuncia una ley para limitar el número de extranjeros por aula en los colegios",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-20T14:17:07+02:00",
+      "enlace": "https://www.expansion.com/economia/politica/2026/09/20/6aafcebf468aebbf2c8b4593.html"
+    },
+    {
+      "titular": "Trump anuncia que creará la 'Fuerza IA' y nombrará un 'zar' para dirigirla",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-20T11:22:45+02:00",
+      "enlace": "https://www.expansion.com/economia/politica/2026/09/20/6aafa57d468aeb08058b4580.html"
+    },
+    {
+      "titular": "La inteligencia artificial destapa trabajos sin sentido que estaban ocultos",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-19T20:33:14+02:00",
+      "enlace": "https://www.expansion.com/expansion-empleo/profesiones/2026/09/18/6aad1399468aeb7f028b457c.html"
+    },
+    {
+      "titular": "La demanda de alquiler se traslada de las capitales a ciudades más pequeñas",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-19T19:45:04+02:00",
+      "enlace": "https://www.expansion.com/inmobiliario/mercado/2026/09/19/6aae6ba4468aeb99108b456f.html"
+    },
     {
       "titular": "Llega la nueva era de la guerra controlada con IA",
       "medios": [
@@ -21,51 +66,6 @@
       "consenso": 1,
       "fecha": "2026-09-19T19:27:02+02:00",
       "enlace": "https://www.expansion.com/economia/financial-times/2026/09/19/6aaea643468aeb710e8b458a.html"
-    },
-    {
-      "titular": "La demanda de alquiler se traslada de las capitales a ciudades más pequeñas",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-19T19:45:04+02:00",
-      "enlace": "https://www.expansion.com/inmobiliario/mercado/2026/09/19/6aae6ba4468aeb99108b456f.html"
-    },
-    {
-      "titular": "Santander, BBVA, CaixaBank y Sabadell se preparan para embridar los depósitos",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-19T00:04:58+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/09/19/6aad19c7e5fdea72368b458a.html"
-    },
-    {
-      "titular": "EY se refuerza en capital riesgo con seis fichajes en Alvarez & Marsal",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-19T00:05:35+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/09/19/6aad7965468aebfe708b45ae.html"
-    },
-    {
-      "titular": "Guía de valores en Bolsa: los beneficios apuntalan las cotizaciones",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-19T00:04:02+02:00",
-      "enlace": "https://www.expansion.com/mercados/2024/04/05/660d827a468aeb13368b4582.html"
-    },
-    {
-      "titular": "La carrera global por la IA despeja el recorrido en Bolsa de las tecnológicas",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-19T00:02:59+02:00",
-      "enlace": "https://www.expansion.com/inversion/2026/09/19/6aad7c4ce5fdeafa338b4592.html"
     }
   ],
   "salud": {
@@ -78,7 +78,7 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 32,
+    "antiguedad_minima_min": 81,
     "detalle": [
       {
         "medio": "Expansión",
@@ -86,7 +86,7 @@
         "ok": true,
         "items": 77,
         "error": null,
-        "antiguedad_min": 32,
+        "antiguedad_min": 81,
         "descartados_por_gancho": 1
       },
       {
