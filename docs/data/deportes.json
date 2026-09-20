@@ -2,7 +2,7 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-09-20T00:01:51+02:00",
+  "generado": "2026-09-20T02:12:28+02:00",
   "titulares": [
     {
       "titular": "Imparable Barça, soberbio Raphinha",
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 7,
+    "antiguedad_minima_min": 95,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 5646,
+        "antiguedad_min": 5777,
         "descartados_por_gancho": 8
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 154,
+        "items": 156,
         "error": null,
-        "antiguedad_min": 7,
-        "descartados_por_gancho": 3
+        "antiguedad_min": 95,
+        "descartados_por_gancho": 2
       },
       {
         "medio": "Sport",

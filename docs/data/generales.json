@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-09-20T00:01:47+02:00",
+  "generado": "2026-09-20T02:12:24+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -32,13 +32,13 @@
       "enlace": "https://www.lavanguardia.com/internacional/20260919/11638945/trump-anuncia-haber-obtenido-control-permanente-sobre-seguridad-groenlandia.html"
     },
     {
-      "titular": "Laprovittola coloca al Joventut en 'su' final de la Supercopa",
+      "titular": "Berto Romero tiene 'Cinco minutos más' para dejar de mentir: «La hipocresía sostiene la vida en sociedad»",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-19T23:51:44+02:00",
-      "enlace": "https://www.abc.es/deportes/baloncesto/supercopa-joventutbaskonia-20260919191306-nt.html"
+      "fecha": "2026-09-20T02:05:18+02:00",
+      "enlace": "https://www.abc.es/cultura/cine/berto-romero-cinco-minutos-dejar-mentir-20260919193148-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -50,13 +50,14 @@
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
     },
     {
-      "titular": "Comunidades gobernadas por PP y Vox siguen acogiendo a menores migrantes que llegaron a Ceuta antes de la crisis",
+      "titular": "Raphinha eleva al Barça en Sevilla",
       "medios": [
-        "El País"
+        "El País",
+        "ABC"
       ],
-      "consenso": 1,
-      "fecha": "2026-09-19T05:30:01+02:00",
-      "enlace": "https://elpais.com/espana/2026-09-19/comunidades-gobernadas-por-pp-y-vox-siguen-acogiendo-a-menores-migrantes-que-llegaron-a-ceuta-antes-de-la-crisis.html"
+      "consenso": 2,
+      "fecha": "2026-09-20T01:58:43+02:00",
+      "enlace": "https://www.abc.es/deportes/futbol/raphinha-eleva-barca-sevilla-20260919230745-nt.html"
     },
     {
       "titular": "La OTAN celebra el acuerdo sobre Groenlandia por su importancia para la seguridad del Ártico",
@@ -74,7 +75,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 10,
+    "antiguedad_minima_min": 7,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +83,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2250656,
+        "antiguedad_min": 2250787,
         "descartados_por_gancho": 0
       },
       {
@@ -99,17 +100,17 @@
         "ok": true,
         "items": 138,
         "error": null,
-        "antiguedad_min": 27,
+        "antiguedad_min": 158,
         "descartados_por_gancho": 9
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 124,
+        "items": 132,
         "error": null,
         "antiguedad_min": 102,
-        "descartados_por_gancho": 17
+        "descartados_por_gancho": 19
       },
       {
         "medio": "ABC",
@@ -117,7 +118,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 10,
+        "antiguedad_min": 7,
         "descartados_por_gancho": 0
       }
     ]
