@@ -2,8 +2,35 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "portadas",
-  "generado": "2026-09-20T07:07:54+02:00",
+  "generado": "2026-09-20T11:55:38+02:00",
   "titulares": [
+    {
+      "titular": "Pacientes y expertos piden incorporar el valor social al evaluar medicamentos huérfanos",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-20T11:24:17+02:00",
+      "enlace": "https://diariofarma.com/2026/09/20/pacientes-y-expertos-piden-incorporar-el-valor-social-al-evaluar-medicamentos-huerfanos"
+    },
+    {
+      "titular": "La OMS se fija en el Programa de Farmacia Rural de La Rioja para uno de sus informes estrella",
+      "medios": [
+        "El Global"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-18T13:54:03+02:00",
+      "enlace": "https://elglobalfarma.com/farmacia/oms-programa-farmacia-rural-rioja-estudios-informe-regional-2027/"
+    },
+    {
+      "titular": "Separar innovación de novedad: la ecuación de los directores de Farmacia para el avance terapéutico",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-20T10:32:00+02:00",
+      "enlace": "https://www.redaccionmedica.com/autonomias/20260920/separar-innovacion-de-novedad-la-ecuacion-los-directores-farmacia-para-el-avance-terapeutico/353096_0.html"
+    },
     {
       "titular": "De La Rioja a Europa: las claves de la farmacia rural asistencial que ha conquistado a la OMS",
       "medios": [
@@ -14,13 +41,13 @@
       "enlace": "https://diariofarma.com/2026/09/18/de-la-rioja-a-europa-las-claves-de-la-farmacia-rural-asistencial-que-ha-conquistado-a-la-oms"
     },
     {
-      "titular": "La OMS se fija en el Programa de Farmacia Rural de La Rioja para uno de sus informes estrella",
+      "titular": "Inglaterra marca el camino para la farmacia comunitaria",
       "medios": [
         "El Global"
       ],
       "consenso": 1,
-      "fecha": "2026-09-18T13:54:03+02:00",
-      "enlace": "https://elglobalfarma.com/farmacia/oms-programa-farmacia-rural-rioja-estudios-informe-regional-2027/"
+      "fecha": "2026-09-18T13:35:43+02:00",
+      "enlace": "https://elglobalfarma.com/opinion/editorial/inglaterra-camino-farmacia-comunitaria/"
     },
     {
       "titular": "Decreto de listas de espera: \"Es necesaria una valoración más exhaustiva y método de trabajo\"",
@@ -39,33 +66,6 @@
       "consenso": 1,
       "fecha": "2026-09-18T13:29:56+02:00",
       "enlace": "https://diariofarma.com/2026/09/18/las-terapias-avanzadas-elevan-la-supervivencia-del-cancer-hematologico-a-5-anos-al-63-segun-la-sehh"
-    },
-    {
-      "titular": "Inglaterra marca el camino para la farmacia comunitaria",
-      "medios": [
-        "El Global"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-18T13:35:43+02:00",
-      "enlace": "https://elglobalfarma.com/opinion/editorial/inglaterra-camino-farmacia-comunitaria/"
-    },
-    {
-      "titular": "La revolución silenciosa de la carrera profesional en sanidad: las comunidades buscan fórmulas más allá de la antigüedad",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-19T10:33:36+02:00",
-      "enlace": "https://www.redaccionmedica.com/autonomias/20260919/la-revolucion-silenciosa-de-la-carrera-profesional-en-sanidad-las-comunidades-buscan-formulas-mas-alla-antiguedad/353052_0.html"
-    },
-    {
-      "titular": "La EMA respalda 12 nuevos medicamentos y estrecha el margen de uso de la ipidacrina",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-18T13:14:55+02:00",
-      "enlace": "https://diariofarma.com/2026/09/18/la-ema-respalda-12-nuevos-medicamentos-y-estrecha-el-margen-de-uso-de-la-ipidacrina"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 791,
+    "antiguedad_minima_min": 28,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 2486,
+        "antiguedad_min": 31,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 9,
         "error": null,
-        "antiguedad_min": 2473,
+        "antiguedad_min": 2761,
         "descartados_por_gancho": 1
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 791,
+        "antiguedad_min": 28,
         "descartados_por_gancho": 0
       },
       {

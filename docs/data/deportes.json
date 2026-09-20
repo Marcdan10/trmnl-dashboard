@@ -2,17 +2,8 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-09-20T07:07:48+02:00",
+  "generado": "2026-09-20T11:55:32+02:00",
   "titulares": [
-    {
-      "titular": "Imparable Barça, soberbio Raphinha",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-19T23:02:43+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260919/1004229167/cronica-sevilla-barca.html"
-    },
     {
       "titular": "La joya de 15 años que quiere escapar del United asombra a la prensa inglesa",
       "medios": [
@@ -23,13 +14,22 @@
       "enlace": "https://www.marca.com/futbol/album/2026/09/16/portadas-dia.html"
     },
     {
-      "titular": "Sevilla - Barcelona, la previa en directo",
+      "titular": "Así queda la clasificación de LaLiga con el Barça presionando a Madrid y Atlético",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-19T23:06:50+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260919/1004227321/sevilla-barcelona-directo-hoy-laliga-ea-sports-futbol.html"
+      "fecha": "2026-09-19T22:57:32+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260919/1004229233/asi-queda-clasificacion-laliga-barca-presionando-madrid-atletico.html"
+    },
+    {
+      "titular": "1-3: Imparable Barça, soberbio Raphinha",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-19T23:02:43+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260919/1004229167/cronica-sevilla-barca.html"
     },
     {
       "titular": "\"¿Qué narices le pasa al Madrid?\"",
@@ -41,13 +41,13 @@
       "enlace": "https://www.marca.com/futbol/real-madrid/opinion/2026/09/16/espi-evita-ridiculo-mourinho.html"
     },
     {
-      "titular": "86-87: El Barça sufre hasta el final para tumbar al Valencia",
+      "titular": "Raphinha pulveriza un récord de Messi, va a por Cristiano y puede ser histórico",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-19T23:34:26+02:00",
-      "enlace": "https://www.mundodeportivo.com/baloncesto/acb/20260919/1004229240/barca.html"
+      "fecha": "2026-09-20T11:15:16+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260920/1004229323/raphinha-pulveriza-record-messi-cristiano-historico.html"
     },
     {
       "titular": "\"El problema me parece obvio...\"",
@@ -59,13 +59,13 @@
       "enlace": "https://www.marca.com/futbol/real-madrid/2026/09/15/mourinho-mi-unica-critica-matar-partidos.html"
     },
     {
-      "titular": "Raphinha Nazario Da Souza: 'hat-trick' perfecto y exhibición del capitán",
+      "titular": "Fermín y el tierno gesto con su abuela en Sevilla",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-19T21:38:31+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260919/1004229209/golazo-raphinha-empatar-pizjuan.html"
+      "fecha": "2026-09-20T09:29:29+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260920/1004229304/fermin-tierno-gesto-abuela-sevilla.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 390,
+    "antiguedad_minima_min": 40,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 6072,
+        "antiguedad_min": 6360,
         "descartados_por_gancho": 8
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 156,
+        "items": 148,
         "error": null,
-        "antiguedad_min": 390,
-        "descartados_por_gancho": 2
+        "antiguedad_min": 40,
+        "descartados_por_gancho": 4
       },
       {
         "medio": "Sport",
