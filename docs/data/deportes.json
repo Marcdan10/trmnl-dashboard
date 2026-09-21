@@ -1,9 +1,27 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "portadas",
-  "generado": "2026-09-21T07:13:13+02:00",
+  "modo": "ultimas",
+  "generado": "2026-09-21T12:55:12+02:00",
   "titulares": [
+    {
+      "titular": "Millán, abogado: \"Es un mito que un vuelo sale más barato si lo compras este día. Lo que importa es la antelación y la fecha\"",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-21T12:24:29+02:00",
+      "enlace": "https://www.mundodeportivo.com/actualidad/20260921/1004229703/andres-millan-abogado-mito-vuelos-salen-mas-baratos-madrugada-martes-miercoles-importa-antelacion-fecha-no-hay-comprar-iphone-nuevo-octubre-dnr-dct.html"
+    },
+    {
+      "titular": "Marc Casadó pasa por el quirófano",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-21T12:23:36+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/deportivo-coruna/20260921/1004229714/casado-operado-urgencia.html"
+    },
     {
       "titular": "La joya de 15 años que quiere escapar del United asombra a la prensa inglesa",
       "medios": [
@@ -12,15 +30,6 @@
       "consenso": 1,
       "fecha": "2026-09-16T01:55:17+02:00",
       "enlace": "https://www.marca.com/futbol/album/2026/09/16/portadas-dia.html"
-    },
-    {
-      "titular": "Mou saca un papel con las dos rojas perdonadas: \"La historia del partido está aquí\"",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-20T18:39:49+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260920/1004229468/mou-saca-papel-dos-rojas-perdonadas-historia-partido.html"
     },
     {
       "titular": "\"¿Qué narices le pasa al Madrid?\"",
@@ -32,40 +41,31 @@
       "enlace": "https://www.marca.com/futbol/real-madrid/opinion/2026/09/16/espi-evita-ridiculo-mourinho.html"
     },
     {
-      "titular": "Lamine también habló alto y claro en el campo",
+      "titular": "El parón será aún más largo para Óskarsson: expulsión por hablar y baja para el Deportivo",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-20T00:37:15+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260920/1004229274/lamine-hablo-campo.html"
+      "fecha": "2026-09-21T12:18:34+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-sociedad/20260921/1004229711/paron-sera-aun-oskarsson-expulsion-hablar-baja-deportivo.html"
     },
     {
-      "titular": "\"El problema me parece obvio...\"",
-      "medios": [
-        "Marca"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-15T23:56:38+02:00",
-      "enlace": "https://www.marca.com/futbol/real-madrid/2026/09/15/mourinho-mi-unica-critica-matar-partidos.html"
-    },
-    {
-      "titular": "101-87: Un 'Lapro' descomunal guía al Asisa Joventut al título",
+      "titular": "Jack NBC se alza con la victoria en el Creators Custom Clash 2026 de Harley-Davidson",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-20T21:13:17+02:00",
-      "enlace": "https://www.mundodeportivo.com/baloncesto/acb/20260920/1004229499/101-87-lapro-descomunal-guia-asisa-joventut-titulo.html"
+      "fecha": "2026-09-21T12:18:05+02:00",
+      "enlace": "https://www.mundodeportivo.com/solomoto/20260921/1004227388/jack-nbc-alza-victoria-creators-custom-clash-2026-harley-davidson.html"
     },
     {
-      "titular": "2-1: El ADN Simeone decanta el derbi para el Atlético",
+      "titular": "El Asisa Joventut celebrará esta tarde con su afición el título de la Supercopa",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-20T18:34:11+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20260920/1004229457/adn-simeone-decanta-derbi-atletico.html"
+      "fecha": "2026-09-21T12:17:46+02:00",
+      "enlace": "https://www.mundodeportivo.com/baloncesto/acb/20260921/1004229709/asisa-joventut-celebrara-tarde-aficion-titulo-supercopa.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 402,
+    "antiguedad_minima_min": 30,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 7517,
+        "antiguedad_min": 7859,
         "descartados_por_gancho": 8
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 144,
+        "items": 136,
         "error": null,
-        "antiguedad_min": 402,
-        "descartados_por_gancho": 9
+        "antiguedad_min": 30,
+        "descartados_por_gancho": 7
       },
       {
         "medio": "Sport",

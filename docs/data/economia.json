@@ -1,71 +1,71 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "portadas",
-  "generado": "2026-09-21T07:13:13+02:00",
+  "modo": "ultimas",
+  "generado": "2026-09-21T12:55:10+02:00",
   "titulares": [
     {
-      "titular": "El miedo a subidas de impuestos y los precios de la vivienda disparan las donaciones en vida",
+      "titular": "Trump anuncia que el arco de triunfo para celebrar los 250 años de EEUU tendrá drones y francotiradores",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-20T23:56:56+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/09/20/6aac0fd7e5fdeacf488b45aa.html"
+      "fecha": "2026-09-21T12:29:20+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/09/21/6ab105afe5fdea4f648b4581.html"
     },
     {
-      "titular": "CaixaBank lanza incentivos para crecer entre los menores",
+      "titular": "El juez Peinado envía a juicio con jurado a Begoña Gómez y a su asesora",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-20T23:57:49+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/09/20/6ab010c1e5fdea460f8b4586.html"
+      "fecha": "2026-09-21T12:19:47+02:00",
+      "enlace": "https://www.expansion.com/economia/politica/2026/09/21/6ab10369468aeb09258b459a.html"
     },
     {
-      "titular": "Murtra integra la filial Tech bajo la gestión de Telefónica España",
+      "titular": "Nokia se estrena en el Euro Stoxx 50 como líder, mientras que Engie baja",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-20T23:56:26+02:00",
-      "enlace": "https://www.expansion.com/empresas/telecomunicaciones/2026/09/20/6aafee4e468aeb3b398b4583.html"
+      "fecha": "2026-09-21T12:13:24+02:00",
+      "enlace": "https://www.expansion.com/inversion/2026/09/21/6ab0fe7fe5fdea1f5c8b4571.html"
     },
     {
-      "titular": "Santander afina la estrategia en México para crecer sin elevar el riesgo",
+      "titular": "Santander entra en la guerra de la banca digital en España por captar jóvenes inversores",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-20T23:57:27+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/09/20/6a6c8d62468aeb24478b457c.html"
+      "fecha": "2026-09-21T12:09:26+02:00",
+      "enlace": "https://www.expansion.com/empresas/banca/2026/09/21/6ab10237468aeb0a0c8b4576.html"
     },
     {
-      "titular": "Manuel Muñoz sustituye a Fernández de Lis como responsable de Regulación de BBVA",
+      "titular": "Los altos directivos sitúan a España entre sus países preferidos de Europa para invertir",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-20T23:58:43+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/09/20/6aad84a8468aebdf268b458b.html"
+      "fecha": "2026-09-21T11:54:23+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/09/21/6ab0fb46e5fdeaa1048b4597.html"
     },
     {
-      "titular": "Tres claves que pueden provocar subidas o caídas superiores al 20% en Bolsa",
+      "titular": "La guerra civil entre cárteles que está desgarrando un estado mexicano",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-21T00:28:06+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/09/21/6aad386ce5fdeaba3d8b45a3.html"
+      "fecha": "2026-09-21T11:36:26+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/09/21/6ab0f8d7468aeb09258b4593.html"
     },
     {
-      "titular": "El rey de los frascos de perfume vende su filial industrial española",
+      "titular": "SoftBank planea la emisión de 9.500 millones en bonos basura para financiar OpenAI",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-21T00:41:25+02:00",
-      "enlace": "https://www.expansion.com/empresas/distribucion/2026/09/21/6ab00dbbe5fdeaef768b457e.html"
+      "fecha": "2026-09-21T11:24:51+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/09/21/6ab0f7e1e5fdea50178b4576.html"
     }
   ],
   "salud": {
@@ -78,16 +78,16 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 368,
+    "antiguedad_minima_min": 25,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 77,
+        "items": 73,
         "error": null,
-        "antiguedad_min": 368,
-        "descartados_por_gancho": 2
+        "antiguedad_min": 25,
+        "descartados_por_gancho": 1
       },
       {
         "medio": "Cinco Días",
