@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-09-21T12:55:12+02:00",
+  "generado": "2026-09-21T18:44:17+02:00",
   "titulares": [
     {
-      "titular": "Millán, abogado: \"Es un mito que un vuelo sale más barato si lo compras este día. Lo que importa es la antelación y la fecha\"",
+      "titular": "Sanyo Gutiérrez elige a su jugador más parecido: \"No llega a ser tan determinante\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-21T12:24:29+02:00",
-      "enlace": "https://www.mundodeportivo.com/actualidad/20260921/1004229703/andres-millan-abogado-mito-vuelos-salen-mas-baratos-madrugada-martes-miercoles-importa-antelacion-fecha-no-hay-comprar-iphone-nuevo-octubre-dnr-dct.html"
+      "fecha": "2026-09-21T18:14:43+02:00",
+      "enlace": "https://www.mundodeportivo.com/padel/premier-padel/20260921/1004229838/sanyo-gutierrez-elige-jugador-parecido-no-llega-determinante-condiciones-serlo.html"
     },
     {
-      "titular": "Marc Casadó pasa por el quirófano",
+      "titular": "Empieza el otoño con buen sabor de boca gracias a este dulce de Lidl",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-21T12:23:36+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/deportivo-coruna/20260921/1004229714/casado-operado-urgencia.html"
+      "fecha": "2026-09-21T18:09:34+02:00",
+      "enlace": "https://www.mundodeportivo.com/actualidad/20260921/1004229263/empieza-otono-buen-sabor-boca-gracias-dulce-lidl-delicioso-economico-smd.html"
     },
     {
       "titular": "La joya de 15 años que quiere escapar del United asombra a la prensa inglesa",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/real-madrid/opinion/2026/09/16/espi-evita-ridiculo-mourinho.html"
     },
     {
-      "titular": "El parón será aún más largo para Óskarsson: expulsión por hablar y baja para el Deportivo",
+      "titular": "La australiana Felicity Wilson-Haffenden somete a sus rivales en el Campeonato del Mundo Sub23",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-21T12:18:34+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-sociedad/20260921/1004229711/paron-sera-aun-oskarsson-expulsion-hablar-baja-deportivo.html"
+      "fecha": "2026-09-21T18:09:21+02:00",
+      "enlace": "https://www.mundodeportivo.com/ciclismo/20260921/1004229857/australiana-felicity-wilson-haffenden-somete-rivales-campeonato-mundo-contrarreloj-sub23.html"
     },
     {
-      "titular": "Jack NBC se alza con la victoria en el Creators Custom Clash 2026 de Harley-Davidson",
+      "titular": "Samu Aghehowa rompió a llorar sin parar",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-21T12:18:05+02:00",
-      "enlace": "https://www.mundodeportivo.com/solomoto/20260921/1004227388/jack-nbc-alza-victoria-creators-custom-clash-2026-harley-davidson.html"
+      "fecha": "2026-09-21T18:06:49+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/internacional/20260921/1004229855/samu-aghehowa-rompio-llorar-parar.html"
     },
     {
-      "titular": "El Asisa Joventut celebrará esta tarde con su afición el título de la Supercopa",
+      "titular": "Los números del Castellón, sinónimo de ascenso",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-21T12:17:46+02:00",
-      "enlace": "https://www.mundodeportivo.com/baloncesto/acb/20260921/1004229709/asisa-joventut-celebrara-tarde-aficion-titulo-supercopa.html"
+      "fecha": "2026-09-21T18:01:47+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/castellon/20260921/1004229853/numeros-castellon-sinonimo-ascenso.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 30,
+    "antiguedad_minima_min": 29,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 7859,
+        "antiguedad_min": 8208,
         "descartados_por_gancho": 8
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 136,
+        "items": 138,
         "error": null,
-        "antiguedad_min": 30,
-        "descartados_por_gancho": 7
+        "antiguedad_min": 29,
+        "descartados_por_gancho": 9
       },
       {
         "medio": "Sport",

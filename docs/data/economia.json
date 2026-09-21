@@ -2,70 +2,70 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-09-21T12:55:10+02:00",
+  "generado": "2026-09-21T18:44:15+02:00",
   "titulares": [
     {
-      "titular": "Trump anuncia que el arco de triunfo para celebrar los 250 años de EEUU tendrá drones y francotiradores",
+      "titular": "Santander ficha al director general de la 'fintech' del exCEO de BBVA Ángel Cano",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-21T12:29:20+02:00",
-      "enlace": "https://www.expansion.com/economia/financial-times/2026/09/21/6ab105afe5fdea4f648b4581.html"
+      "fecha": "2026-09-21T17:56:23+02:00",
+      "enlace": "https://www.expansion.com/empresas/banca/2026/09/21/6ab13ce1468aeb0a0c8b4586.html"
     },
     {
-      "titular": "El juez Peinado envía a juicio con jurado a Begoña Gómez y a su asesora",
+      "titular": "Paramount sella un litigio en EEUU y allana la megacompra de Warner Bros",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-21T12:19:47+02:00",
-      "enlace": "https://www.expansion.com/economia/politica/2026/09/21/6ab10369468aeb09258b459a.html"
+      "fecha": "2026-09-21T17:54:58+02:00",
+      "enlace": "https://www.expansion.com/empresas/distribucion/2026/09/21/6ab15336e5fdead81c8b459f.html"
     },
     {
-      "titular": "Nokia se estrena en el Euro Stoxx 50 como líder, mientras que Engie baja",
+      "titular": "Arabia Saudí lanza su propia marca de coches eléctricos para reducir su dependencia del petróleo",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-21T12:13:24+02:00",
-      "enlace": "https://www.expansion.com/inversion/2026/09/21/6ab0fe7fe5fdea1f5c8b4571.html"
+      "fecha": "2026-09-21T17:40:54+02:00",
+      "enlace": "https://www.expansion.com/empresas/motor/2026/09/21/6ab14fb3468aeb332a8b4595.html"
     },
     {
-      "titular": "Santander entra en la guerra de la banca digital en España por captar jóvenes inversores",
+      "titular": "El Ibex celebra la caída del petróleo y supera los 19.700 puntos",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-21T12:09:26+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/09/21/6ab10237468aeb0a0c8b4576.html"
+      "fecha": "2026-09-21T17:38:11+02:00",
+      "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/09/21/6ab0c9f6468aeb99108b45a0.html"
     },
     {
-      "titular": "Los altos directivos sitúan a España entre sus países preferidos de Europa para invertir",
+      "titular": "Self Bank lanza un depósito a dos años al 2,75% TAE",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-21T11:54:23+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/09/21/6ab0fb46e5fdeaa1048b4597.html"
+      "fecha": "2026-09-21T17:27:26+02:00",
+      "enlace": "https://www.expansion.com/empresas/banca/2026/09/21/6ab14ca7e5fdea6e698b4579.html"
     },
     {
-      "titular": "La guerra civil entre cárteles que está desgarrando un estado mexicano",
+      "titular": "Azkoyen ficha a Lazard como asesor financiero independiente para la opa de Jainaga y el Gobierno vasco",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-21T11:36:26+02:00",
-      "enlace": "https://www.expansion.com/economia/financial-times/2026/09/21/6ab0f8d7468aeb09258b4593.html"
+      "fecha": "2026-09-21T17:03:27+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/09/21/6ab1471b468aeb96368b4595.html"
     },
     {
-      "titular": "SoftBank planea la emisión de 9.500 millones en bonos basura para financiar OpenAI",
+      "titular": "EEUU descubre que la lana de oveja puede convertir el agua salada en potable con energía solar",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-21T11:24:51+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/09/21/6ab0f7e1e5fdea50178b4576.html"
+      "fecha": "2026-09-21T16:47:28+02:00",
+      "enlace": "https://www.expansion.com/empresas/energia/2026/09/21/6ab14077e5fdea6d568b458f.html"
     }
   ],
   "salud": {
@@ -78,16 +78,16 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 25,
+    "antiguedad_minima_min": 47,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 73,
+        "items": 76,
         "error": null,
-        "antiguedad_min": 25,
-        "descartados_por_gancho": 1
+        "antiguedad_min": 47,
+        "descartados_por_gancho": 2
       },
       {
         "medio": "Cinco Días",
