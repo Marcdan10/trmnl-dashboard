@@ -2,8 +2,53 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-09-21T18:44:15+02:00",
+  "generado": "2026-09-21T22:43:15+02:00",
   "titulares": [
+    {
+      "titular": "El Rey inaugura la exposición sobre la evolución tecnológica y el futuro de la electricidad",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-21T21:12:33+02:00",
+      "enlace": "https://www.expansion.com/estilo-vida/cultura/2026/09/21/6ab1819d468aebb63e8b458d.html"
+    },
+    {
+      "titular": "Relevo en la presidencia del grupo hotelero H10",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-21T20:50:33+02:00",
+      "enlace": "https://www.expansion.com/catalunya/2026/09/21/6ab17c70468aeb16468b4581.html"
+    },
+    {
+      "titular": "Luis Doussinague liderará el plan de transformación de Sesderma",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-21T20:20:19+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/09/21/6ab17483e5fdea1c3c8b4581.html"
+    },
+    {
+      "titular": "Pañalón se refuerza en el sector químico con la compra de Transportes Líquidos Campaña",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-21T19:42:49+02:00",
+      "enlace": "https://www.expansion.com/catalunya/2026/09/21/6ab15bbce5fdea42458b458c.html"
+    },
+    {
+      "titular": "En el espacio no sólo cabe Elon Musk",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-21T19:09:34+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/09/21/6ab16324e5fdea49388b458e.html"
+    },
     {
       "titular": "Santander ficha al director general de la 'fintech' del exCEO de BBVA Ángel Cano",
       "medios": [
@@ -21,51 +66,6 @@
       "consenso": 1,
       "fecha": "2026-09-21T17:54:58+02:00",
       "enlace": "https://www.expansion.com/empresas/distribucion/2026/09/21/6ab15336e5fdead81c8b459f.html"
-    },
-    {
-      "titular": "Arabia Saudí lanza su propia marca de coches eléctricos para reducir su dependencia del petróleo",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-21T17:40:54+02:00",
-      "enlace": "https://www.expansion.com/empresas/motor/2026/09/21/6ab14fb3468aeb332a8b4595.html"
-    },
-    {
-      "titular": "El Ibex celebra la caída del petróleo y supera los 19.700 puntos",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-21T17:38:11+02:00",
-      "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/09/21/6ab0c9f6468aeb99108b45a0.html"
-    },
-    {
-      "titular": "Self Bank lanza un depósito a dos años al 2,75% TAE",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-21T17:27:26+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/09/21/6ab14ca7e5fdea6e698b4579.html"
-    },
-    {
-      "titular": "Azkoyen ficha a Lazard como asesor financiero independiente para la opa de Jainaga y el Gobierno vasco",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-21T17:03:27+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/09/21/6ab1471b468aeb96368b4595.html"
-    },
-    {
-      "titular": "EEUU descubre que la lana de oveja puede convertir el agua salada en potable con energía solar",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-21T16:47:28+02:00",
-      "enlace": "https://www.expansion.com/empresas/energia/2026/09/21/6ab14077e5fdea6d568b458f.html"
     }
   ],
   "salud": {
@@ -78,7 +78,7 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 47,
+    "antiguedad_minima_min": 90,
     "detalle": [
       {
         "medio": "Expansión",
@@ -86,7 +86,7 @@
         "ok": true,
         "items": 76,
         "error": null,
-        "antiguedad_min": 47,
+        "antiguedad_min": 90,
         "descartados_por_gancho": 2
       },
       {

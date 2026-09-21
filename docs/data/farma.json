@@ -2,43 +2,43 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "ultimas",
-  "generado": "2026-09-21T18:44:24+02:00",
+  "generado": "2026-09-21T22:43:21+02:00",
   "titulares": [
     {
-      "titular": "El COFB impulsa el papel del farmacéutico joven en el futuro de la profesión",
+      "titular": "Expertos reclaman más datos y transparencia en los acuerdos de financiación farmacéutica",
       "medios": [
         "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-09-21T18:37:36+02:00",
-      "enlace": "https://diariofarma.com/2026/09/21/el-cofb-impulsa-el-papel-del-farmaceutico-joven-en-el-futuro-de-la-profesion"
+      "fecha": "2026-09-21T20:18:47+02:00",
+      "enlace": "https://diariofarma.com/2026/09/21/expertos-reclaman-mas-datos-y-transparencia-en-los-acuerdos-de-financiacion-farmaceutica"
     },
     {
-      "titular": "El Sermas asegura que solo el 7% de las ecografías han sido externalizadas hasta agosto de este año",
+      "titular": "¿Dos mentes en vez de una? Descubren que el cerebro está formado a partir de dos órganos",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-09-21T18:24:34+02:00",
-      "enlace": "https://www.redaccionmedica.com/autonomias/madrid/20260921/el-sermas-asegura-que-solo-el-de-las-ecografias-han-sido-externalizadas-hasta-agosto-este-ano/353295_0.html"
+      "fecha": "2026-09-21T19:15:58+02:00",
+      "enlace": "https://www.redaccionmedica.com/innovacion/20260921/dos-mentes-en-vez-de-una-descubren-que-el-cerebro-esta-formado-partir-dos-organos/353306_0.html"
     },
     {
-      "titular": "Europa aprueba 12 nuevos medicamentos y abre el reexamen de tres opiniones negativas",
+      "titular": "La crispación política rompe el espíritu del dictamen de Reconstrucción y aleja un nuevo pacto de Estado en sanidad",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-09-21T18:06:45+02:00",
-      "enlace": "https://www.redaccionmedica.com/empresas/industria-farmaceutica/20260921/europa-aprueba-nuevos-medicamentos-abre-el-reexamen-de-tres-opiniones-negativas/353302_0.html"
+      "fecha": "2026-09-21T19:00:30+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/20260921/la-crispacion-politica-rompe-el-espiritu-del-dictamen-de-reconstruccion-aleja-un-nuevo-pacto-estado-en-sanidad/350907_0.html"
     },
     {
-      "titular": "Madrid notificará a través de la tarjeta sanitaria si el fármaco tiene visado",
+      "titular": "La FDA impulsa métodos alternativos a las pruebas en animales para evaluar fármacos",
       "medios": [
         "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-09-21T18:03:54+02:00",
-      "enlace": "https://diariofarma.com/2026/09/21/madrid-notificara-a-traves-de-la-tarjeta-sanitaria-si-el-farmaco-tiene-visado"
+      "fecha": "2026-09-21T18:47:33+02:00",
+      "enlace": "https://diariofarma.com/2026/09/21/la-fda-impulsa-metodos-alternativos-a-las-pruebas-en-animales-para-evaluar-farmacos"
     },
     {
       "titular": "La RWE gana peso en la evaluación de medicamentos, pero España aún afronta retos: «La innovación solo transforma cuando llega al paciente»",
@@ -59,13 +59,13 @@
       "enlace": "https://elglobalfarma.com/industria/rsc-mas/msd-situa-diversidad-inclusion-palancas-talento-liderazgo-innovacion/"
     },
     {
-      "titular": "Laboratorios Viñas convierte su compromiso social en acción para mejorar la salud y el bienestar",
+      "titular": "La Ley de Organizaciones de Pacientes se adentra en el Congreso como una \"oportunidad\" con dos retos pendientes",
       "medios": [
-        "El Global"
+        "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-09-21T17:28:06+02:00",
-      "enlace": "https://elglobalfarma.com/industria/rsc-mas/laboratorios-vinas-convierte-compromiso-social-accion-mejorar-salud-bienestar/"
+      "fecha": "2026-09-21T18:55:26+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20260921/la-ley-de-organizaciones-pacientes-se-adentra-en-el-congreso-como-una-oportunidad-con-dos-retos-pendientes/353262_0.html"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 6,
+    "antiguedad_minima_min": 144,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 6,
+        "antiguedad_min": 144,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 71,
+        "antiguedad_min": 310,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 19,
+        "antiguedad_min": 207,
         "descartados_por_gancho": 0
       },
       {
