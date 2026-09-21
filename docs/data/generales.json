@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-09-21T00:06:24+02:00",
+  "generado": "2026-09-21T02:22:00+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -19,11 +19,11 @@
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-20T21:11:01+02:00",
+      "fecha": "2026-09-21T00:08:05+02:00",
       "enlace": "https://elpais.com/internacional/2026-09-20/la-extrema-derecha-se-dispara-en-las-elecciones-regionales-alemanas-y-profundiza-la-crisis-de-la-cdu-del-canciller-merz.html"
     },
     {
-      "titular": "La izquierda triunfa en Berlín y la ultraderechista AfD arrasa en Mecklemburgo-Antepomerania, según los sondeos",
+      "titular": "La CDU se estrella y desaparece por primera vez de un parlamento regional de Alemania, según las proyecciones",
       "medios": [
         "La Vanguardia"
       ],
@@ -32,13 +32,13 @@
       "enlace": "https://www.lavanguardia.com/internacional/20260920/11639723/izquierda-triunfa-linke-berlin-elecciones-ultraderecha-arrasa-mecklemburgo-antepomerania.html"
     },
     {
-      "titular": "Otro revolcón al Madrid en el Metropolitano en un polémico derbi",
+      "titular": "Rajada histórica de Mourinho: «Enhorabuena al Comité Arbitral»",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-20T22:57:29+02:00",
-      "enlace": "https://www.abc.es/deportes/futbol/cronica-atletico-real-madrid-20260920094941-nt.html"
+      "fecha": "2026-09-21T02:08:21+02:00",
+      "enlace": "https://www.abc.es/deportes/real-madrid/rajada-historica-mourinho-contaron-cambiado-enhorabuena-comite-20260920192734-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -59,13 +59,13 @@
       "enlace": "https://elpais.com/internacional/2026-09-20/putin-finiquita-una-elecciones-plagadas-de-irregularidades-y-abre-un-nuevo-capitulo-de-la-guerra.html"
     },
     {
-      "titular": "El 'índice Big Mac' que revela tu bajo poder adquisitivo",
+      "titular": "Martínez y Munar sellan el 3-0 ante Chile y meten a España en la Final 8",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-20T22:54:34+02:00",
-      "enlace": "https://www.abc.es/economia/cuentas-corrientes/titu-indice-big-mac-20260918181920-nt.html"
+      "fecha": "2026-09-21T02:04:50+02:00",
+      "enlace": "https://www.abc.es/deportes/tenis/martinez-munar-sellan-ante-chile-meten-espana-20260920185838-nt.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 42,
+    "antiguedad_minima_min": 13,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2252101,
+        "antiguedad_min": 2252236,
         "descartados_por_gancho": 0
       },
       {
@@ -99,26 +99,26 @@
         "ok": true,
         "items": 138,
         "error": null,
-        "antiguedad_min": 49,
+        "antiguedad_min": 37,
         "descartados_por_gancho": 8
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 137,
+        "items": 130,
         "error": null,
-        "antiguedad_min": 42,
-        "descartados_por_gancho": 16
+        "antiguedad_min": 137,
+        "descartados_por_gancho": 14
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 25,
+        "items": 24,
         "error": null,
-        "antiguedad_min": 68,
-        "descartados_por_gancho": 0
+        "antiguedad_min": 13,
+        "descartados_por_gancho": 1
       }
     ]
   }
