@@ -2,7 +2,7 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-09-21T02:22:07+02:00",
+  "generado": "2026-09-21T07:13:13+02:00",
   "titulares": [
     {
       "titular": "La joya de 15 años que quiere escapar del United asombra a la prensa inglesa",
@@ -12,15 +12,6 @@
       "consenso": 1,
       "fecha": "2026-09-16T01:55:17+02:00",
       "enlace": "https://www.marca.com/futbol/album/2026/09/16/portadas-dia.html"
-    },
-    {
-      "titular": "Oblak: \"¿Polémica? Si nos expulsaron a nosotros con el Villarreal, esta también\"",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-20T18:48:18+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20260920/1004229473/oblak-polemica-expulsaron-villarreal.html"
     },
     {
       "titular": "Mou saca un papel con las dos rojas perdonadas: \"La historia del partido está aquí\"",
@@ -41,15 +32,6 @@
       "enlace": "https://www.marca.com/futbol/real-madrid/opinion/2026/09/16/espi-evita-ridiculo-mourinho.html"
     },
     {
-      "titular": "\"El problema me parece obvio...\"",
-      "medios": [
-        "Marca"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-15T23:56:38+02:00",
-      "enlace": "https://www.marca.com/futbol/real-madrid/2026/09/15/mourinho-mi-unica-critica-matar-partidos.html"
-    },
-    {
       "titular": "Lamine también habló alto y claro en el campo",
       "medios": [
         "Mundo Deportivo"
@@ -59,6 +41,15 @@
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260920/1004229274/lamine-hablo-campo.html"
     },
     {
+      "titular": "\"El problema me parece obvio...\"",
+      "medios": [
+        "Marca"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-15T23:56:38+02:00",
+      "enlace": "https://www.marca.com/futbol/real-madrid/2026/09/15/mourinho-mi-unica-critica-matar-partidos.html"
+    },
+    {
       "titular": "101-87: Un 'Lapro' descomunal guía al Asisa Joventut al título",
       "medios": [
         "Mundo Deportivo"
@@ -66,6 +57,15 @@
       "consenso": 1,
       "fecha": "2026-09-20T21:13:17+02:00",
       "enlace": "https://www.mundodeportivo.com/baloncesto/acb/20260920/1004229499/101-87-lapro-descomunal-guia-asisa-joventut-titulo.html"
+    },
+    {
+      "titular": "2-1: El ADN Simeone decanta el derbi para el Atlético",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-20T18:34:11+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20260920/1004229457/adn-simeone-decanta-derbi-atletico.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 111,
+    "antiguedad_minima_min": 402,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 7226,
+        "antiguedad_min": 7517,
         "descartados_por_gancho": 8
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 147,
+        "items": 144,
         "error": null,
-        "antiguedad_min": 111,
-        "descartados_por_gancho": 8
+        "antiguedad_min": 402,
+        "descartados_por_gancho": 9
       },
       {
         "medio": "Sport",
