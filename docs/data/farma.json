@@ -1,8 +1,8 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "ultimas",
-  "generado": "2026-09-21T22:43:21+02:00",
+  "modo": "portadas",
+  "generado": "2026-09-22T01:46:04+02:00",
   "titulares": [
     {
       "titular": "Expertos reclaman más datos y transparencia en los acuerdos de financiación farmacéutica",
@@ -14,13 +14,13 @@
       "enlace": "https://diariofarma.com/2026/09/21/expertos-reclaman-mas-datos-y-transparencia-en-los-acuerdos-de-financiacion-farmaceutica"
     },
     {
-      "titular": "¿Dos mentes en vez de una? Descubren que el cerebro está formado a partir de dos órganos",
+      "titular": "La RWE gana peso en la evaluación de medicamentos, pero España aún afronta retos: «La innovación solo transforma cuando llega al paciente»",
       "medios": [
-        "Redacción Médica"
+        "El Global"
       ],
       "consenso": 1,
-      "fecha": "2026-09-21T19:15:58+02:00",
-      "enlace": "https://www.redaccionmedica.com/innovacion/20260921/dos-mentes-en-vez-de-una-descubren-que-el-cerebro-esta-formado-partir-dos-organos/353306_0.html"
+      "fecha": "2026-09-21T17:32:34+02:00",
+      "enlace": "https://elglobalfarma.com/industria/rwe-peso-evaluacion-medicamentos-espana-afronta-retos-johnson-johnson/"
     },
     {
       "titular": "La crispación política rompe el espíritu del dictamen de Reconstrucción y aleja un nuevo pacto de Estado en sanidad",
@@ -41,15 +41,6 @@
       "enlace": "https://diariofarma.com/2026/09/21/la-fda-impulsa-metodos-alternativos-a-las-pruebas-en-animales-para-evaluar-farmacos"
     },
     {
-      "titular": "La RWE gana peso en la evaluación de medicamentos, pero España aún afronta retos: «La innovación solo transforma cuando llega al paciente»",
-      "medios": [
-        "El Global"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-21T17:32:34+02:00",
-      "enlace": "https://elglobalfarma.com/industria/rwe-peso-evaluacion-medicamentos-espana-afronta-retos-johnson-johnson/"
-    },
-    {
       "titular": "MSD sitúa la diversidad y la inclusión como palancas de talento, liderazgo e innovación",
       "medios": [
         "El Global"
@@ -66,6 +57,15 @@
       "consenso": 1,
       "fecha": "2026-09-21T18:55:26+02:00",
       "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20260921/la-ley-de-organizaciones-pacientes-se-adentra-en-el-congreso-como-una-oportunidad-con-dos-retos-pendientes/353262_0.html"
+    },
+    {
+      "titular": "El COFB impulsa el papel del farmacéutico joven en el futuro de la profesión",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-21T18:37:36+02:00",
+      "enlace": "https://diariofarma.com/2026/09/21/el-cofb-impulsa-el-papel-del-farmaceutico-joven-en-el-futuro-de-la-profesion"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 144,
+    "antiguedad_minima_min": 327,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 144,
+        "antiguedad_min": 327,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 310,
+        "antiguedad_min": 493,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 207,
+        "antiguedad_min": 390,
         "descartados_por_gancho": 0
       },
       {

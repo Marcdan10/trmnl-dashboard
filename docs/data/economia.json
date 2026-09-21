@@ -1,71 +1,71 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "ultimas",
-  "generado": "2026-09-21T22:43:15+02:00",
+  "modo": "portadas",
+  "generado": "2026-09-22T01:45:56+02:00",
   "titulares": [
     {
-      "titular": "El Rey inaugura la exposición sobre la evolución tecnológica y el futuro de la electricidad",
+      "titular": "La inversión extranjera bruta repunta un 31% hasta junio pero las desinversiones se disparan",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-21T21:12:33+02:00",
-      "enlace": "https://www.expansion.com/estilo-vida/cultura/2026/09/21/6ab1819d468aebb63e8b458d.html"
+      "fecha": "2026-09-22T00:01:11+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/09/22/6ab1818ce5fdea6d568b45a5.html"
     },
     {
-      "titular": "Relevo en la presidencia del grupo hotelero H10",
+      "titular": "Muface, condenada a pagar a DKV por su seguro de salud",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-21T20:50:33+02:00",
-      "enlace": "https://www.expansion.com/catalunya/2026/09/21/6ab17c70468aeb16468b4581.html"
+      "fecha": "2026-09-22T00:01:03+02:00",
+      "enlace": "https://www.expansion.com/empresas/seguros/2026/09/22/6ab1868ae5fdea5a238b45a9.html"
     },
     {
-      "titular": "Luis Doussinague liderará el plan de transformación de Sesderma",
+      "titular": "Acciona, Ferrovial y ACS se lanzan a por 120.000 millones del agua británica",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-21T20:20:19+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/09/21/6ab17483e5fdea1c3c8b4581.html"
+      "fecha": "2026-09-22T00:01:00+02:00",
+      "enlace": "https://www.expansion.com/empresas/construccion-servicios/2026/09/22/6ab1772be5fdeaf4098b4594.html"
     },
     {
-      "titular": "Pañalón se refuerza en el sector químico con la compra de Transportes Líquidos Campaña",
+      "titular": "Jubilación parcial: cómo retirarte hasta 3 años antes cobrando pensión y salario",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-21T19:42:49+02:00",
-      "enlace": "https://www.expansion.com/catalunya/2026/09/21/6ab15bbce5fdea42458b458c.html"
+      "fecha": "2026-09-22T00:00:57+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/09/22/6ab17239468aebc80a8b4582.html"
     },
     {
-      "titular": "En el espacio no sólo cabe Elon Musk",
+      "titular": "Urbaser: Carlos Albi sustituirá a Fernando Abril-Martorell como CEO",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-21T19:09:34+02:00",
-      "enlace": "https://www.expansion.com/economia/financial-times/2026/09/21/6ab16324e5fdea49388b458e.html"
+      "fecha": "2026-09-22T00:00:53+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/09/22/6ab17f73e5fdea6d568b459e.html"
     },
     {
-      "titular": "Santander ficha al director general de la 'fintech' del exCEO de BBVA Ángel Cano",
+      "titular": "¿Descuenta ya el mercado un Gobierno de Núñez Feijóo en España?",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-21T17:56:23+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/09/21/6ab13ce1468aeb0a0c8b4586.html"
+      "fecha": "2026-09-21T20:27:38+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/09/21/6ab14d49468aebbf358b4579.html"
     },
     {
-      "titular": "Paramount sella un litigio en EEUU y allana la megacompra de Warner Bros",
+      "titular": "Los consejeros ejecutivos del Ibex aumentan su retribución un 29%",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-21T17:54:58+02:00",
-      "enlace": "https://www.expansion.com/empresas/distribucion/2026/09/21/6ab15336e5fdead81c8b459f.html"
+      "fecha": "2026-09-22T00:00:50+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/09/22/6ab17666468aeb96368b45a4.html"
     }
   ],
   "salud": {
@@ -78,16 +78,16 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 90,
+    "antiguedad_minima_min": 104,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 76,
+        "items": 77,
         "error": null,
-        "antiguedad_min": 90,
-        "descartados_por_gancho": 2
+        "antiguedad_min": 104,
+        "descartados_por_gancho": 0
       },
       {
         "medio": "Cinco Días",

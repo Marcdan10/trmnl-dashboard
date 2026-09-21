@@ -1,26 +1,17 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "ultimas",
-  "generado": "2026-09-21T22:43:16+02:00",
+  "modo": "portadas",
+  "generado": "2026-09-22T01:45:57+02:00",
   "titulares": [
     {
-      "titular": "\"Jamás plantes pinos cerca de una piscina, sus raíces son súper agresivas y pueden romper las tuberías\"",
+      "titular": "Ferran Torres: \"El único al que no me puedo traer es a Pedri\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-21T22:15:17+02:00",
-      "enlace": "https://www.mundodeportivo.com/tressesenta/20260921/1004229882/jose-gonzalez-jardinero-plantes-pinos-cerca-piscina-raices-son-super-agresivas-buscar-agua-romper-tuberias-smd.html"
-    },
-    {
-      "titular": "Tebas, contundente con las quejas del Madrid: \"No perdió el derbi por esas jugadas\"",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-21T21:59:54+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260921/1004229933/tebas-contundente-quejas-madrid-no-perdio-derbi-jugadas.html"
+      "fecha": "2026-09-21T23:09:53+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260921/1004229943/ferran-torres-unico-no-me-traer-pedri.html"
     },
     {
       "titular": "La joya de 15 años que quiere escapar del United asombra a la prensa inglesa",
@@ -32,6 +23,15 @@
       "enlace": "https://www.marca.com/futbol/album/2026/09/16/portadas-dia.html"
     },
     {
+      "titular": "Raphinha: \"Lamine tiene que ganar el Balón de Oro sí o sí\"",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-21T20:46:04+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260921/1004229901/raphinha-lamine-ganar-balon-oro.html"
+    },
+    {
       "titular": "\"¿Qué narices le pasa al Madrid?\"",
       "medios": [
         "Marca"
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/real-madrid/opinion/2026/09/16/espi-evita-ridiculo-mourinho.html"
     },
     {
-      "titular": "La UE cambia las normas: las familias con hijos menores de 14 años no pagarán un extra por sentarse juntos en el avión",
+      "titular": "Raphinha ya está a cinco goles de Ronaldinho",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-21T21:46:18+02:00",
-      "enlace": "https://www.mundodeportivo.com/actualidad/20260921/1004229924/oficial-ue-cambia-normas-partir-2027-familias-hijos-menores-14-anos-no-tendran-pagar-extra-sentarse-avion-dct.html"
+      "fecha": "2026-09-22T00:37:10+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260922/1004229963/raphinha-cinco-goles-ronaldinho.html"
     },
     {
-      "titular": "Los árbitros no denunciarán a Mou ante el Comité de Disciplina",
+      "titular": "El Barça, un líder imparable sin igual en Europa",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-21T21:44:22+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260921/1004229929/arbitros-no-denunciaran-mou-comite-disciplina.html"
+      "fecha": "2026-09-22T00:30:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260922/1004229854/barca-lider-imparable-igual-europa.html"
     },
     {
-      "titular": "Prime hace oficial su nuevo estreno español basado en una famosa novela: una historia postapocalíptica",
+      "titular": "\"El problema me parece obvio...\"",
       "medios": [
-        "Mundo Deportivo"
+        "Marca"
       ],
       "consenso": 1,
-      "fecha": "2026-09-21T21:33:33+02:00",
-      "enlace": "https://www.mundodeportivo.com/elotromundo/television/20260921/1004229923/prime-video-oficial-nuevo-estreno-espanol-basado-famosa-novela-historia-postapocaliptica-llega-proximo-30-octubre-tvp-dct.html"
+      "fecha": "2026-09-15T23:56:38+02:00",
+      "enlace": "https://www.marca.com/futbol/real-madrid/2026/09/15/mourinho-mi-unica-critica-matar-partidos.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 27,
+    "antiguedad_minima_min": 68,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 8447,
+        "antiguedad_min": 8630,
         "descartados_por_gancho": 8
       },
       {
@@ -99,9 +99,9 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 140,
+        "items": 142,
         "error": null,
-        "antiguedad_min": 27,
+        "antiguedad_min": 68,
         "descartados_por_gancho": 9
       },
       {
