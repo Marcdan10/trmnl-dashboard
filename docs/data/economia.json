@@ -2,8 +2,62 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-09-22T15:32:38+02:00",
+  "generado": "2026-09-22T19:52:22+02:00",
   "titulares": [
+    {
+      "titular": "Anthropic lanza Claude Opus 5.5, su primer modelo desde que pidió frenar el desarrollo de la IA",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-22T18:33:27+02:00",
+      "enlace": "https://www.expansion.com/tecnologia/companias/2026/09/22/6ab29bdc468aebfa508b45b9.html"
+    },
+    {
+      "titular": "Sánchez garantiza a Delcy Rodríguez el compromiso de España con Venezuela",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-22T18:01:32+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/09/22/6ab2a2d8e5fdea066d8b4592.html"
+    },
+    {
+      "titular": "Los problemas de Merz arrojan dudas sobre el presupuesto de 2 billones de euros de la UE",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-22T17:48:57+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/09/22/6ab2a364468aeb61788b4587.html"
+    },
+    {
+      "titular": "El Ibex se desinfla al cierre y sube un tímido 0,15% en una jornada muy volátil",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-22T17:43:07+02:00",
+      "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/09/22/6ab216b5e5fdea932b8b4571.html"
+    },
+    {
+      "titular": "Trump reivindica su guerra contra Irán y asegura que \"el precio del petróleo caerá en picado\"",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-22T17:27:12+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/09/22/6ab28ce4468aebe01c8b456d.html"
+    },
+    {
+      "titular": "Las escuelas de Londres se quedan sin alumnos",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-22T15:29:31+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/09/22/6ab2795b468aeb0e578b4596.html"
+    },
     {
       "titular": "Sánchez planta a Trump en la recepción de la ONU",
       "medios": [
@@ -12,60 +66,6 @@
       "consenso": 1,
       "fecha": "2026-09-22T15:02:52+02:00",
       "enlace": "https://www.expansion.com/economia/politica/2026/09/22/6ab27c7ae5fdea932b8b4589.html"
-    },
-    {
-      "titular": "Generali y Santalucía lanzan seguros de ahorro",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-22T14:49:38+02:00",
-      "enlace": "https://www.expansion.com/empresas/seguros/2026/09/22/6ab27743e5fdeaff488b4575.html"
-    },
-    {
-      "titular": "BBVA se ve fuerte en México frente a los neobancos: \"En 2025 fuimos la mejor 'fintech' del país\"",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-22T14:36:41+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/09/22/6ab2746d468aeb46758b4592.html"
-    },
-    {
-      "titular": "Columbus lanza un fondo cienmillonario para invertir en tecnología aplicada a la salud",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-22T14:06:07+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/09/22/6ab26bf5468aeb61788b456d.html"
-    },
-    {
-      "titular": "El Ibex se anima con otro freno del petróleo",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-22T14:02:54+02:00",
-      "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/09/22/6ab216b5e5fdea932b8b4571.html"
-    },
-    {
-      "titular": "Barcelona saca adelante el alza de la tasa a los cruceristas que hacen escala con el aval de Junts, PSC y ERC",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-22T13:59:19+02:00",
-      "enlace": "https://www.expansion.com/catalunya/2026/09/22/6ab26cd2468aebfa508b45a7.html"
-    },
-    {
-      "titular": "La retirada de los bajistas acelera la subida del bitcoin",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-22T13:57:19+02:00",
-      "enlace": "https://www.expansion.com/mercados/criptomonedas/2026/09/22/6ab26a06e5fdea765c8b457d.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 29,
+    "antiguedad_minima_min": 78,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 81,
+        "items": 80,
         "error": null,
-        "antiguedad_min": 29,
+        "antiguedad_min": 78,
         "descartados_por_gancho": 0
       },
       {

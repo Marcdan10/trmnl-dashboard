@@ -2,61 +2,61 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-09-22T15:32:36+02:00",
+  "generado": "2026-09-22T19:52:19+02:00",
   "titulares": [
     {
-      "titular": "Últimas noticias de la Asamblea General de la ONU, en directo | Guterres ofrece un retrato sombrío en su último discurso: “En la última década, los derechos humanos fueron pisoteados, el derecho internacional ignorado”",
+      "titular": "El Gobierno fracasa por octava vez en su empeño para que el catalán sea oficial en la UE",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-22T19:45:22+02:00",
+      "enlace": "https://www.abc.es/espana/gobierno-fracasa-octava-vez-empeno-catalan-oficial-20260922132524-nt.html"
+    },
+    {
+      "titular": "Últimas noticias de la Asamblea General de la ONU, en directo | Trump amenaza con “aniquilar” Irán si no hay pacto, pero augura un acuerdo tras las elecciones de noviembre",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-22T15:26:32+02:00",
+      "fecha": "2026-09-22T19:45:17+02:00",
       "enlace": "https://elpais.com/internacional/2026-09-22/ultimas-noticias-de-la-asamblea-general-de-la-onu-en-directo.html"
     },
     {
-      "titular": "Crisis en Ceuta y actualidad política, directo | El Gobierno habilitará nuevos espacios “esta semana y la próxima” para acoger migrantes en Ceuta",
+      "titular": "Tebas afea los lamentos arbitrales del Madrid y el club responde: «Es intolerable»",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-22T19:39:59+02:00",
+      "enlace": "https://www.abc.es/deportes/futbol/tebas-afea-lamentos-arbitrales-madrid-coartada-tapar-20260922132350-nt.html"
+    },
+    {
+      "titular": "Ryanair vulneró el derecho a la huelga de sus trabajadores, según el Tribunal Constitucional",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-22T15:22:37+02:00",
-      "enlace": "https://elpais.com/espana/2026-09-22/crisis-en-ceuta-y-actualidad-politica-directo.html"
+      "fecha": "2026-09-22T19:22:26+02:00",
+      "enlace": "https://elpais.com/economia/2026-09-22/ryanair-vulnero-el-derecho-a-la-huelga-de-sus-trabajadores-segun-el-tribunal-constitucional.html"
     },
     {
-      "titular": "Parte médico de Valverde tras la entrada de Kang-in: esguince de grado tres en el tobillo",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-22T15:22:06+02:00",
-      "enlace": "https://www.abc.es/deportes/real-madrid/valverde-lesionado-tras-entrada-kangin-derbi-esguince-20260922124236-nt.html"
-    },
-    {
-      "titular": "Bruselas contradice a la ministra Rego y recuerda que los menores también han de volver a Marruecos",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-22T15:20:17+02:00",
-      "enlace": "https://www.abc.es/espana/bruselas-contradice-rego-recuerda-menores-volver-marruecos-20260922151711-nt.html"
-    },
-    {
-      "titular": "PP y Aliança apoyan que se retire la sanción a Vox por llamar “asesino” a Lluís Companys",
+      "titular": "Mike Leigh se despide del cine en San Sebastián",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-22T14:14:57+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20260922/11641318/pp-alianca-apoyan-retire-sancion-vox-llamar-asesino-lluis-companys.html"
+      "fecha": "2026-09-22T19:11:51+02:00",
+      "enlace": "https://www.lavanguardia.com/cultura/20260922/11641592/mike-leigh-despide-cine-san-sebastian.html"
     },
     {
-      "titular": "La renovación de las sanciones a dos oligarcas próximos a Rusia dividen a la Unión Europea",
+      "titular": "Salvador Alemany: “Nunca he sido partidario de arreglar las cosas con planes de austeridad”",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-22T14:04:31+02:00",
-      "enlace": "https://www.lavanguardia.com/internacional/20260922/11641346/renovacion-sanciones-dos-oligarcas-proximos-rusia-dividen-union-europea.html"
+      "fecha": "2026-09-22T19:10:35+02:00",
+      "enlace": "https://www.lavanguardia.com/cultura/20260922/11641598/salvador-alemany-nunca-he-sido-partidario-arreglar-cosas-planes-austeridad.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2254467,
+        "antiguedad_min": 2254727,
         "descartados_por_gancho": 0
       },
       {
@@ -97,18 +97,18 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 140,
+        "items": 137,
         "error": null,
-        "antiguedad_min": 6,
-        "descartados_por_gancho": 10
+        "antiguedad_min": 7,
+        "descartados_por_gancho": 9
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 125,
+        "items": 132,
         "error": null,
-        "antiguedad_min": 77,
+        "antiguedad_min": 40,
         "descartados_por_gancho": 15
       },
       {
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 10,
+        "antiguedad_min": 6,
         "descartados_por_gancho": 0
       }
     ]

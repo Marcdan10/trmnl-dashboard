@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-09-22T15:32:40+02:00",
+  "generado": "2026-09-22T19:52:23+02:00",
   "titulares": [
     {
-      "titular": "Ricky Rubio, eufórico en redes tras la celebración de la Supercopa: \"¡Qué pasada!\"",
+      "titular": "Nuevo comunicado: carga contra Juanma Castaño por la comparación que hace de RMTV",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-22T15:25:08+02:00",
-      "enlace": "https://www.mundodeportivo.com/baloncesto/acb/20260922/1004230125/ricky-rubio-euforico-redes-celebracion-supercopa-pasada.html"
+      "fecha": "2026-09-22T19:14:31+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260922/1004230202/nuevo-comunicado-real-madrid-carga-juanma-castano-comparacion-rmtv.html"
     },
     {
-      "titular": "La miniserie de Netflix que divide a la crítica: miniserie de ocho episodios perfecta para ver en una tarde",
+      "titular": "El próximo partido de Champions del Atlético, declarado de alto riesgo",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-22T15:12:04+02:00",
-      "enlace": "https://www.mundodeportivo.com/elotromundo/television/20260922/1004230123/miniserie-netflix-divide-critica-miniserie-ocho-episodios-perfecta-ver-tarde-tvp-dct.html"
+      "fecha": "2026-09-22T19:09:37+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20260922/1004230203/proximo-partido-champions-atletico-declarado-alto-riesgo.html"
     },
     {
       "titular": "\"Siempre van a venir a criticarnos. 140 millones, eso pidieron\"",
@@ -42,31 +42,31 @@
       "enlace": "https://www.marca.com/coches-y-motos/coches/2026/09/22/repente-sergio-ramos-aparece-sede-ferrari.html"
     },
     {
-      "titular": "Quieres adelgazar jugando al pádel: hacer más partidos no siempre es la solución",
+      "titular": "Movistar Plus anuncia su nueva miniserie: ambientada en la Barcelona del 91 y la preparación de los JJOO",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-22T15:10:05+02:00",
-      "enlace": "https://www.mundodeportivo.com/padel/consejos/20260922/1004230118/quieres-adelgazar-jugando-padel-mas-partidos-no-siempre-solucion.html"
+      "fecha": "2026-09-22T19:04:37+02:00",
+      "enlace": "https://www.mundodeportivo.com/elotromundo/television/20260922/1004230198/movistar-plus-anuncia-nueva-miniserie-espanola-ambientada-barcelona-1991-preparacion-juegos-olimpicos-tvp-dct.html"
     },
     {
-      "titular": "Multa de 10.000 euros a la Juve",
+      "titular": "Lamine: \"Mi forma de jugar es mi mejor argumento para ganar el Balón de Oro\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-22T15:08:57+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/20260922/1004230121/multa-10-000-euros-juve.html"
+      "fecha": "2026-09-22T18:58:17+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260922/1004230195/lamine-yamal.html"
     },
     {
-      "titular": "El gráfico de L'Equipe que muestra el caos ofensivo del Real Madrid en el derbi",
+      "titular": "La ACB repasa la trayectoria de un histórico Sergio Llull en el documental 'Mandarinas'",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-22T15:07:02+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260922/1004230122/grafico-l-equipe-muestra-caos-ofensivo-real-madrid-derbi.html"
+      "fecha": "2026-09-22T18:58:07+02:00",
+      "enlace": "https://www.mundodeportivo.com/baloncesto/acb/20260922/1004230197/acb-repasa-trayectoria-historico-sergio-llull-documental-mandarinas.html"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 7,
+    "antiguedad_minima_min": 37,
     "detalle": [
       {
         "medio": "Marca",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 61,
         "error": null,
-        "antiguedad_min": 260,
+        "antiguedad_min": 520,
         "descartados_por_gancho": 7
       },
       {
@@ -100,10 +100,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 135,
+        "items": 140,
         "error": null,
-        "antiguedad_min": 7,
-        "descartados_por_gancho": 6
+        "antiguedad_min": 37,
+        "descartados_por_gancho": 3
       },
       {
         "medio": "Sport",
