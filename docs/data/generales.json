@@ -1,9 +1,63 @@
 {
   "pantalla": "generales",
   "titulo": "Titulares",
-  "modo": "portadas",
-  "generado": "2026-09-22T10:09:14+02:00",
+  "modo": "ultimas",
+  "generado": "2026-09-22T15:32:36+02:00",
   "titulares": [
+    {
+      "titular": "Últimas noticias de la Asamblea General de la ONU, en directo | Guterres ofrece un retrato sombrío en su último discurso: “En la última década, los derechos humanos fueron pisoteados, el derecho internacional ignorado”",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-22T15:26:32+02:00",
+      "enlace": "https://elpais.com/internacional/2026-09-22/ultimas-noticias-de-la-asamblea-general-de-la-onu-en-directo.html"
+    },
+    {
+      "titular": "Crisis en Ceuta y actualidad política, directo | El Gobierno habilitará nuevos espacios “esta semana y la próxima” para acoger migrantes en Ceuta",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-22T15:22:37+02:00",
+      "enlace": "https://elpais.com/espana/2026-09-22/crisis-en-ceuta-y-actualidad-politica-directo.html"
+    },
+    {
+      "titular": "Parte médico de Valverde tras la entrada de Kang-in: esguince de grado tres en el tobillo",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-22T15:22:06+02:00",
+      "enlace": "https://www.abc.es/deportes/real-madrid/valverde-lesionado-tras-entrada-kangin-derbi-esguince-20260922124236-nt.html"
+    },
+    {
+      "titular": "Bruselas contradice a la ministra Rego y recuerda que los menores también han de volver a Marruecos",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-22T15:20:17+02:00",
+      "enlace": "https://www.abc.es/espana/bruselas-contradice-rego-recuerda-menores-volver-marruecos-20260922151711-nt.html"
+    },
+    {
+      "titular": "PP y Aliança apoyan que se retire la sanción a Vox por llamar “asesino” a Lluís Companys",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-22T14:14:57+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20260922/11641318/pp-alianca-apoyan-retire-sancion-vox-llamar-asesino-lluis-companys.html"
+    },
+    {
+      "titular": "La renovación de las sanciones a dos oligarcas próximos a Rusia dividen a la Unión Europea",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-22T14:04:31+02:00",
+      "enlace": "https://www.lavanguardia.com/internacional/20260922/11641346/renovacion-sanciones-dos-oligarcas-proximos-rusia-dividen-union-europea.html"
+    },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
       "medios": [
@@ -12,60 +66,6 @@
       "consenso": 1,
       "fecha": "2022-06-10T01:05:00+02:00",
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
-    },
-    {
-      "titular": "Trump, a Mamdani: “Espero que sea un gran alcalde de Nueva York. Tiene potencial”",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-22T00:04:27+02:00",
-      "enlace": "https://elpais.com/us/2026-09-21/trump-a-mamdani-espero-que-sea-un-gran-alcalde-de-nueva-york-tiene-potencia-para-ello.html"
-    },
-    {
-      "titular": "Sánchez no asistirá a la recepción que ofrece Trump por la Asamblea General de la ONU",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-22T06:13:50+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20260922/11640955/sanchez-asistira-recepcion-ofrece-trump-asamblea-general-onu.html"
-    },
-    {
-      "titular": "La Abogacía del Estado ve imposible revisar 170.000 expedientes de la ley de nietos antes del 1 de enero",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-22T09:54:27+02:00",
-      "enlace": "https://www.abc.es/espana/abogacia-estado-imposible-revisar-170000-expedientes-ley-20260922085010-nt.html"
-    },
-    {
-      "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
-      "medios": [
-        "RTVE"
-      ],
-      "consenso": 1,
-      "fecha": "2022-06-10T00:03:00+02:00",
-      "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
-    },
-    {
-      "titular": "Trump lleva sus batallas a la Asamblea General de Naciones Unidas",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-22T05:30:01+02:00",
-      "enlace": "https://elpais.com/internacional/2026-09-22/trump-lleva-sus-batallas-a-la-asamblea-general-de-naciones-unidas.html"
-    },
-    {
-      "titular": "Guterres afronta su última Asamblea General de la ONU en una situación mucho peor de la que heredó",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-21T19:30:51+02:00",
-      "enlace": "https://www.lavanguardia.com/internacional/20260921/11640681/guterres-afronta-ultima-asamblea-general-onu-situacion-peor-heredo.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 14,
+    "antiguedad_minima_min": 6,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2254144,
+        "antiguedad_min": 2254467,
         "descartados_por_gancho": 0
       },
       {
@@ -97,18 +97,18 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 136,
+        "items": 140,
         "error": null,
-        "antiguedad_min": 25,
+        "antiguedad_min": 6,
         "descartados_por_gancho": 10
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 118,
+        "items": 125,
         "error": null,
-        "antiguedad_min": 114,
+        "antiguedad_min": 77,
         "descartados_por_gancho": 15
       },
       {
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 14,
+        "antiguedad_min": 10,
         "descartados_por_gancho": 0
       }
     ]

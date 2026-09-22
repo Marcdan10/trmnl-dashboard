@@ -1,71 +1,72 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "portadas",
-  "generado": "2026-09-22T10:09:18+02:00",
+  "modo": "ultimas",
+  "generado": "2026-09-22T15:32:40+02:00",
   "titulares": [
     {
-      "titular": "La joya de 15 años que quiere escapar del United asombra a la prensa inglesa",
+      "titular": "Ricky Rubio, eufórico en redes tras la celebración de la Supercopa: \"¡Qué pasada!\"",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-22T15:25:08+02:00",
+      "enlace": "https://www.mundodeportivo.com/baloncesto/acb/20260922/1004230125/ricky-rubio-euforico-redes-celebracion-supercopa-pasada.html"
+    },
+    {
+      "titular": "La miniserie de Netflix que divide a la crítica: miniserie de ocho episodios perfecta para ver en una tarde",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-22T15:12:04+02:00",
+      "enlace": "https://www.mundodeportivo.com/elotromundo/television/20260922/1004230123/miniserie-netflix-divide-critica-miniserie-ocho-episodios-perfecta-ver-tarde-tvp-dct.html"
+    },
+    {
+      "titular": "\"Siempre van a venir a criticarnos. 140 millones, eso pidieron\"",
+      "medios": [
+        "Marca",
+        "Mundo Deportivo"
+      ],
+      "consenso": 2,
+      "fecha": "2026-09-22T11:44:07+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260922/1004230052/diomande-reivindica-tik-tok-siempre-venir-criticarnos-140-millones-pidieron.html"
+    },
+    {
+      "titular": "'De repente', Sergio Ramos aparece por la sede de Ferrari",
       "medios": [
         "Marca"
       ],
       "consenso": 1,
-      "fecha": "2026-09-16T01:55:17+02:00",
-      "enlace": "https://www.marca.com/futbol/album/2026/09/16/portadas-dia.html"
+      "fecha": "2026-09-22T11:12:16+02:00",
+      "enlace": "https://www.marca.com/coches-y-motos/coches/2026/09/22/repente-sergio-ramos-aparece-sede-ferrari.html"
     },
     {
-      "titular": "Ferran Torres: \"El único al que no me puedo traer es a Pedri\"",
+      "titular": "Quieres adelgazar jugando al pádel: hacer más partidos no siempre es la solución",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-21T23:09:53+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260921/1004229943/ferran-torres-unico-no-me-traer-pedri.html"
+      "fecha": "2026-09-22T15:10:05+02:00",
+      "enlace": "https://www.mundodeportivo.com/padel/consejos/20260922/1004230118/quieres-adelgazar-jugando-padel-mas-partidos-no-siempre-solucion.html"
     },
     {
-      "titular": "Raphinha: \"Lamine tiene que ganar el Balón de Oro sí o sí\"",
+      "titular": "Multa de 10.000 euros a la Juve",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-21T20:46:04+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260921/1004229901/raphinha-lamine-ganar-balon-oro.html"
+      "fecha": "2026-09-22T15:08:57+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/20260922/1004230121/multa-10-000-euros-juve.html"
     },
     {
-      "titular": "\"¿Qué narices le pasa al Madrid?\"",
-      "medios": [
-        "Marca"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-16T00:09:28+02:00",
-      "enlace": "https://www.marca.com/futbol/real-madrid/opinion/2026/09/16/espi-evita-ridiculo-mourinho.html"
-    },
-    {
-      "titular": "Ferran Torres alaba a Luis Enrique: \"Va a saber sacar mi máximo potencial\"",
+      "titular": "El gráfico de L'Equipe que muestra el caos ofensivo del Real Madrid en el derbi",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-21T23:01:14+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/ligue-1/20260921/1004229932/ferran-torres.html"
-    },
-    {
-      "titular": "\"El problema me parece obvio...\"",
-      "medios": [
-        "Marca"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-15T23:56:38+02:00",
-      "enlace": "https://www.marca.com/futbol/real-madrid/2026/09/15/mourinho-mi-unica-critica-matar-partidos.html"
-    },
-    {
-      "titular": "Raphinha ya está a cinco goles de Ronaldinho",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-22T00:37:10+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260922/1004229963/raphinha-cinco-goles-ronaldinho.html"
+      "fecha": "2026-09-22T15:07:02+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260922/1004230122/grafico-l-equipe-muestra-caos-ofensivo-real-madrid-derbi.html"
     }
   ],
   "salud": {
@@ -75,16 +76,16 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 17,
+    "antiguedad_minima_min": 7,
     "detalle": [
       {
         "medio": "Marca",
         "url": "https://e00-marca.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 57,
+        "items": 61,
         "error": null,
-        "antiguedad_min": 9133,
-        "descartados_por_gancho": 8
+        "antiguedad_min": 260,
+        "descartados_por_gancho": 7
       },
       {
         "medio": "AS",
@@ -99,9 +100,9 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 136,
+        "items": 135,
         "error": null,
-        "antiguedad_min": 17,
+        "antiguedad_min": 7,
         "descartados_por_gancho": 6
       },
       {

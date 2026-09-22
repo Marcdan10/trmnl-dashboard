@@ -1,71 +1,71 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "portadas",
-  "generado": "2026-09-22T10:09:16+02:00",
+  "modo": "ultimas",
+  "generado": "2026-09-22T15:32:38+02:00",
   "titulares": [
     {
-      "titular": "La inversión extranjera bruta repunta un 31% hasta junio pero las desinversiones se disparan",
+      "titular": "Sánchez planta a Trump en la recepción de la ONU",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-22T00:01:11+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/09/22/6ab1818ce5fdea6d568b45a5.html"
+      "fecha": "2026-09-22T15:02:52+02:00",
+      "enlace": "https://www.expansion.com/economia/politica/2026/09/22/6ab27c7ae5fdea932b8b4589.html"
     },
     {
-      "titular": "Urbaser: Carlos Albi sustituirá a Fernando Abril-Martorell como CEO",
+      "titular": "Generali y Santalucía lanzan seguros de ahorro",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-22T00:00:53+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/09/22/6ab17f73e5fdea6d568b459e.html"
+      "fecha": "2026-09-22T14:49:38+02:00",
+      "enlace": "https://www.expansion.com/empresas/seguros/2026/09/22/6ab27743e5fdeaff488b4575.html"
     },
     {
-      "titular": "Acciona, Ferrovial y ACS se lanzan a por 120.000 millones del agua británica",
+      "titular": "BBVA se ve fuerte en México frente a los neobancos: \"En 2025 fuimos la mejor 'fintech' del país\"",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-22T00:01:00+02:00",
-      "enlace": "https://www.expansion.com/empresas/construccion-servicios/2026/09/22/6ab1772be5fdeaf4098b4594.html"
+      "fecha": "2026-09-22T14:36:41+02:00",
+      "enlace": "https://www.expansion.com/empresas/banca/2026/09/22/6ab2746d468aeb46758b4592.html"
     },
     {
-      "titular": "La Primera de Expansión sobre Acciona, Ferrovial, ACS, Goldman Sachs, Santander, Alibaba y Rusia",
+      "titular": "Columbus lanza un fondo cienmillonario para invertir en tecnología aplicada a la salud",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-22T07:28:16+02:00",
-      "enlace": "https://www.expansion.com/podcasts/la-primera-de-expansion/2026/09/22/6ab20ae7468aebfa508b4587.html"
+      "fecha": "2026-09-22T14:06:07+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/09/22/6ab26bf5468aeb61788b456d.html"
     },
     {
-      "titular": "Jubilación parcial: cómo retirarte hasta 3 años antes cobrando pensión y salario",
+      "titular": "El Ibex se anima con otro freno del petróleo",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-22T00:00:57+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/09/22/6ab17239468aebc80a8b4582.html"
+      "fecha": "2026-09-22T14:02:54+02:00",
+      "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/09/22/6ab216b5e5fdea932b8b4571.html"
     },
     {
-      "titular": "¿Descuenta ya el mercado un Gobierno de Núñez Feijóo en España?",
+      "titular": "Barcelona saca adelante el alza de la tasa a los cruceristas que hacen escala con el aval de Junts, PSC y ERC",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-21T20:27:38+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/09/21/6ab14d49468aebbf358b4579.html"
+      "fecha": "2026-09-22T13:59:19+02:00",
+      "enlace": "https://www.expansion.com/catalunya/2026/09/22/6ab26cd2468aebfa508b45a7.html"
     },
     {
-      "titular": "Be Levels busca comprador por cerca de 350 millones",
+      "titular": "La retirada de los bajistas acelera la subida del bitcoin",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-22T00:00:26+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/09/22/6ab180b2468aeb68278b45a1.html"
+      "fecha": "2026-09-22T13:57:19+02:00",
+      "enlace": "https://www.expansion.com/mercados/criptomonedas/2026/09/22/6ab26a06e5fdea765c8b457d.html"
     }
   ],
   "salud": {
@@ -78,16 +78,16 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 20,
+    "antiguedad_minima_min": 29,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 77,
+        "items": 81,
         "error": null,
-        "antiguedad_min": 20,
-        "descartados_por_gancho": 1
+        "antiguedad_min": 29,
+        "descartados_por_gancho": 0
       },
       {
         "medio": "Cinco Días",
