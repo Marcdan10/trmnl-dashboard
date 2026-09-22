@@ -1,31 +1,7 @@
 {
   "ciudad": "Barcelona",
-  "generado": "2026-09-22T20:45:07",
+  "generado": "2026-09-22T23:25:18",
   "horas": [
-    {
-      "hora": "21",
-      "temp": 24,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "luna"
-    },
-    {
-      "hora": "22",
-      "temp": 24,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "luna"
-    },
-    {
-      "hora": "23",
-      "temp": 23,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "luna"
-    },
     {
       "hora": "00",
       "temp": 22,
@@ -97,11 +73,45 @@
       "mm": 0,
       "mostrar_prob": false,
       "icono": "sol"
+    },
+    {
+      "hora": "09",
+      "temp": 20,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "sol"
+    },
+    {
+      "hora": "10",
+      "temp": 23,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "sol"
+    },
+    {
+      "hora": "11",
+      "temp": 26,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "sol"
     }
   ],
   "dias": [
     {
       "etiqueta": "mié 23",
+      "max": 27,
+      "min": 19,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
+      "destacar": false,
+      "icono": "sol"
+    },
+    {
+      "etiqueta": "jue 24",
       "max": 28,
       "min": 19,
       "prob": 0,
@@ -111,7 +121,7 @@
       "icono": "nube"
     },
     {
-      "etiqueta": "jue 24",
+      "etiqueta": "vie 25",
       "max": 29,
       "min": 20,
       "prob": 0,
@@ -121,18 +131,8 @@
       "icono": "nube"
     },
     {
-      "etiqueta": "vie 25",
-      "max": 27,
-      "min": 20,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "destacar": false,
-      "icono": "nube"
-    },
-    {
       "etiqueta": "sáb 26",
-      "max": 27,
+      "max": 26,
       "min": 20,
       "prob": 0,
       "mm": 0,
@@ -143,7 +143,7 @@
     {
       "etiqueta": "dom 27",
       "max": 27,
-      "min": 20,
+      "min": 19,
       "prob": 0,
       "mm": 0,
       "mostrar_prob": false,

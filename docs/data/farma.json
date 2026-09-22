@@ -1,8 +1,8 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "ultimas",
-  "generado": "2026-09-22T22:45:07+02:00",
+  "modo": "portadas",
+  "generado": "2026-09-23T01:25:17+02:00",
   "titulares": [
     {
       "titular": "Sanidad admite que el modelo de genéricos “no funciona” y el sector clama por ser viable",
@@ -14,6 +14,24 @@
       "enlace": "https://diariofarma.com/2026/09/22/sanidad-admite-que-el-modelo-de-genericos-no-funciona-y-el-sector-clama-por-ser-viable"
     },
     {
+      "titular": "El CGCOF lanza un nuevo canal de videoconsejos para cuidar la salud ocular",
+      "medios": [
+        "El Global"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-22T16:46:38+02:00",
+      "enlace": "https://elglobalfarma.com/farmacia/cgcof-canal-videoconsejos-salud-ocular/"
+    },
+    {
+      "titular": "Pacientes con cáncer advierten del impacto de una huelga médica: \"Una quimioterapia o una cirugía no pueden esperar\"",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-22T18:36:28+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20260922/pacientes-con-cancer-advierten-del-impacto-de-una-huelga-medica-una-quimioterapia-cirugia-no-pueden-esperar/353414_0.html"
+    },
+    {
       "titular": "Cigudosa pide convertir la excelencia científica europea en liderazgo industrial",
       "medios": [
         "Diariofarma"
@@ -23,15 +41,6 @@
       "enlace": "https://diariofarma.com/2026/09/22/cigudosa-pide-convertir-la-excelencia-cientifica-europea-en-liderazgo-industrial"
     },
     {
-      "titular": "El Congreso da luz verde a tramitar la jubilación sanitaria anticipada con 40 años cotizados sin penalizaciones",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-22T21:06:17+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/20260922/el-congreso-da-luz-verde-tramitar-la-jubilacion-sanitaria-anticipada-con-anos-cotizados-sin-penalizaciones/353450_0.html"
-    },
-    {
       "titular": "El Gobierno impone la tramitación de Urgencia a la Ley del Medicamento y recorta a la mitad los plazos para su aprobación",
       "medios": [
         "Redacción Médica"
@@ -39,15 +48,6 @@
       "consenso": 1,
       "fecha": "2026-09-22T20:27:23+02:00",
       "enlace": "https://www.redaccionmedica.com/empresas/industria-farmaceutica/20260922/el-gobierno-impone-la-tramitacion-de-urgencia-ley-del-medicamento/353463_0.html"
-    },
-    {
-      "titular": "El CGCOF lanza un nuevo canal de videoconsejos para cuidar la salud ocular",
-      "medios": [
-        "El Global"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-22T16:46:38+02:00",
-      "enlace": "https://elglobalfarma.com/farmacia/cgcof-canal-videoconsejos-salud-ocular/"
     },
     {
       "titular": "Almirall optimiza de forma autónoma la operación energética de su planta de Sant Andreu de la Barca mediante un gemelo digital desarrollado por Sener",
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 64,
+    "antiguedad_minima_min": 224,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 64,
+        "antiguedad_min": 224,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 358,
+        "antiguedad_min": 518,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 98,
+        "antiguedad_min": 258,
         "descartados_por_gancho": 0
       },
       {

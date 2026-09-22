@@ -1,36 +1,17 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "ultimas",
-  "generado": "2026-09-22T22:45:03+02:00",
+  "modo": "portadas",
+  "generado": "2026-09-23T01:25:11+02:00",
   "titulares": [
     {
-      "titular": "Alcaraz no puede evitar, al reencontrarse con Zverev, preguntarle por su lapsus en el Open USA",
+      "titular": "Rodri escuece en el Real Madrid",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-22T22:17:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/tenis/20260922/1004230256/alcaraz-no-evitar-reencontrarse-zverev-preguntarle-lapsus-open.html"
-    },
-    {
-      "titular": "\"Este mes he pagado 100.000 € de impuestos por la compra de una casa y 60.000 por la venta de otra. No soy insolidario\"",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-22T22:13:24+02:00",
-      "enlace": "https://www.mundodeportivo.com/actualidad/20260922/1004230255/pascual-arino-propietario-16-viviendas-mes-he-pagado-100-000-euros-impuestos-compra-casa-60-000-venta-no-insolidario-dnr-dct.html"
-    },
-    {
-      "titular": "\"Siempre van a venir a criticarnos. 140 millones, eso pidieron\"",
-      "medios": [
-        "Marca",
-        "Mundo Deportivo"
-      ],
-      "consenso": 2,
-      "fecha": "2026-09-22T11:44:07+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260922/1004230052/diomande-reivindica-tik-tok-siempre-venir-criticarnos-140-millones-pidieron.html"
+      "fecha": "2026-09-23T00:30:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260923/1004230278/rodri-escuece-real-madrid.html"
     },
     {
       "titular": "'De repente', Sergio Ramos aparece por la sede de Ferrari",
@@ -42,31 +23,49 @@
       "enlace": "https://www.marca.com/coches-y-motos/coches/2026/09/22/repente-sergio-ramos-aparece-sede-ferrari.html"
     },
     {
-      "titular": "Benjamín Noval: \"Por supuesto que sueño con el doblete tal como hizo Evenepoel\"",
+      "titular": "Dura respuesta del Real Madrid a Tebas",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-22T21:50:08+02:00",
-      "enlace": "https://www.mundodeportivo.com/ciclismo/20260922/1004230249/benjamin-noval-supuesto-sueno-doblete-hizo-evenepoel-primero-asimilar-oro-crono.html"
+      "fecha": "2026-09-22T16:59:53+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260922/1004230158/real-madrid-responde-tebas.html"
     },
     {
-      "titular": "Desestimada la demanda millonaria de Tara Moore contra la WTA a raíz de su sanción por dopaje",
+      "titular": "Recuperar al soldado Thiago Pitarch",
       "medios": [
-        "Mundo Deportivo"
+        "Marca"
       ],
       "consenso": 1,
-      "fecha": "2026-09-22T21:46:26+02:00",
-      "enlace": "https://www.mundodeportivo.com/tenis/20260922/1004230245/desestimada-demanda-millonaria-tara-moore-wta-raiz-sancion-dopaje.html"
+      "fecha": "2026-09-22T11:09:51+02:00",
+      "enlace": "https://www.marca.com/futbol/real-madrid/2026/09/22/recuperar-soldado-thiago-pitarch.html"
     },
     {
-      "titular": "Recado de un peso pesado del Fulham a Arbeloa: \"Me sorprende\"",
+      "titular": "Juanma Castaño pide perdón por comparar a Real Madrid TV con el diario Gara",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-22T21:44:02+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/premier-league/20260922/1004230247/recado-peso-pesado-fulham-arbeloa-me-sorprende.html"
+      "fecha": "2026-09-22T23:53:05+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260922/1004230281/juanma-castana-pide-perdon-comparar-real-madrid-tv-diario-gara.html"
+    },
+    {
+      "titular": "FIFA abre dos escuelas de fútbol en Cisjordania",
+      "medios": [
+        "Marca"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-22T11:07:58+02:00",
+      "enlace": "https://www.marca.com/futbol/2026/09/22/fifa-abre-dos-escuelas-futbol-cisjordania.html"
+    },
+    {
+      "titular": "Éxodo masivo en el Barça: 17 internacionales repartidos por el mundo",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-21T16:47:28+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260921/1004229817/exodo-masivo-barca-17-internacionales-repartidos-mundo.html"
     }
   ],
   "salud": {
@@ -76,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 28,
+    "antiguedad_minima_min": 55,
     "detalle": [
       {
         "medio": "Marca",
@@ -84,7 +83,7 @@
         "ok": true,
         "items": 61,
         "error": null,
-        "antiguedad_min": 692,
+        "antiguedad_min": 852,
         "descartados_por_gancho": 7
       },
       {
@@ -100,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 140,
+        "items": 141,
         "error": null,
-        "antiguedad_min": 28,
-        "descartados_por_gancho": 4
+        "antiguedad_min": 55,
+        "descartados_por_gancho": 3
       },
       {
         "medio": "Sport",
