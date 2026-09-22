@@ -2,7 +2,7 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "portadas",
-  "generado": "2026-09-22T04:50:23+02:00",
+  "generado": "2026-09-22T10:09:16+02:00",
   "titulares": [
     {
       "titular": "La inversión extranjera bruta repunta un 31% hasta junio pero las desinversiones se disparan",
@@ -14,13 +14,13 @@
       "enlace": "https://www.expansion.com/economia/2026/09/22/6ab1818ce5fdea6d568b45a5.html"
     },
     {
-      "titular": "Muface, condenada a pagar a DKV por su seguro de salud",
+      "titular": "Urbaser: Carlos Albi sustituirá a Fernando Abril-Martorell como CEO",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-22T00:01:03+02:00",
-      "enlace": "https://www.expansion.com/empresas/seguros/2026/09/22/6ab1868ae5fdea5a238b45a9.html"
+      "fecha": "2026-09-22T00:00:53+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/09/22/6ab17f73e5fdea6d568b459e.html"
     },
     {
       "titular": "Acciona, Ferrovial y ACS se lanzan a por 120.000 millones del agua británica",
@@ -32,6 +32,15 @@
       "enlace": "https://www.expansion.com/empresas/construccion-servicios/2026/09/22/6ab1772be5fdeaf4098b4594.html"
     },
     {
+      "titular": "La Primera de Expansión sobre Acciona, Ferrovial, ACS, Goldman Sachs, Santander, Alibaba y Rusia",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-22T07:28:16+02:00",
+      "enlace": "https://www.expansion.com/podcasts/la-primera-de-expansion/2026/09/22/6ab20ae7468aebfa508b4587.html"
+    },
+    {
       "titular": "Jubilación parcial: cómo retirarte hasta 3 años antes cobrando pensión y salario",
       "medios": [
         "Expansión"
@@ -39,15 +48,6 @@
       "consenso": 1,
       "fecha": "2026-09-22T00:00:57+02:00",
       "enlace": "https://www.expansion.com/economia/2026/09/22/6ab17239468aebc80a8b4582.html"
-    },
-    {
-      "titular": "Urbaser: Carlos Albi sustituirá a Fernando Abril-Martorell como CEO",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-22T00:00:53+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/09/22/6ab17f73e5fdea6d568b459e.html"
     },
     {
       "titular": "¿Descuenta ya el mercado un Gobierno de Núñez Feijóo en España?",
@@ -59,13 +59,13 @@
       "enlace": "https://www.expansion.com/mercados/2026/09/21/6ab14d49468aebbf358b4579.html"
     },
     {
-      "titular": "Los consejeros ejecutivos del Ibex aumentan su retribución un 29%",
+      "titular": "Be Levels busca comprador por cerca de 350 millones",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-22T00:00:50+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/09/22/6ab17666468aeb96368b45a4.html"
+      "fecha": "2026-09-22T00:00:26+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/09/22/6ab180b2468aeb68278b45a1.html"
     }
   ],
   "salud": {
@@ -78,7 +78,7 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 289,
+    "antiguedad_minima_min": 20,
     "detalle": [
       {
         "medio": "Expansión",
@@ -86,8 +86,8 @@
         "ok": true,
         "items": 77,
         "error": null,
-        "antiguedad_min": 289,
-        "descartados_por_gancho": 0
+        "antiguedad_min": 20,
+        "descartados_por_gancho": 1
       },
       {
         "medio": "Cinco Días",

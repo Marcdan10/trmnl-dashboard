@@ -2,17 +2,8 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-09-22T04:50:25+02:00",
+  "generado": "2026-09-22T10:09:18+02:00",
   "titulares": [
-    {
-      "titular": "Ferran Torres: \"El único al que no me puedo traer es a Pedri\"",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-21T23:09:53+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260921/1004229943/ferran-torres-unico-no-me-traer-pedri.html"
-    },
     {
       "titular": "La joya de 15 años que quiere escapar del United asombra a la prensa inglesa",
       "medios": [
@@ -21,6 +12,15 @@
       "consenso": 1,
       "fecha": "2026-09-16T01:55:17+02:00",
       "enlace": "https://www.marca.com/futbol/album/2026/09/16/portadas-dia.html"
+    },
+    {
+      "titular": "Ferran Torres: \"El único al que no me puedo traer es a Pedri\"",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-21T23:09:53+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260921/1004229943/ferran-torres-unico-no-me-traer-pedri.html"
     },
     {
       "titular": "Raphinha: \"Lamine tiene que ganar el Balón de Oro sí o sí\"",
@@ -41,22 +41,13 @@
       "enlace": "https://www.marca.com/futbol/real-madrid/opinion/2026/09/16/espi-evita-ridiculo-mourinho.html"
     },
     {
-      "titular": "Raphinha ya está a cinco goles de Ronaldinho",
+      "titular": "Ferran Torres alaba a Luis Enrique: \"Va a saber sacar mi máximo potencial\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-22T00:37:10+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260922/1004229963/raphinha-cinco-goles-ronaldinho.html"
-    },
-    {
-      "titular": "El Barça, un líder imparable sin igual en Europa",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-22T00:30:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260922/1004229854/barca-lider-imparable-igual-europa.html"
+      "fecha": "2026-09-21T23:01:14+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/ligue-1/20260921/1004229932/ferran-torres.html"
     },
     {
       "titular": "\"El problema me parece obvio...\"",
@@ -66,6 +57,15 @@
       "consenso": 1,
       "fecha": "2026-09-15T23:56:38+02:00",
       "enlace": "https://www.marca.com/futbol/real-madrid/2026/09/15/mourinho-mi-unica-critica-matar-partidos.html"
+    },
+    {
+      "titular": "Raphinha ya está a cinco goles de Ronaldinho",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-22T00:37:10+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260922/1004229963/raphinha-cinco-goles-ronaldinho.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 253,
+    "antiguedad_minima_min": 17,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 57,
         "error": null,
-        "antiguedad_min": 8815,
+        "antiguedad_min": 9133,
         "descartados_por_gancho": 8
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 142,
+        "items": 136,
         "error": null,
-        "antiguedad_min": 253,
-        "descartados_por_gancho": 9
+        "antiguedad_min": 17,
+        "descartados_por_gancho": 6
       },
       {
         "medio": "Sport",

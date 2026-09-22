@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-09-22T04:50:19+02:00",
+  "generado": "2026-09-22T10:09:14+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -23,13 +23,22 @@
       "enlace": "https://elpais.com/us/2026-09-21/trump-a-mamdani-espero-que-sea-un-gran-alcalde-de-nueva-york-tiene-potencia-para-ello.html"
     },
     {
-      "titular": "Sondra Radvanovsky: «Vivo para ese segundo de silencio que se produce al terminar de cantar antes del aplauso»",
+      "titular": "Sánchez no asistirá a la recepción que ofrece Trump por la Asamblea General de la ONU",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-22T06:13:50+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20260922/11640955/sanchez-asistira-recepcion-ofrece-trump-asamblea-general-onu.html"
+    },
+    {
+      "titular": "La Abogacía del Estado ve imposible revisar 170.000 expedientes de la ley de nietos antes del 1 de enero",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-22T03:06:40+02:00",
-      "enlace": "https://www.abc.es/cultura/musica/sondra-radvanovsky-vivo-segundo-silencio-produce-terminar-20260919011951-nt.html"
+      "fecha": "2026-09-22T09:54:27+02:00",
+      "enlace": "https://www.abc.es/espana/abogacia-estado-imposible-revisar-170000-expedientes-ley-20260922085010-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -41,32 +50,22 @@
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
     },
     {
-      "titular": "El juez Peinado abre juicio con jurado a Begoña Gómez por delitos de tráfico de influencias y malversación",
+      "titular": "Trump lleva sus batallas a la Asamblea General de Naciones Unidas",
       "medios": [
-        "El País",
-        "La Vanguardia"
+        "El País"
       ],
-      "consenso": 2,
-      "fecha": "2026-09-21T16:44:05+02:00",
-      "enlace": "https://elpais.com/espana/2026-09-21/el-juez-peinado-abre-juicio-oral-a-begona-gomez-por-delitos-de-trafico-de-influencias-y-malversacion.html"
+      "consenso": 1,
+      "fecha": "2026-09-22T05:30:01+02:00",
+      "enlace": "https://elpais.com/internacional/2026-09-22/trump-lleva-sus-batallas-a-la-asamblea-general-de-naciones-unidas.html"
     },
     {
-      "titular": "El Gobierno denuncia la “intención política” del juez Peinado en la causa contra Begoña Gómez",
+      "titular": "Guterres afronta su última Asamblea General de la ONU en una situación mucho peor de la que heredó",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-21T13:36:26+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20260921/11640318/gobierno-denuncia-intencion-politica-juez-peinado-causa-begona-gomez.html"
-    },
-    {
-      "titular": "«España está abocada al fracaso si no hay vocación empresarial»",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-22T03:05:40+02:00",
-      "enlace": "https://www.abc.es/economia/cuentas-corrientes/espana-abocada-fracaso-absoluto-vocaciones-empresariales-20260922202047-nt.html"
+      "fecha": "2026-09-21T19:30:51+02:00",
+      "enlace": "https://www.lavanguardia.com/internacional/20260921/11640681/guterres-afronta-ultima-asamblea-general-onu-situacion-peor-heredo.html"
     }
   ],
   "salud": {
@@ -75,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 90,
+    "antiguedad_minima_min": 14,
     "detalle": [
       {
         "medio": "RTVE",
@@ -83,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2253825,
+        "antiguedad_min": 2254144,
         "descartados_por_gancho": 0
       },
       {
@@ -91,35 +90,35 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 500",
+        "error": "HTTP 403",
         "antiguedad_min": null
       },
       {
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 140,
+        "items": 136,
         "error": null,
-        "antiguedad_min": 90,
-        "descartados_por_gancho": 6
+        "antiguedad_min": 25,
+        "descartados_por_gancho": 10
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 126,
+        "items": 118,
         "error": null,
-        "antiguedad_min": 225,
+        "antiguedad_min": 114,
         "descartados_por_gancho": 15
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 24,
+        "items": 25,
         "error": null,
-        "antiguedad_min": 103,
-        "descartados_por_gancho": 1
+        "antiguedad_min": 14,
+        "descartados_por_gancho": 0
       }
     ]
   }
