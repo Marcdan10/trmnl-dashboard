@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-09-22T19:52:23+02:00",
+  "generado": "2026-09-22T22:45:03+02:00",
   "titulares": [
     {
-      "titular": "Nuevo comunicado: carga contra Juanma Castaño por la comparación que hace de RMTV",
+      "titular": "Alcaraz no puede evitar, al reencontrarse con Zverev, preguntarle por su lapsus en el Open USA",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-22T19:14:31+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260922/1004230202/nuevo-comunicado-real-madrid-carga-juanma-castano-comparacion-rmtv.html"
+      "fecha": "2026-09-22T22:17:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/tenis/20260922/1004230256/alcaraz-no-evitar-reencontrarse-zverev-preguntarle-lapsus-open.html"
     },
     {
-      "titular": "El próximo partido de Champions del Atlético, declarado de alto riesgo",
+      "titular": "\"Este mes he pagado 100.000 € de impuestos por la compra de una casa y 60.000 por la venta de otra. No soy insolidario\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-22T19:09:37+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20260922/1004230203/proximo-partido-champions-atletico-declarado-alto-riesgo.html"
+      "fecha": "2026-09-22T22:13:24+02:00",
+      "enlace": "https://www.mundodeportivo.com/actualidad/20260922/1004230255/pascual-arino-propietario-16-viviendas-mes-he-pagado-100-000-euros-impuestos-compra-casa-60-000-venta-no-insolidario-dnr-dct.html"
     },
     {
       "titular": "\"Siempre van a venir a criticarnos. 140 millones, eso pidieron\"",
@@ -42,31 +42,31 @@
       "enlace": "https://www.marca.com/coches-y-motos/coches/2026/09/22/repente-sergio-ramos-aparece-sede-ferrari.html"
     },
     {
-      "titular": "Movistar Plus anuncia su nueva miniserie: ambientada en la Barcelona del 91 y la preparación de los JJOO",
+      "titular": "Benjamín Noval: \"Por supuesto que sueño con el doblete tal como hizo Evenepoel\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-22T19:04:37+02:00",
-      "enlace": "https://www.mundodeportivo.com/elotromundo/television/20260922/1004230198/movistar-plus-anuncia-nueva-miniserie-espanola-ambientada-barcelona-1991-preparacion-juegos-olimpicos-tvp-dct.html"
+      "fecha": "2026-09-22T21:50:08+02:00",
+      "enlace": "https://www.mundodeportivo.com/ciclismo/20260922/1004230249/benjamin-noval-supuesto-sueno-doblete-hizo-evenepoel-primero-asimilar-oro-crono.html"
     },
     {
-      "titular": "Lamine: \"Mi forma de jugar es mi mejor argumento para ganar el Balón de Oro\"",
+      "titular": "Desestimada la demanda millonaria de Tara Moore contra la WTA a raíz de su sanción por dopaje",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-22T18:58:17+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260922/1004230195/lamine-yamal.html"
+      "fecha": "2026-09-22T21:46:26+02:00",
+      "enlace": "https://www.mundodeportivo.com/tenis/20260922/1004230245/desestimada-demanda-millonaria-tara-moore-wta-raiz-sancion-dopaje.html"
     },
     {
-      "titular": "La ACB repasa la trayectoria de un histórico Sergio Llull en el documental 'Mandarinas'",
+      "titular": "Recado de un peso pesado del Fulham a Arbeloa: \"Me sorprende\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-22T18:58:07+02:00",
-      "enlace": "https://www.mundodeportivo.com/baloncesto/acb/20260922/1004230197/acb-repasa-trayectoria-historico-sergio-llull-documental-mandarinas.html"
+      "fecha": "2026-09-22T21:44:02+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/premier-league/20260922/1004230247/recado-peso-pesado-fulham-arbeloa-me-sorprende.html"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 37,
+    "antiguedad_minima_min": 28,
     "detalle": [
       {
         "medio": "Marca",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 61,
         "error": null,
-        "antiguedad_min": 520,
+        "antiguedad_min": 692,
         "descartados_por_gancho": 7
       },
       {
@@ -102,8 +102,8 @@
         "ok": true,
         "items": 140,
         "error": null,
-        "antiguedad_min": 37,
-        "descartados_por_gancho": 3
+        "antiguedad_min": 28,
+        "descartados_por_gancho": 4
       },
       {
         "medio": "Sport",

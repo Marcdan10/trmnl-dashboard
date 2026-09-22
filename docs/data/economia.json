@@ -2,8 +2,62 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-09-22T19:52:22+02:00",
+  "generado": "2026-09-22T22:45:00+02:00",
   "titulares": [
+    {
+      "titular": "El jefe de Glovo, a un paso de juicio por emplear a repartidores como falsos autónomos",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-22T21:58:01+02:00",
+      "enlace": "https://www.expansion.com/empresas/distribucion/2026/09/22/6ab2ddc4468aebab4b8b458f.html"
+    },
+    {
+      "titular": "Rosa Clará crece en Estados Unidos con tres nuevas tiendas",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-22T21:14:28+02:00",
+      "enlace": "https://www.expansion.com/catalunya/2026/09/22/6ab2d323468aeb46758b45a4.html"
+    },
+    {
+      "titular": "Talgo peleará con Alstom para fabricar los primeros trenes de alta velocidad de Portugal",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-22T20:16:55+02:00",
+      "enlace": "https://www.expansion.com/pais-vasco/2026/09/22/6ab2aba8e5fdea1a078b4585.html"
+    },
+    {
+      "titular": "GWM lanzará siete modelos en España: \"Hemos llegado para quedarnos\"",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-22T19:57:54+02:00",
+      "enlace": "https://www.expansion.com/empresas/motor/2026/09/22/6ab2aa44e5fdeaea038b4579.html"
+    },
+    {
+      "titular": "Las perspectivas de Novo más allá de los medicamentos para adelgazar parecen sorprendentemente limitadas",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-22T19:42:02+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/09/22/6ab2bbbf468aeb61788b4593.html"
+    },
+    {
+      "titular": "Mapfre se convierte en la mayor aseguradora de Latinoamérica",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-22T19:23:57+02:00",
+      "enlace": "https://www.expansion.com/empresas/seguros/2026/09/22/6ab25b60468aebe8428b4589.html"
+    },
     {
       "titular": "Anthropic lanza Claude Opus 5.5, su primer modelo desde que pidió frenar el desarrollo de la IA",
       "medios": [
@@ -12,60 +66,6 @@
       "consenso": 1,
       "fecha": "2026-09-22T18:33:27+02:00",
       "enlace": "https://www.expansion.com/tecnologia/companias/2026/09/22/6ab29bdc468aebfa508b45b9.html"
-    },
-    {
-      "titular": "Sánchez garantiza a Delcy Rodríguez el compromiso de España con Venezuela",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-22T18:01:32+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/09/22/6ab2a2d8e5fdea066d8b4592.html"
-    },
-    {
-      "titular": "Los problemas de Merz arrojan dudas sobre el presupuesto de 2 billones de euros de la UE",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-22T17:48:57+02:00",
-      "enlace": "https://www.expansion.com/economia/financial-times/2026/09/22/6ab2a364468aeb61788b4587.html"
-    },
-    {
-      "titular": "El Ibex se desinfla al cierre y sube un tímido 0,15% en una jornada muy volátil",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-22T17:43:07+02:00",
-      "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/09/22/6ab216b5e5fdea932b8b4571.html"
-    },
-    {
-      "titular": "Trump reivindica su guerra contra Irán y asegura que \"el precio del petróleo caerá en picado\"",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-22T17:27:12+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/09/22/6ab28ce4468aebe01c8b456d.html"
-    },
-    {
-      "titular": "Las escuelas de Londres se quedan sin alumnos",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-22T15:29:31+02:00",
-      "enlace": "https://www.expansion.com/economia/financial-times/2026/09/22/6ab2795b468aeb0e578b4596.html"
-    },
-    {
-      "titular": "Sánchez planta a Trump en la recepción de la ONU",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-22T15:02:52+02:00",
-      "enlace": "https://www.expansion.com/economia/politica/2026/09/22/6ab27c7ae5fdea932b8b4589.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 78,
+    "antiguedad_minima_min": 46,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 80,
+        "items": 81,
         "error": null,
-        "antiguedad_min": 78,
+        "antiguedad_min": 46,
         "descartados_por_gancho": 0
       },
       {
