@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-09-23T19:38:34+02:00",
+  "generado": "2026-09-23T22:56:56+02:00",
   "titulares": [
     {
-      "titular": "Ferran Torres confunde a todo el mundo: así dice que se pronuncia su nombre ahora",
+      "titular": "Así cambiará la selección francesa con Zidane",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-23T19:28:06+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/internacional/20260923/1004230581/ferran-torres-confunde-mundo-asi-dice-pronuncia-nombre.html"
+      "fecha": "2026-09-23T22:15:38+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/uefa-nations-league/20260923/1004230620/asi-cambiara-seleccion-francesa-zidane.html"
     },
     {
-      "titular": "Gravísima lesión de un fijo de Jordi Ribera: adiós al Mundial 2027 y toda la temporada",
+      "titular": "Va a registrar a su hijo y descubre que hay personas empadronadas en casa: \"Han falsificado un contrato de alquiler\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-23T19:19:16+02:00",
-      "enlace": "https://www.mundodeportivo.com/balonmano/20260923/1004230571/gravisima-lesion-fijo-jordi-ribera-adios-mundial-2027-temporada.html"
+      "fecha": "2026-09-23T22:09:55+02:00",
+      "enlace": "https://www.mundodeportivo.com/actualidad/20260923/1004230627/registrar-hijo-descubre-hay-cuatro-desconocidos-empadronados-casa-han-falsificado-contrato-alquiler-preocupa-hacienda-reclame-dinero-no-percibiendo-dct.html"
     },
     {
       "titular": "'De repente', Sergio Ramos aparece por la sede de Ferrari",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/real-madrid/2026/09/22/recuperar-soldado-thiago-pitarch.html"
     },
     {
-      "titular": "\"El 90% de las personas confunde airear con ventilar y eso destroza su garganta\"",
+      "titular": "Harry Kane, cerca de renovar con el Bayern",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-23T19:18:29+02:00",
-      "enlace": "https://www.mundodeportivo.com/economia-hogar/20260923/1004230576/valentin-naranjo-experto-calidad-aire-90-personas-confunde-airear-ventilar-destroza-garganta-invierno-smd.html"
+      "fecha": "2026-09-23T21:56:11+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/internacional/20260923/1004230623/harry-kane-cerca-renovar-bayern.html"
     },
     {
-      "titular": "Ferran Adri: \"Hago las mejores patatas bravas que puedas imaginar con el método de Blumenthal: antes de freír, las hierve y las congela\"",
+      "titular": "Los conductores de Barcelona están obligados a girar a la derecha desde el segundo carril en algunos cruces",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-23T19:14:45+02:00",
-      "enlace": "https://www.mundodeportivo.com/foodie/20260923/1004230578/ferran-adria-cocinero-catalan-mejores-patatas-bravas-puedas-imaginar-metodo-blumenthal-freir-hierve-congela-nadie-le-habia-ocurrido-convertirlas-bravas-xef-dct.html"
+      "fecha": "2026-09-23T21:43:56+02:00",
+      "enlace": "https://www.mundodeportivo.com/actualidad/20260923/1004230614/entrado-vigor-barcelona-conductores-obligados-girar-derecha-segundo-carril-determinados-cruces-lcl-dct.html"
     },
     {
-      "titular": "Xavi, antes de su debut: \"Ojalá podamos enfrentarnos a España\"",
+      "titular": "Carlos Boyero sentencia 'La bola negra': \"Se merece el Oscar. Tiene factura, emoción y me parece que hay buen cine\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-23T19:06:24+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/uefa-nations-league/20260923/1004230556/xavi-debut-ojala-podamos-enfrentarnos-espana.html"
+      "fecha": "2026-09-23T21:34:13+02:00",
+      "enlace": "https://www.mundodeportivo.com/elotromundo/television/20260923/1004230618/critico-cine-carlos-boyero-sentencia-bola-negra-merece-le-den-oscar-factura-emocion-me-parece-hay-buen-cine-dct.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 10,
+    "antiguedad_minima_min": 41,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 61,
         "error": null,
-        "antiguedad_min": 1946,
+        "antiguedad_min": 2144,
         "descartados_por_gancho": 7
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 143,
+        "items": 142,
         "error": null,
-        "antiguedad_min": 10,
-        "descartados_por_gancho": 3
+        "antiguedad_min": 41,
+        "descartados_por_gancho": 5
       },
       {
         "medio": "Sport",

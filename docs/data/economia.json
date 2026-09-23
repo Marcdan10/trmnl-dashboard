@@ -2,8 +2,62 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-09-23T19:38:32+02:00",
+  "generado": "2026-09-23T22:56:55+02:00",
   "titulares": [
+    {
+      "titular": "Sánchez oficializa su apoyo a De Cos en la carrera por presidir el BCE",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-23T22:46:27+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/09/23/6ab43a91e5fdea7b538b4594.html"
+    },
+    {
+      "titular": "El Banco de España alerta: en 2028 harán falta un millón de viviendas",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-23T21:56:41+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/09/23/6ab42eaae5fdea8d4b8b4578.html"
+    },
+    {
+      "titular": "La cadena de supermercados Sorli sube ventas y recorta el beneficio",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-23T21:16:51+02:00",
+      "enlace": "https://www.expansion.com/catalunya/2026/09/23/6ab4258be5fdea57048b4591.html"
+    },
+    {
+      "titular": "Codorníu vende su bodega de California al dueño del grupo Boisset",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-23T20:37:38+02:00",
+      "enlace": "https://www.expansion.com/catalunya/2026/09/23/6ab41c4ae5fdea71208b458e.html"
+    },
+    {
+      "titular": "Moeve reordena su cúpula antes de la fusión con Galp",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-23T20:07:27+02:00",
+      "enlace": "https://www.expansion.com/empresas/energia/2026/09/23/6ab3abff468aeb53468b458e.html"
+    },
+    {
+      "titular": "El presidente de Irán dice que está listo para el \"diálogo\" pero que no cederá al \"acoso\" de Trump",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-23T19:57:38+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/09/23/6ab412bde5fdeaed588b4587.html"
+    },
     {
       "titular": "Sánchez: \"La economía española no se entiende sin EEUU, el vínculo es más sólido que el acero que sostiene el puente de Brooklyn\"",
       "medios": [
@@ -12,60 +66,6 @@
       "consenso": 1,
       "fecha": "2026-09-23T19:07:12+02:00",
       "enlace": "https://www.expansion.com/economia/2026/09/23/6ab3fa60468aeb39058b457d.html"
-    },
-    {
-      "titular": "McDonald's invertirá 7.420 millones en modernizar los locales y mejorar su oferta",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-23T19:02:02+02:00",
-      "enlace": "https://www.expansion.com/empresas/distribucion/2026/09/23/6ab40608e5fdead15f8b4588.html"
-    },
-    {
-      "titular": "Marca presenta en Madrid 'La Noche del Deporte'",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-23T18:51:53+02:00",
-      "enlace": "https://www.expansion.com/deporte-negocio/2026/09/23/6ab403a5e5fdeaed588b457f.html"
-    },
-    {
-      "titular": "Atresmedia repartirá un dividendo de 187 millones tras la desinversión en Fever",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-23T18:06:06+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/09/23/6ab3f888e5fdead71a8b4578.html"
-    },
-    {
-      "titular": "Grenergy se desploma un 13,5% y Solaria un 5,9% por el plan del Gobierno para contener los precios de la energía",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-23T17:58:27+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/09/23/6ab3e82ee5fdea57048b4579.html"
-    },
-    {
-      "titular": "Volotea ultima una reestructuración completa tras sufrir un impacto de 150 millones por Irán",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-23T17:38:15+02:00",
-      "enlace": "https://www.expansion.com/empresas/transporte/2026/09/23/6ab3f074e5fdeaed588b4575.html"
-    },
-    {
-      "titular": "El petróleo y la deuda vuelven a llevarse los 19.700 puntos del Ibex",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-23T17:37:29+02:00",
-      "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/09/23/6ab36749e5fdeab3108b4583.html"
     }
   ],
   "salud": {
@@ -78,7 +78,7 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 31,
+    "antiguedad_minima_min": 10,
     "detalle": [
       {
         "medio": "Expansión",
@@ -86,7 +86,7 @@
         "ok": true,
         "items": 77,
         "error": null,
-        "antiguedad_min": 31,
+        "antiguedad_min": 10,
         "descartados_por_gancho": 0
       },
       {
