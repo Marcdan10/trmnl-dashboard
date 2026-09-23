@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-09-23T03:36:49+02:00",
+  "generado": "2026-09-23T09:09:08+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -23,22 +23,22 @@
       "enlace": "https://elpais.com/espana/2026-09-22/movimientos-de-subsaharianos-hacia-marruecos-alimentan-la-alerta-por-un-nuevo-salto-masivo-en-ceuta.html"
     },
     {
-      "titular": "Sánchez reconoce por primera vez que falló el “control fronterizo” de Marruecos en el asalto a Ceuta",
+      "titular": "El Gobierno refuerza la frontera en Ceuta ante la alerta hoy de un salto masivo",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-22T20:31:55+02:00",
-      "enlace": "https://www.lavanguardia.com/internacional/20260922/11641642/sanchez-pide-respuestas-acciones-marruecos-fallo-mecanismo-control-fronterizo.html"
+      "fecha": "2026-09-23T07:51:43+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20260923/11641886/gobierno-refuerza-frontera-ceuta-alerta-nueva-entrada-masiva.html"
     },
     {
-      "titular": "Gregorio Prieto, el pintor de Lorca que soñó con 'La bola negra'",
+      "titular": "El juez que investiga a Zapatero interrogará este viernes al epicentro del caso Plus Ultra",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-23T02:33:27+02:00",
-      "enlace": "https://www.abc.es/xlsemanal/gregorio-prieto-pintor-lorca-la-bola-negra-pelicula-los-javis-20260921174640-ntrc.html"
+      "fecha": "2026-09-23T08:57:59+02:00",
+      "enlace": "https://www.abc.es/espana/juez-investiga-zapatero-interrogara-viernes-epicentro-plus-20260922205015-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -50,22 +50,22 @@
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
     },
     {
-      "titular": "Sánchez asegura que ha pedido “acciones” a Marruecos “porque su control de fronteras falló” en Ceuta",
+      "titular": "Marruecos acude a las urnas en plena crisis de Ceuta bajo la amenaza de una abstención récord",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-22T20:19:54+02:00",
-      "enlace": "https://elpais.com/espana/2026-09-22/sanchez-pide-explicaciones-a-marruecos-porque-su-control-de-fronteras-fallo.html"
+      "fecha": "2026-09-23T05:30:01+02:00",
+      "enlace": "https://elpais.com/internacional/2026-09-23/marruecos-acude-a-las-urnas-en-plena-crisis-de-ceuta-bajo-la-amenaza-de-una-abstencion-record.html"
     },
     {
-      "titular": "El Gobierno prolongará el espigón del Tarajal con un muro de 100 metros de peines invertidos",
+      "titular": "Sánchez reconoce por primera vez que falló el “control fronterizo” de Marruecos en Ceuta",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-22T16:30:36+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20260922/11641468/interior-inicia-tramites-acometer-prolongacion-espigon-tarajal.html"
+      "fecha": "2026-09-22T20:31:55+02:00",
+      "enlace": "https://www.lavanguardia.com/internacional/20260922/11641642/sanchez-pide-respuestas-acciones-marruecos-fallo-mecanismo-control-fronterizo.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 8,
+    "antiguedad_minima_min": 5,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2255191,
+        "antiguedad_min": 2255524,
         "descartados_por_gancho": 0
       },
       {
@@ -90,26 +90,26 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 429",
+        "error": "HTTP 500",
         "antiguedad_min": null
       },
       {
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 141,
+        "items": 140,
         "error": null,
-        "antiguedad_min": 8,
-        "descartados_por_gancho": 9
+        "antiguedad_min": 5,
+        "descartados_por_gancho": 7
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 131,
+        "items": 123,
         "error": null,
-        "antiguedad_min": 184,
-        "descartados_por_gancho": 9
+        "antiguedad_min": 64,
+        "descartados_por_gancho": 10
       },
       {
         "medio": "ABC",
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 24,
         "error": null,
-        "antiguedad_min": 63,
+        "antiguedad_min": 11,
         "descartados_por_gancho": 1
       }
     ]

@@ -2,7 +2,7 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-09-23T03:36:52+02:00",
+  "generado": "2026-09-23T09:09:13+02:00",
   "titulares": [
     {
       "titular": "Rodri escuece en el Real Madrid",
@@ -41,13 +41,13 @@
       "enlace": "https://www.marca.com/futbol/real-madrid/2026/09/22/recuperar-soldado-thiago-pitarch.html"
     },
     {
-      "titular": "Juanma Castaño pide perdón por comparar a Real Madrid TV con el diario Gara",
+      "titular": "Rodri, rendimiento inmediato que irá a más: Flick le dosifica",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-22T23:53:05+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260922/1004230281/juanma-castana-pide-perdon-comparar-real-madrid-tv-diario-gara.html"
+      "fecha": "2026-09-23T06:30:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260923/1004230279/rodri-rendimiento-inmediato-ira-flick-le-dosifica.html"
     },
     {
       "titular": "FIFA abre dos escuelas de fútbol en Cisjordania",
@@ -59,13 +59,13 @@
       "enlace": "https://www.marca.com/futbol/2026/09/22/fifa-abre-dos-escuelas-futbol-cisjordania.html"
     },
     {
-      "titular": "Éxodo masivo en el Barça: 17 internacionales repartidos por el mundo",
+      "titular": "El cambio de 'look' de Inés García, novia de Lamine Yamal: \"Cuando a una chica le pasa algo, se cambia el pelo\"",
       "medios": [
-        "Mundo Deportivo"
+        "Marca"
       ],
       "consenso": 1,
-      "fecha": "2026-09-21T16:47:28+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260921/1004229817/exodo-masivo-barca-17-internacionales-repartidos-mundo.html"
+      "fecha": "2026-09-22T11:00:33+02:00",
+      "enlace": "https://www.marca.com/tiramillas/sociedad/2026/09/22/cambio-look-ines-garcia-novia-lamine-yamal-chica-le-pasa-cambia-pelo.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 186,
+    "antiguedad_minima_min": 32,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 61,
         "error": null,
-        "antiguedad_min": 984,
+        "antiguedad_min": 1316,
         "descartados_por_gancho": 7
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 141,
+        "items": 134,
         "error": null,
-        "antiguedad_min": 186,
-        "descartados_por_gancho": 3
+        "antiguedad_min": 32,
+        "descartados_por_gancho": 4
       },
       {
         "medio": "Sport",
