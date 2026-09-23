@@ -1,17 +1,18 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "ultimas",
-  "generado": "2026-09-23T22:57:03+02:00",
+  "modo": "portadas",
+  "generado": "2026-09-24T01:25:58+02:00",
   "titulares": [
     {
-      "titular": "La reconstrucción sanitaria, un consenso que no se puede abandonar en un cajón",
+      "titular": "Los Puntos SIGRE de la Comunidad de Madrid recogen más de 800 toneladas de residuos de medicamentos",
       "medios": [
-        "Redacción Médica"
+        "Diariofarma",
+        "El Global"
       ],
-      "consenso": 1,
-      "fecha": "2026-09-23T20:48:43+02:00",
-      "enlace": "https://www.redaccionmedica.com/opinion/20260923/la-reconstruccion-sanitaria-un-consenso-que-no-se-puede-abandonar-en-cajon/353591_14.html"
+      "consenso": 2,
+      "fecha": "2026-09-23T18:17:21+02:00",
+      "enlace": "https://elglobalfarma.com/farmacia/puntos-sigre-comunidad-madrid-recogen-toneladas-residuos-medicamentos/"
     },
     {
       "titular": "Paquete Farmacéutico: el Consejo publica el texto final antes de su adopción formal",
@@ -23,22 +24,13 @@
       "enlace": "https://diariofarma.com/2026/09/23/paquete-farmaceutico-el-consejo-publica-el-texto-final-antes-de-su-adopcion-formal"
     },
     {
-      "titular": "\"La sanidad privada española es un referente para Europa\"",
+      "titular": "Europa activa salvaguardas a medicamentos ante la Directiva de Aguas y estudia excepciones de coste",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-09-23T20:31:39+02:00",
-      "enlace": "https://www.redaccionmedica.com/empresas/sanidad-privada/20260923/la-sanidad-privada-espanola-es-un-referente-para-europa/315124_0.html"
-    },
-    {
-      "titular": "Una HTA moderna necesita algo más que buenos métodos",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-23T20:28:15+02:00",
-      "enlace": "https://diariofarma.com/2026/09/23/una-hta-moderna-necesita-algo-mas-que-buenos-metodos"
+      "fecha": "2026-09-23T19:00:07+02:00",
+      "enlace": "https://www.redaccionmedica.com/empresas/industria-farmaceutica/20260923/europa-activa-salvaguardas-medicamentos-ante-la-directiva-de-aguas-estudia-excepciones-coste/353570_0.html"
     },
     {
       "titular": "La aprobación de la Comisión Europea a Icotyde (icotrokinra) abre una nueva etapa en el tratamiento sistémico de la psoriasis",
@@ -50,6 +42,15 @@
       "enlace": "https://elglobalfarma.com/industria/aprobacion-comision-europea-icotyde-icotrokinra-abre-tratamiento-sistemico-psoriasis/"
     },
     {
+      "titular": "Sanidad mantiene abierta a cambios la norma de fármacos veterinarios con dudas sobre cuestiones capitales para el sector",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-23T18:03:35+02:00",
+      "enlace": "https://www.redaccionmedica.com/salud-animal/20260923/sanidad-mantiene-abierta-cambios-la-norma-de-farmacos-veterinarios-con-dudas-sobre-cuestiones-capitales-para-el-sector/353419_0.html"
+    },
+    {
       "titular": "López-Belmonte por Lladós: la junta de Farmaindustria votará el 15 de octubre el relevo en la presidencia",
       "medios": [
         "El Global"
@@ -59,13 +60,13 @@
       "enlace": "https://elglobalfarma.com/industria/belmonte-llados-junta-farmaindustria-votara-15-octubre-relevo-presidencia/"
     },
     {
-      "titular": "El SNS mira a la farmacia comunitaria para afrontar sus grandes retos asistenciales",
+      "titular": "Una HTA moderna necesita algo más que buenos métodos",
       "medios": [
         "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-09-23T20:04:05+02:00",
-      "enlace": "https://diariofarma.com/2026/09/23/el-sns-mira-a-la-farmacia-comunitaria-para-afrontar-sus-grandes-retos-asistenciales"
+      "fecha": "2026-09-23T20:28:15+02:00",
+      "enlace": "https://diariofarma.com/2026/09/23/una-hta-moderna-necesita-algo-mas-que-buenos-metodos"
     }
   ],
   "salud": {
@@ -76,7 +77,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 128,
+    "antiguedad_minima_min": 277,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +85,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 141,
+        "antiguedad_min": 290,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +94,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 279,
+        "antiguedad_min": 428,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +103,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 128,
+        "antiguedad_min": 277,
         "descartados_por_gancho": 0
       },
       {

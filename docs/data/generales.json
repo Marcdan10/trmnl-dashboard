@@ -1,63 +1,9 @@
 {
   "pantalla": "generales",
   "titulo": "Titulares",
-  "modo": "ultimas",
-  "generado": "2026-09-23T22:56:52+02:00",
+  "modo": "portadas",
+  "generado": "2026-09-24T01:25:48+02:00",
   "titulares": [
-    {
-      "titular": "Últimas noticias de la Asamblea General de la ONU, en directo | Volodímir Zelenski: “Esta guerra ridícula con Ucrania debe acabar”",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-23T22:18:02+02:00",
-      "enlace": "https://elpais.com/internacional/2026-09-23/ultimas-noticias-de-la-asamblea-general-de-la-onu-en-directo.html"
-    },
-    {
-      "titular": "El desahucio de Maricarmen desata una conmoción social y política",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-23T22:17:52+02:00",
-      "enlace": "https://elpais.com/espana/madrid/2026-09-23/cientos-de-personas-cortan-el-centro-de-madrid-frente-al-atico-de-ayuso-tras-el-desahucio-de-maricarmen.html"
-    },
-    {
-      "titular": "Barcelona arranca las fiestas de la Mercè reivindicándose a sí misma",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-23T21:58:54+02:00",
-      "enlace": "https://www.lavanguardia.com/local/barcelona/20260923/11642565/barcelona-arranca-fiestas-merce-reivindicandose.html"
-    },
-    {
-      "titular": "ABC, en la operación Ítaca: tres intentos en 24 horas para devolver a Machado a Venezuela",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-23T21:33:46+02:00",
-      "enlace": "https://www.abc.es/internacional/abc-testigo-operacion-itaca-tres-intentos-horas-20260923141012-nt.html"
-    },
-    {
-      "titular": "Daniel Luque, o la historia de una oreja que nadie intuía",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-23T21:30:29+02:00",
-      "enlace": "https://www.abc.es/cultura/toros/daniel-luque-historia-oreja-intuia-20260923212129-nt.html"
-    },
-    {
-      "titular": "Un nuevo incidente con arma de fuego deja un herido en el barrio de la Mina",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-23T21:27:01+02:00",
-      "enlace": "https://www.lavanguardia.com/local/barcelona/20260923/11642557/nuevo-incidente-arma-fuego-deja-herido-barrio-mina.html"
-    },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
       "medios": [
@@ -66,6 +12,63 @@
       "consenso": 1,
       "fecha": "2022-06-10T01:05:00+02:00",
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
+    },
+    {
+      "titular": "Sánchez carga contra Ayuso y Almeida por la “tragedia social” del desahucio de Maricarmen: “Están más preocupados en comprar aticazos”",
+      "medios": [
+        "El País",
+        "La Vanguardia"
+      ],
+      "consenso": 2,
+      "fecha": "2026-09-23T21:47:53+02:00",
+      "enlace": "https://elpais.com/espana/2026-09-23/pedro-sanchez-comparece-antes-de-su-discurso-en-naciones-unidas.html"
+    },
+    {
+      "titular": "El atlas más completo de la corteza prefrontal muestra que el cerebro madura a los 24 años",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-24T00:36:25+02:00",
+      "enlace": "https://www.abc.es/ciencia/cerebro-termina-madurar-anos-20260922170022-nt.html"
+    },
+    {
+      "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
+      "medios": [
+        "RTVE"
+      ],
+      "consenso": 1,
+      "fecha": "2022-06-10T00:03:00+02:00",
+      "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
+    },
+    {
+      "titular": "«Maricarmen o el cuento de la izquierda y el lobo»",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-23T23:50:35+02:00",
+      "enlace": "https://www.abc.es/espana/maricarmen-cuento-izquierda-lobo-20260923195205-nt.html"
+    },
+    {
+      "titular": "El Supremo confirma 4 años de cárcel para Santi Mina por abuso sexual",
+      "medios": [
+        "El País",
+        "La Vanguardia",
+        "ABC"
+      ],
+      "consenso": 3,
+      "fecha": "2026-09-23T20:14:01+02:00",
+      "enlace": "https://www.abc.es/deportes/futbol/supremo-confirma-anos-carcel-santi-mina-abuso-20260923164619-nt.html"
+    },
+    {
+      "titular": "Maricarmen, desahuciada a los 87 años de la que ha sido su casa durante siete décadas en Madrid",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-23T08:14:09+02:00",
+      "enlace": "https://www.lavanguardia.com/local/madrid/20260923/11641895/maricarmen-mujer-87-anos-retiro-enfrenta-cuarto-intento-desahucio.html"
     }
   ],
   "salud": {
@@ -74,7 +77,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 38,
+    "antiguedad_minima_min": 0,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +85,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2256351,
+        "antiguedad_min": 2256500,
         "descartados_por_gancho": 0
       },
       {
@@ -97,19 +100,19 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 155,
+        "items": 154,
         "error": null,
-        "antiguedad_min": 38,
+        "antiguedad_min": 0,
         "descartados_por_gancho": 4
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 139,
+        "items": 134,
         "error": null,
-        "antiguedad_min": 57,
-        "descartados_por_gancho": 9
+        "antiguedad_min": 55,
+        "descartados_por_gancho": 7
       },
       {
         "medio": "ABC",
@@ -117,7 +120,7 @@
         "ok": true,
         "items": 24,
         "error": null,
-        "antiguedad_min": 83,
+        "antiguedad_min": 49,
         "descartados_por_gancho": 1
       }
     ]

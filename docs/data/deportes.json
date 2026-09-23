@@ -1,26 +1,17 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "ultimas",
-  "generado": "2026-09-23T22:56:56+02:00",
+  "modo": "portadas",
+  "generado": "2026-09-24T01:25:53+02:00",
   "titulares": [
     {
-      "titular": "Así cambiará la selección francesa con Zidane",
+      "titular": "Estreno con goleada del Barça campeón",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-23T22:15:38+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/uefa-nations-league/20260923/1004230620/asi-cambiara-seleccion-francesa-zidane.html"
-    },
-    {
-      "titular": "Va a registrar a su hijo y descubre que hay personas empadronadas en casa: \"Han falsificado un contrato de alquiler\"",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-23T22:09:55+02:00",
-      "enlace": "https://www.mundodeportivo.com/actualidad/20260923/1004230627/registrar-hijo-descubre-hay-cuatro-desconocidos-empadronados-casa-han-falsificado-contrato-alquiler-preocupa-hacienda-reclame-dinero-no-percibiendo-dct.html"
+      "fecha": "2026-09-23T22:49:50+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260923/1004230632/estreno-grande-barca-campeon.html"
     },
     {
       "titular": "'De repente', Sergio Ramos aparece por la sede de Ferrari",
@@ -32,6 +23,15 @@
       "enlace": "https://www.marca.com/coches-y-motos/coches/2026/09/22/repente-sergio-ramos-aparece-sede-ferrari.html"
     },
     {
+      "titular": "Rodri tiene claro que las acusaciones de corrupción arbitral del Madrid \"hacen daño al fútbol\"",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-23T21:04:57+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260923/1004230608/rodri-claro-acusaciones-corrupcion-arbitral-madrid-dano-futbol.html"
+    },
+    {
       "titular": "Recuperar al soldado Thiago Pitarch",
       "medios": [
         "Marca"
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/real-madrid/2026/09/22/recuperar-soldado-thiago-pitarch.html"
     },
     {
-      "titular": "Harry Kane, cerca de renovar con el Bayern",
+      "titular": "¿Por qué Hansi Flick no apareció en la foto ayer con el resto de entrenadores?",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-23T21:56:11+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/internacional/20260923/1004230623/harry-kane-cerca-renovar-bayern.html"
+      "fecha": "2026-09-23T10:34:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260923/1004230340/hansi-flick-no-aparecio-foto-ayer-resto-entrenadores.html"
     },
     {
-      "titular": "Los conductores de Barcelona están obligados a girar a la derecha desde el segundo carril en algunos cruces",
+      "titular": "FIFA abre dos escuelas de fútbol en Cisjordania",
       "medios": [
-        "Mundo Deportivo"
+        "Marca"
       ],
       "consenso": 1,
-      "fecha": "2026-09-23T21:43:56+02:00",
-      "enlace": "https://www.mundodeportivo.com/actualidad/20260923/1004230614/entrado-vigor-barcelona-conductores-obligados-girar-derecha-segundo-carril-determinados-cruces-lcl-dct.html"
+      "fecha": "2026-09-22T11:07:58+02:00",
+      "enlace": "https://www.marca.com/futbol/2026/09/22/fifa-abre-dos-escuelas-futbol-cisjordania.html"
     },
     {
-      "titular": "Carlos Boyero sentencia 'La bola negra': \"Se merece el Oscar. Tiene factura, emoción y me parece que hay buen cine\"",
+      "titular": "Sesión conjunta con el Barça Atlètic",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-23T21:34:13+02:00",
-      "enlace": "https://www.mundodeportivo.com/elotromundo/television/20260923/1004230618/critico-cine-carlos-boyero-sentencia-bola-negra-merece-le-den-oscar-factura-emocion-me-parece-hay-buen-cine-dct.html"
+      "fecha": "2026-09-23T14:48:20+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260923/1004230451/sesion-conjunta-barca-atletic.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 41,
+    "antiguedad_minima_min": 68,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 61,
         "error": null,
-        "antiguedad_min": 2144,
+        "antiguedad_min": 2293,
         "descartados_por_gancho": 7
       },
       {
@@ -101,8 +101,8 @@
         "ok": true,
         "items": 142,
         "error": null,
-        "antiguedad_min": 41,
-        "descartados_por_gancho": 5
+        "antiguedad_min": 68,
+        "descartados_por_gancho": 4
       },
       {
         "medio": "Sport",
