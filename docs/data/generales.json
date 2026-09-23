@@ -2,61 +2,62 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-09-23T14:51:18+02:00",
+  "generado": "2026-09-23T19:38:29+02:00",
   "titulares": [
     {
-      "titular": "ABC, testigo de la operación Ítaca: tres intentos en 24 horas para devolver a Machado a Venezuela",
+      "titular": "Harvey Weinstein vuelve a ser condenado a 15 años de prisión por una agresión sexual cometida en 2006",
+      "medios": [
+        "El País",
+        "ABC"
+      ],
+      "consenso": 2,
+      "fecha": "2026-09-23T19:29:39+02:00",
+      "enlace": "https://www.abc.es/gente/harvey-weinstein-vuelve-condenado-anos-prision-agresion-20260923175841-nt.html"
+    },
+    {
+      "titular": "El desahucio de Maricarmen deriva en otro choque frontal entre el Gobierno y Madrid",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-23T14:47:30+02:00",
-      "enlace": "https://www.abc.es/internacional/abc-testigo-operacion-itaca-tres-intentos-horas-20260923141012-nt.html"
+      "fecha": "2026-09-23T19:28:10+02:00",
+      "enlace": "https://www.abc.es/espana/madrid/desahucio-maricarmen-deriva-choque-frontal-gobierno-madrid-20260923162200-nt.html"
     },
     {
-      "titular": "La cumbre entre Trump y Xi Jinping comienza con mucho oropel y pocas expectativas",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-23T14:38:44+02:00",
-      "enlace": "https://elpais.com/internacional/2026-09-23/la-cumbre-entre-trump-y-xi-jinping-comienza-con-mucho-oropel-y-pocas-expectativas.html"
-    },
-    {
-      "titular": "Illa reconoce que no hizo nada cuando «todavía existía margen para actuar» y evitar el fiasco de PISA",
+      "titular": "El atlas más completo de la corteza prefrontal muestra que el cerebro madura a los 24 años",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-23T14:37:14+02:00",
-      "enlace": "https://www.abc.es/espana/cataluna/illa-reconoce-hizo-existia-margen-actuar-evitar-20260923111544-nt.html"
+      "fecha": "2026-09-23T19:27:06+02:00",
+      "enlace": "https://www.abc.es/ciencia/cerebro-termina-madurar-anos-20260922170022-nt.html"
     },
     {
-      "titular": "Los mandos del área quirúrgica en el Ramón y Cajal publican un comunicado para defender la gestión de la lista de espera en el hospital",
+      "titular": "Últimas noticias de la Asamblea General de la ONU, en directo | Milei resucita el conflicto de las Malvinas: “Para nosotros, son una causa nacional”",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-23T14:31:53+02:00",
-      "enlace": "https://elpais.com/espana/madrid/2026-09-23/los-mandos-del-area-quirurgica-en-el-ramon-y-cajal-publican-un-comunicado-para-defender-la-gestion-de-la-lista-de-espera-en-el-hospital.html"
+      "fecha": "2026-09-23T19:23:27+02:00",
+      "enlace": "https://elpais.com/internacional/2026-09-23/ultimas-noticias-de-la-asamblea-general-de-la-onu-en-directo.html"
     },
     {
-      "titular": "¿Humanos o máquinas? El baile inaugural de 'WorldSkills' 2026 en Shanghái",
+      "titular": "El deportivista Aubameyang será intervenido por sus molestias de menisco",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-23T13:48:39+02:00",
-      "enlace": "https://www.lavanguardia.com/tecnologia/20260923/11642209/humanos-maquinas-wordskills-shanghai-baile-vestuario.html"
+      "fecha": "2026-09-23T19:08:09+02:00",
+      "enlace": "https://www.lavanguardia.com/deportes/20260923/11642492/deportivista-aubameyang-sera-intervenido-molestias-menisco.html"
     },
     {
-      "titular": "Zapatero alega ante el juez que las joyas proceden de un regalo de Arabia Saudí",
+      "titular": "Más de 2.300 millones de euros en cuatro años para financiar los servicios sociales",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-23T13:43:03+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20260923/11642211/zapatero-alega-juez-joyas-proceden-regalo-arabia-saudi.html"
+      "fecha": "2026-09-23T19:05:50+02:00",
+      "enlace": "https://www.lavanguardia.com/local/barcelona/20260923/11642486/mas-2-300-millones-euros-cuatro-anos-financiar-servicios-sociales.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -74,7 +75,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 3,
+    "antiguedad_minima_min": 8,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +83,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2255866,
+        "antiguedad_min": 2256153,
         "descartados_por_gancho": 0
       },
       {
@@ -97,19 +98,19 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 150,
+        "items": 153,
         "error": null,
-        "antiguedad_min": 12,
-        "descartados_por_gancho": 5
+        "antiguedad_min": 15,
+        "descartados_por_gancho": 3
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 125,
+        "items": 134,
         "error": null,
-        "antiguedad_min": 62,
-        "descartados_por_gancho": 10
+        "antiguedad_min": 30,
+        "descartados_por_gancho": 9
       },
       {
         "medio": "ABC",
@@ -117,7 +118,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 3,
+        "antiguedad_min": 8,
         "descartados_por_gancho": 0
       }
     ]

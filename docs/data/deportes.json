@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-09-23T14:51:23+02:00",
+  "generado": "2026-09-23T19:38:34+02:00",
   "titulares": [
     {
-      "titular": "Lorena, propietaria de una cafetería: \"El año pasado facturé 138.000 euros. Limpios para mí fueron 12.000\"",
+      "titular": "Ferran Torres confunde a todo el mundo: así dice que se pronuncia su nombre ahora",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-23T14:16:15+02:00",
-      "enlace": "https://www.mundodeportivo.com/tressesenta/20260923/1004230446/lorena-propietaria-cafeteria-ano-pasado-facture-138-000-euros-limpios-mi-12-000-dct.html"
+      "fecha": "2026-09-23T19:28:06+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/internacional/20260923/1004230581/ferran-torres-confunde-mundo-asi-dice-pronuncia-nombre.html"
     },
     {
-      "titular": "Osorio, soldado del Ejército: \"La DANA me marcó mucho, porque fue muy dura tanto físicamente como emocionalmente\"",
+      "titular": "Gravísima lesión de un fijo de Jordi Ribera: adiós al Mundial 2027 y toda la temporada",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-23T14:15:01+02:00",
-      "enlace": "https://www.mundodeportivo.com/actualidad/20260923/1004230424/claudia-osorio-soldado-ejercito-aire-espacio-dana-me-marco-dura-tanto-fisicamente-emocionalmente-dml-dct.html"
+      "fecha": "2026-09-23T19:19:16+02:00",
+      "enlace": "https://www.mundodeportivo.com/balonmano/20260923/1004230571/gravisima-lesion-fijo-jordi-ribera-adios-mundial-2027-temporada.html"
     },
     {
       "titular": "'De repente', Sergio Ramos aparece por la sede de Ferrari",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/real-madrid/2026/09/22/recuperar-soldado-thiago-pitarch.html"
     },
     {
-      "titular": "Alcaraz dicta sentencia sobre quién es el mejor: \"Probablemente Zverev en este momento\"",
+      "titular": "\"El 90% de las personas confunde airear con ventilar y eso destroza su garganta\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-23T14:12:19+02:00",
-      "enlace": "https://www.mundodeportivo.com/tenis/20260923/1004230443/carlos-alcaraz-dicta-sentencia-sobre-mejor-mundo-probablemente-zverev.html"
+      "fecha": "2026-09-23T19:18:29+02:00",
+      "enlace": "https://www.mundodeportivo.com/economia-hogar/20260923/1004230576/valentin-naranjo-experto-calidad-aire-90-personas-confunde-airear-ventilar-destroza-garganta-invierno-smd.html"
     },
     {
-      "titular": "Roberto Fernández: \"Peleo por hacerme un hueco en la Selección\"",
+      "titular": "Ferran Adri: \"Hago las mejores patatas bravas que puedas imaginar con el método de Blumenthal: antes de freír, las hierve y las congela\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-23T14:05:24+02:00",
-      "enlace": "https://www.mundodeportivo.com/seleccion-espanola/20260923/1004230439/roberto-fernandez-peleo-hacerme-hueco-seleccion.html"
+      "fecha": "2026-09-23T19:14:45+02:00",
+      "enlace": "https://www.mundodeportivo.com/foodie/20260923/1004230578/ferran-adria-cocinero-catalan-mejores-patatas-bravas-puedas-imaginar-metodo-blumenthal-freir-hierve-congela-nadie-le-habia-ocurrido-convertirlas-bravas-xef-dct.html"
     },
     {
-      "titular": "Lista del Barça para el debut en Champions: dos lesiones y un regreso confirmado",
+      "titular": "Xavi, antes de su debut: \"Ojalá podamos enfrentarnos a España\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-23T14:02:10+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260923/1004230438/lista-barca-debut-champions-dos-lesiones-regreso-confirmado.html"
+      "fecha": "2026-09-23T19:06:24+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/uefa-nations-league/20260923/1004230556/xavi-debut-ojala-podamos-enfrentarnos-espana.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 35,
+    "antiguedad_minima_min": 10,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 61,
         "error": null,
-        "antiguedad_min": 1659,
+        "antiguedad_min": 1946,
         "descartados_por_gancho": 7
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 136,
+        "items": 143,
         "error": null,
-        "antiguedad_min": 35,
-        "descartados_por_gancho": 4
+        "antiguedad_min": 10,
+        "descartados_por_gancho": 3
       },
       {
         "medio": "Sport",
