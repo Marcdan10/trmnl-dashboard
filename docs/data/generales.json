@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-09-23T01:25:05+02:00",
+  "generado": "2026-09-23T03:36:49+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -32,13 +32,13 @@
       "enlace": "https://www.lavanguardia.com/internacional/20260922/11641642/sanchez-pide-respuestas-acciones-marruecos-fallo-mecanismo-control-fronterizo.html"
     },
     {
-      "titular": "Cae el clan de los Cucos justo antes de una matanza en los juzgados de Plaza Castilla",
+      "titular": "Gregorio Prieto, el pintor de Lorca que soñó con 'La bola negra'",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-23T01:07:23+02:00",
-      "enlace": "https://www.abc.es/espana/madrid/pelea-multitudinaria-tetuan-acaba-detenidos-cinco-pistolas-20260922103946-nt.html"
+      "fecha": "2026-09-23T02:33:27+02:00",
+      "enlace": "https://www.abc.es/xlsemanal/gregorio-prieto-pintor-lorca-la-bola-negra-pelicula-los-javis-20260921174640-ntrc.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 17,
+    "antiguedad_minima_min": 8,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2255060,
+        "antiguedad_min": 2255191,
         "descartados_por_gancho": 0
       },
       {
@@ -90,7 +90,7 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 500",
+        "error": "HTTP 429",
         "antiguedad_min": null
       },
       {
@@ -99,7 +99,7 @@
         "ok": true,
         "items": 141,
         "error": null,
-        "antiguedad_min": 67,
+        "antiguedad_min": 8,
         "descartados_por_gancho": 9
       },
       {
@@ -108,17 +108,17 @@
         "ok": true,
         "items": 131,
         "error": null,
-        "antiguedad_min": 52,
+        "antiguedad_min": 184,
         "descartados_por_gancho": 9
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 23,
+        "items": 24,
         "error": null,
-        "antiguedad_min": 17,
-        "descartados_por_gancho": 2
+        "antiguedad_min": 63,
+        "descartados_por_gancho": 1
       }
     ]
   }

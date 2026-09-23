@@ -2,7 +2,7 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "portadas",
-  "generado": "2026-09-23T01:25:17+02:00",
+  "generado": "2026-09-23T03:36:56+02:00",
   "titulares": [
     {
       "titular": "Sanidad admite que el modelo de genéricos “no funciona” y el sector clama por ser viable",
@@ -46,8 +46,8 @@
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-09-22T20:27:23+02:00",
-      "enlace": "https://www.redaccionmedica.com/empresas/industria-farmaceutica/20260922/el-gobierno-impone-la-tramitacion-de-urgencia-ley-del-medicamento/353463_0.html"
+      "fecha": "2026-09-23T01:29:20+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/ministerio-sanidad/20260923/el-gobierno-impone-la-tramitacion-de-urgencia-ley-del-medicamento/353463_0.html"
     },
     {
       "titular": "Almirall optimiza de forma autónoma la operación energética de su planta de Sant Andreu de la Barca mediante un gemelo digital desarrollado por Sener",
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 224,
+    "antiguedad_minima_min": 127,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 224,
+        "antiguedad_min": 356,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 518,
+        "antiguedad_min": 650,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 258,
+        "antiguedad_min": 127,
         "descartados_por_gancho": 0
       },
       {
