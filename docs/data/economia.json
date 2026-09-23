@@ -1,71 +1,71 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "portadas",
-  "generado": "2026-09-23T09:09:11+02:00",
+  "modo": "ultimas",
+  "generado": "2026-09-23T14:51:21+02:00",
   "titulares": [
     {
-      "titular": "Santander, Blackstone y Pollen impulsan la venta de créditos morosos a particulares",
+      "titular": "Zapatero asegura que las joyas fueron un regalo de Arabia Saudí",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-23T00:13:34+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/09/22/6ab28b7ee5fdeaf46d8b457d.html"
+      "fecha": "2026-09-23T14:15:28+02:00",
+      "enlace": "https://www.expansion.com/economia/politica/2026/09/23/6ab3b96e468aeb53468b459c.html"
     },
     {
-      "titular": "Ángel Simón releva a los directores de Estrategia y Tecnología de Indra",
+      "titular": "España y California firman una estrategia conjunta para acelerar la transición energética",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-23T00:10:10+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/09/23/6ab2e9ef468aeb042f8b4581.html"
+      "fecha": "2026-09-23T14:12:51+02:00",
+      "enlace": "https://www.expansion.com/sostenibilidad/2026/09/23/6ab3bfec468aebec148b4599.html"
     },
     {
-      "titular": "Iberdrola busca nuevo socio para su eólica en Reino Unido",
+      "titular": "El mercado de la vivienda en España y Portugal, cara a cara",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-23T00:10:12+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/09/23/6ab2eb22e5fdea557d8b4595.html"
+      "fecha": "2026-09-23T13:59:47+02:00",
+      "enlace": "https://www.expansion.com/inmobiliario/mercado/2026/09/23/6ab3bf30468aeb81718b4595.html"
     },
     {
-      "titular": "La Primera de Expansión sobre Iberdrola, Santander, Blackstone, la IA, Lukoil y el récord del Nasdaq",
+      "titular": "El grupo Maxam recomprará hasta 61,9 millones de la emisión de bonos de 2023",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-23T07:20:50+02:00",
-      "enlace": "https://www.expansion.com/podcasts/la-primera-de-expansion/2026/09/23/6ab35e32468aebd5758b458c.html"
+      "fecha": "2026-09-23T13:48:22+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/09/23/6ab3bc49e5fdea43258b4583.html"
     },
     {
-      "titular": "Jubilación activa: los autónomos pueden cobrar hasta el 100% de pensión y mantener el negocio",
+      "titular": "El Tribunal Constitucional avala el Tratado de Amistad y Cooperación entre España y Francia",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-23T00:08:51+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/09/23/6ab2a84d468aeb1d638b458e.html"
+      "fecha": "2026-09-23T13:25:45+02:00",
+      "enlace": "https://www.expansion.com/economia/politica/2026/09/23/6ab3b509e5fdea46078b4570.html"
     },
     {
-      "titular": "De destruir la humanidad con la IA al récord del Nasdaq en 10 días; ¿cómo explicarlo?",
+      "titular": "Seis de cada diez adolescentes españoles aspiran a un trabajo mejor que el de sus padres",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-23T00:00:39+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/09/22/6ab29974468aeb7e3e8b4577.html"
+      "fecha": "2026-09-23T13:03:02+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/09/23/6ab3afae468aeb81718b458e.html"
     },
     {
-      "titular": "Los próximos ganadores europeos de la segunda ola de la IA",
+      "titular": "Moeve reorganiza su estructura y dirección para acelerar sus proyectos de moléculas verdes",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-23T00:00:25+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/09/23/6ab27483e5fdea950c8b45bd.html"
+      "fecha": "2026-09-23T12:39:38+02:00",
+      "enlace": "https://www.expansion.com/empresas/energia/2026/09/23/6ab3abff468aeb53468b458e.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 11,
+    "antiguedad_minima_min": 35,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 76,
+        "items": 75,
         "error": null,
-        "antiguedad_min": 11,
+        "antiguedad_min": 35,
         "descartados_por_gancho": 0
       },
       {

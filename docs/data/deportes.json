@@ -1,17 +1,26 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "portadas",
-  "generado": "2026-09-23T09:09:13+02:00",
+  "modo": "ultimas",
+  "generado": "2026-09-23T14:51:23+02:00",
   "titulares": [
     {
-      "titular": "Rodri escuece en el Real Madrid",
+      "titular": "Lorena, propietaria de una cafetería: \"El año pasado facturé 138.000 euros. Limpios para mí fueron 12.000\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-23T00:30:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260923/1004230278/rodri-escuece-real-madrid.html"
+      "fecha": "2026-09-23T14:16:15+02:00",
+      "enlace": "https://www.mundodeportivo.com/tressesenta/20260923/1004230446/lorena-propietaria-cafeteria-ano-pasado-facture-138-000-euros-limpios-mi-12-000-dct.html"
+    },
+    {
+      "titular": "Osorio, soldado del Ejército: \"La DANA me marcó mucho, porque fue muy dura tanto físicamente como emocionalmente\"",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-23T14:15:01+02:00",
+      "enlace": "https://www.mundodeportivo.com/actualidad/20260923/1004230424/claudia-osorio-soldado-ejercito-aire-espacio-dana-me-marco-dura-tanto-fisicamente-emocionalmente-dml-dct.html"
     },
     {
       "titular": "'De repente', Sergio Ramos aparece por la sede de Ferrari",
@@ -23,15 +32,6 @@
       "enlace": "https://www.marca.com/coches-y-motos/coches/2026/09/22/repente-sergio-ramos-aparece-sede-ferrari.html"
     },
     {
-      "titular": "Dura respuesta del Real Madrid a Tebas",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-22T16:59:53+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260922/1004230158/real-madrid-responde-tebas.html"
-    },
-    {
       "titular": "Recuperar al soldado Thiago Pitarch",
       "medios": [
         "Marca"
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/real-madrid/2026/09/22/recuperar-soldado-thiago-pitarch.html"
     },
     {
-      "titular": "Rodri, rendimiento inmediato que irá a más: Flick le dosifica",
+      "titular": "Alcaraz dicta sentencia sobre quién es el mejor: \"Probablemente Zverev en este momento\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-23T06:30:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260923/1004230279/rodri-rendimiento-inmediato-ira-flick-le-dosifica.html"
+      "fecha": "2026-09-23T14:12:19+02:00",
+      "enlace": "https://www.mundodeportivo.com/tenis/20260923/1004230443/carlos-alcaraz-dicta-sentencia-sobre-mejor-mundo-probablemente-zverev.html"
     },
     {
-      "titular": "FIFA abre dos escuelas de fútbol en Cisjordania",
+      "titular": "Roberto Fernández: \"Peleo por hacerme un hueco en la Selección\"",
       "medios": [
-        "Marca"
+        "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-22T11:07:58+02:00",
-      "enlace": "https://www.marca.com/futbol/2026/09/22/fifa-abre-dos-escuelas-futbol-cisjordania.html"
+      "fecha": "2026-09-23T14:05:24+02:00",
+      "enlace": "https://www.mundodeportivo.com/seleccion-espanola/20260923/1004230439/roberto-fernandez-peleo-hacerme-hueco-seleccion.html"
     },
     {
-      "titular": "El cambio de 'look' de Inés García, novia de Lamine Yamal: \"Cuando a una chica le pasa algo, se cambia el pelo\"",
+      "titular": "Lista del Barça para el debut en Champions: dos lesiones y un regreso confirmado",
       "medios": [
-        "Marca"
+        "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-22T11:00:33+02:00",
-      "enlace": "https://www.marca.com/tiramillas/sociedad/2026/09/22/cambio-look-ines-garcia-novia-lamine-yamal-chica-le-pasa-cambia-pelo.html"
+      "fecha": "2026-09-23T14:02:10+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260923/1004230438/lista-barca-debut-champions-dos-lesiones-regreso-confirmado.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 32,
+    "antiguedad_minima_min": 35,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 61,
         "error": null,
-        "antiguedad_min": 1316,
+        "antiguedad_min": 1659,
         "descartados_por_gancho": 7
       },
       {
@@ -99,9 +99,9 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 134,
+        "items": 136,
         "error": null,
-        "antiguedad_min": 32,
+        "antiguedad_min": 35,
         "descartados_por_gancho": 4
       },
       {
