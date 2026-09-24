@@ -2,70 +2,70 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-09-24T14:48:44+02:00",
+  "generado": "2026-09-24T19:41:41+02:00",
   "titulares": [
     {
-      "titular": "El Ibex se mantiene en guardia",
+      "titular": "H&M gana 784 millones en nueve meses, un 14,6% más",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-24T14:34:48+02:00",
+      "fecha": "2026-09-24T19:16:43+02:00",
+      "enlace": "https://www.expansion.com/empresas/distribucion/2026/09/24/6ab55af5468aeb6f128b4572.html"
+    },
+    {
+      "titular": "EQT encarga a JPMorgan la venta de Parques Reunidos por más de 1.700 millones",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-24T18:59:20+02:00",
+      "enlace": "https://www.expansion.com/empresas/fusiones-y-adquisiciones/2026/09/24/6ab554bf468aebf41b8b4591.html"
+    },
+    {
+      "titular": "El taxi le gana la batalla a Cabify y le arrebata el contrato para el transporte de RTVE",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-24T18:07:46+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/09/24/6ab54acce5fdeacf638b458a.html"
+    },
+    {
+      "titular": "Trump y Xi prometen \"colaboración\" en IA, comercio y trabajar en un \"futuro mejor\"",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-24T18:04:41+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/09/24/6ab548bce5fdea255a8b4581.html"
+    },
+    {
+      "titular": "El Ibex pierde los 19.600 puntos con los tipos de los bonos disparados",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-24T17:38:06+02:00",
       "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/09/24/6ab4bb30e5fdea8d4b8b4594.html"
     },
     {
-      "titular": "Bruselas no muestra sorpresa ante la amenaza de que drones rusos pudieran atacar España, Francia o Italia",
+      "titular": "Trebellar cierra 15,8 millones para aplicar IA a la gestión del patrimonio inmobiliario",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-24T14:22:35+02:00",
-      "enlace": "https://www.expansion.com/economia/politica/2026/09/24/6ab515cb468aeb8c218b4593.html"
+      "fecha": "2026-09-24T17:34:06+02:00",
+      "enlace": "https://www.expansion.com/expansion-empleo/emprendedores/2026/09/24/6ab5406a468aeb97628b4587.html"
     },
     {
-      "titular": "Amadeus reactiva su atractivo con una valoración histórica",
+      "titular": "La patronal de las papeleras elige a Elisabet Alier como nueva presidenta",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-24T13:18:42+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/09/24/6ab5070ee5fdea71208b45dc.html"
-    },
-    {
-      "titular": "BNP \"deja de ponerse de lado\" en Sabadell y eleva un 23% su valoración",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-24T13:13:11+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/09/24/6ab50033e5fdea1e528b457f.html"
-    },
-    {
-      "titular": "BBVA reduce el horario de sus oficinas en México por el \"bienestar\" de la plantilla",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-24T13:08:13+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/09/24/6ab4f9fb468aeb3e0d8b45a3.html"
-    },
-    {
-      "titular": "Armengol: \"Sabadell necesita crecer de forma más enérgica en pymes y banca personal y privada\"",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-24T13:07:41+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/09/24/6ab5017e468aebd6678b457f.html"
-    },
-    {
-      "titular": "La licitación de vivienda pública crece un 52,7% hasta julio y alcanza los 1.065 millones de euros",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-24T13:07:14+02:00",
-      "enlace": "https://www.expansion.com/inmobiliario/mercado/2026/09/24/6ab50460468aeb5e598b459c.html"
+      "fecha": "2026-09-24T17:28:22+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/09/24/6ab53fcbe5fdea54528b4579.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 13,
+    "antiguedad_minima_min": 24,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 76,
+        "items": 78,
         "error": null,
-        "antiguedad_min": 13,
+        "antiguedad_min": 24,
         "descartados_por_gancho": 0
       },
       {
