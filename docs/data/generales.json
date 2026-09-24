@@ -2,61 +2,61 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-09-24T19:41:37+02:00",
+  "generado": "2026-09-24T23:01:21+02:00",
   "titulares": [
     {
-      "titular": "Países Bajos le cerró la puerta en sus intentos de volver a Caracas",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-24T19:31:05+02:00",
-      "enlace": "https://www.abc.es/internacional/paises-bajos-cerro-machado-puerta-intentos-regresar-20260924103405-nt.html"
-    },
-    {
-      "titular": "U2 lanza su primer disco en casi una década con título en español, ‘Carnaval de Luz’",
+      "titular": "El interés del bono de Estados Unidos a 10 años se dispara al 5,22%, máximos de 2007",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-24T19:27:01+02:00",
-      "enlace": "https://elpais.com/cultura/2026-09-24/u2-lanza-su-primer-disco-en-casi-una-decada-con-titulo-en-espanol-carnaval-de-luz.html"
+      "fecha": "2026-09-24T22:30:07+02:00",
+      "enlace": "https://cincodias.elpais.com/mercados-financieros/2026-09-24/la-bolsa-y-el-ibex-35.html"
     },
     {
-      "titular": "El 'alquiler heredado' de Maricarmen: de la 'renta antigua' de Franco al decreto socialista que limitó los derechos de los hijos",
+      "titular": "Netanyahu reta a una Asamblea de la ONU semivacía en protesta por su invasión de Gaza: “Acusarnos de genocidio es la mayor mentira del siglo”",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-24T22:26:01+02:00",
+      "enlace": "https://elpais.com/internacional/2026-09-24/netanyahu-reta-a-una-asamblea-de-la-onu-semivacia-en-protesta-por-su-invasion-de-gaza-acusarnos-de-genocidio-es-la-mayor-mentira-del-siglo.html"
+    },
+    {
+      "titular": "España boicotea el discurso de Netanyahu en la ONU",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-24T19:27:00+02:00",
+      "fecha": "2026-09-24T22:11:48+02:00",
+      "enlace": "https://www.abc.es/espana/espana-boicotea-discurso-netanyahu-onu-20260924210028-nt.html"
+    },
+    {
+      "titular": "Una protesta apoyada por PP y Vox señala a Sánchez por traición",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-24T22:01:30+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20260924/11643270/protesta-apoyada-pp-vox-senala-sanchez-traicion.html"
+    },
+    {
+      "titular": "El alquiler de Maricarmen: de la 'renta antigua' de Franco al decreto socialista que lo cambió todo",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-24T21:59:21+02:00",
       "enlace": "https://www.abc.es/economia/cuentas-corrientes/alquiler-heredado-maricarmen-renta-antigua-franco-decreto-20260924191626-nt.html"
     },
     {
-      "titular": "Konaté estará tres semanas de baja después de lesionarse con Francia",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-24T19:26:27+02:00",
-      "enlace": "https://elpais.com/deportes/futbol/2026-09-24/konate-estara-tres-semanas-de-baja-despues-de-lesionarse-con-francia.html"
-    },
-    {
-      "titular": "U2 anuncia ‘Carnaval De Luz’, su primer álbum de estudio en nueve años",
+      "titular": "Prisión para un profesor por violar y abusar de 22 alumnos en una escuela infantil de París",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-24T18:36:44+02:00",
-      "enlace": "https://www.lavanguardia.com/cultura/20260924/11643169/u2-anuncia-carnaval-luz-primer-album-estudio-nueve-anos.html"
-    },
-    {
-      "titular": "Muere un montañero en los Picos de Europa tras despeñarse desde unos 60 metros",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-24T18:29:00+02:00",
-      "enlace": "https://www.lavanguardia.com/local/asturias/20260924/11643162/muere-montanero-picos-europa-despenarse-60-metros.html"
+      "fecha": "2026-09-24T21:50:51+02:00",
+      "enlace": "https://www.lavanguardia.com/vida/20260924/11643264/prision-profesor-violar-abusar-22-alumnos-escuela-infantil-paris.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 10,
+    "antiguedad_minima_min": 31,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2257596,
+        "antiguedad_min": 2257796,
         "descartados_por_gancho": 0
       },
       {
@@ -99,26 +99,26 @@
         "ok": true,
         "items": 144,
         "error": null,
-        "antiguedad_min": 14,
+        "antiguedad_min": 31,
         "descartados_por_gancho": 6
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 129,
+        "items": 132,
         "error": null,
-        "antiguedad_min": 64,
-        "descartados_por_gancho": 13
+        "antiguedad_min": 59,
+        "descartados_por_gancho": 12
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 25,
+        "items": 24,
         "error": null,
-        "antiguedad_min": 10,
-        "descartados_por_gancho": 0
+        "antiguedad_min": 49,
+        "descartados_por_gancho": 1
       }
     ]
   }

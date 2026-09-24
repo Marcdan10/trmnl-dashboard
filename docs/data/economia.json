@@ -2,8 +2,26 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-09-24T19:41:41+02:00",
+  "generado": "2026-09-24T23:01:24+02:00",
   "titulares": [
+    {
+      "titular": "Zanini se acerca a los 100 millones de ventas y dispara el beneficio",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-24T21:24:30+02:00",
+      "enlace": "https://www.expansion.com/catalunya/2026/09/24/6ab5778d468aeb97628b459d.html"
+    },
+    {
+      "titular": "Plantan a Netanyahu durante su discurso en la Asamblea General de la ONU",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-24T21:01:41+02:00",
+      "enlace": "https://www.expansion.com/economia/politica/2026/09/24/6ab57393e5fdeaa4538b458a.html"
+    },
     {
       "titular": "H&M gana 784 millones en nueve meses, un 14,6% más",
       "medios": [
@@ -12,6 +30,15 @@
       "consenso": 1,
       "fecha": "2026-09-24T19:16:43+02:00",
       "enlace": "https://www.expansion.com/empresas/distribucion/2026/09/24/6ab55af5468aeb6f128b4572.html"
+    },
+    {
+      "titular": "La OPV de Airtel Money muestra una vía para el mercado londinense recupere su atractivo",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-24T19:04:09+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/09/24/6ab551a6e5fdeafd468b459c.html"
     },
     {
       "titular": "EQT encarga a JPMorgan la venta de Parques Reunidos por más de 1.700 millones",
@@ -39,33 +66,6 @@
       "consenso": 1,
       "fecha": "2026-09-24T18:04:41+02:00",
       "enlace": "https://www.expansion.com/economia/2026/09/24/6ab548bce5fdea255a8b4581.html"
-    },
-    {
-      "titular": "El Ibex pierde los 19.600 puntos con los tipos de los bonos disparados",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-24T17:38:06+02:00",
-      "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/09/24/6ab4bb30e5fdea8d4b8b4594.html"
-    },
-    {
-      "titular": "Trebellar cierra 15,8 millones para aplicar IA a la gestión del patrimonio inmobiliario",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-24T17:34:06+02:00",
-      "enlace": "https://www.expansion.com/expansion-empleo/emprendedores/2026/09/24/6ab5406a468aeb97628b4587.html"
-    },
-    {
-      "titular": "La patronal de las papeleras elige a Elisabet Alier como nueva presidenta",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-24T17:28:22+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/09/24/6ab53fcbe5fdea54528b4579.html"
     }
   ],
   "salud": {
@@ -78,7 +78,7 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 24,
+    "antiguedad_minima_min": 96,
     "detalle": [
       {
         "medio": "Expansión",
@@ -86,7 +86,7 @@
         "ok": true,
         "items": 78,
         "error": null,
-        "antiguedad_min": 24,
+        "antiguedad_min": 96,
         "descartados_por_gancho": 0
       },
       {
