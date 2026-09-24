@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-09-24T01:25:48+02:00",
+  "generado": "2026-09-24T03:34:28+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -24,13 +24,13 @@
       "enlace": "https://elpais.com/espana/2026-09-23/pedro-sanchez-comparece-antes-de-su-discurso-en-naciones-unidas.html"
     },
     {
-      "titular": "El atlas más completo de la corteza prefrontal muestra que el cerebro madura a los 24 años",
+      "titular": "«Estamos al mando de Venezuela»: las maniobras de EE.UU. contra el regreso de Machado",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-24T00:36:25+02:00",
-      "enlace": "https://www.abc.es/ciencia/cerebro-termina-madurar-anos-20260922170022-nt.html"
+      "fecha": "2026-09-24T03:20:18+02:00",
+      "enlace": "https://www.abc.es/internacional/mano-negra-trump-frena-vuelta-maria-corina-20260923012253-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -42,24 +42,22 @@
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
     },
     {
-      "titular": "«Maricarmen o el cuento de la izquierda y el lobo»",
+      "titular": "Moncloa trabaja para que Delcy Rodríguez acuda a la Cumbre Iberoamericana de Madrid",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-23T23:50:35+02:00",
-      "enlace": "https://www.abc.es/espana/maricarmen-cuento-izquierda-lobo-20260923195205-nt.html"
+      "fecha": "2026-09-24T03:19:52+02:00",
+      "enlace": "https://www.abc.es/espana/sanchezdelcy-saludo-sorpresivo-compromiso-venezuela-20260924012009-nt.html"
     },
     {
-      "titular": "El Supremo confirma 4 años de cárcel para Santi Mina por abuso sexual",
+      "titular": "El desahucio de Maricarmen desde el interior de su casa",
       "medios": [
-        "El País",
-        "La Vanguardia",
-        "ABC"
+        "El País"
       ],
-      "consenso": 3,
-      "fecha": "2026-09-23T20:14:01+02:00",
-      "enlace": "https://www.abc.es/deportes/futbol/supremo-confirma-anos-carcel-santi-mina-abuso-20260923164619-nt.html"
+      "consenso": 1,
+      "fecha": "2026-09-23T14:21:49+02:00",
+      "enlace": "https://elpais.com/espana/madrid/2026-09-23/el-desahucio-de-maricarmen-desde-el-interior-de-su-casa.html"
     },
     {
       "titular": "Maricarmen, desahuciada a los 87 años de la que ha sido su casa durante siete décadas en Madrid",
@@ -77,7 +75,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 0,
+    "antiguedad_minima_min": 14,
     "detalle": [
       {
         "medio": "RTVE",
@@ -85,7 +83,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2256500,
+        "antiguedad_min": 2256629,
         "descartados_por_gancho": 0
       },
       {
@@ -100,10 +98,10 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 154,
+        "items": 155,
         "error": null,
-        "antiguedad_min": 0,
-        "descartados_por_gancho": 4
+        "antiguedad_min": 39,
+        "descartados_por_gancho": 3
       },
       {
         "medio": "La Vanguardia",
@@ -111,7 +109,7 @@
         "ok": true,
         "items": 134,
         "error": null,
-        "antiguedad_min": 55,
+        "antiguedad_min": 161,
         "descartados_por_gancho": 7
       },
       {
@@ -120,7 +118,7 @@
         "ok": true,
         "items": 24,
         "error": null,
-        "antiguedad_min": 49,
+        "antiguedad_min": 14,
         "descartados_por_gancho": 1
       }
     ]
