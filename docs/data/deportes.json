@@ -1,17 +1,36 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "portadas",
-  "generado": "2026-09-24T09:02:38+02:00",
+  "modo": "ultimas",
+  "generado": "2026-09-24T14:48:45+02:00",
   "titulares": [
     {
-      "titular": "Usain Bolt: “Quería ser leyenda y lo conseguí”",
+      "titular": "La OMS confirma cuánto deporte semanal deben hacer todas las personas",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
+      "fecha": "2026-09-24T14:14:20+02:00",
+      "enlace": "https://www.mundodeportivo.com/running/20260924/1004230794/oms-establece-personas-ejercicio-dos-dias-semana-obtener-beneficios-sobre-salud-dct.html"
+    },
+    {
+      "titular": "Abogado laboralista: \"Si os surrogan en vuestro puesto de trabajo, la nueva empresa tiene que respetar todos vuestros derechos\"",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-24T14:08:48+02:00",
+      "enlace": "https://www.mundodeportivo.com/actualidad/20260924/1004230789/juanma-lorente-abogado-laboralista-dct.html"
+    },
+    {
+      "titular": "La vergüenza de Ferran en El Hormiguero",
+      "medios": [
+        "Marca",
+        "Mundo Deportivo"
+      ],
+      "consenso": 2,
       "fecha": "2026-09-24T07:00:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/running/20260924/1004230588/usain-bolt-queria-leyenda-consegui.html"
+      "enlace": "https://www.mundodeportivo.com/opinion/20260924/1004230626/vergueenza-ferran-hormiguero.html"
     },
     {
       "titular": "'De repente', Sergio Ramos aparece por la sede de Ferrari",
@@ -23,49 +42,31 @@
       "enlace": "https://www.marca.com/coches-y-motos/coches/2026/09/22/repente-sergio-ramos-aparece-sede-ferrari.html"
     },
     {
-      "titular": "Muchos nervios en el Real Madrid: Florentino Pérez, cuestionado",
+      "titular": "Oficial: Los 8 elegidos en categoría femenina y masculina para representar a España en el Mundial de Qatar",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-24T08:01:32+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260924/1004230672/nervios-real-madrid-florentino-cuestionado-internamente.html"
+      "fecha": "2026-09-24T14:07:28+02:00",
+      "enlace": "https://www.mundodeportivo.com/padel/mas-padel/20260924/1004230786/oficial-8-elegidos-categoria-femenina-masculina-representar-espana-mundial-qatar.html"
     },
     {
-      "titular": "Recuperar al soldado Thiago Pitarch",
-      "medios": [
-        "Marca"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-22T11:09:51+02:00",
-      "enlace": "https://www.marca.com/futbol/real-madrid/2026/09/22/recuperar-soldado-thiago-pitarch.html"
-    },
-    {
-      "titular": "El que más y el que menos corre",
+      "titular": "Ya es oficial: Alaba se marcha a Italia",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-24T07:00:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/opinion/20260924/1004230567/mas-corre.html"
+      "fecha": "2026-09-24T14:06:32+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/oficial/20260924/1004230791/oficial-alaba-marcha-italia.html"
     },
     {
-      "titular": "FIFA abre dos escuelas de fútbol en Cisjordania",
-      "medios": [
-        "Marca"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-22T11:07:58+02:00",
-      "enlace": "https://www.marca.com/futbol/2026/09/22/fifa-abre-dos-escuelas-futbol-cisjordania.html"
-    },
-    {
-      "titular": "5-2: Estreno con goleada del Barça campeón",
+      "titular": "\"El Elche no va a tener problemas para ir escalando\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-23T22:49:50+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260923/1004230632/estreno-grande-barca-campeon.html"
+      "fecha": "2026-09-24T14:04:27+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/elche-cf/20260924/1004230787/elche-no-problemas-escalando.html"
     }
   ],
   "salud": {
@@ -75,7 +76,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 8,
+    "antiguedad_minima_min": 34,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +84,7 @@
         "ok": true,
         "items": 61,
         "error": null,
-        "antiguedad_min": 2750,
+        "antiguedad_min": 3096,
         "descartados_por_gancho": 7
       },
       {
@@ -99,10 +100,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 134,
+        "items": 133,
         "error": null,
-        "antiguedad_min": 8,
-        "descartados_por_gancho": 6
+        "antiguedad_min": 34,
+        "descartados_por_gancho": 8
       },
       {
         "medio": "Sport",

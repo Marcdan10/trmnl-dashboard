@@ -1,9 +1,63 @@
 {
   "pantalla": "generales",
   "titulo": "Titulares",
-  "modo": "portadas",
-  "generado": "2026-09-24T09:02:33+02:00",
+  "modo": "ultimas",
+  "generado": "2026-09-24T14:48:40+02:00",
   "titulares": [
+    {
+      "titular": "Meta regatea la mala prensa de las “gafas de pervertido” lanzando un modelo sin cámaras",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-24T14:36:28+02:00",
+      "enlace": "https://elpais.com/tecnologia/2026-09-24/meta-regatea-la-mala-prensa-de-las-gafas-de-pervertido-lanzando-un-modelo-sin-camaras.html"
+    },
+    {
+      "titular": "Las menores sufren una de cada tres violaciones en España",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-24T14:31:42+02:00",
+      "enlace": "https://elpais.com/sociedad/2026-09-24/las-menores-sufren-en-espana-una-de-cada-tres-violaciones.html"
+    },
+    {
+      "titular": "Feijóo reclama el IVA cero para los alimentos básicos: «Aquí no hay quien viva»",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-24T14:25:58+02:00",
+      "enlace": "https://www.abc.es/espana/castilla-la-mancha/toledo/feijoo-viva-acusa-sanchez-caja-inflacion-20260924132532-nt.html"
+    },
+    {
+      "titular": "Junts aprovecha el desahucio de Maricarmen para volver a sentar al PSOE a negociar el decreto de vivienda",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-24T14:17:58+02:00",
+      "enlace": "https://www.abc.es/espana/psoe-junts-vuelven-negociar-sacar-decreto-vivienda-20260924135139-nt.html"
+    },
+    {
+      "titular": "'Sants', la película por la que Victoria Luengo recupera su diente roto para hacer de ladrona",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-24T14:05:06+02:00",
+      "enlace": "https://www.lavanguardia.com/cultura/20260924/11642879/sants-pelicula-victoria-luengo-recupera-diente-roto-ladrona.html"
+    },
+    {
+      "titular": "Descubierta la escuela donde Aristóteles dio clase a Alejandro Magno hace 2.300 años",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-24T14:04:26+02:00",
+      "enlace": "https://www.lavanguardia.com/cultura/20260924/11643038/arqueologos-descubren-norte-grecia-escuela-aristoteles-dio-clase-alejandro-magno-mas-2-300-anos.html"
+    },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
       "medios": [
@@ -12,61 +66,6 @@
       "consenso": 1,
       "fecha": "2022-06-10T01:05:00+02:00",
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
-    },
-    {
-      "titular": "Sánchez carga contra Ayuso y Almeida por la “tragedia social” del desahucio de Maricarmen: “Están más preocupados en comprar aticazos”",
-      "medios": [
-        "El País",
-        "La Vanguardia"
-      ],
-      "consenso": 2,
-      "fecha": "2026-09-23T21:47:53+02:00",
-      "enlace": "https://elpais.com/espana/2026-09-23/pedro-sanchez-comparece-antes-de-su-discurso-en-naciones-unidas.html"
-    },
-    {
-      "titular": "El 'milagro' del cura que convirtió botellas en ladrillos",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-24T08:46:30+02:00",
-      "enlace": "https://www.abc.es/cultura/milagro-cura-convirtio-botellas-ladrillos-20260923011745-nt.html"
-    },
-    {
-      "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
-      "medios": [
-        "RTVE"
-      ],
-      "consenso": 1,
-      "fecha": "2022-06-10T00:03:00+02:00",
-      "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
-    },
-    {
-      "titular": "Sánchez no admite errores sobre Ceuta ante la ONU y proclama: «Saldremos más fuertes»",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-24T08:41:36+02:00",
-      "enlace": "https://www.abc.es/espana/sanchez-atribuye-crisis-ceuta-desigualdad-desesperacion-desinformacion-20260924025352-nt.html"
-    },
-    {
-      "titular": "Maricarmen, de 87 años, pasa su primera noche sin casa en el hospital acompañada de su primo Vicente y con un cuadro de agotamiento severo",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-24T08:22:35+02:00",
-      "enlace": "https://elpais.com/espana/madrid/2026-09-24/maricarmen-de-87-anos-pasa-su-primera-noche-sin-casa-en-el-hospital-acompanada-de-su-primo-vicente-y-con-un-cuadro-de-agotamiento-severo.html"
-    },
-    {
-      "titular": "Activados dos cazas españoles en Rumanía ante una alerta real de drones rusos",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-24T07:19:44+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20260924/11642794/activados-dos-cazas-espanoles-desplegados-rumania-alerta-drones-rusos.html"
     }
   ],
   "salud": {
@@ -75,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 16,
+    "antiguedad_minima_min": 12,
     "detalle": [
       {
         "medio": "RTVE",
@@ -83,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2256957,
+        "antiguedad_min": 2257303,
         "descartados_por_gancho": 0
       },
       {
@@ -98,28 +97,28 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 144,
+        "items": 150,
         "error": null,
-        "antiguedad_min": 36,
-        "descartados_por_gancho": 8
+        "antiguedad_min": 12,
+        "descartados_por_gancho": 6
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 115,
+        "items": 122,
         "error": null,
-        "antiguedad_min": 67,
+        "antiguedad_min": 43,
         "descartados_por_gancho": 13
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 25,
+        "items": 24,
         "error": null,
-        "antiguedad_min": 16,
-        "descartados_por_gancho": 0
+        "antiguedad_min": 22,
+        "descartados_por_gancho": 1
       }
     ]
   }
