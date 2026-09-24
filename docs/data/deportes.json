@@ -1,36 +1,17 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "ultimas",
-  "generado": "2026-09-24T23:01:25+02:00",
+  "modo": "portadas",
+  "generado": "2026-09-25T01:56:07+02:00",
   "titulares": [
     {
-      "titular": "Exhibición memorable de Benjamín Noval, también oro mundial júnior en la prueba en línea",
+      "titular": "89-82: El Barça tira de paciencia y fe para imponerse al Efes",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-24T22:54:42+02:00",
-      "enlace": "https://www.mundodeportivo.com/ciclismo/20260924/1004230982/exhibicion-memorable-benjamin-noval-oro-mundial-junior-prueba-linea.html"
-    },
-    {
-      "titular": "Ella es Inés de Ramón, la pareja de Brad Pitt, 29 años menor que el actor",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-24T22:52:36+02:00",
-      "enlace": "https://www.mundodeportivo.com/elotromundo/gente/20260924/1004230978/ines-ramon-pareja-brad-pitt-29-anos-menor-actor-galeria-dct.html"
-    },
-    {
-      "titular": "La vergüenza de Ferran en El Hormiguero",
-      "medios": [
-        "Marca",
-        "Mundo Deportivo"
-      ],
-      "consenso": 2,
-      "fecha": "2026-09-24T07:00:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/opinion/20260924/1004230626/vergueenza-ferran-hormiguero.html"
+      "fecha": "2026-09-24T22:40:15+02:00",
+      "enlace": "https://www.mundodeportivo.com/baloncesto/euroliga/20260924/1004230910/brca-efes.html"
     },
     {
       "titular": "'De repente', Sergio Ramos aparece por la sede de Ferrari",
@@ -42,31 +23,49 @@
       "enlace": "https://www.marca.com/coches-y-motos/coches/2026/09/22/repente-sergio-ramos-aparece-sede-ferrari.html"
     },
     {
-      "titular": "89-106: Vezenkov impone la ley del campeón de Europa en Vitoria",
+      "titular": "El 1x1 del Barça ante el Anadolu Efes",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-24T22:52:15+02:00",
-      "enlace": "https://www.mundodeportivo.com/baloncesto/euroliga/20260924/1004230979/89-106-vezenkov-impone-ley-campeon-europa-vitoria.html"
+      "fecha": "2026-09-24T23:07:22+02:00",
+      "enlace": "https://www.mundodeportivo.com/baloncesto/euroliga/20260924/1004230985/1x1-barca-anadolu-efes.html"
     },
     {
-      "titular": "1-1: El hijo de Van Bommel y Gakpo evitan la derrota de Xavi ante Klopp",
+      "titular": "Recuperar al soldado Thiago Pitarch",
       "medios": [
-        "Mundo Deportivo"
+        "Marca"
       ],
       "consenso": 1,
-      "fecha": "2026-09-24T22:50:17+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/uefa-nations-league/20260924/1004230950/xavi-klopp.html"
+      "fecha": "2026-09-22T11:09:51+02:00",
+      "enlace": "https://www.marca.com/futbol/real-madrid/2026/09/22/recuperar-soldado-thiago-pitarch.html"
     },
     {
-      "titular": "Pedro Martínez, sobre la jugada decisiva ante el Dubai: \"Fue terrible\"",
+      "titular": "Sekulic: \"Tocará superar muchos momentos duros\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-24T22:45:25+02:00",
-      "enlace": "https://www.mundodeportivo.com/baloncesto/euroliga/20260924/1004230970/pedro-martinez-jugada-decisiva-dubai-terrible.html"
+      "fecha": "2026-09-24T23:16:45+02:00",
+      "enlace": "https://www.mundodeportivo.com/baloncesto/euroliga/20260924/1004230987/sekulic-tocara-superar-momentos-duros.html"
+    },
+    {
+      "titular": "FIFA abre dos escuelas de fútbol en Cisjordania",
+      "medios": [
+        "Marca"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-22T11:07:58+02:00",
+      "enlace": "https://www.marca.com/futbol/2026/09/22/fifa-abre-dos-escuelas-futbol-cisjordania.html"
+    },
+    {
+      "titular": "Exhibición de Benjamín Noval, también oro mundial júnior en la prueba en línea",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-24T22:54:42+02:00",
+      "enlace": "https://www.mundodeportivo.com/ciclismo/20260924/1004230982/exhibicion-memorable-benjamin-noval-oro-mundial-junior-prueba-linea.html"
     }
   ],
   "salud": {
@@ -76,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 6,
+    "antiguedad_minima_min": 104,
     "detalle": [
       {
         "medio": "Marca",
@@ -84,7 +83,7 @@
         "ok": true,
         "items": 61,
         "error": null,
-        "antiguedad_min": 3589,
+        "antiguedad_min": 3763,
         "descartados_por_gancho": 7
       },
       {
@@ -100,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 131,
+        "items": 137,
         "error": null,
-        "antiguedad_min": 6,
-        "descartados_por_gancho": 7
+        "antiguedad_min": 104,
+        "descartados_por_gancho": 5
       },
       {
         "medio": "Sport",

@@ -1,8 +1,8 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "ultimas",
-  "generado": "2026-09-24T23:01:30+02:00",
+  "modo": "portadas",
+  "generado": "2026-09-25T01:56:12+02:00",
   "titulares": [
     {
       "titular": "El Informe ‘Timer’ identifica tres dimensiones que condicionan el uso de RWE en España",
@@ -14,24 +14,6 @@
       "enlace": "https://diariofarma.com/2026/09/24/el-informe-timer-identifica-tres-dimensiones-que-condicionan-el-uso-de-rwe-en-espana"
     },
     {
-      "titular": "Galicia eleva a 280.000 los actos médicos suspendidos por la huelga del Estatuto Marco",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-24T18:58:57+02:00",
-      "enlace": "https://www.redaccionmedica.com/autonomias/galicia/20260924/galicia-eleva-los-actos-medicos-suspendidos-por-la-huelga-del-estatuto-marco/353816_0.html"
-    },
-    {
-      "titular": "Mónica García no se planteó \"en ningún momento\" postularse a dirigir la OMS",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-24T18:28:20+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20260924/monica-garcia-no-se-planteo-en-ningun-momento-postularse-dirigir-la-oms/353795_0.html"
-    },
-    {
       "titular": "Euskadi actualiza la Guía Farmacoterapéutica para reforzar el uso seguro de los medicamentos en las residencias de mayores",
       "medios": [
         "El Global"
@@ -39,6 +21,15 @@
       "consenso": 1,
       "fecha": "2026-09-24T17:04:05+02:00",
       "enlace": "https://elglobalfarma.com/politica/euskadi-actualiza-guia-farmacoterapeutica-reforzar-medicamentos-residencias-mayores/"
+    },
+    {
+      "titular": "María Neira: \"Dirigir la OMS es una responsabilidad enorme; pero sé hacer el trabajo al que me presento\"",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-24T15:07:07+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/internacional/20260924/maria-neira-dirigir-la-oms-es-una-responsabilidad-enorme-pero-se-hacer-el-trabajo-al-que-me-presento/353751_0.html"
     },
     {
       "titular": "Sanidad actualiza los anexos del Fondo de Cohesión Sanitaria con 11 nuevos procesos CSUR",
@@ -66,6 +57,16 @@
       "consenso": 1,
       "fecha": "2026-09-24T18:23:22+02:00",
       "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20260924/neira-la-voz-de-las-profesionales-sanitarias-que-se-dejan-piel-por-salud-global/315123_0.html"
+    },
+    {
+      "titular": "Países Bajos frena la adaptación de la Directiva de Aguas Residuales mientras espera el dictamen del TJUE",
+      "medios": [
+        "Diariofarma",
+        "El Global"
+      ],
+      "consenso": 2,
+      "fecha": "2026-09-24T10:10:31+02:00",
+      "enlace": "https://elglobalfarma.com/politica/paises-bajos-frena-obligaciones-rap-directiva-aguas-residuales-dictamen-tjue/"
     }
   ],
   "salud": {
@@ -76,7 +77,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 236,
+    "antiguedad_minima_min": 410,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +85,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 236,
+        "antiguedad_min": 410,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +94,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 357,
+        "antiguedad_min": 532,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +103,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 242,
+        "antiguedad_min": 417,
         "descartados_por_gancho": 0
       },
       {

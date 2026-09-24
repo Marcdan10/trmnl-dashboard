@@ -1,44 +1,26 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "ultimas",
-  "generado": "2026-09-24T23:01:24+02:00",
+  "modo": "portadas",
+  "generado": "2026-09-25T01:56:06+02:00",
   "titulares": [
     {
-      "titular": "Zanini se acerca a los 100 millones de ventas y dispara el beneficio",
+      "titular": "Los combustibles, en máximos anuales, redoblan la presión al Gobierno por las ayudas",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-24T21:24:30+02:00",
-      "enlace": "https://www.expansion.com/catalunya/2026/09/24/6ab5778d468aeb97628b459d.html"
+      "fecha": "2026-09-24T23:31:51+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/09/24/6ab56c94e5fdea1d7b8b4573.html"
     },
     {
-      "titular": "Plantan a Netanyahu durante su discurso en la Asamblea General de la ONU",
+      "titular": "Telefónica e Indra se alían en Defensa para satélites",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-24T21:01:41+02:00",
-      "enlace": "https://www.expansion.com/economia/politica/2026/09/24/6ab57393e5fdeaa4538b458a.html"
-    },
-    {
-      "titular": "H&M gana 784 millones en nueve meses, un 14,6% más",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-24T19:16:43+02:00",
-      "enlace": "https://www.expansion.com/empresas/distribucion/2026/09/24/6ab55af5468aeb6f128b4572.html"
-    },
-    {
-      "titular": "La OPV de Airtel Money muestra una vía para el mercado londinense recupere su atractivo",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-24T19:04:09+02:00",
-      "enlace": "https://www.expansion.com/economia/financial-times/2026/09/24/6ab551a6e5fdeafd468b459c.html"
+      "fecha": "2026-09-25T00:22:42+02:00",
+      "enlace": "https://www.expansion.com/empresas/telecomunicaciones/2026/09/24/6ab4f4bbe5fdeab9768b458e.html"
     },
     {
       "titular": "EQT encarga a JPMorgan la venta de Parques Reunidos por más de 1.700 millones",
@@ -50,22 +32,40 @@
       "enlace": "https://www.expansion.com/empresas/fusiones-y-adquisiciones/2026/09/24/6ab554bf468aebf41b8b4591.html"
     },
     {
-      "titular": "El taxi le gana la batalla a Cabify y le arrebata el contrato para el transporte de RTVE",
+      "titular": "Jubilación demorada: un 4% más de pensión o 12.000 euros por cada año",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-24T18:07:46+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/09/24/6ab54acce5fdeacf638b458a.html"
+      "fecha": "2026-09-24T23:33:23+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/09/24/6ab53ffce5fdea21078b4583.html"
     },
     {
-      "titular": "Trump y Xi prometen \"colaboración\" en IA, comercio y trabajar en un \"futuro mejor\"",
+      "titular": "Santander reclama a la UE acabar con la discriminación a los bancos globales",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-24T18:04:41+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/09/24/6ab548bce5fdea255a8b4581.html"
+      "fecha": "2026-09-24T23:33:46+02:00",
+      "enlace": "https://www.expansion.com/empresas/banca/2026/09/24/6ab57d7e468aebf6158b4586.html"
+    },
+    {
+      "titular": "Hasta dónde llegará el bono de EEUU y cuánto drena a la Bolsa europea",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-24T23:36:08+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/09/24/6ab53e15e5fdea967d8b457d.html"
+    },
+    {
+      "titular": "Dos valores españoles que suben más del 20% en septiembre",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-24T23:37:06+02:00",
+      "enlace": "https://www.expansion.com/inversion/2026/09/24/6ab566a4e5fdea064c8b4591.html"
     }
   ],
   "salud": {
@@ -78,16 +78,16 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 96,
+    "antiguedad_minima_min": 84,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 78,
+        "items": 75,
         "error": null,
-        "antiguedad_min": 96,
-        "descartados_por_gancho": 0
+        "antiguedad_min": 84,
+        "descartados_por_gancho": 1
       },
       {
         "medio": "Cinco Días",
