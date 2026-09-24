@@ -2,16 +2,16 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-09-24T03:34:33+02:00",
+  "generado": "2026-09-24T09:02:38+02:00",
   "titulares": [
     {
-      "titular": "Estreno con goleada del Barça campeón",
+      "titular": "Usain Bolt: “Quería ser leyenda y lo conseguí”",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-23T22:49:50+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260923/1004230632/estreno-grande-barca-campeon.html"
+      "fecha": "2026-09-24T07:00:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/running/20260924/1004230588/usain-bolt-queria-leyenda-consegui.html"
     },
     {
       "titular": "'De repente', Sergio Ramos aparece por la sede de Ferrari",
@@ -23,13 +23,13 @@
       "enlace": "https://www.marca.com/coches-y-motos/coches/2026/09/22/repente-sergio-ramos-aparece-sede-ferrari.html"
     },
     {
-      "titular": "Rodri tiene claro que las acusaciones de corrupción arbitral del Madrid \"hacen daño al fútbol\"",
+      "titular": "Muchos nervios en el Real Madrid: Florentino Pérez, cuestionado",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-23T21:04:57+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260923/1004230608/rodri-claro-acusaciones-corrupcion-arbitral-madrid-dano-futbol.html"
+      "fecha": "2026-09-24T08:01:32+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20260924/1004230672/nervios-real-madrid-florentino-cuestionado-internamente.html"
     },
     {
       "titular": "Recuperar al soldado Thiago Pitarch",
@@ -41,13 +41,13 @@
       "enlace": "https://www.marca.com/futbol/real-madrid/2026/09/22/recuperar-soldado-thiago-pitarch.html"
     },
     {
-      "titular": "¿Por qué Hansi Flick no apareció en la foto ayer con el resto de entrenadores?",
+      "titular": "El que más y el que menos corre",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-23T10:34:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260923/1004230340/hansi-flick-no-aparecio-foto-ayer-resto-entrenadores.html"
+      "fecha": "2026-09-24T07:00:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/opinion/20260924/1004230567/mas-corre.html"
     },
     {
       "titular": "FIFA abre dos escuelas de fútbol en Cisjordania",
@@ -59,13 +59,13 @@
       "enlace": "https://www.marca.com/futbol/2026/09/22/fifa-abre-dos-escuelas-futbol-cisjordania.html"
     },
     {
-      "titular": "Sesión conjunta con el Barça Atlètic",
+      "titular": "5-2: Estreno con goleada del Barça campeón",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-23T14:48:20+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260923/1004230451/sesion-conjunta-barca-atletic.html"
+      "fecha": "2026-09-23T22:49:50+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260923/1004230632/estreno-grande-barca-campeon.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 196,
+    "antiguedad_minima_min": 8,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 61,
         "error": null,
-        "antiguedad_min": 2422,
+        "antiguedad_min": 2750,
         "descartados_por_gancho": 7
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 142,
+        "items": 134,
         "error": null,
-        "antiguedad_min": 196,
-        "descartados_por_gancho": 4
+        "antiguedad_min": 8,
+        "descartados_por_gancho": 6
       },
       {
         "medio": "Sport",

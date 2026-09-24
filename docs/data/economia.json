@@ -2,7 +2,7 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "portadas",
-  "generado": "2026-09-24T03:34:31+02:00",
+  "generado": "2026-09-24T09:02:37+02:00",
   "titulares": [
     {
       "titular": "Las fotovoltaicas negocian con el Gobierno una moratoria de deuda",
@@ -14,13 +14,13 @@
       "enlace": "https://www.expansion.com/empresas/energia/2026/09/24/6ab44705468aeb8d218b458b.html"
     },
     {
-      "titular": "El Banco de España alerta: en 2028 harán falta un millón de viviendas",
+      "titular": "La Seguridad Social premia con un 25% extra de pensión a los jubilados que vuelvan a trabajar",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-23T21:56:41+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/09/23/6ab42eaae5fdea8d4b8b4578.html"
+      "fecha": "2026-09-24T00:01:35+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/09/23/6ab40381468aeb8d218b4571.html"
     },
     {
       "titular": "Los siete gigantes chinos del motor compiten en España",
@@ -32,22 +32,22 @@
       "enlace": "https://www.expansion.com/empresas/motor/2026/09/24/6ab42743468aebe3278b459f.html"
     },
     {
-      "titular": "¿Qué esperar de la cumbre entre Xi y Trump?",
+      "titular": "La Primera de Expansión sobre BYD, Geely, OpenAI, Meta, Softbank, Sánchez, McDonald's y Xi Jinping",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-24T00:28:03+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/09/24/6ab430bde5fdea7b538b458c.html"
+      "fecha": "2026-09-24T07:19:55+02:00",
+      "enlace": "https://www.expansion.com/podcasts/la-primera-de-expansion/2026/09/24/6ab4ae83468aeb3e0d8b4588.html"
     },
     {
-      "titular": "Sánchez oficializa su apoyo a De Cos en la carrera por presidir el BCE",
+      "titular": "El Banco de España alerta: en 2028 harán falta un millón de viviendas",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-23T22:46:27+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/09/23/6ab43a91e5fdea7b538b4594.html"
+      "fecha": "2026-09-23T21:56:41+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/09/23/6ab42eaae5fdea8d4b8b4578.html"
     },
     {
       "titular": "Por qué puede sufrir un susto la Bolsa de Wall Street hasta final de año",
@@ -59,13 +59,13 @@
       "enlace": "https://www.expansion.com/mercados/2026/09/23/6ab3fa97e5fdea5d368b457f.html"
     },
     {
-      "titular": "EEUU vs China: ¿por qué la IA enfrenta a las dos superpotencias?",
+      "titular": "Un agente de IA de OpenAI hackeó la web del servicio de salud de Australia",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-24T00:08:47+02:00",
-      "enlace": "https://www.expansion.com/tecnologia/innovacion/2026/09/24/6ab3ee74468aebe14f8b457b.html"
+      "fecha": "2026-09-24T08:47:03+02:00",
+      "enlace": "https://www.expansion.com/tecnologia/companias/2026/09/24/6ab4c6d8468aeb346b8b458c.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 176,
+    "antiguedad_minima_min": 12,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 75,
+        "items": 76,
         "error": null,
-        "antiguedad_min": 176,
+        "antiguedad_min": 12,
         "descartados_por_gancho": 0
       },
       {

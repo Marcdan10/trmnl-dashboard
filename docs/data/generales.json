@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-09-24T03:34:28+02:00",
+  "generado": "2026-09-24T09:02:33+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -24,13 +24,13 @@
       "enlace": "https://elpais.com/espana/2026-09-23/pedro-sanchez-comparece-antes-de-su-discurso-en-naciones-unidas.html"
     },
     {
-      "titular": "«Estamos al mando de Venezuela»: las maniobras de EE.UU. contra el regreso de Machado",
+      "titular": "El 'milagro' del cura que convirtió botellas en ladrillos",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-24T03:20:18+02:00",
-      "enlace": "https://www.abc.es/internacional/mano-negra-trump-frena-vuelta-maria-corina-20260923012253-nt.html"
+      "fecha": "2026-09-24T08:46:30+02:00",
+      "enlace": "https://www.abc.es/cultura/milagro-cura-convirtio-botellas-ladrillos-20260923011745-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -42,31 +42,31 @@
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
     },
     {
-      "titular": "Moncloa trabaja para que Delcy Rodríguez acuda a la Cumbre Iberoamericana de Madrid",
+      "titular": "Sánchez no admite errores sobre Ceuta ante la ONU y proclama: «Saldremos más fuertes»",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-24T03:19:52+02:00",
-      "enlace": "https://www.abc.es/espana/sanchezdelcy-saludo-sorpresivo-compromiso-venezuela-20260924012009-nt.html"
+      "fecha": "2026-09-24T08:41:36+02:00",
+      "enlace": "https://www.abc.es/espana/sanchez-atribuye-crisis-ceuta-desigualdad-desesperacion-desinformacion-20260924025352-nt.html"
     },
     {
-      "titular": "El desahucio de Maricarmen desde el interior de su casa",
+      "titular": "Maricarmen, de 87 años, pasa su primera noche sin casa en el hospital acompañada de su primo Vicente y con un cuadro de agotamiento severo",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-23T14:21:49+02:00",
-      "enlace": "https://elpais.com/espana/madrid/2026-09-23/el-desahucio-de-maricarmen-desde-el-interior-de-su-casa.html"
+      "fecha": "2026-09-24T08:22:35+02:00",
+      "enlace": "https://elpais.com/espana/madrid/2026-09-24/maricarmen-de-87-anos-pasa-su-primera-noche-sin-casa-en-el-hospital-acompanada-de-su-primo-vicente-y-con-un-cuadro-de-agotamiento-severo.html"
     },
     {
-      "titular": "Maricarmen, desahuciada a los 87 años de la que ha sido su casa durante siete décadas en Madrid",
+      "titular": "Activados dos cazas españoles en Rumanía ante una alerta real de drones rusos",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-23T08:14:09+02:00",
-      "enlace": "https://www.lavanguardia.com/local/madrid/20260923/11641895/maricarmen-mujer-87-anos-retiro-enfrenta-cuarto-intento-desahucio.html"
+      "fecha": "2026-09-24T07:19:44+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20260924/11642794/activados-dos-cazas-espanoles-desplegados-rumania-alerta-drones-rusos.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 14,
+    "antiguedad_minima_min": 16,
     "detalle": [
       {
         "medio": "RTVE",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2256629,
+        "antiguedad_min": 2256957,
         "descartados_por_gancho": 0
       },
       {
@@ -98,28 +98,28 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 155,
+        "items": 144,
         "error": null,
-        "antiguedad_min": 39,
-        "descartados_por_gancho": 3
+        "antiguedad_min": 36,
+        "descartados_por_gancho": 8
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 134,
+        "items": 115,
         "error": null,
-        "antiguedad_min": 161,
-        "descartados_por_gancho": 7
+        "antiguedad_min": 67,
+        "descartados_por_gancho": 13
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 24,
+        "items": 25,
         "error": null,
-        "antiguedad_min": 14,
-        "descartados_por_gancho": 1
+        "antiguedad_min": 16,
+        "descartados_por_gancho": 0
       }
     ]
   }
