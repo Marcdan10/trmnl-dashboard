@@ -1,71 +1,71 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "ultimas",
-  "generado": "2026-09-25T21:04:34+02:00",
+  "modo": "portadas",
+  "generado": "2026-09-26T00:34:54+02:00",
   "titulares": [
     {
-      "titular": "Barcelona sube dos puntos la ocupación hotelera en verano y roza el 89%",
+      "titular": "Las operaciones en Bolsa catapultan los ingresos de la banca de inversión",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-25T20:33:04+02:00",
-      "enlace": "https://www.expansion.com/catalunya/2026/09/25/6ab6be57468aeb75778b4582.html"
+      "fecha": "2026-09-25T23:10:20+02:00",
+      "enlace": "https://www.expansion.com/empresas/banca/2026/09/25/6aabd262468aebf1328b459b.html"
     },
     {
-      "titular": "Accenture estrena en Barcelona un centro especializado en IA agéntica",
+      "titular": "MyInvestor, Trade Republic o Revolut: ¿cuál elegir para invertir en fondos?",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-25T20:32:03+02:00",
-      "enlace": "https://www.expansion.com/catalunya/2026/09/25/6ab6be1ee5fdea11788b458e.html"
+      "fecha": "2026-09-25T23:09:29+02:00",
+      "enlace": "https://www.expansion.com/mercados/fondos/2026/09/25/6ab6d50e468aebbb028b4578.html"
     },
     {
-      "titular": "Condenan al Sabadell a pagar 6,5 millones a la Fundación Mediterráneo",
+      "titular": "15 valores sólidos para batir a los bonos",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-25T19:55:38+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/09/25/6ab6b592468aeb117c8b459b.html"
+      "fecha": "2026-09-25T23:09:01+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/09/25/6ab6ad1fe5fdea056a8b457e.html"
     },
     {
-      "titular": "Bill Gates dice que una IA en malas manos podría causar hasta 1.000 millones de muertos",
+      "titular": "Tesla, Rivian y Li Auto llevan a otra dimensión los sueldos del automóvil",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-25T19:23:23+02:00",
-      "enlace": "https://www.expansion.com/tecnologia/companias/2026/09/25/6ab6ae05468aeb21508b4579.html"
+      "fecha": "2026-09-25T23:08:29+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/09/25/6ab6d85de5fdea435d8b459b.html"
     },
     {
-      "titular": "La Audiencia confirma la absolución de la cúpula de Urbas",
+      "titular": "Hogares y empresas lideran la 'fiebre' por las Letras del Tesoro",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-25T19:03:39+02:00",
-      "enlace": "https://www.expansion.com/empresas/construccion-servicios/2026/09/25/6ab6a969e5fdea76788b4587.html"
+      "fecha": "2026-09-25T23:07:56+02:00",
+      "enlace": "https://www.expansion.com/ahorro/2026/09/25/6ab6afed468aeb121e8b4577.html"
     },
     {
-      "titular": "Defensa elige a EM&E, Sener, Santa Bárbara y Ficosa para desarrollar drones terrestres",
+      "titular": "Los banqueros secretos de las estrellas de cine",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-25T18:33:44+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/09/25/6ab6a25f468aeb49508b457a.html"
+      "fecha": "2026-09-25T23:11:06+02:00",
+      "enlace": "https://www.expansion.com/directivos/2026/09/25/6ab6db98468aeb19178b459f.html"
     },
     {
-      "titular": "Recta final para Veolia en el concurso del agua de Barcelona",
+      "titular": "Así gestiona su fortuna Jensen Huang",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-25T18:20:54+02:00",
-      "enlace": "https://www.expansion.com/catalunya/2026/09/25/6ab69f5fe5fdea0a158b456d.html"
+      "fecha": "2026-09-25T23:11:42+02:00",
+      "enlace": "https://www.expansion.com/empresas/telecomunicaciones/2026/09/25/6ab6d541e5fdeaf8098b45a1.html"
     }
   ],
   "salud": {
@@ -78,16 +78,16 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 31,
+    "antiguedad_minima_min": 35,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 84,
+        "items": 82,
         "error": null,
-        "antiguedad_min": 31,
-        "descartados_por_gancho": 1
+        "antiguedad_min": 35,
+        "descartados_por_gancho": 2
       },
       {
         "medio": "Cinco Días",

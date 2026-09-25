@@ -1,27 +1,9 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "ultimas",
-  "generado": "2026-09-25T21:04:44+02:00",
+  "modo": "portadas",
+  "generado": "2026-09-26T00:35:03+02:00",
   "titulares": [
-    {
-      "titular": "Belén Garijo, CEO de Sanofi: \"El peso del médico es cada vez mayor en la industria farmacéutica\"",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-25T20:53:15+02:00",
-      "enlace": "https://www.redaccionmedica.com/empresas/industria-farmaceutica/20260925/belen-garijo-ceo-de-sanofi-el-peso-del-medico-es-cada-vez-mayor-en-la-industria-farmaceutica/353975_0.html"
-    },
-    {
-      "titular": "La sanidad británica estrena una prueba genómica rápida que diagnostica tumores cerebrales en días",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-25T19:19:41+02:00",
-      "enlace": "https://www.redaccionmedica.com/innovacion/avances/20260925/la-sanidad-britanica-estrena-una-prueba-genomica-rapida-que-diagnostica-tumores-cerebrales-en-dias/353981_0.html"
-    },
     {
       "titular": "Hefame propone extender la defensa del modelo farmacéutico español al ámbito europeo",
       "medios": [
@@ -30,15 +12,6 @@
       "consenso": 1,
       "fecha": "2026-09-25T14:36:44+02:00",
       "enlace": "https://diariofarma.com/2026/09/25/hefame-propone-extender-la-defensa-del-modelo-farmaceutico-espanol-al-ambito-europeo"
-    },
-    {
-      "titular": "Sigre reivindica la contribución de los farmacéuticos a la salud de las personas y del planeta",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-25T14:29:10+02:00",
-      "enlace": "https://diariofarma.com/2026/09/25/sigre-reivindica-la-contribucion-de-los-farmaceuticos-a-la-salud-de-las-personas-y-del-planeta"
     },
     {
       "titular": "Cuenten con la farmacia, cuenten con el farmacéutico",
@@ -50,6 +23,24 @@
       "enlace": "https://elglobalfarma.com/opinion/editorial/cuenten-farmacia-cuenten-farmaceutico/"
     },
     {
+      "titular": "Rafael Ojeda (SMA): “Conocemos perfectamente las consecuencias de una huelga médica para la población y las lamentamos profundamente”",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-25T14:17:03+02:00",
+      "enlace": "https://www.redaccionmedica.com/autonomias/andalucia/20260925/rafael-ojeda-sma-conocemos-perfectamente-las-consecuencias-de-una-huelga-medica-para-la-poblacion-lamentamos-profundamente/353902_0.html"
+    },
+    {
+      "titular": "Sigre reivindica la contribución de los farmacéuticos a la salud de las personas y del planeta",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-25T14:29:10+02:00",
+      "enlace": "https://diariofarma.com/2026/09/25/sigre-reivindica-la-contribucion-de-los-farmaceuticos-a-la-salud-de-las-personas-y-del-planeta"
+    },
+    {
       "titular": "El Gregorio Marañón lleva por primera vez en España la atención farmacéutica presencial al domicilio de adultos",
       "medios": [
         "El Global"
@@ -59,13 +50,22 @@
       "enlace": "https://elglobalfarma.com/politica/gregorio-maranon-lleva-primera-vez-espana-atencion-farmaceutica-domicilio-adultos/"
     },
     {
-      "titular": "La industria farmacéutica plantea a Europa destinar más gasto público a la investigación",
+      "titular": "Pacientes con alzhéimer temen que la huelga médica \"multiplique\" las ya demoradas listas de espera: \"El enfermo va a llegar mucho peor\"",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-09-25T18:32:46+02:00",
-      "enlace": "https://www.redaccionmedica.com/empresas/20260925/la-industria-farmaceutica-plantea-europa-destinar-mas-gasto-publico-la-investigacion/353978_0.html"
+      "fecha": "2026-09-25T15:47:27+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20260925/pacientes-con-alzheimer-temen-que-la-huelga-medica-multiplique-las-ya-demoradas-listas-de-espera-el-enfermo-va-llegar-mucho-peor/353950_0.html"
+    },
+    {
+      "titular": "Comunidad Valenciana supera los 1.000 proyectos en investigación del cáncer",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-25T13:17:56+02:00",
+      "enlace": "https://diariofarma.com/2026/09/25/comunidad-valenciana-supera-los-1-000-proyectos-en-investigacion-del-cancer"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 11,
+    "antiguedad_minima_min": 221,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 387,
+        "antiguedad_min": 598,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 456,
+        "antiguedad_min": 666,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 11,
+        "antiguedad_min": 221,
         "descartados_por_gancho": 0
       },
       {

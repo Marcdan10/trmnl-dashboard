@@ -1,26 +1,17 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "ultimas",
-  "generado": "2026-09-25T21:04:37+02:00",
+  "modo": "portadas",
+  "generado": "2026-09-26T00:34:56+02:00",
   "titulares": [
     {
-      "titular": "Besiktas - Valencia Basket, en directo",
+      "titular": "Zidane, sobre la lesión en la rodilla de Mbappé: \"No está bien. Va a tener que volver a Madrid\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-25T20:59:01+02:00",
-      "enlace": "https://www.mundodeportivo.com/baloncesto/euroliga/20260925/1004230841/besiktas-valencia-basket-directo-euroliga-baloncesto.html"
-    },
-    {
-      "titular": "(1-1) Barça - Jimbee Cartagena, en directo",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-25T20:54:52+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260925/1004230843/barca-jimbee-cartagena-directo-liga-prime-futsal-torneo-apertura-futbol-sala.html"
+      "fecha": "2026-09-25T23:32:25+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/uefa-nations-league/20260925/1004231363/zidane-sobre-lesion-rodilla-mbappe.html"
     },
     {
       "titular": "Dabiz Muñoz, chef, desvela el secreto de la puntilla crujiente: \"Freír un huevo se puede hacer muy bien o muy mal\"",
@@ -32,41 +23,50 @@
       "enlace": "https://www.marca.com/tiramillas/gastronomia/2026/09/25/dabiz-munoz-chef-sobre-secreto-puntilla-crujiente-freir-huevo-bien-mal.html"
     },
     {
-      "titular": "Muere a los 93 años Bob Pettit, primer MVP de la NBA",
+      "titular": "Parte médico oficial de Kylian Mbappé tras lesionarse con Francia",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-26T00:02:51+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/uefa-nations-league/20260926/1004231367/parte-medico-oficial-kylian-mbappe.html"
+    },
+    {
+      "titular": "Septiembre, el mes en el que más parejas rompen: el mes donde el amor llega a su fin",
+      "medios": [
+        "Marca"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-25T07:18:04+02:00",
+      "enlace": "https://www.marca.com/bienestar/psicologia-sexo/2026/09/25/septiembre-mes-parejas-rompen-ocurre-durante-verano-amor-llegue.html"
+    },
+    {
+      "titular": "Chema Andrés: \"Me halaga que me comparen con Rodri, pero yo quiero ser Chema Andrés\"",
+      "medios": [
+        "Marca"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-25T07:16:20+02:00",
+      "enlace": "https://www.marca.com/futbol/seleccion/2026/09/25/chema-andres-me-halaga-me-comparen-rodri-quiero-chema-andres.html"
+    },
+    {
+      "titular": "(0-1): Mbappé da el primer triunfo a Zidane y después se lesiona",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-25T22:46:25+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/uefa-nations-league/20260925/1004231341/mbappe-da-primer-triunfo-zidane-lesiona.html"
+    },
+    {
+      "titular": "Fermín: \"Valoraba mucho incluso poder caminar\"",
       "medios": [
         "Marca",
         "Mundo Deportivo"
       ],
       "consenso": 2,
-      "fecha": "2026-09-25T07:18:48+02:00",
-      "enlace": "https://www.mundodeportivo.com/baloncesto/nba/20260925/1004231010/muere-93-anos-bob-pettit-primer-mvp-nba.html"
-    },
-    {
-      "titular": "Héctor Álvarez, otro español con múltiples podios en el Mundial",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-25T20:51:46+02:00",
-      "enlace": "https://www.mundodeportivo.com/ciclismo/20260925/1004231293/hector-alvarez-espanol-multiples-podios-mundial.html"
-    },
-    {
-      "titular": "Insólito: la FA obliga a repetir un partido entero por un error arbitral",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-25T20:44:55+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/internacional/20260925/1004231295/insolito-fa-obliga-repetir-partido-entero-error-arbitral.html"
-    },
-    {
-      "titular": "Rafa Jódar vs Alexander Bublik, Laver Cup en directo",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-25T20:35:53+02:00",
-      "enlace": "https://www.mundodeportivo.com/tenis/20260925/1004230992/laver-cup-2026-directo-sigue-partidos-alcaraz-rafa-jodar-resto-torneo-europa-vs-resto-mundo.html"
+      "fecha": "2026-09-24T19:32:06+02:00",
+      "enlace": "https://www.marca.com/futbol/barcelona/2026/09/24/fermin-valoraba-caminar.html"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 5,
+    "antiguedad_minima_min": 13,
     "detalle": [
       {
         "medio": "Marca",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 65,
         "error": null,
-        "antiguedad_min": 815,
+        "antiguedad_min": 1025,
         "descartados_por_gancho": 5
       },
       {
@@ -100,10 +100,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 139,
+        "items": 141,
         "error": null,
-        "antiguedad_min": 5,
-        "descartados_por_gancho": 7
+        "antiguedad_min": 13,
+        "descartados_por_gancho": 6
       },
       {
         "medio": "Sport",
