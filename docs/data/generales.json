@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-09-25T01:56:03+02:00",
+  "generado": "2026-09-25T05:15:54+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -32,13 +32,13 @@
       "enlace": "https://www.lavanguardia.com/politica/20260925/11642978/junts-pide-rebajas-fiscales-aprobar-decreto-antidesahucios-caso-maricarmen.html"
     },
     {
-      "titular": "Un español a lo Pogacar: Benjamín Noval también gana el Mundial júnior de ruta",
+      "titular": "Madrid lanza la mayor oferta de empleo público de la historia",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-25T01:42:06+02:00",
-      "enlace": "https://www.abc.es/deportes/ciclismo/prodigio-espanol-pogacar-benjamin-noval-gana-mundial-20260924225438-nt.html"
+      "fecha": "2026-09-25T05:00:14+02:00",
+      "enlace": "https://www.abc.es/espana/madrid/madrid-lanza-mayor-oferta-empleo-publico-historia-20260925050000-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 13,
+    "antiguedad_minima_min": 15,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2257971,
+        "antiguedad_min": 2258170,
         "descartados_por_gancho": 0
       },
       {
@@ -97,9 +97,9 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 143,
+        "items": 144,
         "error": null,
-        "antiguedad_min": 111,
+        "antiguedad_min": 124,
         "descartados_por_gancho": 6
       },
       {
@@ -108,17 +108,17 @@
         "ok": true,
         "items": 133,
         "error": null,
-        "antiguedad_min": 86,
+        "antiguedad_min": 285,
         "descartados_por_gancho": 10
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 24,
+        "items": 23,
         "error": null,
-        "antiguedad_min": 13,
-        "descartados_por_gancho": 1
+        "antiguedad_min": 15,
+        "descartados_por_gancho": 2
       }
     ]
   }
