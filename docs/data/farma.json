@@ -2,25 +2,25 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "ultimas",
-  "generado": "2026-09-25T16:30:59+02:00",
+  "generado": "2026-09-25T21:04:44+02:00",
   "titulares": [
     {
-      "titular": "Pacientes con alzhéimer temen que la huelga médica \"multiplique\" las ya demoradas listas de espera: \"El enfermo va a llegar mucho peor\"",
+      "titular": "Belén Garijo, CEO de Sanofi: \"El peso del médico es cada vez mayor en la industria farmacéutica\"",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-09-25T15:47:27+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20260925/pacientes-con-alzheimer-temen-que-la-huelga-medica-multiplique-las-ya-demoradas-listas-de-espera-el-enfermo-va-llegar-mucho-peor/353950_0.html"
+      "fecha": "2026-09-25T20:53:15+02:00",
+      "enlace": "https://www.redaccionmedica.com/empresas/industria-farmaceutica/20260925/belen-garijo-ceo-de-sanofi-el-peso-del-medico-es-cada-vez-mayor-en-la-industria-farmaceutica/353975_0.html"
     },
     {
-      "titular": "La OMC convoca elecciones para cubrir las vacantes de la Vicepresidencia Segunda y la Vicesecretaría General",
+      "titular": "La sanidad británica estrena una prueba genómica rápida que diagnostica tumores cerebrales en días",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-09-25T15:31:00+02:00",
-      "enlace": "https://www.redaccionmedica.com/profesionales/medicina/20260925/la-omc-convoca-elecciones-para-cubrir-las-vacantes-de-la-vicepresidencia-segunda-vicesecretaria-general/353961_0.html"
+      "fecha": "2026-09-25T19:19:41+02:00",
+      "enlace": "https://www.redaccionmedica.com/innovacion/avances/20260925/la-sanidad-britanica-estrena-una-prueba-genomica-rapida-que-diagnostica-tumores-cerebrales-en-dias/353981_0.html"
     },
     {
       "titular": "Hefame propone extender la defensa del modelo farmacéutico español al ámbito europeo",
@@ -59,13 +59,13 @@
       "enlace": "https://elglobalfarma.com/politica/gregorio-maranon-lleva-primera-vez-espana-atencion-farmaceutica-domicilio-adultos/"
     },
     {
-      "titular": "La 'cesión definitiva' del tratamiento peligra en el RD de medicamentos veterinarios aunque la Aemps afirma que no la vetará",
+      "titular": "La industria farmacéutica plantea a Europa destinar más gasto público a la investigación",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-09-25T15:01:57+02:00",
-      "enlace": "https://www.redaccionmedica.com/salud-animal/20260925/la-cesion-definitiva-del-tratamiento-peligra-en-el-rd-de-medicamentos-veterinarios-aunque-la-aemps-afirma-que-no-vetara/353677_0.html"
+      "fecha": "2026-09-25T18:32:46+02:00",
+      "enlace": "https://www.redaccionmedica.com/empresas/20260925/la-industria-farmaceutica-plantea-europa-destinar-mas-gasto-publico-la-investigacion/353978_0.html"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 43,
+    "antiguedad_minima_min": 11,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 114,
+        "antiguedad_min": 387,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 182,
+        "antiguedad_min": 456,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 43,
+        "antiguedad_min": 11,
         "descartados_por_gancho": 0
       },
       {

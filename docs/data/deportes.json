@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-09-25T16:30:46+02:00",
+  "generado": "2026-09-25T21:04:37+02:00",
   "titulares": [
     {
-      "titular": "Experto en plagas, avisa: \"No sirve ningún remedio casero para exterminar las termitas\"",
+      "titular": "Besiktas - Valencia Basket, en directo",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-25T16:21:55+02:00",
-      "enlace": "https://www.mundodeportivo.com/economia-hogar/20260925/1004230999/ruben-bueno-especialista-plagas-avisa-no-sirve-ningun-remedio-casero-exterminar-termitas-smd.html"
+      "fecha": "2026-09-25T20:59:01+02:00",
+      "enlace": "https://www.mundodeportivo.com/baloncesto/euroliga/20260925/1004230841/besiktas-valencia-basket-directo-euroliga-baloncesto.html"
     },
     {
-      "titular": "Òscar Grau, ocho goles sin fallo en el Pinheiros-Barça: \"Tenemos que salir sin excusas\"",
+      "titular": "(1-1) Barça - Jimbee Cartagena, en directo",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-25T16:16:13+02:00",
-      "enlace": "https://www.mundodeportivo.com/balonmano/20260925/1004231210/oscar-grau-autor-ocho-goles-fallo-pinheiros-barca-salir-excusas.html"
+      "fecha": "2026-09-25T20:54:52+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260925/1004230843/barca-jimbee-cartagena-directo-liga-prime-futsal-torneo-apertura-futbol-sala.html"
     },
     {
       "titular": "Dabiz Muñoz, chef, desvela el secreto de la puntilla crujiente: \"Freír un huevo se puede hacer muy bien o muy mal\"",
@@ -42,31 +42,31 @@
       "enlace": "https://www.mundodeportivo.com/baloncesto/nba/20260925/1004231010/muere-93-anos-bob-pettit-primer-mvp-nba.html"
     },
     {
-      "titular": "Trabajos ya en marcha para ampliar el número de butacas VIP",
+      "titular": "Héctor Álvarez, otro español con múltiples podios en el Mundial",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-25T16:08:26+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260925/1004230176/barca-estudia-ampliar-numero-butacas-vip.html"
+      "fecha": "2026-09-25T20:51:46+02:00",
+      "enlace": "https://www.mundodeportivo.com/ciclismo/20260925/1004231293/hector-alvarez-espanol-multiples-podios-mundial.html"
     },
     {
-      "titular": "Ancelotti exprime a Raphinha: único atacante que completó los 90'",
+      "titular": "Insólito: la FA obliga a repetir un partido entero por un error arbitral",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-25T16:05:25+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/america/20260925/1004231190/ancelotti-exprime-raphinha-unico-atacante-brasileno-completo-90.html"
+      "fecha": "2026-09-25T20:44:55+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/internacional/20260925/1004231295/insolito-fa-obliga-repetir-partido-entero-error-arbitral.html"
     },
     {
-      "titular": "The Ocean Race calienta motores preparando la salida de 2027",
+      "titular": "Rafa Jódar vs Alexander Bublik, Laver Cup en directo",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-25T16:03:16+02:00",
-      "enlace": "https://www.mundodeportivo.com/vela/20260925/1004231213/the-ocean-race-calienta-motores-preparando-salida-2027.html"
+      "fecha": "2026-09-25T20:35:53+02:00",
+      "enlace": "https://www.mundodeportivo.com/tenis/20260925/1004230992/laver-cup-2026-directo-sigue-partidos-alcaraz-rafa-jodar-resto-torneo-europa-vs-resto-mundo.html"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 8,
+    "antiguedad_minima_min": 5,
     "detalle": [
       {
         "medio": "Marca",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 65,
         "error": null,
-        "antiguedad_min": 541,
+        "antiguedad_min": 815,
         "descartados_por_gancho": 5
       },
       {
@@ -100,10 +100,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 137,
+        "items": 139,
         "error": null,
-        "antiguedad_min": 8,
-        "descartados_por_gancho": 5
+        "antiguedad_min": 5,
+        "descartados_por_gancho": 7
       },
       {
         "medio": "Sport",
