@@ -1,71 +1,71 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "portadas",
-  "generado": "2026-09-25T10:59:13+02:00",
+  "modo": "ultimas",
+  "generado": "2026-09-25T16:30:45+02:00",
   "titulares": [
     {
-      "titular": "Los Benetton se refuerzan en España al invertir en la vasca Celesa",
+      "titular": "Por qué el 'canciller en la reserva' de Alemania aguarda el momento",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-25T09:59:19+02:00",
-      "enlace": "https://www.expansion.com/empresas/industria/2026/09/25/6ab627d9e5fdeab5698b457a.html"
+      "fecha": "2026-09-25T15:55:26+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/09/25/6ab67b7ce5fdeadc338b457f.html"
     },
     {
-      "titular": "Jubilación demorada: un 4% más de pensión o 12.000 euros por cada año",
+      "titular": "Iberia sumará ocho aviones más para el corto radio tras el acuerdo con los pilotos",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-24T23:33:23+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/09/24/6ab53ffce5fdea21078b4583.html"
+      "fecha": "2026-09-25T15:49:12+02:00",
+      "enlace": "https://www.expansion.com/empresas/transporte/2026/09/25/6ab6747f468aeb0e3c8b4580.html"
     },
     {
-      "titular": "EQT encarga a JPMorgan la venta de Parques Reunidos por más de 1.700 millones",
+      "titular": "Los nuevos jubilados ya cobran 1.826 euros al mes: más que seis de diez trabajadores en España",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-24T18:59:20+02:00",
-      "enlace": "https://www.expansion.com/empresas/fusiones-y-adquisiciones/2026/09/24/6ab554bf468aebf41b8b4591.html"
+      "fecha": "2026-09-25T15:38:17+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/09/25/6ab663c0e5fdeacf508b4578.html"
     },
     {
-      "titular": "La Primera de Expansión sobre Parques Reunidos, jubilación, Soitec, Geely, Musk, Altman y Xi Jinping",
+      "titular": "Abanca compra la sede del British Council para convertirla en su edificio insignia en Madrid",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-25T07:29:28+02:00",
-      "enlace": "https://www.expansion.com/podcasts/la-primera-de-expansion/2026/09/25/6ab5fdc7468aeb33748b458f.html"
+      "fecha": "2026-09-25T15:23:34+02:00",
+      "enlace": "https://www.expansion.com/empresas/banca/2026/09/25/6ab67574468aeb86758b4575.html"
     },
     {
-      "titular": "¿Cómo podemos abordar los riesgos financieros de la IA?",
+      "titular": "Bimba y Lola incorpora a la consejera de Telefónica Mónica Rey Amado para impulsar su transformación tecnológica",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-25T09:52:36+02:00",
-      "enlace": "https://www.expansion.com/economia/financial-times/2026/09/25/6ab62726e5fdea653c8b459d.html"
+      "fecha": "2026-09-25T15:11:45+02:00",
+      "enlace": "https://www.expansion.com/empresas/distribucion/2026/09/25/6ab670fa468aeb07378b457c.html"
     },
     {
-      "titular": "Hasta dónde llegará el bono de EEUU y cuánto drena a la Bolsa europea",
+      "titular": "Bruselas presiona a Donald Trump para mantener un 'flujo libre' de diésel",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-24T23:36:08+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/09/24/6ab53e15e5fdea967d8b457d.html"
+      "fecha": "2026-09-25T14:35:08+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/09/25/6ab66a74e5fdeaba0f8b4576.html"
     },
     {
-      "titular": "La familia detrás de un gigante de hospitales en España",
+      "titular": "Los escándalos de corrupción opacan el discurso de Sánchez en Harvard sobre regular la IA",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-24T23:41:03+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/09/24/6ab5117ee5fdea653c8b4573.html"
+      "fecha": "2026-09-25T14:29:49+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/09/25/6ab66937468aeb4a1c8b459c.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 20,
+    "antiguedad_minima_min": 35,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 75,
+        "items": 82,
         "error": null,
-        "antiguedad_min": 20,
+        "antiguedad_min": 35,
         "descartados_por_gancho": 1
       },
       {
