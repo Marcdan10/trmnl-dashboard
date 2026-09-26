@@ -2,61 +2,61 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-09-26T20:54:57+02:00",
+  "generado": "2026-09-26T23:44:56+02:00",
   "titulares": [
     {
-      "titular": "Inglaterra - España en directo | Lamine adelanta a España en el minuto 2",
+      "titular": "Manifestación contra los desahucios, en directo | Los manifestantes por la crisis de la vivienda acampan en Sol y animan a la gente a que se una",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-26T20:52:19+02:00",
-      "enlace": "https://elpais.com/deportes/futbol/2026-09-26/inglaterra-espana-en-directo-el-partido-de-la-uefa-nations-league-en-vivo.html"
-    },
-    {
-      "titular": "Manifestación contra los desahucios, en directo | Decenas de miles de manifestantes recorren Madrid en protesta por la crisis de la vivienda: “Nos quedamos sin casa”",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-26T20:47:15+02:00",
+      "fecha": "2026-09-26T23:36:09+02:00",
       "enlace": "https://elpais.com/espana/2026-09-26/manifestacion-contra-los-desahucios-en-directo.html"
     },
     {
-      "titular": "Tóibin, Verdaguer, Tristán e Isolda, Baltasar, Marçal... y rap en La Setmana",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-26T20:39:53+02:00",
-      "enlace": "https://www.lavanguardia.com/cultura/20260926/11644634/toibin-verdaguer-tristan-isolda-baltasar-marcal-rap-setmana.html"
-    },
-    {
-      "titular": "Vollering reina en Montreal y la desgracia se ceba con Paula Blasi",
+      "titular": "Acampada en Sol contra las políticas de vivienda: «¿Dónde está el Gobierno progresista?»",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-26T20:34:32+02:00",
-      "enlace": "https://www.abc.es/deportes/ciclismo/vollering-reina-montreal-desgracia-ceba-paula-blasi-20260926201855-nt.html"
+      "fecha": "2026-09-26T23:27:51+02:00",
+      "enlace": "https://www.abc.es/espana/madrid/grupos-radicales-acampan-puerta-sol-tras-manifestacion-20260926213121-nt.html"
     },
     {
-      "titular": "Manifestación contra el desahucio de Maricarmen y en protesta por la crisis de la vivienda, en imágenes",
+      "titular": "España asalta Wembley con remontada ante Inglaterra",
       "medios": [
-        "ABC"
+        "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-26T20:20:50+02:00",
-      "enlace": "https://www.abc.es/espana/madrid/manifestacion-desahucio-maricarmen-protesta-crisis-vivienda-imagenes-20260926194423-ga.html"
+      "fecha": "2026-09-26T23:14:33+02:00",
+      "enlace": "https://elpais.com/deportes/futbol/2026-09-26/espana-asalta-wembley-con-remontada-ante-inglaterra.html"
     },
     {
-      "titular": "La Policía reanima a una menor tras sufrir una violación en el asentamiento del Trampolín",
+      "titular": "De Lamine Yamal a Anthony Gordon, un templo blaugrana",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-26T20:12:06+02:00",
-      "enlace": "https://www.lavanguardia.com/vida/20260926/11644623/policia-reanima-menor-sufrir-violacion-asentamiento-trampolin.html"
+      "fecha": "2026-09-26T23:10:12+02:00",
+      "enlace": "https://www.lavanguardia.com/deportes/20260926/11644706/lamine-yamal-anthony-gordon-templo-blaugrana.html"
+    },
+    {
+      "titular": "España impone su jerarquía en el templo de Wembley",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-26T23:02:39+02:00",
+      "enlace": "https://www.abc.es/deportes/futbol/espana-impone-jerarquia-templo-wembley-20260926224432-nt.html"
+    },
+    {
+      "titular": "España también profana Wembley en una noche de altibajos",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-26T22:42:06+02:00",
+      "enlace": "https://www.lavanguardia.com/deportes/20260926/11644700/espana-profana-wembley-noche-altibajos.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 2,
+    "antiguedad_minima_min": 8,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2260549,
+        "antiguedad_min": 2260719,
         "descartados_por_gancho": 0
       },
       {
@@ -97,28 +97,28 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 131,
+        "items": 132,
         "error": null,
-        "antiguedad_min": 2,
+        "antiguedad_min": 8,
         "descartados_por_gancho": 6
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 116,
+        "items": 118,
         "error": null,
-        "antiguedad_min": 15,
-        "descartados_por_gancho": 23
+        "antiguedad_min": 34,
+        "descartados_por_gancho": 24
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 25,
+        "items": 24,
         "error": null,
-        "antiguedad_min": 20,
-        "descartados_por_gancho": 0
+        "antiguedad_min": 17,
+        "descartados_por_gancho": 1
       }
     ]
   }
