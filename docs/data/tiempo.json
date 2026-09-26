@@ -1,39 +1,7 @@
 {
   "ciudad": "Barcelona",
-  "generado": "2026-09-26T11:37:36",
+  "generado": "2026-09-26T15:32:30",
   "horas": [
-    {
-      "hora": "12",
-      "temp": 26,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "nube"
-    },
-    {
-      "hora": "13",
-      "temp": 26,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "nube"
-    },
-    {
-      "hora": "14",
-      "temp": 26,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "nube"
-    },
-    {
-      "hora": "15",
-      "temp": 26,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "nube"
-    },
     {
       "hora": "16",
       "temp": 26,
@@ -97,6 +65,38 @@
       "mm": 0,
       "mostrar_prob": false,
       "icono": "luna"
+    },
+    {
+      "hora": "00",
+      "temp": 22,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "nube"
+    },
+    {
+      "hora": "01",
+      "temp": 21,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "nube"
+    },
+    {
+      "hora": "02",
+      "temp": 21,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "nube"
+    },
+    {
+      "hora": "03",
+      "temp": 21,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "luna"
     }
   ],
   "dias": [
@@ -114,7 +114,7 @@
       "etiqueta": "lun 28",
       "max": 25,
       "min": 21,
-      "prob": 47,
+      "prob": 40,
       "mm": 0.5,
       "mostrar_prob": true,
       "destacar": false,
@@ -124,7 +124,7 @@
       "etiqueta": "mar 29",
       "max": 23,
       "min": 22,
-      "prob": 95,
+      "prob": 83,
       "mm": 25.9,
       "mostrar_prob": true,
       "destacar": true,
@@ -134,7 +134,7 @@
       "etiqueta": "mié 30",
       "max": 26,
       "min": 20,
-      "prob": 30,
+      "prob": 27,
       "mm": 0,
       "mostrar_prob": true,
       "destacar": false,
@@ -164,7 +164,7 @@
       "etiqueta": "sáb 3",
       "max": 25,
       "min": 16,
-      "prob": 40,
+      "prob": 39,
       "mm": 0,
       "mostrar_prob": true,
       "destacar": false,
@@ -174,7 +174,7 @@
   "aviso": {
     "activo": true,
     "alcance": "semana",
-    "texto": "Lluvia prevista el mar 29 · 95%"
+    "texto": "Lluvia prevista el mar 29 · 83%"
   },
   "atribucion": "Open-Meteo (CC BY 4.0)"
 }

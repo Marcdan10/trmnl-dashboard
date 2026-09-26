@@ -2,62 +2,61 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-09-26T13:37:21+02:00",
+  "generado": "2026-09-26T17:32:16+02:00",
   "titulares": [
     {
-      "titular": "Florence Pugh, puro drama gótico en la presentación de ‘Al este del Edén’",
+      "titular": "Manifestación contra los desahucios, en directo | Maricarmen anima desde el hospital a acudir a la manifestación de esta tarde en Madrid",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-26T13:27:45+02:00",
-      "enlace": "https://elpais.com/smoda/famosos/2026-09-26/florence-pugh-puro-drama-gotico-en-la-presentacion-de-al-este-del-eden.html"
+      "fecha": "2026-09-26T17:18:42+02:00",
+      "enlace": "https://elpais.com/espana/2026-09-26/manifestacion-contra-los-desahucios-en-directo.html"
     },
     {
-      "titular": "Lotería Nacional: comprobar sorteo del sábado 26 de septiembre",
+      "titular": "El joven que recibió una brutal paliza en Tavernes de la Valldigna (Valencia), desde el hospital: “Fue una agresión racista”",
       "medios": [
-        "El País",
-        "La Vanguardia"
+        "El País"
       ],
-      "consenso": 2,
-      "fecha": "2026-09-26T13:22:01+02:00",
-      "enlace": "https://elpais.com/sorteos/2026-09-26/loteria-nacional-sorteo-del-sabado-26-de-septiembre.html"
+      "consenso": 1,
+      "fecha": "2026-09-26T17:15:32+02:00",
+      "enlace": "https://elpais.com/espana/comunidad-valenciana/2026-09-26/el-joven-que-recibio-una-brutal-paliza-en-tavernes-de-la-valldigna-valencia-desde-el-hospital-fue-una-agresion-racista.html"
     },
     {
-      "titular": "Muere el teclista de la banda alemana Das Ich durante un concierto en Granada",
+      "titular": "Danny Boyle desnuda las miserias del sensacionalismo en 'Ink': «El periodismo es uno de los pilares que sostiene nuestro mundo»",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-26T13:19:19+02:00",
-      "enlace": "https://www.abc.es/espana/andalucia/granada/muere-teclista-banda-alemana-das-ich-tras-20260926122823-nts.html"
+      "fecha": "2026-09-26T17:07:04+02:00",
+      "enlace": "https://www.abc.es/cultura/danny-boyle-desnuda-miserias-sensacionalismo-ink-periodismo-20260926164657-nt.html"
     },
     {
-      "titular": "Éric Vuillard: «La irreverencia ha desaparecido de nuestras sociedades»",
+      "titular": "Carlos Herrera, rotundo sobre Fran Rivera tras recibir las cabezas de toro de Paquirri",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-26T13:09:31+02:00",
-      "enlace": "https://www.abc.es/cultura/cultural/eric-vuillard-irreverencia-desaparecido-sociedades-20260925093705-nt.html"
+      "fecha": "2026-09-26T16:58:21+02:00",
+      "enlace": "https://www.abc.es/gente/carlos-herrera-rotundo-sobre-fran-rivera-tras-20260926165821-nt.html"
     },
     {
-      "titular": "La solución para los meses con menos luz: lámparas LED que iluminan bien y consumen poco",
+      "titular": "Confirmado un caso grave de virus del Nilo en un vecino de Peñaflor, Sevilla",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-26T13:00:00+02:00",
-      "enlace": "https://www.lavanguardia.com/comprar/hogar-cocina/20260926/11643618/solucion-meses-luz-lamparas-led-iluminan-consumen-poco-mkt-alie.html"
+      "fecha": "2026-09-26T16:10:29+02:00",
+      "enlace": "https://www.lavanguardia.com/local/andalucia/20260926/11644530/confirmado-caso-grave-virus-nilo-vecino-penaflor-sevilla.html"
     },
     {
-      "titular": "Sumar amenaza con plantar el martes el Consejo de Ministros si no se aprueba el decreto de vivienda",
+      "titular": "Dime qué zapatillas Merrell llevas y te diré qué clase de deportista eres: 8 modelos para hombre y mujer que lo petan en deportes outdoor",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-26T12:57:51+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20260926/11644497/sumar-amenaza-plantar-martes-consejo-ministros-aprueba-decreto-vivienda.html"
+      "fecha": "2026-09-26T16:00:00+02:00",
+      "enlace": "https://www.lavanguardia.com/comprar/moda-belleza/20260926/11643634/zapatillas-merrell-deportes-outdoor-hombre-mujer-mkt-alie.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -75,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 9,
+    "antiguedad_minima_min": 13,
     "detalle": [
       {
         "medio": "RTVE",
@@ -83,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2260112,
+        "antiguedad_min": 2260347,
         "descartados_por_gancho": 0
       },
       {
@@ -98,28 +97,28 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 138,
+        "items": 131,
         "error": null,
-        "antiguedad_min": 9,
+        "antiguedad_min": 13,
         "descartados_por_gancho": 6
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 111,
+        "items": 112,
         "error": null,
-        "antiguedad_min": 37,
+        "antiguedad_min": 81,
         "descartados_por_gancho": 22
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 24,
+        "items": 25,
         "error": null,
-        "antiguedad_min": 18,
-        "descartados_por_gancho": 1
+        "antiguedad_min": 25,
+        "descartados_por_gancho": 0
       }
     ]
   }
