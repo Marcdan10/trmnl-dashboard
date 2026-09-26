@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-09-26T00:34:52+02:00",
+  "generado": "2026-09-26T03:06:26+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -32,23 +32,13 @@
       "enlace": "https://www.lavanguardia.com/politica/20260925/11643825/gobierno-confia-aprobar-martes-medidas-potentes-anti-desahucios-expropiaciones.html"
     },
     {
-      "titular": "Jódar se estrena a lo grande en la Laver Cup y tumba a Bublik",
+      "titular": "Drogas, robos y venta ambulante: 'los malos' de la playa del Trampolín de Ceuta",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-26T00:05:19+02:00",
-      "enlace": "https://www.abc.es/deportes/tenis/jodar-estrena-grande-laver-cup-tumba-bublik-20260925221540-nt.html"
-    },
-    {
-      "titular": "Maricarmen, desde el Gregorio Marañón: “No he logrado defender mi casa, pero sí he luchado para que los demás aprendan”",
-      "medios": [
-        "El País",
-        "La Vanguardia"
-      ],
-      "consenso": 2,
-      "fecha": "2026-09-25T11:10:59+02:00",
-      "enlace": "https://elpais.com/espana/madrid/2026-09-25/maricarmen-desde-el-gregorio-maranon-gracias-a-todos-los-que-han-estado-conmigo-para-defender-mi-casa.html"
+      "fecha": "2026-09-26T02:54:42+02:00",
+      "enlace": "https://www.abc.es/espana/drogas-robos-venta-ambulante-malos-playa-trampolin-20260925022143-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -60,13 +50,22 @@
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
     },
     {
-      "titular": "Desgravaciones fiscales y otras exigencias de Junts para aprobar el decreto de vivienda",
+      "titular": "Maricarmen, desde el Gregorio Marañón: “No he logrado defender mi casa, pero sí he luchado para que los demás aprendan”",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-25T11:10:59+02:00",
+      "enlace": "https://elpais.com/espana/madrid/2026-09-25/maricarmen-desde-el-gregorio-maranon-gracias-a-todos-los-que-han-estado-conmigo-para-defender-mi-casa.html"
+    },
+    {
+      "titular": "Maricarmen, ¿líder del nuevo 15-M?",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-25T10:52:09+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20260925/11643626/desgravaciones-fiscales-exigencias-junts-aprobar-decreto-vivienda.html"
+      "fecha": "2026-09-26T00:05:00+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20260926/11644074/maricarmen-lider-nuevo-15-m.html"
     }
   ],
   "salud": {
@@ -75,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 29,
+    "antiguedad_minima_min": 11,
     "detalle": [
       {
         "medio": "RTVE",
@@ -83,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2259329,
+        "antiguedad_min": 2259481,
         "descartados_por_gancho": 0
       },
       {
@@ -100,26 +99,26 @@
         "ok": true,
         "items": 139,
         "error": null,
-        "antiguedad_min": 63,
+        "antiguedad_min": 214,
         "descartados_por_gancho": 4
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 140,
+        "items": 129,
         "error": null,
-        "antiguedad_min": 29,
-        "descartados_por_gancho": 14
+        "antiguedad_min": 136,
+        "descartados_por_gancho": 12
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 25,
+        "items": 24,
         "error": null,
-        "antiguedad_min": 29,
-        "descartados_por_gancho": 0
+        "antiguedad_min": 11,
+        "descartados_por_gancho": 1
       }
     ]
   }
