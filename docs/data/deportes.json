@@ -2,16 +2,16 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-09-26T03:06:35+02:00",
+  "generado": "2026-09-26T08:18:53+02:00",
   "titulares": [
     {
-      "titular": "Zidane, sobre la lesión en la rodilla de Mbappé: \"No está bien. Va a tener que volver a Madrid\"",
+      "titular": "El mes de enero puede ser decisivo para Alejandro Balde",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-25T23:32:25+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/uefa-nations-league/20260925/1004231363/zidane-sobre-lesion-rodilla-mbappe.html"
+      "fecha": "2026-09-26T04:10:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260926/1004231358/mes-enero-decisivo-alejandro-balde.html"
     },
     {
       "titular": "Dabiz Muñoz, chef, desvela el secreto de la puntilla crujiente: \"Freír un huevo se puede hacer muy bien o muy mal\"",
@@ -50,13 +50,13 @@
       "enlace": "https://www.marca.com/futbol/seleccion/2026/09/25/chema-andres-me-halaga-me-comparen-rodri-quiero-chema-andres.html"
     },
     {
-      "titular": "(0-1): Mbappé da el primer triunfo a Zidane y después se lesiona",
+      "titular": "Zidane, sobre la lesión en la rodilla de Mbappé: \"No está bien. Va a tener que volver a Madrid\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-25T22:46:25+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/uefa-nations-league/20260925/1004231341/mbappe-da-primer-triunfo-zidane-lesiona.html"
+      "fecha": "2026-09-25T23:32:25+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/uefa-nations-league/20260925/1004231363/zidane-sobre-lesion-rodilla-mbappe.html"
     },
     {
       "titular": "Fermín: \"Valoraba mucho incluso poder caminar\"",
@@ -76,7 +76,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 137,
+    "antiguedad_minima_min": 68,
     "detalle": [
       {
         "medio": "Marca",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 65,
         "error": null,
-        "antiguedad_min": 1177,
+        "antiguedad_min": 1489,
         "descartados_por_gancho": 5
       },
       {
@@ -100,10 +100,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 141,
+        "items": 134,
         "error": null,
-        "antiguedad_min": 137,
-        "descartados_por_gancho": 6
+        "antiguedad_min": 68,
+        "descartados_por_gancho": 7
       },
       {
         "medio": "Sport",
