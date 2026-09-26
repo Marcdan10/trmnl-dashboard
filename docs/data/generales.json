@@ -2,61 +2,61 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-09-26T17:32:16+02:00",
+  "generado": "2026-09-26T20:54:57+02:00",
   "titulares": [
     {
-      "titular": "Manifestación contra los desahucios, en directo | Maricarmen anima desde el hospital a acudir a la manifestación de esta tarde en Madrid",
+      "titular": "Inglaterra - España en directo | Lamine adelanta a España en el minuto 2",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-26T17:18:42+02:00",
+      "fecha": "2026-09-26T20:52:19+02:00",
+      "enlace": "https://elpais.com/deportes/futbol/2026-09-26/inglaterra-espana-en-directo-el-partido-de-la-uefa-nations-league-en-vivo.html"
+    },
+    {
+      "titular": "Manifestación contra los desahucios, en directo | Decenas de miles de manifestantes recorren Madrid en protesta por la crisis de la vivienda: “Nos quedamos sin casa”",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-26T20:47:15+02:00",
       "enlace": "https://elpais.com/espana/2026-09-26/manifestacion-contra-los-desahucios-en-directo.html"
     },
     {
-      "titular": "El joven que recibió una brutal paliza en Tavernes de la Valldigna (Valencia), desde el hospital: “Fue una agresión racista”",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-26T17:15:32+02:00",
-      "enlace": "https://elpais.com/espana/comunidad-valenciana/2026-09-26/el-joven-que-recibio-una-brutal-paliza-en-tavernes-de-la-valldigna-valencia-desde-el-hospital-fue-una-agresion-racista.html"
-    },
-    {
-      "titular": "Danny Boyle desnuda las miserias del sensacionalismo en 'Ink': «El periodismo es uno de los pilares que sostiene nuestro mundo»",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-26T17:07:04+02:00",
-      "enlace": "https://www.abc.es/cultura/danny-boyle-desnuda-miserias-sensacionalismo-ink-periodismo-20260926164657-nt.html"
-    },
-    {
-      "titular": "Carlos Herrera, rotundo sobre Fran Rivera tras recibir las cabezas de toro de Paquirri",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-26T16:58:21+02:00",
-      "enlace": "https://www.abc.es/gente/carlos-herrera-rotundo-sobre-fran-rivera-tras-20260926165821-nt.html"
-    },
-    {
-      "titular": "Confirmado un caso grave de virus del Nilo en un vecino de Peñaflor, Sevilla",
+      "titular": "Tóibin, Verdaguer, Tristán e Isolda, Baltasar, Marçal... y rap en La Setmana",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-26T16:10:29+02:00",
-      "enlace": "https://www.lavanguardia.com/local/andalucia/20260926/11644530/confirmado-caso-grave-virus-nilo-vecino-penaflor-sevilla.html"
+      "fecha": "2026-09-26T20:39:53+02:00",
+      "enlace": "https://www.lavanguardia.com/cultura/20260926/11644634/toibin-verdaguer-tristan-isolda-baltasar-marcal-rap-setmana.html"
     },
     {
-      "titular": "Dime qué zapatillas Merrell llevas y te diré qué clase de deportista eres: 8 modelos para hombre y mujer que lo petan en deportes outdoor",
+      "titular": "Vollering reina en Montreal y la desgracia se ceba con Paula Blasi",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-26T20:34:32+02:00",
+      "enlace": "https://www.abc.es/deportes/ciclismo/vollering-reina-montreal-desgracia-ceba-paula-blasi-20260926201855-nt.html"
+    },
+    {
+      "titular": "Manifestación contra el desahucio de Maricarmen y en protesta por la crisis de la vivienda, en imágenes",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-26T20:20:50+02:00",
+      "enlace": "https://www.abc.es/espana/madrid/manifestacion-desahucio-maricarmen-protesta-crisis-vivienda-imagenes-20260926194423-ga.html"
+    },
+    {
+      "titular": "La Policía reanima a una menor tras sufrir una violación en el asentamiento del Trampolín",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-26T16:00:00+02:00",
-      "enlace": "https://www.lavanguardia.com/comprar/moda-belleza/20260926/11643634/zapatillas-merrell-deportes-outdoor-hombre-mujer-mkt-alie.html"
+      "fecha": "2026-09-26T20:12:06+02:00",
+      "enlace": "https://www.lavanguardia.com/vida/20260926/11644623/policia-reanima-menor-sufrir-violacion-asentamiento-trampolin.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 13,
+    "antiguedad_minima_min": 2,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2260347,
+        "antiguedad_min": 2260549,
         "descartados_por_gancho": 0
       },
       {
@@ -99,17 +99,17 @@
         "ok": true,
         "items": 131,
         "error": null,
-        "antiguedad_min": 13,
+        "antiguedad_min": 2,
         "descartados_por_gancho": 6
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 112,
+        "items": 116,
         "error": null,
-        "antiguedad_min": 81,
-        "descartados_por_gancho": 22
+        "antiguedad_min": 15,
+        "descartados_por_gancho": 23
       },
       {
         "medio": "ABC",
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 25,
+        "antiguedad_min": 20,
         "descartados_por_gancho": 0
       }
     ]
