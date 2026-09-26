@@ -1,9 +1,36 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "portadas",
-  "generado": "2026-09-26T08:18:57+02:00",
+  "modo": "ultimas",
+  "generado": "2026-09-26T13:37:35+02:00",
   "titulares": [
+    {
+      "titular": "Alerta alimentaria por presencia de cacahuete no declarado en una marca conocida de helados",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-26T13:31:47+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20260926/alerta-alimentaria-por-presencia-de-cacahuete-no-declarado-en-una-marca-conocida-helados/353988_0.html"
+    },
+    {
+      "titular": "Muere Aquilino Polaino-Lorente, psiquiatra y catedrático de Psicopatología",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-26T13:11:48+02:00",
+      "enlace": "https://www.redaccionmedica.com/profesionales/medicina/20260926/muere-aquilino-polaino-lorente-psiquiatra-catedratico-de-psicopatologia/353984_0.html"
+    },
+    {
+      "titular": "Castilla-La Mancha suma casi 5.000 envíos de medicación hospitalaria en proximidad",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-26T11:26:11+02:00",
+      "enlace": "https://diariofarma.com/2026/09/26/castilla-la-mancha-suma-casi-5-000-envios-de-medicacion-hospitalaria-en-proximidad"
+    },
     {
       "titular": "Hefame propone extender la defensa del modelo farmacéutico español al ámbito europeo",
       "medios": [
@@ -23,24 +50,6 @@
       "enlace": "https://elglobalfarma.com/opinion/editorial/cuenten-farmacia-cuenten-farmaceutico/"
     },
     {
-      "titular": "Rafael Ojeda (SMA): “Conocemos perfectamente las consecuencias de una huelga médica para la población y las lamentamos profundamente”",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-25T14:17:03+02:00",
-      "enlace": "https://www.redaccionmedica.com/autonomias/andalucia/20260925/rafael-ojeda-sma-conocemos-perfectamente-las-consecuencias-de-una-huelga-medica-para-la-poblacion-lamentamos-profundamente/353902_0.html"
-    },
-    {
-      "titular": "Sigre reivindica la contribución de los farmacéuticos a la salud de las personas y del planeta",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-25T14:29:10+02:00",
-      "enlace": "https://diariofarma.com/2026/09/25/sigre-reivindica-la-contribucion-de-los-farmaceuticos-a-la-salud-de-las-personas-y-del-planeta"
-    },
-    {
       "titular": "El Gregorio Marañón lleva por primera vez en España la atención farmacéutica presencial al domicilio de adultos",
       "medios": [
         "El Global"
@@ -50,22 +59,13 @@
       "enlace": "https://elglobalfarma.com/politica/gregorio-maranon-lleva-primera-vez-espana-atencion-farmaceutica-domicilio-adultos/"
     },
     {
-      "titular": "Pacientes con alzhéimer temen que la huelga médica \"multiplique\" las ya demoradas listas de espera: \"El enfermo va a llegar mucho peor\"",
+      "titular": "Siete de cada diez sanitarios tienen o han tenido más de un empleo a la vez",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-09-25T15:47:27+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20260925/pacientes-con-alzheimer-temen-que-la-huelga-medica-multiplique-las-ya-demoradas-listas-de-espera-el-enfermo-va-llegar-mucho-peor/353950_0.html"
-    },
-    {
-      "titular": "Comunidad Valenciana supera los 1.000 proyectos en investigación del cáncer",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-25T13:17:56+02:00",
-      "enlace": "https://diariofarma.com/2026/09/25/comunidad-valenciana-supera-los-1-000-proyectos-en-investigacion-del-cancer"
+      "fecha": "2026-09-26T12:19:24+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/empleo/20260926/siete-de-cada-diez-sanitarios-tienen-han-tenido-mas-un-empleo-la-vez/353707_0.html"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 685,
+    "antiguedad_minima_min": 5,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 1062,
+        "antiguedad_min": 131,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 1130,
+        "antiguedad_min": 1449,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 685,
+        "antiguedad_min": 5,
         "descartados_por_gancho": 0
       },
       {

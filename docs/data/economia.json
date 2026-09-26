@@ -1,71 +1,71 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "portadas",
-  "generado": "2026-09-26T08:18:52+02:00",
+  "modo": "ultimas",
+  "generado": "2026-09-26T13:37:25+02:00",
   "titulares": [
     {
-      "titular": "Las operaciones en Bolsa catapultan los ingresos de la banca de inversión",
+      "titular": "El Gobierno espera aprobar el decreto de vivienda el martes con el apoyo de Junts tras el desahucio de Maricarmen",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-25T23:10:20+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/09/25/6aabd262468aebf1328b459b.html"
+      "fecha": "2026-09-26T11:45:40+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/09/26/6ab79432e5fdea756d8b4597.html"
     },
     {
-      "titular": "MyInvestor, Trade Republic o Revolut: ¿cuál elegir para invertir en fondos?",
+      "titular": "El juez Peinado se jubila tras enviar a Begoña Gómez a juicio",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-25T23:09:29+02:00",
-      "enlace": "https://www.expansion.com/mercados/fondos/2026/09/25/6ab6d50e468aebbb028b4578.html"
+      "fecha": "2026-09-26T11:23:59+02:00",
+      "enlace": "https://www.expansion.com/economia/politica/2026/09/26/6ab788ab468aeb60118b45a8.html"
     },
     {
-      "titular": "15 valores sólidos para batir a los bonos",
+      "titular": "PP y Vox secundan hoy una marcha en Madrid que pide elecciones ya, apoyo a Ceuta y juzgar a Sánchez por traición",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-25T23:09:01+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/09/25/6ab6ad1fe5fdea056a8b457e.html"
+      "fecha": "2026-09-26T10:48:03+02:00",
+      "enlace": "https://www.expansion.com/economia/politica/2026/09/26/6ab78590e5fdeab64d8b45ac.html"
     },
     {
-      "titular": "Tesla, Rivian y Li Auto llevan a otra dimensión los sueldos del automóvil",
+      "titular": "La Unión Europea publica una nueva directiva contra el ecopostureo",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-25T23:08:29+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/09/25/6ab6d85de5fdea435d8b459b.html"
+      "fecha": "2026-09-26T10:26:21+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/09/26/6ab781abe5fdead0678b456d.html"
     },
     {
-      "titular": "Hogares y empresas lideran la 'fiebre' por las Letras del Tesoro",
+      "titular": "Trump y Xi culminan una cumbre con gran boato y escasos acuerdos",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-25T23:07:56+02:00",
-      "enlace": "https://www.expansion.com/ahorro/2026/09/25/6ab6afed468aeb121e8b4577.html"
+      "fecha": "2026-09-25T23:59:23+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/09/25/6ab6cc50468aeb984b8b4576.html"
     },
     {
-      "titular": "Los banqueros secretos de las estrellas de cine",
+      "titular": "Nueva York rebautiza la Calle 14 como 'Little Spain'",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-25T23:11:06+02:00",
-      "enlace": "https://www.expansion.com/directivos/2026/09/25/6ab6db98468aeb19178b459f.html"
+      "fecha": "2026-09-25T23:50:01+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/09/25/6ab6cd4b468aebdb238b457b.html"
     },
     {
-      "titular": "Así gestiona su fortuna Jensen Huang",
+      "titular": "Así es el nuevo Kymco Agility NX 125: la exitosa receta de siempre... con nuevos ingredientes",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-25T23:11:42+02:00",
-      "enlace": "https://www.expansion.com/empresas/telecomunicaciones/2026/09/25/6ab6d541e5fdeaf8098b45a1.html"
+      "fecha": "2026-09-25T23:36:14+02:00",
+      "enlace": "https://www.expansion.com/empresas/motor/2026/09/25/6ab6c749468aeb980e8b456d.html"
     }
   ],
   "salud": {
@@ -78,16 +78,16 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 499,
+    "antiguedad_minima_min": 111,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 82,
+        "items": 83,
         "error": null,
-        "antiguedad_min": 499,
-        "descartados_por_gancho": 2
+        "antiguedad_min": 111,
+        "descartados_por_gancho": 1
       },
       {
         "medio": "Cinco Días",

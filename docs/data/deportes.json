@@ -1,17 +1,26 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "portadas",
-  "generado": "2026-09-26T08:18:53+02:00",
+  "modo": "ultimas",
+  "generado": "2026-09-26T13:37:28+02:00",
   "titulares": [
     {
-      "titular": "El mes de enero puede ser decisivo para Alejandro Balde",
+      "titular": "Salah abandona la concentración de Egipto",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-26T04:10:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260926/1004231358/mes-enero-decisivo-alejandro-balde.html"
+      "fecha": "2026-09-26T13:24:51+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/copa-africa/20260926/1004231461/salah-abandona-concentracion-egipto.html"
+    },
+    {
+      "titular": "Escándalo Manchester City: todos los títulos que le pueden quitar y quiénes serían los nuevos campeones",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-26T13:18:47+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/premier-league/20260926/1004231455/son-titulos-le-quitar-manchester-city-quienes-serian-campeones.html"
     },
     {
       "titular": "Dabiz Muñoz, chef, desvela el secreto de la puntilla crujiente: \"Freír un huevo se puede hacer muy bien o muy mal\"",
@@ -23,15 +32,6 @@
       "enlace": "https://www.marca.com/tiramillas/gastronomia/2026/09/25/dabiz-munoz-chef-sobre-secreto-puntilla-crujiente-freir-huevo-bien-mal.html"
     },
     {
-      "titular": "Parte médico oficial de Kylian Mbappé tras lesionarse con Francia",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-26T00:02:51+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/uefa-nations-league/20260926/1004231367/parte-medico-oficial-kylian-mbappe.html"
-    },
-    {
       "titular": "Septiembre, el mes en el que más parejas rompen: el mes donde el amor llega a su fin",
       "medios": [
         "Marca"
@@ -41,32 +41,31 @@
       "enlace": "https://www.marca.com/bienestar/psicologia-sexo/2026/09/25/septiembre-mes-parejas-rompen-ocurre-durante-verano-amor-llegue.html"
     },
     {
-      "titular": "Chema Andrés: \"Me halaga que me comparen con Rodri, pero yo quiero ser Chema Andrés\"",
-      "medios": [
-        "Marca"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-25T07:16:20+02:00",
-      "enlace": "https://www.marca.com/futbol/seleccion/2026/09/25/chema-andres-me-halaga-me-comparen-rodri-quiero-chema-andres.html"
-    },
-    {
-      "titular": "Zidane, sobre la lesión en la rodilla de Mbappé: \"No está bien. Va a tener que volver a Madrid\"",
+      "titular": "Mario Pérez, de 23 años, tiene un bar en un pueblo de 100 habitantes: \"El éxito es que no me tenga que ir\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-25T23:32:25+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/uefa-nations-league/20260925/1004231363/zidane-sobre-lesion-rodilla-mbappe.html"
+      "fecha": "2026-09-26T13:13:21+02:00",
+      "enlace": "https://www.mundodeportivo.com/actualidad/20260926/1004231454/mario-perez-23-anos-bar-pueblo-100-habitantes-vida-barata-te-da-margen-mejoria-mi-exito-no-me-tenga-ir-dct.html"
     },
     {
-      "titular": "Fermín: \"Valoraba mucho incluso poder caminar\"",
+      "titular": "Palo histórico de Rio Ferdinand al Manchester City",
       "medios": [
-        "Marca",
         "Mundo Deportivo"
       ],
-      "consenso": 2,
-      "fecha": "2026-09-24T19:32:06+02:00",
-      "enlace": "https://www.marca.com/futbol/barcelona/2026/09/24/fermin-valoraba-caminar.html"
+      "consenso": 1,
+      "fecha": "2026-09-26T13:04:07+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/premier-league/20260926/1004231457/pulla-historica-rio-ferdinand-manchester-city.html"
+    },
+    {
+      "titular": "Cinco rutas de trail entre bosques y montañas para descubrir corriendo el otoño en Galicia",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-26T12:55:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/running/20260926/1004228684/cinco-rutas-trail-bosques-montanas-descubrir-corriendo-otono-galicia-magia-gallega-relacion-especial-estacion-marron.html"
     }
   ],
   "salud": {
@@ -76,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 68,
+    "antiguedad_minima_min": 12,
     "detalle": [
       {
         "medio": "Marca",
@@ -84,7 +83,7 @@
         "ok": true,
         "items": 65,
         "error": null,
-        "antiguedad_min": 1489,
+        "antiguedad_min": 1808,
         "descartados_por_gancho": 5
       },
       {
@@ -100,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 134,
+        "items": 133,
         "error": null,
-        "antiguedad_min": 68,
-        "descartados_por_gancho": 7
+        "antiguedad_min": 12,
+        "descartados_por_gancho": 10
       },
       {
         "medio": "Sport",
