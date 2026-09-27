@@ -1,27 +1,9 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "ultimas",
-  "generado": "2026-09-26T23:45:04+02:00",
+  "modo": "portadas",
+  "generado": "2026-09-27T02:06:06+02:00",
   "titulares": [
-    {
-      "titular": "Más que una ley de cribados: la alianza de pacientes y sanitarios que reescribe la prevención neonatal",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-26T18:00:52+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20260926/mas-que-una-ley-de-cribados-la-alianza-pacientes-sanitarios-reescribe-prevencion-neonatal/353493_0.html"
-    },
-    {
-      "titular": "De la piel al gen: claves para descifrar la autoinflamación en Medicina Interna",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-26T17:49:04+02:00",
-      "enlace": "https://www.redaccionmedica.com/profesionales/sociedades-cientificas/20260926/de-la-piel-al-gen-claves-para-descifrar-autoinflamacion-en-medicina-interna/353799_0.html"
-    },
     {
       "titular": "Castilla-La Mancha suma casi 5.000 envíos de medicación hospitalaria en proximidad",
       "medios": [
@@ -30,15 +12,6 @@
       "consenso": 1,
       "fecha": "2026-09-26T11:26:11+02:00",
       "enlace": "https://diariofarma.com/2026/09/26/castilla-la-mancha-suma-casi-5-000-envios-de-medicacion-hospitalaria-en-proximidad"
-    },
-    {
-      "titular": "Hefame propone extender la defensa del modelo farmacéutico español al ámbito europeo",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-25T14:36:44+02:00",
-      "enlace": "https://diariofarma.com/2026/09/25/hefame-propone-extender-la-defensa-del-modelo-farmaceutico-espanol-al-ambito-europeo"
     },
     {
       "titular": "Cuenten con la farmacia, cuenten con el farmacéutico",
@@ -50,6 +23,24 @@
       "enlace": "https://elglobalfarma.com/opinion/editorial/cuenten-farmacia-cuenten-farmaceutico/"
     },
     {
+      "titular": "Más que una ley de cribados: la alianza de pacientes y sanitarios que reescribe la prevención neonatal",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-26T18:00:52+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20260926/mas-que-una-ley-de-cribados-la-alianza-pacientes-sanitarios-reescribe-prevencion-neonatal/353493_0.html"
+    },
+    {
+      "titular": "Hefame propone extender la defensa del modelo farmacéutico español al ámbito europeo",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-25T14:36:44+02:00",
+      "enlace": "https://diariofarma.com/2026/09/25/hefame-propone-extender-la-defensa-del-modelo-farmaceutico-espanol-al-ambito-europeo"
+    },
+    {
       "titular": "El Gregorio Marañón lleva por primera vez en España la atención farmacéutica presencial al domicilio de adultos",
       "medios": [
         "El Global"
@@ -59,13 +50,22 @@
       "enlace": "https://elglobalfarma.com/politica/gregorio-maranon-lleva-primera-vez-espana-atencion-farmaceutica-domicilio-adultos/"
     },
     {
-      "titular": "Rafael Vicetto, fisioterapeuta: \"Cuando hay una diástasis abdominal importante, el hipopresivo la aumenta\"",
+      "titular": "Sara, la enfermera que entra a Medicina desde un máster: \"Quiero hacerla en 4 años\"",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-09-26T16:43:13+02:00",
-      "enlace": "https://www.redaccionmedica.com/profesionales/medicina/20260926/rafael-vicetto-fisioterapeuta-cuando-hay-una-diastasis-abdominal-importante-el-hipopresivo-la-aumenta/353749_0.html"
+      "fecha": "2026-09-26T16:23:37+02:00",
+      "enlace": "https://www.redaccionmedica.com/formacion/estudiantes/20260926/sara-la-enfermera-que-entra-medicina-desde-un-master-quiero-hacerla-en-anos/353273_0.html"
+    },
+    {
+      "titular": "Sigre reivindica la contribución de los farmacéuticos a la salud de las personas y del planeta",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-25T14:29:10+02:00",
+      "enlace": "https://diariofarma.com/2026/09/25/sigre-reivindica-la-contribucion-de-los-farmaceuticos-a-la-salud-de-las-personas-y-del-planeta"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 344,
+    "antiguedad_minima_min": 485,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 738,
+        "antiguedad_min": 879,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 2056,
+        "antiguedad_min": 2198,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 344,
+        "antiguedad_min": 485,
         "descartados_por_gancho": 0
       },
       {

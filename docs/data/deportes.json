@@ -1,26 +1,17 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "ultimas",
-  "generado": "2026-09-26T23:44:59+02:00",
+  "modo": "portadas",
+  "generado": "2026-09-27T02:06:00+02:00",
   "titulares": [
     {
-      "titular": "Luis de la Fuente: \"El equipo ha demostrado al mundo que no quiere parar de ganar\"",
+      "titular": "2-3: España también conquista Wembley con una remontada de campeona",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-26T23:23:52+02:00",
-      "enlace": "https://www.mundodeportivo.com/seleccion-espanola/20260926/1004231605/luis-fuente.html"
-    },
-    {
-      "titular": "Aitana celebra su reaparición: \"El dolor era una montaña rusa\"",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-26T23:21:34+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260926/1004231643/aitana-celebra-reaparicion-sido-montana-rusa.html"
+      "fecha": "2026-09-26T22:44:32+02:00",
+      "enlace": "https://www.mundodeportivo.com/seleccion-espanola/20260926/1004231629/espana-conquista-wembley-remontada-campeona.html"
     },
     {
       "titular": "Dabiz Muñoz, chef, desvela el secreto de la puntilla crujiente: \"Freír un huevo se puede hacer muy bien o muy mal\"",
@@ -41,31 +32,40 @@
       "enlace": "https://www.marca.com/bienestar/psicologia-sexo/2026/09/25/septiembre-mes-parejas-rompen-ocurre-durante-verano-amor-llegue.html"
     },
     {
-      "titular": "El 1x1 del Barça en su estreno en la Liga Endesa ante el Leyma Coruña",
+      "titular": "El 1x1 de Inglaterra ante España",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-26T23:10:13+02:00",
-      "enlace": "https://www.mundodeportivo.com/baloncesto/acb/20260926/1004231548/1x1-barca-estreno-liga-endesa-leyma-coruna.html"
+      "fecha": "2026-09-26T23:01:48+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/uefa-nations-league/20260926/1004231589/1x1-inglaterra-espana.html"
     },
     {
-      "titular": "108-69: El Granca no da opción a la sorpresa en su estreno ante el Oviedo",
+      "titular": "Chema Andrés: \"Me halaga que me comparen con Rodri, pero yo quiero ser Chema Andrés\"",
       "medios": [
-        "Mundo Deportivo"
+        "Marca"
       ],
       "consenso": 1,
-      "fecha": "2026-09-26T23:08:50+02:00",
-      "enlace": "https://www.mundodeportivo.com/baloncesto/basket-feb/20260926/1004231640/108-69-granca-no-da-opcion-sorpresa-estreno-oviedo.html"
+      "fecha": "2026-09-25T07:16:20+02:00",
+      "enlace": "https://www.marca.com/futbol/seleccion/2026/09/25/chema-andres-me-halaga-me-comparen-rodri-quiero-chema-andres.html"
     },
     {
-      "titular": "Oyarzabal: \"El penalti ha sido el punto de inflexión\"",
+      "titular": "Lamine: \"También sabemos jugar al contraataque\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-26T23:08:02+02:00",
-      "enlace": "https://www.mundodeportivo.com/seleccion-espanola/20260926/1004231637/oyarzabal-penalti-sido-punto-inflexion.html"
+      "fecha": "2026-09-26T22:55:55+02:00",
+      "enlace": "https://www.mundodeportivo.com/seleccion-espanola/20260926/1004231631/lamine-jugar-contraataque.html"
+    },
+    {
+      "titular": "\"A fardar de segunda estrella en Wembley\"",
+      "medios": [
+        "Marca"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-25T07:14:16+02:00",
+      "enlace": "https://www.marca.com/futbol/seleccion/opinion/2026/09/25/fardar-segunda-estrella-wembley.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 21,
+    "antiguedad_minima_min": 77,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 65,
         "error": null,
-        "antiguedad_min": 2415,
+        "antiguedad_min": 2556,
         "descartados_por_gancho": 5
       },
       {
@@ -99,9 +99,9 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 141,
+        "items": 142,
         "error": null,
-        "antiguedad_min": 21,
+        "antiguedad_min": 77,
         "descartados_por_gancho": 11
       },
       {
