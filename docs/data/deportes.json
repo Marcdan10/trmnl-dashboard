@@ -1,26 +1,17 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "ultimas",
-  "generado": "2026-09-27T21:26:49+02:00",
+  "modo": "portadas",
+  "generado": "2026-09-28T00:26:31+02:00",
   "titulares": [
     {
-      "titular": "Agote y Gurtubay se proclaman campeonas del mundo Sub-20",
+      "titular": "España, campeona del mundo sub-20 ante Corea del Norte",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-27T20:55:12+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/athletic-bilbao/20260927/1004231882/agote-gurtubay-proclaman-campeonas-mundo-sub-20.html"
-    },
-    {
-      "titular": "Real Madrid - Unicaja, en directo",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-27T20:54:11+02:00",
-      "enlace": "https://www.mundodeportivo.com/baloncesto/acb/20260927/1004231482/real-madrid-unicaja-directo-liga-endesa-baloncesto.html"
+      "fecha": "2026-09-27T21:01:07+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/femenino/20260927/1004231822/corea-norte-espana.html"
     },
     {
       "titular": "Dabiz Muñoz, chef, desvela el secreto de la puntilla crujiente: \"Freír un huevo se puede hacer muy bien o muy mal\"",
@@ -32,6 +23,15 @@
       "enlace": "https://www.marca.com/tiramillas/gastronomia/2026/09/25/dabiz-munoz-chef-sobre-secreto-puntilla-crujiente-freir-huevo-bien-mal.html"
     },
     {
+      "titular": "Rosalía Domínguez (Barça), Balón de Oro del Mundial Sub-20",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-27T21:21:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260927/1004231888/rosalia-dominguez-barca-balon-oro-mundial-sub-20.html"
+    },
+    {
       "titular": "Septiembre, el mes en el que más parejas rompen: el mes donde el amor llega a su fin",
       "medios": [
         "Marca"
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/bienestar/psicologia-sexo/2026/09/25/septiembre-mes-parejas-rompen-ocurre-durante-verano-amor-llegue.html"
     },
     {
-      "titular": "2-0: Dinamarca, dispuesta a plantear batalla a Portugal y Noruega",
+      "titular": "Sesión vespertina de recuperación aún sin Le Normand",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-27T20:52:39+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/uefa-nations-league/20260927/1004231880/2-0-dinamarca-dispuesta-plantear-batalla-portugal-noruega.html"
+      "fecha": "2026-09-27T21:13:33+02:00",
+      "enlace": "https://www.mundodeportivo.com/seleccion-espanola/20260927/1004231890/sesion-vespertina-recuperacion-aun-le-normand.html"
     },
     {
-      "titular": "¡ESPAÑA, CAMPEONA DEL MUNDO SUB-20!",
+      "titular": "Chema Andrés: \"Me halaga que me comparen con Rodri, pero yo quiero ser Chema Andrés\"",
       "medios": [
-        "Mundo Deportivo"
+        "Marca"
       ],
       "consenso": 1,
-      "fecha": "2026-09-27T20:52:28+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/mundial-femenino/20260927/1004231340/espana-corea-norte-directo-final-mundial-sub20-futbol-femenino-lodz.html"
+      "fecha": "2026-09-25T07:16:20+02:00",
+      "enlace": "https://www.marca.com/futbol/seleccion/2026/09/25/chema-andres-me-halaga-me-comparen-rodri-quiero-chema-andres.html"
     },
     {
-      "titular": "Carrefour lo confirma: este lunes, rebaja solo 24h uno de sus productos más vendidos",
+      "titular": "1-2. Primer triunfo de 'La Naranja MeXavicánica'",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-27T20:45:28+02:00",
-      "enlace": "https://www.mundodeportivo.com/actualidad/20260927/1004231874/carrefour-confirma-manana-lunes-28-septiembre-rebaja-24-horas-productos-vendidos-dct.html"
+      "fecha": "2026-09-27T19:53:49+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/uefa-nations-league/20260927/1004231860/xavi-hernandez.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 31,
+    "antiguedad_minima_min": 34,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 65,
         "error": null,
-        "antiguedad_min": 3717,
+        "antiguedad_min": 3897,
         "descartados_por_gancho": 5
       },
       {
@@ -99,9 +99,9 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 130,
+        "items": 133,
         "error": null,
-        "antiguedad_min": 31,
+        "antiguedad_min": 34,
         "descartados_por_gancho": 5
       },
       {

@@ -1,8 +1,8 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "ultimas",
-  "generado": "2026-09-27T21:26:55+02:00",
+  "modo": "portadas",
+  "generado": "2026-09-28T00:26:38+02:00",
   "titulares": [
     {
       "titular": "El Gregorio Marañón abre la atención farmacéutica presencial en el domicilio",
@@ -15,6 +15,15 @@
       "enlace": "https://diariofarma.com/2026/09/27/el-gregorio-maranon-abre-la-atencion-farmaceutica-presencial-en-el-domicilio"
     },
     {
+      "titular": "Cuenten con la farmacia, cuenten con el farmacéutico",
+      "medios": [
+        "El Global"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-25T13:28:01+02:00",
+      "enlace": "https://elglobalfarma.com/opinion/editorial/cuenten-farmacia-cuenten-farmaceutico/"
+    },
+    {
       "titular": "Europa busca simplificar regulaciones y sumar investigación temprana en ensayos oncológicos",
       "medios": [
         "Redacción Médica"
@@ -22,15 +31,6 @@
       "consenso": 1,
       "fecha": "2026-09-27T18:24:40+02:00",
       "enlace": "https://www.redaccionmedica.com/innovacion/20260927/europa-busca-simplificar-regulaciones-sumar-investigacion-temprana-en-ensayos-oncologicos/348984_0.html"
-    },
-    {
-      "titular": "La Aemps confirma la falta de suministro indefinida de un conocido fármaco para el tiroides",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-27T17:31:50+02:00",
-      "enlace": "https://www.redaccionmedica.com/empresas/industria-farmaceutica/20260927/aemps-confirma-falta-suministro-indefinida-conocido-farmaco-tiroides/353455_0.html"
     },
     {
       "titular": "Compra conjunta internacional y reserva común; la receta de la OCDE ante la dependencia de fármacos",
@@ -42,13 +42,13 @@
       "enlace": "https://diariofarma.com/2026/09/27/compras-conjuntas-internacionales-y-reservas-comunes-la-receta-de-la-ocde-ante-la-dependencia-de-farmacos"
     },
     {
-      "titular": "Cuenten con la farmacia, cuenten con el farmacéutico",
+      "titular": "Enfermería como 'mano derecha' de Interna para \"despejar dudas\" ante el diagnóstico de lupus",
       "medios": [
-        "El Global"
+        "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-09-25T13:28:01+02:00",
-      "enlace": "https://elglobalfarma.com/opinion/editorial/cuenten-farmacia-cuenten-farmaceutico/"
+      "fecha": "2026-09-27T16:58:07+02:00",
+      "enlace": "https://www.redaccionmedica.com/profesionales/sociedades-cientificas/20260927/enfermeria-como-mano-derecha-de-interna-para-despejar-dudas-ante-el-diagnostico-lupus/353800_0.html"
     },
     {
       "titular": "Sanidad publica cinco nuevos informes de financiación de medicamentos de la CIPM",
@@ -60,13 +60,13 @@
       "enlace": "https://elglobalfarma.com/politica/sanidad-cinco-nuevos-informes-financiacion-medicamentos-cipm/"
     },
     {
-      "titular": "Enfermería como 'mano derecha' de Interna para \"despejar dudas\" ante el diagnóstico de lupus",
+      "titular": "La Ipfma reclama \"compromisos prácticos\" a los gobiernos ante la Declaración sobre Pandemias de la ONU",
       "medios": [
-        "Redacción Médica"
+        "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-09-27T16:58:07+02:00",
-      "enlace": "https://www.redaccionmedica.com/profesionales/sociedades-cientificas/20260927/enfermeria-como-mano-derecha-de-interna-para-despejar-dudas-ante-el-diagnostico-lupus/353800_0.html"
+      "fecha": "2026-09-27T13:16:31+02:00",
+      "enlace": "https://diariofarma.com/2026/09/27/la-ipfma-reclama-compromisos-practicos-a-los-gobiernos-ante-la-declaracion-sobre-pandemias-de-la-onu"
     }
   ],
   "salud": {
@@ -77,7 +77,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 168,
+    "antiguedad_minima_min": 347,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -85,7 +85,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 168,
+        "antiguedad_min": 347,
         "descartados_por_gancho": 0
       },
       {
@@ -94,7 +94,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 3358,
+        "antiguedad_min": 3538,
         "descartados_por_gancho": 0
       },
       {
@@ -103,7 +103,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 182,
+        "antiguedad_min": 361,
         "descartados_por_gancho": 0
       },
       {
