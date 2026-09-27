@@ -1,17 +1,26 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "portadas",
-  "generado": "2026-09-27T07:30:29+02:00",
+  "modo": "ultimas",
+  "generado": "2026-09-27T13:10:56+02:00",
   "titulares": [
     {
-      "titular": "2-3: España también conquista Wembley con una remontada de campeona",
+      "titular": "De la Fuente sale en defensa de Ferran Torres",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-26T22:44:32+02:00",
-      "enlace": "https://www.mundodeportivo.com/seleccion-espanola/20260926/1004231629/espana-conquista-wembley-remontada-campeona.html"
+      "fecha": "2026-09-27T12:55:03+02:00",
+      "enlace": "https://www.mundodeportivo.com/seleccion-espanola/20260927/1004231746/fuente-sale-defensa-ferran-torres.html"
+    },
+    {
+      "titular": "Muchova acerca a Chequia a la victoria en la Billie Jean King Cup",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-27T12:46:25+02:00",
+      "enlace": "https://www.mundodeportivo.com/tenis/20260927/1004231750/muchova-acerca-chequia-victoria-billie-jean-king-cup.html"
     },
     {
       "titular": "Dabiz Muñoz, chef, desvela el secreto de la puntilla crujiente: \"Freír un huevo se puede hacer muy bien o muy mal\"",
@@ -32,40 +41,31 @@
       "enlace": "https://www.marca.com/bienestar/psicologia-sexo/2026/09/25/septiembre-mes-parejas-rompen-ocurre-durante-verano-amor-llegue.html"
     },
     {
-      "titular": "El 1x1 de Inglaterra ante España",
+      "titular": "Alexander Isak se lesiona y vuelve a Liverpool",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-26T23:01:48+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/uefa-nations-league/20260926/1004231589/1x1-inglaterra-espana.html"
+      "fecha": "2026-09-27T12:31:31+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/uefa-nations-league/20260927/1004231744/alexander-isak-lesiona-vuelve-liverpool.html"
     },
     {
-      "titular": "Chema Andrés: \"Me halaga que me comparen con Rodri, pero yo quiero ser Chema Andrés\"",
-      "medios": [
-        "Marca"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-25T07:16:20+02:00",
-      "enlace": "https://www.marca.com/futbol/seleccion/2026/09/25/chema-andres-me-halaga-me-comparen-rodri-quiero-chema-andres.html"
-    },
-    {
-      "titular": "Lamine: \"También sabemos jugar al contraataque\"",
+      "titular": "Ancelotti no dará descanso a Raphinha: ahora le quiere de '9' en Brisbane",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-26T22:55:55+02:00",
-      "enlace": "https://www.mundodeportivo.com/seleccion-espanola/20260926/1004231631/lamine-jugar-contraataque.html"
+      "fecha": "2026-09-27T12:29:33+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260927/1004231743/ancelotti-no-dara-descanso-raphinha-le-quiere-9-brisbane.html"
     },
     {
-      "titular": "\"A fardar de segunda estrella en Wembley\"",
+      "titular": "Leclerc revela algo que no debía de Ferrari y se hace viral la reacción de su responsable de prensa",
       "medios": [
-        "Marca"
+        "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-25T07:14:16+02:00",
-      "enlace": "https://www.marca.com/futbol/seleccion/opinion/2026/09/25/fardar-segunda-estrella-wembley.html"
+      "fecha": "2026-09-27T12:22:48+02:00",
+      "enlace": "https://www.mundodeportivo.com/motor/f1/20260927/1004231740/leclerc-revela-no-debia-ferrari-reaccion-responsable-prensa-viral-pensaba-sabia.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 401,
+    "antiguedad_minima_min": 15,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 65,
         "error": null,
-        "antiguedad_min": 2881,
+        "antiguedad_min": 3221,
         "descartados_por_gancho": 5
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 142,
+        "items": 136,
         "error": null,
-        "antiguedad_min": 401,
-        "descartados_por_gancho": 11
+        "antiguedad_min": 15,
+        "descartados_por_gancho": 6
       },
       {
         "medio": "Sport",

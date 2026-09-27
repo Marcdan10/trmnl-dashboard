@@ -1,9 +1,63 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "portadas",
-  "generado": "2026-09-27T07:30:28+02:00",
+  "modo": "ultimas",
+  "generado": "2026-09-27T13:10:54+02:00",
   "titulares": [
+    {
+      "titular": "'La Noche del Deporte' convierte Madrid en una gran fiesta",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-27T11:45:26+02:00",
+      "enlace": "https://www.expansion.com/deporte-negocio/2026/09/27/6ab8e5b1468aebfb378b4572.html"
+    },
+    {
+      "titular": "Cientos de personas acampan en Sol por la vivienda: \"O cae el rentismo, o cae el Gobierno\"",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-27T10:40:09+02:00",
+      "enlace": "https://www.expansion.com/economia/politica/2026/09/27/6ab8d51c468aeb26548b456d.html"
+    },
+    {
+      "titular": "Maricarmen pide a Pedro Sánchez aprobar un decreto antidesahucios \"que sea un primer paso para acabar con el sistema\"",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-26T18:56:43+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/09/26/6ab79432e5fdea756d8b4597.html"
+    },
+    {
+      "titular": "Terrazas para apurar el buen tiempo",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-26T18:44:16+02:00",
+      "enlace": "https://www.expansion.com/estilo-vida/rincones-gastronomicos/2026/09/26/6ab7f462468aebc9768b4580.html"
+    },
+    {
+      "titular": "\"Google no reemplaza ni actúa como un médico\"",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-26T18:03:25+02:00",
+      "enlace": "https://www.expansion.com/tecnologia/companias/2026/09/26/6ab63b6ee5fdea01248b4595.html"
+    },
+    {
+      "titular": "Sobre latas de aceitunas, anchoas y la IA",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-26T18:02:53+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/09/26/6ab7a4c8e5fdeacf508b45a8.html"
+    },
     {
       "titular": "Cómo impacta el nuevo escenario de las divisas en la cartera",
       "medios": [
@@ -12,60 +66,6 @@
       "consenso": 1,
       "fecha": "2026-09-26T18:02:40+02:00",
       "enlace": "https://www.expansion.com/inversion/2026/09/26/6ab7a259e5fdea3f1a8b4587.html"
-    },
-    {
-      "titular": "MyInvestor, Trade Republic o Revolut: ¿cuál elegir para invertir en fondos?",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-25T23:09:29+02:00",
-      "enlace": "https://www.expansion.com/mercados/fondos/2026/09/25/6ab6d50e468aebbb028b4578.html"
-    },
-    {
-      "titular": "Los precios de la vivienda suben de forma generalizada: así están por capitales",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-26T18:01:21+02:00",
-      "enlace": "https://www.expansion.com/inmobiliario/mercado/2026/09/26/6ab66fdee5fdea7b768b4588.html"
-    },
-    {
-      "titular": "Hogares y empresas lideran la 'fiebre' por las Letras del Tesoro",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-25T23:07:56+02:00",
-      "enlace": "https://www.expansion.com/ahorro/2026/09/25/6ab6afed468aeb121e8b4577.html"
-    },
-    {
-      "titular": "Mil días sin Presupuestos: los 'parches' superan los 330.000 millones desde 2024",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-26T18:01:40+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/09/26/6ab6b252e5fdeac50b8b457b.html"
-    },
-    {
-      "titular": "Las operaciones en Bolsa catapultan los ingresos de la banca de inversión",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-25T23:10:20+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/09/25/6aabd262468aebf1328b459b.html"
-    },
-    {
-      "titular": "Las claves bursátiles de la próxima semana",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-25T23:30:48+02:00",
-      "enlace": "https://videos.expansion.com/v/xbd13s2-las-claves-bursatiles-de-la-proxima-semana-25-9-2026?uetv_pl=bankinter&count=9"
     }
   ],
   "salud": {
@@ -78,7 +78,7 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 753,
+    "antiguedad_minima_min": 85,
     "detalle": [
       {
         "medio": "Expansión",
@@ -86,7 +86,7 @@
         "ok": true,
         "items": 83,
         "error": null,
-        "antiguedad_min": 753,
+        "antiguedad_min": 85,
         "descartados_por_gancho": 2
       },
       {
