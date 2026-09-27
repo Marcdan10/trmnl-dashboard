@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-09-27T02:05:57+02:00",
+  "generado": "2026-09-27T07:30:22+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -14,13 +14,13 @@
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
     },
     {
-      "titular": "La indignación por la vivienda toma la calle y se planta en Sol",
+      "titular": "Maricarmen fuerza un giro del Gobierno y sus socios sobre vivienda",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-27T00:03:17+02:00",
-      "enlace": "https://elpais.com/espana/2026-09-27/la-indignacion-por-la-vivienda-toma-la-calle-y-se-planta-en-sol.html"
+      "fecha": "2026-09-27T05:30:01+02:00",
+      "enlace": "https://elpais.com/espana/2026-09-27/maricarmen-fuerza-un-giro-del-gobierno-y-sus-socios-sobre-vivienda.html"
     },
     {
       "titular": "Acampada en la Puerta del Sol de Madrid tras la multitudinaria marcha en apoyo a Maricarmen",
@@ -32,13 +32,13 @@
       "enlace": "https://www.lavanguardia.com/politica/20260926/11644613/clamor-multitudinario-madrid-exigir-prohibicion-desahucios-medidas-proteger-vivienda.html"
     },
     {
-      "titular": "Gabino Sánchez Llamazares: «Nuestros jugadores tienen nombre, pero los rivales son 'el negro' o 'el moro'»",
+      "titular": "Las mujeres escondidas en el Trampolín: «Mi padre me pegaba. Aquí han intentado agredirme»",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-27T01:46:26+02:00",
-      "enlace": "https://www.abc.es/deportes/gabino-sanchez-llamazares-jugador-nombre-rival-negro-20260925014315-nt.html"
+      "fecha": "2026-09-27T03:15:01+02:00",
+      "enlace": "https://www.abc.es/espana/mujeres-escondidas-trampolin-padre-pegaba-intentado-agredirme-20260927020951-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -50,13 +50,13 @@
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
     },
     {
-      "titular": "Manifestación contra los desahucios, en directo | Los manifestantes por la crisis de la vivienda acampan en Sol y animan a la gente a que se una",
+      "titular": "“Hasta el final, compañeros”: Sol vuelve a acampar quince años después del 15-M",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-27T01:46:53+02:00",
-      "enlace": "https://elpais.com/espana/2026-09-26/manifestacion-contra-los-desahucios-en-directo.html"
+      "fecha": "2026-09-27T07:13:16+02:00",
+      "enlace": "https://elpais.com/espana/2026-09-27/hasta-el-final-companeros-sol-vuelve-a-acampar-quince-anos-despues-del-15-m.html"
     },
     {
       "titular": "La manifestación en apoyo a Maricarmen, en imágenes",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 19,
+    "antiguedad_minima_min": 17,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2260860,
+        "antiguedad_min": 2261185,
         "descartados_por_gancho": 0
       },
       {
@@ -97,28 +97,28 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 133,
+        "items": 140,
         "error": null,
-        "antiguedad_min": 19,
-        "descartados_por_gancho": 6
+        "antiguedad_min": 17,
+        "descartados_por_gancho": 5
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 118,
+        "items": 125,
         "error": null,
-        "antiguedad_min": 95,
-        "descartados_por_gancho": 25
+        "antiguedad_min": 88,
+        "descartados_por_gancho": 22
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 23,
+        "items": 24,
         "error": null,
-        "antiguedad_min": 19,
-        "descartados_por_gancho": 2
+        "antiguedad_min": 255,
+        "descartados_por_gancho": 1
       }
     ]
   }
