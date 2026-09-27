@@ -2,61 +2,61 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-09-27T17:42:55+02:00",
+  "generado": "2026-09-27T21:26:43+02:00",
   "titulares": [
     {
-      "titular": "España busca el oro mundial ante Corea del Norte",
+      "titular": "España se toma su revancha ante Corea del Norte y borda su segunda estrella sub-20",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-27T17:36:44+02:00",
-      "enlace": "https://www.abc.es/deportes/futbol/espana-corea-norte-sigue-final-mundial-femenino-20260927173644-di.html"
+      "fecha": "2026-09-27T21:24:36+02:00",
+      "enlace": "https://www.abc.es/deportes/futbol/espana-toma-revancha-ante-corea-norte-borda-20260927205624-nt.html"
     },
     {
-      "titular": "Zverev devuelve a Europa el éxito en la Laver Cup",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-27T17:32:10+02:00",
-      "enlace": "https://elpais.com/deportes/tenis/2026-09-27/zverev-devuelve-a-europa-el-exito-en-la-laver-cup.html"
-    },
-    {
-      "titular": "«La orden del Gobierno fue no hacer nada y dejarlos acampar en la Puerta del Sol»",
+      "titular": "Luwawu-Cabarrot salva el estreno del Real Madrid",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-27T17:24:06+02:00",
-      "enlace": "https://www.abc.es/espana/madrid/orden-gobierno-dejarlos-acampar-20260927124211-nt.html"
+      "fecha": "2026-09-27T21:21:04+02:00",
+      "enlace": "https://www.abc.es/deportes/baloncesto/luwawucabarrot-salva-estreno-real-madrid-20260927211056-nt.html"
     },
     {
-      "titular": "Acampada en Sol contra los desahucios, en directo | Cientos de personas comparten comida, organizan las actividades y consolidan la acampada en Sol",
+      "titular": "El Papa elude la autocrítica y felicita a la Iglesia francesa por su gestión de los casos de pederastia",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-27T17:14:47+02:00",
-      "enlace": "https://elpais.com/espana/2026-09-27/acampada-en-sol-contra-los-desahucios-en-directo.html"
+      "fecha": "2026-09-27T21:17:45+02:00",
+      "enlace": "https://elpais.com/sociedad/2026-09-27/el-papa-elude-la-autocritica-y-felicita-a-la-iglesia-francesa-por-su-gestion-de-los-casos-de-pederastia.html"
     },
     {
-      "titular": "Entra en vigor una nueva directiva europea para acabar con el ecopostureo",
+      "titular": "Un avión de Barcelona con destino a Boston aterriza de urgencia en Oporto por humo en la cabina",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-27T21:17:27+02:00",
+      "enlace": "https://elpais.com/espana/catalunya/2026-09-27/un-avion-de-barcelona-con-destino-a-boston-aterriza-de-urgencia-en-oporto-por-humo-en-la-cabina.html"
+    },
+    {
+      "titular": "El Reino Unido aborta un atentado contra una base con aviones de EE.UU.",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-27T16:11:55+02:00",
-      "enlace": "https://www.lavanguardia.com/vida/20260927/11645060/entra-vigor-directiva-ecopostureo-greenwashing.html"
+      "fecha": "2026-09-27T19:47:42+02:00",
+      "enlace": "https://www.lavanguardia.com/internacional/20260927/11645145/reino-unido-aborta-atentado-base-aviones-ee-uu.html"
     },
     {
-      "titular": "Insólito: Eslovaquia hace correr a su masajista en el Mundial de Montreal",
+      "titular": "“Parece que hay que hacer un máster para saber qué magnesio debemos elegir”",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-27T16:03:01+02:00",
-      "enlace": "https://www.lavanguardia.com/deportes/ciclismo/20260927/11645070/eslovaquia-corre-masajista-mundial-montreal-ciclismo.html"
+      "fecha": "2026-09-27T19:00:00+02:00",
+      "enlace": "https://www.lavanguardia.com/comprar/deporte-salud/20260927/11641991/marta-marce-nutricionista-experta-menopausia-parece-hay-master-que-magnesio-elegir.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 6,
+    "antiguedad_minima_min": 2,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2261797,
+        "antiguedad_min": 2262021,
         "descartados_por_gancho": 0
       },
       {
@@ -90,35 +90,35 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 500",
+        "error": "HTTP 403",
         "antiguedad_min": null
       },
       {
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 142,
+        "items": 140,
         "error": null,
-        "antiguedad_min": 10,
+        "antiguedad_min": 8,
         "descartados_por_gancho": 6
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 128,
+        "items": 129,
         "error": null,
-        "antiguedad_min": 90,
+        "antiguedad_min": 99,
         "descartados_por_gancho": 23
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 25,
+        "items": 24,
         "error": null,
-        "antiguedad_min": 6,
-        "descartados_por_gancho": 0
+        "antiguedad_min": 2,
+        "descartados_por_gancho": 1
       }
     ]
   }
