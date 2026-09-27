@@ -2,16 +2,25 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-09-27T13:10:51+02:00",
+  "generado": "2026-09-27T17:42:55+02:00",
   "titulares": [
     {
-      "titular": "Acampada en Sol contra los desahucios, en directo | Sánchez confirma que el Gobierno está trabajando “a contra reloj” para aprobar el decreto de vivienda el martes",
+      "titular": "España busca el oro mundial ante Corea del Norte",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-27T17:36:44+02:00",
+      "enlace": "https://www.abc.es/deportes/futbol/espana-corea-norte-sigue-final-mundial-femenino-20260927173644-di.html"
+    },
+    {
+      "titular": "Zverev devuelve a Europa el éxito en la Laver Cup",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-27T13:07:54+02:00",
-      "enlace": "https://elpais.com/espana/2026-09-27/acampada-en-sol-contra-los-desahucios-en-directo.html"
+      "fecha": "2026-09-27T17:32:10+02:00",
+      "enlace": "https://elpais.com/deportes/tenis/2026-09-27/zverev-devuelve-a-europa-el-exito-en-la-laver-cup.html"
     },
     {
       "titular": "«La orden del Gobierno fue no hacer nada y dejarlos acampar en la Puerta del Sol»",
@@ -19,44 +28,35 @@
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-27T12:53:24+02:00",
+      "fecha": "2026-09-27T17:24:06+02:00",
       "enlace": "https://www.abc.es/espana/madrid/orden-gobierno-dejarlos-acampar-20260927124211-nt.html"
     },
     {
-      "titular": "Un hombre mata a su pareja y se entrega tras atrincherarse durante horas en una casa de La Campana (Sevilla)",
+      "titular": "Acampada en Sol contra los desahucios, en directo | Cientos de personas comparten comida, organizan las actividades y consolidan la acampada en Sol",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-27T12:38:21+02:00",
-      "enlace": "https://elpais.com/sociedad/2026-09-27/un-hombre-mata-a-su-pareja-y-se-atrinchera-en-una-casa-de-la-campana-sevilla.html"
+      "fecha": "2026-09-27T17:14:47+02:00",
+      "enlace": "https://elpais.com/espana/2026-09-27/acampada-en-sol-contra-los-desahucios-en-directo.html"
     },
     {
-      "titular": "Jordi Cruz, sobre por qué no quiere dejar a sus hijos el dinero que ha ganado con su trabajo: «Me lo voy a gastar yo»",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-27T12:30:00+02:00",
-      "enlace": "https://www.abc.es/gente/jordi-cruz-explica-quiere-dejar-hijos-dinero-20260927105945-nt.html"
-    },
-    {
-      "titular": "El Papa insta a los obispos franceses a seguir la lucha contra “la lacra” de los abusos sexuales",
+      "titular": "Entra en vigor una nueva directiva europea para acabar con el ecopostureo",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-27T12:27:14+02:00",
-      "enlace": "https://www.lavanguardia.com/internacional/20260927/11644999/papa-insta-obispos-franceses-seguir-lucha-lacra-abusos-sexuales.html"
+      "fecha": "2026-09-27T16:11:55+02:00",
+      "enlace": "https://www.lavanguardia.com/vida/20260927/11645060/entra-vigor-directiva-ecopostureo-greenwashing.html"
     },
     {
-      "titular": "Cinco meses para las Fallas de València: la fiesta elige a sus falleras más privilegiadas",
+      "titular": "Insólito: Eslovaquia hace correr a su masajista en el Mundial de Montreal",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-27T12:07:31+02:00",
-      "enlace": "https://www.lavanguardia.com/local/valencia/20260927/11644990/cinco-meses-fallas-valencia-fiesta-elige-falleras-mas-privilegiadas.html"
+      "fecha": "2026-09-27T16:03:01+02:00",
+      "enlace": "https://www.lavanguardia.com/deportes/ciclismo/20260927/11645070/eslovaquia-corre-masajista-mundial-montreal-ciclismo.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 2,
+    "antiguedad_minima_min": 6,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2261525,
+        "antiguedad_min": 2261797,
         "descartados_por_gancho": 0
       },
       {
@@ -90,26 +90,26 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 403",
+        "error": "HTTP 500",
         "antiguedad_min": null
       },
       {
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 140,
+        "items": 142,
         "error": null,
-        "antiguedad_min": 2,
+        "antiguedad_min": 10,
         "descartados_por_gancho": 6
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 126,
+        "items": 128,
         "error": null,
-        "antiguedad_min": 43,
-        "descartados_por_gancho": 24
+        "antiguedad_min": 90,
+        "descartados_por_gancho": 23
       },
       {
         "medio": "ABC",
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 17,
+        "antiguedad_min": 6,
         "descartados_por_gancho": 0
       }
     ]

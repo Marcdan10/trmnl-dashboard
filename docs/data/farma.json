@@ -2,43 +2,43 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "ultimas",
-  "generado": "2026-09-27T13:11:04+02:00",
+  "generado": "2026-09-27T17:43:06+02:00",
   "titulares": [
     {
-      "titular": "España reconoce el papel de la profesión farmacéutica para fortalecer el sistema",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-27T12:42:09+02:00",
-      "enlace": "https://diariofarma.com/2026/09/27/espana-reconoce-el-papel-de-la-profesion-farmaceutica-para-fortalecer-el-sistema"
-    },
-    {
-      "titular": "La huella del azúcar en la primera infancia: un estudio la vincula con la ansiedad en la vida adulta",
+      "titular": "La Aemps confirma la falta de suministro indefinida de un conocido fármaco para el tiroides",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-09-27T12:32:01+02:00",
-      "enlace": "https://www.redaccionmedica.com/innovacion/avances/20260927/la-huella-del-azucar-en-la-primera-infancia-un-estudio-vincula-con-ansiedad-vida-adulta/353703_0.html"
+      "fecha": "2026-09-27T17:31:50+02:00",
+      "enlace": "https://www.redaccionmedica.com/empresas/industria-farmaceutica/20260927/aemps-confirma-falta-suministro-indefinida-conocido-farmaco-tiroides/353455_0.html"
     },
     {
-      "titular": "Cambiar de Medicina a Enfermería por calidad de vida: \"No descarto terminarla\"",
+      "titular": "Enfermería como 'mano derecha' de Interna para \"despejar dudas\" ante el diagnóstico de lupus",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-09-27T12:00:07+02:00",
-      "enlace": "https://www.redaccionmedica.com/formacion/estudiantes/20260927/cambiar-de-medicina-enfermeria-por-calidad-vida-no-descarto-terminarla/353702_0.html"
+      "fecha": "2026-09-27T16:58:07+02:00",
+      "enlace": "https://www.redaccionmedica.com/profesionales/sociedades-cientificas/20260927/enfermeria-como-mano-derecha-de-interna-para-despejar-dudas-ante-el-diagnostico-lupus/353800_0.html"
     },
     {
-      "titular": "Castilla-La Mancha suma casi 5.000 envíos de medicación hospitalaria en proximidad",
+      "titular": "Compra conjunta internacional y reserva común; la receta de la OCDE ante la dependencia de fármacos",
       "medios": [
         "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-09-26T11:26:11+02:00",
-      "enlace": "https://diariofarma.com/2026/09/26/castilla-la-mancha-suma-casi-5-000-envios-de-medicacion-hospitalaria-en-proximidad"
+      "fecha": "2026-09-27T13:32:01+02:00",
+      "enlace": "https://diariofarma.com/2026/09/27/compras-conjuntas-internacionales-y-reservas-comunes-la-receta-de-la-ocde-ante-la-dependencia-de-farmacos"
+    },
+    {
+      "titular": "La Ipfma reclama \"compromisos prácticos\" a los gobiernos ante la Declaración sobre Pandemias de la ONU",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-27T13:16:31+02:00",
+      "enlace": "https://diariofarma.com/2026/09/27/la-ipfma-reclama-compromisos-practicos-a-los-gobiernos-ante-la-declaracion-sobre-pandemias-de-la-onu"
     },
     {
       "titular": "Cuenten con la farmacia, cuenten con el farmacéutico",
@@ -59,13 +59,13 @@
       "enlace": "https://elglobalfarma.com/politica/gregorio-maranon-lleva-primera-vez-espana-atencion-farmaceutica-domicilio-adultos/"
     },
     {
-      "titular": "Cantabria refuerza el servicio de dosificación de medicamentos en municipios en riesgo de despoblamiento",
+      "titular": "Una enfermera accede al historial de su expareja y es condenada a dos años y medio de prisión",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-09-27T11:45:29+02:00",
-      "enlace": "https://www.redaccionmedica.com/autonomias/20260927/cantabria-refuerza-el-servicio-de-dosificacion-medicamentos-en-municipios-riesgo-despoblamiento/353996_0.html"
+      "fecha": "2026-09-27T16:08:58+02:00",
+      "enlace": "https://www.redaccionmedica.com/profesionales/derecho-sanitario/20260927/una-enfermera-accede-al-historial-de-su-expareja-es-condenada-dos-anos-medio-prision/354002_0.html"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 28,
+    "antiguedad_minima_min": 11,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 28,
+        "antiguedad_min": 250,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 2862,
+        "antiguedad_min": 3135,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 38,
+        "antiguedad_min": 11,
         "descartados_por_gancho": 0
       },
       {

@@ -2,8 +2,35 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-09-27T13:10:54+02:00",
+  "generado": "2026-09-27T17:42:58+02:00",
   "titulares": [
+    {
+      "titular": "El 'decreto Maricarmen' no sirve al vulnerable",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-27T16:44:54+02:00",
+      "enlace": "https://www.expansion.com/economia/politica/2026/09/27/6ab92b9be5fdeaa77b8b4570.html"
+    },
+    {
+      "titular": "Bill Gates advierte que la IA sin control podría causar \"1.000 millones de muertes\"",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-27T16:06:30+02:00",
+      "enlace": "https://www.expansion.com/tecnologia/2026/09/27/6ab922e1468aeb917f8b4573.html"
+    },
+    {
+      "titular": "Pedro Sánchez confirma que el Gobierno trabaja en un decreto sobre vivienda",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-27T13:15:19+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/09/27/6ab8fabae5fdea9c308b4571.html"
+    },
     {
       "titular": "'La Noche del Deporte' convierte Madrid en una gran fiesta",
       "medios": [
@@ -23,6 +50,15 @@
       "enlace": "https://www.expansion.com/economia/politica/2026/09/27/6ab8d51c468aeb26548b456d.html"
     },
     {
+      "titular": "Cinco perfumes de hombre perfectos para usar en otoño",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-27T10:02:54+02:00",
+      "enlace": "https://www.expansion.com/fueradeserie/cuerpo/2026/09/27/6a97d317e5fdea6f368b459f.html"
+    },
+    {
       "titular": "Maricarmen pide a Pedro Sánchez aprobar un decreto antidesahucios \"que sea un primer paso para acabar con el sistema\"",
       "medios": [
         "Expansión"
@@ -30,42 +66,6 @@
       "consenso": 1,
       "fecha": "2026-09-26T18:56:43+02:00",
       "enlace": "https://www.expansion.com/economia/2026/09/26/6ab79432e5fdea756d8b4597.html"
-    },
-    {
-      "titular": "Terrazas para apurar el buen tiempo",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-26T18:44:16+02:00",
-      "enlace": "https://www.expansion.com/estilo-vida/rincones-gastronomicos/2026/09/26/6ab7f462468aebc9768b4580.html"
-    },
-    {
-      "titular": "\"Google no reemplaza ni actúa como un médico\"",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-26T18:03:25+02:00",
-      "enlace": "https://www.expansion.com/tecnologia/companias/2026/09/26/6ab63b6ee5fdea01248b4595.html"
-    },
-    {
-      "titular": "Sobre latas de aceitunas, anchoas y la IA",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-26T18:02:53+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/09/26/6ab7a4c8e5fdeacf508b45a8.html"
-    },
-    {
-      "titular": "Cómo impacta el nuevo escenario de las divisas en la cartera",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-26T18:02:40+02:00",
-      "enlace": "https://www.expansion.com/inversion/2026/09/26/6ab7a259e5fdea3f1a8b4587.html"
     }
   ],
   "salud": {
@@ -78,7 +78,7 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 85,
+    "antiguedad_minima_min": 58,
     "detalle": [
       {
         "medio": "Expansión",
@@ -86,7 +86,7 @@
         "ok": true,
         "items": 83,
         "error": null,
-        "antiguedad_min": 85,
+        "antiguedad_min": 58,
         "descartados_por_gancho": 2
       },
       {
