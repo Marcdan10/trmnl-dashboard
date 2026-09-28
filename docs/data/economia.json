@@ -1,71 +1,71 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "portadas",
-  "generado": "2026-09-28T09:12:53+02:00",
+  "modo": "ultimas",
+  "generado": "2026-09-28T17:42:33+02:00",
   "titulares": [
     {
-      "titular": "Enrique Riquelme: \"Cox va a triplicar la inversión en el nuevo plan hasta los 10.000 millones\"",
+      "titular": "Amazon entra en la batalla por las entregas rápidas en India: 'DoorDash con esteroides'",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-27T23:52:14+02:00",
-      "enlace": "https://www.expansion.com/empresas/energia/2026/09/27/6ab97823468aeb93398b458a.html"
+      "fecha": "2026-09-28T16:46:38+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/09/28/6aba7899e5fdeadf438b4574.html"
     },
     {
-      "titular": "El BCE descarta alzas de tipos de 50 puntos básicos pese a la inflación",
+      "titular": "Lagarde pide a la UE un despliegue intensivo de la Inteligencia Artificial",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-27T23:47:52+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/09/27/6ab974c8468aeb0e658b4576.html"
+      "fecha": "2026-09-28T16:40:56+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/09/28/6aba7c75e5fdea92448b4599.html"
     },
     {
-      "titular": "Iberdrola disputa a NextEra el liderazgo mundial",
+      "titular": "La IA en la banca mediana: cómo innovar sin perder la esencia",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-27T23:53:45+02:00",
-      "enlace": "https://www.expansion.com/empresas/energia/2026/09/27/6ab980b6e5fdea1f658b4579.html"
+      "fecha": "2026-09-28T16:33:38+02:00",
+      "enlace": "https://www.expansion.com/empresas/banca/encuentro-financiero/2026/09/28/6aba3da4e5fdea051c8b458e.html"
     },
     {
-      "titular": "La Primera de Expansión sobre Iberdrola, Riquelme, el BCE, Trump y Anthropic, Nvidia y guerra híbrida",
+      "titular": "Las imágenes del XVII Encuentro Financiero EXPANSIÓN-KPMG",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-28T07:22:43+02:00",
-      "enlace": "https://www.expansion.com/podcasts/la-primera-de-expansion/2026/09/28/6ab9f34de5fdea95098b4582.html"
+      "fecha": "2026-09-28T16:29:37+02:00",
+      "enlace": "https://www.expansion.com/empresas/banca/encuentro-financiero/album/2026/09/28/6aba26ace5fdea5f5e8b458e.html"
     },
     {
-      "titular": "El 'decreto Maricarmen' no sirve al vulnerable",
+      "titular": "Gotion pagará 1.100 millones para hacerse con el 49% de la gigafactoría de Volkswagen en Sagunto",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-27T16:44:54+02:00",
-      "enlace": "https://www.expansion.com/economia/politica/2026/09/27/6ab92b9be5fdeaa77b8b4570.html"
+      "fecha": "2026-09-28T16:27:25+02:00",
+      "enlace": "https://www.expansion.com/valencia/2026/09/28/6aba734b468aeb26548b459f.html"
     },
     {
-      "titular": "La Bolsa se acerca al \"punto de ebullición\"",
+      "titular": "Juan Orti:\"El 65% de las captaciones de American Express son jóvenes\"",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-27T23:39:43+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/09/27/6ab659bd468aeb83558b459d.html"
+      "fecha": "2026-09-28T16:08:27+02:00",
+      "enlace": "https://www.expansion.com/empresas/banca/encuentro-financiero/2026/09/28/6aba74d5e5fdea3e1b8b4577.html"
     },
     {
-      "titular": "Mina El Moto planea salir a la Bolsa de Londres para acompañar a Riontinto y Barroso",
+      "titular": "EEUU y China pactan una rebaja arancelaria de 60.000 millones de dólares: de carbón a juguetes",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-27T23:40:10+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/09/27/6ab94447468aebcc3c8b4574.html"
+      "fecha": "2026-09-28T16:04:19+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/09/28/6aba73dfe5fdea89378b4573.html"
     }
   ],
   "salud": {
@@ -78,16 +78,16 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 41,
+    "antiguedad_minima_min": 55,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 76,
+        "items": 93,
         "error": null,
-        "antiguedad_min": 41,
-        "descartados_por_gancho": 3
+        "antiguedad_min": 55,
+        "descartados_por_gancho": 1
       },
       {
         "medio": "Cinco Días",
