@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-09-28T00:26:26+02:00",
+  "generado": "2026-09-28T03:00:39+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -32,13 +32,13 @@
       "enlace": "https://www.lavanguardia.com/politica/20260927/11645036/sanchez-asegura-maricarmen-trabaja-reloj-aprobar-decreto-antidesahucios.html"
     },
     {
-      "titular": "Joao Félix abandera el sorpaso de Portugal ante Noruega",
+      "titular": "Dos meses del fuego que llegó hasta las puertas del espacio: «Salvaron la antena que nos conecta con las estrellas»",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-27T22:51:34+02:00",
-      "enlace": "https://www.abc.es/deportes/futbol/joao-felix-abandera-sorpaso-portugal-ante-noruega-20260927224914-nt.html"
+      "fecha": "2026-09-28T02:17:21+02:00",
+      "enlace": "https://www.abc.es/ciencia/dos-meses-fuego-llego-puertas-espacio-incendio-20260928014428-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 3,
+    "antiguedad_minima_min": 26,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2262201,
+        "antiguedad_min": 2262355,
         "descartados_por_gancho": 0
       },
       {
@@ -99,26 +99,26 @@
         "ok": true,
         "items": 140,
         "error": null,
-        "antiguedad_min": 3,
+        "antiguedad_min": 26,
         "descartados_por_gancho": 6
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 130,
+        "items": 125,
         "error": null,
-        "antiguedad_min": 78,
-        "descartados_por_gancho": 22
+        "antiguedad_min": 115,
+        "descartados_por_gancho": 18
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 24,
+        "items": 23,
         "error": null,
-        "antiguedad_min": 94,
-        "descartados_por_gancho": 1
+        "antiguedad_min": 43,
+        "descartados_por_gancho": 2
       }
     ]
   }

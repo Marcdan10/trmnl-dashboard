@@ -2,16 +2,16 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-09-28T00:26:31+02:00",
+  "generado": "2026-09-28T03:00:43+02:00",
   "titulares": [
     {
-      "titular": "España, campeona del mundo sub-20 ante Corea del Norte",
+      "titular": "Lamine se carga de razones para ganar el Balón de Oro",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-27T21:01:07+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/femenino/20260927/1004231822/corea-norte-espana.html"
+      "fecha": "2026-09-28T00:30:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260928/1004231781/lamine-carga-razones-ganar-balon-oro.html"
     },
     {
       "titular": "Dabiz Muñoz, chef, desvela el secreto de la puntilla crujiente: \"Freír un huevo se puede hacer muy bien o muy mal\"",
@@ -23,13 +23,13 @@
       "enlace": "https://www.marca.com/tiramillas/gastronomia/2026/09/25/dabiz-munoz-chef-sobre-secreto-puntilla-crujiente-freir-huevo-bien-mal.html"
     },
     {
-      "titular": "Rosalía Domínguez (Barça), Balón de Oro del Mundial Sub-20",
+      "titular": "Eric Garcia deja la selección con molestias para evitar más riesgos",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-27T21:21:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260927/1004231888/rosalia-dominguez-barca-balon-oro-mundial-sub-20.html"
+      "fecha": "2026-09-27T17:30:48+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260927/1004231815/eric-garcia-deja-seleccion-molestias-evitar-riesgos.html"
     },
     {
       "titular": "Septiembre, el mes en el que más parejas rompen: el mes donde el amor llega a su fin",
@@ -41,13 +41,13 @@
       "enlace": "https://www.marca.com/bienestar/psicologia-sexo/2026/09/25/septiembre-mes-parejas-rompen-ocurre-durante-verano-amor-llegue.html"
     },
     {
-      "titular": "Sesión vespertina de recuperación aún sin Le Normand",
+      "titular": "España se proclama campeona del mundo sub-20 ante Corea del Norte",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-27T21:13:33+02:00",
-      "enlace": "https://www.mundodeportivo.com/seleccion-espanola/20260927/1004231890/sesion-vespertina-recuperacion-aun-le-normand.html"
+      "fecha": "2026-09-27T21:01:07+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/femenino/20260927/1004231822/corea-norte-espana.html"
     },
     {
       "titular": "Chema Andrés: \"Me halaga que me comparen con Rodri, pero yo quiero ser Chema Andrés\"",
@@ -59,13 +59,13 @@
       "enlace": "https://www.marca.com/futbol/seleccion/2026/09/25/chema-andres-me-halaga-me-comparen-rodri-quiero-chema-andres.html"
     },
     {
-      "titular": "1-2. Primer triunfo de 'La Naranja MeXavicánica'",
+      "titular": "El detallazo de Lamine con Declan Rice y el elogio del inglés: \"Eres el mejor\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-27T19:53:49+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/uefa-nations-league/20260927/1004231860/xavi-hernandez.html"
+      "fecha": "2026-09-28T00:01:37+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260928/1004231947/detallazo-lamine-declan-rice-elogio-ingles-mejor.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 34,
+    "antiguedad_minima_min": 150,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 65,
         "error": null,
-        "antiguedad_min": 3897,
+        "antiguedad_min": 4051,
         "descartados_por_gancho": 5
       },
       {
@@ -99,9 +99,9 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 133,
+        "items": 134,
         "error": null,
-        "antiguedad_min": 34,
+        "antiguedad_min": 150,
         "descartados_por_gancho": 5
       },
       {
