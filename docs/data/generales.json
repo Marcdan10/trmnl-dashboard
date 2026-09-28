@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-09-28T03:00:39+02:00",
+  "generado": "2026-09-28T09:12:49+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -14,31 +14,31 @@
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
     },
     {
-      "titular": "Sánchez apremia a los socios a apoyar el decreto de vivienda “por Maricarmen y los millones de españoles que sufren la crisis”",
+      "titular": "La rabia de los jóvenes por la vivienda activa la cuenta atrás en el reloj de Sol: 48 horas para un decreto real",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-27T15:24:26+02:00",
-      "enlace": "https://elpais.com/espana/2026-09-27/sanchez-apremia-a-los-socios-a-apoyar-el-decreto-de-vivienda-por-maricarmen-y-los-millones-de-espanoles-que-sufren-la-crisis.html"
+      "fecha": "2026-09-28T07:49:46+02:00",
+      "enlace": "https://elpais.com/espana/madrid/2026-09-28/la-rabia-de-los-jovenes-por-la-vivienda-activa-la-cuenta-atras-en-el-reloj-de-sol-48-horas-para-un-decreto-real.html"
     },
     {
-      "titular": "Sánchez asegura a Maricarmen que “trabaja contra reloj” para aprobar el decreto antidesahucios",
+      "titular": "El Gobierno busca in extremis encajar a Junts y Podemos en el decreto de vivienda",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-27T13:43:29+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20260927/11645036/sanchez-asegura-maricarmen-trabaja-reloj-aprobar-decreto-antidesahucios.html"
+      "fecha": "2026-09-28T06:00:00+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20260928/11645151/gobierno-busca-in-extremis-encaje-junts-decreto-vivienda.html"
     },
     {
-      "titular": "Dos meses del fuego que llegó hasta las puertas del espacio: «Salvaron la antena que nos conecta con las estrellas»",
+      "titular": "El delegado del Gobierno en Ceuta dimitirá en las próximas horas",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-28T02:17:21+02:00",
-      "enlace": "https://www.abc.es/ciencia/dos-meses-fuego-llego-puertas-espacio-incendio-20260928014428-nt.html"
+      "fecha": "2026-09-28T09:01:41+02:00",
+      "enlace": "https://www.abc.es/espana/delegado-gobierno-ceuta-dimitira-proximas-horas-20260928083132-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -50,22 +50,22 @@
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
     },
     {
-      "titular": "Madrid acusa de “absoluta negligencia” al Gobierno por permitir la acampada en Sol y el delegado responde que la policía no actúa si no hay disturbios",
+      "titular": "El Gobierno apura la negociación del decreto de vivienda con ayudas a la compra y blindaje del parque público",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-27T22:17:18+02:00",
-      "enlace": "https://elpais.com/espana/madrid/2026-09-27/madrid-acusa-de-absoluta-negligencia-al-gobierno-por-no-disolver-la-acampada-en-sol-y-el-delegado-responde-que-la-policia-no-actua-si-no-hay-disturbios.html"
+      "fecha": "2026-09-28T09:02:21+02:00",
+      "enlace": "https://elpais.com/economia/2026-09-28/el-gobierno-apura-la-negociacion-del-decreto-de-vivienda-con-ayudas-a-la-compra-y-blindaje-del-parque-publico.html"
     },
     {
-      "titular": "España se rompe... por otro lado",
+      "titular": "Sánchez aboga por convertir la protesta en votos contra Ayuso y el PP",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-27T06:00:00+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20260927/11644559/espana-rompe-lado-vox-traicion-sanchez.html"
+      "fecha": "2026-09-28T06:00:00+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20260928/11645177/sanchez-aboga-convertir-protesta-votos-ayuso-pp.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 26,
+    "antiguedad_minima_min": 10,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2262355,
+        "antiguedad_min": 2262727,
         "descartados_por_gancho": 0
       },
       {
@@ -97,28 +97,28 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 140,
+        "items": 130,
         "error": null,
-        "antiguedad_min": 26,
-        "descartados_por_gancho": 6
+        "antiguedad_min": 10,
+        "descartados_por_gancho": 8
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 125,
+        "items": 115,
         "error": null,
-        "antiguedad_min": 115,
-        "descartados_por_gancho": 18
+        "antiguedad_min": 33,
+        "descartados_por_gancho": 16
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 23,
+        "items": 25,
         "error": null,
-        "antiguedad_min": 43,
-        "descartados_por_gancho": 2
+        "antiguedad_min": 11,
+        "descartados_por_gancho": 0
       }
     ]
   }

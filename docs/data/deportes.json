@@ -2,7 +2,7 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-09-28T03:00:43+02:00",
+  "generado": "2026-09-28T09:12:56+02:00",
   "titulares": [
     {
       "titular": "Lamine se carga de razones para ganar el Balón de Oro",
@@ -41,13 +41,13 @@
       "enlace": "https://www.marca.com/bienestar/psicologia-sexo/2026/09/25/septiembre-mes-parejas-rompen-ocurre-durante-verano-amor-llegue.html"
     },
     {
-      "titular": "España se proclama campeona del mundo sub-20 ante Corea del Norte",
+      "titular": "El Barça, entre los que más corren y el Madrid, el último",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-27T21:01:07+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/femenino/20260927/1004231822/corea-norte-espana.html"
+      "fecha": "2026-09-28T07:00:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260928/1004231917/barca-corren-madrid-ultimo.html"
     },
     {
       "titular": "Chema Andrés: \"Me halaga que me comparen con Rodri, pero yo quiero ser Chema Andrés\"",
@@ -59,13 +59,13 @@
       "enlace": "https://www.marca.com/futbol/seleccion/2026/09/25/chema-andres-me-halaga-me-comparen-rodri-quiero-chema-andres.html"
     },
     {
-      "titular": "El detallazo de Lamine con Declan Rice y el elogio del inglés: \"Eres el mejor\"",
+      "titular": "\"A fardar de segunda estrella en Wembley\"",
       "medios": [
-        "Mundo Deportivo"
+        "Marca"
       ],
       "consenso": 1,
-      "fecha": "2026-09-28T00:01:37+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260928/1004231947/detallazo-lamine-declan-rice-elogio-ingles-mejor.html"
+      "fecha": "2026-09-25T07:14:16+02:00",
+      "enlace": "https://www.marca.com/futbol/seleccion/opinion/2026/09/25/fardar-segunda-estrella-wembley.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 150,
+    "antiguedad_minima_min": 21,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 65,
         "error": null,
-        "antiguedad_min": 4051,
+        "antiguedad_min": 4423,
         "descartados_por_gancho": 5
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 134,
+        "items": 133,
         "error": null,
-        "antiguedad_min": 150,
-        "descartados_por_gancho": 5
+        "antiguedad_min": 21,
+        "descartados_por_gancho": 4
       },
       {
         "medio": "Sport",
