@@ -2,61 +2,62 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-09-28T17:42:29+02:00",
+  "generado": "2026-09-28T23:30:29+02:00",
   "titulares": [
     {
-      "titular": "Directo | Elon Musk logra poner en órbita Starship, la nave espacial más grande de la historia",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-28T17:31:08+02:00",
-      "enlace": "https://elpais.com/ciencia/2026-09-28/lanzamiento-del-cohete-starship-de-elon-musk-la-nave-espacial-mas-grande-de-la-historia.html"
-    },
-    {
-      "titular": "Los detalles del decreto ley de Moncloa sobre vivienda con el que quieren convencer a sus socios",
+      "titular": "Maricarmen podrá volver a casa tras alcanzar un acuerdo con Urbagestión",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-28T17:23:17+02:00",
+      "fecha": "2026-09-28T23:29:05+02:00",
+      "enlace": "https://www.abc.es/espana/madrid/primera-reunion-maricarmen-recupere-hogar-objetivo-vuelva-20260928174348-nt.html"
+    },
+    {
+      "titular": "El Gobierno quiere prorrogar dos años los alquileres y prohibir los desahucios hasta 2028",
+      "medios": [
+        "El País",
+        "ABC"
+      ],
+      "consenso": 2,
+      "fecha": "2026-09-28T23:21:39+02:00",
       "enlace": "https://www.abc.es/economia/proteccion-ante-desahucios-bonificaciones-fiscales-ayudas-primera-20260928093524-nt.html"
     },
     {
-      "titular": "Pumpido propone que se inste al Supremo a que amnistíe la malversación del 'procés' con carácter «preferente y urgente»",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-28T17:22:00+02:00",
-      "enlace": "https://www.abc.es/espana/borrador-condepumpido-insta-supremo-amnistie-malversacion-caracter-20260928165943-nt.html"
-    },
-    {
-      "titular": "mejores cuentas sin comisiones de 2026: Openbank, Bankinter y más",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-28T17:12:28+02:00",
-      "enlace": "https://www.lavanguardia.com/comprar/finanzas/20260427/11522012/mejores-cuentas-sin-comisiones-top3-2026-mkt-klt.html"
-    },
-    {
-      "titular": "Así será el primer ‘MasterChef Junior’ de Disney+: fecha de estreno, episodios más cortos y otros detalles",
+      "titular": "Milei se pelea con los datos oficiales sobre la economía: “Los indicadores están arrojando cualquier cosa”",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-28T17:09:04+02:00",
-      "enlace": "https://elpais.com/television/2026-09-28/asi-sera-el-primer-masterchef-junior-de-disney-fecha-de-estreno-episodios-mas-cortos-y-otros-detalles.html"
+      "fecha": "2026-09-28T23:12:26+02:00",
+      "enlace": "https://elpais.com/argentina/2026-09-28/milei-se-pelea-con-los-datos-oficiales-sobre-la-economia-los-indicadores-estan-arrojando-cualquier-cosa.html"
     },
     {
-      "titular": "Menos luz, más seguridad: 8 cámaras de vigilancia para interiores y exteriores, fáciles de instalar y que bajan de precio este otoño",
+      "titular": "Esta es la serie británica más vista en el Reino Unido",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-28T17:04:24+02:00",
-      "enlace": "https://www.lavanguardia.com/comprar/tecnologia/20260928/11645451/menoz-luz-seguridad-8-camaras-vigilancia-interiores-exteriores-faciles-instalar-hogar-otono-mkt-alie.html"
+      "fecha": "2026-09-28T22:47:57+02:00",
+      "enlace": "https://www.lavanguardia.com/series/20260928/11646149/ludgwig-serie-britanica-mas-vista-reino-unido.html"
+    },
+    {
+      "titular": "Protecció Civil envía una alerta por lluvias intensas a trece comarcas catalanas",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-28T22:27:46+02:00",
+      "enlace": "https://www.lavanguardia.com/vida/20260928/11646140/proteccio-civil-envia-alerta-lluvias-intensas-trece-comarcas-catalanas.html"
+    },
+    {
+      "titular": "El borrador de Pumpido insta al Supremo a que amnistíe la malversación del 'procés' con carácter «preferente y urgente»",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-28T22:06:47+02:00",
+      "enlace": "https://www.abc.es/espana/borrador-condepumpido-insta-supremo-amnistie-malversacion-caracter-20260928165943-nt.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -74,7 +75,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 11,
+    "antiguedad_minima_min": 1,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +83,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2263237,
+        "antiguedad_min": 2263585,
         "descartados_por_gancho": 0
       },
       {
@@ -97,28 +98,28 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 140,
+        "items": 148,
         "error": null,
-        "antiguedad_min": 11,
-        "descartados_por_gancho": 8
+        "antiguedad_min": 18,
+        "descartados_por_gancho": 6
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 127,
+        "items": 147,
         "error": null,
-        "antiguedad_min": 30,
-        "descartados_por_gancho": 14
+        "antiguedad_min": 42,
+        "descartados_por_gancho": 11
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 25,
+        "items": 24,
         "error": null,
-        "antiguedad_min": 19,
-        "descartados_por_gancho": 0
+        "antiguedad_min": 1,
+        "descartados_por_gancho": 1
       }
     ]
   }

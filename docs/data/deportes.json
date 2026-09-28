@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-09-28T17:42:35+02:00",
+  "generado": "2026-09-28T23:30:34+02:00",
   "titulares": [
     {
-      "titular": "Monchi habla sobre el Balón de Oro: \"Si tiro por ser español, lo merecería Lamine\"",
+      "titular": "Malos tiempos para la figura que se destapó en 2025: adiós a 2026 por lesión de muñeca",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-28T17:25:37+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/balon-oro/20260928/1004232200/monchi-habla-sobre-balon-oro-tiro-espanol-mereceria-lamine-yamal.html"
+      "fecha": "2026-09-28T22:52:24+02:00",
+      "enlace": "https://www.mundodeportivo.com/tenis/20260928/1004232337/malos-tiempos-figura-destapo-2025-adios-2026-lesion-muneca.html"
     },
     {
-      "titular": "Oficial: el exazulgrana Neto ficha por la Juventus",
+      "titular": "Tras hacer historia en el Mundial de ciclismo con 5 medallas, 3 de oro, España va a por todas en el Campeonato de Europa",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-28T17:25:05+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/20260928/1004232199/oficial-neto-nuevo-fichaje-juventus.html"
+      "fecha": "2026-09-28T22:52:22+02:00",
+      "enlace": "https://www.mundodeportivo.com/ciclismo/20260928/1004232335/historia-mundial-ciclismo-5-medallas-3-oro-espana-todas-campeonato-europa.html"
     },
     {
       "titular": "Dabiz Muñoz, chef, desvela el secreto de la puntilla crujiente: \"Freír un huevo se puede hacer muy bien o muy mal\"",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/bienestar/psicologia-sexo/2026/09/25/septiembre-mes-parejas-rompen-ocurre-durante-verano-amor-llegue.html"
     },
     {
-      "titular": "Íñiguez, sobre la previa de Euroliga: \"Es un partido que nos llega pronto\"",
+      "titular": "Otro palo médico para Porzingis",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-28T17:15:22+02:00",
-      "enlace": "https://www.mundodeportivo.com/baloncesto/liga-femenina/20260928/1004232197/iniguez-sobre-previa-euroliga-partido-llega-pronto.html"
+      "fecha": "2026-09-28T22:45:03+02:00",
+      "enlace": "https://www.mundodeportivo.com/baloncesto/nba/20260928/1004232333/palo-medico-porzingis.html"
     },
     {
-      "titular": "Los entrenadores coinciden sobre el principal beneficio del ejercicio de fuerza",
+      "titular": "1-4: La nueva Italia de Mancini golea y se reivindica en Turquía",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-28T17:12:35+02:00",
-      "enlace": "https://www.mundodeportivo.com/running/20260928/1004232195/entrenadores-coinciden-ejercicio-fuerza-no-fundamental-mantener-masa-muscular-disfrutar-vida-plena-dct.html"
+      "fecha": "2026-09-28T22:39:20+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/uefa-nations-league/20260928/1004232290/italia-mancini.html"
     },
     {
-      "titular": "La Euroliga designará los árbitros con un sistema de inteligencia artificial",
+      "titular": "Ya hay acuerdo: Maricarmen y Urbagestión pactan su regreso a casa",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-28T17:10:28+02:00",
-      "enlace": "https://www.mundodeportivo.com/baloncesto/euroliga/20260928/1004232194/euroliga-designara-arbitros-sistema-inteligencia-artificial.html"
+      "fecha": "2026-09-28T22:31:56+02:00",
+      "enlace": "https://www.mundodeportivo.com/actualidad/20260928/1004232326/hay-acuerdo-familia-maricarmen-urbagestion-pactan-condiciones-mujer-87-anos-pueda-volver-casa-dct.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 16,
+    "antiguedad_minima_min": 38,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 65,
         "error": null,
-        "antiguedad_min": 4933,
+        "antiguedad_min": 5281,
         "descartados_por_gancho": 5
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 136,
+        "items": 132,
         "error": null,
-        "antiguedad_min": 16,
-        "descartados_por_gancho": 2
+        "antiguedad_min": 38,
+        "descartados_por_gancho": 3
       },
       {
         "medio": "Sport",
