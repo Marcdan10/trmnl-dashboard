@@ -1,18 +1,9 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "portadas",
-  "generado": "2026-09-29T09:10:16+02:00",
+  "modo": "ultimas",
+  "generado": "2026-09-29T16:11:12+02:00",
   "titulares": [
-    {
-      "titular": "Las obras del Spotify Camp Nou, desde dentro: todas las novedades de las gradas",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-29T00:30:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260929/1004232267/obras-spotify-camp-nou-todas-novedades-gradas.html"
-    },
     {
       "titular": "Dabiz Muñoz, chef, desvela el secreto de la puntilla crujiente: \"Freír un huevo se puede hacer muy bien o muy mal\"",
       "medios": [
@@ -21,15 +12,6 @@
       "consenso": 1,
       "fecha": "2026-09-25T07:29:12+02:00",
       "enlace": "https://www.marca.com/tiramillas/gastronomia/2026/09/25/dabiz-munoz-chef-sobre-secreto-puntilla-crujiente-freir-huevo-bien-mal.html"
-    },
-    {
-      "titular": "Así son los espectaculares nuevos vestuarios del Spotify Camp Nou",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-28T20:00:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260928/1004232143/espectaculares-nuevos-vestuarios-spotify-camp-nou.html"
     },
     {
       "titular": "Septiembre, el mes en el que más parejas rompen: el mes donde el amor llega a su fin",
@@ -41,15 +23,6 @@
       "enlace": "https://www.marca.com/bienestar/psicologia-sexo/2026/09/25/septiembre-mes-parejas-rompen-ocurre-durante-verano-amor-llegue.html"
     },
     {
-      "titular": "Un estadio para cerrar un Mundial",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-29T07:00:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260929/1004232297/estadio-cerrar-mundial.html"
-    },
-    {
       "titular": "Chema Andrés: \"Me halaga que me comparen con Rodri, pero yo quiero ser Chema Andrés\"",
       "medios": [
         "Marca"
@@ -59,23 +32,51 @@
       "enlace": "https://www.marca.com/futbol/seleccion/2026/09/25/chema-andres-me-halaga-me-comparen-rodri-quiero-chema-andres.html"
     },
     {
-      "titular": "En marcha una carpa para cocina externa y el Museu, antes de Navidad",
+      "titular": "\"A fardar de segunda estrella en Wembley\"",
       "medios": [
-        "Mundo Deportivo"
+        "Marca"
       ],
       "consenso": 1,
-      "fecha": "2026-09-29T00:30:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260929/1004232275/marcha-carpa-cocina-externa-museu-navidad.html"
+      "fecha": "2026-09-25T07:14:16+02:00",
+      "enlace": "https://www.marca.com/futbol/seleccion/opinion/2026/09/25/fardar-segunda-estrella-wembley.html"
+    },
+    {
+      "titular": "El sorprendente líder que reina en la Superliga de Salah, Osimhen, Leao, Asensio, Vlahovic, Greenwood...",
+      "medios": [
+        "Marca"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-25T07:12:34+02:00",
+      "enlace": "https://www.marca.com/futbol/2026/09/25/sorprendente-lider-reina-superliga-salah-osimhen-leao-asensio-vlahovic-greenwood.html"
+    },
+    {
+      "titular": "Toyota integra 400.000 robots en sus fábricas, pide a los trabajadores humanos que los entrenen y prometen que no le sustituirán",
+      "medios": [
+        "Marca"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-25T07:12:23+02:00",
+      "enlace": "https://www.marca.com/tecnologia/2026/09/25/toyota-integrara-400-000-robots-fabricas-pedira-trabajadores-humanos-entrenen-les-prometen-le-sustituiran.html"
+    },
+    {
+      "titular": "Bélgica le abre las puertas a sus nuevos ‘diablillos’... tras haber movido 190 'kilos'",
+      "medios": [
+        "Marca"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-25T07:10:22+02:00",
+      "enlace": "https://www.marca.com/futbol/nations-league/2026/09/25/belgica-le-abre-puertas-nuevos-diablillos-haber-movido-190-kilos-potencial-enorme.html"
     }
   ],
   "salud": {
     "feeds_totales": 5,
-    "feeds_ok": 3,
+    "feeds_ok": 2,
     "feeds_caidos": [
+      "Mundo Deportivo",
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 14,
+    "antiguedad_minima_min": 6281,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +84,7 @@
         "ok": true,
         "items": 65,
         "error": null,
-        "antiguedad_min": 5861,
+        "antiguedad_min": 6281,
         "descartados_por_gancho": 5
       },
       {
@@ -98,11 +99,10 @@
       {
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
-        "ok": true,
-        "items": 131,
-        "error": null,
-        "antiguedad_min": 14,
-        "descartados_por_gancho": 4
+        "ok": false,
+        "items": 0,
+        "error": "IncompleteRead: IncompleteRead(303120 bytes read)",
+        "antiguedad_min": null
       },
       {
         "medio": "Sport",
