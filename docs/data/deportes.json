@@ -2,7 +2,7 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-09-29T03:23:27+02:00",
+  "generado": "2026-09-29T09:10:16+02:00",
   "titulares": [
     {
       "titular": "Las obras del Spotify Camp Nou, desde dentro: todas las novedades de las gradas",
@@ -41,13 +41,13 @@
       "enlace": "https://www.marca.com/bienestar/psicologia-sexo/2026/09/25/septiembre-mes-parejas-rompen-ocurre-durante-verano-amor-llegue.html"
     },
     {
-      "titular": "En marcha una carpa para cocina externa y el Museu, antes de Navidad",
+      "titular": "Un estadio para cerrar un Mundial",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-29T00:30:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260929/1004232275/marcha-carpa-cocina-externa-museu-navidad.html"
+      "fecha": "2026-09-29T07:00:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260929/1004232297/estadio-cerrar-mundial.html"
     },
     {
       "titular": "Chema Andrés: \"Me halaga que me comparen con Rodri, pero yo quiero ser Chema Andrés\"",
@@ -59,13 +59,13 @@
       "enlace": "https://www.marca.com/futbol/seleccion/2026/09/25/chema-andres-me-halaga-me-comparen-rodri-quiero-chema-andres.html"
     },
     {
-      "titular": "Gordon se siente más valorado en el Barça que en la Premier",
+      "titular": "En marcha una carpa para cocina externa y el Museu, antes de Navidad",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-29T00:09:53+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260929/1004232364/gordon-siente-valorado-barca-premier-league.html"
+      "fecha": "2026-09-29T00:30:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260929/1004232275/marcha-carpa-cocina-externa-museu-navidad.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 172,
+    "antiguedad_minima_min": 14,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 65,
         "error": null,
-        "antiguedad_min": 5514,
+        "antiguedad_min": 5861,
         "descartados_por_gancho": 5
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 133,
+        "items": 131,
         "error": null,
-        "antiguedad_min": 172,
-        "descartados_por_gancho": 2
+        "antiguedad_min": 14,
+        "descartados_por_gancho": 4
       },
       {
         "medio": "Sport",

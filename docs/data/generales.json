@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-09-29T03:23:22+02:00",
+  "generado": "2026-09-29T09:10:11+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -23,22 +23,13 @@
       "enlace": "https://elpais.com/espana/2026-09-28/negociacion-de-vertigo-para-pactar-un-decreto-de-vivienda-que-habria-sido-imposible-sin-maricarmen.html"
     },
     {
-      "titular": "Noche de magisterio: éxito es talento, cultura del esfuerzo y dejar legado",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-29T01:25:21+02:00",
-      "enlace": "https://www.lavanguardia.com/vida/20260929/11646183/noche-magisterio-exito-talento-cultura-esfuerzo-dejar-legado.html"
-    },
-    {
-      "titular": "El planeta más joven del Universo",
+      "titular": "La Policía detecta la operativa de una furgoneta dando órdenes a los inmigrantes en El Trampolín (Ceuta)",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-29T02:51:00+02:00",
-      "enlace": "https://www.abc.es/podcast/materia-oscura/planeta-joven-universo-20260929025100-aud.html"
+      "fecha": "2026-09-29T08:39:46+02:00",
+      "enlace": "https://www.abc.es/espana/policia-detecta-operativa-furgoneta-dando-ordenes-inmigrantes-20260928021030-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -50,14 +41,13 @@
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
     },
     {
-      "titular": "Urbagestión llega a un acuerdo con los representantes de Maricarmen para que vuelva a su casa",
+      "titular": "Acampada en Sol por la vivienda, en directo | Continúa la negociación entre el PSOE y Sumar en Moncloa a pocos minutos del Consejo de Ministros",
       "medios": [
-        "El País",
-        "La Vanguardia"
+        "El País"
       ],
-      "consenso": 2,
-      "fecha": "2026-09-28T22:48:49+02:00",
-      "enlace": "https://elpais.com/espana/madrid/2026-09-28/urbagestion-llega-a-un-acuerdo-con-los-representantes-de-maricarmen-para-que-vuelva-a-su-casa.html"
+      "consenso": 1,
+      "fecha": "2026-09-29T09:07:33+02:00",
+      "enlace": "https://elpais.com/espana/2026-09-29/acampada-en-sol-por-la-vivienda-en-directo.html"
     },
     {
       "titular": "Estos son los 10 galardonados de la cuarta edición de los Premios Vanguardia",
@@ -67,6 +57,15 @@
       "consenso": 1,
       "fecha": "2026-09-28T21:01:04+02:00",
       "enlace": "https://www.lavanguardia.com/vida/20260928/11645925/son-10-galardonados-cuarta-edicion-premios-vanguardia.html"
+    },
+    {
+      "titular": "La oferta de vivienda de alquiler cae en 300.000 cuando el Gobierno prometió 184.000 más y es un 40% más cara",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-29T08:28:33+02:00",
+      "enlace": "https://www.abc.es/economia/precio-alquiler-sube-sanchez-pierden-300000-pisos-20260929012106-nt.html"
     }
   ],
   "salud": {
@@ -75,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 32,
+    "antiguedad_minima_min": 2,
     "detalle": [
       {
         "medio": "RTVE",
@@ -83,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2263818,
+        "antiguedad_min": 2264165,
         "descartados_por_gancho": 0
       },
       {
@@ -98,28 +97,28 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 149,
+        "items": 146,
         "error": null,
-        "antiguedad_min": 173,
-        "descartados_por_gancho": 5
+        "antiguedad_min": 2,
+        "descartados_por_gancho": 4
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 146,
+        "items": 122,
         "error": null,
-        "antiguedad_min": 118,
-        "descartados_por_gancho": 9
+        "antiguedad_min": 80,
+        "descartados_por_gancho": 17
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 24,
+        "items": 25,
         "error": null,
-        "antiguedad_min": 32,
-        "descartados_por_gancho": 1
+        "antiguedad_min": 30,
+        "descartados_por_gancho": 0
       }
     ]
   }

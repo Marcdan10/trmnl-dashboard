@@ -2,17 +2,8 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "portadas",
-  "generado": "2026-09-29T03:23:26+02:00",
+  "generado": "2026-09-29T09:10:14+02:00",
   "titulares": [
-    {
-      "titular": "La hija de Sol Daurella entra en el consejo de Cobega",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-29T02:29:48+02:00",
-      "enlace": "https://www.expansion.com/empresas/distribucion/2026/09/29/6abadd21e5fdead3408b4594.html"
-    },
     {
       "titular": "El PSOE busca un acuerdo 'in extremis' para intervenir el mercado de la vivienda",
       "medios": [
@@ -23,13 +14,31 @@
       "enlace": "https://www.expansion.com/economia/2026/09/28/6abaa10a468aeb90718b4573.html"
     },
     {
-      "titular": "Peugeot producirá en Vigo la nueva generación del Partner y el 2008",
+      "titular": "La hija de Sol Daurella entra en el consejo de Cobega",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-29T02:29:49+02:00",
-      "enlace": "https://www.expansion.com/empresas/motor/2026/09/29/6abab443468aeb17228b4576.html"
+      "fecha": "2026-09-29T02:29:48+02:00",
+      "enlace": "https://www.expansion.com/empresas/distribucion/2026/09/29/6abadd21e5fdead3408b4594.html"
+    },
+    {
+      "titular": "La inflación se dispara hasta el 4,9% en septiembre por las gasolinas",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-29T09:02:12+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/09/29/6abb5db0e5fdea3e108b4582.html"
+    },
+    {
+      "titular": "La Primera de Expansión sobre vivienda, encuentro financiero, Open AI, Anthropic, Shein y Macron",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-29T07:27:01+02:00",
+      "enlace": "https://www.expansion.com/podcasts/la-primera-de-expansion/2026/09/29/6abb473d468aeb10578b4574.html"
     },
     {
       "titular": "Cuerpo: \"El sector financiero es un actor relevante para afrontar el acceso a la vivienda\"",
@@ -57,15 +66,6 @@
       "consenso": 1,
       "fecha": "2026-09-28T12:25:35+02:00",
       "enlace": "https://www.expansion.com/empresas/banca/encuentro-financiero/2026/09/28/6aba31cde5fdea9a568b458f.html"
-    },
-    {
-      "titular": "La gran cumbre de las finanzas, la banca y los seguros",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-23T00:04:00+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/encuentro-financiero/2026/09/23/6ab2df10e5fdeaed478b457b.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 53,
+    "antiguedad_minima_min": 7,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 81,
+        "items": 84,
         "error": null,
-        "antiguedad_min": 53,
+        "antiguedad_min": 7,
         "descartados_por_gancho": 1
       },
       {
