@@ -2,62 +2,62 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-09-29T16:11:07+02:00",
+  "generado": "2026-09-29T21:31:03+02:00",
   "titulares": [
     {
-      "titular": "Los profesores de primaria de España dan 186 horas más de clase al año que los de secundaria y encabezan la brecha de los países desarrollados",
+      "titular": "España - Croacia en directo | Pubill vuelve a poner por delante a España",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-29T16:00:20+02:00",
-      "enlace": "https://elpais.com/educacion/2026-09-29/los-profesores-de-primaria-de-espana-dan-186-horas-mas-de-clase-al-ano-que-los-de-secundaria-y-encabezan-la-brecha-de-los-paises-desarrollados.html"
+      "fecha": "2026-09-29T21:26:36+02:00",
+      "enlace": "https://elpais.com/deportes/futbol/2026-09-29/espana-croacia-en-directo-el-partido-de-la-nations-league-en-vivo.html"
     },
     {
-      "titular": "Acampada en Sol por la vivienda, en directo | Junts y Podemos no aclaran el sentido de su voto sobre los decretos de vivienda",
+      "titular": "Más de 200.000 personas protestan en Francia en una huelga de funcionarios contra los recortes",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-29T21:15:16+02:00",
+      "enlace": "https://www.abc.es/internacional/huelga-protestas-francia-subida-precio-combustibles-20260929201745-nt.html"
+    },
+    {
+      "titular": "La Reina Letizia deslumbra con la tiara floral y un vestido azul cielo en la cena de gala en honor a Macron",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-29T21:12:50+02:00",
+      "enlace": "https://www.abc.es/estilo/moda/reina-letizia-deslumbra-tiara-floral-vestido-azul-20260929204629-nt.html"
+    },
+    {
+      "titular": "Simón da un vuelco a la cúpula de Indra: prescinde de cinco directivos de la época Escribano",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-29T15:55:34+02:00",
-      "enlace": "https://elpais.com/espana/2026-09-29/acampada-en-sol-por-la-vivienda-en-directo.html"
+      "fecha": "2026-09-29T21:07:33+02:00",
+      "enlace": "https://cincodias.elpais.com/companias/2026-09-29/simon-da-un-vuelco-a-la-cupula-de-indra-prescinde-de-cinco-directivos-de-la-epoca-escribano.html"
     },
     {
-      "titular": "El primer Pleno del curso constata la salida de los dos diputados rebeldes de Vox y el relevo de Enma López de la cúpula del PSOE",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-29T15:53:38+02:00",
-      "enlace": "https://www.abc.es/espana/madrid/primer-pleno-curso-constata-salida-dos-diputados-20260929150800-nt.html"
-    },
-    {
-      "titular": "Las medidas anunciadas, una a una: de un contrato indefinido sin concretar a las rebajas fiscales",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-29T15:52:57+02:00",
-      "enlace": "https://www.abc.es/economia/cuentas-corrientes/medidas-sobre-vivienda-aprobadas-gobierno-20260929142157-nt.html"
-    },
-    {
-      "titular": "Comparativa de arrancadores de batería para coche en 2026",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-29T15:17:22+02:00",
-      "enlace": "https://www.lavanguardia.com/comprar/mas-valorados/20260929/11645898/mejores-arrancadores-bateria-coche-comparativa-mkt-eo.html"
-    },
-    {
-      "titular": "Fernando Alonso renueva un año con Aston Martin: «Me retiraré de la Fórmula 1... pero no todavía»",
+      "titular": "Recuperar el despido por absentismo y eliminar los complementos salariales para volver al nivel de bajas de 2019",
       "medios": [
         "La Vanguardia",
         "ABC"
       ],
       "consenso": 2,
-      "fecha": "2026-09-29T15:13:24+02:00",
-      "enlace": "https://www.abc.es/deportes/formula-1/fernando-alonso-renueva-ano-aston-martin-retirare-20260929131402-nt.html"
+      "fecha": "2026-09-29T20:34:03+02:00",
+      "enlace": "https://www.abc.es/economia/recuperar-despido-absentismo-eliminar-complementos-salariales-volver-20260929134212-nt.html"
+    },
+    {
+      "titular": "El PSOE nombra a una gestora en Ceuta tras la dimisión de Pérez Triano por la crisis migratoria",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-29T20:23:41+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20260929/11647044/psoe-nombra-gestora-ceuta-dimision-perez-triano-crisis-migratoria.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -75,7 +75,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 10,
+    "antiguedad_minima_min": 4,
     "detalle": [
       {
         "medio": "RTVE",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2264586,
+        "antiguedad_min": 2264906,
         "descartados_por_gancho": 0
       },
       {
@@ -91,35 +91,35 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 500",
+        "error": "HTTP 403",
         "antiguedad_min": null
       },
       {
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 148,
+        "items": 153,
         "error": null,
-        "antiguedad_min": 10,
+        "antiguedad_min": 4,
         "descartados_por_gancho": 4
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 126,
+        "items": 137,
         "error": null,
-        "antiguedad_min": 53,
-        "descartados_por_gancho": 14
+        "antiguedad_min": 67,
+        "descartados_por_gancho": 16
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 25,
+        "items": 23,
         "error": null,
-        "antiguedad_min": 17,
-        "descartados_por_gancho": 0
+        "antiguedad_min": 15,
+        "descartados_por_gancho": 2
       }
     ]
   }
