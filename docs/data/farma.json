@@ -1,8 +1,8 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "ultimas",
-  "generado": "2026-09-29T21:31:14+02:00",
+  "modo": "portadas",
+  "generado": "2026-09-30T01:20:51+02:00",
   "titulares": [
     {
       "titular": "La legislación debe concretar el carácter estratégico de los derivados del plasma",
@@ -32,15 +32,6 @@
       "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20260929/lazaro-hay-un-sentimiento-agridulce-porque-la-huelga-si-es-exito-conlleva-evidentemente-aumento-de-lista-espera/354042_0.html"
     },
     {
-      "titular": "La división sindical empaña la gravedad de una huelga médica indefinida",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-29T19:05:23+02:00",
-      "enlace": "https://www.redaccionmedica.com/opinion/20260929/la-division-sindical-empana-la-gravedad-de-una-huelga-medica-indefinida/354289_14.html"
-    },
-    {
       "titular": "Diariofarma reúne a expertos ante los meses clave de la Directiva de Aguas Residuales",
       "medios": [
         "Diariofarma"
@@ -59,13 +50,22 @@
       "enlace": "https://elglobalfarma.com/politica/comunidad-madrid-concentra-empresas-farmaceuticas-espana/"
     },
     {
-      "titular": "Uno de cada 8 casos de cáncer se debe a una infección",
+      "titular": "La división sindical empaña la gravedad de una huelga médica indefinida",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-09-29T19:04:14+02:00",
-      "enlace": "https://www.redaccionmedica.com/innovacion/avances/20260929/uno-de-cada-casos-cancer-se-debe-una-infeccion/354257_0.html"
+      "fecha": "2026-09-29T19:05:23+02:00",
+      "enlace": "https://www.redaccionmedica.com/opinion/20260929/la-division-sindical-empana-la-gravedad-de-una-huelga-medica-indefinida/354289_14.html"
+    },
+    {
+      "titular": "España valida un conjunto multicéntrico de ePREMs para evaluar la atención hospitalaria",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-29T18:37:35+02:00",
+      "enlace": "https://diariofarma.com/2026/09/29/espana-valida-un-conjunto-multicentrico-de-eprems-para-evaluar-la-atencion-hospitalaria"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 125,
+    "antiguedad_minima_min": 355,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 125,
+        "antiguedad_min": 355,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 140,
+        "antiguedad_min": 370,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 141,
+        "antiguedad_min": 371,
         "descartados_por_gancho": 0
       },
       {

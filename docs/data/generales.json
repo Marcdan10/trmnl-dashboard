@@ -1,64 +1,9 @@
 {
   "pantalla": "generales",
   "titulo": "Titulares",
-  "modo": "ultimas",
-  "generado": "2026-09-29T21:31:03+02:00",
+  "modo": "portadas",
+  "generado": "2026-09-30T01:20:43+02:00",
   "titulares": [
-    {
-      "titular": "España - Croacia en directo | Pubill vuelve a poner por delante a España",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-29T21:26:36+02:00",
-      "enlace": "https://elpais.com/deportes/futbol/2026-09-29/espana-croacia-en-directo-el-partido-de-la-nations-league-en-vivo.html"
-    },
-    {
-      "titular": "Más de 200.000 personas protestan en Francia en una huelga de funcionarios contra los recortes",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-29T21:15:16+02:00",
-      "enlace": "https://www.abc.es/internacional/huelga-protestas-francia-subida-precio-combustibles-20260929201745-nt.html"
-    },
-    {
-      "titular": "La Reina Letizia deslumbra con la tiara floral y un vestido azul cielo en la cena de gala en honor a Macron",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-29T21:12:50+02:00",
-      "enlace": "https://www.abc.es/estilo/moda/reina-letizia-deslumbra-tiara-floral-vestido-azul-20260929204629-nt.html"
-    },
-    {
-      "titular": "Simón da un vuelco a la cúpula de Indra: prescinde de cinco directivos de la época Escribano",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-29T21:07:33+02:00",
-      "enlace": "https://cincodias.elpais.com/companias/2026-09-29/simon-da-un-vuelco-a-la-cupula-de-indra-prescinde-de-cinco-directivos-de-la-epoca-escribano.html"
-    },
-    {
-      "titular": "Recuperar el despido por absentismo y eliminar los complementos salariales para volver al nivel de bajas de 2019",
-      "medios": [
-        "La Vanguardia",
-        "ABC"
-      ],
-      "consenso": 2,
-      "fecha": "2026-09-29T20:34:03+02:00",
-      "enlace": "https://www.abc.es/economia/recuperar-despido-absentismo-eliminar-complementos-salariales-volver-20260929134212-nt.html"
-    },
-    {
-      "titular": "El PSOE nombra a una gestora en Ceuta tras la dimisión de Pérez Triano por la crisis migratoria",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-29T20:23:41+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20260929/11647044/psoe-nombra-gestora-ceuta-dimision-perez-triano-crisis-migratoria.html"
-    },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
       "medios": [
@@ -67,6 +12,60 @@
       "consenso": 1,
       "fecha": "2022-06-10T01:05:00+02:00",
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
+    },
+    {
+      "titular": "El Gobierno aprueba la protección frente a los desahucios hasta 2030 y la prórroga de los contratos de alquiler hasta 2028",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-29T15:40:03+02:00",
+      "enlace": "https://elpais.com/espana/2026-09-29/el-gobierno-aprueba-la-proteccion-frente-a-los-desahucios-hasta-2030-y-la-prorroga-de-los-contratos-de-alquiler-hasta-2028.html"
+    },
+    {
+      "titular": "El Gobierno aprueba un decreto con la prohibición de desahucios hasta 2030",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-29T09:54:36+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20260929/11646448/psoe-sumar-siguen-negociando-decreto-vivienda-retrasan-consejo-ministros.html"
+    },
+    {
+      "titular": "El gesto de Kit Harington para salvar el castillo de Rose Leslie: el lugar donde celebraron su boda de 'Juego de Tronos'",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-30T01:01:15+02:00",
+      "enlace": "https://www.abc.es/gente/gesto-kit-harington-salvar-castillo-rose-leslie-20260929010115-nt.html"
+    },
+    {
+      "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
+      "medios": [
+        "RTVE"
+      ],
+      "consenso": 1,
+      "fecha": "2022-06-10T00:03:00+02:00",
+      "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
+    },
+    {
+      "titular": "El PP rechaza los decretos de vivienda: “Van a destruir todavía más el mercado”",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-29T16:23:40+02:00",
+      "enlace": "https://elpais.com/espana/2026-09-29/el-pp-rechaza-los-decretos-de-vivienda-van-a-destruir-todavia-mas-el-mercado-de-la-vivienda.html"
+    },
+    {
+      "titular": "¿Qué medidas de vivienda ha aprobado el Gobierno y cuáles pueden salir adelante y cuáles no?",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-29T15:01:05+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20260929/11646791/que-medidas-vivienda-aprobado-gobierno-como-han-troceado.html"
     }
   ],
   "salud": {
@@ -75,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 4,
+    "antiguedad_minima_min": 19,
     "detalle": [
       {
         "medio": "RTVE",
@@ -83,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2264906,
+        "antiguedad_min": 2265135,
         "descartados_por_gancho": 0
       },
       {
@@ -100,17 +99,17 @@
         "ok": true,
         "items": 153,
         "error": null,
-        "antiguedad_min": 4,
-        "descartados_por_gancho": 4
+        "antiguedad_min": 27,
+        "descartados_por_gancho": 5
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 137,
+        "items": 130,
         "error": null,
-        "antiguedad_min": 67,
-        "descartados_por_gancho": 16
+        "antiguedad_min": 50,
+        "descartados_por_gancho": 12
       },
       {
         "medio": "ABC",
@@ -118,7 +117,7 @@
         "ok": true,
         "items": 23,
         "error": null,
-        "antiguedad_min": 15,
+        "antiguedad_min": 19,
         "descartados_por_gancho": 2
       }
     ]
