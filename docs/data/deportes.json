@@ -1,26 +1,17 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "ultimas",
-  "generado": "2026-09-28T23:30:34+02:00",
+  "modo": "portadas",
+  "generado": "2026-09-29T03:23:27+02:00",
   "titulares": [
     {
-      "titular": "Malos tiempos para la figura que se destapó en 2025: adiós a 2026 por lesión de muñeca",
+      "titular": "Las obras del Spotify Camp Nou, desde dentro: todas las novedades de las gradas",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-28T22:52:24+02:00",
-      "enlace": "https://www.mundodeportivo.com/tenis/20260928/1004232337/malos-tiempos-figura-destapo-2025-adios-2026-lesion-muneca.html"
-    },
-    {
-      "titular": "Tras hacer historia en el Mundial de ciclismo con 5 medallas, 3 de oro, España va a por todas en el Campeonato de Europa",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-28T22:52:22+02:00",
-      "enlace": "https://www.mundodeportivo.com/ciclismo/20260928/1004232335/historia-mundial-ciclismo-5-medallas-3-oro-espana-todas-campeonato-europa.html"
+      "fecha": "2026-09-29T00:30:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260929/1004232267/obras-spotify-camp-nou-todas-novedades-gradas.html"
     },
     {
       "titular": "Dabiz Muñoz, chef, desvela el secreto de la puntilla crujiente: \"Freír un huevo se puede hacer muy bien o muy mal\"",
@@ -32,6 +23,15 @@
       "enlace": "https://www.marca.com/tiramillas/gastronomia/2026/09/25/dabiz-munoz-chef-sobre-secreto-puntilla-crujiente-freir-huevo-bien-mal.html"
     },
     {
+      "titular": "Así son los espectaculares nuevos vestuarios del Spotify Camp Nou",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-28T20:00:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260928/1004232143/espectaculares-nuevos-vestuarios-spotify-camp-nou.html"
+    },
+    {
       "titular": "Septiembre, el mes en el que más parejas rompen: el mes donde el amor llega a su fin",
       "medios": [
         "Marca"
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/bienestar/psicologia-sexo/2026/09/25/septiembre-mes-parejas-rompen-ocurre-durante-verano-amor-llegue.html"
     },
     {
-      "titular": "Otro palo médico para Porzingis",
+      "titular": "En marcha una carpa para cocina externa y el Museu, antes de Navidad",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-28T22:45:03+02:00",
-      "enlace": "https://www.mundodeportivo.com/baloncesto/nba/20260928/1004232333/palo-medico-porzingis.html"
+      "fecha": "2026-09-29T00:30:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260929/1004232275/marcha-carpa-cocina-externa-museu-navidad.html"
     },
     {
-      "titular": "1-4: La nueva Italia de Mancini golea y se reivindica en Turquía",
+      "titular": "Chema Andrés: \"Me halaga que me comparen con Rodri, pero yo quiero ser Chema Andrés\"",
       "medios": [
-        "Mundo Deportivo"
+        "Marca"
       ],
       "consenso": 1,
-      "fecha": "2026-09-28T22:39:20+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/uefa-nations-league/20260928/1004232290/italia-mancini.html"
+      "fecha": "2026-09-25T07:16:20+02:00",
+      "enlace": "https://www.marca.com/futbol/seleccion/2026/09/25/chema-andres-me-halaga-me-comparen-rodri-quiero-chema-andres.html"
     },
     {
-      "titular": "Ya hay acuerdo: Maricarmen y Urbagestión pactan su regreso a casa",
+      "titular": "Gordon se siente más valorado en el Barça que en la Premier",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-28T22:31:56+02:00",
-      "enlace": "https://www.mundodeportivo.com/actualidad/20260928/1004232326/hay-acuerdo-familia-maricarmen-urbagestion-pactan-condiciones-mujer-87-anos-pueda-volver-casa-dct.html"
+      "fecha": "2026-09-29T00:09:53+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260929/1004232364/gordon-siente-valorado-barca-premier-league.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 38,
+    "antiguedad_minima_min": 172,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 65,
         "error": null,
-        "antiguedad_min": 5281,
+        "antiguedad_min": 5514,
         "descartados_por_gancho": 5
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 132,
+        "items": 133,
         "error": null,
-        "antiguedad_min": 38,
-        "descartados_por_gancho": 3
+        "antiguedad_min": 172,
+        "descartados_por_gancho": 2
       },
       {
         "medio": "Sport",

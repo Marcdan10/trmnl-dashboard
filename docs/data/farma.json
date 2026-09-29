@@ -1,8 +1,8 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "ultimas",
-  "generado": "2026-09-28T23:30:40+02:00",
+  "modo": "portadas",
+  "generado": "2026-09-29T03:23:32+02:00",
   "titulares": [
     {
       "titular": "SANT pide a Bruselas un reglamento europeo específico sobre enfermedades raras",
@@ -14,22 +14,13 @@
       "enlace": "https://diariofarma.com/2026/09/28/sant-pide-a-bruselas-un-reglamento-europeo-especifico-sobre-enfermedades-raras"
     },
     {
-      "titular": "El cribado de cáncer de pulmón \"rentable\" abraza el TAC de baja dosis y destierra la radiografía de tórax",
+      "titular": "La EFPIA y Vaccines Europe piden incluir la obesidad como enfermedad en los controles cardiovasculares de la UE",
       "medios": [
-        "Redacción Médica"
+        "El Global"
       ],
       "consenso": 1,
-      "fecha": "2026-09-28T19:56:27+02:00",
-      "enlace": "https://www.redaccionmedica.com/innovacion/20260928/el-cribado-de-cancer-pulmon-rentable-abraza-el-tac-baja-dosis-destierra-la-radiografia-torax/354120_0.html"
-    },
-    {
-      "titular": "Los casos de MenB caen un 49%; Sanidad apunta al efecto protector de la vacuna",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-28T19:29:00+02:00",
-      "enlace": "https://diariofarma.com/2026/09/28/los-casos-de-menb-caen-un-49-sanidad-apunta-al-efecto-protector-de-la-vacuna"
+      "fecha": "2026-09-28T18:12:41+02:00",
+      "enlace": "https://elglobalfarma.com/industria/efpia-vaccines-europe-incluir-obesidad-enfermedad-controles-cardiovasculares-ue/"
     },
     {
       "titular": "Ángela Hernández (Amyts): \"Ir a la huelga médica indefinida no es decisión de los sindicatos, nos lo piden los compañeros\"",
@@ -41,13 +32,13 @@
       "enlace": "https://www.redaccionmedica.com/autonomias/madrid/20260928/angela-hernandez-amyts-ir-la-huelga-medica-indefinida-no-es-decision-de-los-sindicatos-nos-lo-piden-companeros/354099_0.html"
     },
     {
-      "titular": "La EFPIA y Vaccines Europe piden incluir la obesidad como enfermedad en los controles cardiovasculares de la UE",
+      "titular": "Los casos de MenB caen un 49%; Sanidad apunta al efecto protector de la vacuna",
       "medios": [
-        "El Global"
+        "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-09-28T18:12:41+02:00",
-      "enlace": "https://elglobalfarma.com/industria/efpia-vaccines-europe-incluir-obesidad-enfermedad-controles-cardiovasculares-ue/"
+      "fecha": "2026-09-28T19:29:00+02:00",
+      "enlace": "https://diariofarma.com/2026/09/28/los-casos-de-menb-caen-un-49-sanidad-apunta-al-efecto-protector-de-la-vacuna"
     },
     {
       "titular": "Shionogi anuncia la aprobación de la Comisión Europea de ensitrelvir para la profilaxis posexposición de la COVID-19",
@@ -59,13 +50,22 @@
       "enlace": "https://elglobalfarma.com/industria/shionogi-aprobacion-comision-europea-ensitrelvir-profilaxis-posexposicion-covid-19/"
     },
     {
-      "titular": "Así es el punto de primeros auxilios en la acampada por la vivienda: \"Contamos con médicos y enfermeras\"",
+      "titular": "Cuando no llegar al alquiler se convierte en un problema de salud pública",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-09-28T19:10:28+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20260928/asi-es-el-punto-de-primeros-auxilios-en-la-acampada-por-vivienda-contamos-con-medicos-enfermeras/354122_0.html"
+      "fecha": "2026-09-28T11:34:32+02:00",
+      "enlace": "https://www.redaccionmedica.com/opinion/20260928/cuando-no-llegar-al-alquiler-se-convierte-en-un-problema-de-salud-publica/354030_0.html"
+    },
+    {
+      "titular": "El CGCOF se une a las reclamaciones por una ley de publicidad sanitaria que proteja a los pacientes",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-28T18:59:14+02:00",
+      "enlace": "https://diariofarma.com/2026/09/28/el-cgcof-se-une-a-las-reclamaciones-por-una-ley-de-publicidad-sanitaria-que-proteja-a-los-pacientes"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 177,
+    "antiguedad_minima_min": 410,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 177,
+        "antiguedad_min": 410,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 9,
         "error": null,
-        "antiguedad_min": 317,
+        "antiguedad_min": 550,
         "descartados_por_gancho": 1
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 214,
+        "antiguedad_min": 447,
         "descartados_por_gancho": 0
       },
       {
