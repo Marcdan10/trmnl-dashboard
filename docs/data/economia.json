@@ -1,71 +1,71 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "portadas",
-  "generado": "2026-09-30T10:48:22+02:00",
+  "modo": "ultimas",
+  "generado": "2026-09-30T17:31:07+02:00",
   "titulares": [
     {
-      "titular": "Mercadona crece en Portugal y ya vende al 55% de los hogares",
+      "titular": "Alemania y el resto de 'frugales' piden rebajar \"cientos de miles de millones\" el presupuesto de la UE",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-30T02:19:31+02:00",
-      "enlace": "https://www.expansion.com/empresas/distribucion/2026/09/30/6abc02fa468aebbd558b4581.html"
+      "fecha": "2026-09-30T16:58:13+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/09/30/6abd071e468aeb312a8b45b3.html"
     },
     {
-      "titular": "Luis Aragonés frente al 'decreto Maricarmen'",
+      "titular": "Cárnicas Serrano repite ventas y reduce beneficios",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-29T23:56:32+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/09/29/6abc32a3e5fdea2c058b4581.html"
+      "fecha": "2026-09-30T16:15:43+02:00",
+      "enlace": "https://www.expansion.com/valencia/2026/09/30/carnicas-serrano-repite-ventas-reduce-beneficios.html"
     },
     {
-      "titular": "Prórroga de dos años en los alquileres: todas las claves para propietarios e inquilinos",
+      "titular": "Los inversores en centros de datos piden un marco regulatorio estable",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-30T09:52:12+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/09/30/6abcbfa8468aebd20b8b45a4.html"
+      "fecha": "2026-09-30T16:04:45+02:00",
+      "enlace": "https://www.expansion.com/afondo/2026/09/30/6abd0085468aeb616f8b458e.html"
     },
     {
-      "titular": "Decreto de vivienda: el Gobierno aclara qué es un fondo 'buitre' para prohibirles la compra",
+      "titular": "El segundo decreto de vivienda contempla indemnizaciones de miles de euros para los inquilinos que no renueven los contratos",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-30T09:05:24+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/09/30/6abcb23a468aebbb0e8b4589.html"
+      "fecha": "2026-09-30T15:53:07+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/09/30/6abd0c6fe5fdea5e1d8b457a.html"
     },
     {
-      "titular": "Telefónica España escindirá los negocios de B2B y B2C",
+      "titular": "El déficit público se reduce al 1,84% del PIB hasta julio",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-30T00:05:10+02:00",
-      "enlace": "https://www.expansion.com/empresas/telecomunicaciones/2026/09/30/6abc318a468aebd43f8b45bd.html"
+      "fecha": "2026-09-30T15:51:03+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/09/30/6abd1396e5fdea4f728b458c.html"
     },
     {
-      "titular": "Los gigantes de la IA firman un acuerdo de autorregulación ante Trump",
+      "titular": "El Ibex mantiene las dudas pese a los datos de inflación de EEUU",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-30T05:56:05+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/09/30/6abc87d4468aeb27108b459a.html"
+      "fecha": "2026-09-30T14:53:24+02:00",
+      "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/09/30/6abca3cce5fdeae2348b4595.html"
     },
     {
-      "titular": "Cómo superar octubre, el mes de los grandes 'crash' de la Bolsa",
+      "titular": "Singapur recurre a una fórmula galardonada con el Nobel para promocionar una app de citas",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-30T00:06:29+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/09/30/6abbe2af468aeb050c8b4573.html"
+      "fecha": "2026-09-30T14:33:33+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/09/30/6abd0081e5fdeabc388b45ab.html"
     }
   ],
   "salud": {
@@ -78,16 +78,16 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 26,
+    "antiguedad_minima_min": 32,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 75,
+        "items": 76,
         "error": null,
-        "antiguedad_min": 26,
-        "descartados_por_gancho": 2
+        "antiguedad_min": 32,
+        "descartados_por_gancho": 1
       },
       {
         "medio": "Cinco Días",
