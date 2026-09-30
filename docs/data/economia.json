@@ -2,8 +2,44 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "portadas",
-  "generado": "2026-09-30T01:20:45+02:00",
+  "generado": "2026-09-30T04:13:53+02:00",
   "titulares": [
+    {
+      "titular": "Mercadona crece en Portugal y ya vende al 55% de los hogares",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-30T02:19:31+02:00",
+      "enlace": "https://www.expansion.com/empresas/distribucion/2026/09/30/6abc02fa468aebbd558b4581.html"
+    },
+    {
+      "titular": "Luis Aragonés frente al 'decreto Maricarmen'",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-29T23:56:32+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/09/29/6abc32a3e5fdea2c058b4581.html"
+    },
+    {
+      "titular": "El Gobierno prohíbe a los \"fondos buitre\" comprar pisos hasta 2028",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-30T01:36:36+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/09/30/6abc0a84468aeb18738b4581.html"
+    },
+    {
+      "titular": "Telefónica España escindirá los negocios de B2B y B2C",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-30T00:05:10+02:00",
+      "enlace": "https://www.expansion.com/empresas/telecomunicaciones/2026/09/30/6abc318a468aebd43f8b45bd.html"
+    },
     {
       "titular": "Simón reorganiza la cúpula de Indra con la salida de cinco altos directivos",
       "medios": [
@@ -14,58 +50,22 @@
       "enlace": "https://www.expansion.com/empresas/2026/09/29/6abc09b0468aebbd558b4589.html"
     },
     {
-      "titular": "El Gobierno buscará convalidar la prórroga de alquileres, préstamos a tipo cero para vivienda y prohibir desahuciar hasta 2030",
+      "titular": "¿Segundo asalto? El vicio oculto que reabre el debate del impuesto a las fortunas",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-29T14:25:16+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/09/29/6abb818c468aeb1f4f8b459e.html"
+      "fecha": "2026-09-30T00:06:01+02:00",
+      "enlace": "https://www.expansion.com/fiscal/2026/09/30/6abc041a468aebff348b456f.html"
     },
     {
-      "titular": "El Banco de España pide \"hilar muy fino\" en las medidas sobre vivienda para evitar efectos indeseados",
+      "titular": "Cómo superar octubre, el mes de los grandes 'crash' de la Bolsa",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-29T15:21:58+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/encuentro-financiero/2026/09/29/6abb7837468aebd43f8b456f.html"
-    },
-    {
-      "titular": "Decretos de vivienda: guía de las medidas aprobadas por el Gobierno",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-29T14:19:56+02:00",
-      "enlace": "https://www.expansion.com/inmobiliario/mercado/2026/09/29/6abb9642e5fdeaf6248b457d.html"
-    },
-    {
-      "titular": "La hija de Sol Daurella entra en el consejo de Cobega",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-29T02:29:48+02:00",
-      "enlace": "https://www.expansion.com/empresas/distribucion/2026/09/29/6abadd21e5fdead3408b4594.html"
-    },
-    {
-      "titular": "Huertas: \"Mapfre pone el acento en la seguridad tecnológica\"",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-29T14:19:22+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/encuentro-financiero/2026/09/29/6abba320e5fdea3e1b8b45a1.html"
-    },
-    {
-      "titular": "Javier Valle (VidaCaixa): \"Espero que el próximo Gobierno incentive el ahorro a largo plazo\"",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-29T13:03:33+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/encuentro-financiero/2026/09/29/6abb7ab5468aeb775b8b4573.html"
+      "fecha": "2026-09-30T00:06:29+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/09/30/6abbe2af468aeb050c8b4573.html"
     }
   ],
   "salud": {
@@ -78,16 +78,16 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 142,
+    "antiguedad_minima_min": 114,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 96,
+        "items": 76,
         "error": null,
-        "antiguedad_min": 142,
-        "descartados_por_gancho": 0
+        "antiguedad_min": 114,
+        "descartados_por_gancho": 1
       },
       {
         "medio": "Cinco Días",

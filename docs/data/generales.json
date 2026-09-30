@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-09-30T01:20:43+02:00",
+  "generado": "2026-09-30T04:13:50+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -32,13 +32,13 @@
       "enlace": "https://www.lavanguardia.com/politica/20260929/11646448/psoe-sumar-siguen-negociando-decreto-vivienda-retrasan-consejo-ministros.html"
     },
     {
-      "titular": "El gesto de Kit Harington para salvar el castillo de Rose Leslie: el lugar donde celebraron su boda de 'Juego de Tronos'",
+      "titular": "El PP de Coslada exige al alcalde que aclare el impacto de la 'ley de nietos'",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-30T01:01:15+02:00",
-      "enlace": "https://www.abc.es/gente/gesto-kit-harington-salvar-castillo-rose-leslie-20260929010115-nt.html"
+      "fecha": "2026-09-30T02:02:07+02:00",
+      "enlace": "https://www.abc.es/espana/madrid/pp-coslada-exige-alcalde-aclare-impacto-ley-20260928010823-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 19,
+    "antiguedad_minima_min": 131,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2265135,
+        "antiguedad_min": 2265308,
         "descartados_por_gancho": 0
       },
       {
@@ -99,7 +99,7 @@
         "ok": true,
         "items": 153,
         "error": null,
-        "antiguedad_min": 27,
+        "antiguedad_min": 200,
         "descartados_por_gancho": 5
       },
       {
@@ -108,17 +108,17 @@
         "ok": true,
         "items": 130,
         "error": null,
-        "antiguedad_min": 50,
+        "antiguedad_min": 223,
         "descartados_por_gancho": 12
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 23,
+        "items": 25,
         "error": null,
-        "antiguedad_min": 19,
-        "descartados_por_gancho": 2
+        "antiguedad_min": 131,
+        "descartados_por_gancho": 0
       }
     ]
   }
