@@ -2,16 +2,16 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-09-30T04:13:53+02:00",
+  "generado": "2026-09-30T10:48:22+02:00",
   "titulares": [
     {
-      "titular": "La España de Lamine sigue de fiesta en Sevilla",
+      "titular": "Raphinha, desconvocado, vuelve a Barcelona",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-29T22:37:51+02:00",
-      "enlace": "https://www.mundodeportivo.com/seleccion-espanola/20260929/1004232749/espana-lamine-yamal-sigue-fiesta-sevilla.html"
+      "fecha": "2026-09-30T07:24:42+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260930/1004232811/raphinha-desconvocado-vuelve-barcelona.html"
     },
     {
       "titular": "Dabiz Muñoz, chef, desvela el secreto de la puntilla crujiente: \"Freír un huevo se puede hacer muy bien o muy mal\"",
@@ -23,13 +23,13 @@
       "enlace": "https://www.marca.com/tiramillas/gastronomia/2026/09/25/dabiz-munoz-chef-sobre-secreto-puntilla-crujiente-freir-huevo-bien-mal.html"
     },
     {
-      "titular": "Respuesta del City tras ser declarado culpable: \"El club es inocente\"",
+      "titular": "Gesto tranquilizador de Raphinha",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-29T18:51:20+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/internacional/20260929/1004232674/respuesta-manchester-city-declarado-culpable-club-inocente.html"
+      "fecha": "2026-09-29T20:51:42+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260929/1004232710/gesto-tranquilizador-raphinha.html"
     },
     {
       "titular": "Septiembre, el mes en el que más parejas rompen: el mes donde el amor llega a su fin",
@@ -41,6 +41,15 @@
       "enlace": "https://www.marca.com/bienestar/psicologia-sexo/2026/09/25/septiembre-mes-parejas-rompen-ocurre-durante-verano-amor-llegue.html"
     },
     {
+      "titular": "4-1: La España de Lamine sigue de fiesta en Sevilla",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-29T22:37:51+02:00",
+      "enlace": "https://www.mundodeportivo.com/seleccion-espanola/20260929/1004232749/espana-lamine-yamal-sigue-fiesta-sevilla.html"
+    },
+    {
       "titular": "Chema Andrés: \"Me halaga que me comparen con Rodri, pero yo quiero ser Chema Andrés\"",
       "medios": [
         "Marca"
@@ -50,22 +59,13 @@
       "enlace": "https://www.marca.com/futbol/seleccion/2026/09/25/chema-andres-me-halaga-me-comparen-rodri-quiero-chema-andres.html"
     },
     {
-      "titular": "Laporta: \"Espero que el Real Madrid rectifique\"",
+      "titular": "Respuesta del City tras ser declarado culpable: \"El club es inocente\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-29T20:04:31+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260929/1004232696/laporta-esperamos-real-madrid-rectifique.html"
-    },
-    {
-      "titular": "\"A fardar de segunda estrella en Wembley\"",
-      "medios": [
-        "Marca"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-25T07:14:16+02:00",
-      "enlace": "https://www.marca.com/futbol/seleccion/opinion/2026/09/25/fardar-segunda-estrella-wembley.html"
+      "fecha": "2026-09-29T18:51:20+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/internacional/20260929/1004232674/respuesta-manchester-city-declarado-culpable-club-inocente.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 227,
+    "antiguedad_minima_min": 20,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 65,
         "error": null,
-        "antiguedad_min": 7004,
+        "antiguedad_min": 7399,
         "descartados_por_gancho": 5
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 137,
+        "items": 136,
         "error": null,
-        "antiguedad_min": 227,
-        "descartados_por_gancho": 8
+        "antiguedad_min": 20,
+        "descartados_por_gancho": 7
       },
       {
         "medio": "Sport",

@@ -2,7 +2,7 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "portadas",
-  "generado": "2026-09-30T04:13:53+02:00",
+  "generado": "2026-09-30T10:48:22+02:00",
   "titulares": [
     {
       "titular": "Mercadona crece en Portugal y ya vende al 55% de los hogares",
@@ -23,13 +23,22 @@
       "enlace": "https://www.expansion.com/economia/2026/09/29/6abc32a3e5fdea2c058b4581.html"
     },
     {
-      "titular": "El Gobierno prohíbe a los \"fondos buitre\" comprar pisos hasta 2028",
+      "titular": "Prórroga de dos años en los alquileres: todas las claves para propietarios e inquilinos",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-30T01:36:36+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/09/30/6abc0a84468aeb18738b4581.html"
+      "fecha": "2026-09-30T09:52:12+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/09/30/6abcbfa8468aebd20b8b45a4.html"
+    },
+    {
+      "titular": "Decreto de vivienda: el Gobierno aclara qué es un fondo 'buitre' para prohibirles la compra",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-30T09:05:24+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/09/30/6abcb23a468aebbb0e8b4589.html"
     },
     {
       "titular": "Telefónica España escindirá los negocios de B2B y B2C",
@@ -41,22 +50,13 @@
       "enlace": "https://www.expansion.com/empresas/telecomunicaciones/2026/09/30/6abc318a468aebd43f8b45bd.html"
     },
     {
-      "titular": "Simón reorganiza la cúpula de Indra con la salida de cinco altos directivos",
+      "titular": "Los gigantes de la IA firman un acuerdo de autorregulación ante Trump",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-29T21:00:04+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/09/29/6abc09b0468aebbd558b4589.html"
-    },
-    {
-      "titular": "¿Segundo asalto? El vicio oculto que reabre el debate del impuesto a las fortunas",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-30T00:06:01+02:00",
-      "enlace": "https://www.expansion.com/fiscal/2026/09/30/6abc041a468aebff348b456f.html"
+      "fecha": "2026-09-30T05:56:05+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/09/30/6abc87d4468aeb27108b459a.html"
     },
     {
       "titular": "Cómo superar octubre, el mes de los grandes 'crash' de la Bolsa",
@@ -78,16 +78,16 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 114,
+    "antiguedad_minima_min": 26,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 76,
+        "items": 75,
         "error": null,
-        "antiguedad_min": 114,
-        "descartados_por_gancho": 1
+        "antiguedad_min": 26,
+        "descartados_por_gancho": 2
       },
       {
         "medio": "Cinco Días",

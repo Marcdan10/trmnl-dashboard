@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-09-30T04:13:50+02:00",
+  "generado": "2026-09-30T10:48:18+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -14,31 +14,22 @@
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
     },
     {
-      "titular": "El Gobierno aprueba la protección frente a los desahucios hasta 2030 y la prórroga de los contratos de alquiler hasta 2028",
+      "titular": "El casero tendrá que indemnizar con 12 mensualidades al inquilino si decide no renovar el alquiler",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-29T15:40:03+02:00",
-      "enlace": "https://elpais.com/espana/2026-09-29/el-gobierno-aprueba-la-proteccion-frente-a-los-desahucios-hasta-2030-y-la-prorroga-de-los-contratos-de-alquiler-hasta-2028.html"
+      "fecha": "2026-09-30T09:49:37+02:00",
+      "enlace": "https://elpais.com/economia/vivienda/2026-09-30/el-casero-tendra-que-indemnizar-con-12-mensualidades-al-inquilino-si-decide-no-renovar-el-alquiler.html"
     },
     {
-      "titular": "El Gobierno aprueba un decreto con la prohibición de desahucios hasta 2030",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-29T09:54:36+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20260929/11646448/psoe-sumar-siguen-negociando-decreto-vivienda-retrasan-consejo-ministros.html"
-    },
-    {
-      "titular": "El PP de Coslada exige al alcalde que aclare el impacto de la 'ley de nietos'",
+      "titular": "El Gobierno usa a Maricarmen para escabullirse de Ceuta y de la corrupción",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-09-30T02:02:07+02:00",
-      "enlace": "https://www.abc.es/espana/madrid/pp-coslada-exige-alcalde-aclare-impacto-ley-20260928010823-nt.html"
+      "fecha": "2026-09-30T10:29:38+02:00",
+      "enlace": "https://www.abc.es/espana/gobierno-usa-maricarmen-escabullirse-ceuta-corrupcion-20260930102839-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -50,22 +41,31 @@
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
     },
     {
-      "titular": "El PP rechaza los decretos de vivienda: “Van a destruir todavía más el mercado”",
+      "titular": "El Gobierno prohíbe a los fondos buitre comprar viviendas por debajo del 70% de su valor",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-29T16:23:40+02:00",
-      "enlace": "https://elpais.com/espana/2026-09-29/el-pp-rechaza-los-decretos-de-vivienda-van-a-destruir-todavia-mas-el-mercado-de-la-vivienda.html"
+      "fecha": "2026-09-30T09:00:01+02:00",
+      "enlace": "https://elpais.com/economia/vivienda/2026-09-30/el-gobierno-prohibe-a-los-fondos-buitre-comprar-viviendas-por-debajo-del-70-de-su-valor-de-mercado.html"
     },
     {
-      "titular": "¿Qué medidas de vivienda ha aprobado el Gobierno y cuáles pueden salir adelante y cuáles no?",
+      "titular": "Junts no desvela su voto a la espera de conocer el detalle de los dos decretos sobre vivienda",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-29T15:01:05+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20260929/11646791/que-medidas-vivienda-aprobado-gobierno-como-han-troceado.html"
+      "fecha": "2026-09-30T06:00:00+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20260930/11647092/junts-desvela-voto-espera-conocer-detalle-dos-textos.html"
+    },
+    {
+      "titular": "El BOE abandona el tono técnico y califica a Maricarmen de «víctima de una legislación retrógrada y machista»",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-30T10:28:53+02:00",
+      "enlace": "https://www.abc.es/espana/boe-decreto-vivienda-abandona-tono-tecnico-califica-20260930100450-nt.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 131,
+    "antiguedad_minima_min": 7,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2265308,
+        "antiguedad_min": 2265703,
         "descartados_por_gancho": 0
       },
       {
@@ -97,19 +97,19 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 153,
+        "items": 150,
         "error": null,
-        "antiguedad_min": 200,
-        "descartados_por_gancho": 5
+        "antiguedad_min": 7,
+        "descartados_por_gancho": 4
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 130,
+        "items": 126,
         "error": null,
-        "antiguedad_min": 223,
-        "descartados_por_gancho": 12
+        "antiguedad_min": 75,
+        "descartados_por_gancho": 15
       },
       {
         "medio": "ABC",
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 131,
+        "antiguedad_min": 18,
         "descartados_por_gancho": 0
       }
     ]
