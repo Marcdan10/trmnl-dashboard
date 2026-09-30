@@ -2,61 +2,61 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-09-30T17:31:04+02:00",
+  "generado": "2026-09-30T22:26:56+02:00",
   "titulares": [
     {
-      "titular": "Andy Burnham no descarta estudiar un futuro reingreso del Reino Unido en la UE",
+      "titular": "“Los siete de Cornell”: lo que sabemos sobre la denuncia por violación en grupo en la universidad de élite",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-30T17:21:41+02:00",
-      "enlace": "https://elpais.com/internacional/2026-09-30/andy-burnham-no-descarta-estudiar-un-futuro-reingreso-del-reino-unido-en-la-ue.html"
+      "fecha": "2026-09-30T22:22:36+02:00",
+      "enlace": "https://elpais.com/us/2026-09-30/los-siete-de-cornell-lo-que-sabemos-sobre-la-presunta-violacion-en-grupo-en-la-universidad-de-elite.html"
     },
     {
-      "titular": "Intento de atentado en un vuelo rumbo a Israel: un piloto trata de apuñalar al otro y estrellar el avión",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-30T17:12:50+02:00",
-      "enlace": "https://www.abc.es/internacional/incidente-dos-pilotos-vuelo-dirigia-israel-termina-20260930111339-nt.html"
-    },
-    {
-      "titular": "Iñaki López: «El Gobierno llega con el decreto ocho años tarde y se le acumulan otras urgencias»",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-30T17:09:08+02:00",
-      "enlace": "https://www.abc.es/play/television/noticias/inaki-lopez-gobierno-progresista-pedro-sanchez-llega-20260930165547-nt.html"
-    },
-    {
-      "titular": "El secreto de las alas de las mariposas: cuanto más llamativas, más difícil es cazarlas",
+      "titular": "‘La Mesa de Hora 25’, en EL PAÍS | Programa del 30 de septiembre de 2026",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-09-30T17:00:16+02:00",
-      "enlace": "https://elpais.com/ciencia/2026-09-30/el-secreto-de-las-alas-de-las-mariposas-cuanto-mas-llamativas-mas-dificil-es-cazarlas.html"
+      "fecha": "2026-09-30T22:05:19+02:00",
+      "enlace": "https://elpais.com/videos/2026-09-30/la-mesa-de-hora-25-en-el-pais-programa-del-30-de-septiembre-de-2026.html"
     },
     {
-      "titular": "Otra alerta naranja en Valencia obliga a cerrar parques y clases en más de 30 centros educativos",
+      "titular": "La rabieta más grande de Cristiano: abandona la concentración de Portugal",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-30T22:02:58+02:00",
+      "enlace": "https://www.abc.es/deportes/futbol/cristiano-entrenamiento-portugal-aumenta-incendio-20260930191350-nt.html"
+    },
+    {
+      "titular": "Un informe policial alerta de armas blancas, adoquines y vandalismo en la acampada de Sol",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-30T22:00:16+02:00",
+      "enlace": "https://www.abc.es/espana/madrid/almeida-advertira-escrito-marlaska-delegado-adoquines-grandes-20260930164813-nt.html"
+    },
+    {
+      "titular": "Localizan a la víctima de otro secuestro expreso el domingo en Calella",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-30T16:47:41+02:00",
-      "enlace": "https://www.lavanguardia.com/local/valencia/20260930/11647768/alerta-naranja-valencia-obliga-cerrar-parques-clases-mas-30-centros-educativos.html"
+      "fecha": "2026-09-30T20:57:29+02:00",
+      "enlace": "https://www.lavanguardia.com/local/girona/20260930/11647950/localizan-victima-secuestro-expreso-domingo-calella.html"
     },
     {
-      "titular": "Mónica Oltra: “Las ciudades son los espacios de resistencia a la ultraderecha”",
+      "titular": "España solicita los 25.800 millones del último tramo de los fondos europeos",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-09-30T16:32:57+02:00",
-      "enlace": "https://www.lavanguardia.com/local/lleida/20260930/11647751/monica-oltra-ciudades-son-espacios-resistencia-ultraderecha.html"
+      "fecha": "2026-09-30T20:48:48+02:00",
+      "enlace": "https://www.lavanguardia.com/economia/20260930/11647946/espana-solicita-25-800-millones-ultimo-tramo-fondos-europeos.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 9,
+    "antiguedad_minima_min": 4,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2266106,
+        "antiguedad_min": 2266401,
         "descartados_por_gancho": 0
       },
       {
@@ -90,35 +90,35 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 500",
+        "error": "HTTP 403",
         "antiguedad_min": null
       },
       {
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 148,
+        "items": 147,
         "error": null,
-        "antiguedad_min": 9,
+        "antiguedad_min": 4,
         "descartados_por_gancho": 3
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 136,
+        "items": 144,
         "error": null,
-        "antiguedad_min": 43,
-        "descartados_por_gancho": 13
+        "antiguedad_min": 89,
+        "descartados_por_gancho": 10
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 24,
+        "items": 23,
         "error": null,
-        "antiguedad_min": 18,
-        "descartados_por_gancho": 1
+        "antiguedad_min": 23,
+        "descartados_por_gancho": 2
       }
     ]
   }

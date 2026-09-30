@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-09-30T17:31:07+02:00",
+  "generado": "2026-09-30T22:27:00+02:00",
   "titulares": [
     {
-      "titular": "Schareina y una situación que no puede explicar: \"Lo único que puedo decir es que son problemas que a nadie le gusta tener\"",
+      "titular": "Pere Romeu: \"Ya empezamos a ser nosotras\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-30T17:24:05+02:00",
-      "enlace": "https://www.mundodeportivo.com/motor/rally-dakar/20260930/1004233049/tosha-schareina-situacion-no-explicar-unico-te-decir-son-problemas-son-parte-juego-nadie-le-gusta.html"
+      "fecha": "2026-09-30T21:56:37+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260930/1004233150/pere-romeu-empezamos.html"
     },
     {
-      "titular": "Mariezkurrena, sancionado con dos partidos",
+      "titular": "La Real hace historia en Zubieta aplastando al Hearts para seguir en Europa",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-30T17:23:31+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-sociedad/20260930/1004233048/mariezkurrena-sancionado-dos-partidos.html"
+      "fecha": "2026-09-30T21:53:28+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-sociedad/20260930/1004233147/real-historia-zubieta-aplastando-hearts-seguir-europa.html"
     },
     {
       "titular": "El Barça busca su séptima corona mundial ante el Veszprem",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/premier-league/2026/09/30/gobierno-britanico-carga-manchester-city-expulsados-premier-league.html"
     },
     {
-      "titular": "Sorteada la primera ronda de la Copa del Rey",
+      "titular": "Triste despedida del ciclismo profesional de Ion Izagirre al romperse la muñeca izquierda",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-30T17:17:32+02:00",
-      "enlace": "https://www.mundodeportivo.com/balonmano/20260930/1004233047/sorteada-primera-ronda-copa-rey.html"
+      "fecha": "2026-09-30T21:43:32+02:00",
+      "enlace": "https://www.mundodeportivo.com/ciclismo/20260930/1004233145/triste-despedida-ciclismo-profesional-ion-izagirre-romperse-muneca-izquierda.html"
     },
     {
-      "titular": "Con la llegada del Galaxy Watch 9, estos son los smartwatch de Samsung baratos para entrenar a diario",
+      "titular": "Revelan la lista de los países que más cerveza consumen y no dan crédito con España: \"¿Van todos borrachos?\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-30T17:07:51+02:00",
-      "enlace": "https://www.mundodeportivo.com/elrecomendador/ofertas/20260930/1004232610/llegada-galaxy-watch-9-son-smartwatch-samsung-baratos-entrenar-diario-mkt-alie.html"
+      "fecha": "2026-09-30T21:32:04+02:00",
+      "enlace": "https://www.mundodeportivo.com/tressesenta/20260930/1004233132/revelan-lista-paises-mas-cerveza-consumen-no-dan-credito-posicion-espana-todos-borrachos-galeria-dct.html"
     },
     {
-      "titular": "¡Surrealista! Un gato se cuela en pleno partido del Real Madrid",
+      "titular": "España obligará a los conductores a dejar pasar a peatones cuando circulen por estas vías",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-30T17:01:21+02:00",
-      "enlace": "https://www.mundodeportivo.com/baloncesto/euroliga/20260930/1004233042/surrealista-gato-cuela-pleno-partido-real-madrid.html"
+      "fecha": "2026-09-30T21:28:23+02:00",
+      "enlace": "https://www.mundodeportivo.com/actualidad/20260930/1004233134/oficial-confirmado-espana-cambia-normas-partir-manana-1-octubre-obliga-conductores-dejar-pasar-peatones-circulen-vias-cmt-dct.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 7,
+    "antiguedad_minima_min": 30,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 76,
         "error": null,
-        "antiguedad_min": 205,
+        "antiguedad_min": 501,
         "descartados_por_gancho": 7
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 137,
+        "items": 139,
         "error": null,
-        "antiguedad_min": 7,
-        "descartados_por_gancho": 7
+        "antiguedad_min": 30,
+        "descartados_por_gancho": 9
       },
       {
         "medio": "Sport",
