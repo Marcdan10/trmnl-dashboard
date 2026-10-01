@@ -1,17 +1,26 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "portadas",
-  "generado": "2026-10-01T08:16:51+02:00",
+  "modo": "ultimas",
+  "generado": "2026-10-01T15:39:59+02:00",
   "titulares": [
     {
-      "titular": "Los gigantes de Europa, atentos al 'caso Manchester City'",
+      "titular": "El Real Madrid indulta al jugador que tenía castigado",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-01T07:00:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/premier-league/20261001/1004233081/gigantes-europa-atentos-caso-manchester-city.html"
+      "fecha": "2026-10-01T15:06:03+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20261001/1004233393/indulto.html"
+    },
+    {
+      "titular": "Salta por los aires el Jódar-Davidovich de Tokio",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-01T15:02:56+02:00",
+      "enlace": "https://www.mundodeportivo.com/tenis/20261001/1004233398/salta-aires-jodar-davidovich-tokio.html"
     },
     {
       "titular": "El Barça busca su séptima corona mundial ante el Veszprem",
@@ -32,40 +41,31 @@
       "enlace": "https://www.marca.com/futbol/premier-league/2026/09/30/gobierno-britanico-carga-manchester-city-expulsados-premier-league.html"
     },
     {
-      "titular": "Jorge Jesus explota: \"Me han obligado a hablar con Cristiano Ronaldo\"",
+      "titular": "\"Si tienes que diseñar una pista en la que vayamos a sufrir más por sus características, es Malasia\", reconoce Carlos Sainz",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-30T18:21:14+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/uefa-nations-league/20260930/1004233076/jorge-jesus-explota-le-dije-cristiano-ronaldo-no-jugaria-noruega-dinamarca.html"
+      "fecha": "2026-10-01T15:00:06+02:00",
+      "enlace": "https://www.mundodeportivo.com/motor/f1/20261001/1004233396/tienes-disenar-pista-vayamos-sufrir-caracteristicas-malasia-reconoce-carlos-sainz.html"
     },
     {
-      "titular": "Máximo Quiles será campeón de Moto3 en Japón si...",
-      "medios": [
-        "Marca"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-30T13:28:34+02:00",
-      "enlace": "https://www.marca.com/motor/motogp/gp-japon/2026/09/30/maximo-quiles-sera-campeon-moto3-japon.html"
-    },
-    {
-      "titular": "Cristiano: \"He decidido abandonar la concentración de Portugal\"",
+      "titular": "Una conocida ex de Telecinco anuncia que está embarazada: \"Estoy ya de cuatro meses\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-30T20:52:07+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/internacional/20260930/1004233127/cristiano-confirma-he-decidido-abandonar-concentracion.html"
+      "fecha": "2026-10-01T14:58:44+02:00",
+      "enlace": "https://www.mundodeportivo.com/elotromundo/television/20261001/1004233394/conocida-ex-telecinco-anuncia-esta-embarazada-cuatro-meses-dct.html"
     },
     {
-      "titular": "El Rayo anuncia la vuelta a su estadio para disputar el Trofeo de Vallecas",
+      "titular": "Ton Ripoll saca pecho del buen arranque del Sabadell",
       "medios": [
-        "Marca"
+        "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-30T13:14:06+02:00",
-      "enlace": "https://www.marca.com/futbol/rayo/2026/09/30/rayo-anuncia-vuelta-estadio-disputar-trofeo-vallecas.html"
+      "fecha": "2026-10-01T14:58:07+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/20261001/1004233390/ton-ripoll-saca-pecho-buen-arranque-sabadell.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 23,
+    "antiguedad_minima_min": 33,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 76,
         "error": null,
-        "antiguedad_min": 1091,
+        "antiguedad_min": 1534,
         "descartados_por_gancho": 7
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 133,
+        "items": 138,
         "error": null,
-        "antiguedad_min": 23,
-        "descartados_por_gancho": 8
+        "antiguedad_min": 33,
+        "descartados_por_gancho": 5
       },
       {
         "medio": "Sport",

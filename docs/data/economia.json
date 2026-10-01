@@ -1,71 +1,71 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "portadas",
-  "generado": "2026-10-01T08:16:49+02:00",
+  "modo": "ultimas",
+  "generado": "2026-10-01T15:39:59+02:00",
   "titulares": [
     {
-      "titular": "Martínez-Avial (BNP Paribas Real Estate): \"El principal riesgo en vivienda es su politización\"",
+      "titular": "Accenture crece un 5% y cierra su año fiscal con una facturación de 65.743 millones de euros",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-01T02:13:29+02:00",
-      "enlace": "https://www.expansion.com/inmobiliario/mercado/2026/10/01/6abd50a4e5fdea777e8b45a5.html"
+      "fecha": "2026-10-01T15:26:17+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/10/01/6abe5f75e5fdeacc378b4573.html"
     },
     {
-      "titular": "Azora cierra un fondo para invertir hasta 4.500 millones en inmobiliario",
+      "titular": "El PNV votará en contra del segundo decreto y aboca al fracaso la renovación automática de los contratos",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-01T02:13:32+02:00",
-      "enlace": "https://www.expansion.com/inmobiliario/mercado/2026/10/01/6abd53b1e5fdea8f628b4597.html"
+      "fecha": "2026-10-01T14:52:03+02:00",
+      "enlace": "https://www.expansion.com/economia/politica/2026/10/01/6abe5716e5fdea31348b4588.html"
     },
     {
-      "titular": "Vivienda: fondos y promotoras alertan de fuga de inversiones",
+      "titular": "El Ibex sucumbe a los nuevos máximos de la deuda",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-01T02:13:30+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/10/01/6abd5e40e5fdeac4458b4578.html"
+      "fecha": "2026-10-01T14:44:24+02:00",
+      "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/10/01/6abdf4a5e5fdeab4358b459c.html"
     },
     {
-      "titular": "La Primera de Expansión sobre vivienda, Zervos, Coreda, Elon Musk, Paramount, Warner y OpenAI",
+      "titular": "Francia busca limitar la subida de las pensiones y los salarios públicos en 2027",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-01T07:24:54+02:00",
-      "enlace": "https://www.expansion.com/podcasts/la-primera-de-expansion/2026/10/01/6abde6f9468aeb82438b45b1.html"
+      "fecha": "2026-10-01T14:43:40+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/10/01/6abe5575468aebdb4f8b45a8.html"
     },
     {
-      "titular": "CaixaBank ficha a Morgan Stanley para que analice la compra de Cetelem",
+      "titular": "La revolución en marcha de las acciones tokenizadas",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-01T00:28:57+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/10/01/6abd4f35468aeb875f8b4575.html"
+      "fecha": "2026-10-01T14:34:03+02:00",
+      "enlace": "https://www.expansion.com/mercados/criptomonedas/2026/10/01/6abe2a50e5fdeae3708b457a.html"
     },
     {
-      "titular": "Carlos Cortina y Andrés Rebuelta lanzan su propia gestora de fondos",
+      "titular": "Indra acelera en el negocio de drones con su tercera compra en un año",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-01T00:06:12+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/10/01/6abd59c5468aeb7e0e8b45b6.html"
+      "fecha": "2026-10-01T14:17:24+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/10/01/6abe4f4fe5fdea58098b4578.html"
     },
     {
-      "titular": "Trump ficha al gran optimista de Wall Street, que ve el S&P 500 a 9.000 puntos",
+      "titular": "El director del Louvre promete una \"cultura de seguridad\" tras el robo",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-30T20:56:24+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/09/30/6abd3a56e5fdeac96c8b457f.html"
+      "fecha": "2026-10-01T14:04:47+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/10/01/6abe4af3e5fdea51348b45bb.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 4,
+    "antiguedad_minima_min": 13,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 71,
+        "items": 75,
         "error": null,
-        "antiguedad_min": 4,
+        "antiguedad_min": 13,
         "descartados_por_gancho": 1
       },
       {
