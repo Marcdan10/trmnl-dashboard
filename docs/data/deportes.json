@@ -1,26 +1,17 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "ultimas",
-  "generado": "2026-10-01T21:11:38+02:00",
+  "modo": "portadas",
+  "generado": "2026-10-02T01:17:58+02:00",
   "titulares": [
     {
-      "titular": "102-98: Un Real Madrid con dos caras cae y firma el peor arranque de su historia",
+      "titular": "Los fichajes del Barça funcionan mejor que los del Madrid",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-01T20:57:37+02:00",
-      "enlace": "https://www.mundodeportivo.com/baloncesto/euroliga/20261001/1004233502/102-98-real-madrid-dos-caras-cae-sofia-firma-peor-arranque-historia.html"
-    },
-    {
-      "titular": "Tercer encuentro de la 'Xavineta' holandesa",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-01T20:55:12+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/uefa-nations-league/20261001/1004233033/grecia-paises-bajos-directo-nations-league-futbol.html"
+      "fecha": "2026-09-29T07:00:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260929/1004232269/clasico-fichajes-2026-2027-barca.html"
     },
     {
       "titular": "El Barça busca su séptima corona mundial ante el Veszprem",
@@ -32,6 +23,15 @@
       "enlace": "https://www.marca.com/balonmano/2026/09/30/barca-busca-septima-corona-mundial-veszprem.html"
     },
     {
+      "titular": "La UEFA confirma que ha recibido el informe del Madrid sobre el 'caso Negreira'",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-01T16:17:34+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261001/1004233430/uefa-confirma-recibido-informe-madrid-sobre-caso-negreira.html"
+    },
+    {
       "titular": "El Gobierno británico carga contra el City: \"Pueden ser expulsados de la Premier League\"",
       "medios": [
         "Marca"
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/premier-league/2026/09/30/gobierno-britanico-carga-manchester-city-expulsados-premier-league.html"
     },
     {
-      "titular": "Belén Esteban resucita T5 más allá de su 'belenazo' en '¡De viernes!': su entrevista deja récords en otros programas",
+      "titular": "Comunicado del Barça tras el anuncio de la UEFA",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-01T20:48:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/elotromundo/television/20261001/1004233535/belen-esteban-impulsa-resucita-telecinco-mas-belenazo-viernes-resaca-entrevista-otorga-records-otros-programas-dct.html"
+      "fecha": "2026-10-01T17:53:11+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261001/1004233470/comunicado-barca-no-apertura-reapertura-reactivacion.html"
     },
     {
-      "titular": "Barça - Veszprem - Final del Mundial de Clubes",
+      "titular": "Máximo Quiles será campeón de Moto3 en Japón si...",
       "medios": [
-        "Mundo Deportivo"
+        "Marca"
       ],
       "consenso": 1,
-      "fecha": "2026-10-01T20:45:44+02:00",
-      "enlace": "https://www.mundodeportivo.com/balonmano/20261001/1004232736/barca-veszprem-directo-final-mundial-clubs-balonmano.html"
+      "fecha": "2026-09-30T13:28:34+02:00",
+      "enlace": "https://www.marca.com/motor/motogp/gp-japon/2026/09/30/maximo-quiles-sera-campeon-moto3-japon.html"
     },
     {
-      "titular": "La Supercoppa cambia de formato y de sede",
+      "titular": "El Real Madrid presiona con un nuevo comunicado sobre el 'caso Negreira'",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-01T20:40:50+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/serie-a/20261001/1004233533/supercoppa-cambia-formato-sede.html"
+      "fecha": "2026-10-01T17:30:43+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20261001/1004233459/comunicado-real-madrid-sobre-caso-negreira-extraordinaria-gravedad.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 14,
+    "antiguedad_minima_min": 53,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 76,
         "error": null,
-        "antiguedad_min": 1866,
+        "antiguedad_min": 2112,
         "descartados_por_gancho": 7
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 138,
+        "items": 139,
         "error": null,
-        "antiguedad_min": 14,
-        "descartados_por_gancho": 5
+        "antiguedad_min": 53,
+        "descartados_por_gancho": 6
       },
       {
         "medio": "Sport",
