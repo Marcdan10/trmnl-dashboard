@@ -1,26 +1,17 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "ultimas",
-  "generado": "2026-09-30T22:27:00+02:00",
+  "modo": "portadas",
+  "generado": "2026-10-01T02:03:13+02:00",
   "titulares": [
     {
-      "titular": "Pere Romeu: \"Ya empezamos a ser nosotras\"",
+      "titular": "Cristiano: \"He decidido abandonar la concentración de Portugal\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-30T21:56:37+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260930/1004233150/pere-romeu-empezamos.html"
-    },
-    {
-      "titular": "La Real hace historia en Zubieta aplastando al Hearts para seguir en Europa",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-30T21:53:28+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-sociedad/20260930/1004233147/real-historia-zubieta-aplastando-hearts-seguir-europa.html"
+      "fecha": "2026-09-30T20:52:07+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/internacional/20260930/1004233127/cristiano-confirma-he-decidido-abandonar-concentracion.html"
     },
     {
       "titular": "El Barça busca su séptima corona mundial ante el Veszprem",
@@ -41,31 +32,40 @@
       "enlace": "https://www.marca.com/futbol/premier-league/2026/09/30/gobierno-britanico-carga-manchester-city-expulsados-premier-league.html"
     },
     {
-      "titular": "Triste despedida del ciclismo profesional de Ion Izagirre al romperse la muñeca izquierda",
+      "titular": "La hermana de Cristiano no se guarda nada: \"Merecemos volver a la mediocridad de antes de CR7\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-30T21:43:32+02:00",
-      "enlace": "https://www.mundodeportivo.com/ciclismo/20260930/1004233145/triste-despedida-ciclismo-profesional-ion-izagirre-romperse-muneca-izquierda.html"
+      "fecha": "2026-09-30T22:31:36+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/internacional/20260930/1004233159/hermana-cristiano-no-guarda-merecemos-volver-mediocridad-cr7.html"
     },
     {
-      "titular": "Revelan la lista de los países que más cerveza consumen y no dan crédito con España: \"¿Van todos borrachos?\"",
+      "titular": "Máximo Quiles será campeón de Moto3 en Japón si...",
       "medios": [
-        "Mundo Deportivo"
+        "Marca"
       ],
       "consenso": 1,
-      "fecha": "2026-09-30T21:32:04+02:00",
-      "enlace": "https://www.mundodeportivo.com/tressesenta/20260930/1004233132/revelan-lista-paises-mas-cerveza-consumen-no-dan-credito-posicion-espana-todos-borrachos-galeria-dct.html"
+      "fecha": "2026-09-30T13:28:34+02:00",
+      "enlace": "https://www.marca.com/motor/motogp/gp-japon/2026/09/30/maximo-quiles-sera-campeon-moto3-japon.html"
     },
     {
-      "titular": "España obligará a los conductores a dejar pasar a peatones cuando circulen por estas vías",
+      "titular": "Jorge Jesus explota: \"Me han obligado a hablar con Cristiano Ronaldo\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-09-30T21:28:23+02:00",
-      "enlace": "https://www.mundodeportivo.com/actualidad/20260930/1004233134/oficial-confirmado-espana-cambia-normas-partir-manana-1-octubre-obliga-conductores-dejar-pasar-peatones-circulen-vias-cmt-dct.html"
+      "fecha": "2026-09-30T18:21:14+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/uefa-nations-league/20260930/1004233076/jorge-jesus-explota-le-dije-cristiano-ronaldo-no-jugaria-noruega-dinamarca.html"
+    },
+    {
+      "titular": "0-6: Veni, vidi, vici: el Barça arrasa en Roma",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-30T20:37:35+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260930/1004233124/veni-vidi-vici-barca-arrasa-roma.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 30,
+    "antiguedad_minima_min": 103,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 76,
         "error": null,
-        "antiguedad_min": 501,
+        "antiguedad_min": 717,
         "descartados_por_gancho": 7
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 139,
+        "items": 141,
         "error": null,
-        "antiguedad_min": 30,
-        "descartados_por_gancho": 9
+        "antiguedad_min": 103,
+        "descartados_por_gancho": 7
       },
       {
         "medio": "Sport",

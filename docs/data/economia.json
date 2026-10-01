@@ -1,71 +1,71 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "ultimas",
-  "generado": "2026-09-30T22:26:59+02:00",
+  "modo": "portadas",
+  "generado": "2026-10-01T02:03:12+02:00",
   "titulares": [
     {
-      "titular": "Lagarde sugiere que dejará el BCE \"unos meses antes\" de que expire su mandato",
+      "titular": "Las principales medidas del nuevo decreto de vivienda, explicadas una a una",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-30T22:14:12+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/09/30/6abd6d51468aebf24f8b457f.html"
+      "fecha": "2026-09-30T11:20:10+02:00",
+      "enlace": "https://www.expansion.com/inmobiliario/mercado/2026/09/30/6abcd273468aebae5a8b45a4.html"
     },
     {
-      "titular": "El Ibex cae un 2,7% en el mes, el segundo bajista",
+      "titular": "Prórroga de dos años en los alquileres: todas las claves para propietarios e inquilinos",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-30T21:55:38+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/09/30/6abd68bde5fdeaf4468b458f.html"
+      "fecha": "2026-09-30T09:52:12+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/09/30/6abcbfa8468aebd20b8b45a4.html"
     },
     {
-      "titular": "Taurus adquiere la marca Movilfrit tras facturar 245 millones",
+      "titular": "El segundo decreto de vivienda obliga al casero a indemnizar con un mínimo de 12 meses a los inquilinos a los que no se les renueve el contrato",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-30T21:37:26+02:00",
-      "enlace": "https://www.expansion.com/catalunya/2026/09/30/taurus-adquiere-marca-movilfrit-facturar-245-millones.html"
+      "fecha": "2026-09-30T15:53:07+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/09/30/6abd0c6fe5fdea5e1d8b457a.html"
     },
     {
-      "titular": "Italia extiende durante otras dos semanas los controles a los viajeros llegados de España",
+      "titular": "Decreto de vivienda: el Gobierno aclara qué es un fondo 'buitre' para prohibirles la compra",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-30T20:42:53+02:00",
-      "enlace": "https://www.expansion.com/economia/politica/2026/09/30/6abd5824468aebed7d8b4586.html"
+      "fecha": "2026-09-30T09:05:24+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/09/30/6abcb23a468aebbb0e8b4589.html"
     },
     {
-      "titular": "Vueling recortará capacidad este invierno, pero se blinda en las rutas nacionales",
+      "titular": "Gonzalo Bernardos: \"El decreto de vivienda del Gobierno va a hundir la oferta de alquiler más de un 20%\"",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-30T20:09:10+02:00",
-      "enlace": "https://www.expansion.com/empresas/transporte/2026/09/30/6abd4f09e5fdea7d388b458c.html"
+      "fecha": "2026-09-30T17:25:01+02:00",
+      "enlace": "https://www.expansion.com/inmobiliario/mercado/2026/09/30/6abced49e5fdea50388b4577.html"
     },
     {
-      "titular": "Reino Unido encarga a ACS obras de limpieza nuclear por 1.750 millones",
+      "titular": "Telefónica simplifica sus negocios en España",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-30T19:33:47+02:00",
-      "enlace": "https://www.expansion.com/empresas/construccion-servicios/2026/09/30/6abd4735468aeb9d698b4572.html"
+      "fecha": "2026-09-30T13:51:23+02:00",
+      "enlace": "https://www.expansion.com/empresas/telecomunicaciones/2026/09/30/6abcebffe5fdea47318b456e.html"
     },
     {
-      "titular": "Nueva Pescanova vende la división de refrigerados de Francia al grupo ecuatoriano Omarsa",
+      "titular": "El euríbor se dispara en septiembre a su nivel más alto en dos años",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-09-30T19:18:06+02:00",
-      "enlace": "https://www.expansion.com/empresas/distribucion/2026/09/30/6abd444d468aeb715a8b459d.html"
+      "fecha": "2026-09-30T13:03:45+02:00",
+      "enlace": "https://www.expansion.com/mercados/euribor/2026/09/30/6abcec10468aeb7e0e8b4591.html"
     }
   ],
   "salud": {
@@ -78,7 +78,7 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 12,
+    "antiguedad_minima_min": 228,
     "detalle": [
       {
         "medio": "Expansión",
@@ -86,7 +86,7 @@
         "ok": true,
         "items": 79,
         "error": null,
-        "antiguedad_min": 12,
+        "antiguedad_min": 228,
         "descartados_por_gancho": 1
       },
       {

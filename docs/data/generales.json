@@ -1,63 +1,9 @@
 {
   "pantalla": "generales",
   "titulo": "Titulares",
-  "modo": "ultimas",
-  "generado": "2026-09-30T22:26:56+02:00",
+  "modo": "portadas",
+  "generado": "2026-10-01T02:03:09+02:00",
   "titulares": [
-    {
-      "titular": "“Los siete de Cornell”: lo que sabemos sobre la denuncia por violación en grupo en la universidad de élite",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-30T22:22:36+02:00",
-      "enlace": "https://elpais.com/us/2026-09-30/los-siete-de-cornell-lo-que-sabemos-sobre-la-presunta-violacion-en-grupo-en-la-universidad-de-elite.html"
-    },
-    {
-      "titular": "‘La Mesa de Hora 25’, en EL PAÍS | Programa del 30 de septiembre de 2026",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-30T22:05:19+02:00",
-      "enlace": "https://elpais.com/videos/2026-09-30/la-mesa-de-hora-25-en-el-pais-programa-del-30-de-septiembre-de-2026.html"
-    },
-    {
-      "titular": "La rabieta más grande de Cristiano: abandona la concentración de Portugal",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-30T22:02:58+02:00",
-      "enlace": "https://www.abc.es/deportes/futbol/cristiano-entrenamiento-portugal-aumenta-incendio-20260930191350-nt.html"
-    },
-    {
-      "titular": "Un informe policial alerta de armas blancas, adoquines y vandalismo en la acampada de Sol",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-30T22:00:16+02:00",
-      "enlace": "https://www.abc.es/espana/madrid/almeida-advertira-escrito-marlaska-delegado-adoquines-grandes-20260930164813-nt.html"
-    },
-    {
-      "titular": "Localizan a la víctima de otro secuestro expreso el domingo en Calella",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-30T20:57:29+02:00",
-      "enlace": "https://www.lavanguardia.com/local/girona/20260930/11647950/localizan-victima-secuestro-expreso-domingo-calella.html"
-    },
-    {
-      "titular": "España solicita los 25.800 millones del último tramo de los fondos europeos",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-09-30T20:48:48+02:00",
-      "enlace": "https://www.lavanguardia.com/economia/20260930/11647946/espana-solicita-25-800-millones-ultimo-tramo-fondos-europeos.html"
-    },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
       "medios": [
@@ -66,6 +12,60 @@
       "consenso": 1,
       "fecha": "2022-06-10T01:05:00+02:00",
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
+    },
+    {
+      "titular": "Un piloto apuñala a otro en pleno vuelo y pone al borde del desastre a un avión con destino a Israel",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-30T21:20:38+02:00",
+      "enlace": "https://elpais.com/internacional/2026-09-30/un-avion-que-volaba-a-tel-aviv-aterriza-en-arabia-saudi-tras-una-alerta-de-emergencia-por-un-incidente-entre-los-pilotos.html"
+    },
+    {
+      "titular": "Los desahucios se suspenderán si el inquilino paga su deuda",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-30T08:53:54+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20260930/11647337/inquilinos-podran-suspender-desahucios-pagan-rentas-adeudan.html"
+    },
+    {
+      "titular": "Matt Haig, autor de 'La biblioteca de la medianoche': «Estaba en la cresta de la ola y había olvidado por completo qué era ser feliz»",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-01T01:40:16+02:00",
+      "enlace": "https://www.abc.es/cultura/libros/matt-haig-autor-biblioteca-medianoche-cresta-ola-20260923180046-nt.html"
+    },
+    {
+      "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
+      "medios": [
+        "RTVE"
+      ],
+      "consenso": 1,
+      "fecha": "2022-06-10T00:03:00+02:00",
+      "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
+    },
+    {
+      "titular": "Las imágenes del interior del avión: “Hemos controlado a los terroristas”",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-30T16:43:00+02:00",
+      "enlace": "https://elpais.com/videos/2026-09-30/las-imagenes-del-incidente-en-el-interior-del-avion.html"
+    },
+    {
+      "titular": "Sánchez se muestra “razonablemente optimista” para convalidar los dos decretos ley de vivienda",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-09-30T15:16:23+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20260930/11647694/sanchez-muestra-razonablemente-optimista-convalidar-dos-decretos-ley-vivienda.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 4,
+    "antiguedad_minima_min": 22,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2266401,
+        "antiguedad_min": 2266618,
         "descartados_por_gancho": 0
       },
       {
@@ -97,28 +97,28 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 147,
+        "items": 148,
         "error": null,
-        "antiguedad_min": 4,
+        "antiguedad_min": 29,
         "descartados_por_gancho": 3
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 144,
+        "items": 142,
         "error": null,
-        "antiguedad_min": 89,
-        "descartados_por_gancho": 10
+        "antiguedad_min": 93,
+        "descartados_por_gancho": 9
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 23,
+        "items": 22,
         "error": null,
-        "antiguedad_min": 23,
-        "descartados_por_gancho": 2
+        "antiguedad_min": 22,
+        "descartados_por_gancho": 3
       }
     ]
   }
