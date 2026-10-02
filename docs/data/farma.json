@@ -2,34 +2,43 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "ultimas",
-  "generado": "2026-10-02T17:15:16+02:00",
+  "generado": "2026-10-02T22:02:20+02:00",
   "titulares": [
     {
-      "titular": "La Aemps espera que en noviembre se reanude el suministro de la terapia hormonal sustitutiva de administración transdérmica",
+      "titular": "Lamas: \"España será líder de investigación clínica cuando las moléculas se investiguen aquí antes de la fase I\"",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-02T19:22:37+02:00",
+      "enlace": "https://www.redaccionmedica.com/empresas/industria-farmaceutica/20261002/lamas-espana-sera-lider-de-investigacion-clinica-cuando-las-moleculas-se-investiguen-aqui-antes-la-fase/354619_0.html"
+    },
+    {
+      "titular": "Sanidad sienta las bases para acceder a los títulos de Genética Médica y de Laboratorio por vía extraordinaria",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-02T17:35:13+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/ministerio-sanidad/20261002/sanidad-sienta-las-bases-para-acceder-los-titulos-de-genetica-medica-laboratorio-por-via-extraordinaria/354681_0.html"
+    },
+    {
+      "titular": "Profesión, políticos y pacientes piden cambios en el Proyecto de Ley de Medicamentos",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-02T17:24:50+02:00",
+      "enlace": "https://diariofarma.com/2026/10/02/profesion-politicos-y-pacientes-piden-cambios-en-el-proyecto-de-ley-de-medicamentos"
+    },
+    {
+      "titular": "La Aemps espera que en noviembre se reanude progresivamente el suministro de estradiol",
       "medios": [
         "Diariofarma"
       ],
       "consenso": 1,
       "fecha": "2026-10-02T17:06:19+02:00",
       "enlace": "https://diariofarma.com/2026/10/02/la-aemps-espera-que-en-noviembre-se-reanude-el-suministro-de-la-terapia-hormonal-sustitutiva-de-administracion-transdermica"
-    },
-    {
-      "titular": "La médica e ilustradora Mónica Lalanda publicará sus viñetas en Redacción Médica",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-02T16:36:59+02:00",
-      "enlace": "https://www.redaccionmedica.com/profesionales/medicina/20261002/la-medica-ilustradora-monica-lalanda-publicara-sus-vinetas-en-redaccion-medica/354664_0.html"
-    },
-    {
-      "titular": "La OMS usará la nueva cepa de gripe porcina detectada en Cataluña para \"acelerar vacunas que reconozcan el nuevo virus\"",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-02T16:17:31+02:00",
-      "enlace": "https://www.redaccionmedica.com/salud-animal/20261002/oms-nueva-cepa-gripe-porcina-cataluna-acelerar-vacunas/354595_0.html"
     },
     {
       "titular": "“Todo el trabajo que hacemos tiene en común la defensa del modelo farmacéutico de nuestro país”",
@@ -50,22 +59,13 @@
       "enlace": "https://elglobalfarma.com/farmacia/malaga-relevo-oviedo-acogera-25-congreso-nacional-farmaceutico/"
     },
     {
-      "titular": "Málaga será la sede del próximo Congreso Nacional Farmacéutico, a celebrar en 2028",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-02T14:00:41+02:00",
-      "enlace": "https://diariofarma.com/2026/10/02/malaga-sera-la-sede-del-proximo-congreso-nacional-farmaceutico-a-celebrar-en-2028"
-    },
-    {
-      "titular": "El PP propone al Congreso impulsar una estrategia para evaluar el impacto en salud de las políticas sociales",
+      "titular": "La médica e ilustradora Mónica Lalanda publicará sus viñetas en Redacción Médica",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-10-02T16:16:48+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/servicios-sociales/20261002/el-pp-propone-al-congreso-impulsar-una-estrategia-para-evaluar-el-impacto-en-salud-de-las-politicas-sociales/354263_0.html"
+      "fecha": "2026-10-02T16:36:59+02:00",
+      "enlace": "https://www.redaccionmedica.com/profesionales/medicina/20261002/la-medica-ilustradora-monica-lalanda-publicara-sus-vinetas-en-redaccion-medica/354664_0.html"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 8,
+    "antiguedad_minima_min": 159,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 8,
+        "antiguedad_min": 277,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 104,
+        "antiguedad_min": 391,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 38,
+        "antiguedad_min": 159,
         "descartados_por_gancho": 0
       },
       {

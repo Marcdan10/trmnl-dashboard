@@ -2,25 +2,25 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-10-02T17:15:09+02:00",
+  "generado": "2026-10-02T22:02:13+02:00",
   "titulares": [
     {
-      "titular": "Estas son las medidas de vivienda que decaen tras el veto del Congreso y así queda ahora el mercado",
+      "titular": "Vivienda, el gran fracaso de Sánchez",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-02T16:50:12+02:00",
-      "enlace": "https://www.expansion.com/inmobiliario/mercado/2026/10/02/6abfa260468aeba2368b4594.html"
+      "fecha": "2026-10-02T21:54:14+02:00",
+      "enlace": "https://www.expansion.com/opinion/2026/10/02/vivienda-gran-fracaso-sanchez.html"
     },
     {
-      "titular": "El Atlético cierra su guerra con Hacienda: el Supremo le da la razón por los pagos a agentes",
+      "titular": "¿Puede el 'CEO de los automóviles' de Kering hacer que la marca de lujo avance al doble de velocidad?",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-02T16:48:51+02:00",
-      "enlace": "https://www.expansion.com/fiscal/2026/10/02/6abfc44ae5fdea115e8b456f.html"
+      "fecha": "2026-10-02T19:56:46+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/10/02/6abfeb00468aeb5a408b4577.html"
     },
     {
       "titular": "El G7 liberará 100 millones de barriles de petróleo y diésel por la presión de Trump",
@@ -28,44 +28,44 @@
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-02T16:47:22+02:00",
+      "fecha": "2026-10-02T19:31:04+02:00",
       "enlace": "https://www.expansion.com/economia/2026/10/02/6abfc2ca468aebc31e8b457a.html"
     },
     {
-      "titular": "El Ibex se sitúa por encima de los 19.100 puntos con Wall Street al alza",
+      "titular": "RTX logra un megacontrato del Pentágono para misiles interceptores por 21.600 millones",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-02T16:43:40+02:00",
+      "fecha": "2026-10-02T18:26:06+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/10/02/6abfdae5468aeb5a408b456e.html"
+    },
+    {
+      "titular": "El Ibex salva los 19.000 puntos, pero sufre su peor semana desde abril",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-02T18:05:41+02:00",
       "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/10/02/6abf46e5e5fdea744a8b457f.html"
     },
     {
-      "titular": "Rajoy y González piden elecciones entre ataques a la gestión de Sánchez",
+      "titular": "Nike recortará puestos de trabajo y prevé una caída de los ingresos el próximo año",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-02T16:04:06+02:00",
-      "enlace": "https://www.expansion.com/economia/politica/2026/10/02/6abfb511468aeb6f688b4574.html"
+      "fecha": "2026-10-02T18:03:12+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/10/02/6abfd5af468aeb8d058b45aa.html"
     },
     {
-      "titular": "El Congreso tumba los decretos de vivienda que amenazaban con destruir la oferta de alquiler",
+      "titular": "Terremoto político: la derogación de los decretos alimenta los rumores de elecciones",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-02T15:57:33+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/10/02/6abf90fd468aeb8a5f8b458a.html"
-    },
-    {
-      "titular": "Las amenazas de Trump en relación al diésel podrían resultar muy contraproducentes",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-02T15:24:22+02:00",
-      "enlace": "https://www.expansion.com/economia/financial-times/2026/10/02/6abfaf44468aeb71728b458c.html"
+      "fecha": "2026-10-02T17:32:28+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/10/02/6abfce8ae5fdeac5158b4570.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 24,
+    "antiguedad_minima_min": 7,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 77,
+        "items": 79,
         "error": null,
-        "antiguedad_min": 24,
+        "antiguedad_min": 7,
         "descartados_por_gancho": 3
       },
       {

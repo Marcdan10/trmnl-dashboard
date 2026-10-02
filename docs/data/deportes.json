@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-10-02T17:15:12+02:00",
+  "generado": "2026-10-02T22:02:14+02:00",
   "titulares": [
     {
-      "titular": "Abre la puerta a volver al Real Madrid: \"Si tengo la oportunidad, siempre querré regresar\"",
+      "titular": "Emery, homenajeado en su vuelta al Sánchez-Pizjuán",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-02T16:44:02+02:00",
-      "enlace": "https://www.mundodeportivo.com/baloncesto/acb/20261002/1004233802/abre-puerta-volver-real-madrid-oportunidad-siempre-querre-regresar.html"
+      "fecha": "2026-10-02T21:51:35+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/sevilla/20261002/1004233937/emery-homenajeado-vuelta-sanchez-pizjuan.html"
     },
     {
-      "titular": "\"Gracias Cristiano, serás siempre nuestro capitán\"",
+      "titular": "Denia: \"De la Fuente es el mejor del mundo\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-02T16:37:42+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/20261002/1004233801/gracias-cristiano-seras-siempre-nuestro-capitan.html"
+      "fecha": "2026-10-02T21:50:15+02:00",
+      "enlace": "https://www.mundodeportivo.com/seleccion-espanola/20261002/1004233935/denia-fuente-mejor-mundo.html"
     },
     {
       "titular": "Las mayores polémicas de Cristiano Ronaldo en su carrera: Rooney, Mou, Benítez...",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/radio/2026/10/02/moretto-desvela-deseo-joao-felix-le-encantaria-volver-barca.html"
     },
     {
-      "titular": "'Som un Clam' pide a la junta del Barça que aplique seis medidas para los socios",
+      "titular": "Millán, abogado: \"Si te dejas el DNI en casa, no te niegues a identificarte. La multa llega hasta 30.000€\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-02T16:37:20+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261002/1004233793/som-clam-pide-junta-barca-aplique-seis-medidas-socios.html"
+      "fecha": "2026-10-02T21:49:40+02:00",
+      "enlace": "https://www.mundodeportivo.com/actualidad/20261002/1004233927/andres-millan-abogado-te-dejas-dni-casa-pedirte-les-acompanes-comisaria-identificarte-diligencia-no-durar-seis-horas-no-te-niegues-multa-30-000-euros-dnr-dct.html"
     },
     {
-      "titular": "Sigue el gafe en el equipo español femenino de ciclismo: Paula Blasi no participará en el Europeo de Eslovenia",
+      "titular": "El joven francés Ronan Augé, en coma inducido tras sufrir una grave caída",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-02T16:18:06+02:00",
-      "enlace": "https://www.mundodeportivo.com/ciclismo/20261002/1004233800/sigue-gafe-equipo-espanol-femenino-ciclismo-paula-blasi-no-participara-europeo-eslovenia.html"
+      "fecha": "2026-10-02T21:47:07+02:00",
+      "enlace": "https://www.mundodeportivo.com/ciclismo/20261002/1004233932/joven-frances-ronan-auge-coma-inducido-sufrir-grave-caida.html"
     },
     {
-      "titular": "Ventas de motos y scooters en septiembre 2026: Zontes ya vende más que Honda y coloca tres modelos en el top 10",
+      "titular": "Sekulic: \"No era nada fácil, hemos mantenido la intensidad y la concentración durante todo el partido\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-02T16:16:26+02:00",
-      "enlace": "https://www.mundodeportivo.com/solomoto/20261002/1004233404/ventas-motos-scooters-septiembre-2026-zontes-vende-honda-coloca-tres-modelos-top-10.html"
+      "fecha": "2026-10-02T21:43:50+02:00",
+      "enlace": "https://www.mundodeportivo.com/baloncesto/euroliga/20261002/1004233933/sekulic-no-facil-hemos-mantenido-intensidad-concentracion-partido.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 31,
+    "antiguedad_minima_min": 10,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 67,
         "error": null,
-        "antiguedad_min": 276,
+        "antiguedad_min": 563,
         "descartados_por_gancho": 4
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 141,
+        "items": 140,
         "error": null,
-        "antiguedad_min": 31,
-        "descartados_por_gancho": 6
+        "antiguedad_min": 10,
+        "descartados_por_gancho": 9
       },
       {
         "medio": "Sport",
