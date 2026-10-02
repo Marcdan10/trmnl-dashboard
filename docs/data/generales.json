@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-10-02T04:23:16+02:00",
+  "generado": "2026-10-02T10:46:01+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -14,31 +14,31 @@
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
     },
     {
-      "titular": "Junts rechaza los dos decretos pese al clamor en las calles",
+      "titular": "Acampadas en España por la vivienda, en directo | Dirigentes del PSOE y ministros del Gobierno creen que Sánchez debe convocar elecciones si se tumban los decretos",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-01T22:19:01+02:00",
-      "enlace": "https://elpais.com/espana/catalunya/2026-10-01/junts-acuerda-tumbar-los-dos-decretos-de-vivienda-del-gobierno.html"
+      "fecha": "2026-10-02T10:42:20+02:00",
+      "enlace": "https://elpais.com/espana/2026-10-02/acampadas-en-espana-por-la-vivienda-en-directo.html"
     },
     {
-      "titular": "Junts tumbará los dos decretos de vivienda y priva al Gobierno de una victoria que le dé oxígeno",
+      "titular": "El Gobierno ve una oportunidad: “Es el momento de aprovechar para convocar elecciones”",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-10-01T22:20:20+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20261001/11649001/junts-tumbara-dos-decretos-vivienda-priva-gobierno-victoria-le-de-oxigeno.html"
+      "fecha": "2026-10-02T09:41:30+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20261002/11649277/gobierno-ve-oportunidad-momento-aprovechar-convocar-elecciones.html"
     },
     {
-      "titular": "Noche de tensión en Comunidad Valenciana y Cataluña por el riesgo de inundaciones provocadas por el temporal",
+      "titular": "La Policía blinda el Congreso ante las protestas convocadas en el día decisivo para la vivienda",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-10-02T02:43:38+02:00",
-      "enlace": "https://www.abc.es/sociedad/temporal-lluvias-tormentas-espana-directo-avisos-rojos-20261001175140-di.html"
+      "fecha": "2026-10-02T10:23:07+02:00",
+      "enlace": "https://www.abc.es/economia/ultima-hora-decreto-vivienda-directo-votacion-aprobacion-20261002100014-di.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -50,6 +50,15 @@
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
     },
     {
+      "titular": "Junts rechaza los decretos de vivienda y pone al Gobierno contra las cuerdas",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-02T05:30:01+02:00",
+      "enlace": "https://elpais.com/espana/2026-10-02/junts-rechaza-los-decretos-de-vivienda-y-pone-al-gobierno-contra-las-cuerdas.html"
+    },
+    {
       "titular": "Vivienda, legalidad y seguridad jurídica",
       "medios": [
         "La Vanguardia"
@@ -57,15 +66,6 @@
       "consenso": 1,
       "fecha": "2026-10-02T00:05:00+02:00",
       "enlace": "https://www.lavanguardia.com/opinion/20261002/11649020/vivienda-legalidad-seguridad-juridica.html"
-    },
-    {
-      "titular": "El Gobierno se niega a retirar los decretos de Vivienda: «Ha llegado la hora de que PP, Vox y Junts se retraten»",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-02T02:19:29+02:00",
-      "enlace": "https://www.abc.es/economia/gobierno-niega-retirar-decretos-llegado-hora-pp-20261001234011-nt.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 99,
+    "antiguedad_minima_min": 3,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2268198,
+        "antiguedad_min": 2268580,
         "descartados_por_gancho": 0
       },
       {
@@ -90,35 +90,35 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 403",
+        "error": "HTTP 500",
         "antiguedad_min": null
       },
       {
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 146,
+        "items": 150,
         "error": null,
-        "antiguedad_min": 152,
+        "antiguedad_min": 3,
         "descartados_por_gancho": 5
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 133,
+        "items": 129,
         "error": null,
-        "antiguedad_min": 168,
-        "descartados_por_gancho": 10
+        "antiguedad_min": 39,
+        "descartados_por_gancho": 16
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 25,
+        "items": 24,
         "error": null,
-        "antiguedad_min": 99,
-        "descartados_por_gancho": 0
+        "antiguedad_min": 22,
+        "descartados_por_gancho": 1
       }
     ]
   }

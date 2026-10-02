@@ -2,26 +2,8 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "portadas",
-  "generado": "2026-10-02T04:23:20+02:00",
+  "generado": "2026-10-02T10:46:04+02:00",
   "titulares": [
-    {
-      "titular": "Junts tumbará los dos decretos de vivienda del Gobierno",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-01T22:24:47+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/10/01/6abec107468aeb744b8b456d.html"
-    },
-    {
-      "titular": "Los fondos ven peligrar ventas de carteras de pisos para alquiler por 4.000 millones",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-02T02:07:26+02:00",
-      "enlace": "https://www.expansion.com/inmobiliario/mercado/2026/10/02/6abea322468aeb154e8b45a8.html"
-    },
     {
       "titular": "Paquete fiscal de 2.000 millones para intervenir la vivienda",
       "medios": [
@@ -30,6 +12,33 @@
       "consenso": 1,
       "fecha": "2026-10-02T02:15:25+02:00",
       "enlace": "https://www.expansion.com/economia/2026/10/02/6abea917468aebf4368b4581.html"
+    },
+    {
+      "titular": "El paro sube en 23.587 personas y la regularización de inmigrantes impulsa un dato récord de empleo",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-02T09:00:11+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/10/02/6abf566f468aeba2368b4579.html"
+    },
+    {
+      "titular": "El 'no' de Junts al decreto de vivienda pone entre las cuerdas al Gobierno",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-02T09:33:09+02:00",
+      "enlace": "https://www.expansion.com/inmobiliario/mercado/2026/10/02/6abf5d2a468aeb65478b45a1.html"
+    },
+    {
+      "titular": "La Primera de Expansión sobre vivienda, BCE, Iberdrola, Santander y BBVA",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-02T07:10:30+02:00",
+      "enlace": "https://www.expansion.com/podcasts/la-primera-de-expansion/2026/10/02/6abf395e468aeb73418b456e.html"
     },
     {
       "titular": "Los juristas temen una oleada de litigios por el decreto de vivienda: \"Es demencial, parece propaganda\"",
@@ -41,24 +50,6 @@
       "enlace": "https://www.expansion.com/economia/2026/10/02/6abeab9ae5fdea6d588b458f.html"
     },
     {
-      "titular": "La UE lanza la carrera para renovar la cúpula del BCE",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-02T02:41:43+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/10/02/6abec3fce5fdea37048b458e.html"
-    },
-    {
-      "titular": "Lula vs Bolsonaro: cuánto se juega el Ibex con las elecciones en Brasil",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-01T20:38:01+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/10/01/6abe8dace5fdea96418b457e.html"
-    },
-    {
       "titular": "Los cuatro mercados con más riesgo si afloran las caídas",
       "medios": [
         "Expansión"
@@ -66,6 +57,15 @@
       "consenso": 1,
       "fecha": "2026-10-02T00:01:16+02:00",
       "enlace": "https://www.expansion.com/mercados/2026/10/02/6abe5b27468aeb82438b45d4.html"
+    },
+    {
+      "titular": "El lujo residencial mira hacia arriba: pisos con servicios ganan terreno a las villas",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-02T00:48:01+02:00",
+      "enlace": "https://www.expansion.com/inmobiliario/casas/2026/10/02/6abe82e1e5fdea1a518b4577.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 83,
+    "antiguedad_minima_min": 10,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 66,
+        "items": 75,
         "error": null,
-        "antiguedad_min": 83,
+        "antiguedad_min": 10,
         "descartados_por_gancho": 3
       },
       {
