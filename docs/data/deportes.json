@@ -1,26 +1,17 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "ultimas",
-  "generado": "2026-10-02T22:02:14+02:00",
+  "modo": "portadas",
+  "generado": "2026-10-03T01:54:34+02:00",
   "titulares": [
     {
-      "titular": "Emery, homenajeado en su vuelta al Sánchez-Pizjuán",
+      "titular": "De la Fuente: \"No cuesta más ni menos dejar fuera a Lamine\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-02T21:51:35+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/sevilla/20261002/1004233937/emery-homenajeado-vuelta-sanchez-pizjuan.html"
-    },
-    {
-      "titular": "Denia: \"De la Fuente es el mejor del mundo\"",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-02T21:50:15+02:00",
-      "enlace": "https://www.mundodeportivo.com/seleccion-espanola/20261002/1004233935/denia-fuente-mejor-mundo.html"
+      "fecha": "2026-10-02T20:38:23+02:00",
+      "enlace": "https://www.mundodeportivo.com/seleccion-espanola/20261002/1004233908/fuente-no-cuesta-dejar-fuera-lamine.html"
     },
     {
       "titular": "Las mayores polémicas de Cristiano Ronaldo en su carrera: Rooney, Mou, Benítez...",
@@ -32,6 +23,15 @@
       "enlace": "https://www.marca.com/futbol/2026/10/02/mayores-polemicas-cristiano-ronaldo-carrera-rooney-mou-benitez.html"
     },
     {
+      "titular": "Santi Denia: \"De la Fuente es el mejor del mundo\"",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-02T21:50:15+02:00",
+      "enlace": "https://www.mundodeportivo.com/seleccion-espanola/20261002/1004233935/denia-fuente-mejor-mundo.html"
+    },
+    {
       "titular": "El deseo de Joao Félix: \"Le encantaría volver al Barça\"",
       "medios": [
         "Marca"
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/radio/2026/10/02/moretto-desvela-deseo-joao-felix-le-encantaria-volver-barca.html"
     },
     {
-      "titular": "Millán, abogado: \"Si te dejas el DNI en casa, no te niegues a identificarte. La multa llega hasta 30.000€\"",
+      "titular": "82-95: Paso adelante del Barça que se luce ante el Besiktas",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-02T21:49:40+02:00",
-      "enlace": "https://www.mundodeportivo.com/actualidad/20261002/1004233927/andres-millan-abogado-te-dejas-dni-casa-pedirte-les-acompanes-comisaria-identificarte-diligencia-no-durar-seis-horas-no-te-niegues-multa-30-000-euros-dnr-dct.html"
+      "fecha": "2026-10-02T21:05:31+02:00",
+      "enlace": "https://www.mundodeportivo.com/baloncesto/euroliga/20261002/1004233905/82-95-paso-adelante-barca-luce-besiktas.html"
     },
     {
-      "titular": "El joven francés Ronan Augé, en coma inducido tras sufrir una grave caída",
+      "titular": "La reacción de Arturo Vidal ante el 'caso Cristiano': \"Es una vergüenza\"",
       "medios": [
-        "Mundo Deportivo"
+        "Marca"
       ],
       "consenso": 1,
-      "fecha": "2026-10-02T21:47:07+02:00",
-      "enlace": "https://www.mundodeportivo.com/ciclismo/20261002/1004233932/joven-frances-ronan-auge-coma-inducido-sufrir-grave-caida.html"
+      "fecha": "2026-10-02T12:27:56+02:00",
+      "enlace": "https://www.marca.com/futbol/nations-league/2026/10/02/reaccion-arturo-vidal-caso-cristiano-vergueenza.html"
     },
     {
-      "titular": "Sekulic: \"No era nada fácil, hemos mantenido la intensidad y la concentración durante todo el partido\"",
+      "titular": "Cucurella, sobre su adaptación al Madrid: \"Hay cosas a mejorar\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-02T21:43:50+02:00",
-      "enlace": "https://www.mundodeportivo.com/baloncesto/euroliga/20261002/1004233933/sekulic-no-facil-hemos-mantenido-intensidad-concentracion-partido.html"
+      "fecha": "2026-10-02T20:54:48+02:00",
+      "enlace": "https://www.mundodeportivo.com/seleccion-espanola/20261002/1004233913/cucurella-sobre-adaptacion-madrid-hay-cosas-mejorar.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 10,
+    "antiguedad_minima_min": 56,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 67,
         "error": null,
-        "antiguedad_min": 563,
+        "antiguedad_min": 796,
         "descartados_por_gancho": 4
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 140,
+        "items": 145,
         "error": null,
-        "antiguedad_min": 10,
-        "descartados_por_gancho": 9
+        "antiguedad_min": 56,
+        "descartados_por_gancho": 5
       },
       {
         "medio": "Sport",

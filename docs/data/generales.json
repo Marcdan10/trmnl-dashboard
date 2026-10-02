@@ -1,63 +1,9 @@
 {
   "pantalla": "generales",
   "titulo": "Titulares",
-  "modo": "ultimas",
-  "generado": "2026-10-02T22:02:09+02:00",
+  "modo": "portadas",
+  "generado": "2026-10-03T01:54:29+02:00",
   "titulares": [
-    {
-      "titular": "Reacciones a los decretos de vivienda y las acampadas en directo | El Sindicato de Inquilinas seguirá en Sol: “Nuestra presencia será menor, pero no vamos a desaparecer”",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-02T22:00:43+02:00",
-      "enlace": "https://elpais.com/espana/2026-10-02/acampadas-en-espana-por-la-vivienda-en-directo.html"
-    },
-    {
-      "titular": "Lluvia purificadora para el magisterio de Urdiales",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-02T21:55:51+02:00",
-      "enlace": "https://elpais.com/cultura/2026-10-02/lluvia-purificadora-para-el-magisterio-de-urdiales.html"
-    },
-    {
-      "titular": "Los acampados de Sol se quedan de manera indefinida tras no prosperar los decretos de la vivienda",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-02T21:40:58+02:00",
-      "enlace": "https://www.abc.es/espana/madrid/acampados-deciden-tarde-levantan-protesta-sol-20261002163237-nt.html"
-    },
-    {
-      "titular": "El 'postmaricarmenismo' o una izquierda prebélica",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-02T21:36:53+02:00",
-      "enlace": "https://www.abc.es/espana/postmaricarmenismo-izquierda-prebelica-20261002183218-nt.html"
-    },
-    {
-      "titular": "El Barça empieza a gustarse con su triunfo solvente en Besiktas",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-02T21:29:47+02:00",
-      "enlace": "https://www.lavanguardia.com/deportes/20261002/11649840/baloncesto-basket-euroliga-barca-barcelona-besiktas-sekulic-resumen.html"
-    },
-    {
-      "titular": "De la Fuente: “Lamine es cada día más maduro dentro y fuera del campo”",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-02T20:41:37+02:00",
-      "enlace": "https://www.lavanguardia.com/deportes/futbol/20261002/11649810/de-la-fuente-lamine-yamal-mas-maduro-cada-dia.html"
-    },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
       "medios": [
@@ -66,6 +12,60 @@
       "consenso": 1,
       "fecha": "2022-06-10T01:05:00+02:00",
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
+    },
+    {
+      "titular": "El Congreso tumba los decretos de vivienda y abona el terreno para un adelanto electoral",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-02T16:20:05+02:00",
+      "enlace": "https://elpais.com/espana/2026-10-02/el-debate-de-los-decretos-se-convierte-en-un-juicio-demoledor-contra-junts.html"
+    },
+    {
+      "titular": "Sánchez abona el adelanto electoral tras el golpe de Junts a la legislatura",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-03T00:05:00+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20261003/11649812/sanchez-abona-adelanto-electoral-golpe-junts-legislatura.html"
+    },
+    {
+      "titular": "Nicola D'Amelio, investigador: «Queremos tratar el cáncer utilizando el yogur como caballo de Troya»",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-03T01:47:31+02:00",
+      "enlace": "https://www.abc.es/salud/enfermedades/nicola-damelio-investigador-queremos-tratar-cancer-utilizando-20260821010921-nt.html"
+    },
+    {
+      "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
+      "medios": [
+        "RTVE"
+      ],
+      "consenso": 1,
+      "fecha": "2022-06-10T00:03:00+02:00",
+      "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
+    },
+    {
+      "titular": "Sánchez se toma un tiempo para decidir si convoca elecciones",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-02T14:01:17+02:00",
+      "enlace": "https://elpais.com/espana/2026-10-02/dirigentes-del-psoe-y-ministros-del-gobierno-creen-que-sanchez-debe-convocar-elecciones-si-se-tumban-los-decretos.html"
+    },
+    {
+      "titular": "Sánchez debatirá en los próximos días con su núcleo duro un posible adelanto electoral",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-02T15:18:20+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20261002/11649630/sanchez-advierte-pp-junts-historia-les-juzgara-creen-mas-contundencia.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 1,
+    "antiguedad_minima_min": 6,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2269257,
+        "antiguedad_min": 2269489,
         "descartados_por_gancho": 0
       },
       {
@@ -97,28 +97,28 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 154,
+        "items": 155,
         "error": null,
-        "antiguedad_min": 1,
+        "antiguedad_min": 19,
         "descartados_por_gancho": 2
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 138,
+        "items": 135,
         "error": null,
-        "antiguedad_min": 32,
-        "descartados_por_gancho": 16
+        "antiguedad_min": 84,
+        "descartados_por_gancho": 13
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 22,
+        "items": 24,
         "error": null,
-        "antiguedad_min": 21,
-        "descartados_por_gancho": 3
+        "antiguedad_min": 6,
+        "descartados_por_gancho": 1
       }
     ]
   }
