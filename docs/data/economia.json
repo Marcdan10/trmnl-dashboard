@@ -1,71 +1,71 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "portadas",
-  "generado": "2026-10-02T10:46:04+02:00",
+  "modo": "ultimas",
+  "generado": "2026-10-02T17:15:09+02:00",
   "titulares": [
     {
-      "titular": "Paquete fiscal de 2.000 millones para intervenir la vivienda",
+      "titular": "Estas son las medidas de vivienda que decaen tras el veto del Congreso y así queda ahora el mercado",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-02T02:15:25+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/10/02/6abea917468aebf4368b4581.html"
+      "fecha": "2026-10-02T16:50:12+02:00",
+      "enlace": "https://www.expansion.com/inmobiliario/mercado/2026/10/02/6abfa260468aeba2368b4594.html"
     },
     {
-      "titular": "El paro sube en 23.587 personas y la regularización de inmigrantes impulsa un dato récord de empleo",
+      "titular": "El Atlético cierra su guerra con Hacienda: el Supremo le da la razón por los pagos a agentes",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-02T09:00:11+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/10/02/6abf566f468aeba2368b4579.html"
+      "fecha": "2026-10-02T16:48:51+02:00",
+      "enlace": "https://www.expansion.com/fiscal/2026/10/02/6abfc44ae5fdea115e8b456f.html"
     },
     {
-      "titular": "El 'no' de Junts al decreto de vivienda pone entre las cuerdas al Gobierno",
+      "titular": "El G7 liberará 100 millones de barriles de petróleo y diésel por la presión de Trump",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-02T09:33:09+02:00",
-      "enlace": "https://www.expansion.com/inmobiliario/mercado/2026/10/02/6abf5d2a468aeb65478b45a1.html"
+      "fecha": "2026-10-02T16:47:22+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/10/02/6abfc2ca468aebc31e8b457a.html"
     },
     {
-      "titular": "La Primera de Expansión sobre vivienda, BCE, Iberdrola, Santander y BBVA",
+      "titular": "El Ibex se sitúa por encima de los 19.100 puntos con Wall Street al alza",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-02T07:10:30+02:00",
-      "enlace": "https://www.expansion.com/podcasts/la-primera-de-expansion/2026/10/02/6abf395e468aeb73418b456e.html"
+      "fecha": "2026-10-02T16:43:40+02:00",
+      "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/10/02/6abf46e5e5fdea744a8b457f.html"
     },
     {
-      "titular": "Los juristas temen una oleada de litigios por el decreto de vivienda: \"Es demencial, parece propaganda\"",
+      "titular": "Rajoy y González piden elecciones entre ataques a la gestión de Sánchez",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-02T02:18:32+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/10/02/6abeab9ae5fdea6d588b458f.html"
+      "fecha": "2026-10-02T16:04:06+02:00",
+      "enlace": "https://www.expansion.com/economia/politica/2026/10/02/6abfb511468aeb6f688b4574.html"
     },
     {
-      "titular": "Los cuatro mercados con más riesgo si afloran las caídas",
+      "titular": "El Congreso tumba los decretos de vivienda que amenazaban con destruir la oferta de alquiler",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-02T00:01:16+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/10/02/6abe5b27468aeb82438b45d4.html"
+      "fecha": "2026-10-02T15:57:33+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/10/02/6abf90fd468aeb8a5f8b458a.html"
     },
     {
-      "titular": "El lujo residencial mira hacia arriba: pisos con servicios ganan terreno a las villas",
+      "titular": "Las amenazas de Trump en relación al diésel podrían resultar muy contraproducentes",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-02T00:48:01+02:00",
-      "enlace": "https://www.expansion.com/inmobiliario/casas/2026/10/02/6abe82e1e5fdea1a518b4577.html"
+      "fecha": "2026-10-02T15:24:22+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/10/02/6abfaf44468aeb71728b458c.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 10,
+    "antiguedad_minima_min": 24,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 75,
+        "items": 77,
         "error": null,
-        "antiguedad_min": 10,
+        "antiguedad_min": 24,
         "descartados_por_gancho": 3
       },
       {

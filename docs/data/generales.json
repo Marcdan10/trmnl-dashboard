@@ -1,9 +1,63 @@
 {
   "pantalla": "generales",
   "titulo": "Titulares",
-  "modo": "portadas",
-  "generado": "2026-10-02T10:46:01+02:00",
+  "modo": "ultimas",
+  "generado": "2026-10-02T17:15:07+02:00",
   "titulares": [
+    {
+      "titular": "Un Tom Cruise irreconocible, José Mota, ‘Naza’, ‘Verity’ y otros estrenos de cine de octubre",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-02T16:59:29+02:00",
+      "enlace": "https://elpais.com/cultura/cine/2026-10-02/un-tom-cruise-irreconocible-jose-mota-naza-verity-y-otros-estrenos-de-cine-de-octubre.html"
+    },
+    {
+      "titular": "Los acampados de Sol, frente al Congreso: “¿Para quién gobernáis?”",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-02T16:54:04+02:00",
+      "enlace": "https://elpais.com/espana/2026-10-02/la-manifestacion-se-planta-en-el-congreso-con-reproches-al-gobierno-pp-vox-y-junts-mientras-se-debaten-los-decretos-de-vivienda.html"
+    },
+    {
+      "titular": "El madridista Carlos Espí sustituye a Ferrán Torres en la selección",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-02T16:52:30+02:00",
+      "enlace": "https://www.abc.es/deportes/futbol/carlos-espi-sustituye-ferran-seleccion-20261002155438-nt.html"
+    },
+    {
+      "titular": "Norman Foster añade una tercera piel al Museo de Bellas Artes de Bilbao",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-02T16:47:27+02:00",
+      "enlace": "https://www.abc.es/cultura/arte/norman-foster-anade-tercera-piel-museo-bellas-20261002164202-nt.html"
+    },
+    {
+      "titular": "Rusia intensifica los ataques a Kyiv mientras eleva su retórica bélica",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-02T16:38:31+02:00",
+      "enlace": "https://www.lavanguardia.com/internacional/20261002/11649664/rusia-intensifica-los-ataques-a-kyiv-mientras-eleva-su-retorica-belica.html"
+    },
+    {
+      "titular": "Feijóo exige elecciones a Sánchez tras el rechazo a los decretos de vivienda: “La escapada debe terminar aquí”",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-02T16:30:27+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20261002/11649676/feijoo-exige-elecciones-sanchez-rechazo-decretos-vivienda-escapada-debe-terminar.html"
+    },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
       "medios": [
@@ -12,60 +66,6 @@
       "consenso": 1,
       "fecha": "2022-06-10T01:05:00+02:00",
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
-    },
-    {
-      "titular": "Acampadas en España por la vivienda, en directo | Dirigentes del PSOE y ministros del Gobierno creen que Sánchez debe convocar elecciones si se tumban los decretos",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-02T10:42:20+02:00",
-      "enlace": "https://elpais.com/espana/2026-10-02/acampadas-en-espana-por-la-vivienda-en-directo.html"
-    },
-    {
-      "titular": "El Gobierno ve una oportunidad: “Es el momento de aprovechar para convocar elecciones”",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-02T09:41:30+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20261002/11649277/gobierno-ve-oportunidad-momento-aprovechar-convocar-elecciones.html"
-    },
-    {
-      "titular": "La Policía blinda el Congreso ante las protestas convocadas en el día decisivo para la vivienda",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-02T10:23:07+02:00",
-      "enlace": "https://www.abc.es/economia/ultima-hora-decreto-vivienda-directo-votacion-aprobacion-20261002100014-di.html"
-    },
-    {
-      "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
-      "medios": [
-        "RTVE"
-      ],
-      "consenso": 1,
-      "fecha": "2022-06-10T00:03:00+02:00",
-      "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
-    },
-    {
-      "titular": "Junts rechaza los decretos de vivienda y pone al Gobierno contra las cuerdas",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-02T05:30:01+02:00",
-      "enlace": "https://elpais.com/espana/2026-10-02/junts-rechaza-los-decretos-de-vivienda-y-pone-al-gobierno-contra-las-cuerdas.html"
-    },
-    {
-      "titular": "Vivienda, legalidad y seguridad jurídica",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-02T00:05:00+02:00",
-      "enlace": "https://www.lavanguardia.com/opinion/20261002/11649020/vivienda-legalidad-seguridad-juridica.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 3,
+    "antiguedad_minima_min": 15,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2268580,
+        "antiguedad_min": 2268970,
         "descartados_por_gancho": 0
       },
       {
@@ -90,35 +90,35 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 500",
+        "error": "HTTP 403",
         "antiguedad_min": null
       },
       {
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 150,
+        "items": 148,
         "error": null,
-        "antiguedad_min": 3,
-        "descartados_por_gancho": 5
+        "antiguedad_min": 15,
+        "descartados_por_gancho": 3
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 129,
+        "items": 134,
         "error": null,
-        "antiguedad_min": 39,
+        "antiguedad_min": 36,
         "descartados_por_gancho": 16
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 24,
+        "items": 23,
         "error": null,
         "antiguedad_min": 22,
-        "descartados_por_gancho": 1
+        "descartados_por_gancho": 2
       }
     ]
   }
