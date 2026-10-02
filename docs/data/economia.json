@@ -2,26 +2,8 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "portadas",
-  "generado": "2026-10-02T01:17:56+02:00",
+  "generado": "2026-10-02T04:23:20+02:00",
   "titulares": [
-    {
-      "titular": "Martínez-Avial (BNP Paribas Real Estate): \"El principal riesgo en vivienda es su politización\"",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-01T02:13:29+02:00",
-      "enlace": "https://www.expansion.com/inmobiliario/mercado/2026/10/01/6abd50a4e5fdea777e8b45a5.html"
-    },
-    {
-      "titular": "El inquilino ya no tiene que indemnizar al casero si se va antes de acabar el contrato",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-01T11:25:19+02:00",
-      "enlace": "https://www.expansion.com/inmobiliario/mercado/2026/10/01/6abe2441468aeb16058b4596.html"
-    },
     {
       "titular": "Junts tumbará los dos decretos de vivienda del Gobierno",
       "medios": [
@@ -32,40 +14,58 @@
       "enlace": "https://www.expansion.com/economia/2026/10/01/6abec107468aeb744b8b456d.html"
     },
     {
-      "titular": "El Gobierno reta a \"retratarse\" a Junts y se niega a retirar los decretos",
+      "titular": "Los fondos ven peligrar ventas de carteras de pisos para alquiler por 4.000 millones",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-02T00:08:21+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/10/01/6abed2d3e5fdeaad358b4581.html"
+      "fecha": "2026-10-02T02:07:26+02:00",
+      "enlace": "https://www.expansion.com/inmobiliario/mercado/2026/10/02/6abea322468aeb154e8b45a8.html"
     },
     {
-      "titular": "El casero puede evitar la prórroga del contrato si necesita la vivienda, aunque no lo ponga en el contrato",
+      "titular": "Paquete fiscal de 2.000 millones para intervenir la vivienda",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-01T13:48:45+02:00",
-      "enlace": "https://www.expansion.com/inmobiliario/mercado/2026/10/01/6abe3c15468aeb0a0e8b4595.html"
+      "fecha": "2026-10-02T02:15:25+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/10/02/6abea917468aebf4368b4581.html"
     },
     {
-      "titular": "José Sevilla dimite como presidente de Unicaja tras más de dos años en el cargo",
+      "titular": "Los juristas temen una oleada de litigios por el decreto de vivienda: \"Es demencial, parece propaganda\"",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-01T17:57:50+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/10/01/6abe82fbe5fdea36048b458f.html"
+      "fecha": "2026-10-02T02:18:32+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/10/02/6abeab9ae5fdea6d588b458f.html"
     },
     {
-      "titular": "El Ibex cae hasta los 19.000 puntos con los nuevos máximos de la deuda",
+      "titular": "La UE lanza la carrera para renovar la cúpula del BCE",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-01T17:41:28+02:00",
-      "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/10/01/6abdf4a5e5fdeab4358b459c.html"
+      "fecha": "2026-10-02T02:41:43+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/10/02/6abec3fce5fdea37048b458e.html"
+    },
+    {
+      "titular": "Lula vs Bolsonaro: cuánto se juega el Ibex con las elecciones en Brasil",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-01T20:38:01+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/10/01/6abe8dace5fdea96418b457e.html"
+    },
+    {
+      "titular": "Los cuatro mercados con más riesgo si afloran las caídas",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-02T00:01:16+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/10/02/6abe5b27468aeb82438b45d4.html"
     }
   ],
   "salud": {
@@ -78,16 +78,16 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 69,
+    "antiguedad_minima_min": 83,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 79,
+        "items": 66,
         "error": null,
-        "antiguedad_min": 69,
-        "descartados_por_gancho": 1
+        "antiguedad_min": 83,
+        "descartados_por_gancho": 3
       },
       {
         "medio": "Cinco Días",
