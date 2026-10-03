@@ -2,7 +2,7 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "portadas",
-  "generado": "2026-10-03T01:54:32+02:00",
+  "generado": "2026-10-03T05:19:52+02:00",
   "titulares": [
     {
       "titular": "Sánchez evalúa dar un paso al frente",
@@ -78,7 +78,7 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 55,
+    "antiguedad_minima_min": 260,
     "detalle": [
       {
         "medio": "Expansión",
@@ -86,7 +86,7 @@
         "ok": true,
         "items": 79,
         "error": null,
-        "antiguedad_min": 55,
+        "antiguedad_min": 260,
         "descartados_por_gancho": 2
       },
       {
