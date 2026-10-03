@@ -2,8 +2,17 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-10-03T16:22:04+02:00",
+  "generado": "2026-10-03T20:05:01+02:00",
   "titulares": [
+    {
+      "titular": "Cataluña se prepara para afrontar un posible huracán mediterráneo",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-03T19:21:45+02:00",
+      "enlace": "https://www.expansion.com/sociedad/2026/10/03/cataluna-prepara-afrontar-posible-huracan-mediterraneo.html"
+    },
     {
       "titular": "El Tesoro emitirá este martes Letras a 6 y 12 meses",
       "medios": [
@@ -57,15 +66,6 @@
       "consenso": 1,
       "fecha": "2026-10-03T10:55:51+02:00",
       "enlace": "https://www.expansion.com/sociedad/2026/10/03/fiscalia-emirati-confirma-copiloto-flydubai-queria-cometer-acto-terrorista.html"
-    },
-    {
-      "titular": "Disney despide a cerca de trescientos empleados y ofrece un retiro anticipado a varios ejecutivos",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-03T10:33:02+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/10/03/6ac0bc1ae5fdeaf7098b4597.html"
     }
   ],
   "salud": {
@@ -78,7 +78,7 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 16,
+    "antiguedad_minima_min": 43,
     "detalle": [
       {
         "medio": "Expansión",
@@ -86,7 +86,7 @@
         "ok": true,
         "items": 79,
         "error": null,
-        "antiguedad_min": 16,
+        "antiguedad_min": 43,
         "descartados_por_gancho": 1
       },
       {

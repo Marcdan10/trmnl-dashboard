@@ -2,61 +2,61 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-10-03T16:22:01+02:00",
+  "generado": "2026-10-03T20:04:58+02:00",
   "titulares": [
     {
-      "titular": "Reacciones a los decretos de vivienda y las acampadas en directo | Una marcha masiva en Madrid por la vivienda llama a una huelga general: “Ya no hay vuelta atrás”",
+      "titular": "Los coches de empresa lastran al eléctrico: los particulares compran ya un 25%, las compañías solo un 10%",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-03T16:00:01+02:00",
-      "enlace": "https://elpais.com/espana/2026-10-03/reacciones-a-los-decretos-de-vivienda-y-las-acampadas-en-directo.html"
+      "fecha": "2026-10-03T19:46:19+02:00",
+      "enlace": "https://elpais.com/clima-y-medio-ambiente/2026-10-03/los-coches-de-empresa-lastran-al-electrico-los-particulares-compran-ya-un-25-las-companias-solo-un-10.html"
     },
     {
-      "titular": "Balay arrasa con sus mejores ofertas: placas de inducción, lavavajillas, microondas y más con descuentos de hasta el 41%",
+      "titular": "Illa alerta de la llegada de un “mini-huracán mediterráneo” y anuncia “medidas importantes” de prevención en Cataluña",
       "medios": [
-        "La Vanguardia"
+        "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-03T16:00:00+02:00",
-      "enlace": "https://www.lavanguardia.com/comprar/hogar-cocina/20261003/11648553/balay-arrasa-mejores-ofertas-placas-induccion-lavavajillas-microondas-mas-descuentos-41-mkt-bala.html"
+      "fecha": "2026-10-03T19:37:09+02:00",
+      "enlace": "https://elpais.com/espana/catalunya/2026-10-03/cataluna-pide-extremar-la-prudencia-ante-el-regreso-de-las-lluvias-intensas-a-terres-de-lebre-llueve-sobre-mojado.html"
     },
     {
-      "titular": "Clamor por la vivienda en España y homenaje a Ibáñez en Cassà de la Selva, las imágenes del día",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-03T15:59:44+02:00",
-      "enlace": "https://www.lavanguardia.com/fotos/20261003/11650208/clamor-vivienda-espana-homenaje-ibanez-cassa-selva-imagenes-dia.html"
-    },
-    {
-      "titular": "Nueve policías heridos y un detenido en los disturbios en la manifestación por la vivienda de Valencia",
+      "titular": "De Justo no se entiende con el cuarto",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-10-03T15:44:25+02:00",
+      "fecha": "2026-10-03T19:36:15+02:00",
+      "enlace": "https://www.abc.es/cultura/toros/toros-ventas-madrid-feria-otono-directo-ultima-20261003104204-di.html"
+    },
+    {
+      "titular": "Nueve policías heridos y cinco detenidos tras los disturbios en Valencia",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-03T19:32:51+02:00",
       "enlace": "https://www.abc.es/espana/comunidad-valenciana/tension-disturbios-manifestacion-vivienda-valencia-tras-caer-20261003133400-nt.html"
     },
     {
-      "titular": "Rusia bombardea cuatro puentes clave en Kiev y siembra el caos",
+      "titular": "España - República Checa | La previa del partido de la Nations League",
       "medios": [
-        "El País"
+        "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-10-03T15:37:17+02:00",
-      "enlace": "https://elpais.com/internacional/2026-10-03/rusia-bombardea-cuatro-puentes-clave-en-kiev-y-siembra-el-caos.html"
+      "fecha": "2026-10-03T19:08:26+02:00",
+      "enlace": "https://www.lavanguardia.com/deportes/futbol/20261003/11650133/espana-republica-checa-nations-league-selecciones-partido-futbol-hoy-en-directo.html"
     },
     {
-      "titular": "Rocío, propietaria de 75 habitaciones en alquiler: «La inversión se recupera en seis meses»",
+      "titular": "Masiva anulación de la actividad cultural a causa de la previsión meteorológica",
       "medios": [
-        "ABC"
+        "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-10-03T15:30:47+02:00",
-      "enlace": "https://www.abc.es/recreo/rocio-propietaria-habitaciones-alquiler-espana-beneficio-piso-20261003091723-nt.html"
+      "fecha": "2026-10-03T19:04:08+02:00",
+      "enlace": "https://www.lavanguardia.com/cultura/20261003/11650299/masiva-anulacion-actividad-cultural-causa-prevision-meteorologica.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 22,
+    "antiguedad_minima_min": 18,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2270357,
+        "antiguedad_min": 2270579,
         "descartados_por_gancho": 0
       },
       {
@@ -97,18 +97,18 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 140,
+        "items": 137,
         "error": null,
-        "antiguedad_min": 22,
-        "descartados_por_gancho": 10
+        "antiguedad_min": 18,
+        "descartados_por_gancho": 8
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 125,
+        "items": 131,
         "error": null,
-        "antiguedad_min": 22,
+        "antiguedad_min": 56,
         "descartados_por_gancho": 18
       },
       {
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 37,
+        "antiguedad_min": 28,
         "descartados_por_gancho": 0
       }
     ]
