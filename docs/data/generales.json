@@ -1,9 +1,63 @@
 {
   "pantalla": "generales",
   "titulo": "Titulares",
-  "modo": "portadas",
-  "generado": "2026-10-03T11:19:34+02:00",
+  "modo": "ultimas",
+  "generado": "2026-10-03T16:22:01+02:00",
   "titulares": [
+    {
+      "titular": "Reacciones a los decretos de vivienda y las acampadas en directo | Una marcha masiva en Madrid por la vivienda llama a una huelga general: “Ya no hay vuelta atrás”",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-03T16:00:01+02:00",
+      "enlace": "https://elpais.com/espana/2026-10-03/reacciones-a-los-decretos-de-vivienda-y-las-acampadas-en-directo.html"
+    },
+    {
+      "titular": "Balay arrasa con sus mejores ofertas: placas de inducción, lavavajillas, microondas y más con descuentos de hasta el 41%",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-03T16:00:00+02:00",
+      "enlace": "https://www.lavanguardia.com/comprar/hogar-cocina/20261003/11648553/balay-arrasa-mejores-ofertas-placas-induccion-lavavajillas-microondas-mas-descuentos-41-mkt-bala.html"
+    },
+    {
+      "titular": "Clamor por la vivienda en España y homenaje a Ibáñez en Cassà de la Selva, las imágenes del día",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-03T15:59:44+02:00",
+      "enlace": "https://www.lavanguardia.com/fotos/20261003/11650208/clamor-vivienda-espana-homenaje-ibanez-cassa-selva-imagenes-dia.html"
+    },
+    {
+      "titular": "Nueve policías heridos y un detenido en los disturbios en la manifestación por la vivienda de Valencia",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-03T15:44:25+02:00",
+      "enlace": "https://www.abc.es/espana/comunidad-valenciana/tension-disturbios-manifestacion-vivienda-valencia-tras-caer-20261003133400-nt.html"
+    },
+    {
+      "titular": "Rusia bombardea cuatro puentes clave en Kiev y siembra el caos",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-03T15:37:17+02:00",
+      "enlace": "https://elpais.com/internacional/2026-10-03/rusia-bombardea-cuatro-puentes-clave-en-kiev-y-siembra-el-caos.html"
+    },
+    {
+      "titular": "Rocío, propietaria de 75 habitaciones en alquiler: «La inversión se recupera en seis meses»",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-03T15:30:47+02:00",
+      "enlace": "https://www.abc.es/recreo/rocio-propietaria-habitaciones-alquiler-espana-beneficio-piso-20261003091723-nt.html"
+    },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
       "medios": [
@@ -12,61 +66,6 @@
       "consenso": 1,
       "fecha": "2022-06-10T01:05:00+02:00",
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
-    },
-    {
-      "titular": "Sánchez mide el alcance del malestar social contra la derecha para decidir si convoca ya elecciones",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-03T05:30:01+02:00",
-      "enlace": "https://elpais.com/espana/2026-10-03/sanchez-mide-el-alcance-del-malestar-social-contra-la-derecha-para-decidir-si-convoca-ya-elecciones.html"
-    },
-    {
-      "titular": "Sánchez abona el adelanto electoral tras el golpe de Junts a la legislatura",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-03T00:05:00+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20261003/11649812/sanchez-abona-adelanto-electoral-golpe-junts-legislatura.html"
-    },
-    {
-      "titular": "La alerta por un posible dron obliga a cerrar el aeropuerto más importante de Lituania y activa un despliegue aéreo de la OTAN",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-03T11:00:27+02:00",
-      "enlace": "https://www.abc.es/internacional/alerta-posible-dron-obliga-cerrar-aeropuerto-importante-20261003105957-nt.html"
-    },
-    {
-      "titular": "Al menos 11 heridos por el derrumbe de un bar en San Vicente de la Sonsierra (La Rioja)",
-      "medios": [
-        "La Vanguardia",
-        "ABC"
-      ],
-      "consenso": 2,
-      "fecha": "2026-10-03T10:35:12+02:00",
-      "enlace": "https://www.abc.es/espana/ocho-personas-trasladadas-centro-sanitarios-derrumbe-bar-20261003093542-nt.html"
-    },
-    {
-      "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
-      "medios": [
-        "RTVE"
-      ],
-      "consenso": 1,
-      "fecha": "2022-06-10T00:03:00+02:00",
-      "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
-    },
-    {
-      "titular": "De Ceuta a Sol: a quién favorece y perjudica el cambio de asunto político estrella",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-03T05:30:01+02:00",
-      "enlace": "https://elpais.com/espana/2026-10-03/de-ceuta-a-sol-a-quien-favorece-y-perjudica-el-cambio-de-asunto-politico-estrella.html"
     }
   ],
   "salud": {
@@ -75,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 17,
+    "antiguedad_minima_min": 22,
     "detalle": [
       {
         "medio": "RTVE",
@@ -83,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2270054,
+        "antiguedad_min": 2270357,
         "descartados_por_gancho": 0
       },
       {
@@ -100,17 +99,17 @@
         "ok": true,
         "items": 140,
         "error": null,
-        "antiguedad_min": 17,
-        "descartados_por_gancho": 9
+        "antiguedad_min": 22,
+        "descartados_por_gancho": 10
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 126,
+        "items": 125,
         "error": null,
-        "antiguedad_min": 47,
-        "descartados_por_gancho": 21
+        "antiguedad_min": 22,
+        "descartados_por_gancho": 18
       },
       {
         "medio": "ABC",
@@ -118,7 +117,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 19,
+        "antiguedad_min": 37,
         "descartados_por_gancho": 0
       }
     ]
