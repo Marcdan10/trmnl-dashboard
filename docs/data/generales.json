@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-10-03T05:19:48+02:00",
+  "generado": "2026-10-03T11:19:34+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -14,13 +14,13 @@
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
     },
     {
-      "titular": "El Congreso tumba los decretos de vivienda y abona el terreno para un adelanto electoral",
+      "titular": "Sánchez mide el alcance del malestar social contra la derecha para decidir si convoca ya elecciones",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-02T16:20:05+02:00",
-      "enlace": "https://elpais.com/espana/2026-10-02/el-debate-de-los-decretos-se-convierte-en-un-juicio-demoledor-contra-junts.html"
+      "fecha": "2026-10-03T05:30:01+02:00",
+      "enlace": "https://elpais.com/espana/2026-10-03/sanchez-mide-el-alcance-del-malestar-social-contra-la-derecha-para-decidir-si-convoca-ya-elecciones.html"
     },
     {
       "titular": "Sánchez abona el adelanto electoral tras el golpe de Junts a la legislatura",
@@ -32,13 +32,23 @@
       "enlace": "https://www.lavanguardia.com/politica/20261003/11649812/sanchez-abona-adelanto-electoral-golpe-junts-legislatura.html"
     },
     {
-      "titular": "Madrid confirma el calendario laboral 2027: así quedan los festivos, navidades, semana santa y puente de mayo",
+      "titular": "La alerta por un posible dron obliga a cerrar el aeropuerto más importante de Lituania y activa un despliegue aéreo de la OTAN",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-10-03T05:00:17+02:00",
-      "enlace": "https://www.abc.es/espana/madrid/madrid-confirma-calendario-laboral-2027-quedan-festivos-20261003164203-nt.html"
+      "fecha": "2026-10-03T11:00:27+02:00",
+      "enlace": "https://www.abc.es/internacional/alerta-posible-dron-obliga-cerrar-aeropuerto-importante-20261003105957-nt.html"
+    },
+    {
+      "titular": "Al menos 11 heridos por el derrumbe de un bar en San Vicente de la Sonsierra (La Rioja)",
+      "medios": [
+        "La Vanguardia",
+        "ABC"
+      ],
+      "consenso": 2,
+      "fecha": "2026-10-03T10:35:12+02:00",
+      "enlace": "https://www.abc.es/espana/ocho-personas-trasladadas-centro-sanitarios-derrumbe-bar-20261003093542-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -50,22 +60,13 @@
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
     },
     {
-      "titular": "Sánchez se toma un tiempo para decidir si convoca elecciones",
+      "titular": "De Ceuta a Sol: a quién favorece y perjudica el cambio de asunto político estrella",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-02T14:01:17+02:00",
-      "enlace": "https://elpais.com/espana/2026-10-02/dirigentes-del-psoe-y-ministros-del-gobierno-creen-que-sanchez-debe-convocar-elecciones-si-se-tumban-los-decretos.html"
-    },
-    {
-      "titular": "Sánchez debatirá en los próximos días con su núcleo duro un posible adelanto electoral",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-02T15:18:20+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20261002/11649630/sanchez-advierte-pp-junts-historia-les-juzgara-creen-mas-contundencia.html"
+      "fecha": "2026-10-03T05:30:01+02:00",
+      "enlace": "https://elpais.com/espana/2026-10-03/de-ceuta-a-sol-a-quien-favorece-y-perjudica-el-cambio-de-asunto-politico-estrella.html"
     }
   ],
   "salud": {
@@ -74,7 +75,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 19,
+    "antiguedad_minima_min": 17,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +83,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2269694,
+        "antiguedad_min": 2270054,
         "descartados_por_gancho": 0
       },
       {
@@ -90,26 +91,26 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 429",
+        "error": "HTTP 403",
         "antiguedad_min": null
       },
       {
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 155,
+        "items": 140,
         "error": null,
-        "antiguedad_min": 224,
-        "descartados_por_gancho": 2
+        "antiguedad_min": 17,
+        "descartados_por_gancho": 9
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 135,
+        "items": 126,
         "error": null,
-        "antiguedad_min": 265,
-        "descartados_por_gancho": 13
+        "antiguedad_min": 47,
+        "descartados_por_gancho": 21
       },
       {
         "medio": "ABC",

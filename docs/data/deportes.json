@@ -2,16 +2,16 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-10-03T05:19:53+02:00",
+  "generado": "2026-10-03T11:19:38+02:00",
   "titulares": [
     {
-      "titular": "De la Fuente: \"No cuesta más ni menos dejar fuera a Lamine\"",
+      "titular": "Batalla igualada por la 'pole'",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-02T20:38:23+02:00",
-      "enlace": "https://www.mundodeportivo.com/seleccion-espanola/20261002/1004233908/fuente-no-cuesta-dejar-fuera-lamine.html"
+      "fecha": "2026-10-03T05:59:33+02:00",
+      "enlace": "https://www.mundodeportivo.com/motor/f1/20261003/1004233986/f1-2026-gran-premio-bahrein-sepang-practice-3-clasificacion-formula-1-hoy-en-directo-alonso-sainz-gp-ext-pau.html"
     },
     {
       "titular": "Las mayores polémicas de Cristiano Ronaldo en su carrera: Rooney, Mou, Benítez...",
@@ -23,13 +23,13 @@
       "enlace": "https://www.marca.com/futbol/2026/10/02/mayores-polemicas-cristiano-ronaldo-carrera-rooney-mou-benitez.html"
     },
     {
-      "titular": "Santi Denia: \"De la Fuente es el mejor del mundo\"",
+      "titular": "Cubarsí se queda fuera ante República Checa",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-02T21:50:15+02:00",
-      "enlace": "https://www.mundodeportivo.com/seleccion-espanola/20261002/1004233935/denia-fuente-mejor-mundo.html"
+      "fecha": "2026-10-03T09:31:55+02:00",
+      "enlace": "https://www.mundodeportivo.com/seleccion-espanola/20261003/1004234010/cubarsi-espi-dos-descartes-espana-medirse-republica-checa.html"
     },
     {
       "titular": "El deseo de Joao Félix: \"Le encantaría volver al Barça\"",
@@ -41,15 +41,6 @@
       "enlace": "https://www.marca.com/radio/2026/10/02/moretto-desvela-deseo-joao-felix-le-encantaria-volver-barca.html"
     },
     {
-      "titular": "82-95: Paso adelante del Barça que se luce ante el Besiktas",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-02T21:05:31+02:00",
-      "enlace": "https://www.mundodeportivo.com/baloncesto/euroliga/20261002/1004233905/82-95-paso-adelante-barca-luce-besiktas.html"
-    },
-    {
       "titular": "La reacción de Arturo Vidal ante el 'caso Cristiano': \"Es una vergüenza\"",
       "medios": [
         "Marca"
@@ -59,13 +50,22 @@
       "enlace": "https://www.marca.com/futbol/nations-league/2026/10/02/reaccion-arturo-vidal-caso-cristiano-vergueenza.html"
     },
     {
-      "titular": "Cucurella, sobre su adaptación al Madrid: \"Hay cosas a mejorar\"",
+      "titular": "Alcaraz, de la remontada 'in extremis' genial a la aniquilación total en Tokio",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-02T20:54:48+02:00",
-      "enlace": "https://www.mundodeportivo.com/seleccion-espanola/20261002/1004233913/cucurella-sobre-adaptacion-madrid-hay-cosas-mejorar.html"
+      "fecha": "2026-10-03T08:28:28+02:00",
+      "enlace": "https://www.mundodeportivo.com/tenis/20261003/1004233995/alcaraz-remontada-in-extremis-genial-aniquilacion-total-tokio.html"
+    },
+    {
+      "titular": "MARCA Pádel crece: ficha a Mónica Montes y Adrián Illescas para completar un equipazo",
+      "medios": [
+        "Marca"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-02T12:22:15+02:00",
+      "enlace": "https://www.marca.com/padel/2026/10/02/marca-padel-crece-ficha-adrian-illescas-monica-montes-completar-equipazo.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 262,
+    "antiguedad_minima_min": 25,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 67,
         "error": null,
-        "antiguedad_min": 1001,
+        "antiguedad_min": 1361,
         "descartados_por_gancho": 4
       },
       {
@@ -99,9 +99,9 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 145,
+        "items": 138,
         "error": null,
-        "antiguedad_min": 262,
+        "antiguedad_min": 25,
         "descartados_por_gancho": 5
       },
       {
