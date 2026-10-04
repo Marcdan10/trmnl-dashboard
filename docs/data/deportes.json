@@ -1,26 +1,17 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "ultimas",
-  "generado": "2026-10-04T22:17:50+02:00",
+  "modo": "portadas",
+  "generado": "2026-10-05T01:23:51+02:00",
   "titulares": [
     {
-      "titular": "Pere Romeu, tras el Clásico: \"Debe ser duro encajar un resultado así\"",
+      "titular": "7-0: Festival con póquer de Pina en la enésima humillación al Real Madrid",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-04T21:55:58+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/femenino/20261004/1004234585/pere-romeu-partido-salio-redondo.html"
-    },
-    {
-      "titular": "Ver para creer: pie milagroso de Arnau Tenas a Van de Beek",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-04T21:53:36+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/liga-segunda-division/20261004/1004234588/ver-creer-pie-milagroso-arnau-tenas-beek.html"
+      "fecha": "2026-10-04T20:55:13+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261004/1004234564/festival-poquer-pina-enesima-humillacion-real-madrid.html"
     },
     {
       "titular": "Las mayores polémicas de Cristiano Ronaldo en su carrera: Rooney, Mou, Benítez...",
@@ -32,6 +23,15 @@
       "enlace": "https://www.marca.com/futbol/2026/10/02/mayores-polemicas-cristiano-ronaldo-carrera-rooney-mou-benitez.html"
     },
     {
+      "titular": "La clasificación de la Liga F Moeve: El Barça ya gana al Madrid por 114-13",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-04T20:59:40+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261004/1004234567/asi-queda-clasificacion-liga-f-moeve-barca-gana-madrid-114-13.html"
+    },
+    {
       "titular": "El deseo de Joao Félix: \"Le encantaría volver al Barça\"",
       "medios": [
         "Marca"
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/radio/2026/10/02/moretto-desvela-deseo-joao-felix-le-encantaria-volver-barca.html"
     },
     {
-      "titular": "Europa cambia las normas: las baterías y pilas deberán incorporar un código QR para facilitar su reciclaje",
+      "titular": "Campeonas en octubre y Europa, atemorizada",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-04T21:48:29+02:00",
-      "enlace": "https://www.mundodeportivo.com/actualidad/20261004/1004234582/oficial-europa-cambia-normas-partir-18-febrero-2027-baterias-pilas-deberan-incorporar-obligatoriamente-codigo-qr-facilitar-reciclaje-dct.html"
+      "fecha": "2026-10-04T22:01:55+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261004/1004234589/campeonas-octubre-europa-atemorizada.html"
     },
     {
-      "titular": "118-78. El Baskonia arrolla al Girona",
+      "titular": "La reacción de Arturo Vidal ante el 'caso Cristiano': \"Es una vergüenza\"",
       "medios": [
-        "Mundo Deportivo"
+        "Marca"
       ],
       "consenso": 1,
-      "fecha": "2026-10-04T21:41:08+02:00",
-      "enlace": "https://www.mundodeportivo.com/baloncesto/acb/20261004/1004234581/118-78-baskonia-arrolla-girona.html"
+      "fecha": "2026-10-02T12:27:56+02:00",
+      "enlace": "https://www.marca.com/futbol/nations-league/2026/10/02/reaccion-arturo-vidal-caso-cristiano-vergueenza.html"
     },
     {
-      "titular": "100-94: Bajón final del Barça, que pierde su primer partido liguero en Murcia",
+      "titular": "Laporta: \"Se fueron jugadoras que marcaron una época y vienen otras que la marcarán\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-04T21:28:42+02:00",
-      "enlace": "https://www.mundodeportivo.com/baloncesto/acb/20261004/1004234552/ucam-barca.html"
+      "fecha": "2026-10-04T22:15:03+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261004/1004234591/laporta-jugadoras-marcaron-epoca-vienen-marcaran.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 21,
+    "antiguedad_minima_min": 91,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 67,
         "error": null,
-        "antiguedad_min": 3459,
+        "antiguedad_min": 3645,
         "descartados_por_gancho": 4
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 138,
+        "items": 143,
         "error": null,
-        "antiguedad_min": 21,
-        "descartados_por_gancho": 8
+        "antiguedad_min": 91,
+        "descartados_por_gancho": 5
       },
       {
         "medio": "Sport",

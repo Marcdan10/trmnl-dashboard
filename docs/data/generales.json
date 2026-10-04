@@ -1,17 +1,26 @@
 {
   "pantalla": "generales",
   "titulo": "Titulares",
-  "modo": "ultimas",
-  "generado": "2026-10-04T22:17:45+02:00",
+  "modo": "portadas",
+  "generado": "2026-10-05T01:23:48+02:00",
   "titulares": [
     {
-      "titular": "Resultados de las elecciones en Brasil 2026, en vivo | Cierran las urnas y comienza el conteo de votos en Brasil",
+      "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
+      "medios": [
+        "RTVE"
+      ],
+      "consenso": 1,
+      "fecha": "2022-06-10T01:05:00+02:00",
+      "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
+    },
+    {
+      "titular": "Todo listo en el PSOE y el Gobierno para un adelanto electoral tras la derrota de los decretos en el Congreso",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-04T22:06:52+02:00",
-      "enlace": "https://elpais.com/america/2026-10-04/resultados-de-las-elecciones-en-brasil-2026-en-vivo.html"
+      "fecha": "2026-10-04T21:22:32+02:00",
+      "enlace": "https://elpais.com/espana/2026-10-04/todo-listo-en-el-psoe-y-el-gobierno-para-un-adelanto-electoral-tras-la-derrota-de-los-decretos-en-el-congreso.html"
     },
     {
       "titular": "Sánchez se inclina por adelantar las elecciones, pendiente de fijar la fecha",
@@ -23,49 +32,40 @@
       "enlace": "https://www.lavanguardia.com/politica/20261004/11650799/sanchez-inclina-adelantar-elecciones-pendiente-fijar-fecha.html"
     },
     {
-      "titular": "Elon Musk rompe su relación con Shivon Zilis, aliada profesional y madre de cuatro de sus hijos",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-04T22:03:49+02:00",
-      "enlace": "https://elpais.com/us/entretenimiento/2026-10-04/elon-musk-rompe-su-relacion-con-shivon-zilis-aliada-profesional-y-madre-de-cuatro-de-sus-hijos.html"
-    },
-    {
-      "titular": "Borja Jiménez, la estocada de la tarde, el mejor homenaje a Benlliure",
+      "titular": "Cataluña abre la vía legal para frenar la proliferación de armas de fuego",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-10-04T21:33:14+02:00",
-      "enlace": "https://www.abc.es/cultura/toros/borja-jimenez-estocada-tarde-mejor-homenaje-benlliure-20261004212246-nt.html"
+      "fecha": "2026-10-05T01:05:55+02:00",
+      "enlace": "https://www.abc.es/espana/cataluna/cataluna-abre-via-legal-frenar-proliferacion-armas-20261005010555-nt.html"
     },
     {
-      "titular": "La empresa familiar analiza la manera de enfrentarse a los retos globales",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-04T21:26:44+02:00",
-      "enlace": "https://www.lavanguardia.com/economia/20261004/11650792/empresa-familiar-analiza-manera-enfrentarse-retos-globales.html"
-    },
-    {
-      "titular": "Álex Sola, futbolista del Almería, estrella de madrugada su coche contra otros vehículos estacionados y huye del lugar corriendo",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-04T21:22:52+02:00",
-      "enlace": "https://www.abc.es/deportes/futbol/alex-sola-futbolista-almeria-estrella-madrugada-coche-20261004211208-nt.html"
-    },
-    {
-      "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
+      "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
       "medios": [
         "RTVE"
       ],
       "consenso": 1,
-      "fecha": "2022-06-10T01:05:00+02:00",
-      "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
+      "fecha": "2022-06-10T00:03:00+02:00",
+      "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
+    },
+    {
+      "titular": "La izquierda alternativa gana tiempo y fija para el 17 de octubre el lanzamiento del Frente Amplio y su líder para las generales",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-04T16:26:01+02:00",
+      "enlace": "https://elpais.com/espana/2026-10-04/la-izquierda-alternativa-gana-tiempo-y-fija-para-el-17-de-octubre-el-lanzamiento-del-frente-amplio-y-su-lider-para-las-generales.html"
+    },
+    {
+      "titular": "Sumar acelera su Frente Amplio y fija el 17 de octubre para su lanzamiento",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-04T15:04:47+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20261004/11650670/partidos-sumar-aceleran-frente-amplio-fijan-17-octubre-presentacion.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 10,
+    "antiguedad_minima_min": 9,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2272152,
+        "antiguedad_min": 2272338,
         "descartados_por_gancho": 0
       },
       {
@@ -97,28 +97,28 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 131,
+        "items": 129,
         "error": null,
-        "antiguedad_min": 10,
+        "antiguedad_min": 9,
         "descartados_por_gancho": 6
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 133,
+        "items": 130,
         "error": null,
-        "antiguedad_min": 10,
-        "descartados_por_gancho": 22
+        "antiguedad_min": 23,
+        "descartados_por_gancho": 18
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 24,
+        "items": 25,
         "error": null,
-        "antiguedad_min": 44,
-        "descartados_por_gancho": 1
+        "antiguedad_min": 17,
+        "descartados_por_gancho": 0
       }
     ]
   }

@@ -1,8 +1,8 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "ultimas",
-  "generado": "2026-10-04T22:18:00+02:00",
+  "modo": "portadas",
+  "generado": "2026-10-05T01:23:56+02:00",
   "titulares": [
     {
       "titular": "¿Una española al frente de la EMA? María Jesús Lamas candidata a su dirección",
@@ -14,22 +14,13 @@
       "enlace": "https://diariofarma.com/2026/10/04/una-espanola-al-frente-de-la-ema-maria-jesus-lamas-candidata-a-la-direccion"
     },
     {
-      "titular": "Medir el valor social en oncología exige cambiar la evaluación y la asistencia clínica",
+      "titular": "“Todo el trabajo que hacemos tiene en común la defensa del modelo farmacéutico de nuestro país”",
       "medios": [
-        "Diariofarma"
+        "El Global"
       ],
       "consenso": 1,
-      "fecha": "2026-10-04T19:37:00+02:00",
-      "enlace": "https://diariofarma.com/2026/10/04/medir-el-valor-social-en-oncologia-exige-cambiar-la-evaluacion-y-la-asistencia-clinica"
-    },
-    {
-      "titular": "La innovación necesita un uso responsable de los recursos: \"El paciente debe saber cuánto cuesta la sanidad y cómo se paga\"",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-04T18:25:41+02:00",
-      "enlace": "https://www.redaccionmedica.com/innovacion/20261004/la-innovacion-necesita-un-uso-responsable-de-los-recursos-el-paciente-debe-saber-cuanto-cuesta-la-sanidad-como-se-paga/354704_0.html"
+      "fecha": "2026-10-02T15:30:42+02:00",
+      "enlace": "https://elglobalfarma.com/farmacia/trabajo-hacemos-comun-defensa-modelo-farmaceutico-nuestro-pais/"
     },
     {
       "titular": "La reforma farmacéutica, la esperanza de Europa frente a la amenaza de Trump: incentivos y simplificación jurídica",
@@ -41,13 +32,13 @@
       "enlace": "https://www.redaccionmedica.com/politica/internacional/20261004/la-reforma-farmaceutica-la-esperanza-de-europa-frente-amenaza-trump-incentivos-simplificacion-juridica/354640_0.html"
     },
     {
-      "titular": "“Todo el trabajo que hacemos tiene en común la defensa del modelo farmacéutico de nuestro país”",
+      "titular": "Medir el valor social en oncología exige cambiar la evaluación y la asistencia clínica",
       "medios": [
-        "El Global"
+        "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-10-02T15:30:42+02:00",
-      "enlace": "https://elglobalfarma.com/farmacia/trabajo-hacemos-comun-defensa-modelo-farmaceutico-nuestro-pais/"
+      "fecha": "2026-10-04T19:37:00+02:00",
+      "enlace": "https://diariofarma.com/2026/10/04/medir-el-valor-social-en-oncologia-exige-cambiar-la-evaluacion-y-la-asistencia-clinica"
     },
     {
       "titular": "Málaga toma el relevo de Oviedo y acogerá el 25 Congreso Nacional Farmacéutico",
@@ -59,13 +50,22 @@
       "enlace": "https://elglobalfarma.com/farmacia/malaga-relevo-oviedo-acogera-25-congreso-nacional-farmaceutico/"
     },
     {
-      "titular": "Especialización, bioseguridad, más plantillas e 'IVA de salud': el camino al estatus sanitario en todas las ramas veterinarias",
+      "titular": "La innovación necesita un uso responsable de los recursos: \"El paciente debe saber cuánto cuesta la sanidad y cómo se paga\"",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-10-04T17:48:15+02:00",
-      "enlace": "https://www.redaccionmedica.com/salud-animal/20261004/especializacion-bioseguridad-mas-plantillas-iva-de-salud-el-camino-al-estatus-sanitario-en-todas-las-ramas-veterinarias/354672_0.html"
+      "fecha": "2026-10-04T18:25:41+02:00",
+      "enlace": "https://www.redaccionmedica.com/innovacion/20261004/la-innovacion-necesita-un-uso-responsable-de-los-recursos-el-paciente-debe-saber-cuanto-cuesta-la-sanidad-como-se-paga/354704_0.html"
+    },
+    {
+      "titular": "Lladós: “Europa y España deben convertir la incertidumbre en más investigación”",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-04T17:29:59+02:00",
+      "enlace": "https://diariofarma.com/2026/10/04/llados-europa-y-espana-deben-convertir-la-incertidumbre-en-mas-investigacion"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 135,
+    "antiguedad_minima_min": 321,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 135,
+        "antiguedad_min": 321,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 3287,
+        "antiguedad_min": 3473,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 232,
+        "antiguedad_min": 418,
         "descartados_por_gancho": 0
       },
       {

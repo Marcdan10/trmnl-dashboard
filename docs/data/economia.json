@@ -1,71 +1,71 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "ultimas",
-  "generado": "2026-10-04T22:17:48+02:00",
+  "modo": "portadas",
+  "generado": "2026-10-05T01:23:50+02:00",
   "titulares": [
     {
-      "titular": "Nervios entre los socios de Sánchez, obligados a acelerar por el ruido de tambores electorales",
+      "titular": "Los directivos que pilotan la revolución de la IA en la banca española",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-04T21:00:28+02:00",
-      "enlace": "https://www.expansion.com/economia/politica/2026/10/04/6ac2a181e5fdea9e0c8b4585.html"
+      "fecha": "2026-10-05T00:05:13+02:00",
+      "enlace": "https://www.expansion.com/empresas/banca/2026/10/05/6ac28c08468aeb02438b4587.html"
     },
     {
-      "titular": "Trump crea la 'Fuerza de la Superinteligencia' para coordinar el desarrollo de la IA en EEUU",
+      "titular": "Iberdrola busca una alianza para vender seguros a sus clientes",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-04T18:55:12+02:00",
-      "enlace": "https://www.expansion.com/tecnologia/2026/10/04/trump-crea-fuerza-superinteligencia-coordinar-desarrollo-ia-eeuu.html"
+      "fecha": "2026-10-05T00:05:11+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/10/05/6ac2865be5fdeae31a8b456f.html"
     },
     {
-      "titular": "Sánchez inaugura el Congreso de la Empresa Familiar al que regresa después de ocho años",
+      "titular": "Los gigantes del motor invierten 7.600 millones en electrificar España",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-04T15:48:26+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/10/04/6ac2587b468aeb9a6d8b458f.html"
+      "fecha": "2026-10-05T00:05:12+02:00",
+      "enlace": "https://www.expansion.com/empresas/motor/2026/10/05/6abfebb7468aeb83798b4578.html"
     },
     {
-      "titular": "La OPEP+ decide mantener congelada su oferta de petróleo en noviembre",
+      "titular": "La 'Sepi' de Donald Trump irrumpe en más de 30 empresas con 25.000 millones",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-04T13:52:12+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/10/04/6ac23be9468aebf21e8b458b.html"
+      "fecha": "2026-10-05T00:05:17+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/10/05/6ac16681e5fdeac6558b4588.html"
     },
     {
-      "titular": "Messi baraja una cúpula de ejecutivos de confianza para el Eldense",
+      "titular": "Value Retail invertirá 106 millones en ampliar Las Rozas Village",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-04T13:20:06+02:00",
-      "enlace": "https://www.expansion.com/deporte-negocio/2026/10/04/6ac23506e5fdeae86b8b458e.html"
+      "fecha": "2026-10-05T00:05:18+02:00",
+      "enlace": "https://www.expansion.com/inmobiliario/mercado/2026/10/05/6ac2a1d5e5fdead4458b456f.html"
     },
     {
-      "titular": "CaixaBank eleva hasta el 2,6% la previsión de crecimiento de España en 2026",
+      "titular": "¿Otra crisis de deuda para la zona del euro?",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-04T13:07:12+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/10/04/6ac22f25e5fdeaed508b4573.html"
+      "fecha": "2026-10-05T00:05:31+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/10/05/6ac29f6f468aeb056a8b4590.html"
     },
     {
-      "titular": "Irán reitera que no reabrirá el estrecho de Ormuz hasta que EEUU cumpla sus condiciones",
+      "titular": "El pequeño tesoro de la Bolsa que gana más del 925% en la última década",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-04T12:23:04+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/10/04/6ac22069468aeb02568b4595.html"
+      "fecha": "2026-10-05T00:05:52+02:00",
+      "enlace": "https://www.expansion.com/inversion/2026/10/05/6abe3bca468aeb090e8b4599.html"
     }
   ],
   "salud": {
@@ -78,16 +78,16 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 77,
+    "antiguedad_minima_min": 76,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 69,
+        "items": 62,
         "error": null,
-        "antiguedad_min": 77,
-        "descartados_por_gancho": 2
+        "antiguedad_min": 76,
+        "descartados_por_gancho": 1
       },
       {
         "medio": "Cinco Días",
