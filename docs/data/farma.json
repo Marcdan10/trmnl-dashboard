@@ -1,27 +1,9 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "ultimas",
-  "generado": "2026-10-03T23:36:37+02:00",
+  "modo": "portadas",
+  "generado": "2026-10-04T02:17:41+02:00",
   "titulares": [
-    {
-      "titular": "\"Difícil solución\" para un Estatuto Marco que 'no arregla' un intergrupo: \"No podemos permitirnos una huelga\"",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-03T18:31:54+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/20261003/dificil-solucion-para-un-estatuto-marco-que-no-arregla-intergrupo-no-podemos-permitirnos-una-huelga/354579_0.html"
-    },
-    {
-      "titular": "La revolución 3D llega a las aulas de Medicina: qué aporta al aprendizaje",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-03T18:01:18+02:00",
-      "enlace": "https://www.redaccionmedica.com/profesionales/medicina/20261003/la-revolucion-llega-las-aulas-de-medicina-que-aporta-al-aprendizaje/354718_0.html"
-    },
     {
       "titular": "Profesión, políticos y pacientes piden cambios en el Proyecto de Ley de Medicamentos",
       "medios": [
@@ -32,15 +14,6 @@
       "enlace": "https://diariofarma.com/2026/10/02/profesion-politicos-y-pacientes-piden-cambios-en-el-proyecto-de-ley-de-medicamentos"
     },
     {
-      "titular": "La Aemps espera que en noviembre se reanude progresivamente el suministro de estradiol",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-02T17:06:19+02:00",
-      "enlace": "https://diariofarma.com/2026/10/02/la-aemps-espera-que-en-noviembre-se-reanude-el-suministro-de-la-terapia-hormonal-sustitutiva-de-administracion-transdermica"
-    },
-    {
       "titular": "“Todo el trabajo que hacemos tiene en común la defensa del modelo farmacéutico de nuestro país”",
       "medios": [
         "El Global"
@@ -48,6 +21,24 @@
       "consenso": 1,
       "fecha": "2026-10-02T15:30:42+02:00",
       "enlace": "https://elglobalfarma.com/farmacia/trabajo-hacemos-comun-defensa-modelo-farmaceutico-nuestro-pais/"
+    },
+    {
+      "titular": "\"Difícil solución\" para un Estatuto Marco que 'no arregla' un intergrupo: \"No podemos permitirnos una huelga\"",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-03T18:31:54+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/20261003/dificil-solucion-para-un-estatuto-marco-que-no-arregla-intergrupo-no-podemos-permitirnos-una-huelga/354579_0.html"
+    },
+    {
+      "titular": "La Aemps espera que en noviembre se reanude progresivamente el suministro de estradiol",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-02T17:06:19+02:00",
+      "enlace": "https://diariofarma.com/2026/10/02/la-aemps-espera-que-en-noviembre-se-reanude-el-suministro-de-la-terapia-hormonal-sustitutiva-de-administracion-transdermica"
     },
     {
       "titular": "Málaga toma el relevo de Oviedo y acogerá el 25 Congreso Nacional Farmacéutico",
@@ -66,6 +57,15 @@
       "consenso": 1,
       "fecha": "2026-10-03T17:48:36+02:00",
       "enlace": "https://www.redaccionmedica.com/innovacion/20261003/el-clinic-iniciara-en-un-ensayo-con-su-car-t-para-mieloma-asintomatico-creara-una-red-europea-amiloidosis/354294_0.html"
+    },
+    {
+      "titular": "Málaga será la sede del próximo Congreso Nacional Farmacéutico, a celebrar en 2028",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-02T14:00:41+02:00",
+      "enlace": "https://diariofarma.com/2026/10/02/malaga-sera-la-sede-del-proximo-congreso-nacional-farmaceutico-a-celebrar-en-2028"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 304,
+    "antiguedad_minima_min": 465,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 1811,
+        "antiguedad_min": 1972,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 1925,
+        "antiguedad_min": 2086,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 304,
+        "antiguedad_min": 465,
         "descartados_por_gancho": 0
       },
       {

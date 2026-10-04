@@ -1,63 +1,9 @@
 {
   "pantalla": "generales",
   "titulo": "Titulares",
-  "modo": "ultimas",
-  "generado": "2026-10-03T23:36:27+02:00",
+  "modo": "portadas",
+  "generado": "2026-10-04T02:17:30+02:00",
   "titulares": [
-    {
-      "titular": "España supera una desconexión ante República Checa en un partido con multitud de ocasiones",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-03T23:32:07+02:00",
-      "enlace": "https://elpais.com/deportes/futbol/2026-10-03/espana-supera-una-desconexion-ante-republica-checa-en-un-partido-con-multitud-de-ocasiones.html"
-    },
-    {
-      "titular": "Las mejores cremas saludables de verduras",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-03T23:17:36+02:00",
-      "enlace": "https://www.abc.es/recetasderechupete/cremas-saludables-para-disfrutar-de-las-verduras-las-mejores-recetas-para-todo-el-ano/175411/"
-    },
-    {
-      "titular": "Pimientos del piquillo rellenos de morcilla",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-03T23:14:40+02:00",
-      "enlace": "https://www.abc.es/recetasderechupete/pimientos-rellenos-morcilla/20693/"
-    },
-    {
-      "titular": "España vence a Chequia con una gran primera mitad y sufriendo en la segunda",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-03T22:47:40+02:00",
-      "enlace": "https://www.lavanguardia.com/deportes/futbol/20261003/11650394/espana-republica-checa-nations-league-resumen.html"
-    },
-    {
-      "titular": "Dua Lipa canta con Shakira ‘Antología’ en el octavo concierto de la colombiana en Madrid",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-03T22:47:04+02:00",
-      "enlace": "https://elpais.com/cultura/2026-10-03/dua-lipa-canta-con-shakira-antologia-en-el-octavo-concierto-de-la-colombiana-en-madrid.html"
-    },
-    {
-      "titular": "Detenidos tres participantes de una marcha ultra que trataba de llegar a la acampada de Sol",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-03T22:32:32+02:00",
-      "enlace": "https://www.lavanguardia.com/local/madrid/20261003/11650392/detenidos-tres-participantes-marcha-ultra-trataba-llegar-acampada-sol.html"
-    },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
       "medios": [
@@ -66,6 +12,60 @@
       "consenso": 1,
       "fecha": "2022-06-10T01:05:00+02:00",
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
+    },
+    {
+      "titular": "Decenas de miles de personas se manifiestan por la vivienda en Madrid en medio de la incertidumbre electoral",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-03T18:02:34+02:00",
+      "enlace": "https://elpais.com/espana/2026-10-03/decenas-de-miles-de-personas-exhiben-en-madrid-la-movilizacion-de-la-izquierda-en-medio-de-la-incertidumbre-electoral.html"
+    },
+    {
+      "titular": "La lluvia y la amenaza del “minihuracán” suspenden la actividad del fin de semana",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-04T00:05:00+02:00",
+      "enlace": "https://www.lavanguardia.com/local/barcelona/20261004/11650400/lluvia-amenaza-minihuracan-suspenden-actividad-semana.html"
+    },
+    {
+      "titular": "Joshua Edelman: «Muchos amigos de Nueva York quieren asentarse en España»",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-04T01:57:25+02:00",
+      "enlace": "https://www.abc.es/espana/madrid/joshua-edelman-amigos-nueva-york-quieren-asentarse-20261003015725-nt.html"
+    },
+    {
+      "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
+      "medios": [
+        "RTVE"
+      ],
+      "consenso": 1,
+      "fecha": "2022-06-10T00:03:00+02:00",
+      "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
+    },
+    {
+      "titular": "Las manifestaciones por la vivienda recorren Madrid y varias ciudades españolas, en imágenes",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-03T15:21:19+02:00",
+      "enlace": "https://elpais.com/espana/2026-10-03/las-manifestaciones-por-la-vivienda-recorren-madrid-y-varias-ciudades-espanolas-en-imagenes.html"
+    },
+    {
+      "titular": "Todo lo que hay que saber del temporal que se avecina sobre Catalunya",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-03T16:38:11+02:00",
+      "enlace": "https://www.lavanguardia.com/local/catalunya/20261003/11650229/hay-temporal-avecina-sobre-catalunya.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 4,
+    "antiguedad_minima_min": 20,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2270791,
+        "antiguedad_min": 2270952,
         "descartados_por_gancho": 0
       },
       {
@@ -99,7 +99,7 @@
         "ok": true,
         "items": 137,
         "error": null,
-        "antiguedad_min": 4,
+        "antiguedad_min": 22,
         "descartados_por_gancho": 8
       },
       {
@@ -108,17 +108,17 @@
         "ok": true,
         "items": 131,
         "error": null,
-        "antiguedad_min": 48,
-        "descartados_por_gancho": 18
+        "antiguedad_min": 107,
+        "descartados_por_gancho": 21
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 23,
+        "items": 25,
         "error": null,
-        "antiguedad_min": 18,
-        "descartados_por_gancho": 2
+        "antiguedad_min": 20,
+        "descartados_por_gancho": 0
       }
     ]
   }
