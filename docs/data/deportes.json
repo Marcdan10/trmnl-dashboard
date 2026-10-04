@@ -1,17 +1,26 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "portadas",
-  "generado": "2026-10-04T08:08:16+02:00",
+  "modo": "ultimas",
+  "generado": "2026-10-04T14:40:38+02:00",
   "titulares": [
     {
-      "titular": "Un estelar Marc Márquez conquista el doblete en Motegi y aprieta mucho más el campeonato",
+      "titular": "Confirman cómo puedes ganar músculo mientras pierdes grasa",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-04T07:47:18+02:00",
-      "enlace": "https://www.mundodeportivo.com/motor/motogp/20261004/1004234317/estelar-marc-marquez-conquista-doblete-motegi-aprieta-campeonato.html"
+      "fecha": "2026-10-04T14:16:46+02:00",
+      "enlace": "https://www.mundodeportivo.com/running/20261004/1004234424/entrenadores-coinciden-personas-mantienen-deficit-calorico-moderado-500-calorias-diarias-debajo-mantenimiento-no-conservan-mejor-masa-muscular-aumentan-pierden-grasa-dct.html"
+    },
+    {
+      "titular": "Los madridistas que ya están de vuelta en Madrid",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-04T14:00:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20261004/1004234411/madridistas-vuelta-madrid.html"
     },
     {
       "titular": "Las mayores polémicas de Cristiano Ronaldo en su carrera: Rooney, Mou, Benítez...",
@@ -23,15 +32,6 @@
       "enlace": "https://www.marca.com/futbol/2026/10/02/mayores-polemicas-cristiano-ronaldo-carrera-rooney-mou-benitez.html"
     },
     {
-      "titular": "Accidentado desenlace de Alcaraz en Tokio",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-04T07:34:12+02:00",
-      "enlace": "https://www.mundodeportivo.com/tenis/20261004/1004234318/accidentado-desenlace-alcaraz-tokio.html"
-    },
-    {
       "titular": "El deseo de Joao Félix: \"Le encantaría volver al Barça\"",
       "medios": [
         "Marca"
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/radio/2026/10/02/moretto-desvela-deseo-joao-felix-le-encantaria-volver-barca.html"
     },
     {
-      "titular": "La reacción de Arturo Vidal ante el 'caso Cristiano': \"Es una vergüenza\"",
-      "medios": [
-        "Marca"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-02T12:27:56+02:00",
-      "enlace": "https://www.marca.com/futbol/nations-league/2026/10/02/reaccion-arturo-vidal-caso-cristiano-vergueenza.html"
-    },
-    {
-      "titular": "3-1: España se regula para encarrilar el pase a cuartos",
+      "titular": "Salir a correr sin llevar el móvil: estos relojes con GPS registran tu ruta y tus kilómetros desde la muñeca",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-03T22:41:11+02:00",
-      "enlace": "https://www.mundodeportivo.com/seleccion-espanola/20261003/1004234275/espana-regula-encarrila-pase-cuartos.html"
+      "fecha": "2026-10-04T14:00:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/elrecomendador/ofertas/20261004/1004233583/salir-correr-llevar-movil-relojes-gps-registran-ruta-tus-kilometros-muneca-mkt-alie.html"
     },
     {
-      "titular": "MARCA Pádel crece: ficha a Mónica Montes y Adrián Illescas para completar un equipazo",
+      "titular": "Sierra, sargento: \"Estoy a cargo del vehículo VCZ Castor, que es la última adquisición en a vehículos de combate\"",
       "medios": [
-        "Marca"
+        "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-02T12:22:15+02:00",
-      "enlace": "https://www.marca.com/padel/2026/10/02/marca-padel-crece-ficha-adrian-illescas-monica-montes-completar-equipazo.html"
+      "fecha": "2026-10-04T13:50:58+02:00",
+      "enlace": "https://www.mundodeportivo.com/actualidad/20261004/1004234423/sierra-sargento-cargo-vehiculo-vcz-castor-ultima-adquisicion-cuanto-vehiculos-combate-zapadores-ejercito-dml-dct.html"
+    },
+    {
+      "titular": "Roy Keane: \"Puede llegar a convertirse en uno de los mejores de todos los tiempos\"",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-04T13:50:39+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/uefa-nations-league/20261004/1004234422/roy-keane-llegar-convertirse-mejores-todos-tiempos.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 20,
+    "antiguedad_minima_min": 23,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 67,
         "error": null,
-        "antiguedad_min": 2609,
+        "antiguedad_min": 3002,
         "descartados_por_gancho": 4
       },
       {
@@ -99,9 +99,9 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 138,
+        "items": 139,
         "error": null,
-        "antiguedad_min": 20,
+        "antiguedad_min": 23,
         "descartados_por_gancho": 6
       },
       {

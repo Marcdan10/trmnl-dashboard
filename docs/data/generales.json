@@ -1,9 +1,64 @@
 {
   "pantalla": "generales",
   "titulo": "Titulares",
-  "modo": "portadas",
-  "generado": "2026-10-04T08:08:12+02:00",
+  "modo": "ultimas",
+  "generado": "2026-10-04T14:40:35+02:00",
   "titulares": [
+    {
+      "titular": "Vicente Vallés, sobre si Sánchez convocará elecciones: «Aunque no pueda gobernar»",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-04T14:17:22+02:00",
+      "enlace": "https://www.abc.es/play/television/noticias/vicente-valles-sobre-pedro-sanchez-convocara-elecciones-20261003112942-nt.html"
+    },
+    {
+      "titular": "Cobardía, incompetencia, traición (…y antisemitismo)",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-04T14:17:06+02:00",
+      "enlace": "https://www.abc.es/opinion/cobardia-incompetencia-traicion-antisemitismo-20261004134053-nt.html"
+    },
+    {
+      "titular": "Dos muertos y un desaparecido en Cataluña por las lluvias torrenciales",
+      "medios": [
+        "El País",
+        "ABC"
+      ],
+      "consenso": 2,
+      "fecha": "2026-10-04T14:16:41+02:00",
+      "enlace": "https://elpais.com/espana/catalunya/2026-10-04/la-alerta-por-el-temporal-sigue-y-los-rios-van-al-limite-no-bajar-la-guardia.html"
+    },
+    {
+      "titular": "Max Verstappen también se impone a los ‘Gremlins’ bajo la lluvia de Sepang",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-04T14:12:05+02:00",
+      "enlace": "https://elpais.com/deportes/formula-1/2026-10-04/max-verstappen-tambien-se-impone-a-los-gremlins-bajo-la-lluvia-de-sepang.html"
+    },
+    {
+      "titular": "Detenido por atropellar mortalmente a una mujer y darse a la fuga en La Palma",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-04T13:29:05+02:00",
+      "enlace": "https://www.lavanguardia.com/sucesos/20261004/11650659/detenido-atropello-mortal-mujer-la-palma.html"
+    },
+    {
+      "titular": "Marius Borg busca una empresa que quiera contratarlo",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-04T13:20:37+02:00",
+      "enlace": "https://www.lavanguardia.com/gente/20261004/11650658/marius-borg-busca-empresa-quiera-contratarlo.html"
+    },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
       "medios": [
@@ -12,60 +67,6 @@
       "consenso": 1,
       "fecha": "2022-06-10T01:05:00+02:00",
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
-    },
-    {
-      "titular": "La mayoría del PSOE y el Gobierno anima a Sánchez a convocar elecciones ya: “Ahora hay una oportunidad”",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-04T05:30:01+02:00",
-      "enlace": "https://elpais.com/espana/2026-10-04/la-mayoria-del-psoe-y-el-gobierno-anima-a-sanchez-a-convocar-elecciones-ya-ahora-hay-una-oportunidad.html"
-    },
-    {
-      "titular": "El ascenso de la ultraderecha aboca a una Catalunya ingobernable",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-04T06:00:00+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20261004/11650246/avance-ultraderecha-caida-psc-dibujan-catalunya-ingobernable.html"
-    },
-    {
-      "titular": "Dentro del Príncipe: el barrio de Ceuta en el que «todo sigue igual que el primer día»",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-04T08:01:46+02:00",
-      "enlace": "https://www.abc.es/espana/dentro-principe-barrio-ceuta-sigue-igual-primer-20261004012606-nt.html"
-    },
-    {
-      "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
-      "medios": [
-        "RTVE"
-      ],
-      "consenso": 1,
-      "fecha": "2022-06-10T00:03:00+02:00",
-      "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
-    },
-    {
-      "titular": "El posible adelanto electoral fuerza a la izquierda alternativa a acelerar",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-04T05:30:01+02:00",
-      "enlace": "https://elpais.com/espana/2026-10-04/el-posible-adelanto-electoral-fuerza-a-la-izquierda-alternativa-a-acelerar.html"
-    },
-    {
-      "titular": "El fin del duopolio soberanista",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-04T06:00:00+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20261004/11650249/duopolio-soberanista.html"
     }
   ],
   "salud": {
@@ -74,7 +75,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 3,
+    "antiguedad_minima_min": 23,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +83,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2271303,
+        "antiguedad_min": 2271695,
         "descartados_por_gancho": 0
       },
       {
@@ -97,19 +98,19 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 127,
+        "items": 133,
         "error": null,
-        "antiguedad_min": 3,
-        "descartados_por_gancho": 12
+        "antiguedad_min": 23,
+        "descartados_por_gancho": 8
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 118,
+        "items": 125,
         "error": null,
-        "antiguedad_min": 68,
-        "descartados_por_gancho": 26
+        "antiguedad_min": 71,
+        "descartados_por_gancho": 24
       },
       {
         "medio": "ABC",
@@ -117,7 +118,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 6,
+        "antiguedad_min": 23,
         "descartados_por_gancho": 0
       }
     ]

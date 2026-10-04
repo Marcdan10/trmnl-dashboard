@@ -1,9 +1,36 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "portadas",
-  "generado": "2026-10-04T08:08:22+02:00",
+  "modo": "ultimas",
+  "generado": "2026-10-04T14:40:43+02:00",
   "titulares": [
+    {
+      "titular": "El aula como refugio: la coordinación médica y docente que devuelve la 'normalidad' a los niños ingresados",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-04T14:03:46+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20261004/el-aula-como-refugio-la-coordinacion-medica-docente-que-devuelve-normalidad-los-ninos-ingresados/354413_0.html"
+    },
+    {
+      "titular": "Una nueva vía para ganar tiempo a la huelga indefinida del Estatuto Marco",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-04T13:37:39+02:00",
+      "enlace": "https://www.redaccionmedica.com/opinion/20261004/una-nueva-via-para-ganar-tiempo-la-huelga-indefinida-del-estatuto-marco/354724_14.html"
+    },
+    {
+      "titular": "Padilla alaba la colaboración farmacéutica en las dificultades y defiende el modelo actual",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-04T12:19:34+02:00",
+      "enlace": "https://diariofarma.com/2026/10/04/padilla-alaba-la-colaboracion-farmaceutica-en-las-dificultades-y-defiende-el-modelo-actual"
+    },
     {
       "titular": "Profesión, políticos y pacientes piden cambios en el Proyecto de Ley de Medicamentos",
       "medios": [
@@ -23,24 +50,6 @@
       "enlace": "https://elglobalfarma.com/farmacia/trabajo-hacemos-comun-defensa-modelo-farmaceutico-nuestro-pais/"
     },
     {
-      "titular": "\"Difícil solución\" para un Estatuto Marco que 'no arregla' un intergrupo: \"No podemos permitirnos una huelga\"",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-03T18:31:54+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/20261003/dificil-solucion-para-un-estatuto-marco-que-no-arregla-intergrupo-no-podemos-permitirnos-una-huelga/354579_0.html"
-    },
-    {
-      "titular": "La Aemps espera que en noviembre se reanude progresivamente el suministro de estradiol",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-02T17:06:19+02:00",
-      "enlace": "https://diariofarma.com/2026/10/02/la-aemps-espera-que-en-noviembre-se-reanude-el-suministro-de-la-terapia-hormonal-sustitutiva-de-administracion-transdermica"
-    },
-    {
       "titular": "Málaga toma el relevo de Oviedo y acogerá el 25 Congreso Nacional Farmacéutico",
       "medios": [
         "El Global"
@@ -50,22 +59,13 @@
       "enlace": "https://elglobalfarma.com/farmacia/malaga-relevo-oviedo-acogera-25-congreso-nacional-farmaceutico/"
     },
     {
-      "titular": "El Clínic iniciará en 2028 un ensayo con su CAR-T para mieloma asintomático y creará una red europea en amiloidosis",
+      "titular": "No es la edad, son las hormonas: la menopausia altera proteínas en sangre asociadas al envejecimiento cerebral y al alzhéimer",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-10-03T17:48:36+02:00",
-      "enlace": "https://www.redaccionmedica.com/innovacion/20261003/el-clinic-iniciara-en-un-ensayo-con-su-car-t-para-mieloma-asintomatico-creara-una-red-europea-amiloidosis/354294_0.html"
-    },
-    {
-      "titular": "Málaga será la sede del próximo Congreso Nacional Farmacéutico, a celebrar en 2028",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-02T14:00:41+02:00",
-      "enlace": "https://diariofarma.com/2026/10/02/malaga-sera-la-sede-del-proximo-congreso-nacional-farmaceutico-a-celebrar-en-2028"
+      "fecha": "2026-10-04T13:02:57+02:00",
+      "enlace": "https://www.redaccionmedica.com/innovacion/avances/20261004/no-es-la-edad-son-las-hormonas-menopausia-altera-proteinas-en-sangre-asociadas-al-envejecimiento-cerebral-alzheimer/354553_0.html"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 816,
+    "antiguedad_minima_min": 36,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 2323,
+        "antiguedad_min": 141,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 2437,
+        "antiguedad_min": 2829,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 816,
+        "antiguedad_min": 36,
         "descartados_por_gancho": 0
       },
       {
