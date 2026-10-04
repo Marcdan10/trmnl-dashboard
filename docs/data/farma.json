@@ -2,25 +2,34 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "ultimas",
-  "generado": "2026-10-04T14:40:43+02:00",
+  "generado": "2026-10-04T19:14:09+02:00",
   "titulares": [
     {
-      "titular": "El aula como refugio: la coordinación médica y docente que devuelve la 'normalidad' a los niños ingresados",
+      "titular": "La innovación necesita un uso responsable de los recursos: \"El paciente debe saber cuánto cuesta la sanidad y cómo se paga\"",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-10-04T14:03:46+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20261004/el-aula-como-refugio-la-coordinacion-medica-docente-que-devuelve-normalidad-los-ninos-ingresados/354413_0.html"
+      "fecha": "2026-10-04T18:25:41+02:00",
+      "enlace": "https://www.redaccionmedica.com/innovacion/20261004/la-innovacion-necesita-un-uso-responsable-de-los-recursos-el-paciente-debe-saber-cuanto-cuesta-la-sanidad-como-se-paga/354704_0.html"
     },
     {
-      "titular": "Una nueva vía para ganar tiempo a la huelga indefinida del Estatuto Marco",
+      "titular": "La reforma farmacéutica, la esperanza de Europa frente a la amenaza de Trump: incentivos y simplificación jurídica",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-10-04T13:37:39+02:00",
-      "enlace": "https://www.redaccionmedica.com/opinion/20261004/una-nueva-via-para-ganar-tiempo-la-huelga-indefinida-del-estatuto-marco/354724_14.html"
+      "fecha": "2026-10-04T18:23:46+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/internacional/20261004/la-reforma-farmaceutica-la-esperanza-de-europa-frente-amenaza-trump-incentivos-simplificacion-juridica/354640_0.html"
+    },
+    {
+      "titular": "Lladós: “Europa y España deben convertir la incertidumbre en más investigación”",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-04T17:29:59+02:00",
+      "enlace": "https://diariofarma.com/2026/10/04/llados-europa-y-espana-deben-convertir-la-incertidumbre-en-mas-investigacion"
     },
     {
       "titular": "Padilla alaba la colaboración farmacéutica en las dificultades y defiende el modelo actual",
@@ -30,15 +39,6 @@
       "consenso": 1,
       "fecha": "2026-10-04T12:19:34+02:00",
       "enlace": "https://diariofarma.com/2026/10/04/padilla-alaba-la-colaboracion-farmaceutica-en-las-dificultades-y-defiende-el-modelo-actual"
-    },
-    {
-      "titular": "Profesión, políticos y pacientes piden cambios en el Proyecto de Ley de Medicamentos",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-02T17:24:50+02:00",
-      "enlace": "https://diariofarma.com/2026/10/02/profesion-politicos-y-pacientes-piden-cambios-en-el-proyecto-de-ley-de-medicamentos"
     },
     {
       "titular": "“Todo el trabajo que hacemos tiene en común la defensa del modelo farmacéutico de nuestro país”",
@@ -59,13 +59,13 @@
       "enlace": "https://elglobalfarma.com/farmacia/malaga-relevo-oviedo-acogera-25-congreso-nacional-farmaceutico/"
     },
     {
-      "titular": "No es la edad, son las hormonas: la menopausia altera proteínas en sangre asociadas al envejecimiento cerebral y al alzhéimer",
+      "titular": "Especialización, bioseguridad, más plantillas e 'IVA de salud': el camino al estatus sanitario en todas las ramas veterinarias",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-10-04T13:02:57+02:00",
-      "enlace": "https://www.redaccionmedica.com/innovacion/avances/20261004/no-es-la-edad-son-las-hormonas-menopausia-altera-proteinas-en-sangre-asociadas-al-envejecimiento-cerebral-alzheimer/354553_0.html"
+      "fecha": "2026-10-04T17:48:15+02:00",
+      "enlace": "https://www.redaccionmedica.com/salud-animal/20261004/especializacion-bioseguridad-mas-plantillas-iva-de-salud-el-camino-al-estatus-sanitario-en-todas-las-ramas-veterinarias/354672_0.html"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 36,
+    "antiguedad_minima_min": 48,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 141,
+        "antiguedad_min": 104,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 2829,
+        "antiguedad_min": 3103,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 36,
+        "antiguedad_min": 48,
         "descartados_por_gancho": 0
       },
       {
