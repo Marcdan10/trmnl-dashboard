@@ -2,16 +2,16 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-10-04T02:17:35+02:00",
+  "generado": "2026-10-04T08:08:16+02:00",
   "titulares": [
     {
-      "titular": "3-1: España se regula para encarrilar el pase a cuartos",
+      "titular": "Un estelar Marc Márquez conquista el doblete en Motegi y aprieta mucho más el campeonato",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-03T22:41:11+02:00",
-      "enlace": "https://www.mundodeportivo.com/seleccion-espanola/20261003/1004234275/espana-regula-encarrila-pase-cuartos.html"
+      "fecha": "2026-10-04T07:47:18+02:00",
+      "enlace": "https://www.mundodeportivo.com/motor/motogp/20261004/1004234317/estelar-marc-marquez-conquista-doblete-motegi-aprieta-campeonato.html"
     },
     {
       "titular": "Las mayores polémicas de Cristiano Ronaldo en su carrera: Rooney, Mou, Benítez...",
@@ -23,6 +23,15 @@
       "enlace": "https://www.marca.com/futbol/2026/10/02/mayores-polemicas-cristiano-ronaldo-carrera-rooney-mou-benitez.html"
     },
     {
+      "titular": "Accidentado desenlace de Alcaraz en Tokio",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-04T07:34:12+02:00",
+      "enlace": "https://www.mundodeportivo.com/tenis/20261004/1004234318/accidentado-desenlace-alcaraz-tokio.html"
+    },
+    {
       "titular": "El deseo de Joao Félix: \"Le encantaría volver al Barça\"",
       "medios": [
         "Marca"
@@ -30,15 +39,6 @@
       "consenso": 1,
       "fecha": "2026-10-02T12:38:11+02:00",
       "enlace": "https://www.marca.com/radio/2026/10/02/moretto-desvela-deseo-joao-felix-le-encantaria-volver-barca.html"
-    },
-    {
-      "titular": "Rodri: \"Con muchos cambios y el equipo sigue rindiendo a máximo nivel\"",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-03T23:03:13+02:00",
-      "enlace": "https://www.mundodeportivo.com/seleccion-espanola/20261003/1004234279/rodri-cambios-equipo-sigue-rindiendo-maximo-nivel.html"
     },
     {
       "titular": "La reacción de Arturo Vidal ante el 'caso Cristiano': \"Es una vergüenza\"",
@@ -50,13 +50,13 @@
       "enlace": "https://www.marca.com/futbol/nations-league/2026/10/02/reaccion-arturo-vidal-caso-cristiano-vergueenza.html"
     },
     {
-      "titular": "El 1x1 de España ante la República Checa",
+      "titular": "3-1: España se regula para encarrilar el pase a cuartos",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-03T22:50:15+02:00",
-      "enlace": "https://www.mundodeportivo.com/seleccion-espanola/20261003/1004234262/1x1-espana-republica-checa.html"
+      "fecha": "2026-10-03T22:41:11+02:00",
+      "enlace": "https://www.mundodeportivo.com/seleccion-espanola/20261003/1004234275/espana-regula-encarrila-pase-cuartos.html"
     },
     {
       "titular": "MARCA Pádel crece: ficha a Mónica Montes y Adrián Illescas para completar un equipazo",
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 133,
+    "antiguedad_minima_min": 20,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 67,
         "error": null,
-        "antiguedad_min": 2259,
+        "antiguedad_min": 2609,
         "descartados_por_gancho": 4
       },
       {
@@ -101,8 +101,8 @@
         "ok": true,
         "items": 138,
         "error": null,
-        "antiguedad_min": 133,
-        "descartados_por_gancho": 8
+        "antiguedad_min": 20,
+        "descartados_por_gancho": 6
       },
       {
         "medio": "Sport",
