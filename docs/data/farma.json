@@ -2,8 +2,26 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "ultimas",
-  "generado": "2026-10-04T19:14:09+02:00",
+  "generado": "2026-10-04T22:18:00+02:00",
   "titulares": [
+    {
+      "titular": "¿Una española al frente de la EMA? María Jesús Lamas candidata a su dirección",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-04T20:02:00+02:00",
+      "enlace": "https://diariofarma.com/2026/10/04/una-espanola-al-frente-de-la-ema-maria-jesus-lamas-candidata-a-la-direccion"
+    },
+    {
+      "titular": "Medir el valor social en oncología exige cambiar la evaluación y la asistencia clínica",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-04T19:37:00+02:00",
+      "enlace": "https://diariofarma.com/2026/10/04/medir-el-valor-social-en-oncologia-exige-cambiar-la-evaluacion-y-la-asistencia-clinica"
+    },
     {
       "titular": "La innovación necesita un uso responsable de los recursos: \"El paciente debe saber cuánto cuesta la sanidad y cómo se paga\"",
       "medios": [
@@ -21,24 +39,6 @@
       "consenso": 1,
       "fecha": "2026-10-04T18:23:46+02:00",
       "enlace": "https://www.redaccionmedica.com/politica/internacional/20261004/la-reforma-farmaceutica-la-esperanza-de-europa-frente-amenaza-trump-incentivos-simplificacion-juridica/354640_0.html"
-    },
-    {
-      "titular": "Lladós: “Europa y España deben convertir la incertidumbre en más investigación”",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-04T17:29:59+02:00",
-      "enlace": "https://diariofarma.com/2026/10/04/llados-europa-y-espana-deben-convertir-la-incertidumbre-en-mas-investigacion"
-    },
-    {
-      "titular": "Padilla alaba la colaboración farmacéutica en las dificultades y defiende el modelo actual",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-04T12:19:34+02:00",
-      "enlace": "https://diariofarma.com/2026/10/04/padilla-alaba-la-colaboracion-farmaceutica-en-las-dificultades-y-defiende-el-modelo-actual"
     },
     {
       "titular": "“Todo el trabajo que hacemos tiene en común la defensa del modelo farmacéutico de nuestro país”",
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 48,
+    "antiguedad_minima_min": 135,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 104,
+        "antiguedad_min": 135,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 3103,
+        "antiguedad_min": 3287,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 48,
+        "antiguedad_min": 232,
         "descartados_por_gancho": 0
       },
       {

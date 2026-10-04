@@ -2,62 +2,61 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-10-04T19:13:57+02:00",
+  "generado": "2026-10-04T22:17:45+02:00",
   "titulares": [
     {
-      "titular": "La Policía empieza a desalojar el asentamiento de migrantes de la playa de El Trampolín de Ceuta",
-      "medios": [
-        "El País",
-        "La Vanguardia"
-      ],
-      "consenso": 2,
-      "fecha": "2026-10-04T19:13:16+02:00",
-      "enlace": "https://elpais.com/espana/2026-10-04/la-policia-empieza-a-desalojar-el-asentamiento-de-la-playa-de-el-trampolin-de-ceuta.html"
-    },
-    {
-      "titular": "Elecciones en Brasil 2026, en vivo | Lula: “Veremos qué Brasil eligió el pueblo”. Bolsonaro: “Brasil no aguanta más”",
+      "titular": "Resultados de las elecciones en Brasil 2026, en vivo | Cierran las urnas y comienza el conteo de votos en Brasil",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-04T19:12:04+02:00",
-      "enlace": "https://elpais.com/america/2026-10-04/elecciones-en-brasil-2026-en-vivo.html"
+      "fecha": "2026-10-04T22:06:52+02:00",
+      "enlace": "https://elpais.com/america/2026-10-04/resultados-de-las-elecciones-en-brasil-2026-en-vivo.html"
     },
     {
-      "titular": "Ureña pincha al buen segundo y Borja Jiménez corta la oreja al tercero",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-04T19:06:27+02:00",
-      "enlace": "https://www.abc.es/cultura/toros/toros-ventas-madrid-feria-otono-directo-ultima-20261004104204-di.html"
-    },
-    {
-      "titular": "Señor finlandés, ¿y sobre Ceuta qué?",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-04T19:01:47+02:00",
-      "enlace": "https://www.abc.es/espana/casa-real/senor-finlandes-sobre-ceuta-20261003185929-nt.html"
-    },
-    {
-      "titular": "Los detenidos en las protestas de València están acusados de lanzar vallas y pirotecnia a la Policía",
+      "titular": "Sánchez se inclina por adelantar las elecciones, pendiente de fijar la fecha",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-10-04T18:11:54+02:00",
-      "enlace": "https://www.lavanguardia.com/local/valencia/20261004/11650710/detenidos-protestas-valencia-acusados-lanzar-vallas-pirotecnia-policia.html"
+      "fecha": "2026-10-04T22:06:45+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20261004/11650799/sanchez-inclina-adelantar-elecciones-pendiente-fijar-fecha.html"
     },
     {
-      "titular": "Evenepoel, campeón de todo, gobierna Europa por un suspiro en casa de Pogacar",
+      "titular": "Elon Musk rompe su relación con Shivon Zilis, aliada profesional y madre de cuatro de sus hijos",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-04T22:03:49+02:00",
+      "enlace": "https://elpais.com/us/entretenimiento/2026-10-04/elon-musk-rompe-su-relacion-con-shivon-zilis-aliada-profesional-y-madre-de-cuatro-de-sus-hijos.html"
+    },
+    {
+      "titular": "Borja Jiménez, la estocada de la tarde, el mejor homenaje a Benlliure",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-04T21:33:14+02:00",
+      "enlace": "https://www.abc.es/cultura/toros/borja-jimenez-estocada-tarde-mejor-homenaje-benlliure-20261004212246-nt.html"
+    },
+    {
+      "titular": "La empresa familiar analiza la manera de enfrentarse a los retos globales",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-10-04T17:33:00+02:00",
-      "enlace": "https://www.lavanguardia.com/deportes/ciclismo/20261004/11650703/evenepoel-campeon-europa-ciclismo-pogacar.html"
+      "fecha": "2026-10-04T21:26:44+02:00",
+      "enlace": "https://www.lavanguardia.com/economia/20261004/11650792/empresa-familiar-analiza-manera-enfrentarse-retos-globales.html"
+    },
+    {
+      "titular": "Álex Sola, futbolista del Almería, estrella de madrugada su coche contra otros vehículos estacionados y huye del lugar corriendo",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-04T21:22:52+02:00",
+      "enlace": "https://www.abc.es/deportes/futbol/alex-sola-futbolista-almeria-estrella-madrugada-coche-20261004211208-nt.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -75,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 0,
+    "antiguedad_minima_min": 10,
     "detalle": [
       {
         "medio": "RTVE",
@@ -83,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2271968,
+        "antiguedad_min": 2272152,
         "descartados_por_gancho": 0
       },
       {
@@ -91,7 +90,7 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 500",
+        "error": "HTTP 403",
         "antiguedad_min": null
       },
       {
@@ -100,17 +99,17 @@
         "ok": true,
         "items": 131,
         "error": null,
-        "antiguedad_min": 0,
+        "antiguedad_min": 10,
         "descartados_por_gancho": 6
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 128,
+        "items": 133,
         "error": null,
-        "antiguedad_min": 62,
-        "descartados_por_gancho": 24
+        "antiguedad_min": 10,
+        "descartados_por_gancho": 22
       },
       {
         "medio": "ABC",
@@ -118,7 +117,7 @@
         "ok": true,
         "items": 24,
         "error": null,
-        "antiguedad_min": 7,
+        "antiguedad_min": 44,
         "descartados_por_gancho": 1
       }
     ]
