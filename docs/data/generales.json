@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-10-05T01:23:48+02:00",
+  "generado": "2026-10-05T04:12:34+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -32,13 +32,13 @@
       "enlace": "https://www.lavanguardia.com/politica/20261004/11650799/sanchez-inclina-adelantar-elecciones-pendiente-fijar-fecha.html"
     },
     {
-      "titular": "Cataluña abre la vía legal para frenar la proliferación de armas de fuego",
+      "titular": "Lula y Bolsonaro van a la segunda vuelta con un Congreso bolsonarista",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-10-05T01:05:55+02:00",
-      "enlace": "https://www.abc.es/espana/cataluna/cataluna-abre-via-legal-frenar-proliferacion-armas-20261005010555-nt.html"
+      "fecha": "2026-10-05T02:58:47+02:00",
+      "enlace": "https://www.abc.es/internacional/flavio-bolsonaro-aventaja-lula-silva-elecciones-brasilenas-20261005003351-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 9,
+    "antiguedad_minima_min": 14,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2272338,
+        "antiguedad_min": 2272507,
         "descartados_por_gancho": 0
       },
       {
@@ -97,18 +97,18 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 129,
+        "items": 130,
         "error": null,
-        "antiguedad_min": 9,
+        "antiguedad_min": 14,
         "descartados_por_gancho": 6
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 130,
+        "items": 128,
         "error": null,
-        "antiguedad_min": 23,
+        "antiguedad_min": 192,
         "descartados_por_gancho": 18
       },
       {
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 17,
+        "antiguedad_min": 73,
         "descartados_por_gancho": 0
       }
     ]
