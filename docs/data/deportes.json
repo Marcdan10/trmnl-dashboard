@@ -1,9 +1,27 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "portadas",
-  "generado": "2026-10-05T11:22:22+02:00",
+  "modo": "ultimas",
+  "generado": "2026-10-05T20:40:50+02:00",
   "titulares": [
+    {
+      "titular": "Lookman ya está con el equipo y Hjulmand será el siguiente",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-05T20:26:25+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20261005/1004235045/lookman-equipo-hjulmand-sera-siguiente.html"
+    },
+    {
+      "titular": "Córdoba - Tenerife, en directo",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-05T20:00:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/liga-segunda-division/20261005/1004233185/cordoba-tenerife-directo-laliga-hypermotion-futbol-segunda-division.html"
+    },
     {
       "titular": "Las mayores polémicas de Cristiano Ronaldo en su carrera: Rooney, Mou, Benítez...",
       "medios": [
@@ -12,15 +30,6 @@
       "consenso": 1,
       "fecha": "2026-10-02T12:38:22+02:00",
       "enlace": "https://www.marca.com/futbol/2026/10/02/mayores-polemicas-cristiano-ronaldo-carrera-rooney-mou-benitez.html"
-    },
-    {
-      "titular": "Es oficial: Pedro Sánchez adelanta las elecciones generales en España",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-05T09:08:40+02:00",
-      "enlace": "https://www.mundodeportivo.com/actualidad/20261005/1004234663/oficial-pedro-sanchez-confirma-adelanta-elecciones-generales-espana-dct.html"
     },
     {
       "titular": "El deseo de Joao Félix: \"Le encantaría volver al Barça\"",
@@ -32,40 +41,31 @@
       "enlace": "https://www.marca.com/radio/2026/10/02/moretto-desvela-deseo-joao-felix-le-encantaria-volver-barca.html"
     },
     {
-      "titular": "Iniesta: \"Me encanta ver cómo juegan el Barça y la selección\"",
+      "titular": "Sorteados los cuadros del Germany P2: el duro camino de Chingotto y Galán",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-05T07:00:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261005/1004234488/iniesta-me-encanta-ver-como-juegan-barca-seleccion.html"
+      "fecha": "2026-10-05T19:55:07+02:00",
+      "enlace": "https://www.mundodeportivo.com/padel/premier-padel/20261005/1004234995/sorteados-cuadros-germany-p2-duro-camino-chingotto-galan.html"
     },
     {
-      "titular": "La reacción de Arturo Vidal ante el 'caso Cristiano': \"Es una vergüenza\"",
-      "medios": [
-        "Marca"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-02T12:27:56+02:00",
-      "enlace": "https://www.marca.com/futbol/nations-league/2026/10/02/reaccion-arturo-vidal-caso-cristiano-vergueenza.html"
-    },
-    {
-      "titular": "Póquer de Pina con un Barça de cine",
+      "titular": "Rueda de prensa de Luis de la Fuente y Dani Olmo, en directo",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-04T21:19:12+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261004/1004234576/poquer-pina-barca-cine.html"
+      "fecha": "2026-10-05T19:54:29+02:00",
+      "enlace": "https://www.mundodeportivo.com/seleccion-espanola/20261005/1004234644/rueda-prensa-luis-fuente-dani-olmo-directo-ultima-hora-espana-nations-league-futbol.html"
     },
     {
-      "titular": "MARCA Pádel crece: ficha a Mónica Montes y Adrián Illescas para completar un equipazo",
+      "titular": "Simeone recupera por fin a Alexander Sorloth",
       "medios": [
-        "Marca"
+        "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-02T12:22:15+02:00",
-      "enlace": "https://www.marca.com/padel/2026/10/02/marca-padel-crece-ficha-adrian-illescas-monica-montes-completar-equipazo.html"
+      "fecha": "2026-10-05T19:53:49+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20261005/1004235028/simeone-recupera-alexander-sorloth.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 26,
+    "antiguedad_minima_min": 14,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 67,
         "error": null,
-        "antiguedad_min": 4243,
+        "antiguedad_min": 4802,
         "descartados_por_gancho": 4
       },
       {
@@ -101,8 +101,8 @@
         "ok": true,
         "items": 138,
         "error": null,
-        "antiguedad_min": 26,
-        "descartados_por_gancho": 3
+        "antiguedad_min": 14,
+        "descartados_por_gancho": 2
       },
       {
         "medio": "Sport",

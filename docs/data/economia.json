@@ -1,71 +1,71 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "portadas",
-  "generado": "2026-10-05T11:22:20+02:00",
+  "modo": "ultimas",
+  "generado": "2026-10-05T20:40:48+02:00",
   "titulares": [
     {
-      "titular": "Pedro Sánchez anuncia elecciones el 29 de noviembre",
+      "titular": "Cada vez hay menos argumentos para la ampliación de Heathrow",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-05T10:15:11+02:00",
-      "enlace": "https://www.expansion.com/economia/politica/2026/10/05/6ac344e5e5fdea9f3a8b4580.html"
+      "fecha": "2026-10-05T20:36:04+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/10/05/6ac3ee01e5fdea8e758b4587.html"
     },
     {
-      "titular": "Feijóo: \"Por fin, España podrá elegir el país que quiere ser\"",
+      "titular": "McWin lanza un fondo para invertir 5,5 millones más en Incapto",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-05T10:30:11+02:00",
-      "enlace": "https://www.expansion.com/economia/politica/2026/10/05/6ac35312e5fdea793e8b457c.html"
+      "fecha": "2026-10-05T20:14:50+02:00",
+      "enlace": "https://www.expansion.com/catalunya/2026/10/05/mcwin-lanza-fondo-invertir-5-5-millones-incapto.html"
     },
     {
-      "titular": "La empresa familiar reclama \"grandes acuerdos\" en vivienda y evitar cálculos de corto plazo tras la convocatoria electoral",
+      "titular": "UGT y CCOO pactan convocar una huelga general por la crisis de la vivienda",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-05T10:42:43+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/10/05/6ac35e11468aeb553b8b4579.html"
+      "fecha": "2026-10-05T19:31:44+02:00",
+      "enlace": "https://www.expansion.com/economia/politica/2026/10/05/6ac3def5468aeb211a8b458d.html"
     },
     {
-      "titular": "Las próximas elecciones dan un giro histórico al mapa energético en España",
+      "titular": "La City ve factible un Gobierno PP-Vox y apuesta por mayorías claras para aprobar leyes y presupuestos",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-05T10:51:49+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/10/05/6ac363e3468aeb315a8b457a.html"
+      "fecha": "2026-10-05T18:49:16+02:00",
+      "enlace": "https://www.expansion.com/elecciones/elecciones-generales/2026/10/05/6ac3d437e5fdead21f8b4574.html"
     },
     {
-      "titular": "El valor de la Bolsa española más sensible a la política se dispara",
+      "titular": "Los valores del Ibex más alcistas por el 'efecto Brasil'",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-05T10:53:40+02:00",
+      "fecha": "2026-10-05T18:37:37+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/10/05/6ac36942e5fdeaf20b8b4584.html"
+    },
+    {
+      "titular": "Los hedge fund cuantitativos obtienen grandes ganancias con las ventas de bonos a nivel mundial",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-05T18:15:13+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/10/05/6ac3ccbee5fdea9b268b4578.html"
+    },
+    {
+      "titular": "El valor de la Bolsa española más sensible a la política se dispara un 14%",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-05T18:14:28+02:00",
       "enlace": "https://www.expansion.com/mercados/2026/10/05/6ac35a08468aeb3f2b8b4575.html"
-    },
-    {
-      "titular": "Enfrentamiento, animadversión, conflicto y arrepentimiento",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-05T11:14:05+02:00",
-      "enlace": "https://www.expansion.com/elecciones/elecciones-generales/2026/10/05/6ac36a5b468aeb3f2b8b4580.html"
-    },
-    {
-      "titular": "Las elecciones dejan en el aire los planes estratégicos de Indra y Navantia",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-05T09:56:55+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/10/05/6ac356ed468aebf46d8b456d.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 8,
+    "antiguedad_minima_min": 4,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 72,
+        "items": 80,
         "error": null,
-        "antiguedad_min": 8,
+        "antiguedad_min": 4,
         "descartados_por_gancho": 1
       },
       {
