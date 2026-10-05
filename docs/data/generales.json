@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-10-05T04:12:34+02:00",
+  "generado": "2026-10-05T11:22:17+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -14,31 +14,22 @@
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
     },
     {
-      "titular": "Todo listo en el PSOE y el Gobierno para un adelanto electoral tras la derrota de los decretos en el Congreso",
+      "titular": "Sánchez adelanta las elecciones al 29 de noviembre: “Necesitamos una mayoría progresista mucho más amplia”",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-04T21:22:32+02:00",
-      "enlace": "https://elpais.com/espana/2026-10-04/todo-listo-en-el-psoe-y-el-gobierno-para-un-adelanto-electoral-tras-la-derrota-de-los-decretos-en-el-congreso.html"
+      "fecha": "2026-10-05T10:14:18+02:00",
+      "enlace": "https://elpais.com/espana/2026-10-05/sanchez-adelanta-las-elecciones-al-29-de-noviembre-necesitamos-una-mayoria-progresista-mucho-mas-amplia.html"
     },
     {
-      "titular": "Sánchez se inclina por adelantar las elecciones, pendiente de fijar la fecha",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-04T22:06:45+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20261004/11650799/sanchez-inclina-adelantar-elecciones-pendiente-fijar-fecha.html"
-    },
-    {
-      "titular": "Lula y Bolsonaro van a la segunda vuelta con un Congreso bolsonarista",
+      "titular": "Carlos Herrera, convencido de lo que hay detrás de que Sánchez convoque elecciones: «Lo que le preocupa no es el país»",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-10-05T02:58:47+02:00",
-      "enlace": "https://www.abc.es/internacional/flavio-bolsonaro-aventaja-lula-silva-elecciones-brasilenas-20261005003351-nt.html"
+      "fecha": "2026-10-05T11:08:06+02:00",
+      "enlace": "https://www.abc.es/recreo/carlos-herrera-convencido-detras-pedro-sanchez-convoque-20261005100101-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -50,22 +41,31 @@
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
     },
     {
-      "titular": "La izquierda alternativa gana tiempo y fija para el 17 de octubre el lanzamiento del Frente Amplio y su líder para las generales",
+      "titular": "Adelanto de las elecciones generales, en directo | Feijóo celebra el anuncio de adelanto electoral: “Por fin decidirán los españoles”",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-04T16:26:01+02:00",
-      "enlace": "https://elpais.com/espana/2026-10-04/la-izquierda-alternativa-gana-tiempo-y-fija-para-el-17-de-octubre-el-lanzamiento-del-frente-amplio-y-su-lider-para-las-generales.html"
+      "fecha": "2026-10-05T11:15:14+02:00",
+      "enlace": "https://elpais.com/espana/2026-10-05/reacciones-a-los-decretos-de-vivienda-y-las-acampadas-en-directo.html"
     },
     {
-      "titular": "Sumar acelera su Frente Amplio y fija el 17 de octubre para su lanzamiento",
+      "titular": "Pedro Sánchez convoca elecciones anticipadas el 29 de noviembre, última hora del adelanto electoral en directo",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-10-04T15:04:47+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20261004/11650670/partidos-sumar-aceleran-frente-amplio-fijan-17-octubre-presentacion.html"
+      "fecha": "2026-10-05T10:14:34+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20261005/11650802/pedro-sanchez-decreto-vivienda-elecciones-ultima-hora-en-directo.html"
+    },
+    {
+      "titular": "Juan del Val: «El Gobierno de Sánchez y el PSOE se echarán las manos a la cabeza cuando PP y Vox sumen 210 diputados»",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-05T11:03:12+02:00",
+      "enlace": "https://www.abc.es/play/television/noticias/juan-val-gobierno-pedro-sanchez-psoe-echaran-20261005110311-nt.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 14,
+    "antiguedad_minima_min": 1,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2272507,
+        "antiguedad_min": 2272937,
         "descartados_por_gancho": 0
       },
       {
@@ -97,28 +97,28 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 130,
+        "items": 148,
         "error": null,
-        "antiguedad_min": 14,
-        "descartados_por_gancho": 6
+        "antiguedad_min": 1,
+        "descartados_por_gancho": 10
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 128,
+        "items": 122,
         "error": null,
-        "antiguedad_min": 192,
-        "descartados_por_gancho": 18
+        "antiguedad_min": 63,
+        "descartados_por_gancho": 15
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 25,
+        "items": 23,
         "error": null,
-        "antiguedad_min": 73,
-        "descartados_por_gancho": 0
+        "antiguedad_min": 14,
+        "descartados_por_gancho": 2
       }
     ]
   }

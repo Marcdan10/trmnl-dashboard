@@ -2,17 +2,8 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-10-05T04:12:38+02:00",
+  "generado": "2026-10-05T11:22:22+02:00",
   "titulares": [
-    {
-      "titular": "7-0: Festival con póquer de Pina en la enésima humillación al Real Madrid",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-04T20:55:13+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261004/1004234564/festival-poquer-pina-enesima-humillacion-real-madrid.html"
-    },
     {
       "titular": "Las mayores polémicas de Cristiano Ronaldo en su carrera: Rooney, Mou, Benítez...",
       "medios": [
@@ -23,13 +14,13 @@
       "enlace": "https://www.marca.com/futbol/2026/10/02/mayores-polemicas-cristiano-ronaldo-carrera-rooney-mou-benitez.html"
     },
     {
-      "titular": "La clasificación de la Liga F Moeve: El Barça ya gana al Madrid por 114-13",
+      "titular": "Es oficial: Pedro Sánchez adelanta las elecciones generales en España",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-04T20:59:40+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261004/1004234567/asi-queda-clasificacion-liga-f-moeve-barca-gana-madrid-114-13.html"
+      "fecha": "2026-10-05T09:08:40+02:00",
+      "enlace": "https://www.mundodeportivo.com/actualidad/20261005/1004234663/oficial-pedro-sanchez-confirma-adelanta-elecciones-generales-espana-dct.html"
     },
     {
       "titular": "El deseo de Joao Félix: \"Le encantaría volver al Barça\"",
@@ -41,13 +32,13 @@
       "enlace": "https://www.marca.com/radio/2026/10/02/moretto-desvela-deseo-joao-felix-le-encantaria-volver-barca.html"
     },
     {
-      "titular": "Campeonas en octubre y Europa, atemorizada",
+      "titular": "Iniesta: \"Me encanta ver cómo juegan el Barça y la selección\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-04T22:01:55+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261004/1004234589/campeonas-octubre-europa-atemorizada.html"
+      "fecha": "2026-10-05T07:00:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261005/1004234488/iniesta-me-encanta-ver-como-juegan-barca-seleccion.html"
     },
     {
       "titular": "La reacción de Arturo Vidal ante el 'caso Cristiano': \"Es una vergüenza\"",
@@ -59,13 +50,22 @@
       "enlace": "https://www.marca.com/futbol/nations-league/2026/10/02/reaccion-arturo-vidal-caso-cristiano-vergueenza.html"
     },
     {
-      "titular": "Laporta: \"Se fueron jugadoras que marcaron una época y vienen otras que la marcarán\"",
+      "titular": "Póquer de Pina con un Barça de cine",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-04T22:15:03+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261004/1004234591/laporta-jugadoras-marcaron-epoca-vienen-marcaran.html"
+      "fecha": "2026-10-04T21:19:12+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261004/1004234576/poquer-pina-barca-cine.html"
+    },
+    {
+      "titular": "MARCA Pádel crece: ficha a Mónica Montes y Adrián Illescas para completar un equipazo",
+      "medios": [
+        "Marca"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-02T12:22:15+02:00",
+      "enlace": "https://www.marca.com/padel/2026/10/02/marca-padel-crece-ficha-adrian-illescas-monica-montes-completar-equipazo.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 260,
+    "antiguedad_minima_min": 26,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 67,
         "error": null,
-        "antiguedad_min": 3814,
+        "antiguedad_min": 4243,
         "descartados_por_gancho": 4
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 143,
+        "items": 138,
         "error": null,
-        "antiguedad_min": 260,
-        "descartados_por_gancho": 5
+        "antiguedad_min": 26,
+        "descartados_por_gancho": 3
       },
       {
         "medio": "Sport",
