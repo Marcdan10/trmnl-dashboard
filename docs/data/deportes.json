@@ -1,17 +1,26 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "portadas",
-  "generado": "2026-10-06T09:05:05+02:00",
+  "modo": "ultimas",
+  "generado": "2026-10-06T16:19:18+02:00",
   "titulares": [
     {
-      "titular": "Un Barça para rato: Deco blinda la continuidad de la plantilla",
+      "titular": "Amazon hunde el precio de estas cafeteras: ahora con descuentos de hasta el 35%",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-06T06:00:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261006/1004235100/barca-rato-deco-blinda-continuidad-plantilla.html"
+      "fecha": "2026-10-06T15:51:38+02:00",
+      "enlace": "https://www.mundodeportivo.com/elrecomendador/ofertas/20261006/1004235316/amazon-hunde-precio-cafeteras-fiesta-ofertas-prime-descuentos-35.html"
+    },
+    {
+      "titular": "El nuevo inversor de LIV se compromete a aportar 300 millones para reflotar la liga",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-06T15:45:35+02:00",
+      "enlace": "https://www.mundodeportivo.com/golf/20261006/1004235374/nuevo-inversor-liv-compromete-aportar-300-millones-reflotar-liga.html"
     },
     {
       "titular": "Las mayores polémicas de Cristiano Ronaldo en su carrera: Rooney, Mou, Benítez...",
@@ -23,15 +32,6 @@
       "enlace": "https://www.marca.com/futbol/2026/10/02/mayores-polemicas-cristiano-ronaldo-carrera-rooney-mou-benitez.html"
     },
     {
-      "titular": "Gerard Martín y Fariñas, los siguientes en renovar",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-06T06:40:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261006/1004234816/gerard-martin-farinas-siguientes-renovar.html"
-    },
-    {
       "titular": "El deseo de Joao Félix: \"Le encantaría volver al Barça\"",
       "medios": [
         "Marca"
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/radio/2026/10/02/moretto-desvela-deseo-joao-felix-le-encantaria-volver-barca.html"
     },
     {
-      "titular": "La reacción de Arturo Vidal ante el 'caso Cristiano': \"Es una vergüenza\"",
-      "medios": [
-        "Marca"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-02T12:27:56+02:00",
-      "enlace": "https://www.marca.com/futbol/nations-league/2026/10/02/reaccion-arturo-vidal-caso-cristiano-vergueenza.html"
-    },
-    {
-      "titular": "Balde, la incógnita para el mes de enero",
+      "titular": "La Fiesta de Ofertas Prime de Amazon arranca fuerte: estos son los productos más vendidos",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-06T06:10:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261006/1004235153/balde-incognita-mes-enero.html"
+      "fecha": "2026-10-06T15:38:01+02:00",
+      "enlace": "https://www.mundodeportivo.com/elrecomendador/ofertas/20261006/1004234731/productos-mas-vendidos-primer-dia-fiesta-ofertas-prime-amazon.html"
     },
     {
-      "titular": "MARCA Pádel crece: ficha a Mónica Montes y Adrián Illescas para completar un equipazo",
+      "titular": "El último baile de Lionel Messi con Argentina, a pura emoción y nostalgia",
       "medios": [
-        "Marca"
+        "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-02T12:22:15+02:00",
-      "enlace": "https://www.marca.com/padel/2026/10/02/marca-padel-crece-ficha-adrian-illescas-monica-montes-completar-equipazo.html"
+      "fecha": "2026-10-06T15:30:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/internacional/20261006/1004235037/ultimo-baile-lionel-messi-argentina-pura-emocion-nostalgia.html"
+    },
+    {
+      "titular": "Nico Paz pica en punta para quedarse con la 10 de Messi",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-06T15:30:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/internacional/20261006/1004235043/nico-paz-pica-punta-quedarse-10-messi.html"
     }
   ],
   "salud": {
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 67,
         "error": null,
-        "antiguedad_min": 5546,
+        "antiguedad_min": 5980,
         "descartados_por_gancho": 4
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 134,
+        "items": 137,
         "error": null,
         "antiguedad_min": 27,
-        "descartados_por_gancho": 5
+        "descartados_por_gancho": 4
       },
       {
         "medio": "Sport",

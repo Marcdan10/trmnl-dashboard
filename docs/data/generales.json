@@ -1,9 +1,63 @@
 {
   "pantalla": "generales",
   "titulo": "Titulares",
-  "modo": "portadas",
-  "generado": "2026-10-06T09:04:56+02:00",
+  "modo": "ultimas",
+  "generado": "2026-10-06T16:19:13+02:00",
   "titulares": [
+    {
+      "titular": "Alemania arresta al exjefe de su servicio de inteligencia, sospechoso de alta traición",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-06T16:10:42+02:00",
+      "enlace": "https://elpais.com/internacional/2026-10-06/alemania-arresta-al-exjefe-de-su-servicio-de-inteligencia-en-el-exterior-acusado-de-alta-traicion.html"
+    },
+    {
+      "titular": "Shakira pide a Piqué que sea él quien se traslade a Miami a ver a sus hijos para proteger “su bienestar emocional, físico y académico”",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-06T16:10:39+02:00",
+      "enlace": "https://elpais.com/gente/2026-10-06/shakira-pide-a-pique-que-sea-el-quien-se-traslade-a-miami-a-ver-a-sus-hijos-para-proteger-su-bienestar-emocional-fisico-y-academico.html"
+    },
+    {
+      "titular": "Paramount finaliza la compra de Warner Bros: nace un nuevo gigante del entretenimiento",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-06T16:01:46+02:00",
+      "enlace": "https://www.abc.es/economia/paramount-finaliza-compra-warner-bros-nace-nuevo-20261006152357-nt.html"
+    },
+    {
+      "titular": "Las goteras del Vall d'Hebron obligan a trasladar a varios neonatos prematuros a la UCI de pediatría",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-06T15:54:06+02:00",
+      "enlace": "https://www.lavanguardia.com/local/barcelona/20261006/11652309/goteras-vall-d-hebron-obligan-trasladar-neonatos-uci-pediatria.html"
+    },
+    {
+      "titular": "El TC borra la malversación del 'procés' y enmienda al Supremo con la ponencia de Pumpido",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-06T15:53:57+02:00",
+      "enlace": "https://www.abc.es/espana/tc-borra-malversacion-proces-enmienda-supremo-ponencia-20261006115927-nt.html"
+    },
+    {
+      "titular": "Los Mossos detienen en l'Hospitalet de Llobregat a tres personas por la muerte violenta de un hombre en marzo",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-06T15:36:30+02:00",
+      "enlace": "https://www.lavanguardia.com/local/baix-llobregat/20261006/11652495/mossos-detienen-l-hospitalet-llobregat-tres-personas-muerte-violenta-hombre-marzo.html"
+    },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
       "medios": [
@@ -12,60 +66,6 @@
       "consenso": 1,
       "fecha": "2022-06-10T01:05:00+02:00",
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
-    },
-    {
-      "titular": "Así gestó Sánchez el adelanto electoral: “Este Congreso no nos vale, tenemos que ir a elecciones, podemos ganar”",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-06T05:30:01+02:00",
-      "enlace": "https://elpais.com/espana/elecciones-generales/2026-10-06/asi-gesto-sanchez-el-adelanto-electoral-este-congreso-no-nos-vale-tenemos-que-ir-a-elecciones-podemos-ganar.html"
-    },
-    {
-      "titular": "Sánchez pulsa el botón rojo para el 29-N y activa una polarizada batalla electoral",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-06T06:00:00+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20261006/11651782/sanchez-pulsa-boton-rojo-29-n-activa-polarizada-batalla-electoral.html"
-    },
-    {
-      "titular": "La izquierda radical afronta dividida y descabezada unas elecciones «incómodas»",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-06T08:52:53+02:00",
-      "enlace": "https://www.abc.es/espana/izquierda-radical-afronta-dividida-descabezada-elecciones-dificiles-20261006011127-nt.html"
-    },
-    {
-      "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
-      "medios": [
-        "RTVE"
-      ],
-      "consenso": 1,
-      "fecha": "2022-06-10T00:03:00+02:00",
-      "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
-    },
-    {
-      "titular": "Todos los proyectos que caen con las nuevas elecciones tras una legislatura con 22 leyes y 43 decretos",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-06T05:30:01+02:00",
-      "enlace": "https://elpais.com/espana/elecciones-generales/2026-10-06/todos-los-proyectos-que-caen-con-las-nuevas-elecciones-tras-una-legislatura-con-22-leyes-y-43-decretos.html"
-    },
-    {
-      "titular": "El Gobierno reflota medidas de choque en vivienda que ya no necesitan a Junts",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-06T06:00:00+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20261006/11651792/gobierno-reflota-medidas-choque-vivienda-necesitan-junts.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 4,
+    "antiguedad_minima_min": 8,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2274239,
+        "antiguedad_min": 2274674,
         "descartados_por_gancho": 0
       },
       {
@@ -97,28 +97,28 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 142,
+        "items": 152,
         "error": null,
-        "antiguedad_min": 4,
+        "antiguedad_min": 8,
         "descartados_por_gancho": 5
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 118,
+        "items": 135,
         "error": null,
-        "antiguedad_min": 47,
+        "antiguedad_min": 25,
         "descartados_por_gancho": 12
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 23,
+        "items": 24,
         "error": null,
-        "antiguedad_min": 12,
-        "descartados_por_gancho": 2
+        "antiguedad_min": 16,
+        "descartados_por_gancho": 1
       }
     ]
   }
