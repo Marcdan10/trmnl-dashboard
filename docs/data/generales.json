@@ -2,61 +2,61 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-10-06T16:19:13+02:00",
+  "generado": "2026-10-06T21:38:21+02:00",
   "titulares": [
     {
-      "titular": "Alemania arresta al exjefe de su servicio de inteligencia, sospechoso de alta traición",
+      "titular": "Croacia - España en directo | Croacia gana al descanso gracias a un gol de Perisic",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-06T16:10:42+02:00",
-      "enlace": "https://elpais.com/internacional/2026-10-06/alemania-arresta-al-exjefe-de-su-servicio-de-inteligencia-en-el-exterior-acusado-de-alta-traicion.html"
+      "fecha": "2026-10-06T21:34:54+02:00",
+      "enlace": "https://elpais.com/deportes/futbol/2026-10-06/croacia-espana-en-directo-el-partido-de-la-nations-league-en-vivo.html"
     },
     {
-      "titular": "Shakira pide a Piqué que sea él quien se traslade a Miami a ver a sus hijos para proteger “su bienestar emocional, físico y académico”",
+      "titular": "Cristiano acusa a Jorge Jesus de mentir e incumplir su palabra",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-06T16:10:39+02:00",
-      "enlace": "https://elpais.com/gente/2026-10-06/shakira-pide-a-pique-que-sea-el-quien-se-traslade-a-miami-a-ver-a-sus-hijos-para-proteger-su-bienestar-emocional-fisico-y-academico.html"
+      "fecha": "2026-10-06T21:31:17+02:00",
+      "enlace": "https://elpais.com/deportes/futbol/2026-10-06/cristiano-acusa-a-jorge-jesus-de-mentir-e-incumplir-su-palabra.html"
     },
     {
-      "titular": "Paramount finaliza la compra de Warner Bros: nace un nuevo gigante del entretenimiento",
+      "titular": "Cristiano atiza a Jorge Jesús en una extensa y dura carta: «Esta es la pura verdad»",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-10-06T16:01:46+02:00",
-      "enlace": "https://www.abc.es/economia/paramount-finaliza-compra-warner-bros-nace-nuevo-20261006152357-nt.html"
+      "fecha": "2026-10-06T21:24:10+02:00",
+      "enlace": "https://www.abc.es/deportes/futbol/cristiano-atiza-jorge-jesus-extensa-dura-carta-20261006211746-nt.html"
     },
     {
-      "titular": "Las goteras del Vall d'Hebron obligan a trasladar a varios neonatos prematuros a la UCI de pediatría",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-06T15:54:06+02:00",
-      "enlace": "https://www.lavanguardia.com/local/barcelona/20261006/11652309/goteras-vall-d-hebron-obligan-trasladar-neonatos-uci-pediatria.html"
-    },
-    {
-      "titular": "El TC borra la malversación del 'procés' y enmienda al Supremo con la ponencia de Pumpido",
+      "titular": "El PSOE balear lleva a una mujer desahuciada al pleno y acaba abrazada y llorando con Prohens",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-10-06T15:53:57+02:00",
-      "enlace": "https://www.abc.es/espana/tc-borra-malversacion-proces-enmienda-supremo-ponencia-20261006115927-nt.html"
+      "fecha": "2026-10-06T21:15:25+02:00",
+      "enlace": "https://www.abc.es/espana/baleares/psoe-balear-lleva-mujer-desahuciada-pleno-acaba-20261006211524-nt.html"
     },
     {
-      "titular": "Los Mossos detienen en l'Hospitalet de Llobregat a tres personas por la muerte violenta de un hombre en marzo",
+      "titular": "Las imágenes que deja un nuevo episodio de lluvias torrenciales en Catalunya",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-10-06T15:36:30+02:00",
-      "enlace": "https://www.lavanguardia.com/local/baix-llobregat/20261006/11652495/mossos-detienen-l-hospitalet-llobregat-tres-personas-muerte-violenta-hombre-marzo.html"
+      "fecha": "2026-10-06T20:59:24+02:00",
+      "enlace": "https://www.lavanguardia.com/local/catalunya/20261006/11652736/imagenes-deja-nuevo-episodio-lluvias-torrenciales-catalunya.html"
+    },
+    {
+      "titular": "Disfunciones en la R1, sorpresas en la R2 y problemas en la R4",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-06T20:11:16+02:00",
+      "enlace": "https://www.lavanguardia.com/local/barcelona/20261006/11652731/rodalies-temporal-disfunciones-r1-sorpresas-r2-problemas-r4.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 8,
+    "antiguedad_minima_min": 3,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2274674,
+        "antiguedad_min": 2274993,
         "descartados_por_gancho": 0
       },
       {
@@ -97,18 +97,18 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 152,
+        "items": 155,
         "error": null,
-        "antiguedad_min": 8,
+        "antiguedad_min": 3,
         "descartados_por_gancho": 5
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 135,
+        "items": 144,
         "error": null,
-        "antiguedad_min": 25,
+        "antiguedad_min": 38,
         "descartados_por_gancho": 12
       },
       {
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 24,
         "error": null,
-        "antiguedad_min": 16,
+        "antiguedad_min": 14,
         "descartados_por_gancho": 1
       }
     ]

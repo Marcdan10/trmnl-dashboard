@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-10-06T16:19:18+02:00",
+  "generado": "2026-10-06T21:38:25+02:00",
   "titulares": [
     {
-      "titular": "Amazon hunde el precio de estas cafeteras: ahora con descuentos de hasta el 35%",
+      "titular": "Pablo Castrillo renueva con Movistar Team hasta 2030",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-06T15:51:38+02:00",
-      "enlace": "https://www.mundodeportivo.com/elrecomendador/ofertas/20261006/1004235316/amazon-hunde-precio-cafeteras-fiesta-ofertas-prime-descuentos-35.html"
+      "fecha": "2026-10-06T21:25:34+02:00",
+      "enlace": "https://www.mundodeportivo.com/ciclismo/20261006/1004235523/pablo-castrillo-renueva-movistar-team-2030.html"
     },
     {
-      "titular": "El nuevo inversor de LIV se compromete a aportar 300 millones para reflotar la liga",
+      "titular": "Adrián, sargento de arma de transmisiones: \"Se están modernizando los vehículos y también los medios de comunicación\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-06T15:45:35+02:00",
-      "enlace": "https://www.mundodeportivo.com/golf/20261006/1004235374/nuevo-inversor-liv-compromete-aportar-300-millones-reflotar-liga.html"
+      "fecha": "2026-10-06T21:03:38+02:00",
+      "enlace": "https://www.mundodeportivo.com/actualidad/20261006/1004235499/adrian-garcia-sargento-arma-transmisiones-modernizando-vehiculos-medios-comunicacion-dml-expt-dct.html"
     },
     {
       "titular": "Las mayores polémicas de Cristiano Ronaldo en su carrera: Rooney, Mou, Benítez...",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/radio/2026/10/02/moretto-desvela-deseo-joao-felix-le-encantaria-volver-barca.html"
     },
     {
-      "titular": "La Fiesta de Ofertas Prime de Amazon arranca fuerte: estos son los productos más vendidos",
+      "titular": "Prepara la nueva temporada de esquí y snowboard con esta mochila de Lidl",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-06T15:38:01+02:00",
-      "enlace": "https://www.mundodeportivo.com/elrecomendador/ofertas/20261006/1004234731/productos-mas-vendidos-primer-dia-fiesta-ofertas-prime-amazon.html"
+      "fecha": "2026-10-06T21:01:20+02:00",
+      "enlace": "https://www.mundodeportivo.com/actualidad/20261006/1004235469/prepara-nueva-temporada-esqui-snowboard-mochila-lidl-amplia-elegante-economica-smd.html"
     },
     {
-      "titular": "El último baile de Lionel Messi con Argentina, a pura emoción y nostalgia",
+      "titular": "7-1: La Rojita destroza a Rumanía y ata a lo grande el billete para el Europeo",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-06T15:30:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/internacional/20261006/1004235037/ultimo-baile-lionel-messi-argentina-pura-emocion-nostalgia.html"
+      "fecha": "2026-10-06T20:58:07+02:00",
+      "enlace": "https://www.mundodeportivo.com/seleccion-espanola/20261006/1004235505/rojita-da-festin-ata-billete-directo-europeo.html"
     },
     {
-      "titular": "Nico Paz pica en punta para quedarse con la 10 de Messi",
+      "titular": "Tremendo homenaje de Emi Martínez a Messi",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-06T15:30:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/internacional/20261006/1004235043/nico-paz-pica-punta-quedarse-10-messi.html"
+      "fecha": "2026-10-06T20:55:08+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/internacional/20261006/1004235514/dibu-martinez-homenajea-messi-pelo.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 27,
+    "antiguedad_minima_min": 12,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 67,
         "error": null,
-        "antiguedad_min": 5980,
+        "antiguedad_min": 6300,
         "descartados_por_gancho": 4
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 137,
+        "items": 136,
         "error": null,
-        "antiguedad_min": 27,
-        "descartados_por_gancho": 4
+        "antiguedad_min": 12,
+        "descartados_por_gancho": 6
       },
       {
         "medio": "Sport",

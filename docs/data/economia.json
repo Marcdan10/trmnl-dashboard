@@ -2,25 +2,61 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-10-06T16:19:16+02:00",
+  "generado": "2026-10-06T21:38:23+02:00",
   "titulares": [
     {
-      "titular": "El PNV, la llave para validar en la Diputación Permanente los decretos de vivienda",
+      "titular": "El decreto que será convalidado incluye la cuenta europea de inversión",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-06T16:09:30+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/10/06/6ac500ede5fdea985e8b456d.html"
+      "fecha": "2026-10-06T21:21:16+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/10/06/6ac54a24e5fdea323d8b459a.html"
     },
     {
-      "titular": "El Ibex toma impulso con el tirón de los bancos",
+      "titular": "Francia: entre el mercado de bonos y las barricadas",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-06T16:08:11+02:00",
-      "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/10/06/6ac48e93e5fdea62798b4589.html"
+      "fecha": "2026-10-06T20:31:37+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/10/06/6ac5296ae5fdeada498b4577.html"
+    },
+    {
+      "titular": "Qué es la Diputación Permanente y por qué es clave para aprobar el decreto de vivienda",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-06T20:13:45+02:00",
+      "enlace": "https://www.expansion.com/economia/politica/2026/10/06/6ac51432e5fdeac01c8b456e.html"
+    },
+    {
+      "titular": "El consorcio de Ferrovial, licitador preferente para un tramo de la autopista checa D35",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-06T20:06:25+02:00",
+      "enlace": "https://www.expansion.com/empresas/construccion-servicios/2026/10/06/6ac52f64e5fdea10208b458c.html"
+    },
+    {
+      "titular": "Díaz estrecha el cerco a las empresas que despidan a mayores de 50 años: más controles y sanciones graves",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-06T19:20:02+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/10/06/6ac52c7d468aebc94e8b4572.html"
+    },
+    {
+      "titular": "Trump rebaja por decreto la fiscalidad del diésel ante un precio récord",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-06T19:14:52+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/10/06/6ac52c6d468aeb79778b4594.html"
     },
     {
       "titular": "Dos decretos de vivienda casi idénticos: así quedan las medidas del Gobierno para intervenir el mercado del alquiler",
@@ -28,44 +64,8 @@
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-06T15:42:19+02:00",
+      "fecha": "2026-10-06T19:04:55+02:00",
       "enlace": "https://www.expansion.com/economia/2026/10/06/6ac4fa51e5fdea96648b45ab.html"
-    },
-    {
-      "titular": "Sony Music intensifica la lucha contra el fraude en el 'streaming'",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-06T15:15:59+02:00",
-      "enlace": "https://www.expansion.com/economia/financial-times/2026/10/06/6ac4f441e5fdea96648b45a3.html"
-    },
-    {
-      "titular": "Mientras la competencia aplica recortes en Alemania, BMW redobla su apuesta",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-06T15:14:08+02:00",
-      "enlace": "https://www.expansion.com/economia/financial-times/2026/10/06/6ac4f3b2e5fdea96648b459c.html"
-    },
-    {
-      "titular": "Belausteguigoitia (BBVA): \"En seguros es donde más queremos crecer en España\"",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-06T14:50:30+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/10/06/6ac4edc4e5fdea66298b4581.html"
-    },
-    {
-      "titular": "La auditoría incorporó a más de 2.700 profesionales en España en 2025",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-06T14:05:26+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/10/06/6ac4e3b7468aebe03d8b457b.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 9,
+    "antiguedad_minima_min": 17,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 85,
+        "items": 87,
         "error": null,
-        "antiguedad_min": 9,
+        "antiguedad_min": 17,
         "descartados_por_gancho": 0
       },
       {
