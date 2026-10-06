@@ -1,63 +1,9 @@
 {
   "pantalla": "generales",
   "titulo": "Titulares",
-  "modo": "ultimas",
-  "generado": "2026-10-06T21:38:21+02:00",
+  "modo": "portadas",
+  "generado": "2026-10-07T01:29:58+02:00",
   "titulares": [
-    {
-      "titular": "Croacia - España en directo | Croacia gana al descanso gracias a un gol de Perisic",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-06T21:34:54+02:00",
-      "enlace": "https://elpais.com/deportes/futbol/2026-10-06/croacia-espana-en-directo-el-partido-de-la-nations-league-en-vivo.html"
-    },
-    {
-      "titular": "Cristiano acusa a Jorge Jesus de mentir e incumplir su palabra",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-06T21:31:17+02:00",
-      "enlace": "https://elpais.com/deportes/futbol/2026-10-06/cristiano-acusa-a-jorge-jesus-de-mentir-e-incumplir-su-palabra.html"
-    },
-    {
-      "titular": "Cristiano atiza a Jorge Jesús en una extensa y dura carta: «Esta es la pura verdad»",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-06T21:24:10+02:00",
-      "enlace": "https://www.abc.es/deportes/futbol/cristiano-atiza-jorge-jesus-extensa-dura-carta-20261006211746-nt.html"
-    },
-    {
-      "titular": "El PSOE balear lleva a una mujer desahuciada al pleno y acaba abrazada y llorando con Prohens",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-06T21:15:25+02:00",
-      "enlace": "https://www.abc.es/espana/baleares/psoe-balear-lleva-mujer-desahuciada-pleno-acaba-20261006211524-nt.html"
-    },
-    {
-      "titular": "Las imágenes que deja un nuevo episodio de lluvias torrenciales en Catalunya",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-06T20:59:24+02:00",
-      "enlace": "https://www.lavanguardia.com/local/catalunya/20261006/11652736/imagenes-deja-nuevo-episodio-lluvias-torrenciales-catalunya.html"
-    },
-    {
-      "titular": "Disfunciones en la R1, sorpresas en la R2 y problemas en la R4",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-06T20:11:16+02:00",
-      "enlace": "https://www.lavanguardia.com/local/barcelona/20261006/11652731/rodalies-temporal-disfunciones-r1-sorpresas-r2-problemas-r4.html"
-    },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
       "medios": [
@@ -66,6 +12,60 @@
       "consenso": 1,
       "fecha": "2022-06-10T01:05:00+02:00",
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
+    },
+    {
+      "titular": "Puigdemont mantiene la incógnita sobre su regreso tras la sentencia del Constitucional: “Hoy no se soluciona nada entre Cataluña y España”",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-06T18:25:54+02:00",
+      "enlace": "https://elpais.com/espana/2026-10-06/puigdemont-tras-la-sentencia-del-constitucional-hoy-no-se-soluciona-nada-entre-cataluna-y-espana.html"
+    },
+    {
+      "titular": "Puigdemont aguardará al archivo de la causa en el Supremo para volver a Catalunya",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-06T20:03:03+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20261006/11652725/puigdemont-aguardara-archivo-causa-supremo-volver-catalunya.html"
+    },
+    {
+      "titular": "Ícaro Sinner quiso acercarse demasiado veloz al sol",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-07T01:29:18+02:00",
+      "enlace": "https://www.abc.es/deportes/tenis/doctor-ripoll-icaro-sinner-quiso-acercarse-veloz-sol-20261006010502-nt.html"
+    },
+    {
+      "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
+      "medios": [
+        "RTVE"
+      ],
+      "consenso": 1,
+      "fecha": "2022-06-10T00:03:00+02:00",
+      "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
+    },
+    {
+      "titular": "El Constitucional ordena al Supremo que amnistíe la malversación del ‘procés’",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-06T13:57:43+02:00",
+      "enlace": "https://elpais.com/espana/2026-10-06/via-libre-al-regreso-de-puigdemont-el-constitucional-ordena-al-supremo-que-amnistie-la-malversacion-del-proces.html"
+    },
+    {
+      "titular": "El juez Llarena deja sin efecto la orden de detención de Puigdemont",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-06T12:42:30+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20261006/11652301/llarena-deja-efecto-orden-detencion-puigdemont.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 3,
+    "antiguedad_minima_min": 0,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2274993,
+        "antiguedad_min": 2275224,
         "descartados_por_gancho": 0
       },
       {
@@ -97,19 +97,19 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 155,
+        "items": 156,
         "error": null,
-        "antiguedad_min": 3,
+        "antiguedad_min": 48,
         "descartados_por_gancho": 5
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 144,
+        "items": 143,
         "error": null,
-        "antiguedad_min": 38,
-        "descartados_por_gancho": 12
+        "antiguedad_min": 59,
+        "descartados_por_gancho": 9
       },
       {
         "medio": "ABC",
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 24,
         "error": null,
-        "antiguedad_min": 14,
+        "antiguedad_min": 0,
         "descartados_por_gancho": 1
       }
     ]

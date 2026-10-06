@@ -1,26 +1,17 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "ultimas",
-  "generado": "2026-10-06T21:38:25+02:00",
+  "modo": "portadas",
+  "generado": "2026-10-07T01:30:04+02:00",
   "titulares": [
     {
-      "titular": "Pablo Castrillo renueva con Movistar Team hasta 2030",
+      "titular": "El adiós de Messi con la selección, en directo",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-06T21:25:34+02:00",
-      "enlace": "https://www.mundodeportivo.com/ciclismo/20261006/1004235523/pablo-castrillo-renueva-movistar-team-2030.html"
-    },
-    {
-      "titular": "Adrián, sargento de arma de transmisiones: \"Se están modernizando los vehículos y también los medios de comunicación\"",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-06T21:03:38+02:00",
-      "enlace": "https://www.mundodeportivo.com/actualidad/20261006/1004235499/adrian-garcia-sargento-arma-transmisiones-modernizando-vehiculos-medios-comunicacion-dml-expt-dct.html"
+      "fecha": "2026-10-07T00:11:59+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/20261007/1004235262/argentina-benin-directo-despedida-messi-argentina-partido-amistoso.html"
     },
     {
       "titular": "Las mayores polémicas de Cristiano Ronaldo en su carrera: Rooney, Mou, Benítez...",
@@ -32,6 +23,15 @@
       "enlace": "https://www.marca.com/futbol/2026/10/02/mayores-polemicas-cristiano-ronaldo-carrera-rooney-mou-benitez.html"
     },
     {
+      "titular": "Messi, entre lágrimas antes de su despedida con Argentina",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-07T00:19:03+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/internacional/20261007/1004235612/messi-lagrimas-despedida-argentina.html"
+    },
+    {
       "titular": "El deseo de Joao Félix: \"Le encantaría volver al Barça\"",
       "medios": [
         "Marca"
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/radio/2026/10/02/moretto-desvela-deseo-joao-felix-le-encantaria-volver-barca.html"
     },
     {
-      "titular": "Prepara la nueva temporada de esquí y snowboard con esta mochila de Lidl",
+      "titular": "1-2: Otra vez Merino para meter a España en cuartos",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-06T21:01:20+02:00",
-      "enlace": "https://www.mundodeportivo.com/actualidad/20261006/1004235469/prepara-nueva-temporada-esqui-snowboard-mochila-lidl-amplia-elegante-economica-smd.html"
+      "fecha": "2026-10-06T22:36:56+02:00",
+      "enlace": "https://www.mundodeportivo.com/seleccion-espanola/20261006/1004235548/vez-merino-rescate-meter-espana-cuartos.html"
     },
     {
-      "titular": "7-1: La Rojita destroza a Rumanía y ata a lo grande el billete para el Europeo",
+      "titular": "La reacción de Arturo Vidal ante el 'caso Cristiano': \"Es una vergüenza\"",
       "medios": [
-        "Mundo Deportivo"
+        "Marca"
       ],
       "consenso": 1,
-      "fecha": "2026-10-06T20:58:07+02:00",
-      "enlace": "https://www.mundodeportivo.com/seleccion-espanola/20261006/1004235505/rojita-da-festin-ata-billete-directo-europeo.html"
+      "fecha": "2026-10-02T12:27:56+02:00",
+      "enlace": "https://www.marca.com/futbol/nations-league/2026/10/02/reaccion-arturo-vidal-caso-cristiano-vergueenza.html"
     },
     {
-      "titular": "Tremendo homenaje de Emi Martínez a Messi",
+      "titular": "MARCA Pádel crece: ficha a Mónica Montes y Adrián Illescas para completar un equipazo",
       "medios": [
-        "Mundo Deportivo"
+        "Marca"
       ],
       "consenso": 1,
-      "fecha": "2026-10-06T20:55:08+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/internacional/20261006/1004235514/dibu-martinez-homenajea-messi-pelo.html"
+      "fecha": "2026-10-02T12:22:15+02:00",
+      "enlace": "https://www.marca.com/padel/2026/10/02/marca-padel-crece-ficha-adrian-illescas-monica-montes-completar-equipazo.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 12,
+    "antiguedad_minima_min": 45,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 67,
         "error": null,
-        "antiguedad_min": 6300,
+        "antiguedad_min": 6531,
         "descartados_por_gancho": 4
       },
       {
@@ -99,9 +99,9 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 136,
+        "items": 137,
         "error": null,
-        "antiguedad_min": 12,
+        "antiguedad_min": 45,
         "descartados_por_gancho": 6
       },
       {

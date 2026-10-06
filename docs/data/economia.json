@@ -1,9 +1,36 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "ultimas",
-  "generado": "2026-10-06T21:38:23+02:00",
+  "modo": "portadas",
+  "generado": "2026-10-07T01:30:02+02:00",
   "titulares": [
+    {
+      "titular": "Dos decretos de vivienda casi idénticos: así quedan las medidas del Gobierno para intervenir el mercado del alquiler",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-06T19:04:55+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/10/06/6ac4fa51e5fdea96648b45ab.html"
+    },
+    {
+      "titular": "Las principales medidas del nuevo decreto de vivienda, explicadas una a una",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-06T11:22:44+02:00",
+      "enlace": "https://www.expansion.com/inmobiliario/mercado/2026/09/30/6abcd273468aebae5a8b45a4.html"
+    },
+    {
+      "titular": "El PNV apoyará el primer decreto de vivienda en la Diputación Permanente",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-06T17:06:27+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/10/06/6ac50e44468aeb466a8b4593.html"
+    },
     {
       "titular": "El decreto que será convalidado incluye la cuenta europea de inversión",
       "medios": [
@@ -14,58 +41,31 @@
       "enlace": "https://www.expansion.com/economia/2026/10/06/6ac54a24e5fdea323d8b459a.html"
     },
     {
-      "titular": "Francia: entre el mercado de bonos y las barricadas",
+      "titular": "Los planes de pensiones podrían mejorar su fiscalidad",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-06T20:31:37+02:00",
-      "enlace": "https://www.expansion.com/economia/financial-times/2026/10/06/6ac5296ae5fdeada498b4577.html"
+      "fecha": "2026-10-06T00:05:25+02:00",
+      "enlace": "https://www.expansion.com/elecciones/elecciones-generales/2026/10/06/6ac41ce9e5fdea3d2a8b457d.html"
     },
     {
-      "titular": "Qué es la Diputación Permanente y por qué es clave para aprobar el decreto de vivienda",
+      "titular": "El francés BPCE compra un 7% de Sabadell de forma \"amistosa\"",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-06T20:13:45+02:00",
-      "enlace": "https://www.expansion.com/economia/politica/2026/10/06/6ac51432e5fdeac01c8b456e.html"
+      "fecha": "2026-10-06T07:45:23+02:00",
+      "enlace": "https://www.expansion.com/empresas/banca/2026/10/06/6ac47c84e5fdea96648b458a.html"
     },
     {
-      "titular": "El consorcio de Ferrovial, licitador preferente para un tramo de la autopista checa D35",
+      "titular": "Puigdemont insiste tras la amnistía: su aplicación \"no soluciona el conflicto\"",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-06T20:06:25+02:00",
-      "enlace": "https://www.expansion.com/empresas/construccion-servicios/2026/10/06/6ac52f64e5fdea10208b458c.html"
-    },
-    {
-      "titular": "Díaz estrecha el cerco a las empresas que despidan a mayores de 50 años: más controles y sanciones graves",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-06T19:20:02+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/10/06/6ac52c7d468aebc94e8b4572.html"
-    },
-    {
-      "titular": "Trump rebaja por decreto la fiscalidad del diésel ante un precio récord",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-06T19:14:52+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/10/06/6ac52c6d468aeb79778b4594.html"
-    },
-    {
-      "titular": "Dos decretos de vivienda casi idénticos: así quedan las medidas del Gobierno para intervenir el mercado del alquiler",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-06T19:04:55+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/10/06/6ac4fa51e5fdea96648b45ab.html"
+      "fecha": "2026-10-06T18:40:13+02:00",
+      "enlace": "https://www.expansion.com/catalunya/2026/10/06/puigdemont-insiste-amnistia-aplicacion-soluciona-conflicto.html"
     }
   ],
   "salud": {
@@ -78,7 +78,7 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 17,
+    "antiguedad_minima_min": 218,
     "detalle": [
       {
         "medio": "Expansión",
@@ -86,7 +86,7 @@
         "ok": true,
         "items": 87,
         "error": null,
-        "antiguedad_min": 17,
+        "antiguedad_min": 218,
         "descartados_por_gancho": 0
       },
       {
