@@ -2,16 +2,16 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-10-06T02:31:50+02:00",
+  "generado": "2026-10-06T09:05:05+02:00",
   "titulares": [
     {
-      "titular": "Flick, como un jugador más: afina puntería con premio y marca a Gabriel Jesus",
+      "titular": "Un Barça para rato: Deco blinda la continuidad de la plantilla",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-05T23:35:19+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261005/1004235095/flick-jugador-sesion.html"
+      "fecha": "2026-10-06T06:00:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261006/1004235100/barca-rato-deco-blinda-continuidad-plantilla.html"
     },
     {
       "titular": "Las mayores polémicas de Cristiano Ronaldo en su carrera: Rooney, Mou, Benítez...",
@@ -23,13 +23,13 @@
       "enlace": "https://www.marca.com/futbol/2026/10/02/mayores-polemicas-cristiano-ronaldo-carrera-rooney-mou-benitez.html"
     },
     {
-      "titular": "El Real Madrid femenino desaparece en Real Madrid TV",
+      "titular": "Gerard Martín y Fariñas, los siguientes en renovar",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-05T15:36:35+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20261005/1004234847/real-madrid-femenino-desaparece-real-madrid-tv.html"
+      "fecha": "2026-10-06T06:40:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261006/1004234816/gerard-martin-farinas-siguientes-renovar.html"
     },
     {
       "titular": "El deseo de Joao Félix: \"Le encantaría volver al Barça\"",
@@ -41,15 +41,6 @@
       "enlace": "https://www.marca.com/radio/2026/10/02/moretto-desvela-deseo-joao-felix-le-encantaria-volver-barca.html"
     },
     {
-      "titular": "Mbappé responde a las críticas: \"Sí, también me enfadé con mi tía abuela\"",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-05T16:17:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20261005/1004234949/mbappe-responde-criticas-me-enfade-mi-tia-abuela.html"
-    },
-    {
       "titular": "La reacción de Arturo Vidal ante el 'caso Cristiano': \"Es una vergüenza\"",
       "medios": [
         "Marca"
@@ -59,13 +50,22 @@
       "enlace": "https://www.marca.com/futbol/nations-league/2026/10/02/reaccion-arturo-vidal-caso-cristiano-vergueenza.html"
     },
     {
-      "titular": "Tebas: \"El Real Madrid es el equipo más rebelde de LaLiga\"",
+      "titular": "Balde, la incógnita para el mes de enero",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-05T23:40:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20261005/1004235098/tebas-real-madrid-equipo-rebelde-laliga.html"
+      "fecha": "2026-10-06T06:10:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261006/1004235153/balde-incognita-mes-enero.html"
+    },
+    {
+      "titular": "MARCA Pádel crece: ficha a Mónica Montes y Adrián Illescas para completar un equipazo",
+      "medios": [
+        "Marca"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-02T12:22:15+02:00",
+      "enlace": "https://www.marca.com/padel/2026/10/02/marca-padel-crece-ficha-adrian-illescas-monica-montes-completar-equipazo.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 144,
+    "antiguedad_minima_min": 27,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 67,
         "error": null,
-        "antiguedad_min": 5153,
+        "antiguedad_min": 5546,
         "descartados_por_gancho": 4
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 137,
+        "items": 134,
         "error": null,
-        "antiguedad_min": 144,
-        "descartados_por_gancho": 1
+        "antiguedad_min": 27,
+        "descartados_por_gancho": 5
       },
       {
         "medio": "Sport",

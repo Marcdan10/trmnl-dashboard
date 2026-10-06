@@ -2,70 +2,70 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "portadas",
-  "generado": "2026-10-06T02:31:48+02:00",
+  "generado": "2026-10-06T09:05:01+02:00",
   "titulares": [
     {
-      "titular": "Sánchez adelanta elecciones al 29 de noviembre",
+      "titular": "Presupuestos, quita de deuda y financiación autonómica caen tras el fin de la legislatura",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-05T10:15:11+02:00",
-      "enlace": "https://www.expansion.com/economia/politica/2026/10/05/6ac344e5e5fdea9f3a8b4580.html"
+      "fecha": "2026-10-06T02:36:37+02:00",
+      "enlace": "https://www.expansion.com/elecciones/elecciones-generales/2026/10/06/6ac3d749468aeb661e8b45a0.html"
     },
     {
-      "titular": "Decreto de vivienda: así podrá entrar en vigor a pesar del 'no' del Congreso",
+      "titular": "Sánchez diseña su propia 'kale borroka' para el día después",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-05T11:32:15+02:00",
-      "enlace": "https://www.expansion.com/inmobiliario/mercado/2026/10/05/6ac36c34e5fdea693f8b458c.html"
+      "fecha": "2026-10-06T02:36:36+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/10/06/6ac40b7b468aeb3a408b45a8.html"
     },
     {
-      "titular": "Los juristas advierten de un posible \"fraude constitucional\" por el nuevo decreto de vivienda",
+      "titular": "El francés BPCE compra un 7% de Sabadell de forma \"amistosa\"",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-05T15:30:35+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/10/05/6ac3a678e5fdea693f8b45a4.html"
+      "fecha": "2026-10-06T07:45:23+02:00",
+      "enlace": "https://www.expansion.com/empresas/banca/2026/10/06/6ac47c84e5fdea96648b458a.html"
     },
     {
-      "titular": "La banca ante un eventual cambio de Gobierno: ¿alivio fiscal a la vista?",
+      "titular": "La Primera de Expansión sobre elecciones, vivienda, PwC, IA, BBVA y Hollywood",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-05T17:47:27+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/10/05/6ac3c4dae5fdeac1058b458d.html"
+      "fecha": "2026-10-06T07:20:08+02:00",
+      "enlace": "https://www.expansion.com/podcasts/la-primera-de-expansion/2026/10/06/6ac47c73468aebf22a8b45a9.html"
     },
     {
-      "titular": "UGT y CCOO pactan convocar una huelga general por la crisis de la vivienda",
+      "titular": "La herencia envenenada de Sánchez en la vivienda",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-05T19:31:44+02:00",
-      "enlace": "https://www.expansion.com/economia/politica/2026/10/05/6ac3def5468aeb211a8b458d.html"
+      "fecha": "2026-10-06T02:52:37+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/10/06/6ac4108b468aeb0a668b4588.html"
     },
     {
-      "titular": "Citi: un cambio de Gobierno en España puede resucitar la opa sobre Sabadell",
+      "titular": "La abogacía pide reforzar la seguridad jurídica y la calidad regulatoria",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-05T12:59:56+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/10/05/6ac3827de5fdea1c608b4592.html"
+      "fecha": "2026-10-05T21:29:18+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/10/05/6ac3f160e5fdea96648b457a.html"
     },
     {
-      "titular": "Las próximas elecciones dan un giro histórico al mapa energético en España",
+      "titular": "La City ve factible un Gobierno PP-Vox y apuesta por mayorías claras para aprobar leyes y presupuestos",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-05T10:51:49+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/10/05/6ac363e3468aeb315a8b457a.html"
+      "fecha": "2026-10-05T18:49:16+02:00",
+      "enlace": "https://www.expansion.com/elecciones/elecciones-generales/2026/10/05/6ac3d437e5fdead21f8b4574.html"
     }
   ],
   "salud": {
@@ -78,16 +78,16 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 274,
+    "antiguedad_minima_min": 10,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 81,
+        "items": 84,
         "error": null,
-        "antiguedad_min": 274,
-        "descartados_por_gancho": 1
+        "antiguedad_min": 10,
+        "descartados_por_gancho": 0
       },
       {
         "medio": "Cinco Días",
