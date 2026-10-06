@@ -1,8 +1,8 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "ultimas",
-  "generado": "2026-10-05T20:40:57+02:00",
+  "modo": "portadas",
+  "generado": "2026-10-06T02:31:56+02:00",
   "titulares": [
     {
       "titular": "29N: César Hernández mantiene su intención de aprobar el RD de Financiación y Precio",
@@ -14,13 +14,13 @@
       "enlace": "https://diariofarma.com/2026/10/05/29n-cesar-hernandez-mantiene-su-intencion-de-aprobar-el-rd-de-financiacion-y-precio"
     },
     {
-      "titular": "Melilla notifica el segundo caso de rabia de este 2026 en un perro hallado \"en deficiente estado de salud\"",
+      "titular": "El COF de Gipuzkoa homenajea a Miguel Ángel Gastelurrutia por su trayectoria y compromiso con la farmacia asistencial",
       "medios": [
-        "Redacción Médica"
+        "El Global"
       ],
       "consenso": 1,
-      "fecha": "2026-10-05T18:55:43+02:00",
-      "enlace": "https://www.redaccionmedica.com/salud-animal/20261005/melilla-notifica-el-segundo-caso-de-rabia-este-en-un-perro-hallado-deficiente-estado-salud/354879_0.html"
+      "fecha": "2026-10-05T17:59:36+02:00",
+      "enlace": "https://elglobalfarma.com/farmacia/cof-gipuzkoa-homenajea-miguel-angel-gastelurrutia-trayectoria-farmacia/"
     },
     {
       "titular": "Del déficit de profesionales a las listas de espera: la sanidad marca el arranque de la carrera hacia las urnas",
@@ -41,15 +41,6 @@
       "enlace": "https://diariofarma.com/2026/10/05/encarna-guillen-coordinara-medicina-genomica-y-enfermedades-raras-en-murcia"
     },
     {
-      "titular": "El COF de Gipuzkoa homenajea a Miguel Ángel Gastelurrutia por su trayectoria y compromiso con la farmacia asistencial",
-      "medios": [
-        "El Global"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-05T17:59:36+02:00",
-      "enlace": "https://elglobalfarma.com/farmacia/cof-gipuzkoa-homenajea-miguel-angel-gastelurrutia-trayectoria-farmacia/"
-    },
-    {
       "titular": "El proyecto de SPD logra un 93% de adherencia terapéutica en el medio rural de Valladolid",
       "medios": [
         "El Global"
@@ -59,13 +50,23 @@
       "enlace": "https://elglobalfarma.com/farmacia/spd-alcanza-93-adherencia-medio-rural-valladolid/"
     },
     {
-      "titular": "Sanidad cierra una legislatura de claroscuros con tres grandes hitos aprobados y un último proyecto 'a contrarreloj'",
+      "titular": "Frenazo a dos especialidades MIR por el adelanto electoral aunque logran salvar su tramitación",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-10-05T18:37:56+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/ministerio-sanidad/20261005/sanidad-cierra-una-legislatura-de-claroscuros-con-tres-grandes-hitos-aprobados-un-ultimo-proyecto-contrarreloj/354848_0.html"
+      "fecha": "2026-10-05T18:35:24+02:00",
+      "enlace": "https://www.redaccionmedica.com/profesionales/sociedades-cientificas/20261005/frenazo-dos-especialidades-mir-por-el-adelanto-electoral-aunque-logran-salvar-su-tramitacion/354807_0.html"
+    },
+    {
+      "titular": "María Jesús Lamas, una española en la carrera para presidir la EMA",
+      "medios": [
+        "Diariofarma",
+        "El Global"
+      ],
+      "consenso": 2,
+      "fecha": "2026-10-05T15:44:16+02:00",
+      "enlace": "https://elglobalfarma.com/politica/maria-jesus-lamas-espanola-carrera-presidir-ema/"
     }
   ],
   "salud": {
@@ -76,7 +77,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 85,
+    "antiguedad_minima_min": 436,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +85,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 85,
+        "antiguedad_min": 436,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +94,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 161,
+        "antiguedad_min": 512,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +103,7 @@
         "ok": true,
         "items": 29,
         "error": null,
-        "antiguedad_min": 105,
+        "antiguedad_min": 456,
         "descartados_por_gancho": 1
       },
       {

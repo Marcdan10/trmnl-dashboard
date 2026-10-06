@@ -1,26 +1,17 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "ultimas",
-  "generado": "2026-10-05T20:40:50+02:00",
+  "modo": "portadas",
+  "generado": "2026-10-06T02:31:50+02:00",
   "titulares": [
     {
-      "titular": "Lookman ya está con el equipo y Hjulmand será el siguiente",
+      "titular": "Flick, como un jugador más: afina puntería con premio y marca a Gabriel Jesus",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-05T20:26:25+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20261005/1004235045/lookman-equipo-hjulmand-sera-siguiente.html"
-    },
-    {
-      "titular": "Córdoba - Tenerife, en directo",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-05T20:00:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/liga-segunda-division/20261005/1004233185/cordoba-tenerife-directo-laliga-hypermotion-futbol-segunda-division.html"
+      "fecha": "2026-10-05T23:35:19+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261005/1004235095/flick-jugador-sesion.html"
     },
     {
       "titular": "Las mayores polémicas de Cristiano Ronaldo en su carrera: Rooney, Mou, Benítez...",
@@ -32,6 +23,15 @@
       "enlace": "https://www.marca.com/futbol/2026/10/02/mayores-polemicas-cristiano-ronaldo-carrera-rooney-mou-benitez.html"
     },
     {
+      "titular": "El Real Madrid femenino desaparece en Real Madrid TV",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-05T15:36:35+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20261005/1004234847/real-madrid-femenino-desaparece-real-madrid-tv.html"
+    },
+    {
       "titular": "El deseo de Joao Félix: \"Le encantaría volver al Barça\"",
       "medios": [
         "Marca"
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/radio/2026/10/02/moretto-desvela-deseo-joao-felix-le-encantaria-volver-barca.html"
     },
     {
-      "titular": "Sorteados los cuadros del Germany P2: el duro camino de Chingotto y Galán",
+      "titular": "Mbappé responde a las críticas: \"Sí, también me enfadé con mi tía abuela\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-05T19:55:07+02:00",
-      "enlace": "https://www.mundodeportivo.com/padel/premier-padel/20261005/1004234995/sorteados-cuadros-germany-p2-duro-camino-chingotto-galan.html"
+      "fecha": "2026-10-05T16:17:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20261005/1004234949/mbappe-responde-criticas-me-enfade-mi-tia-abuela.html"
     },
     {
-      "titular": "Rueda de prensa de Luis de la Fuente y Dani Olmo, en directo",
+      "titular": "La reacción de Arturo Vidal ante el 'caso Cristiano': \"Es una vergüenza\"",
       "medios": [
-        "Mundo Deportivo"
+        "Marca"
       ],
       "consenso": 1,
-      "fecha": "2026-10-05T19:54:29+02:00",
-      "enlace": "https://www.mundodeportivo.com/seleccion-espanola/20261005/1004234644/rueda-prensa-luis-fuente-dani-olmo-directo-ultima-hora-espana-nations-league-futbol.html"
+      "fecha": "2026-10-02T12:27:56+02:00",
+      "enlace": "https://www.marca.com/futbol/nations-league/2026/10/02/reaccion-arturo-vidal-caso-cristiano-vergueenza.html"
     },
     {
-      "titular": "Simeone recupera por fin a Alexander Sorloth",
+      "titular": "Tebas: \"El Real Madrid es el equipo más rebelde de LaLiga\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-05T19:53:49+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20261005/1004235028/simeone-recupera-alexander-sorloth.html"
+      "fecha": "2026-10-05T23:40:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20261005/1004235098/tebas-real-madrid-equipo-rebelde-laliga.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 14,
+    "antiguedad_minima_min": 144,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 67,
         "error": null,
-        "antiguedad_min": 4802,
+        "antiguedad_min": 5153,
         "descartados_por_gancho": 4
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 138,
+        "items": 137,
         "error": null,
-        "antiguedad_min": 14,
-        "descartados_por_gancho": 2
+        "antiguedad_min": 144,
+        "descartados_por_gancho": 1
       },
       {
         "medio": "Sport",
