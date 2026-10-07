@@ -1,26 +1,17 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "ultimas",
-  "generado": "2026-10-07T19:09:27+02:00",
+  "modo": "portadas",
+  "generado": "2026-10-08T00:09:25+02:00",
   "titulares": [
     {
-      "titular": "El espejo europeo en listas de espera: pacientes con derecho a elegir hospital y medición de demoras desde la prescripción médica",
+      "titular": "29N: Mónica García ofrece a Colau ser candidata nacional de Frente Amplio y se reseva el liderato de Madrid",
       "medios": [
-        "Redacción Médica"
+        "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-10-07T18:44:05+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20261007/el-espejo-europeo-en-listas-de-espera-pacientes-con-derecho-elegir-hospital-medicion-demoras-desde-la-prescripcion-medica/354906_0.html"
-    },
-    {
-      "titular": "Cataluña democratizará el acceso a datos sanitarios, acelerando los resultados de investigación e innovación",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-07T18:37:30+02:00",
-      "enlace": "https://www.redaccionmedica.com/autonomias/catalunya/20261007/cataluna-democratizara-el-acceso-datos-sanitarios-acelerando-los-resultados-de-investigacion-innovacion/360928_0.html"
+      "fecha": "2026-10-07T20:05:09+02:00",
+      "enlace": "https://diariofarma.com/2026/10/07/29n-monica-garcia-ofrece-a-colau-ser-candidata-nacional-de-frente-amplio-a-ada-colau-y-se-reseva-el-liderato-de-madrid"
     },
     {
       "titular": "Farmacéuticos y médicos de familia buscan reforzar la coordinación en el seguimiento del paciente",
@@ -32,13 +23,22 @@
       "enlace": "https://elglobalfarma.com/farmacia/farmaceuticos-medicos-familia-reforzar-coordinacion-seguimiento-paciente/"
     },
     {
-      "titular": "29N: el PP añadirá la ‘A’ de acceso al plan de innovación en el programa sanitario de Feijóo",
+      "titular": "El espejo europeo en listas de espera: pacientes con derecho a elegir hospital y medición de demoras desde la prescripción médica",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-07T18:44:05+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20261007/el-espejo-europeo-en-listas-de-espera-pacientes-con-derecho-elegir-hospital-medicion-demoras-desde-la-prescripcion-medica/354906_0.html"
+    },
+    {
+      "titular": "Puig Junoy diseña una respuesta al MFN que preserve los recursos destinados a salud",
       "medios": [
         "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-10-07T16:59:48+02:00",
-      "enlace": "https://diariofarma.com/2026/10/07/29n-el-pp-anadira-la-a-de-acceso-a-la-innovacion-en-el-programa-sanitario-de-feijoo"
+      "fecha": "2026-10-07T19:41:07+02:00",
+      "enlace": "https://diariofarma.com/2026/10/07/puig-junoy-disena-una-respuesta-al-mfn-que-preserve-los-recursos-destinados-a-salud"
     },
     {
       "titular": "Sefync celebra en Toledo su primer Congreso de Farmacia y Nutrición Comunitaria",
@@ -50,22 +50,22 @@
       "enlace": "https://elglobalfarma.com/farmacia/sefync-celebra-toledo-primer-congreso-farmacia-nutricion-comunitaria/"
     },
     {
-      "titular": "La SEHH pide más unidades de aféresis para frenar la dependencia de plasma de EEUU",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-07T12:33:11+02:00",
-      "enlace": "https://diariofarma.com/2026/10/07/la-sehh-pide-mas-unidades-de-aferesis-para-frenar-la-dependencia-de-plasma-de-eeuu"
-    },
-    {
-      "titular": "\"Las administraciones infravaloran la voluntad de una sociedad que exige el cumplimiento de las leyes de protección animal\"",
+      "titular": "Mónica García cede a Ada Colau la cabeza de lista para las elecciones generales",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-10-07T18:09:08+02:00",
-      "enlace": "https://www.redaccionmedica.com/salud-animal/20261007/las-administraciones-infravaloran-la-voluntad-de-una-sociedad-que-exige-el-cumplimiento-las-leyes-proteccion-animal/360918_0.html"
+      "fecha": "2026-10-07T17:43:47+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/ministerio-sanidad/20261007/monica-garcia-cede-ada-colau-la-cabeza-de-lista-para-las-elecciones-generales/354938_0.html"
+    },
+    {
+      "titular": "Las farmacias sevillanas y el ayuntamiento se unen en la prevención frente al virus del Nilo",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-07T19:30:06+02:00",
+      "enlace": "https://diariofarma.com/2026/10/07/las-farmacias-sevillanas-y-el-ayuntamiento-se-unen-en-la-prevencion-frente-al-virus-del-nilo"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 25,
+    "antiguedad_minima_min": 98,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 129,
+        "antiguedad_min": 244,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 81,
+        "antiguedad_min": 381,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 29,
         "error": null,
-        "antiguedad_min": 25,
+        "antiguedad_min": 98,
         "descartados_por_gancho": 1
       },
       {

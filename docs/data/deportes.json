@@ -1,26 +1,17 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "ultimas",
-  "generado": "2026-10-07T19:09:21+02:00",
+  "modo": "portadas",
+  "generado": "2026-10-08T00:09:19+02:00",
   "titulares": [
     {
-      "titular": "Crítica unánime a Vicente Vallés por lo que ha dicho en 'Antena 3 Noticias'",
+      "titular": "El emotivo mensaje de Cristiano Ronaldo a Leo Messi: no tiene desperdicio",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-07T18:56:43+02:00",
-      "enlace": "https://www.mundodeportivo.com/elotromundo/television/20261007/1004235907/critica-unanime-vicente-valles-dicho-antena-3-noticias-separar-informacion-opinion-primero-carrera-dct.html"
-    },
-    {
-      "titular": "Kang-in apaga las luces de alarma por su tobillo: \"No es grave\"",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-07T18:44:18+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20261007/1004235912/kang-in-apaga-luces-alarma-tobillo-no-grave.html"
+      "fecha": "2026-10-07T20:39:52+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/internacional/20261007/1004235942/emotivo-mensaje-cristiano-ronaldo-leo-messi-no-desperdicio.html"
     },
     {
       "titular": "Las mayores polémicas de Cristiano Ronaldo en su carrera: Rooney, Mou, Benítez...",
@@ -32,6 +23,15 @@
       "enlace": "https://www.marca.com/futbol/2026/10/02/mayores-polemicas-cristiano-ronaldo-carrera-rooney-mou-benitez.html"
     },
     {
+      "titular": "Olmo conoce el interés del Bayern, pero no hay oferta por él",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-07T17:19:17+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261007/1004235878/alemania-dicen-bayern-prepara-oferton-dani-olmo.html"
+    },
+    {
       "titular": "El deseo de Joao Félix: \"Le encantaría volver al Barça\"",
       "medios": [
         "Marca"
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/radio/2026/10/02/moretto-desvela-deseo-joao-felix-le-encantaria-volver-barca.html"
     },
     {
-      "titular": "\"Ronaldo es Cristiano y Messi es Dios\": Argentina se rinde a su leyenda",
+      "titular": "La reacción de Arturo Vidal ante el 'caso Cristiano': \"Es una vergüenza\"",
       "medios": [
-        "Mundo Deportivo"
+        "Marca"
       ],
       "consenso": 1,
-      "fecha": "2026-10-07T18:32:37+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/internacional/20261007/1004235911/ronaldo-cristiano-messi-dios-argentina-rinde-leyenda.html"
+      "fecha": "2026-10-02T12:27:56+02:00",
+      "enlace": "https://www.marca.com/futbol/nations-league/2026/10/02/reaccion-arturo-vidal-caso-cristiano-vergueenza.html"
     },
     {
-      "titular": "Juan Tello, tras quedarse fuera del Mundial: \"Creo que tengo el nivel para estar y estoy triste por ello, toca seguir\"",
+      "titular": "MARCA Pádel crece: ficha a Mónica Montes y Adrián Illescas para completar un equipazo",
       "medios": [
-        "Mundo Deportivo"
+        "Marca"
       ],
       "consenso": 1,
-      "fecha": "2026-10-07T18:30:11+02:00",
-      "enlace": "https://www.mundodeportivo.com/padel/mas-padel/20261007/1004235906/juan-tello-quedarse-fuera-mundial-creo-nivel-triste-toca-seguir.html"
+      "fecha": "2026-10-02T12:22:15+02:00",
+      "enlace": "https://www.marca.com/padel/2026/10/02/marca-padel-crece-ficha-adrian-illescas-monica-montes-completar-equipazo.html"
     },
     {
-      "titular": "HBO anuncia el estreno de su nueva miniserie: tiene 8 episodios y es una precuela basada en una de las sagas más famosas",
+      "titular": "Croacia-España: A sellar el pase a cuartos",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-07T18:18:09+02:00",
-      "enlace": "https://www.mundodeportivo.com/elotromundo/television/20261007/1004235903/hbo-max-anuncia-estreno-nueva-miniserie-8-episodios-precuela-basada-sagas-famosas-tvp-dct.html"
+      "fecha": "2026-10-06T07:00:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/seleccion-espanola/20261006/1004235102/croacia-espana-sellar-pase-cuartos.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 12,
+    "antiguedad_minima_min": 35,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 67,
         "error": null,
-        "antiguedad_min": 7590,
+        "antiguedad_min": 7890,
         "descartados_por_gancho": 4
       },
       {
@@ -99,9 +99,9 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 142,
+        "items": 137,
         "error": null,
-        "antiguedad_min": 12,
+        "antiguedad_min": 35,
         "descartados_por_gancho": 6
       },
       {
