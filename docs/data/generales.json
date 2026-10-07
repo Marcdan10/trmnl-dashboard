@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-10-07T01:29:58+02:00",
+  "generado": "2026-10-07T04:38:54+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -32,13 +32,13 @@
       "enlace": "https://www.lavanguardia.com/politica/20261006/11652725/puigdemont-aguardara-archivo-causa-supremo-volver-catalunya.html"
     },
     {
-      "titular": "Ícaro Sinner quiso acercarse demasiado veloz al sol",
+      "titular": "Messi se despide de la selección en Buenos Aires entre fuegos artificiales y lágrimas con el himno",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-10-07T01:29:18+02:00",
-      "enlace": "https://www.abc.es/deportes/tenis/doctor-ripoll-icaro-sinner-quiso-acercarse-veloz-sol-20261006010502-nt.html"
+      "fecha": "2026-10-07T02:59:57+02:00",
+      "enlace": "https://www.abc.es/deportes/futbol/messi-despide-seleccion-buenos-aires-fuegos-artificiales-20261007025818-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -50,13 +50,15 @@
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
     },
     {
-      "titular": "El Constitucional ordena al Supremo que amnistíe la malversación del ‘procés’",
+      "titular": "Aida dos Santos, Premio Nacional de Ensayo 2026 por 'Hijas del hormigón'",
       "medios": [
-        "El País"
+        "El País",
+        "La Vanguardia",
+        "ABC"
       ],
-      "consenso": 1,
-      "fecha": "2026-10-06T13:57:43+02:00",
-      "enlace": "https://elpais.com/espana/2026-10-06/via-libre-al-regreso-de-puigdemont-el-constitucional-ordena-al-supremo-que-amnistie-la-malversacion-del-proces.html"
+      "consenso": 3,
+      "fecha": "2026-10-07T01:31:30+02:00",
+      "enlace": "https://www.abc.es/cultura/libros/aida-dos-santos-premio-nacional-ensayo-2026-20261006153147-nt.html"
     },
     {
       "titular": "El juez Llarena deja sin efecto la orden de detención de Puigdemont",
@@ -74,7 +76,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 0,
+    "antiguedad_minima_min": 36,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +84,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2275224,
+        "antiguedad_min": 2275413,
         "descartados_por_gancho": 0
       },
       {
@@ -99,16 +101,16 @@
         "ok": true,
         "items": 156,
         "error": null,
-        "antiguedad_min": 48,
+        "antiguedad_min": 237,
         "descartados_por_gancho": 5
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 143,
+        "items": 139,
         "error": null,
-        "antiguedad_min": 59,
+        "antiguedad_min": 36,
         "descartados_por_gancho": 9
       },
       {
@@ -117,7 +119,7 @@
         "ok": true,
         "items": 24,
         "error": null,
-        "antiguedad_min": 0,
+        "antiguedad_min": 98,
         "descartados_por_gancho": 1
       }
     ]
