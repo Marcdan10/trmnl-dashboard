@@ -1,71 +1,71 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "portadas",
-  "generado": "2026-10-07T11:38:44+02:00",
+  "modo": "ultimas",
+  "generado": "2026-10-07T19:09:20+02:00",
   "titulares": [
     {
-      "titular": "Santander, BBVA, CaixaBank y Sabadell exigen resultados a la IA",
+      "titular": "Los agentes de IA podrían costar a los bancos 500.000 millones de dólares",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-07T02:24:04+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/10/07/6ac52efae5fdea985e8b457f.html"
+      "fecha": "2026-10-07T18:58:30+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/10/07/6ac67947468aeb3a4b8b4577.html"
     },
     {
-      "titular": "Cómo queda el calendario de Verifactu y de la factura electrónica para empresas y autónomos",
+      "titular": "Sapa quintuplicó su beneficio neto en 2025 tras vender el 8,3% de Tess Defence a Indra por 33,74 millones",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-07T00:01:13+02:00",
-      "enlace": "https://www.expansion.com/fiscal/2026/10/07/6ac52d5a468aebc94e8b4579.html"
+      "fecha": "2026-10-07T18:01:18+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/10/07/6ac66c5b468aebc7188b4576.html"
     },
     {
-      "titular": "Guía para inquilinos y caseros: así queda regulado el mercado del alquiler desde mañana",
+      "titular": "Cómo Norman Foster convirtió el estudio de arquitectura clásico en una firma global",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-07T11:16:07+02:00",
-      "enlace": "https://www.expansion.com/inmobiliario/mercado/2026/10/07/6ac60a80468aebfe198b4570.html"
+      "fecha": "2026-10-07T17:58:36+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/10/07/6ac66c26468aebde538b4570.html"
     },
     {
-      "titular": "PSOE y PP se disputarán 50.000 millones del Ibex",
+      "titular": "El Ibex cae hasta los 19.100 puntos con la corrección de la banca",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-07T02:24:02+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/10/07/6ac55df6e5fdea47018b4581.html"
+      "fecha": "2026-10-07T17:41:16+02:00",
+      "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/10/07/6ac5ded0468aebbf758b4594.html"
     },
     {
-      "titular": "La oferta de alquiler se desploma: España pierde casi 400.000 viviendas desde 2018",
+      "titular": "Un impuesto a los oligarcas de California transformaría a Estados Unidos",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-07T09:38:09+02:00",
-      "enlace": "https://www.expansion.com/inmobiliario/mercado/2026/10/07/6ac5f6ae468aebd45c8b45bd.html"
+      "fecha": "2026-10-07T16:16:20+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/10/07/6ac6528b468aeb042b8b4583.html"
     },
     {
-      "titular": "Cómo puede estallar en Bolsa la gran 'burbuja de los beneficios'",
+      "titular": "Telefónica amplía el patrocinio del O2 Arena en Londres por 230 millones",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-06T20:31:49+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/10/06/6ac5197e468aeb82268b456d.html"
+      "fecha": "2026-10-07T16:08:33+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/10/07/6ac62aee468aeb0d578b4589.html"
     },
     {
-      "titular": "Cómo funciona la nueva cuenta europea de inversión",
+      "titular": "¿Durante cuánto tiempo más podrá el mundo absorber el shock de Irán?",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-07T09:25:14+02:00",
-      "enlace": "https://www.expansion.com/inversion/2026/10/07/6ac5edebe5fdea1c418b459e.html"
+      "fecha": "2026-10-07T15:53:58+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/10/07/6ac64d92468aeb3a4b8b456d.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 22,
+    "antiguedad_minima_min": 10,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 75,
+        "items": 77,
         "error": null,
-        "antiguedad_min": 22,
+        "antiguedad_min": 10,
         "descartados_por_gancho": 0
       },
       {
