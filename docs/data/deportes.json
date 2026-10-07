@@ -2,16 +2,16 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-10-07T04:39:00+02:00",
+  "generado": "2026-10-07T11:38:46+02:00",
   "titulares": [
     {
-      "titular": "Messi se va a lo grande: un último baile con gol, asistencias y emoción",
+      "titular": "El brutal discurso de Messi: \"Quizás el día más triste de mi carrera\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-07T03:50:40+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/internacional/20261007/1004235619/messi-despide-grande-ultimo-baile-gol-asistencias-emocion.html"
+      "fecha": "2026-10-07T04:20:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/internacional/20261007/1004235621/brutal-discurso-messi-quizas-dia-triste-mi-carrera.html"
     },
     {
       "titular": "Las mayores polémicas de Cristiano Ronaldo en su carrera: Rooney, Mou, Benítez...",
@@ -23,13 +23,13 @@
       "enlace": "https://www.marca.com/futbol/2026/10/02/mayores-polemicas-cristiano-ronaldo-carrera-rooney-mou-benitez.html"
     },
     {
-      "titular": "El brutal discurso de Messi: \"Quizás el día más triste de mi carrera\"",
+      "titular": "Enzo Fernández, desconsolado en el discurso de Messi",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-07T04:20:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/internacional/20261007/1004235621/brutal-discurso-messi-quizas-dia-triste-mi-carrera.html"
+      "fecha": "2026-10-07T11:19:36+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/copa-intercontinental/20261007/1004235704/enzo-fernandez-desconsolado-discurso-messi.html"
     },
     {
       "titular": "El deseo de Joao Félix: \"Le encantaría volver al Barça\"",
@@ -41,13 +41,13 @@
       "enlace": "https://www.marca.com/radio/2026/10/02/moretto-desvela-deseo-joao-felix-le-encantaria-volver-barca.html"
     },
     {
-      "titular": "Piel de gallina: así fue el emocionante último himno de Messi con Argentina",
+      "titular": "Messi se va a lo grande: un último baile con gol, asistencias y emoción",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-07T02:04:52+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/internacional/20261007/1004235618/piel-gallina-asi-emocionante-ultimo-himno-messi-argentina.html"
+      "fecha": "2026-10-07T03:50:40+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/internacional/20261007/1004235619/messi-despide-grande-ultimo-baile-gol-asistencias-emocion.html"
     },
     {
       "titular": "La reacción de Arturo Vidal ante el 'caso Cristiano': \"Es una vergüenza\"",
@@ -59,13 +59,13 @@
       "enlace": "https://www.marca.com/futbol/nations-league/2026/10/02/reaccion-arturo-vidal-caso-cristiano-vergueenza.html"
     },
     {
-      "titular": "1-2: Otra vez Merino para meter a España en cuartos",
+      "titular": "Cautela con Raphinha y Joan Garcia",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-06T22:36:56+02:00",
-      "enlace": "https://www.mundodeportivo.com/seleccion-espanola/20261006/1004235548/vez-merino-rescate-meter-espana-cuartos.html"
+      "fecha": "2026-10-07T05:00:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261007/1004235537/cautela-raphinha-joan-garcia.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 18,
+    "antiguedad_minima_min": 19,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 67,
         "error": null,
-        "antiguedad_min": 6720,
+        "antiguedad_min": 7140,
         "descartados_por_gancho": 4
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 137,
+        "items": 135,
         "error": null,
-        "antiguedad_min": 18,
-        "descartados_por_gancho": 6
+        "antiguedad_min": 19,
+        "descartados_por_gancho": 7
       },
       {
         "medio": "Sport",
