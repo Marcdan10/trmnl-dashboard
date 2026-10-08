@@ -2,8 +2,44 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "portadas",
-  "generado": "2026-10-08T00:09:17+02:00",
+  "generado": "2026-10-08T04:09:28+02:00",
   "titulares": [
+    {
+      "titular": "Nuevo marco para la vivienda: así queda el mercado residencial tras la entrada en vigor del decreto",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-08T03:15:58+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/10/08/6ac684e9e5fdeac01c8b45ac.html"
+    },
+    {
+      "titular": "El fondo USS ficha a Deutsche Bank para decidir el futuro de Redexis",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-08T03:15:59+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/10/08/6ac6849ee5fdea167f8b4589.html"
+    },
+    {
+      "titular": "El presidente de Burger King negocia aliarse con Galán y Costa para pujar por el grupo",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-08T03:16:00+02:00",
+      "enlace": "https://www.expansion.com/empresas/distribucion/2026/10/08/6ac6acc8e5fdea18358b457c.html"
+    },
+    {
+      "titular": "Aena pausa su crecimiento en Brasil tras incorporar Río-Galeão",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-08T03:18:46+02:00",
+      "enlace": "https://www.expansion.com/empresas/transporte/2026/10/08/6ac68e07468aeb25488b457e.html"
+    },
     {
       "titular": "Muere Maricarmen, la mujer de 87 años desahuciada en Madrid que avivó las protestas",
       "medios": [
@@ -14,58 +50,22 @@
       "enlace": "https://www.expansion.com/sociedad/2026/10/07/muere-maricarmen-mujer-87-anos-desahuciada-madrid-avivo-protestas.html"
     },
     {
-      "titular": "Yolanda Díaz pisa el acelerador para anunciar la subida del salario mínimo de 2027 antes de las elecciones",
+      "titular": "Tres valores del Ibex que pueden ser movidos por las 'midterms' de EEUU",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-07T20:02:50+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/10/07/6ac6883b468aebdf468b4575.html"
+      "fecha": "2026-10-08T00:13:11+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/10/08/6ac674abe5fdea53778b459f.html"
     },
     {
-      "titular": "Guía para inquilinos y caseros: así queda regulado el mercado del alquiler desde mañana",
+      "titular": "La banca española teje alianzas con Silicon Valley para la nueva era de la IA",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-07T11:16:07+02:00",
-      "enlace": "https://www.expansion.com/inmobiliario/mercado/2026/10/07/6ac60a80468aebfe198b4570.html"
-    },
-    {
-      "titular": "El presidente de Sabadell consigue su escudo anti-opas hostiles",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-07T02:24:08+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/10/07/6ac53618e5fdea244d8b4587.html"
-    },
-    {
-      "titular": "Cómo queda el calendario de Verifactu y de la factura electrónica para empresas y autónomos",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-07T00:01:13+02:00",
-      "enlace": "https://www.expansion.com/fiscal/2026/10/07/6ac52d5a468aebc94e8b4579.html"
-    },
-    {
-      "titular": "Cómo puede estallar en Bolsa la gran 'burbuja de los beneficios'",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-06T20:31:49+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/10/06/6ac5197e468aeb82268b456d.html"
-    },
-    {
-      "titular": "Cómo funciona la nueva cuenta europea de inversión",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-07T09:25:14+02:00",
-      "enlace": "https://www.expansion.com/inversion/2026/10/07/6ac5edebe5fdea1c418b459e.html"
+      "fecha": "2026-10-08T00:10:10+02:00",
+      "enlace": "https://www.expansion.com/empresas/banca/2026/10/08/6ac6b852e5fdea47018b45b9.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 161,
+    "antiguedad_minima_min": 46,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 77,
+        "items": 67,
         "error": null,
-        "antiguedad_min": 161,
+        "antiguedad_min": 46,
         "descartados_por_gancho": 0
       },
       {

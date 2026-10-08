@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-10-08T00:09:14+02:00",
+  "generado": "2026-10-08T04:09:24+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -32,13 +32,13 @@
       "enlace": "https://www.lavanguardia.com/vida/20261007/11653690/muere-maricarmen-hospital-permanecia-ingresada-87-anos.html"
     },
     {
-      "titular": "EE.UU. ultima nuevos cargos contra Maduro por las torturas a estadounidenses",
+      "titular": "La muerte de Maricarmen convulsiona el inicio de la precampaña del 29-N",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-10-07T23:38:27+02:00",
-      "enlace": "https://www.abc.es/internacional/eeuu-ultima-nuevos-cargos-maduro-torturas-estadounidenses-20261006233158-nt.html"
+      "fecha": "2026-10-08T02:29:30+02:00",
+      "enlace": "https://www.abc.es/espana/muerte-maricarmen-convulsiona-inicio-precampana-29n-20261007214107-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -50,22 +50,22 @@
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
     },
     {
-      "titular": "Última hora tras la muerte de Maricarmen, en directo|Feijóo pide que no se haga una “utilización interesada” de la muerte de Maricarmen",
+      "titular": "Última hora tras la muerte de Maricarmen, en directo | Feijóo pide que no se haga una “utilización interesada” de la muerte de Maricarmen",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-07T23:38:03+02:00",
+      "fecha": "2026-10-08T00:38:40+02:00",
       "enlace": "https://elpais.com/espana/2026-10-07/ultima-hora-de-las-elecciones-generales-en-directo.html"
     },
     {
-      "titular": "Los acampados en Sol marchan hacia el Congreso en homenaje a Maricarmen: “No son muertes, son asesinatos”",
+      "titular": "Pedro Sánchez, ante la muerte de Maricarmen: “Un abrazo a los que sentimos esta pérdida como propia”",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-10-07T22:05:09+02:00",
-      "enlace": "https://www.lavanguardia.com/vida/20261007/11653717/acampados-sol-marchan-congreso-homenaje-maricarmen-son-muertos-son-asesinatos.html"
+      "fecha": "2026-10-07T23:37:50+02:00",
+      "enlace": "https://www.lavanguardia.com/vida/20261007/11653731/pedro-sanchez-muerte-maricarmen-abrazo-sentimos-perdida-propia.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 27,
+    "antiguedad_minima_min": 70,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2276584,
+        "antiguedad_min": 2276824,
         "descartados_por_gancho": 0
       },
       {
@@ -97,19 +97,19 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 159,
+        "items": 158,
         "error": null,
-        "antiguedad_min": 27,
+        "antiguedad_min": 70,
         "descartados_por_gancho": 8
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 136,
+        "items": 138,
         "error": null,
-        "antiguedad_min": 64,
-        "descartados_por_gancho": 10
+        "antiguedad_min": 219,
+        "descartados_por_gancho": 6
       },
       {
         "medio": "ABC",
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 24,
         "error": null,
-        "antiguedad_min": 30,
+        "antiguedad_min": 99,
         "descartados_por_gancho": 1
       }
     ]
