@@ -1,71 +1,71 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "portadas",
-  "generado": "2026-10-08T11:15:50+02:00",
+  "modo": "ultimas",
+  "generado": "2026-10-08T18:42:54+02:00",
   "titulares": [
     {
-      "titular": "Nuevo marco para la vivienda: así queda el mercado residencial tras la entrada en vigor del decreto",
+      "titular": "El Ibex pierde los 19.000 puntos y cae a mínimos desde junio",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-08T10:06:04+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/10/08/6ac684e9e5fdeac01c8b45ac.html"
+      "fecha": "2026-10-08T17:41:25+02:00",
+      "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/10/08/6ac73088468aeb496d8b456d.html"
     },
     {
-      "titular": "El Gobierno aprueba la 'Ley Ferrovial' para que el Ibex pueda cotizar en Nueva York",
+      "titular": "Ana I. Pereda, ganadora del IX Premio de Periodismo Económico Rosa del Río",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-08T10:00:06+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/10/08/6ac74d6ae5fdea1c358b45a8.html"
+      "fecha": "2026-10-08T17:20:31+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/10/08/6ac7afe6468aebe1418b457a.html"
     },
     {
-      "titular": "Gregorio Jiménez negocia aliarse con las familias Galán y Costa para pujar por Burger King",
+      "titular": "Google presenta su propio agente de IA para empresas",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-08T03:16:00+02:00",
-      "enlace": "https://www.expansion.com/empresas/distribucion/2026/10/08/6ac6acc8e5fdea18358b457c.html"
+      "fecha": "2026-10-08T16:54:40+02:00",
+      "enlace": "https://www.expansion.com/tecnologia/2026/10/08/google-presenta-propio-agente-ia-empresas.html"
     },
     {
-      "titular": "Aena pausa su crecimiento en Brasil tras incorporar Río-Galeão",
+      "titular": "¿Cuál es el precio real del petróleo?",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-08T03:18:46+02:00",
-      "enlace": "https://www.expansion.com/empresas/transporte/2026/10/08/6ac68e07468aeb25488b457e.html"
+      "fecha": "2026-10-08T16:43:46+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/10/08/6ac7abf6e5fdeab1258b45ad.html"
     },
     {
-      "titular": "Cuánto puede ahorrar un casero en el IRPF si baja el alquiler un 5%",
+      "titular": "Yolanda Díaz da menos de un mes a los expertos para fijar la subida del salario mínimo de 2027",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-08T00:49:59+02:00",
-      "enlace": "https://www.expansion.com/fiscal/2026/10/08/6ac67561468aebb44c8b4571.html"
+      "fecha": "2026-10-08T15:40:42+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/10/08/6ac79902e5fdea56578b45b6.html"
     },
     {
-      "titular": "Tres valores del Ibex que pueden ser movidos por las 'midterms' de EEUU",
+      "titular": "Securitize lanza desde hoy las acciones tokenizadas de 12 gigantes de Wall Street",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-08T00:13:11+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/10/08/6ac674abe5fdea53778b459f.html"
+      "fecha": "2026-10-08T15:27:38+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/10/08/6ac7930ee5fdeab6128b4580.html"
     },
     {
-      "titular": "La banca española teje alianzas con Silicon Valley para la nueva era de la IA",
+      "titular": "Feijóo nombra a Miguel Tellado como director de campaña y se rodea de su núcleo duro",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-08T00:10:10+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/10/08/6ac6b852e5fdea47018b45b9.html"
+      "fecha": "2026-10-08T15:26:38+02:00",
+      "enlace": "https://www.expansion.com/elecciones/elecciones-generales/2026/10/08/6ac79a0d468aeb19768b4588.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 14,
+    "antiguedad_minima_min": 61,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 72,
+        "items": 76,
         "error": null,
-        "antiguedad_min": 14,
+        "antiguedad_min": 61,
         "descartados_por_gancho": 0
       },
       {

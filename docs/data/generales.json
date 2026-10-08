@@ -1,9 +1,63 @@
 {
   "pantalla": "generales",
   "titulo": "Titulares",
-  "modo": "portadas",
-  "generado": "2026-10-08T11:15:46+02:00",
+  "modo": "ultimas",
+  "generado": "2026-10-08T18:42:50+02:00",
   "titulares": [
+    {
+      "titular": "Maricarmen y las elecciones del 29-N, en directo | La dirección de ERC prepara el escenario de una candidatura sin Rufián",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-08T18:28:26+02:00",
+      "enlace": "https://elpais.com/espana/2026-10-08/reacciones-tras-la-muerte-de-maricarmen-y-ultima-hora-de-las-elecciones-del-29-n-en-directo.html"
+    },
+    {
+      "titular": "Detenido un cuarto implicado en el tiroteo contra dos guardias civiles en Terrassa",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-08T18:26:38+02:00",
+      "enlace": "https://elpais.com/espana/catalunya/2026-10-08/detenido-un-cuarto-implicado-en-el-tiroteo-contra-dos-guardias-civiles-en-terrassa.html"
+    },
+    {
+      "titular": "EE.UU. amplía la causa contra Maduro al acusarle de torturas y crímenes de lesa humanidad",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-08T18:24:54+02:00",
+      "enlace": "https://www.abc.es/internacional/eeuu-amplia-causa-maduro-acusarle-torturas-crimenes-20261008172342-nt.html"
+    },
+    {
+      "titular": "La española Ai Tsunoda, oro mundial en Bakú",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-08T18:21:57+02:00",
+      "enlace": "https://www.abc.es/deportes/tsunoda-logra-sexto-oro-mundial-historia-judo-20261008165850-nt.html"
+    },
+    {
+      "titular": "Nicolas Winding Refn: “Tuve que morir para recuperar las ganas de crear”",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-08T17:31:05+02:00",
+      "enlace": "https://www.lavanguardia.com/cultura/20261008/11654396/nicolas-winding-refn-tuve-morir-recuperar-ganas-crear.html"
+    },
+    {
+      "titular": "Ceferin optará a un último mandato en la UEFA",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-08T17:30:05+02:00",
+      "enlace": "https://www.lavanguardia.com/deportes/futbol/20261008/11654451/ceferin-optara-ultimo-mandato-uefa.html"
+    },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
       "medios": [
@@ -12,62 +66,6 @@
       "consenso": 1,
       "fecha": "2022-06-10T01:05:00+02:00",
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
-    },
-    {
-      "titular": "Maricarmen y las elecciones del 29-N, en directo | El PP veta sendos minutos de silencio por la muerte de Maricarmen en el Ayuntamiento y la Asamblea de Madrid",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-08T11:05:45+02:00",
-      "enlace": "https://elpais.com/espana/2026-10-08/reacciones-tras-la-muerte-de-maricarmen-y-ultima-hora-de-las-elecciones-del-29-n-en-directo.html"
-    },
-    {
-      "titular": "Choque en el pleno de la Asamblea de Madrid tras la muerte de Maricarmen",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-08T08:43:32+02:00",
-      "enlace": "https://www.lavanguardia.com/local/madrid/20261008/11653948/ayuso-almeida-vetan-minuto-silencio-maricarmen-plenos-institucionales.html"
-    },
-    {
-      "titular": "Ada Colau, de votar 'sí' a la independencia de Cataluña a ser candidata a posible presidenta del Gobierno",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-08T10:55:48+02:00",
-      "enlace": "https://www.abc.es/espana/segunda-vida-politica-ada-colau-desahucios-candidata-20261007165103-nt.html"
-    },
-    {
-      "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
-      "medios": [
-        "RTVE"
-      ],
-      "consenso": 1,
-      "fecha": "2022-06-10T00:03:00+02:00",
-      "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
-    },
-    {
-      "titular": "Muere Xosé Manuel Beiras, histórico dirigente del nacionalismo gallego",
-      "medios": [
-        "El País",
-        "La Vanguardia",
-        "ABC"
-      ],
-      "consenso": 3,
-      "fecha": "2026-10-08T10:15:32+02:00",
-      "enlace": "https://www.abc.es/espana/galicia/muere-xose-manuel-beiras-historico-dirigente-nacionalismo-20261008085614-nt.html"
-    },
-    {
-      "titular": "Muere Maricarmen, símbolo de la lucha antidesahucios, a los 87 años",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-07T20:32:12+02:00",
-      "enlace": "https://www.lavanguardia.com/vida/20261007/11653690/muere-maricarmen-hospital-permanecia-ingresada-87-anos.html"
     }
   ],
   "salud": {
@@ -76,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 10,
+    "antiguedad_minima_min": 14,
     "detalle": [
       {
         "medio": "RTVE",
@@ -84,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2277250,
+        "antiguedad_min": 2277697,
         "descartados_por_gancho": 0
       },
       {
@@ -99,19 +97,19 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 142,
+        "items": 151,
         "error": null,
-        "antiguedad_min": 10,
-        "descartados_por_gancho": 5
+        "antiguedad_min": 14,
+        "descartados_por_gancho": 3
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 121,
+        "items": 132,
         "error": null,
-        "antiguedad_min": 55,
-        "descartados_por_gancho": 12
+        "antiguedad_min": 71,
+        "descartados_por_gancho": 14
       },
       {
         "medio": "ABC",
@@ -119,7 +117,7 @@
         "ok": true,
         "items": 24,
         "error": null,
-        "antiguedad_min": 19,
+        "antiguedad_min": 17,
         "descartados_por_gancho": 1
       }
     ]
