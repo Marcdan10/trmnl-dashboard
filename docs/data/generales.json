@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-10-08T04:09:24+02:00",
+  "generado": "2026-10-08T11:15:46+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -14,31 +14,31 @@
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
     },
     {
-      "titular": "Muere Maricarmen, la mujer que encendió la lucha contra los desahucios en España",
+      "titular": "Maricarmen y las elecciones del 29-N, en directo | El PP veta sendos minutos de silencio por la muerte de Maricarmen en el Ayuntamiento y la Asamblea de Madrid",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-07T20:42:08+02:00",
-      "enlace": "https://elpais.com/espana/2026-10-07/muere-maricarmen-la-mujer-que-encendio-la-lucha-contra-los-desahucios-en-espana.html"
+      "fecha": "2026-10-08T11:05:45+02:00",
+      "enlace": "https://elpais.com/espana/2026-10-08/reacciones-tras-la-muerte-de-maricarmen-y-ultima-hora-de-las-elecciones-del-29-n-en-directo.html"
     },
     {
-      "titular": "Muere Maricarmen, símbolo de la lucha antidesahucios",
+      "titular": "Choque en el pleno de la Asamblea de Madrid tras la muerte de Maricarmen",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-10-07T20:32:12+02:00",
-      "enlace": "https://www.lavanguardia.com/vida/20261007/11653690/muere-maricarmen-hospital-permanecia-ingresada-87-anos.html"
+      "fecha": "2026-10-08T08:43:32+02:00",
+      "enlace": "https://www.lavanguardia.com/local/madrid/20261008/11653948/ayuso-almeida-vetan-minuto-silencio-maricarmen-plenos-institucionales.html"
     },
     {
-      "titular": "La muerte de Maricarmen convulsiona el inicio de la precampaña del 29-N",
+      "titular": "Ada Colau, de votar 'sí' a la independencia de Cataluña a ser candidata a posible presidenta del Gobierno",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-10-08T02:29:30+02:00",
-      "enlace": "https://www.abc.es/espana/muerte-maricarmen-convulsiona-inicio-precampana-29n-20261007214107-nt.html"
+      "fecha": "2026-10-08T10:55:48+02:00",
+      "enlace": "https://www.abc.es/espana/segunda-vida-politica-ada-colau-desahucios-candidata-20261007165103-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -50,22 +50,24 @@
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
     },
     {
-      "titular": "Última hora tras la muerte de Maricarmen, en directo | Feijóo pide que no se haga una “utilización interesada” de la muerte de Maricarmen",
+      "titular": "Muere Xosé Manuel Beiras, histórico dirigente del nacionalismo gallego",
       "medios": [
-        "El País"
+        "El País",
+        "La Vanguardia",
+        "ABC"
       ],
-      "consenso": 1,
-      "fecha": "2026-10-08T00:38:40+02:00",
-      "enlace": "https://elpais.com/espana/2026-10-07/ultima-hora-de-las-elecciones-generales-en-directo.html"
+      "consenso": 3,
+      "fecha": "2026-10-08T10:15:32+02:00",
+      "enlace": "https://www.abc.es/espana/galicia/muere-xose-manuel-beiras-historico-dirigente-nacionalismo-20261008085614-nt.html"
     },
     {
-      "titular": "Pedro Sánchez, ante la muerte de Maricarmen: “Un abrazo a los que sentimos esta pérdida como propia”",
+      "titular": "Muere Maricarmen, símbolo de la lucha antidesahucios, a los 87 años",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-10-07T23:37:50+02:00",
-      "enlace": "https://www.lavanguardia.com/vida/20261007/11653731/pedro-sanchez-muerte-maricarmen-abrazo-sentimos-perdida-propia.html"
+      "fecha": "2026-10-07T20:32:12+02:00",
+      "enlace": "https://www.lavanguardia.com/vida/20261007/11653690/muere-maricarmen-hospital-permanecia-ingresada-87-anos.html"
     }
   ],
   "salud": {
@@ -74,7 +76,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 70,
+    "antiguedad_minima_min": 10,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +84,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2276824,
+        "antiguedad_min": 2277250,
         "descartados_por_gancho": 0
       },
       {
@@ -97,19 +99,19 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 158,
+        "items": 142,
         "error": null,
-        "antiguedad_min": 70,
-        "descartados_por_gancho": 8
+        "antiguedad_min": 10,
+        "descartados_por_gancho": 5
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 138,
+        "items": 121,
         "error": null,
-        "antiguedad_min": 219,
-        "descartados_por_gancho": 6
+        "antiguedad_min": 55,
+        "descartados_por_gancho": 12
       },
       {
         "medio": "ABC",
@@ -117,7 +119,7 @@
         "ok": true,
         "items": 24,
         "error": null,
-        "antiguedad_min": 99,
+        "antiguedad_min": 19,
         "descartados_por_gancho": 1
       }
     ]

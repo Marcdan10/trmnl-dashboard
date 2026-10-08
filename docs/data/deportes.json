@@ -2,17 +2,8 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-10-08T04:09:30+02:00",
+  "generado": "2026-10-08T11:15:51+02:00",
   "titulares": [
-    {
-      "titular": "El emotivo mensaje de Cristiano Ronaldo a Leo Messi: no tiene desperdicio",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-07T20:39:52+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/internacional/20261007/1004235942/emotivo-mensaje-cristiano-ronaldo-leo-messi-no-desperdicio.html"
-    },
     {
       "titular": "Las mayores polémicas de Cristiano Ronaldo en su carrera: Rooney, Mou, Benítez...",
       "medios": [
@@ -23,13 +14,13 @@
       "enlace": "https://www.marca.com/futbol/2026/10/02/mayores-polemicas-cristiano-ronaldo-carrera-rooney-mou-benitez.html"
     },
     {
-      "titular": "Olmo conoce el interés del Bayern, pero no hay oferta por él",
+      "titular": "Al nuevo formato de MotoGP para 2027 le ha salido el gran detractor: Marc Márquez",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-07T17:19:17+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261007/1004235878/alemania-dicen-bayern-prepara-oferton-dani-olmo.html"
+      "fecha": "2026-10-08T10:41:15+02:00",
+      "enlace": "https://www.mundodeportivo.com/motor/motogp/20261008/1004236079/nuevo-formato-grandes-premios-motogp-2027-le-salido-gran-detractor-marc-marquez.html"
     },
     {
       "titular": "El deseo de Joao Félix: \"Le encantaría volver al Barça\"",
@@ -39,6 +30,15 @@
       "consenso": 1,
       "fecha": "2026-10-02T12:38:11+02:00",
       "enlace": "https://www.marca.com/radio/2026/10/02/moretto-desvela-deseo-joao-felix-le-encantaria-volver-barca.html"
+    },
+    {
+      "titular": "Los motivos por los que Arsenal, Chelsea y City rechazaron a Olise",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-08T07:00:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/bundesliga/20261008/1004236011/motivos-arsenal-chelsea-city-rechazaron-olise.html"
     },
     {
       "titular": "La reacción de Arturo Vidal ante el 'caso Cristiano': \"Es una vergüenza\"",
@@ -59,13 +59,13 @@
       "enlace": "https://www.marca.com/padel/2026/10/02/marca-padel-crece-ficha-adrian-illescas-monica-montes-completar-equipazo.html"
     },
     {
-      "titular": "Croacia-España: A sellar el pase a cuartos",
+      "titular": "David Silva da un nombre para el Balón de Oro y advierte al Real Madrid",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-06T07:00:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/seleccion-espanola/20261006/1004235102/croacia-espana-sellar-pase-cuartos.html"
+      "fecha": "2026-10-08T07:41:57+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/balon-oro/20261008/1004236024/david-silva-da-nombre-balon-oro-advierte-real-madrid.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 247,
+    "antiguedad_minima_min": 32,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 67,
         "error": null,
-        "antiguedad_min": 8131,
+        "antiguedad_min": 8557,
         "descartados_por_gancho": 4
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 137,
+        "items": 131,
         "error": null,
-        "antiguedad_min": 247,
-        "descartados_por_gancho": 6
+        "antiguedad_min": 32,
+        "descartados_por_gancho": 4
       },
       {
         "medio": "Sport",

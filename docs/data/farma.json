@@ -2,8 +2,26 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "portadas",
-  "generado": "2026-10-08T04:09:35+02:00",
+  "generado": "2026-10-08T11:16:16+02:00",
   "titulares": [
+    {
+      "titular": "La integración de la IA en farmacia y sanidad exige mantener la dimensión humana",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-08T11:04:09+02:00",
+      "enlace": "https://diariofarma.com/2026/10/08/la-integracion-de-la-ia-en-farmacia-y-sanidad-exige-mantener-la-dimension-humana"
+    },
+    {
+      "titular": "Sanidad desconvoca el Interterritorial dedicado al RD de Listas de Espera por el adelanto electoral",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-08T10:22:41+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/ministerio-sanidad/20261008/sanidad-desconvoca-el-interterritorial-dedicado-al-rd-de-listas-espera-por-adelanto-electoral/360976_0.html"
+    },
     {
       "titular": "29N: Mónica García ofrece a Colau ser candidata nacional de Frente Amplio y se reseva el liderato de Madrid",
       "medios": [
@@ -14,22 +32,13 @@
       "enlace": "https://diariofarma.com/2026/10/07/29n-monica-garcia-ofrece-a-colau-ser-candidata-nacional-de-frente-amplio-a-ada-colau-y-se-reseva-el-liderato-de-madrid"
     },
     {
-      "titular": "Farmacéuticos y médicos de familia buscan reforzar la coordinación en el seguimiento del paciente",
-      "medios": [
-        "El Global"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-07T17:47:42+02:00",
-      "enlace": "https://elglobalfarma.com/farmacia/farmaceuticos-medicos-familia-reforzar-coordinacion-seguimiento-paciente/"
-    },
-    {
-      "titular": "El espejo europeo en listas de espera: pacientes con derecho a elegir hospital y medición de demoras desde la prescripción médica",
+      "titular": "La Red Española de Terapias Avanzadas enarbola su análisis experto para sobrevivir ante Certera",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-10-07T18:44:05+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20261007/el-espejo-europeo-en-listas-de-espera-pacientes-con-derecho-elegir-hospital-medicion-demoras-desde-la-prescripcion-medica/354906_0.html"
+      "fecha": "2026-10-08T05:07:00+02:00",
+      "enlace": "https://www.redaccionmedica.com/innovacion/20261008/la-red-espanola-de-terapias-avanzadas-enarbola-su-analisis-experto-para-sobrevivir-ante-certera/360912_0.html"
     },
     {
       "titular": "Puig Junoy diseña una respuesta al MFN que preserve los recursos destinados a salud",
@@ -41,22 +50,13 @@
       "enlace": "https://diariofarma.com/2026/10/07/puig-junoy-disena-una-respuesta-al-mfn-que-preserve-los-recursos-destinados-a-salud"
     },
     {
-      "titular": "Sefync celebra en Toledo su primer Congreso de Farmacia y Nutrición Comunitaria",
-      "medios": [
-        "El Global"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-07T16:30:50+02:00",
-      "enlace": "https://elglobalfarma.com/farmacia/sefync-celebra-toledo-primer-congreso-farmacia-nutricion-comunitaria/"
-    },
-    {
-      "titular": "Mónica García cede a Ada Colau la cabeza de lista para las elecciones generales",
+      "titular": "Muere Xosé Manuel Beiras, el histórico dirigente del BNG que ideó una Hacienda propia para financiar la sanidad",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-10-07T17:43:47+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/ministerio-sanidad/20261007/monica-garcia-cede-ada-colau-la-cabeza-de-lista-para-las-elecciones-generales/354938_0.html"
+      "fecha": "2026-10-08T10:58:20+02:00",
+      "enlace": "https://www.redaccionmedica.com/autonomias/galicia/20261008/muere-xose-manuel-beiras-el-historico-dirigente-del-bng-que-ideo-una-hacienda-propia-para-financiar-la-sanidad/360970_0.html"
     },
     {
       "titular": "Las farmacias sevillanas y el ayuntamiento se unen en la prevención frente al virus del Nilo",
@@ -70,13 +70,14 @@
   ],
   "salud": {
     "feeds_totales": 7,
-    "feeds_ok": 4,
+    "feeds_ok": 3,
     "feeds_caidos": [
+      "El Global",
       "PMFarma",
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 338,
+    "antiguedad_minima_min": 11,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,26 +85,25 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 484,
+        "antiguedad_min": 11,
         "descartados_por_gancho": 0
       },
       {
         "medio": "El Global",
         "url": "https://elglobal.es/feed/",
-        "ok": true,
-        "items": 10,
-        "error": null,
-        "antiguedad_min": 621,
-        "descartados_por_gancho": 0
+        "ok": false,
+        "items": 0,
+        "error": "URLError: <urlopen error timed out>",
+        "antiguedad_min": null
       },
       {
         "medio": "Redacción Médica",
         "url": "https://www.redaccionmedica.com/rss/",
         "ok": true,
-        "items": 29,
+        "items": 30,
         "error": null,
-        "antiguedad_min": 338,
-        "descartados_por_gancho": 1
+        "antiguedad_min": 17,
+        "descartados_por_gancho": 0
       },
       {
         "medio": "PMFarma",
