@@ -2,25 +2,43 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "ultimas",
-  "generado": "2026-10-08T18:43:03+02:00",
+  "generado": "2026-10-08T23:42:53+02:00",
   "titulares": [
     {
-      "titular": "Europa hará permanente el asesoramiento de ACT EU para ensayos clínicos en 2027",
+      "titular": "Jon Iñaki Betolaza se jubila tras casi 14 años al frente de la Farmacia del País Vasco",
       "medios": [
         "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-10-08T18:27:01+02:00",
-      "enlace": "https://diariofarma.com/2026/10/08/europa-hara-permanente-el-asesoramiento-de-act-eu-para-ensayos-clinicos-en-2027"
+      "fecha": "2026-10-08T20:18:00+02:00",
+      "enlace": "https://diariofarma.com/2026/10/08/jon-inaki-betolaza-se-jubila-tras-casi-14-anos-al-frente-de-la-farmacia-del-pais-vasco"
     },
     {
-      "titular": "El exceso de mortalidad de los virus respiratorios repunta un 7,6% en pleno pico del covid",
+      "titular": "Sanidad confía en que el papel de la Aesap quede al margen de los cambios políticos",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-08T19:56:44+02:00",
+      "enlace": "https://diariofarma.com/2026/10/08/sanidad-confia-en-el-papel-de-la-aesap-quede-al-margen-de-los-cambios-politicos"
+    },
+    {
+      "titular": "El calor extremo eleva un 5% el riesgo de parto prematuro por cada grado de temperatura",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-10-08T17:57:27+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20261008/el-exceso-de-mortalidad-los-virus-respiratorios-repunta-un-en-pleno-pico-del-covid/361110_0.html"
+      "fecha": "2026-10-08T19:25:18+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/internacional/20261008/el-calor-extremo-eleva-un-el-riesgo-de-parto-prematuro-por-cada-grado-temperatura/361137_0.html"
+    },
+    {
+      "titular": "Una nueva variante del Shamonda circula ya en España: primeros casos en una granja de Cantabria",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-08T18:49:53+02:00",
+      "enlace": "https://www.redaccionmedica.com/salud-animal/20261008/una-nueva-variante-del-shamonda-circula-ya-en-espana-primeros-casos-una-granja-de-cantabria/361133_0.html"
     },
     {
       "titular": "Nuevas farmacias: así avanzan los últimos concursos de apertura en las distintas comunidades",
@@ -32,24 +50,6 @@
       "enlace": "https://elglobalfarma.com/farmacia/farmacias-concursos-apertura-nuevos/"
     },
     {
-      "titular": "El tercer sindicato médico nace con una huelga en 'stand by': \"Defenderemos la estrategia que consideremos oportuna\"",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-08T17:44:52+02:00",
-      "enlace": "https://www.redaccionmedica.com/profesionales/medicina/20261008/el-tercer-sindicato-medico-nace-con-una-huelga-en-stand-by-defenderemos-la-estrategia-que-consideremos-oportuna/361054_0.html"
-    },
-    {
-      "titular": "Jiménez: “No luchamos por los resultados, sino por cumplir los estatutos del Micof\"",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-08T17:36:11+02:00",
-      "enlace": "https://diariofarma.com/2026/10/08/juventino-jimenez-no-luchamos-ya-por-los-resultados-sino-por-el-cumplimiento-de-los-estatutos-del-micof"
-    },
-    {
       "titular": "Europa reduce la brecha en el acceso a la innovación oncológica, pero aún persisten grandes diferencias entre países",
       "medios": [
         "El Global"
@@ -59,13 +59,13 @@
       "enlace": "https://elglobalfarma.com/industria/europa-brecha-acceso-innovacion-oncologica/"
     },
     {
-      "titular": "España excluye tres presentaciones de Ozempic de la financiación pública porque hay \"otras alternativas disponibles\"",
+      "titular": "“No pedimos un sitio para el FAP, queremos demostrar qué problemas podemos resolver”",
       "medios": [
-        "Redacción Médica"
+        "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-10-08T17:27:13+02:00",
-      "enlace": "https://www.redaccionmedica.com/empresas/industria-farmaceutica/20261008/espana-excluye-tres-presentaciones-de-ozempic-la-financiacion-publica-porque-hay-otras-alternativas-disponibles/361101_0.html"
+      "fecha": "2026-10-08T19:14:36+02:00",
+      "enlace": "https://diariofarma.com/2026/10/08/no-pedimos-un-sitio-para-el-fap-queremos-demostrar-que-problemas-podemos-resolver"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 15,
+    "antiguedad_minima_min": 204,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 15,
+        "antiguedad_min": 204,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 57,
+        "antiguedad_min": 357,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 45,
+        "antiguedad_min": 257,
         "descartados_por_gancho": 0
       },
       {

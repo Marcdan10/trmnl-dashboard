@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-10-08T18:42:56+02:00",
+  "generado": "2026-10-08T23:42:48+02:00",
   "titulares": [
     {
-      "titular": "La última baja abre la puerta a un nuevo debutante del Barça en la Champions",
+      "titular": "Pedro Martínez: \"Era importante ganar confianza, pero hay que pasar página rápido\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-08T18:23:23+02:00",
-      "enlace": "https://www.mundodeportivo.com/balonmano/20261008/1004236262/ultima-baja-abre-puerta-nuevo-debutante-barca-champions.html"
+      "fecha": "2026-10-08T23:26:34+02:00",
+      "enlace": "https://www.mundodeportivo.com/baloncesto/euroliga/20261008/1004236374/pedro-martinez-importante-ganar-confianza-hay-pasar-pagina-rapido.html"
     },
     {
-      "titular": "Pere Romeu: \"Flick me mandó un mensaje antes del Barça-Madrid\"",
+      "titular": "Robert, propietario de un piso alquilado: \"Desde hace 3 años intentamos venderlo. Paga 450€, no se lo hemos revisado nunca y pagamos luz, gas e IBI\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-08T18:17:18+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261008/1004236256/pere-romeu-flick-me-mando-mensaje-barca-madrid.html"
+      "fecha": "2026-10-08T23:22:09+02:00",
+      "enlace": "https://www.mundodeportivo.com/tressesenta/20261008/1004236371/robert-propietario-piso-alquilado-3-anos-intentamos-venderlo-avisamos-inquilina-no-hay-buena-fe-paga-450-euros-no-hemos-revisado-nunca-pagamos-luz-gas-e-ibi-dct.html"
     },
     {
       "titular": "Mourinho y la lentitud del 'caso City': \"Tendremos que tener suerte de seguir aquí cuando llegue la sentencia\"",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/espanyol/2026/10/08/manolo-gonzalez-fuerte-convencido-darle-vuelta-esto.html"
     },
     {
-      "titular": "La opinión de Mou sobre el 'Caso City' con recado al Barça: \"Estuve en Madrid durante el 'Caso Negreira'\"",
+      "titular": "93-82: El Valencia Basket iguala su mejor arranque en Euroliga",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-08T18:15:36+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20261008/1004236263/opinion-mou-sobre-caso-city-recado-barca-estuve-madrid-anos-caso-negreira.html"
+      "fecha": "2026-10-08T23:08:52+02:00",
+      "enlace": "https://www.mundodeportivo.com/baloncesto/euroliga/20261008/1004236367/93-82.html"
     },
     {
-      "titular": "\"El descubridor del Titanic aseguraba que debajo del año de flotación habían hallado orificios muy grandes\"",
+      "titular": "Tras Ceferin, Infantino se queda sin otro rival para la reelección",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-08T18:11:08+02:00",
-      "enlace": "https://www.mundodeportivo.com/actualidad/20261008/1004236226/lorenzo-fernandez-historiador-descubridor-titanic-aseguraba-debajo-ano-flotacion-habian-encontrado-serie-orificios-grandes-hubiera-producido-detonacion-interior-smd-hst.html"
+      "fecha": "2026-10-08T22:54:06+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/internacional/20261008/1004236366/ceferin-infantino-queda-rival-reeleccion.html"
     },
     {
-      "titular": "\"Es la primera vez en mi carrera que me lesiono más de diez días\"",
+      "titular": "La Selección femenina sigue con su preparación en Washington",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-08T18:07:54+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/deportivo-coruna/20261008/1004236258/primera-vez-me-lesiono-diez-dias-mi-carrera.html"
+      "fecha": "2026-10-08T22:53:23+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/femenino/seleccion-espanola/20261008/1004236364/seleccion-femenina-sigue-preparacion-washington.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 19,
+    "antiguedad_minima_min": 16,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 64,
         "error": null,
-        "antiguedad_min": 167,
+        "antiguedad_min": 467,
         "descartados_por_gancho": 7
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 130,
+        "items": 133,
         "error": null,
-        "antiguedad_min": 19,
-        "descartados_por_gancho": 6
+        "antiguedad_min": 16,
+        "descartados_por_gancho": 7
       },
       {
         "medio": "Sport",

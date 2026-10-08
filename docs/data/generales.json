@@ -2,61 +2,63 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-10-08T18:42:50+02:00",
+  "generado": "2026-10-08T23:42:44+02:00",
   "titulares": [
     {
-      "titular": "Maricarmen y las elecciones del 29-N, en directo | La dirección de ERC prepara el escenario de una candidatura sin Rufián",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-08T18:28:26+02:00",
-      "enlace": "https://elpais.com/espana/2026-10-08/reacciones-tras-la-muerte-de-maricarmen-y-ultima-hora-de-las-elecciones-del-29-n-en-directo.html"
-    },
-    {
-      "titular": "Detenido un cuarto implicado en el tiroteo contra dos guardias civiles en Terrassa",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-08T18:26:38+02:00",
-      "enlace": "https://elpais.com/espana/catalunya/2026-10-08/detenido-un-cuarto-implicado-en-el-tiroteo-contra-dos-guardias-civiles-en-terrassa.html"
-    },
-    {
-      "titular": "EE.UU. amplía la causa contra Maduro al acusarle de torturas y crímenes de lesa humanidad",
+      "titular": "Julián Quirós: «Hay un amplio espacio político que prefiere que estén los suyos, aunque hayan robado, a que estén los otros»",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-10-08T18:24:54+02:00",
-      "enlace": "https://www.abc.es/internacional/eeuu-amplia-causa-maduro-acusarle-torturas-crimenes-20261008172342-nt.html"
+      "fecha": "2026-10-08T23:26:32+02:00",
+      "enlace": "https://www.abc.es/sevilla/cultura/julian-quiros-amplio-espacio-politico-prefiere-suyos-20261008223528-nts.html"
     },
     {
-      "titular": "La española Ai Tsunoda, oro mundial en Bakú",
+      "titular": "Lista de premios de Lotería Nacional del jueves 8 de octubre",
+      "medios": [
+        "El País",
+        "ABC"
+      ],
+      "consenso": 2,
+      "fecha": "2026-10-08T23:05:03+02:00",
+      "enlace": "https://www.abc.es/loterias/loteria-nacional/loteria-nacional-hoy-jueves-directo-comprobar-resultados-numeros-sorteo-20261008193000-di.html"
+    },
+    {
+      "titular": "Hallan los cuerpos de un hombre y una mujer con indicios de muerte violenta en Valverde de Júcar",
+      "medios": [
+        "La Vanguardia",
+        "ABC"
+      ],
+      "consenso": 2,
+      "fecha": "2026-10-08T22:59:52+02:00",
+      "enlace": "https://www.abc.es/espana/castilla-la-mancha/hallan-cuerpos-hombre-mujer-indicios-muerte-violenta-20261008222549-nt.html"
+    },
+    {
+      "titular": "La cronología del caso de Christa Pike y su ejecución fallida",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-08T22:58:39+02:00",
+      "enlace": "https://elpais.com/us/2026-10-08/la-cronologia-del-caso-de-christa-pike-y-su-ejecucion-fallida.html"
+    },
+    {
+      "titular": "El Madrid al fin aterriza en la Euroliga",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-10-08T18:21:57+02:00",
-      "enlace": "https://www.abc.es/deportes/tsunoda-logra-sexto-oro-mundial-historia-judo-20261008165850-nt.html"
+      "fecha": "2026-10-08T22:57:25+02:00",
+      "enlace": "https://www.abc.es/deportes/baloncesto/madrid-fin-aterriza-euroliga-20261008224601-nt.html"
     },
     {
-      "titular": "Nicolas Winding Refn: “Tuve que morir para recuperar las ganas de crear”",
+      "titular": "Endesa da por superadas las averías provocadas por las lluvias",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-10-08T17:31:05+02:00",
-      "enlace": "https://www.lavanguardia.com/cultura/20261008/11654396/nicolas-winding-refn-tuve-morir-recuperar-ganas-crear.html"
-    },
-    {
-      "titular": "Ceferin optará a un último mandato en la UEFA",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-08T17:30:05+02:00",
-      "enlace": "https://www.lavanguardia.com/deportes/futbol/20261008/11654451/ceferin-optara-ultimo-mandato-uefa.html"
+      "fecha": "2026-10-08T21:02:19+02:00",
+      "enlace": "https://www.lavanguardia.com/local/barcelona/20261008/11654589/endesa-da-superadas-averias-provocadas-lluvias-dias.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -74,7 +76,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 14,
+    "antiguedad_minima_min": 16,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +84,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2277697,
+        "antiguedad_min": 2277997,
         "descartados_por_gancho": 0
       },
       {
@@ -97,9 +99,9 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 151,
+        "items": 153,
         "error": null,
-        "antiguedad_min": 14,
+        "antiguedad_min": 44,
         "descartados_por_gancho": 3
       },
       {
@@ -108,8 +110,8 @@
         "ok": true,
         "items": 132,
         "error": null,
-        "antiguedad_min": 71,
-        "descartados_por_gancho": 14
+        "antiguedad_min": 126,
+        "descartados_por_gancho": 13
       },
       {
         "medio": "ABC",
@@ -117,7 +119,7 @@
         "ok": true,
         "items": 24,
         "error": null,
-        "antiguedad_min": 17,
+        "antiguedad_min": 16,
         "descartados_por_gancho": 1
       }
     ]
