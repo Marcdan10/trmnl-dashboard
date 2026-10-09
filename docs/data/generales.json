@@ -2,62 +2,63 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-10-09T17:26:13+02:00",
+  "generado": "2026-10-09T22:12:23+02:00",
   "titulares": [
     {
-      "titular": "Lleno en Valencia para ver a Morante y Roca Rey",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-09T17:19:55+02:00",
-      "enlace": "https://www.abc.es/cultura/toros/toros-morante-puebla-roca-rey-tomas-rufo-valencia-hoy-directo-20261009144205-di.html"
-    },
-    {
-      "titular": "Ismael Galancho: «Aumentar la proteína tiene sus beneficios en estos contextos»",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-09T17:18:01+02:00",
-      "enlace": "https://www.abc.es/bienestar/ismael-galancho-nutricionista-messi-exceso-proteina-puede-20261009180000-nt.html"
-    },
-    {
-      "titular": "La Administración de Trump sanciona al Tribunal Penal Internacional horas después del Nobel de la Paz a una de sus exjuezas",
+      "titular": "Un terremoto de magnitud 7,7 sacude Panamá",
       "medios": [
         "El País",
+        "La Vanguardia",
         "ABC"
       ],
-      "consenso": 2,
-      "fecha": "2026-10-09T17:17:00+02:00",
-      "enlace": "https://elpais.com/internacional/2026-10-09/la-administracion-de-trump-impone-sanciones-el-tribunal-penal-internacional.html"
+      "consenso": 3,
+      "fecha": "2026-10-09T22:05:30+02:00",
+      "enlace": "https://elpais.com/america/2026-10-09/un-terremoto-de-76-sacude-a-panama.html"
     },
     {
-      "titular": "Landaluce reta al PP al decidir presentarse a las municipales pese a una nueva denuncia de abuso sexual",
+      "titular": "Trump anuncia un acuerdo con Putin para que EE.UU. reciba diésel de Rusia",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-09T21:43:59+02:00",
+      "enlace": "https://www.abc.es/internacional/trump-acuerda-putin-rusia-suministrara-cinco-millones-20261009210508-nt.html"
+    },
+    {
+      "titular": "Euromillones: comprobar sorteo del viernes 9 de octubre",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-09T17:04:52+02:00",
-      "enlace": "https://elpais.com/espana/2026-10-09/landaluce-reta-al-pp-al-decidir-presentarse-a-las-municipales-pese-a-una-nueva-denuncia-de-abuso-sexual.html"
+      "fecha": "2026-10-09T21:40:56+02:00",
+      "enlace": "https://elpais.com/sorteos/2026-10-09/euromillones-sorteo-del-viernes-9-de-octubre.html"
     },
     {
-      "titular": "La Casa Blanca impone sanciones contra La Haya después del Nobel a su antigua jueza",
+      "titular": "Llega hoy a Netflix la serie basada en la vida de Raphael: está protagonizada por Carlos Santos y tiene ocho episodios",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-09T21:28:58+02:00",
+      "enlace": "https://www.abc.es/play/series/noticias/llega-hoy-netflix-serie-basada-vida-raphael-20261009200611-nt.html"
+    },
+    {
+      "titular": "Centenares de personas se movilizan en Barcelona para “acabar con el negocio inmobiliario”",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-10-09T17:02:16+02:00",
-      "enlace": "https://www.lavanguardia.com/internacional/20261009/11655400/casa-blanca-impone-sanciones-tribunal-haya-nobel-antigua-jueza.html"
+      "fecha": "2026-10-09T20:57:34+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20261009/11655540/centenares-personas-movilizan-barcelona-acabar-negocio-inmobiliario.html"
     },
     {
-      "titular": "Argentina aprueba construir una base militar naval a 700 kilómetros de las Malvinas",
+      "titular": "Polanski, del partido Verde, no logra convertirse en el Mamdani británico",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-10-09T16:35:15+02:00",
-      "enlace": "https://www.lavanguardia.com/internacional/20261009/11655376/argentina-aprueba-construir-base-militar-naval-700-kilometros-malvinas.html"
+      "fecha": "2026-10-09T20:41:26+02:00",
+      "enlace": "https://www.lavanguardia.com/internacional/20261009/11655536/polanski-partido-verde-logra-convertirse-mamdani-britanico.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -83,7 +84,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2279061,
+        "antiguedad_min": 2279347,
         "descartados_por_gancho": 0
       },
       {
@@ -100,17 +101,17 @@
         "ok": true,
         "items": 147,
         "error": null,
-        "antiguedad_min": 9,
+        "antiguedad_min": 6,
         "descartados_por_gancho": 7
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 126,
+        "items": 129,
         "error": null,
-        "antiguedad_min": 23,
-        "descartados_por_gancho": 18
+        "antiguedad_min": 74,
+        "descartados_por_gancho": 17
       },
       {
         "medio": "ABC",
@@ -118,7 +119,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 6,
+        "antiguedad_min": 28,
         "descartados_por_gancho": 0
       }
     ]
