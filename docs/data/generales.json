@@ -1,9 +1,64 @@
 {
   "pantalla": "generales",
   "titulo": "Titulares",
-  "modo": "portadas",
-  "generado": "2026-10-09T10:18:38+02:00",
+  "modo": "ultimas",
+  "generado": "2026-10-09T17:26:13+02:00",
   "titulares": [
+    {
+      "titular": "Lleno en Valencia para ver a Morante y Roca Rey",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-09T17:19:55+02:00",
+      "enlace": "https://www.abc.es/cultura/toros/toros-morante-puebla-roca-rey-tomas-rufo-valencia-hoy-directo-20261009144205-di.html"
+    },
+    {
+      "titular": "Ismael Galancho: «Aumentar la proteína tiene sus beneficios en estos contextos»",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-09T17:18:01+02:00",
+      "enlace": "https://www.abc.es/bienestar/ismael-galancho-nutricionista-messi-exceso-proteina-puede-20261009180000-nt.html"
+    },
+    {
+      "titular": "La Administración de Trump sanciona al Tribunal Penal Internacional horas después del Nobel de la Paz a una de sus exjuezas",
+      "medios": [
+        "El País",
+        "ABC"
+      ],
+      "consenso": 2,
+      "fecha": "2026-10-09T17:17:00+02:00",
+      "enlace": "https://elpais.com/internacional/2026-10-09/la-administracion-de-trump-impone-sanciones-el-tribunal-penal-internacional.html"
+    },
+    {
+      "titular": "Landaluce reta al PP al decidir presentarse a las municipales pese a una nueva denuncia de abuso sexual",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-09T17:04:52+02:00",
+      "enlace": "https://elpais.com/espana/2026-10-09/landaluce-reta-al-pp-al-decidir-presentarse-a-las-municipales-pese-a-una-nueva-denuncia-de-abuso-sexual.html"
+    },
+    {
+      "titular": "La Casa Blanca impone sanciones contra La Haya después del Nobel a su antigua jueza",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-09T17:02:16+02:00",
+      "enlace": "https://www.lavanguardia.com/internacional/20261009/11655400/casa-blanca-impone-sanciones-tribunal-haya-nobel-antigua-jueza.html"
+    },
+    {
+      "titular": "Argentina aprueba construir una base militar naval a 700 kilómetros de las Malvinas",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-09T16:35:15+02:00",
+      "enlace": "https://www.lavanguardia.com/internacional/20261009/11655376/argentina-aprueba-construir-base-militar-naval-700-kilometros-malvinas.html"
+    },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
       "medios": [
@@ -12,60 +67,6 @@
       "consenso": 1,
       "fecha": "2022-06-10T01:05:00+02:00",
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
-    },
-    {
-      "titular": "El PP y Vox mantienen la mayoría absoluta tras el adelanto electoral",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-09T05:30:01+02:00",
-      "enlace": "https://elpais.com/espana/2026-10-09/el-pp-y-vox-mantienen-la-mayoria-absoluta-tras-el-adelanto-electoral.html"
-    },
-    {
-      "titular": "ERC estudia un plan B por si Rufián decide renunciar a ser el candidato republicano",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-09T06:00:00+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20261009/11654557/erc-baraja-plan-b-rufian-descarta-candidato-29-n.html"
-    },
-    {
-      "titular": "Sebastián Yatra niega haber sido infiel a Aitana y zanja la polémica: «Son mentiras»",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-09T10:04:31+02:00",
-      "enlace": "https://www.abc.es/gente/sebastian-yatra-niega-haber-infiel-aitana-zanja-20261009100430-nt.html"
-    },
-    {
-      "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
-      "medios": [
-        "RTVE"
-      ],
-      "consenso": 1,
-      "fecha": "2022-06-10T00:03:00+02:00",
-      "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
-    },
-    {
-      "titular": "¿Remonta la izquierda? No en la primera encuesta",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-09T05:30:01+02:00",
-      "enlace": "https://elpais.com/espana/2026-10-09/remontada-la-primera-encuesta-tras-la-convocatoria-no-la-ve.html"
-    },
-    {
-      "titular": "La vía Colau en las elecciones acerca posiciones a la izquierda del PSOE pero no a Podemos",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-09T06:00:00+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20261009/11654551/colau-acerca-posiciones-izquierda-psoe.html"
     }
   ],
   "salud": {
@@ -74,7 +75,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 7,
+    "antiguedad_minima_min": 6,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +83,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2278633,
+        "antiguedad_min": 2279061,
         "descartados_por_gancho": 0
       },
       {
@@ -97,18 +98,18 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 138,
+        "items": 147,
         "error": null,
-        "antiguedad_min": 7,
+        "antiguedad_min": 9,
         "descartados_por_gancho": 7
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 116,
+        "items": 126,
         "error": null,
-        "antiguedad_min": 32,
+        "antiguedad_min": 23,
         "descartados_por_gancho": 18
       },
       {
@@ -117,7 +118,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 14,
+        "antiguedad_min": 6,
         "descartados_por_gancho": 0
       }
     ]

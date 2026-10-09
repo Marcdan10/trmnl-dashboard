@@ -1,62 +1,17 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "portadas",
-  "generado": "2026-10-09T10:18:42+02:00",
+  "modo": "ultimas",
+  "generado": "2026-10-09T17:26:17+02:00",
   "titulares": [
     {
-      "titular": "Telefónica pone en venta su 'fiberco' en Chile por hasta 1.800 millones",
+      "titular": "El primer tren bala de India tropieza con las desavenencias con su socio japonés",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-09T02:26:03+02:00",
-      "enlace": "https://www.expansion.com/empresas/telecomunicaciones/2026/10/09/6ac7fe69468aeb3f108b4583.html"
-    },
-    {
-      "titular": "CaixaBank acapara el 56% de todo lo que ganan los bancos en seguros",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-09T02:26:04+02:00",
-      "enlace": "https://www.expansion.com/empresas/seguros/2026/10/09/6ac7e657468aeba6098b4587.html"
-    },
-    {
-      "titular": "La Primera de Expansión sobre MG, BYD, CaixaBank, OpenAI, Telefónica, KKR y SoftBank",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-09T07:20:07+02:00",
-      "enlace": "https://www.expansion.com/podcasts/la-primera-de-expansion/2026/10/09/6ac87943468aeb577d8b4588.html"
-    },
-    {
-      "titular": "Así funciona la nueva calculadora del alquiler para saber cuánto puede subir el casero la renta",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-09T09:55:07+02:00",
-      "enlace": "https://www.expansion.com/inmobiliario/mercado/2026/10/09/6ac89dd8468aebdd218b458e.html"
-    },
-    {
-      "titular": "Cuál es el nivel de la prima de riesgo de Francia que arrastra a toda Europa",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-09T02:26:24+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/10/09/6ac7b65c468aeba5098b4577.html"
-    },
-    {
-      "titular": "La Costa del Sol alcanza los 40.000 euros/m2: así es la oferta que atrae a un comprador global",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-09T00:26:29+02:00",
-      "enlace": "https://www.expansion.com/inmobiliario/casas/2026/10/09/6ac78d41e5fdea293b8b4584.html"
+      "fecha": "2026-10-09T15:54:41+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/10/09/6ac8f21de5fdeafe5f8b4590.html"
     },
     {
       "titular": "El Ibex respira con el petróleo y con la deuda",
@@ -64,8 +19,53 @@
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-09T10:12:24+02:00",
+      "fecha": "2026-10-09T15:52:52+02:00",
       "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/10/09/6ac8811f468aeb820b8b4594.html"
+    },
+    {
+      "titular": "¿Cómo afectará el adelanto electoral al Ibex-35? con Antonio Castelo de IBroker",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-09T15:39:37+02:00",
+      "enlace": "https://www.expansion.com/podcasts/en-accion/2026/10/09/6ac8ce9c468aeb57208b457e.html"
+    },
+    {
+      "titular": "Las compañías de cruceros rebajan sus precios en el Caribe",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-09T14:32:58+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/10/09/6ac8ded6e5fdea1e6c8b4581.html"
+    },
+    {
+      "titular": "Banca March gana 195 millones hasta junio, el doble que un año antes, por el efecto extraordinario de CFA",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-09T14:16:27+02:00",
+      "enlace": "https://www.expansion.com/empresas/banca/2026/10/09/6ac8daa4468aebf0198b4575.html"
+    },
+    {
+      "titular": "David Ellison ha creado un coloso de Hollywood: Ahora el reto será dirigirlo",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-09T14:13:07+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/10/09/6ac8d90de5fdeabf6a8b4593.html"
+    },
+    {
+      "titular": "Ingeteam inaugura en Navarra un laboratorio de 25 millones para liderar la electrificación en Europa",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-09T13:54:52+02:00",
+      "enlace": "https://www.expansion.com/pais-vasco/2026/10/09/ingeteam-inaugura-navarra-laboratorio-25-millones-liderar-electrificacion-europa.html"
     }
   ],
   "salud": {
@@ -78,7 +78,7 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 6,
+    "antiguedad_minima_min": 91,
     "detalle": [
       {
         "medio": "Expansión",
@@ -86,7 +86,7 @@
         "ok": true,
         "items": 76,
         "error": null,
-        "antiguedad_min": 6,
+        "antiguedad_min": 91,
         "descartados_por_gancho": 1
       },
       {

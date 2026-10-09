@@ -1,17 +1,36 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "portadas",
-  "generado": "2026-10-09T10:18:44+02:00",
+  "modo": "ultimas",
+  "generado": "2026-10-09T17:26:19+02:00",
   "titulares": [
     {
-      "titular": "Todas las decisiones que debe tomar Flick ante el Getafe",
+      "titular": "A'ja Wilson gana su quinto MVP de la WNBA, tercero consecutivo",
+      "medios": [
+        "Marca",
+        "Mundo Deportivo"
+      ],
+      "consenso": 2,
+      "fecha": "2026-10-09T16:55:17+02:00",
+      "enlace": "https://www.mundodeportivo.com/baloncesto/nba/20261009/1004236664/ja-wilson-gana-quinto-mvp-wnba-tercero-consecutivo.html"
+    },
+    {
+      "titular": "Wembanyama alza la voz en favor de las protestas de estudiantes: \"Os apoyo\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-09T07:00:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261009/1004236294/todas-decisiones-debe-tomar-flick.html"
+      "fecha": "2026-10-09T16:51:02+02:00",
+      "enlace": "https://www.mundodeportivo.com/baloncesto/nba/20261009/1004236662/wembanyama-alza-voz-favor-protestas-estudiantes-apoyo.html"
+    },
+    {
+      "titular": "La impactante declaración de Sir Alex Ferguson",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-09T16:50:58+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/premier-league/20261009/1004236657/impactante-declaracion-sir-alex-ferguson.html"
     },
     {
       "titular": "Varela: \"Me pidieron que fuera a una sala, que Ancelotti quería verme y darme las gracias\"",
@@ -23,49 +42,31 @@
       "enlace": "https://www.marca.com/mundo-marca/2026/10/09/varela-me-pidieron-fuera-sala-ancelotti-queria-verme-darme-gracias.html"
     },
     {
-      "titular": "Un calendario sin respiro hasta el Clásico",
+      "titular": "La Séptima cierra el fichaje de Carla Acuña como nueva reportera a partir del 5 de noviembre",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-09T04:45:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261009/1004236363/calendario-respiro-clasico.html"
+      "fecha": "2026-10-09T16:49:40+02:00",
+      "enlace": "https://www.mundodeportivo.com/elotromundo/television/20261009/1004236655/septima-cierra-fichaje-carla-acuna-nueva-reportera-partir-5-noviembre-galeria-dct.html"
     },
     {
-      "titular": "\"Ya ha pasado un tiempo para que Alcaraz y yo podamos vernos y darnos un abrazo\"",
-      "medios": [
-        "Marca"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-09T09:01:59+02:00",
-      "enlace": "https://www.marca.com/tenis/2026/10/09/ferrero-deseo-alcaraz-pasado-podamos-vernos-darnos-abrazo.html"
-    },
-    {
-      "titular": "La Práctica del GP de Indonesia de MotoGP, en directo",
+      "titular": "Doble error de la FIA en clasificación corta: así queda la parrilla de salida de la carrera sprint del GP de Singapur de F1",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-09T08:41:36+02:00",
-      "enlace": "https://www.mundodeportivo.com/motor/motogp/20261009/1004235772/motogp-indonesia-directo-libres-1-practica-mandalika-marc-marquez-jorge-martin-bezzecchi-pedro-acosta.html"
+      "fecha": "2026-10-09T16:48:28+02:00",
+      "enlace": "https://www.mundodeportivo.com/motor/f1/20261009/1004236660/doble-error-fia-clasificacion-sprint-asi-queda-parrilla-salida-carrera-sprint-gp-singapur-f1.html"
     },
     {
-      "titular": "Atmane, a raquetazo limpio en la previa de Shanghái y no es expulsado",
-      "medios": [
-        "Marca"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-09T08:58:51+02:00",
-      "enlace": "https://www.marca.com/tenis/2026/10/09/atmane-raquetazo-limpio-previa-shanghai-expulsado.html"
-    },
-    {
-      "titular": "Precisión para dar el gran golpe",
+      "titular": "Xavi Pascual, contundente: \"Fue la peor noche de la temporada\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-09T06:20:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261009/1004236375/precision-dar-gran-golpe.html"
+      "fecha": "2026-10-09T16:46:01+02:00",
+      "enlace": "https://www.mundodeportivo.com/baloncesto/euroliga/20261009/1004236658/xavi-pascual-contundente-peor-noche-temporada.html"
     }
   ],
   "salud": {
@@ -75,7 +76,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 45,
+    "antiguedad_minima_min": 31,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +84,7 @@
         "ok": true,
         "items": 63,
         "error": null,
-        "antiguedad_min": 76,
+        "antiguedad_min": 504,
         "descartados_por_gancho": 8
       },
       {
@@ -99,10 +100,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 130,
+        "items": 132,
         "error": null,
-        "antiguedad_min": 45,
-        "descartados_por_gancho": 7
+        "antiguedad_min": 31,
+        "descartados_por_gancho": 8
       },
       {
         "medio": "Sport",
