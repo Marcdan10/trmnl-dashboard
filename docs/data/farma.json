@@ -1,8 +1,8 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "ultimas",
-  "generado": "2026-10-08T23:42:53+02:00",
+  "modo": "portadas",
+  "generado": "2026-10-09T03:38:20+02:00",
   "titulares": [
     {
       "titular": "Jon Iñaki Betolaza se jubila tras casi 14 años al frente de la Farmacia del País Vasco",
@@ -14,33 +14,6 @@
       "enlace": "https://diariofarma.com/2026/10/08/jon-inaki-betolaza-se-jubila-tras-casi-14-anos-al-frente-de-la-farmacia-del-pais-vasco"
     },
     {
-      "titular": "Sanidad confía en que el papel de la Aesap quede al margen de los cambios políticos",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-08T19:56:44+02:00",
-      "enlace": "https://diariofarma.com/2026/10/08/sanidad-confia-en-el-papel-de-la-aesap-quede-al-margen-de-los-cambios-politicos"
-    },
-    {
-      "titular": "El calor extremo eleva un 5% el riesgo de parto prematuro por cada grado de temperatura",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-08T19:25:18+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/internacional/20261008/el-calor-extremo-eleva-un-el-riesgo-de-parto-prematuro-por-cada-grado-temperatura/361137_0.html"
-    },
-    {
-      "titular": "Una nueva variante del Shamonda circula ya en España: primeros casos en una granja de Cantabria",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-08T18:49:53+02:00",
-      "enlace": "https://www.redaccionmedica.com/salud-animal/20261008/una-nueva-variante-del-shamonda-circula-ya-en-espana-primeros-casos-una-granja-de-cantabria/361133_0.html"
-    },
-    {
       "titular": "Nuevas farmacias: así avanzan los últimos concursos de apertura en las distintas comunidades",
       "medios": [
         "El Global"
@@ -50,6 +23,24 @@
       "enlace": "https://elglobalfarma.com/farmacia/farmacias-concursos-apertura-nuevos/"
     },
     {
+      "titular": "Sanidad 'acelera' para blindar normativas \"técnicas\" antes del 29 de noviembre: del fondo de cohesión a la prestación ortoprotésica",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-08T18:43:20+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/20261008/sanidad-acelera-para-blindar-normativas-tecnicas-antes-del-de-noviembre-fondo-cohesion-la-prestacion-ortoprotesica/361089_0.html"
+    },
+    {
+      "titular": "Sanidad confía en que el papel de la Aesap quede al margen de los cambios políticos",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-08T19:56:44+02:00",
+      "enlace": "https://diariofarma.com/2026/10/08/sanidad-confia-en-el-papel-de-la-aesap-quede-al-margen-de-los-cambios-politicos"
+    },
+    {
       "titular": "Europa reduce la brecha en el acceso a la innovación oncológica, pero aún persisten grandes diferencias entre países",
       "medios": [
         "El Global"
@@ -57,6 +48,15 @@
       "consenso": 1,
       "fecha": "2026-10-08T13:59:00+02:00",
       "enlace": "https://elglobalfarma.com/industria/europa-brecha-acceso-innovacion-oncologica/"
+    },
+    {
+      "titular": "El tercer sindicato médico nace con una huelga en 'stand by': \"Defenderemos la estrategia que consideremos oportuna\"",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-08T17:44:52+02:00",
+      "enlace": "https://www.redaccionmedica.com/profesionales/medicina/20261008/el-tercer-sindicato-medico-nace-con-una-huelga-en-stand-by-defenderemos-la-estrategia-que-consideremos-oportuna/361054_0.html"
     },
     {
       "titular": "“No pedimos un sitio para el FAP, queremos demostrar qué problemas podemos resolver”",
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 204,
+    "antiguedad_minima_min": 440,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 204,
+        "antiguedad_min": 440,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 357,
+        "antiguedad_min": 592,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 257,
+        "antiguedad_min": 492,
         "descartados_por_gancho": 0
       },
       {

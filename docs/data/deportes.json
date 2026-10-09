@@ -1,26 +1,17 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "ultimas",
-  "generado": "2026-10-08T23:42:48+02:00",
+  "modo": "portadas",
+  "generado": "2026-10-09T03:38:14+02:00",
   "titulares": [
     {
-      "titular": "Pedro Martínez: \"Era importante ganar confianza, pero hay que pasar página rápido\"",
+      "titular": "34-27: Sergey olvida lo de Veszprem e impulsa al Barça en la Champions",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-08T23:26:34+02:00",
-      "enlace": "https://www.mundodeportivo.com/baloncesto/euroliga/20261008/1004236374/pedro-martinez-importante-ganar-confianza-hay-pasar-pagina-rapido.html"
-    },
-    {
-      "titular": "Robert, propietario de un piso alquilado: \"Desde hace 3 años intentamos venderlo. Paga 450€, no se lo hemos revisado nunca y pagamos luz, gas e IBI\"",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-08T23:22:09+02:00",
-      "enlace": "https://www.mundodeportivo.com/tressesenta/20261008/1004236371/robert-propietario-piso-alquilado-3-anos-intentamos-venderlo-avisamos-inquilina-no-hay-buena-fe-paga-450-euros-no-hemos-revisado-nunca-pagamos-luz-gas-e-ibi-dct.html"
+      "fecha": "2026-10-08T22:25:46+02:00",
+      "enlace": "https://www.mundodeportivo.com/balonmano/20261008/1004236345/barca.html"
     },
     {
       "titular": "Mourinho y la lentitud del 'caso City': \"Tendremos que tener suerte de seguir aquí cuando llegue la sentencia\"",
@@ -32,6 +23,15 @@
       "enlace": "https://www.marca.com/futbol/real-madrid/2026/10/08/mourinho-lentitud-caso-city-tendremos-suerte-seguir-aqui-llegue-sentencia.html"
     },
     {
+      "titular": "Así queda la clasificación de la Champions: el grupo del Barça, patas arriba tras la sorpresa",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-08T23:47:47+02:00",
+      "enlace": "https://www.mundodeportivo.com/balonmano/20261008/1004236380/asi-queda-clasificacion-champions-grupo-barca-patas-sorpresa.html"
+    },
+    {
       "titular": "Manolo González: “Estoy fuerte y convencido de darle la vuelta a esto”",
       "medios": [
         "Marca"
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/espanyol/2026/10/08/manolo-gonzalez-fuerte-convencido-darle-vuelta-esto.html"
     },
     {
-      "titular": "93-82: El Valencia Basket iguala su mejor arranque en Euroliga",
+      "titular": "86-76: El Madrid logra sacarse la espina",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-08T23:08:52+02:00",
-      "enlace": "https://www.mundodeportivo.com/baloncesto/euroliga/20261008/1004236367/93-82.html"
+      "fecha": "2026-10-08T22:51:39+02:00",
+      "enlace": "https://www.mundodeportivo.com/baloncesto/euroliga/20261008/1004236365/86-76-madrid-logra-sacarse-espina.html"
     },
     {
-      "titular": "Tras Ceferin, Infantino se queda sin otro rival para la reelección",
+      "titular": "Expulsan a una empresa de una feria por usar mujeres desnudas: \"No todas las almejas son iguales\"",
       "medios": [
-        "Mundo Deportivo"
+        "Marca"
       ],
       "consenso": 1,
-      "fecha": "2026-10-08T22:54:06+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/internacional/20261008/1004236366/ceferin-infantino-queda-rival-reeleccion.html"
+      "fecha": "2026-10-08T14:45:56+02:00",
+      "enlace": "https://www.marca.com/tiramillas/sociedad/2026/10/08/conxemar-expulsa-empresa-feria-mujeres-desnudas-promocionar-productos-todas-almejas-son-iguales.html"
     },
     {
-      "titular": "La Selección femenina sigue con su preparación en Washington",
+      "titular": "Acuerdo para la renovación de Xavi Espart",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-08T22:53:23+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/femenino/seleccion-espanola/20261008/1004236364/seleccion-femenina-sigue-preparacion-washington.html"
+      "fecha": "2026-10-08T20:11:29+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261008/1004236310/acuerdo-renovacion-xavi-espart.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 16,
+    "antiguedad_minima_min": 215,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 64,
         "error": null,
-        "antiguedad_min": 467,
+        "antiguedad_min": 702,
         "descartados_por_gancho": 7
       },
       {
@@ -99,9 +99,9 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 133,
+        "items": 134,
         "error": null,
-        "antiguedad_min": 16,
+        "antiguedad_min": 215,
         "descartados_por_gancho": 7
       },
       {

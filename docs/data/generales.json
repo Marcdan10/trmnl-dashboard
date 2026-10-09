@@ -1,65 +1,9 @@
 {
   "pantalla": "generales",
   "titulo": "Titulares",
-  "modo": "ultimas",
-  "generado": "2026-10-08T23:42:44+02:00",
+  "modo": "portadas",
+  "generado": "2026-10-09T03:38:07+02:00",
   "titulares": [
-    {
-      "titular": "Julián Quirós: «Hay un amplio espacio político que prefiere que estén los suyos, aunque hayan robado, a que estén los otros»",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-08T23:26:32+02:00",
-      "enlace": "https://www.abc.es/sevilla/cultura/julian-quiros-amplio-espacio-politico-prefiere-suyos-20261008223528-nts.html"
-    },
-    {
-      "titular": "Lista de premios de Lotería Nacional del jueves 8 de octubre",
-      "medios": [
-        "El País",
-        "ABC"
-      ],
-      "consenso": 2,
-      "fecha": "2026-10-08T23:05:03+02:00",
-      "enlace": "https://www.abc.es/loterias/loteria-nacional/loteria-nacional-hoy-jueves-directo-comprobar-resultados-numeros-sorteo-20261008193000-di.html"
-    },
-    {
-      "titular": "Hallan los cuerpos de un hombre y una mujer con indicios de muerte violenta en Valverde de Júcar",
-      "medios": [
-        "La Vanguardia",
-        "ABC"
-      ],
-      "consenso": 2,
-      "fecha": "2026-10-08T22:59:52+02:00",
-      "enlace": "https://www.abc.es/espana/castilla-la-mancha/hallan-cuerpos-hombre-mujer-indicios-muerte-violenta-20261008222549-nt.html"
-    },
-    {
-      "titular": "La cronología del caso de Christa Pike y su ejecución fallida",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-08T22:58:39+02:00",
-      "enlace": "https://elpais.com/us/2026-10-08/la-cronologia-del-caso-de-christa-pike-y-su-ejecucion-fallida.html"
-    },
-    {
-      "titular": "El Madrid al fin aterriza en la Euroliga",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-08T22:57:25+02:00",
-      "enlace": "https://www.abc.es/deportes/baloncesto/madrid-fin-aterriza-euroliga-20261008224601-nt.html"
-    },
-    {
-      "titular": "Endesa da por superadas las averías provocadas por las lluvias",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-08T21:02:19+02:00",
-      "enlace": "https://www.lavanguardia.com/local/barcelona/20261008/11654589/endesa-da-superadas-averias-provocadas-lluvias-dias.html"
-    },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
       "medios": [
@@ -68,6 +12,60 @@
       "consenso": 1,
       "fecha": "2022-06-10T01:05:00+02:00",
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
+    },
+    {
+      "titular": "Una marcha en honor a Maricarmen recorre Madrid: “¡No son muertes, son asesinatos!”",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-08T22:35:39+02:00",
+      "enlace": "https://elpais.com/espana/madrid/2026-10-08/una-marcha-en-honor-a-maricarmen-recorre-madrid-no-son-muertes-son-asesinatos.html"
+    },
+    {
+      "titular": "El duelo por Maricarmen anticipa el duro choque electoral del 29-N",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-08T19:25:21+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20261008/11654533/duelo-maricarmen-anticipa-duro-choque-electoral-29-n.html"
+    },
+    {
+      "titular": "¿Cómo estás? Bien. «¿Por qué mientes si sabes que te sientes mal?»",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-09T02:57:45+02:00",
+      "enlace": "https://www.abc.es/bienestar/psicologia-sexo/bien-mientes-sabes-sientes-mal-20261008091726-nt.html"
+    },
+    {
+      "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
+      "medios": [
+        "RTVE"
+      ],
+      "consenso": 1,
+      "fecha": "2022-06-10T00:03:00+02:00",
+      "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
+    },
+    {
+      "titular": "De la Puerta del Sol a la casa de Maricarmen: así ha sido el recorrido de la marcha",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-08T22:02:20+02:00",
+      "enlace": "https://elpais.com/videos/2026-10-08/de-la-puerta-del-sol-a-la-casa-de-maricarmen-asi-ha-sido-el-recorrido-de-la-marcha.html"
+    },
+    {
+      "titular": "Tensión en el pleno de la Asamblea entre la oposición y Ayuso: “No va a haber paz en las calles de Madrid”",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-08T10:48:43+02:00",
+      "enlace": "https://www.lavanguardia.com/local/madrid/20261008/11654033/tension-pleno-asamblea-oposicion-ayuso-calle-asumanlo.html"
     }
   ],
   "salud": {
@@ -76,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 16,
+    "antiguedad_minima_min": 40,
     "detalle": [
       {
         "medio": "RTVE",
@@ -84,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2277997,
+        "antiguedad_min": 2278233,
         "descartados_por_gancho": 0
       },
       {
@@ -99,28 +97,28 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 153,
+        "items": 152,
         "error": null,
-        "antiguedad_min": 44,
+        "antiguedad_min": 279,
         "descartados_por_gancho": 3
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 132,
+        "items": 129,
         "error": null,
-        "antiguedad_min": 126,
-        "descartados_por_gancho": 13
+        "antiguedad_min": 213,
+        "descartados_por_gancho": 15
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 24,
+        "items": 25,
         "error": null,
-        "antiguedad_min": 16,
-        "descartados_por_gancho": 1
+        "antiguedad_min": 40,
+        "descartados_por_gancho": 0
       }
     ]
   }
