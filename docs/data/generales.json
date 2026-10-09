@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-10-09T03:38:07+02:00",
+  "generado": "2026-10-09T10:18:38+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -14,31 +14,31 @@
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
     },
     {
-      "titular": "Una marcha en honor a Maricarmen recorre Madrid: “¡No son muertes, son asesinatos!”",
+      "titular": "El PP y Vox mantienen la mayoría absoluta tras el adelanto electoral",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-08T22:35:39+02:00",
-      "enlace": "https://elpais.com/espana/madrid/2026-10-08/una-marcha-en-honor-a-maricarmen-recorre-madrid-no-son-muertes-son-asesinatos.html"
+      "fecha": "2026-10-09T05:30:01+02:00",
+      "enlace": "https://elpais.com/espana/2026-10-09/el-pp-y-vox-mantienen-la-mayoria-absoluta-tras-el-adelanto-electoral.html"
     },
     {
-      "titular": "El duelo por Maricarmen anticipa el duro choque electoral del 29-N",
+      "titular": "ERC estudia un plan B por si Rufián decide renunciar a ser el candidato republicano",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-10-08T19:25:21+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20261008/11654533/duelo-maricarmen-anticipa-duro-choque-electoral-29-n.html"
+      "fecha": "2026-10-09T06:00:00+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20261009/11654557/erc-baraja-plan-b-rufian-descarta-candidato-29-n.html"
     },
     {
-      "titular": "¿Cómo estás? Bien. «¿Por qué mientes si sabes que te sientes mal?»",
+      "titular": "Sebastián Yatra niega haber sido infiel a Aitana y zanja la polémica: «Son mentiras»",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-10-09T02:57:45+02:00",
-      "enlace": "https://www.abc.es/bienestar/psicologia-sexo/bien-mientes-sabes-sientes-mal-20261008091726-nt.html"
+      "fecha": "2026-10-09T10:04:31+02:00",
+      "enlace": "https://www.abc.es/gente/sebastian-yatra-niega-haber-infiel-aitana-zanja-20261009100430-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -50,22 +50,22 @@
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
     },
     {
-      "titular": "De la Puerta del Sol a la casa de Maricarmen: así ha sido el recorrido de la marcha",
+      "titular": "¿Remonta la izquierda? No en la primera encuesta",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-08T22:02:20+02:00",
-      "enlace": "https://elpais.com/videos/2026-10-08/de-la-puerta-del-sol-a-la-casa-de-maricarmen-asi-ha-sido-el-recorrido-de-la-marcha.html"
+      "fecha": "2026-10-09T05:30:01+02:00",
+      "enlace": "https://elpais.com/espana/2026-10-09/remontada-la-primera-encuesta-tras-la-convocatoria-no-la-ve.html"
     },
     {
-      "titular": "Tensión en el pleno de la Asamblea entre la oposición y Ayuso: “No va a haber paz en las calles de Madrid”",
+      "titular": "La vía Colau en las elecciones acerca posiciones a la izquierda del PSOE pero no a Podemos",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-10-08T10:48:43+02:00",
-      "enlace": "https://www.lavanguardia.com/local/madrid/20261008/11654033/tension-pleno-asamblea-oposicion-ayuso-calle-asumanlo.html"
+      "fecha": "2026-10-09T06:00:00+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20261009/11654551/colau-acerca-posiciones-izquierda-psoe.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 40,
+    "antiguedad_minima_min": 7,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2278233,
+        "antiguedad_min": 2278633,
         "descartados_por_gancho": 0
       },
       {
@@ -97,19 +97,19 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 152,
+        "items": 138,
         "error": null,
-        "antiguedad_min": 279,
-        "descartados_por_gancho": 3
+        "antiguedad_min": 7,
+        "descartados_por_gancho": 7
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 129,
+        "items": 116,
         "error": null,
-        "antiguedad_min": 213,
-        "descartados_por_gancho": 15
+        "antiguedad_min": 32,
+        "descartados_por_gancho": 18
       },
       {
         "medio": "ABC",
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 40,
+        "antiguedad_min": 14,
         "descartados_por_gancho": 0
       }
     ]

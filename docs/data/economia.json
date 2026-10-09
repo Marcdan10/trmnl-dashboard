@@ -2,7 +2,7 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "portadas",
-  "generado": "2026-10-09T03:38:11+02:00",
+  "generado": "2026-10-09T10:18:42+02:00",
   "titulares": [
     {
       "titular": "Telefónica pone en venta su 'fiberco' en Chile por hasta 1.800 millones",
@@ -23,13 +23,22 @@
       "enlace": "https://www.expansion.com/empresas/seguros/2026/10/09/6ac7e657468aeba6098b4587.html"
     },
     {
-      "titular": "ACS y Mundys, en alerta por el golpe fiscal a Abertis en Francia",
+      "titular": "La Primera de Expansión sobre MG, BYD, CaixaBank, OpenAI, Telefónica, KKR y SoftBank",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-09T00:23:55+02:00",
-      "enlace": "https://www.expansion.com/empresas/construccion-servicios/2026/10/09/6ac80d7c468aeb892a8b4580.html"
+      "fecha": "2026-10-09T07:20:07+02:00",
+      "enlace": "https://www.expansion.com/podcasts/la-primera-de-expansion/2026/10/09/6ac87943468aeb577d8b4588.html"
+    },
+    {
+      "titular": "Así funciona la nueva calculadora del alquiler para saber cuánto puede subir el casero la renta",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-09T09:55:07+02:00",
+      "enlace": "https://www.expansion.com/inmobiliario/mercado/2026/10/09/6ac89dd8468aebdd218b458e.html"
     },
     {
       "titular": "Cuál es el nivel de la prima de riesgo de Francia que arrastra a toda Europa",
@@ -50,22 +59,13 @@
       "enlace": "https://www.expansion.com/inmobiliario/casas/2026/10/09/6ac78d41e5fdea293b8b4584.html"
     },
     {
-      "titular": "El crudo se dispara un 4% por los ataques en Ormuz",
+      "titular": "El Ibex respira con el petróleo y con la deuda",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-08T18:53:54+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/10/08/6ac7ca68e5fdea8e2a8b4598.html"
-    },
-    {
-      "titular": "Cómo cobrar el dividendo récord de BBVA",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-09T00:31:44+02:00",
-      "enlace": "https://www.expansion.com/inversion/2026/10/09/6ac7c1c3e5fdea937b8b459e.html"
+      "fecha": "2026-10-09T10:12:24+02:00",
+      "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/10/09/6ac8811f468aeb820b8b4594.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 71,
+    "antiguedad_minima_min": 6,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 66,
+        "items": 76,
         "error": null,
-        "antiguedad_min": 71,
+        "antiguedad_min": 6,
         "descartados_por_gancho": 1
       },
       {
