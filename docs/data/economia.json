@@ -1,53 +1,35 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "ultimas",
-  "generado": "2026-10-09T22:12:27+02:00",
+  "modo": "portadas",
+  "generado": "2026-10-10T02:09:54+02:00",
   "titulares": [
     {
-      "titular": "Warner Music compra el sello discográfico catalán Halley Records",
+      "titular": "Four Seasons, Ritz, Banyan y SLS se lanzan a por los pisos cinco estrellas",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-09T22:00:57+02:00",
-      "enlace": "https://www.expansion.com/catalunya/2026/10/09/warner-music-compra-sello-discografico-catalan-halley-records.html"
+      "fecha": "2026-10-10T00:58:01+02:00",
+      "enlace": "https://www.expansion.com/inmobiliario/mercado/2026/10/10/6ac7da84468aebd97d8b4578.html"
     },
     {
-      "titular": "T-Systems toma la delantera en el contrato de la nube pública catalana",
+      "titular": "Los valores más expuestos al adelanto electoral",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-09T21:39:48+02:00",
-      "enlace": "https://www.expansion.com/catalunya/2026/10/09/t-systems-toma-delantera-contrato-nube-publica-catalana.html"
+      "fecha": "2026-10-10T00:57:59+02:00",
+      "enlace": "https://www.expansion.com/inversion/2026/10/10/6ac91fb0468aebf62b8b45a1.html"
     },
     {
-      "titular": "Trump dice que Rusia suministrará diésel al mercado mundial tras hablar con Putin",
+      "titular": "Trump anuncia un pacto con Putin para que Rusia surta de diésel al mercado mundial",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
       "fecha": "2026-10-09T21:27:12+02:00",
       "enlace": "https://www.expansion.com/economia/2026/10/09/6ac9400ce5fdead15f8b4594.html"
-    },
-    {
-      "titular": "Un terremoto de magnitud 7,7 sacude Panamá",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-09T20:44:53+02:00",
-      "enlace": "https://www.expansion.com/sociedad/2026/10/09/terremoto-magnitud-7-6-sacude-panama.html"
-    },
-    {
-      "titular": "Golpe a los coches híbridos chinos: los modelos y marcas más afectados por las restricciones de la UE",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-09T20:27:17+02:00",
-      "enlace": "https://www.expansion.com/empresas/motor/2026/10/09/6ac92e44468aeb8f188b458c.html"
     },
     {
       "titular": "El aceite de oliva español, el inesperado gran beneficiario del pacto UE-China",
@@ -59,13 +41,31 @@
       "enlace": "https://www.expansion.com/empresas/distribucion/2026/10/09/6ac927fce5fdea376a8b458c.html"
     },
     {
-      "titular": "Netflix planea despedir a 850 trabajadores, alrededor de un 5% de su plantilla",
+      "titular": "SpaceX convertirá a Starlink en un operador móvil y reta a las 'telecos'",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-09T19:16:36+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/10/09/6ac92172e5fdea4b658b4594.html"
+      "fecha": "2026-10-10T00:58:12+02:00",
+      "enlace": "https://www.expansion.com/empresas/telecomunicaciones/2026/10/10/6ac941a3e5fdea376a8b4594.html"
+    },
+    {
+      "titular": "El mercado valora los siete magníficos en 29,55 billones",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-10T00:58:13+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/10/10/6ac95fb4468aeb57208b45a7.html"
+    },
+    {
+      "titular": "Genios entre bastidores: quién lidera en la sombra el futuro de la IA",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-10T00:58:14+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/10/10/6ac8ae97e5fdea8f498b458b.html"
     }
   ],
   "salud": {
@@ -78,16 +78,16 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 11,
+    "antiguedad_minima_min": 70,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 80,
+        "items": 70,
         "error": null,
-        "antiguedad_min": 11,
-        "descartados_por_gancho": 1
+        "antiguedad_min": 70,
+        "descartados_por_gancho": 2
       },
       {
         "medio": "Cinco Días",

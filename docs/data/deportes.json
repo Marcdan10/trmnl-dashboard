@@ -1,26 +1,17 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "ultimas",
-  "generado": "2026-10-09T22:12:29+02:00",
+  "modo": "portadas",
+  "generado": "2026-10-10T02:09:56+02:00",
   "titulares": [
     {
-      "titular": "José Antonio, hostelero: \"La temporada pasada empezamos con el menú a 13,50 euros y ahora ya lo tenemos a 18\"",
+      "titular": "81-88: Mazazo final para un Barça que no sabe rematar al Zalgiris",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-09T21:53:53+02:00",
-      "enlace": "https://www.mundodeportivo.com/tressesenta/20261009/1004236774/jose-antonio-hostelero-temporada-pasada-empezamos-menu-13-50-euros-18-tendriamos-subirlo-poco-mas-no-gente-no-viene-dct.html"
-    },
-    {
-      "titular": "El Galatasaray se impone con diez antes de recibir al Barça",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-09T21:45:46+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261009/1004236772/galatasaray-impone-diez-recibir-barca.html"
+      "fecha": "2026-10-09T22:39:44+02:00",
+      "enlace": "https://www.mundodeportivo.com/baloncesto/euroliga/20261009/1004236746/barca-zalgiris.html"
     },
     {
       "titular": "Varela: \"Me pidieron que fuera a una sala, que Ancelotti quería verme y darme las gracias\"",
@@ -32,6 +23,15 @@
       "enlace": "https://www.marca.com/mundo-marca/2026/10/09/varela-me-pidieron-fuera-sala-ancelotti-queria-verme-darme-gracias.html"
     },
     {
+      "titular": "El 1X1 del Barça ante el Zalgiris Kaunas",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-09T23:03:41+02:00",
+      "enlace": "https://www.mundodeportivo.com/baloncesto/euroliga/20261009/1004236800/1x1-barca-zalgiris-kaunas.html"
+    },
+    {
       "titular": "\"Ya ha pasado un tiempo para que Alcaraz y yo podamos vernos y darnos un abrazo\"",
       "medios": [
         "Marca"
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/tenis/2026/10/09/ferrero-deseo-alcaraz-pasado-podamos-vernos-darnos-abrazo.html"
     },
     {
-      "titular": "Para eso vino: Bryan Zaragoza se estrena como perico con un golazo de bandera",
+      "titular": "1-1: Punto amargo para el Espanyol",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-09T21:43:31+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/rcd-espanyol/20261009/1004236769/vino-bryan-zaragoza-estrena-perico-golazo-bandera.html"
+      "fecha": "2026-10-09T23:04:17+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/rcd-espanyol/20261009/1004236801/punto-amargo-espanyol.html"
     },
     {
-      "titular": "Ferran Torres ya gana premios con el PSG",
+      "titular": "Atmane, a raquetazo limpio en la previa de Shanghái y no es expulsado",
       "medios": [
-        "Mundo Deportivo"
+        "Marca"
       ],
       "consenso": 1,
-      "fecha": "2026-10-09T21:41:26+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/ligue-1/20261009/1004236771/ferran-torres-gana-premios-psg.html"
+      "fecha": "2026-10-09T08:58:51+02:00",
+      "enlace": "https://www.marca.com/tenis/2026/10/09/atmane-raquetazo-limpio-previa-shanghai-expulsado.html"
     },
     {
-      "titular": "Mari Carmen Vela ficha de nuevo por 'Informe Semanal' y vuelve a La 1 este 10 de octubre",
+      "titular": "El 1x1 del Espanyol ante el Málaga",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-09T21:40:08+02:00",
-      "enlace": "https://www.mundodeportivo.com/elotromundo/television/20261009/1004236770/mari-carmen-vela-ficha-nuevo-informe-semanal-vuelve-1-10-octubre-dct.html"
+      "fecha": "2026-10-09T23:15:17+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/rcd-espanyol/20261009/1004236745/1x1-espanyol-malaga.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 18,
+    "antiguedad_minima_min": 97,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 63,
         "error": null,
-        "antiguedad_min": 790,
+        "antiguedad_min": 1027,
         "descartados_por_gancho": 8
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 140,
+        "items": 142,
         "error": null,
-        "antiguedad_min": 18,
-        "descartados_por_gancho": 5
+        "antiguedad_min": 97,
+        "descartados_por_gancho": 4
       },
       {
         "medio": "Sport",
