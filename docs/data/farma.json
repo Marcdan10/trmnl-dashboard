@@ -1,9 +1,27 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "portadas",
-  "generado": "2026-10-10T08:08:56+02:00",
+  "modo": "ultimas",
+  "generado": "2026-10-10T14:49:13+02:00",
   "titulares": [
+    {
+      "titular": "La defensa de la sanidad pública marca el inicio de la ruta electoral hacia Moncloa",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-10T14:45:55+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/20261010/la-defensa-de-la-sanidad-publica-marca-el-inicio-ruta-electoral-hacia-moncloa/361302_0.html"
+    },
+    {
+      "titular": "La integración de podólogos en los servicios de salud avanza con implantación autonómica dispar",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-10T14:28:51+02:00",
+      "enlace": "https://www.redaccionmedica.com/autonomias/20261010/la-integracion-de-podologos-en-los-servicios-salud-avanza-con-implantacion-autonomica-dispar/354468_0.html"
+    },
     {
       "titular": "Canarias abre a consulta previa el decreto para regular los SPD en las farmacias",
       "medios": [
@@ -12,24 +30,6 @@
       "consenso": 1,
       "fecha": "2026-10-09T15:57:15+02:00",
       "enlace": "https://diariofarma.com/2026/10/09/canarias-abre-a-consulta-previa-el-decreto-para-regular-los-spd-en-las-farmacias"
-    },
-    {
-      "titular": "El MICOF, entre dos elecciones y una batalla judicial que sigue abierta",
-      "medios": [
-        "El Global"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-09T12:36:20+02:00",
-      "enlace": "https://elglobalfarma.com/farmacia/micof-elecciones-batalla-judicial-sigue-abierta/"
-    },
-    {
-      "titular": "Unanimidad política en torno a la Atención Primaria como cimiento de un gran pacto tras el 29N",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-09T18:57:30+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/20261009/unanimidad-politica-en-torno-la-atencion-primaria-como-cimiento-de-un-gran-pacto-tras-el/361217_0.html"
     },
     {
       "titular": "Team-Coach sienta las bases para avanzar en un estándar de prescripción pediátrica de antibióticos",
@@ -41,6 +41,15 @@
       "enlace": "https://diariofarma.com/2026/10/09/team-coach-sienta-las-bases-para-avanzar-en-un-estandar-de-prescripcion-pediatrica-de-antibioticos"
     },
     {
+      "titular": "El MICOF, entre dos elecciones y una batalla judicial que sigue abierta",
+      "medios": [
+        "El Global"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-09T12:36:20+02:00",
+      "enlace": "https://elglobalfarma.com/farmacia/micof-elecciones-batalla-judicial-sigue-abierta/"
+    },
+    {
       "titular": "El convenio de farmacia, ante una nueva oportunidad para desbloquearse",
       "medios": [
         "El Global"
@@ -50,24 +59,13 @@
       "enlace": "https://elglobalfarma.com/opinion/editorial/convenio-farmacia-nueva-oportunidad-desbloquearse/"
     },
     {
-      "titular": "Validación, equidad o dependencia: los riesgos del uso de la IA para los gestores sanitarios: \"Tiene que estar en agenda\"",
+      "titular": "Nicaragua: cuando defender a los médicos es defender los derechos humanos",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-10-09T16:36:08+02:00",
-      "enlace": "https://www.redaccionmedica.com/innovacion/sanidad-digital/20261009/validacion-equidad-dependencia-los-riesgos-del-uso-de-la-ia-para-gestores-sanitarios-tiene-que-estar-en-agenda/361179_0.html"
-    },
-    {
-      "titular": "Iñaki Betolaza se jubila tras casi 14 años al frente de Farmacia en el País Vasco",
-      "medios": [
-        "Diariofarma",
-        "El Global",
-        "Redacción Médica"
-      ],
-      "consenso": 3,
-      "fecha": "2026-10-09T11:40:10+02:00",
-      "enlace": "https://www.redaccionmedica.com/profesionales/farmacia/20261009/inaki-betolaza-se-jubila-tras-casi-anos-al-frente-de-farmacia-en-el-pais-vasco/361158_0.html"
+      "fecha": "2026-10-10T14:17:19+02:00",
+      "enlace": "https://www.redaccionmedica.com/opinion/20261010/nicaragua-cuando-defender-los-medicos-es-derechos-humanos/361304_12.html"
     }
   ],
   "salud": {
@@ -78,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 702,
+    "antiguedad_minima_min": 3,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -86,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 971,
+        "antiguedad_min": 1371,
         "descartados_por_gancho": 0
       },
       {
@@ -95,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 1172,
+        "antiguedad_min": 1572,
         "descartados_por_gancho": 0
       },
       {
@@ -104,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 702,
+        "antiguedad_min": 3,
         "descartados_por_gancho": 0
       },
       {

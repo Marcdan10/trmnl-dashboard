@@ -1,17 +1,26 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "portadas",
-  "generado": "2026-10-10T08:08:50+02:00",
+  "modo": "ultimas",
+  "generado": "2026-10-10T14:49:07+02:00",
   "titulares": [
     {
-      "titular": "Raúl Fernández logra la primera pole de su vida en MotoGP con la pelea por el título en segunda fila",
+      "titular": "José Elías: \"Si el viernes me preguntas por un correo que leí el lunes, no me acuerdo. Por eso he externalizado mi cerebro a una IA\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-10T05:52:13+02:00",
-      "enlace": "https://www.mundodeportivo.com/motor/motogp/20261010/1004236849/raul-fernandez-logra-primera-pole-vida-motogp-pelea-titulo-segunda-fila.html"
+      "fecha": "2026-10-10T14:28:39+02:00",
+      "enlace": "https://www.mundodeportivo.com/tressesenta/20261010/1004236967/jose-elias-empresario-multimillonario-dirijo-200-empresas-no-memoria-viernes-me-preguntas-correo-lei-lunes-seguramente-no-me-acuerde-he-externalizado-mi-cerebro-ia-ngc-dct.html"
+    },
+    {
+      "titular": "\"La gente por la calle me dice 'tienes un marrón' o 'mételes caña', pero aún no me han insultado\"",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-10T14:12:36+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/valencia/20261010/1004236964/gente-calle-me-dice-tienes-marron-meteles-cana-aun-no-me-han-insultado.html"
     },
     {
       "titular": "Varela: \"Me pidieron que fuera a una sala, que Ancelotti quería verme y darme las gracias\"",
@@ -23,15 +32,6 @@
       "enlace": "https://www.marca.com/mundo-marca/2026/10/09/varela-me-pidieron-fuera-sala-ancelotti-queria-verme-darme-gracias.html"
     },
     {
-      "titular": "El probable once del Barça ante el Getafe",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-10T06:10:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261010/1004236674/posible-once-barca-getafe.html"
-    },
-    {
       "titular": "\"Ya ha pasado un tiempo para que Alcaraz y yo podamos vernos y darnos un abrazo\"",
       "medios": [
         "Marca"
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/tenis/2026/10/09/ferrero-deseo-alcaraz-pasado-podamos-vernos-darnos-abrazo.html"
     },
     {
-      "titular": "Atmane, a raquetazo limpio en la previa de Shanghái y no es expulsado",
-      "medios": [
-        "Marca"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-09T08:58:51+02:00",
-      "enlace": "https://www.marca.com/tenis/2026/10/09/atmane-raquetazo-limpio-previa-shanghai-expulsado.html"
-    },
-    {
-      "titular": "Reinicio exigente y con récord para el Barça",
+      "titular": "Los siete récords mundiales que hicieron historia en el Maratón de Chicago",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-10T07:00:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261010/1004236781/reinicio-exigente-record-barca.html"
+      "fecha": "2026-10-10T13:55:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/running/20261010/1004235894/siete-records-mundiales-hicieron-historia-maraton-chicago-40-anos-acelerando-limites-distancia.html"
     },
     {
-      "titular": "El gran susto de un ganador de la Roubaix: \"El casco le salvó la vida\"",
+      "titular": "La última pista que hay del paradero de Rami, el niño de 12 años desaparecido en Granollers",
       "medios": [
-        "Marca"
+        "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-09T08:57:48+02:00",
-      "enlace": "https://www.marca.com/ciclismo/2026/10/09/gran-susto-ganador-roubaix-casco-le-salvo-vida.html"
+      "fecha": "2026-10-10T13:54:15+02:00",
+      "enlace": "https://www.mundodeportivo.com/actualidad/20261010/1004236916/cuando-visto-ultima-vez-rami-nino-12-anos-desaparecido-granollers-barcelona-muestran-camaras-dsp-dct.html"
+    },
+    {
+      "titular": "Compró un Boeing 727, lo instaló en un bosque de Oregón y aún sigue siendo su casa",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-10T13:49:29+02:00",
+      "enlace": "https://www.mundodeportivo.com/tressesenta/20261010/1004236938/ingeniero-estadounidense-compro-100-000-dolares-boeing-727-instalo-bosque-oregon-25-anos-sigue-siendo-casa-smd.html"
     }
   ],
   "salud": {
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 63,
         "error": null,
-        "antiguedad_min": 1386,
+        "antiguedad_min": 1786,
         "descartados_por_gancho": 8
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 130,
+        "items": 138,
         "error": null,
         "antiguedad_min": 20,
-        "descartados_por_gancho": 7
+        "descartados_por_gancho": 5
       },
       {
         "medio": "Sport",

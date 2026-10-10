@@ -1,71 +1,71 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "portadas",
-  "generado": "2026-10-10T08:08:49+02:00",
+  "modo": "ultimas",
+  "generado": "2026-10-10T14:49:05+02:00",
   "titulares": [
     {
-      "titular": "Four Seasons, Ritz, Banyan y SLS se lanzan a por los pisos cinco estrellas",
+      "titular": "Miriam González (Democracia21) propone bajar los impuestos de vivienda a los menores de 35 años",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-10T00:58:01+02:00",
-      "enlace": "https://www.expansion.com/inmobiliario/mercado/2026/10/10/6ac7da84468aebd97d8b4578.html"
+      "fecha": "2026-10-10T14:38:15+02:00",
+      "enlace": "https://www.expansion.com/elecciones/elecciones-generales/2026/10/10/6aca2b86468aeb11508b45a4.html"
     },
     {
-      "titular": "Los valores más expuestos al adelanto electoral",
+      "titular": "Pedro Sánchez promete \"reforzar y mantener\" los decretos de vivienda",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-10T00:57:59+02:00",
-      "enlace": "https://www.expansion.com/inversion/2026/10/10/6ac91fb0468aebf62b8b45a1.html"
+      "fecha": "2026-10-10T14:09:45+02:00",
+      "enlace": "https://www.expansion.com/elecciones/elecciones-generales/2026/10/10/6aca29c5468aebd2358b4572.html"
     },
     {
-      "titular": "Trump anuncia un pacto con Putin para que Rusia surta de diésel al mercado mundial",
+      "titular": "La UE concede a España un préstamo por valor de 1.000 millones para la ampliación de sus capacidades defensivas",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-09T21:27:12+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/10/09/6ac9400ce5fdead15f8b4594.html"
+      "fecha": "2026-10-10T13:17:46+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/10/10/6aca1b99e5fdeaf0128b456e.html"
     },
     {
-      "titular": "El aceite de oliva español, el inesperado gran beneficiario del pacto UE-China",
+      "titular": "Putin confirma el acuerdo con Trump para el suministro de crudo a EEUU y al mercado mundial",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-09T19:47:50+02:00",
-      "enlace": "https://www.expansion.com/empresas/distribucion/2026/10/09/6ac927fce5fdea376a8b458c.html"
+      "fecha": "2026-10-10T11:48:59+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/10/10/6aca05fa468aebb0518b4582.html"
     },
     {
-      "titular": "SpaceX convertirá a Starlink en un operador móvil y reta a las 'telecos'",
+      "titular": "China creó más de 10 millones de nuevos empleos urbanos entre enero y septiembre",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-10T00:58:12+02:00",
-      "enlace": "https://www.expansion.com/empresas/telecomunicaciones/2026/10/10/6ac941a3e5fdea376a8b4594.html"
+      "fecha": "2026-10-10T11:15:59+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/10/10/6ac9fe80e5fdea3c4f8b4595.html"
     },
     {
-      "titular": "El mercado valora los siete magníficos en 29,55 billones",
+      "titular": "El precio mayorista de la electricidad afronta el tercer otoño más caro de su historia",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-10T00:58:13+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/10/10/6ac95fb4468aeb57208b45a7.html"
+      "fecha": "2026-10-10T10:34:17+02:00",
+      "enlace": "https://www.expansion.com/empresas/energia/2026/10/10/6ac9f04de5fdea742b8b456e.html"
     },
     {
-      "titular": "Genios entre bastidores: quién lidera en la sombra el futuro de la IA",
+      "titular": "ERC y Bildu acuerdan reeditar su coalición electoral en el Senado",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-10T00:58:14+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/10/10/6ac8ae97e5fdea8f498b458b.html"
+      "fecha": "2026-10-10T10:09:29+02:00",
+      "enlace": "https://www.expansion.com/elecciones/elecciones-generales/2026/10/10/6ac9f1efe5fdea3c4f8b458e.html"
     }
   ],
   "salud": {
@@ -78,16 +78,16 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 429,
+    "antiguedad_minima_min": 10,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 70,
+        "items": 72,
         "error": null,
-        "antiguedad_min": 429,
-        "descartados_por_gancho": 2
+        "antiguedad_min": 10,
+        "descartados_por_gancho": 1
       },
       {
         "medio": "Cinco Días",

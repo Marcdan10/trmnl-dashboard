@@ -1,9 +1,63 @@
 {
   "pantalla": "generales",
   "titulo": "Titulares",
-  "modo": "portadas",
-  "generado": "2026-10-10T08:08:46+02:00",
+  "modo": "ultimas",
+  "generado": "2026-10-10T14:49:02+02:00",
   "titulares": [
+    {
+      "titular": "Las protestas contra Presa detienen el partido entre Rayo y Athletic en Vallecas",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-10T14:39:36+02:00",
+      "enlace": "https://elpais.com/deportes/futbol/2026-10-10/las-protestas-contra-presa-detienen-el-partido-entre-rayo-y-athletic-en-vallecas.html"
+    },
+    {
+      "titular": "Rafael Amargo es detenido junto a su pareja tras una pelea con otra persona que entró en su vivienda de madrugada",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-10T14:38:10+02:00",
+      "enlace": "https://elpais.com/espana/madrid/2026-10-10/rafael-amargo-es-detenido-junto-a-su-pareja-tras-una-pelea-con-otra-persona-que-entro-en-su-vivienda-de-madrugada.html"
+    },
+    {
+      "titular": "Ucrania ataca una terminal petrolera en Rusia después del acuerdo entre Putin y Trump",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-10T14:37:18+02:00",
+      "enlace": "https://www.abc.es/internacional/ucrania-ataca-terminal-petrolera-rusia-despues-acuerdo-20261010120831-nt.html"
+    },
+    {
+      "titular": "Polémica por el uso de fondos de Igualdad en talleres de reggaeton, crochet y «homenajes a la vagina»",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-10T14:36:59+02:00",
+      "enlace": "https://www.abc.es/sociedad/polemica-uso-fondos-igualdad-talleres-reggaeton-crochet-20261010134345-nt.html"
+    },
+    {
+      "titular": "Mahmud Abbas aplaza las legislativas palestinas y fija las elecciones generales presidenciales para 2027",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-10T14:04:51+02:00",
+      "enlace": "https://www.lavanguardia.com/internacional/20261010/11655968/mahmud-abbas-aplaza-legislativas-palestinas-fija-elecciones-generales-presidenciales-2027.html"
+    },
+    {
+      "titular": "Muere el abogado Joan Piqué Vidal, que defendió a Pujol en el caso Banca Catalana",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-10T14:01:16+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20261010/11655963/muere-abogado-joan-pique-vidal-defendio-pujol-caso-banca-catalana.html"
+    },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
       "medios": [
@@ -12,61 +66,6 @@
       "consenso": 1,
       "fecha": "2022-06-10T01:05:00+02:00",
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
-    },
-    {
-      "titular": "El rey emérito renuncia a recuperar los 65 millones que donó a Corinna Larsen",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-10T05:30:01+02:00",
-      "enlace": "https://elpais.com/espana/2026-10-10/el-rey-emerito-renuncia-a-recuperar-los-65-millones-que-dono-a-corinna-larsen.html"
-    },
-    {
-      "titular": "Un año de alto el fuego sin paz en Gaza: “Los niños siguen sufriendo amputaciones”",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-10T06:00:00+02:00",
-      "enlace": "https://www.lavanguardia.com/internacional/20261010/11655348/ano-alto-fuego-paz-gaza-seguimos-practicando-amputaciones-ninos.html"
-    },
-    {
-      "titular": "Trump anuncia un acuerdo con Putin para que EE.UU. reciba diésel de Rusia",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-10T07:53:21+02:00",
-      "enlace": "https://www.abc.es/internacional/trump-acuerda-putin-rusia-suministrara-cinco-millones-20261009210508-nt.html"
-    },
-    {
-      "titular": "Yuval Abraham, director de 'Naza': “¿Cómo es posible verse a uno mismo como una buena persona y participar en la matanza en Gaza?”",
-      "medios": [
-        "El País",
-        "La Vanguardia"
-      ],
-      "consenso": 2,
-      "fecha": "2026-10-09T14:45:08+02:00",
-      "enlace": "https://www.lavanguardia.com/cultura/20261009/11655185/yuval-abraham-director-naza-como-posible-verse-buena-persona-participar-matanza-gaza.html"
-    },
-    {
-      "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
-      "medios": [
-        "RTVE"
-      ],
-      "consenso": 1,
-      "fecha": "2022-06-10T00:03:00+02:00",
-      "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
-    },
-    {
-      "titular": "Los aristócratas crean las apps que necesitan: de demostrar su sangre azul a gestionar las mansiones",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-10T07:52:15+02:00",
-      "enlace": "https://www.abc.es/gente/modernizarse-morir-sheikha-maytha-manuel-filiberto-saboya-20261005012658-nt.html"
     }
   ],
   "salud": {
@@ -75,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 15,
+    "antiguedad_minima_min": 9,
     "detalle": [
       {
         "medio": "RTVE",
@@ -83,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2279943,
+        "antiguedad_min": 2280344,
         "descartados_por_gancho": 0
       },
       {
@@ -98,18 +97,18 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 135,
+        "items": 137,
         "error": null,
-        "antiguedad_min": 68,
+        "antiguedad_min": 9,
         "descartados_por_gancho": 7
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 118,
+        "items": 122,
         "error": null,
-        "antiguedad_min": 85,
+        "antiguedad_min": 44,
         "descartados_por_gancho": 17
       },
       {
@@ -118,7 +117,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 15,
+        "antiguedad_min": 11,
         "descartados_por_gancho": 0
       }
     ]
