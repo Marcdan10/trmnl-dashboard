@@ -2,70 +2,70 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-10-10T19:34:58+02:00",
+  "generado": "2026-10-10T23:00:05+02:00",
   "titulares": [
     {
-      "titular": "Trump considera \"increíble\" no haber recibido el Nobel de la Paz",
+      "titular": "Cómo funcionará la nueva cuenta de inversión del Gobierno",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-10T19:25:07+02:00",
-      "enlace": "https://www.expansion.com/sociedad/2026/10/10/trump-considera-increible-haber-recibido-nobel-paz.html"
+      "fecha": "2026-10-10T21:06:49+02:00",
+      "enlace": "https://www.expansion.com/ahorro/2026/10/10/6aca4151468aebd2358b4579.html"
     },
     {
-      "titular": "Cada profesional tendrá un pasaporte actualizado de habilidades y credenciales",
+      "titular": "Guía para inquilinos y propietarios: cómo afecta la nueva regulación de la vivienda",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-10T18:32:00+02:00",
-      "enlace": "https://www.expansion.com/expansion-empleo/desarrollo-de-carrera/2026/10/09/6ac7c316e5fdea6f708b45a2.html"
+      "fecha": "2026-10-10T21:06:20+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/10/10/6ac901da468aeb78798b4575.html"
     },
     {
-      "titular": "Irlanda propone recortar un 8% el presupuesto de la UE para 2028-2034",
+      "titular": "La amenaza latente para el mercado del alquiler: renovación automática con sanciones al casero",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-10T16:08:14+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/10/10/6aca1706468aeb752e8b4597.html"
+      "fecha": "2026-10-10T21:06:18+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/10/10/6ac904bee5fdea1a648b4583.html"
     },
     {
-      "titular": "Miriam González (Democracia21) propone bajar los impuestos de vivienda a los menores de 35 años",
+      "titular": "Cómo sacar partido a la fiscalidad de la vivienda tras el nuevo decreto",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-10T14:38:15+02:00",
+      "fecha": "2026-10-10T21:06:16+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/10/10/6ac907dd468aeb78798b457d.html"
+    },
+    {
+      "titular": "La IA que ataca antes de que lleguen los ‘hackers’",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-10T20:55:10+02:00",
+      "enlace": "https://www.expansion.com/tecnologia/2026/10/10/ia-ataca-lleguen-hackers.html"
+    },
+    {
+      "titular": "Miriam González presenta Democracia 21y propone bajar los impuestos de vivienda a los menores de 35 años",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-10T20:44:15+02:00",
       "enlace": "https://www.expansion.com/elecciones/elecciones-generales/2026/10/10/6aca2b86468aeb11508b45a4.html"
     },
     {
-      "titular": "Pedro Sánchez promete \"reforzar y mantener\" los decretos de vivienda",
+      "titular": "Así son las mejores coctelerías del mundo",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-10T14:09:45+02:00",
-      "enlace": "https://www.expansion.com/elecciones/elecciones-generales/2026/10/10/6aca29c5468aebd2358b4572.html"
-    },
-    {
-      "titular": "La UE concede a España un préstamo por valor de 1.000 millones para la ampliación de sus capacidades defensivas",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-10T13:17:46+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/10/10/6aca1b99e5fdeaf0128b456e.html"
-    },
-    {
-      "titular": "Putin confirma el acuerdo con Trump para el suministro de crudo a EEUU y al mercado mundial",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-10T11:48:59+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/10/10/6aca05fa468aebb0518b4582.html"
+      "fecha": "2026-10-10T20:32:20+02:00",
+      "enlace": "https://www.expansion.com/estilo-vida/rincones-gastronomicos/2026/10/10/asi-son-mejores-coctelerias-mundo.html"
     }
   ],
   "salud": {
@@ -78,16 +78,16 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 9,
+    "antiguedad_minima_min": 113,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 73,
+        "items": 69,
         "error": null,
-        "antiguedad_min": 9,
-        "descartados_por_gancho": 1
+        "antiguedad_min": 113,
+        "descartados_por_gancho": 0
       },
       {
         "medio": "Cinco Días",

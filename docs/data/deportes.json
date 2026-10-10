@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-10-10T19:35:00+02:00",
+  "generado": "2026-10-10T23:00:06+02:00",
   "titulares": [
     {
-      "titular": "El 1x1 del Barça ante el Getafe al descanso",
+      "titular": "8-0: Goleada azulgrana al colista en el Palau",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-10T19:24:46+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261010/1004237070/1x1-barca-getafe-descanso.html"
+      "fecha": "2026-10-10T22:22:50+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261010/1004237140/goleada-azulgrana-colista-palau.html"
     },
     {
-      "titular": "Rafael Amargo, detenido junto a su pareja en Madrid por un altercado en su domicilio",
+      "titular": "3-3. Empate insuficiente para un Polo que queda eliminado de la EHL",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-10T19:21:38+02:00",
-      "enlace": "https://www.mundodeportivo.com/elotromundo/gente/20261010/1004237076/rafael-amargo-detenido-pareja-madrid-altercado-domicilio-acusado-agredir-agentes-policia-nacional-intervinieron-dct.html"
+      "fecha": "2026-10-10T22:17:35+02:00",
+      "enlace": "https://www.mundodeportivo.com/hockey-hierba/20261010/1004237141/3-3-empate-insuficiente-polo-queda-eliminado-ehl.html"
     },
     {
       "titular": "Varela: \"Me pidieron que fuera a una sala, que Ancelotti quería verme y darme las gracias\"",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/tenis/2026/10/09/ferrero-deseo-alcaraz-pasado-podamos-vernos-darnos-abrazo.html"
     },
     {
-      "titular": "Gabriel Jesus responde a la confianza de Flick con un golazo",
+      "titular": "Bordalás se rinde a Lamine Yamal: \"Puede alcanzar el Balón de Oro, no tengo duda\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-10T19:17:51+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261010/1004237078/gabriel-jesus-responde-confianza-flick-golazo.html"
+      "fecha": "2026-10-10T22:04:49+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261010/1004237123/bordalas-rinde-lamine-yamal-alcanzar-balon-oro-no-duda.html"
     },
     {
-      "titular": "Rotundo mensaje de Dani Fernández tras el KO del Barça contra el Veszprem: \"Te cuestionas muchas cosas\"",
+      "titular": "Bronca del Bernabéu al Real Madrid",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-10T19:17:13+02:00",
-      "enlace": "https://www.mundodeportivo.com/balonmano/20261010/1004237057/barca.html"
+      "fecha": "2026-10-10T21:58:59+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20261010/1004237127/bronca-bernabeu-real-madrid.html"
     },
     {
-      "titular": "Claudia Fernández y Martina Calvo salvan dos bolas de partido para tomarse la revancha ante González-Josemaría",
+      "titular": "Comunicado incendiario del Rayo: \"Este atentado ha sido meticulosamente preparado\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-10T19:12:34+02:00",
-      "enlace": "https://www.mundodeportivo.com/padel/premier-padel/20261010/1004237064/claudia-fernandez-martina-calvo-salvan-dos-bolas-partido-tomarse-revancha-gonzalez-josemaria.html"
+      "fecha": "2026-10-10T21:56:40+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/rayo-vallecano/20261010/1004237126/comunicado-incendiario-rayo-vallecano-atentado-sido-meticulosamente-preparado.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 10,
+    "antiguedad_minima_min": 37,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 63,
         "error": null,
-        "antiguedad_min": 2072,
+        "antiguedad_min": 2277,
         "descartados_por_gancho": 8
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 135,
+        "items": 137,
         "error": null,
-        "antiguedad_min": 10,
-        "descartados_por_gancho": 6
+        "antiguedad_min": 37,
+        "descartados_por_gancho": 7
       },
       {
         "medio": "Sport",

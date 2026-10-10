@@ -2,62 +2,61 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-10-10T19:34:54+02:00",
+  "generado": "2026-10-10T23:00:02+02:00",
   "titulares": [
     {
-      "titular": "Barcelona - Getafe, en directo, el partido de LaLiga, en vivo|Los azulgrana ganan al descanso",
+      "titular": "Real Madrid - Villarreal, en directo, el partido de LaLiga en vivo | El Real Madrid vence con un solitario gol de Diomandé",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-10T19:25:46+02:00",
-      "enlace": "https://elpais.com/deportes/futbol/2026-10-10/barcelona-getafe-en-directo-el-partido-de-laliga-en-vivo.html"
+      "fecha": "2026-10-10T22:59:19+02:00",
+      "enlace": "https://elpais.com/deportes/futbol/2026-10-10/real-madrid-villarreal-en-directo-el-partido-de-laliga-en-vivo.html"
     },
     {
-      "titular": "Gabriel Jesus marca el segundo tras un error de Romero",
+      "titular": "Anulan un gol a Vinicius y le expulsan por darle un tirón de pelo previo a Saliba",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-10-10T19:23:21+02:00",
-      "enlace": "https://www.abc.es/deportes/futbol/barcelona-getafe-directo-resultado-ganador-goles-partido-20261010180254-di.html"
+      "fecha": "2026-10-10T22:33:47+02:00",
+      "enlace": "https://www.abc.es/deportes/real-madrid/real-madrid-villarreal-directo-resultado-ganador-goles-20261010203210-di.html"
     },
     {
-      "titular": "Baena sintoniza al Mariscal Romero para que el Atlético derrote al Alavés",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-10T19:20:48+02:00",
-      "enlace": "https://elpais.com/deportes/futbol/2026-10-10/baena-sintoniza-al-mariscal-romero-para-que-el-atletico-derrote-al-alaves.html"
-    },
-    {
-      "titular": "Ucrania ataca una terminal petrolera en Rusia después del acuerdo entre Putin y Trump",
+      "titular": "Locura de color y música latina en Madrid: «Vengo desde Italia por Sebastián Yatra»",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-10-10T19:19:18+02:00",
-      "enlace": "https://www.abc.es/internacional/ucrania-ataca-terminal-petrolera-rusia-despues-acuerdo-20261010120831-nt.html"
+      "fecha": "2026-10-10T22:30:26+02:00",
+      "enlace": "https://www.abc.es/espana/madrid/locura-color-musica-latina-madrid-vengo-italia-20261010202752-nt.html"
     },
     {
-      "titular": "Christa Pike, la mujer que sobrevivió a dos inyecciones letales en Tennessee, recibe el alta del hospital",
-      "medios": [
-        "La Vanguardia",
-        "ABC"
-      ],
-      "consenso": 2,
-      "fecha": "2026-10-10T18:55:30+02:00",
-      "enlace": "https://www.abc.es/internacional/christa-pike-mujer-sobrevivio-inyeccion-letal-tennessee-20261010175250-nt.html"
-    },
-    {
-      "titular": "ERC y Rufián apuran una negociación abierta pero “encauzada” para la candidatura del 29-N",
+      "titular": "Flick: “¿Lamine? le he preguntado si quería el cambio y me ha dicho que no”",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-10-10T18:30:02+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20261010/11656057/erc-rufian-apuran-negociacion-abierta-encauzada-candidatura-29-n.html"
+      "fecha": "2026-10-10T21:56:11+02:00",
+      "enlace": "https://www.lavanguardia.com/deportes/futbol/20261010/11656118/flick-lamine-le-he-preguntado-queria-cambio-me-dicho-no-reacciones-getafe.html"
+    },
+    {
+      "titular": "Koundé: “Las estadísticas que hablan por si solas, estamos disfrutando”",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-10T21:52:48+02:00",
+      "enlace": "https://www.lavanguardia.com/deportes/fc-barcelona/20261010/11656119/kounde-estadisticas-hablan-solas-disfrutando.html"
+    },
+    {
+      "titular": "El Barça muerde más que el Getafe",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-10T21:09:07+02:00",
+      "enlace": "https://elpais.com/deportes/futbol/2026-10-10/el-barca-muerde-mas-que-el-getafe.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -75,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 9,
+    "antiguedad_minima_min": 0,
     "detalle": [
       {
         "medio": "RTVE",
@@ -83,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2280629,
+        "antiguedad_min": 2280834,
         "descartados_por_gancho": 0
       },
       {
@@ -91,7 +90,7 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 403",
+        "error": "HTTP 500",
         "antiguedad_min": null
       },
       {
@@ -100,17 +99,17 @@
         "ok": true,
         "items": 138,
         "error": null,
-        "antiguedad_min": 9,
+        "antiguedad_min": 0,
         "descartados_por_gancho": 7
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 129,
+        "items": 132,
         "error": null,
-        "antiguedad_min": 64,
-        "descartados_por_gancho": 14
+        "antiguedad_min": 63,
+        "descartados_por_gancho": 15
       },
       {
         "medio": "ABC",
@@ -118,7 +117,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 11,
+        "antiguedad_min": 26,
         "descartados_por_gancho": 0
       }
     ]
