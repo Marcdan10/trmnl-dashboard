@@ -2,16 +2,16 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-10-10T02:09:56+02:00",
+  "generado": "2026-10-10T08:08:50+02:00",
   "titulares": [
     {
-      "titular": "81-88: Mazazo final para un Barça que no sabe rematar al Zalgiris",
+      "titular": "Raúl Fernández logra la primera pole de su vida en MotoGP con la pelea por el título en segunda fila",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-09T22:39:44+02:00",
-      "enlace": "https://www.mundodeportivo.com/baloncesto/euroliga/20261009/1004236746/barca-zalgiris.html"
+      "fecha": "2026-10-10T05:52:13+02:00",
+      "enlace": "https://www.mundodeportivo.com/motor/motogp/20261010/1004236849/raul-fernandez-logra-primera-pole-vida-motogp-pelea-titulo-segunda-fila.html"
     },
     {
       "titular": "Varela: \"Me pidieron que fuera a una sala, que Ancelotti quería verme y darme las gracias\"",
@@ -23,13 +23,13 @@
       "enlace": "https://www.marca.com/mundo-marca/2026/10/09/varela-me-pidieron-fuera-sala-ancelotti-queria-verme-darme-gracias.html"
     },
     {
-      "titular": "El 1X1 del Barça ante el Zalgiris Kaunas",
+      "titular": "El probable once del Barça ante el Getafe",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-09T23:03:41+02:00",
-      "enlace": "https://www.mundodeportivo.com/baloncesto/euroliga/20261009/1004236800/1x1-barca-zalgiris-kaunas.html"
+      "fecha": "2026-10-10T06:10:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261010/1004236674/posible-once-barca-getafe.html"
     },
     {
       "titular": "\"Ya ha pasado un tiempo para que Alcaraz y yo podamos vernos y darnos un abrazo\"",
@@ -41,15 +41,6 @@
       "enlace": "https://www.marca.com/tenis/2026/10/09/ferrero-deseo-alcaraz-pasado-podamos-vernos-darnos-abrazo.html"
     },
     {
-      "titular": "1-1: Punto amargo para el Espanyol",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-09T23:04:17+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/rcd-espanyol/20261009/1004236801/punto-amargo-espanyol.html"
-    },
-    {
       "titular": "Atmane, a raquetazo limpio en la previa de Shanghái y no es expulsado",
       "medios": [
         "Marca"
@@ -59,13 +50,22 @@
       "enlace": "https://www.marca.com/tenis/2026/10/09/atmane-raquetazo-limpio-previa-shanghai-expulsado.html"
     },
     {
-      "titular": "El 1x1 del Espanyol ante el Málaga",
+      "titular": "Reinicio exigente y con récord para el Barça",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-09T23:15:17+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/rcd-espanyol/20261009/1004236745/1x1-espanyol-malaga.html"
+      "fecha": "2026-10-10T07:00:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261010/1004236781/reinicio-exigente-record-barca.html"
+    },
+    {
+      "titular": "El gran susto de un ganador de la Roubaix: \"El casco le salvó la vida\"",
+      "medios": [
+        "Marca"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-09T08:57:48+02:00",
+      "enlace": "https://www.marca.com/ciclismo/2026/10/09/gran-susto-ganador-roubaix-casco-le-salvo-vida.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 97,
+    "antiguedad_minima_min": 20,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 63,
         "error": null,
-        "antiguedad_min": 1027,
+        "antiguedad_min": 1386,
         "descartados_por_gancho": 8
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 142,
+        "items": 130,
         "error": null,
-        "antiguedad_min": 97,
-        "descartados_por_gancho": 4
+        "antiguedad_min": 20,
+        "descartados_por_gancho": 7
       },
       {
         "medio": "Sport",

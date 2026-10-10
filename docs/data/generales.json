@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-10-10T02:09:50+02:00",
+  "generado": "2026-10-10T08:08:46+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -14,23 +14,41 @@
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
     },
     {
-      "titular": "Mohamed VI avisa de que no aceptará “presión, amenaza ni chantaje” desde España en vísperas del viaje de Felipe VI",
+      "titular": "El rey emérito renuncia a recuperar los 65 millones que donó a Corinna Larsen",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-10T05:30:01+02:00",
+      "enlace": "https://elpais.com/espana/2026-10-10/el-rey-emerito-renuncia-a-recuperar-los-65-millones-que-dono-a-corinna-larsen.html"
+    },
+    {
+      "titular": "Un año de alto el fuego sin paz en Gaza: “Los niños siguen sufriendo amputaciones”",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-10T06:00:00+02:00",
+      "enlace": "https://www.lavanguardia.com/internacional/20261010/11655348/ano-alto-fuego-paz-gaza-seguimos-practicando-amputaciones-ninos.html"
+    },
+    {
+      "titular": "Trump anuncia un acuerdo con Putin para que EE.UU. reciba diésel de Rusia",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-10T07:53:21+02:00",
+      "enlace": "https://www.abc.es/internacional/trump-acuerda-putin-rusia-suministrara-cinco-millones-20261009210508-nt.html"
+    },
+    {
+      "titular": "Yuval Abraham, director de 'Naza': “¿Cómo es posible verse a uno mismo como una buena persona y participar en la matanza en Gaza?”",
       "medios": [
         "El País",
         "La Vanguardia"
       ],
       "consenso": 2,
-      "fecha": "2026-10-09T21:14:21+02:00",
-      "enlace": "https://elpais.com/espana/2026-10-09/mohamed-vi-advierte-de-que-la-cooperacion-con-espana-no-debe-verse-sometida-a-presion-amenaza-ni-chantaje.html"
-    },
-    {
-      "titular": "El Tribunal Penal Internacional, un organismo que enfrenta a EE.UU. y a la UE",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-10T01:49:14+02:00",
-      "enlace": "https://www.abc.es/internacional/futuro-tribunal-penal-internacional-enfrenta-eeuu-ue-20260825012448-nt.html"
+      "fecha": "2026-10-09T14:45:08+02:00",
+      "enlace": "https://www.lavanguardia.com/cultura/20261009/11655185/yuval-abraham-director-naza-como-posible-verse-buena-persona-participar-matanza-gaza.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -42,31 +60,13 @@
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
     },
     {
-      "titular": "Los Reyes visitarán el cementerio musulmán de Ceuta donde yacen decenas de ahogados en el intento de entrada del pasado julio",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-09T13:22:05+02:00",
-      "enlace": "https://elpais.com/espana/2026-10-09/los-reyes-pernoctaran-en-ceuta-durante-su-visita-a-la-ciudad-autonoma-el-13-de-octubre.html"
-    },
-    {
-      "titular": "Los Reyes pasarán la noche en Ceuta: Felipe VI será el primer jefe del Estado que duerma allí",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-09T11:50:10+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20261009/11655096/reyes-pasaran-noche-ceuta-felipe-vi-sera-primer-jefe-duerma-ciudad.html"
-    },
-    {
-      "titular": "«Lobezno es muy diferente de Spiderman. Queríamos crear un videojuego en el que el jugador sienta que es el personaje»",
+      "titular": "Los aristócratas crean las apps que necesitan: de demostrar su sangre azul a gestionar las mansiones",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-10-10T01:44:26+02:00",
-      "enlace": "https://www.abc.es/tecnologia/lobezno-diferente-spiderman-queriamos-crear-20261007005658-nt.html"
+      "fecha": "2026-10-10T07:52:15+02:00",
+      "enlace": "https://www.abc.es/gente/modernizarse-morir-sheikha-maytha-manuel-filiberto-saboya-20261005012658-nt.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 20,
+    "antiguedad_minima_min": 15,
     "detalle": [
       {
         "medio": "RTVE",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2279584,
+        "antiguedad_min": 2279943,
         "descartados_por_gancho": 0
       },
       {
@@ -98,28 +98,28 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 146,
+        "items": 135,
         "error": null,
-        "antiguedad_min": 75,
+        "antiguedad_min": 68,
         "descartados_por_gancho": 7
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 127,
+        "items": 118,
         "error": null,
-        "antiguedad_min": 99,
-        "descartados_por_gancho": 12
+        "antiguedad_min": 85,
+        "descartados_por_gancho": 17
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 24,
+        "items": 25,
         "error": null,
-        "antiguedad_min": 20,
-        "descartados_por_gancho": 1
+        "antiguedad_min": 15,
+        "descartados_por_gancho": 0
       }
     ]
   }
