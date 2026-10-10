@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-10-10T14:49:07+02:00",
+  "generado": "2026-10-10T19:35:00+02:00",
   "titulares": [
     {
-      "titular": "José Elías: \"Si el viernes me preguntas por un correo que leí el lunes, no me acuerdo. Por eso he externalizado mi cerebro a una IA\"",
+      "titular": "El 1x1 del Barça ante el Getafe al descanso",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-10T14:28:39+02:00",
-      "enlace": "https://www.mundodeportivo.com/tressesenta/20261010/1004236967/jose-elias-empresario-multimillonario-dirijo-200-empresas-no-memoria-viernes-me-preguntas-correo-lei-lunes-seguramente-no-me-acuerde-he-externalizado-mi-cerebro-ia-ngc-dct.html"
+      "fecha": "2026-10-10T19:24:46+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261010/1004237070/1x1-barca-getafe-descanso.html"
     },
     {
-      "titular": "\"La gente por la calle me dice 'tienes un marrón' o 'mételes caña', pero aún no me han insultado\"",
+      "titular": "Rafael Amargo, detenido junto a su pareja en Madrid por un altercado en su domicilio",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-10T14:12:36+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/valencia/20261010/1004236964/gente-calle-me-dice-tienes-marron-meteles-cana-aun-no-me-han-insultado.html"
+      "fecha": "2026-10-10T19:21:38+02:00",
+      "enlace": "https://www.mundodeportivo.com/elotromundo/gente/20261010/1004237076/rafael-amargo-detenido-pareja-madrid-altercado-domicilio-acusado-agredir-agentes-policia-nacional-intervinieron-dct.html"
     },
     {
       "titular": "Varela: \"Me pidieron que fuera a una sala, que Ancelotti quería verme y darme las gracias\"",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/tenis/2026/10/09/ferrero-deseo-alcaraz-pasado-podamos-vernos-darnos-abrazo.html"
     },
     {
-      "titular": "Los siete récords mundiales que hicieron historia en el Maratón de Chicago",
+      "titular": "Gabriel Jesus responde a la confianza de Flick con un golazo",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-10T13:55:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/running/20261010/1004235894/siete-records-mundiales-hicieron-historia-maraton-chicago-40-anos-acelerando-limites-distancia.html"
+      "fecha": "2026-10-10T19:17:51+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261010/1004237078/gabriel-jesus-responde-confianza-flick-golazo.html"
     },
     {
-      "titular": "La última pista que hay del paradero de Rami, el niño de 12 años desaparecido en Granollers",
+      "titular": "Rotundo mensaje de Dani Fernández tras el KO del Barça contra el Veszprem: \"Te cuestionas muchas cosas\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-10T13:54:15+02:00",
-      "enlace": "https://www.mundodeportivo.com/actualidad/20261010/1004236916/cuando-visto-ultima-vez-rami-nino-12-anos-desaparecido-granollers-barcelona-muestran-camaras-dsp-dct.html"
+      "fecha": "2026-10-10T19:17:13+02:00",
+      "enlace": "https://www.mundodeportivo.com/balonmano/20261010/1004237057/barca.html"
     },
     {
-      "titular": "Compró un Boeing 727, lo instaló en un bosque de Oregón y aún sigue siendo su casa",
+      "titular": "Claudia Fernández y Martina Calvo salvan dos bolas de partido para tomarse la revancha ante González-Josemaría",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-10T13:49:29+02:00",
-      "enlace": "https://www.mundodeportivo.com/tressesenta/20261010/1004236938/ingeniero-estadounidense-compro-100-000-dolares-boeing-727-instalo-bosque-oregon-25-anos-sigue-siendo-casa-smd.html"
+      "fecha": "2026-10-10T19:12:34+02:00",
+      "enlace": "https://www.mundodeportivo.com/padel/premier-padel/20261010/1004237064/claudia-fernandez-martina-calvo-salvan-dos-bolas-partido-tomarse-revancha-gonzalez-josemaria.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 20,
+    "antiguedad_minima_min": 10,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 63,
         "error": null,
-        "antiguedad_min": 1786,
+        "antiguedad_min": 2072,
         "descartados_por_gancho": 8
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 138,
+        "items": 135,
         "error": null,
-        "antiguedad_min": 20,
-        "descartados_por_gancho": 5
+        "antiguedad_min": 10,
+        "descartados_por_gancho": 6
       },
       {
         "medio": "Sport",

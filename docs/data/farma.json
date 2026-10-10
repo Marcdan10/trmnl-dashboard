@@ -2,43 +2,43 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "ultimas",
-  "generado": "2026-10-10T14:49:13+02:00",
+  "generado": "2026-10-10T19:35:07+02:00",
   "titulares": [
     {
-      "titular": "La defensa de la sanidad pública marca el inicio de la ruta electoral hacia Moncloa",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-10T14:45:55+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/20261010/la-defensa-de-la-sanidad-publica-marca-el-inicio-ruta-electoral-hacia-moncloa/361302_0.html"
-    },
-    {
-      "titular": "La integración de podólogos en los servicios de salud avanza con implantación autonómica dispar",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-10T14:28:51+02:00",
-      "enlace": "https://www.redaccionmedica.com/autonomias/20261010/la-integracion-de-podologos-en-los-servicios-salud-avanza-con-implantacion-autonomica-dispar/354468_0.html"
-    },
-    {
-      "titular": "Canarias abre a consulta previa el decreto para regular los SPD en las farmacias",
+      "titular": "Connect Health acercará la salud e innovación al Mobile World Congress 2027",
       "medios": [
         "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-10-09T15:57:15+02:00",
-      "enlace": "https://diariofarma.com/2026/10/09/canarias-abre-a-consulta-previa-el-decreto-para-regular-los-spd-en-las-farmacias"
+      "fecha": "2026-10-10T19:25:39+02:00",
+      "enlace": "https://diariofarma.com/2026/10/10/connect-health-acercara-la-salud-e-innovacion-al-mobile-world-congress-2027"
     },
     {
-      "titular": "Team-Coach sienta las bases para avanzar en un estándar de prescripción pediátrica de antibióticos",
+      "titular": "La industria de EE. UU. impugna el modelo Globe de precios de medicamentos",
       "medios": [
         "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-10-09T15:29:43+02:00",
-      "enlace": "https://diariofarma.com/2026/10/09/team-coach-sienta-las-bases-para-avanzar-en-un-estandar-de-prescripcion-pediatrica-de-antibioticos"
+      "fecha": "2026-10-10T19:15:47+02:00",
+      "enlace": "https://diariofarma.com/2026/10/10/la-industria-de-ee-uu-impugna-el-modelo-globe-de-precios-de-medicamentos"
+    },
+    {
+      "titular": "El Gobierno obliga a los hospitales a contar con planes actualizados de autoprotección ante emergencias de gravedad",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-10T19:11:39+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20261010/el-gobierno-obliga-los-hospitales-contar-con-planes-actualizados-de-autoproteccion-ante-emergencias-gravedad/361307_0.html"
+    },
+    {
+      "titular": "Incentivar al médico y mejorar sus condiciones para evitar que la homologación sea \"la política de recursos humanos\"",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-10T19:02:20+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/20261010/incentivar-al-medico-mejorar-sus-condiciones-para-evitar-que-la-homologacion-sea-politica-de-recursos-humanos/361271_0.html"
     },
     {
       "titular": "El MICOF, entre dos elecciones y una batalla judicial que sigue abierta",
@@ -59,13 +59,13 @@
       "enlace": "https://elglobalfarma.com/opinion/editorial/convenio-farmacia-nueva-oportunidad-desbloquearse/"
     },
     {
-      "titular": "Nicaragua: cuando defender a los médicos es defender los derechos humanos",
+      "titular": "\"Sólo 3 comunidades prevén incorporar la investigación en la jornada ordinaria de los médicos de Primaria\"",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-10-10T14:17:19+02:00",
-      "enlace": "https://www.redaccionmedica.com/opinion/20261010/nicaragua-cuando-defender-los-medicos-es-derechos-humanos/361304_12.html"
+      "fecha": "2026-10-10T18:18:37+02:00",
+      "enlace": "https://www.redaccionmedica.com/profesionales/sociedades-cientificas/20261010/solo-comunidades-preven-incorporar-la-investigacion-en-jornada-ordinaria-de-los-medicos-primaria/361215_0.html"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 3,
+    "antiguedad_minima_min": 9,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 1371,
+        "antiguedad_min": 9,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 1572,
+        "antiguedad_min": 1858,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 3,
+        "antiguedad_min": 23,
         "descartados_por_gancho": 0
       },
       {

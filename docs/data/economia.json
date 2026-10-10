@@ -2,8 +2,35 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-10-10T14:49:05+02:00",
+  "generado": "2026-10-10T19:34:58+02:00",
   "titulares": [
+    {
+      "titular": "Trump considera \"increíble\" no haber recibido el Nobel de la Paz",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-10T19:25:07+02:00",
+      "enlace": "https://www.expansion.com/sociedad/2026/10/10/trump-considera-increible-haber-recibido-nobel-paz.html"
+    },
+    {
+      "titular": "Cada profesional tendrá un pasaporte actualizado de habilidades y credenciales",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-10T18:32:00+02:00",
+      "enlace": "https://www.expansion.com/expansion-empleo/desarrollo-de-carrera/2026/10/09/6ac7c316e5fdea6f708b45a2.html"
+    },
+    {
+      "titular": "Irlanda propone recortar un 8% el presupuesto de la UE para 2028-2034",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-10T16:08:14+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/10/10/6aca1706468aeb752e8b4597.html"
+    },
     {
       "titular": "Miriam González (Democracia21) propone bajar los impuestos de vivienda a los menores de 35 años",
       "medios": [
@@ -39,33 +66,6 @@
       "consenso": 1,
       "fecha": "2026-10-10T11:48:59+02:00",
       "enlace": "https://www.expansion.com/economia/2026/10/10/6aca05fa468aebb0518b4582.html"
-    },
-    {
-      "titular": "China creó más de 10 millones de nuevos empleos urbanos entre enero y septiembre",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-10T11:15:59+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/10/10/6ac9fe80e5fdea3c4f8b4595.html"
-    },
-    {
-      "titular": "El precio mayorista de la electricidad afronta el tercer otoño más caro de su historia",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-10T10:34:17+02:00",
-      "enlace": "https://www.expansion.com/empresas/energia/2026/10/10/6ac9f04de5fdea742b8b456e.html"
-    },
-    {
-      "titular": "ERC y Bildu acuerdan reeditar su coalición electoral en el Senado",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-10T10:09:29+02:00",
-      "enlace": "https://www.expansion.com/elecciones/elecciones-generales/2026/10/10/6ac9f1efe5fdea3c4f8b458e.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 10,
+    "antiguedad_minima_min": 9,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 72,
+        "items": 73,
         "error": null,
-        "antiguedad_min": 10,
+        "antiguedad_min": 9,
         "descartados_por_gancho": 1
       },
       {

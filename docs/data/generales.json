@@ -2,25 +2,34 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-10-10T14:49:02+02:00",
+  "generado": "2026-10-10T19:34:54+02:00",
   "titulares": [
     {
-      "titular": "Las protestas contra Presa detienen el partido entre Rayo y Athletic en Vallecas",
+      "titular": "Barcelona - Getafe, en directo, el partido de LaLiga, en vivo|Los azulgrana ganan al descanso",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-10T14:39:36+02:00",
-      "enlace": "https://elpais.com/deportes/futbol/2026-10-10/las-protestas-contra-presa-detienen-el-partido-entre-rayo-y-athletic-en-vallecas.html"
+      "fecha": "2026-10-10T19:25:46+02:00",
+      "enlace": "https://elpais.com/deportes/futbol/2026-10-10/barcelona-getafe-en-directo-el-partido-de-laliga-en-vivo.html"
     },
     {
-      "titular": "Rafael Amargo es detenido junto a su pareja tras una pelea con otra persona que entró en su vivienda de madrugada",
+      "titular": "Gabriel Jesus marca el segundo tras un error de Romero",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-10T19:23:21+02:00",
+      "enlace": "https://www.abc.es/deportes/futbol/barcelona-getafe-directo-resultado-ganador-goles-partido-20261010180254-di.html"
+    },
+    {
+      "titular": "Baena sintoniza al Mariscal Romero para que el Atlético derrote al Alavés",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-10T14:38:10+02:00",
-      "enlace": "https://elpais.com/espana/madrid/2026-10-10/rafael-amargo-es-detenido-junto-a-su-pareja-tras-una-pelea-con-otra-persona-que-entro-en-su-vivienda-de-madrugada.html"
+      "fecha": "2026-10-10T19:20:48+02:00",
+      "enlace": "https://elpais.com/deportes/futbol/2026-10-10/baena-sintoniza-al-mariscal-romero-para-que-el-atletico-derrote-al-alaves.html"
     },
     {
       "titular": "Ucrania ataca una terminal petrolera en Rusia después del acuerdo entre Putin y Trump",
@@ -28,35 +37,27 @@
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-10-10T14:37:18+02:00",
+      "fecha": "2026-10-10T19:19:18+02:00",
       "enlace": "https://www.abc.es/internacional/ucrania-ataca-terminal-petrolera-rusia-despues-acuerdo-20261010120831-nt.html"
     },
     {
-      "titular": "Polémica por el uso de fondos de Igualdad en talleres de reggaeton, crochet y «homenajes a la vagina»",
+      "titular": "Christa Pike, la mujer que sobrevivió a dos inyecciones letales en Tennessee, recibe el alta del hospital",
       "medios": [
+        "La Vanguardia",
         "ABC"
       ],
-      "consenso": 1,
-      "fecha": "2026-10-10T14:36:59+02:00",
-      "enlace": "https://www.abc.es/sociedad/polemica-uso-fondos-igualdad-talleres-reggaeton-crochet-20261010134345-nt.html"
+      "consenso": 2,
+      "fecha": "2026-10-10T18:55:30+02:00",
+      "enlace": "https://www.abc.es/internacional/christa-pike-mujer-sobrevivio-inyeccion-letal-tennessee-20261010175250-nt.html"
     },
     {
-      "titular": "Mahmud Abbas aplaza las legislativas palestinas y fija las elecciones generales presidenciales para 2027",
+      "titular": "ERC y Rufián apuran una negociación abierta pero “encauzada” para la candidatura del 29-N",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-10-10T14:04:51+02:00",
-      "enlace": "https://www.lavanguardia.com/internacional/20261010/11655968/mahmud-abbas-aplaza-legislativas-palestinas-fija-elecciones-generales-presidenciales-2027.html"
-    },
-    {
-      "titular": "Muere el abogado Joan Piqué Vidal, que defendió a Pujol en el caso Banca Catalana",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-10T14:01:16+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20261010/11655963/muere-abogado-joan-pique-vidal-defendio-pujol-caso-banca-catalana.html"
+      "fecha": "2026-10-10T18:30:02+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20261010/11656057/erc-rufian-apuran-negociacion-abierta-encauzada-candidatura-29-n.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -82,7 +83,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2280344,
+        "antiguedad_min": 2280629,
         "descartados_por_gancho": 0
       },
       {
@@ -97,7 +98,7 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 137,
+        "items": 138,
         "error": null,
         "antiguedad_min": 9,
         "descartados_por_gancho": 7
@@ -106,10 +107,10 @@
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 122,
+        "items": 129,
         "error": null,
-        "antiguedad_min": 44,
-        "descartados_por_gancho": 17
+        "antiguedad_min": 64,
+        "descartados_por_gancho": 14
       },
       {
         "medio": "ABC",
