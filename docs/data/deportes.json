@@ -1,27 +1,9 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "ultimas",
-  "generado": "2026-10-10T23:00:06+02:00",
+  "modo": "portadas",
+  "generado": "2026-10-11T02:10:36+02:00",
   "titulares": [
-    {
-      "titular": "8-0: Goleada azulgrana al colista en el Palau",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-10T22:22:50+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261010/1004237140/goleada-azulgrana-colista-palau.html"
-    },
-    {
-      "titular": "3-3. Empate insuficiente para un Polo que queda eliminado de la EHL",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-10T22:17:35+02:00",
-      "enlace": "https://www.mundodeportivo.com/hockey-hierba/20261010/1004237141/3-3-empate-insuficiente-polo-queda-eliminado-ehl.html"
-    },
     {
       "titular": "Varela: \"Me pidieron que fuera a una sala, que Ancelotti quería verme y darme las gracias\"",
       "medios": [
@@ -30,6 +12,15 @@
       "consenso": 1,
       "fecha": "2026-10-09T09:02:13+02:00",
       "enlace": "https://www.marca.com/mundo-marca/2026/10/09/varela-me-pidieron-fuera-sala-ancelotti-queria-verme-darme-gracias.html"
+    },
+    {
+      "titular": "3-0: LaLiga sigue igual para un líder implacable",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-10T20:29:33+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261010/1004237101/laliga-sigue-igual-lider-implacable.html"
     },
     {
       "titular": "\"Ya ha pasado un tiempo para que Alcaraz y yo podamos vernos y darnos un abrazo\"",
@@ -41,31 +32,40 @@
       "enlace": "https://www.marca.com/tenis/2026/10/09/ferrero-deseo-alcaraz-pasado-podamos-vernos-darnos-abrazo.html"
     },
     {
-      "titular": "Bordalás se rinde a Lamine Yamal: \"Puede alcanzar el Balón de Oro, no tengo duda\"",
+      "titular": "Mensaje de Vinicius en redes tras la roja por agresión: \"La alegría sigue...\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-10T22:04:49+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261010/1004237123/bordalas-rinde-lamine-yamal-alcanzar-balon-oro-no-duda.html"
+      "fecha": "2026-10-10T23:56:48+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20261010/1004237166/mensaje-vinicius-redes-roja-agresion-alegria-sigue.html"
     },
     {
-      "titular": "Bronca del Bernabéu al Real Madrid",
+      "titular": "Atmane, a raquetazo limpio en la previa de Shanghái y no es expulsado",
       "medios": [
-        "Mundo Deportivo"
+        "Marca"
       ],
       "consenso": 1,
-      "fecha": "2026-10-10T21:58:59+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20261010/1004237127/bronca-bernabeu-real-madrid.html"
+      "fecha": "2026-10-09T08:58:51+02:00",
+      "enlace": "https://www.marca.com/tenis/2026/10/09/atmane-raquetazo-limpio-previa-shanghai-expulsado.html"
     },
     {
-      "titular": "Comunicado incendiario del Rayo: \"Este atentado ha sido meticulosamente preparado\"",
+      "titular": "El gran susto de un ganador de la Roubaix: \"El casco le salvó la vida\"",
+      "medios": [
+        "Marca"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-09T08:57:48+02:00",
+      "enlace": "https://www.marca.com/ciclismo/2026/10/09/gran-susto-ganador-roubaix-casco-le-salvo-vida.html"
+    },
+    {
+      "titular": "Mourinho cancela la rueda de prensa: \"Quiero estar ante Sevilla y Barça\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-10T21:56:40+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/rayo-vallecano/20261010/1004237126/comunicado-incendiario-rayo-vallecano-atentado-sido-meticulosamente-preparado.html"
+      "fecha": "2026-10-10T23:40:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20261010/1004237162/mourinho-cancela-rueda-prensa-quiero-sevilla-barca.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 37,
+    "antiguedad_minima_min": 77,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 63,
         "error": null,
-        "antiguedad_min": 2277,
+        "antiguedad_min": 2468,
         "descartados_por_gancho": 8
       },
       {
@@ -99,9 +99,9 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 137,
+        "items": 138,
         "error": null,
-        "antiguedad_min": 37,
+        "antiguedad_min": 77,
         "descartados_por_gancho": 7
       },
       {

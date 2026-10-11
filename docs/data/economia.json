@@ -1,17 +1,17 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "ultimas",
-  "generado": "2026-10-10T23:00:05+02:00",
+  "modo": "portadas",
+  "generado": "2026-10-11T02:10:35+02:00",
   "titulares": [
     {
-      "titular": "Cómo funcionará la nueva cuenta de inversión del Gobierno",
+      "titular": "Cómo sacar partido a la fiscalidad de la vivienda tras el nuevo decreto",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-10T21:06:49+02:00",
-      "enlace": "https://www.expansion.com/ahorro/2026/10/10/6aca4151468aebd2358b4579.html"
+      "fecha": "2026-10-10T21:06:16+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/10/10/6ac907dd468aeb78798b457d.html"
     },
     {
       "titular": "Guía para inquilinos y propietarios: cómo afecta la nueva regulación de la vivienda",
@@ -32,40 +32,40 @@
       "enlace": "https://www.expansion.com/economia/2026/10/10/6ac904bee5fdea1a648b4583.html"
     },
     {
-      "titular": "Cómo sacar partido a la fiscalidad de la vivienda tras el nuevo decreto",
+      "titular": "Hipotecas cada vez más caras al ritmo del euríbor",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-10T21:06:16+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/10/10/6ac907dd468aeb78798b457d.html"
+      "fecha": "2026-10-10T00:58:09+02:00",
+      "enlace": "https://www.expansion.com/empresas/banca/2026/10/10/6ac94a97468aebd21c8b4578.html"
     },
     {
-      "titular": "La IA que ataca antes de que lleguen los ‘hackers’",
+      "titular": "Los valores más expuestos al adelanto electoral",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-10T20:55:10+02:00",
-      "enlace": "https://www.expansion.com/tecnologia/2026/10/10/ia-ataca-lleguen-hackers.html"
+      "fecha": "2026-10-10T00:57:59+02:00",
+      "enlace": "https://www.expansion.com/inversion/2026/10/10/6ac91fb0468aebf62b8b45a1.html"
     },
     {
-      "titular": "Miriam González presenta Democracia 21y propone bajar los impuestos de vivienda a los menores de 35 años",
+      "titular": "La receta de Vidal Golosinas: tradición familiar, innovación y millones de chuches",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-10T20:44:15+02:00",
-      "enlace": "https://www.expansion.com/elecciones/elecciones-generales/2026/10/10/6aca2b86468aeb11508b45a4.html"
+      "fecha": "2026-10-10T00:34:15+02:00",
+      "enlace": "https://www.expansion.com/estilo-vida/tendencias/2026/10/10/receta-vidal-golosinas-tradicion-familiar-innovacion-millones-chuches.html"
     },
     {
-      "titular": "Así son las mejores coctelerías del mundo",
+      "titular": "Cómo funcionará la nueva cuenta de inversión del Gobierno",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-10T20:32:20+02:00",
-      "enlace": "https://www.expansion.com/estilo-vida/rincones-gastronomicos/2026/10/10/asi-son-mejores-coctelerias-mundo.html"
+      "fecha": "2026-10-10T21:06:49+02:00",
+      "enlace": "https://www.expansion.com/ahorro/2026/10/10/6aca4151468aebd2358b4579.html"
     }
   ],
   "salud": {
@@ -78,7 +78,7 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 113,
+    "antiguedad_minima_min": 303,
     "detalle": [
       {
         "medio": "Expansión",
@@ -86,7 +86,7 @@
         "ok": true,
         "items": 69,
         "error": null,
-        "antiguedad_min": 113,
+        "antiguedad_min": 303,
         "descartados_por_gancho": 0
       },
       {

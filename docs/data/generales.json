@@ -1,63 +1,9 @@
 {
   "pantalla": "generales",
   "titulo": "Titulares",
-  "modo": "ultimas",
-  "generado": "2026-10-10T23:00:02+02:00",
+  "modo": "portadas",
+  "generado": "2026-10-11T02:10:31+02:00",
   "titulares": [
-    {
-      "titular": "Real Madrid - Villarreal, en directo, el partido de LaLiga en vivo | El Real Madrid vence con un solitario gol de Diomandé",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-10T22:59:19+02:00",
-      "enlace": "https://elpais.com/deportes/futbol/2026-10-10/real-madrid-villarreal-en-directo-el-partido-de-laliga-en-vivo.html"
-    },
-    {
-      "titular": "Anulan un gol a Vinicius y le expulsan por darle un tirón de pelo previo a Saliba",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-10T22:33:47+02:00",
-      "enlace": "https://www.abc.es/deportes/real-madrid/real-madrid-villarreal-directo-resultado-ganador-goles-20261010203210-di.html"
-    },
-    {
-      "titular": "Locura de color y música latina en Madrid: «Vengo desde Italia por Sebastián Yatra»",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-10T22:30:26+02:00",
-      "enlace": "https://www.abc.es/espana/madrid/locura-color-musica-latina-madrid-vengo-italia-20261010202752-nt.html"
-    },
-    {
-      "titular": "Flick: “¿Lamine? le he preguntado si quería el cambio y me ha dicho que no”",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-10T21:56:11+02:00",
-      "enlace": "https://www.lavanguardia.com/deportes/futbol/20261010/11656118/flick-lamine-le-he-preguntado-queria-cambio-me-dicho-no-reacciones-getafe.html"
-    },
-    {
-      "titular": "Koundé: “Las estadísticas que hablan por si solas, estamos disfrutando”",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-10T21:52:48+02:00",
-      "enlace": "https://www.lavanguardia.com/deportes/fc-barcelona/20261010/11656119/kounde-estadisticas-hablan-solas-disfrutando.html"
-    },
-    {
-      "titular": "El Barça muerde más que el Getafe",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-10T21:09:07+02:00",
-      "enlace": "https://elpais.com/deportes/futbol/2026-10-10/el-barca-muerde-mas-que-el-getafe.html"
-    },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
       "medios": [
@@ -66,6 +12,60 @@
       "consenso": 1,
       "fecha": "2022-06-10T01:05:00+02:00",
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
+    },
+    {
+      "titular": "Sánchez se centra en vivienda y ataca al PP por dudar del voto por correo: “Estos son los de cuantos menos voten, mejor”",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-10T14:20:41+02:00",
+      "enlace": "https://elpais.com/espana/elecciones-generales/2026-10-10/sanchez-se-centra-en-vivienda-y-ataca-al-pp-por-dudar-del-voto-por-correo-estos-son-los-de-cuantos-menos-voten-mejor.html"
+    },
+    {
+      "titular": "Trump carga contra Zelenski y pide para Ucrania “un nuevo presidente” con el que pactar",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-10T19:43:28+02:00",
+      "enlace": "https://www.lavanguardia.com/internacional/20261010/11656085/trump-carga-zelenski-pide-ucrania-nuevo-presidente-pactar.html"
+    },
+    {
+      "titular": "Escándalo en Vallecas: suspendido el Rayo-Athletic por lanzamiento masivo de aviones y pelotas de goma",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-11T01:52:40+02:00",
+      "enlace": "https://www.abc.es/deportes/futbol/escandalo-vallecas-suspendido-rayoathletic-lanzamiento-masivo-aviones-20261010143600-nt.html"
+    },
+    {
+      "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
+      "medios": [
+        "RTVE"
+      ],
+      "consenso": 1,
+      "fecha": "2022-06-10T00:03:00+02:00",
+      "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
+    },
+    {
+      "titular": "Feijóo asume que el 29-N será su última oportunidad: “¡No tenemos derecho a fallar. No vamos a fallar!”",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-10T13:15:16+02:00",
+      "enlace": "https://elpais.com/espana/elecciones-generales/2026-10-10/feijoo-asume-que-el-29n-sera-su-ultima-oportunidad-no-tenemos-derecho-a-fallar-no-vamos-a-fallar.html"
+    },
+    {
+      "titular": "Trump acuerda con Putin el suministro de millones de toneladas de diésel ruso a los mercados mundiales",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-09T21:49:03+02:00",
+      "enlace": "https://www.lavanguardia.com/internacional/20261009/11655554/trump-acuerda-putin-suministro-millones-toneladas-diesel-ruso-mercados-mundiales.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 0,
+    "antiguedad_minima_min": 17,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2280834,
+        "antiguedad_min": 2281025,
         "descartados_por_gancho": 0
       },
       {
@@ -97,28 +97,28 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 138,
+        "items": 137,
         "error": null,
-        "antiguedad_min": 0,
+        "antiguedad_min": 70,
         "descartados_por_gancho": 7
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 132,
+        "items": 133,
         "error": null,
-        "antiguedad_min": 63,
-        "descartados_por_gancho": 15
+        "antiguedad_min": 100,
+        "descartados_por_gancho": 17
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 25,
+        "items": 24,
         "error": null,
-        "antiguedad_min": 26,
-        "descartados_por_gancho": 0
+        "antiguedad_min": 17,
+        "descartados_por_gancho": 1
       }
     ]
   }

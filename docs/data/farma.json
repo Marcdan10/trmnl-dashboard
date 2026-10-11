@@ -1,8 +1,8 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "ultimas",
-  "generado": "2026-10-10T23:00:14+02:00",
+  "modo": "portadas",
+  "generado": "2026-10-11T02:10:43+02:00",
   "titulares": [
     {
       "titular": "Connect Health acercará la innovación en salud al Mobile World Congress 2027",
@@ -14,22 +14,13 @@
       "enlace": "https://diariofarma.com/2026/10/10/connect-health-acercara-la-salud-e-innovacion-al-mobile-world-congress-2027"
     },
     {
-      "titular": "La industria de EE. UU. impugna el modelo Globe de precios de medicamentos",
+      "titular": "El MICOF, entre dos elecciones y una batalla judicial que sigue abierta",
       "medios": [
-        "Diariofarma"
+        "El Global"
       ],
       "consenso": 1,
-      "fecha": "2026-10-10T19:15:47+02:00",
-      "enlace": "https://diariofarma.com/2026/10/10/la-industria-de-ee-uu-impugna-el-modelo-globe-de-precios-de-medicamentos"
-    },
-    {
-      "titular": "El Gobierno obliga a los hospitales a contar con planes actualizados de autoprotección ante emergencias de gravedad",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-10T19:11:39+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20261010/el-gobierno-obliga-los-hospitales-contar-con-planes-actualizados-de-autoproteccion-ante-emergencias-gravedad/361307_0.html"
+      "fecha": "2026-10-09T12:36:20+02:00",
+      "enlace": "https://elglobalfarma.com/farmacia/micof-elecciones-batalla-judicial-sigue-abierta/"
     },
     {
       "titular": "Incentivar al médico y mejorar sus condiciones para evitar que la homologación sea \"la política de recursos humanos\"",
@@ -41,13 +32,13 @@
       "enlace": "https://www.redaccionmedica.com/politica/20261010/incentivar-al-medico-mejorar-sus-condiciones-para-evitar-que-la-homologacion-sea-politica-de-recursos-humanos/361271_0.html"
     },
     {
-      "titular": "El MICOF, entre dos elecciones y una batalla judicial que sigue abierta",
+      "titular": "La industria de EE. UU. impugna el modelo Globe de precios de medicamentos",
       "medios": [
-        "El Global"
+        "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-10-09T12:36:20+02:00",
-      "enlace": "https://elglobalfarma.com/farmacia/micof-elecciones-batalla-judicial-sigue-abierta/"
+      "fecha": "2026-10-10T19:15:47+02:00",
+      "enlace": "https://diariofarma.com/2026/10/10/la-industria-de-ee-uu-impugna-el-modelo-globe-de-precios-de-medicamentos"
     },
     {
       "titular": "El convenio de farmacia, ante una nueva oportunidad para desbloquearse",
@@ -59,13 +50,23 @@
       "enlace": "https://elglobalfarma.com/opinion/editorial/convenio-farmacia-nueva-oportunidad-desbloquearse/"
     },
     {
-      "titular": "\"Sólo 3 comunidades prevén incorporar la investigación en la jornada ordinaria de los médicos de Primaria\"",
+      "titular": "Unanimidad política en torno a la Atención Primaria como cimiento de un gran pacto tras el 29N",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-10-10T18:18:37+02:00",
-      "enlace": "https://www.redaccionmedica.com/profesionales/sociedades-cientificas/20261010/solo-comunidades-preven-incorporar-la-investigacion-en-jornada-ordinaria-de-los-medicos-primaria/361215_0.html"
+      "fecha": "2026-10-09T18:57:30+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/20261009/unanimidad-politica-en-torno-la-atencion-primaria-como-cimiento-de-un-gran-pacto-tras-el/361217_0.html"
+    },
+    {
+      "titular": "Jon Iñaki Betolaza se jubila tras más de una década al frente de la Dirección de Farmacia del País Vasco",
+      "medios": [
+        "Diariofarma",
+        "El Global"
+      ],
+      "consenso": 2,
+      "fecha": "2026-10-09T10:08:27+02:00",
+      "enlace": "https://elglobalfarma.com/farmacia/jon-inaki-betolaza-jubilacion-decada-frente-direccion-farmacia-pais-vasco/"
     }
   ],
   "salud": {
@@ -76,7 +77,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 214,
+    "antiguedad_minima_min": 404,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +85,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 214,
+        "antiguedad_min": 404,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +94,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 2063,
+        "antiguedad_min": 2254,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +103,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 228,
+        "antiguedad_min": 419,
         "descartados_por_gancho": 0
       },
       {

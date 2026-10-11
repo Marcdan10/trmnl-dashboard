@@ -1,31 +1,7 @@
 {
   "ciudad": "Barcelona",
-  "generado": "2026-10-10T21:00:15",
+  "generado": "2026-10-11T00:10:44",
   "horas": [
-    {
-      "hora": "22",
-      "temp": 20,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "luna"
-    },
-    {
-      "hora": "23",
-      "temp": 19,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "luna"
-    },
-    {
-      "hora": "00",
-      "temp": 18,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "luna"
-    },
     {
       "hora": "01",
       "temp": 18,
@@ -52,7 +28,7 @@
     },
     {
       "hora": "04",
-      "temp": 16,
+      "temp": 17,
       "prob": 0,
       "mm": 0,
       "mostrar_prob": false,
@@ -97,13 +73,37 @@
       "mm": 0,
       "mostrar_prob": false,
       "icono": "nube"
+    },
+    {
+      "hora": "10",
+      "temp": 18,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "nube"
+    },
+    {
+      "hora": "11",
+      "temp": 20,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "nube"
+    },
+    {
+      "hora": "12",
+      "temp": 22,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "nube"
     }
   ],
   "dias": [
     {
-      "etiqueta": "dom 11",
-      "max": 22,
-      "min": 16,
+      "etiqueta": "lun 12",
+      "max": 24,
+      "min": 17,
       "prob": 0,
       "mm": 0,
       "mostrar_prob": false,
@@ -111,7 +111,7 @@
       "icono": "nube"
     },
     {
-      "etiqueta": "lun 12",
+      "etiqueta": "mar 13",
       "max": 23,
       "min": 18,
       "prob": 0,
@@ -121,18 +121,8 @@
       "icono": "nube"
     },
     {
-      "etiqueta": "mar 13",
-      "max": 24,
-      "min": 18,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "destacar": false,
-      "icono": "nube"
-    },
-    {
       "etiqueta": "mié 14",
-      "max": 25,
+      "max": 23,
       "min": 19,
       "prob": 0,
       "mm": 0,
@@ -142,7 +132,7 @@
     },
     {
       "etiqueta": "jue 15",
-      "max": 24,
+      "max": 22,
       "min": 18,
       "prob": 5,
       "mm": 0,
@@ -169,6 +159,16 @@
       "mostrar_prob": true,
       "destacar": false,
       "icono": "nube"
+    },
+    {
+      "etiqueta": "dom 18",
+      "max": 21,
+      "min": 16,
+      "prob": 31,
+      "mm": 2.1,
+      "mostrar_prob": true,
+      "destacar": false,
+      "icono": "lluvia"
     }
   ],
   "aviso": {
