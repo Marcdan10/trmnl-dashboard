@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-10-11T15:12:58+02:00",
+  "generado": "2026-10-11T20:14:21+02:00",
   "titulares": [
     {
-      "titular": "33-40: Un gris Barça consigue un trabajado triunfo ante el colista de la ASOBAL",
+      "titular": "Así queda la clasificación de la Premier tras la goleada del Manchester City",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-11T14:50:36+02:00",
-      "enlace": "https://www.mundodeportivo.com/balonmano/20261011/1004237371/33-40-gris-barca-consigue-trabajado-triunfo-colista-asobal.html"
+      "fecha": "2026-10-11T19:55:36+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/premier-league/20261011/1004237528/asi-queda-clasificacion-premier-goleada-manchester-city.html"
     },
     {
-      "titular": "120-83: Un vendaval madridista arrolla al Kids&Us Manresa",
+      "titular": "Así queda la clasificación de la Liga ASOBAL: un líder milagroso deja tercero al Barça",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-11T14:48:19+02:00",
-      "enlace": "https://www.mundodeportivo.com/baloncesto/acb/20261011/1004237318/real-madrid-kids-us-manresa.html"
+      "fecha": "2026-10-11T19:41:51+02:00",
+      "enlace": "https://www.mundodeportivo.com/balonmano/20261011/1004237518/asi-queda-clasificacion-liga-asobal-lider-milagroso-deja-tercero-barca.html"
     },
     {
       "titular": "Varela: \"Me pidieron que fuera a una sala, que Ancelotti quería verme y darme las gracias\"",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/tenis/2026/10/09/ferrero-deseo-alcaraz-pasado-podamos-vernos-darnos-abrazo.html"
     },
     {
-      "titular": "La Roma cede dos puntos pero aguanta el tipo en Como",
+      "titular": "La explicación del polémico penalti anulado al Sabadell",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-11T14:36:45+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/serie-a/20261011/1004237302/roma.html"
+      "fecha": "2026-10-11T19:29:43+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/sabadell/20261011/1004237520/explicacion-polemico-penalti-anulado-sabadell.html"
     },
     {
-      "titular": "León XIV anuncia que tendrá que operarse: \"Me han encontrado un nódulo en el pulmón\"",
+      "titular": "0-3: El Manchester City 'post veredicto' golea al Liverpool de Iraola en Anfield",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-11T14:34:57+02:00",
-      "enlace": "https://www.mundodeportivo.com/actualidad/20261011/1004237377/papa-leon-xiv-anuncia-sorpresa-tendra-pasar-quirofano-medicos-me-han-encontrado-nodulo-pulmon-dct.html"
+      "fecha": "2026-10-11T19:22:03+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/premier-league/20261011/1004237497/liverpool.html"
     },
     {
-      "titular": "La emotiva dedicatoria de Diomande",
+      "titular": "Matarazzo: \"Marín y Nsongo se estaban agarrando entre ellos\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-11T14:30:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20261011/1004237355/emotiva-dedicatoria-diomande.html"
+      "fecha": "2026-10-11T19:19:39+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-sociedad/20261011/1004237516/matarazzo-marin-nsongo-estaban-agarrando.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 22,
+    "antiguedad_minima_min": 18,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 63,
         "error": null,
-        "antiguedad_min": 3250,
+        "antiguedad_min": 3552,
         "descartados_por_gancho": 8
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 128,
+        "items": 139,
         "error": null,
-        "antiguedad_min": 22,
-        "descartados_por_gancho": 9
+        "antiguedad_min": 18,
+        "descartados_por_gancho": 6
       },
       {
         "medio": "Sport",

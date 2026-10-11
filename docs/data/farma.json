@@ -2,25 +2,25 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "ultimas",
-  "generado": "2026-10-11T15:13:04+02:00",
+  "generado": "2026-10-11T20:14:32+02:00",
   "titulares": [
     {
-      "titular": "Santalices: \"Si hay algo que necesita un espacio común para llegar a acuerdos es la sanidad\"",
+      "titular": "Ser profesional de la salud ayuda en el ámbito parlamentario, aunque \"debe haber criterio político\"",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-10-11T14:44:14+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/20261011/santalices-si-hay-algo-que-necesita-un-espacio-comun-para-llegar-acuerdos-es-la-sanidad/361280_0.html"
+      "fecha": "2026-10-11T19:10:24+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/20261011/ser-profesional-de-la-salud-ayuda-en-el-ambito-parlamentario-aunque-debe-haber-criterio-politico/361250_0.html"
     },
     {
-      "titular": "Más Madrid propone a Mónica García como segunda en la lista para el 29-N por detrás de Emilio Delgado",
+      "titular": "Sanidad llama a los profesionales sanitarios para perfeccionar la Guía Terapéutica Antimicrobiana",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-10-11T14:39:30+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/20261011/mas-madrid-propone-monica-garcia-como-segunda-en-la-lista-para-el-por-detras-de-emilio-delgado/361311_0.html"
+      "fecha": "2026-10-11T18:58:25+02:00",
+      "enlace": "https://www.redaccionmedica.com/empresas/industria-farmaceutica/20261011/sanidad-llama-los-profesionales-sanitarios-para-perfeccionar-la-guia-terapeutica-antimicrobiana/361314_0.html"
     },
     {
       "titular": "Connect Health acercará la innovación en salud al Mobile World Congress 2027",
@@ -59,13 +59,13 @@
       "enlace": "https://elglobalfarma.com/opinion/editorial/convenio-farmacia-nueva-oportunidad-desbloquearse/"
     },
     {
-      "titular": "Alertas digitales para homogeneizar la práctica clínica de Primaria en crónicos",
+      "titular": "La sanidad privada confía en que Isfas y Mugeju eviten una crisis como la de Muface tras las elecciones",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-10-11T13:04:45+02:00",
-      "enlace": "https://www.redaccionmedica.com/profesionales/sociedades-cientificas/20261011/alertas-digitales-para-homogeneizar-la-practica-clinica-de-primaria-en-cronicos/361097_0.html"
+      "fecha": "2026-10-11T17:59:45+02:00",
+      "enlace": "https://www.redaccionmedica.com/empresas/sanidad-privada/20261011/la-sanidad-privada-confia-en-que-isfas-mugeju-eviten-una-crisis-como-la-de-muface-tras-las-elecciones/355208_0.html"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 28,
+    "antiguedad_minima_min": 64,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 1187,
+        "antiguedad_min": 1488,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 3036,
+        "antiguedad_min": 3338,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 29,
         "error": null,
-        "antiguedad_min": 28,
+        "antiguedad_min": 64,
         "descartados_por_gancho": 1
       },
       {

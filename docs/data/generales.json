@@ -2,62 +2,62 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-10-11T15:12:51+02:00",
+  "generado": "2026-10-11T20:14:12+02:00",
   "titulares": [
     {
-      "titular": "GP de Singapur en directo, la carrera de Fórmula 1 en vivo",
+      "titular": "Santiago Abascal: «La amistad con Marruecos ahora no es posible. Pedimos poco, que no nos invadan»",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-11T20:08:29+02:00",
+      "enlace": "https://www.abc.es/espana/santiago-abascal-amistad-marruecos-posible-pedimos-poco-20261011021149-nt.html"
+    },
+    {
+      "titular": "Máximo Quiles toca el cielo: el pupilo de Marc Márquez se corona campeón del mundo de Moto3",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-11T20:03:07+02:00",
+      "enlace": "https://www.abc.es/deportes/motos/maximo-quiles-toca-cielo-mandalika-pupilo-marc-20261011084505-nt.html"
+    },
+    {
+      "titular": "Los Mossos buscan a los autores de un tiroteo que acaba con una mujer herida de bala en la cabeza en Figueres",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-11T15:08:04+02:00",
-      "enlace": "https://elpais.com/deportes/formula-1/2026-10-11/gp-de-singapur-en-directo-la-carrera-de-formula-1-en-vivo.html"
+      "fecha": "2026-10-11T19:41:08+02:00",
+      "enlace": "https://elpais.com/espana/catalunya/2026-10-11/los-mossos-buscan-a-los-autores-de-un-tiroteo-acaba-con-una-mujer-herida-de-bala-en-la-cabeza-en-figueres.html"
     },
     {
-      "titular": "Los desencantados del 15-M y de esta acampada de Sol: «Yo me caí de la burra»",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-11T14:51:58+02:00",
-      "enlace": "https://www.abc.es/espana/desencantados-15m-nueva-acampada-sol-20261011020246-nt.html"
-    },
-    {
-      "titular": "Rufián encabezará la candidatura de ERC por Barcelona para las elecciones del 29N",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-11T14:48:10+02:00",
-      "enlace": "https://www.abc.es/espana/cataluna/rufian-encabezara-candidatura-erc-elecciones-29n-20261011121241-nt.html"
-    },
-    {
-      "titular": "El Papa anuncia que tiene un nódulo en un pulmón y va a ser operado",
+      "titular": "El eurodiputado Raphaël Glucksmann gana las primarias socialistas en Francia",
       "medios": [
         "El País",
         "La Vanguardia"
       ],
       "consenso": 2,
-      "fecha": "2026-10-11T14:41:47+02:00",
-      "enlace": "https://elpais.com/internacional/2026-10-11/el-papa-anuncia-que-tiene-un-nodulo-en-un-pulmon-y-va-a-ser-operado.html"
+      "fecha": "2026-10-11T19:36:29+02:00",
+      "enlace": "https://elpais.com/internacional/2026-10-11/el-eurodiputado-raphael-glucksmann-gana-las-primarias-socialistas-en-francia.html"
     },
     {
-      "titular": "Polonia denuncia un “posible intento de asesinato” contra su primer ministro",
+      "titular": "Un disparo accidental hiere a una mujer en la cabeza en el barrio de Sant Joan de Figueres",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-10-11T14:35:28+02:00",
-      "enlace": "https://www.lavanguardia.com/internacional/20261011/11656555/servicios-seguridad-polacos-reunen-posible-intento-asesinato-primer-ministro-ministro-defensa.html"
+      "fecha": "2026-10-11T19:29:27+02:00",
+      "enlace": "https://www.lavanguardia.com/local/girona/20261011/11656635/disparo-accidental-hiere-mujer-cabeza-barrio-sant-joan-figueres.html"
     },
     {
-      "titular": "Vandalizan en Quart de Poblet una escultura de homenaje a 14 vecinos fusilados por el franquismo",
+      "titular": "El sexto destructor de EE.UU. llegará a Rota el próximo 15 de octubre",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-10-11T14:30:16+02:00",
-      "enlace": "https://www.lavanguardia.com/local/valencia/20261011/11656553/vandalizan-quart-poblet-escultura-homenaje-14-vecinos-fusilados-franquismo.html"
+      "fecha": "2026-10-11T19:24:13+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20261011/11656638/sexto-destructor-ee-uu-llegara-rota-proximo-15-octubre.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -75,7 +75,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 4,
+    "antiguedad_minima_min": 5,
     "detalle": [
       {
         "medio": "RTVE",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2281807,
+        "antiguedad_min": 2282109,
         "descartados_por_gancho": 0
       },
       {
@@ -98,18 +98,18 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 129,
+        "items": 124,
         "error": null,
-        "antiguedad_min": 4,
+        "antiguedad_min": 33,
         "descartados_por_gancho": 9
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 134,
+        "items": 139,
         "error": null,
-        "antiguedad_min": 37,
+        "antiguedad_min": 44,
         "descartados_por_gancho": 25
       },
       {
@@ -118,7 +118,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 20,
+        "antiguedad_min": 5,
         "descartados_por_gancho": 0
       }
     ]
