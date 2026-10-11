@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-10-11T02:10:31+02:00",
+  "generado": "2026-10-11T08:06:24+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -14,31 +14,22 @@
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
     },
     {
-      "titular": "Sánchez se centra en vivienda y ataca al PP por dudar del voto por correo: “Estos son los de cuantos menos voten, mejor”",
+      "titular": "Cándido Conde-Pumpido: “Cuestionar al Tribunal Constitucional es cuestionar la democracia”",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-10T14:20:41+02:00",
-      "enlace": "https://elpais.com/espana/elecciones-generales/2026-10-10/sanchez-se-centra-en-vivienda-y-ataca-al-pp-por-dudar-del-voto-por-correo-estos-son-los-de-cuantos-menos-voten-mejor.html"
+      "fecha": "2026-10-11T05:30:01+02:00",
+      "enlace": "https://elpais.com/espana/2026-10-11/candido-conde-pumpido-cuestionar-al-tribunal-constitucional-es-cuestionar-la-democracia.html"
     },
     {
-      "titular": "Trump carga contra Zelenski y pide para Ucrania “un nuevo presidente” con el que pactar",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-10T19:43:28+02:00",
-      "enlace": "https://www.lavanguardia.com/internacional/20261010/11656085/trump-carga-zelenski-pide-ucrania-nuevo-presidente-pactar.html"
-    },
-    {
-      "titular": "Escándalo en Vallecas: suspendido el Rayo-Athletic por lanzamiento masivo de aviones y pelotas de goma",
+      "titular": "«Hay que sacar la regulación de la energía de los ciclos políticos»",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-10-11T01:52:40+02:00",
-      "enlace": "https://www.abc.es/deportes/futbol/escandalo-vallecas-suspendido-rayoathletic-lanzamiento-masivo-aviones-20261010143600-nt.html"
+      "fecha": "2026-10-11T07:56:46+02:00",
+      "enlace": "https://www.abc.es/economia/espana-atractiva-venga-inversion-mundial-mercado-energetico-20261011020458-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -50,22 +41,31 @@
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
     },
     {
-      "titular": "Feijóo asume que el 29-N será su última oportunidad: “¡No tenemos derecho a fallar. No vamos a fallar!”",
+      "titular": "Los titulares en vídeo de la entrevista a Cándido Conde-Pumpido",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-10T13:15:16+02:00",
-      "enlace": "https://elpais.com/espana/elecciones-generales/2026-10-10/feijoo-asume-que-el-29n-sera-su-ultima-oportunidad-no-tenemos-derecho-a-fallar-no-vamos-a-fallar.html"
+      "fecha": "2026-10-11T05:30:01+02:00",
+      "enlace": "https://elpais.com/videos/2026-10-11/los-titulares-en-video-de-la-entrevista-a-candido-conde-pumpido.html"
     },
     {
-      "titular": "Trump acuerda con Putin el suministro de millones de toneladas de diésel ruso a los mercados mundiales",
+      "titular": "El parricida de la habitación de al lado: drogas, sexo extremo y problemas psiquiátricos",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-11T07:55:29+02:00",
+      "enlace": "https://www.abc.es/espana/madrid/parricida-habitacion-lado-drogas-sexo-extremo-graves-20261006020510-nt.html"
+    },
+    {
+      "titular": "La generación que no puede irse de casa: cinco casos reales que ilustran la crisis de emancipación",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-10-09T21:49:03+02:00",
-      "enlace": "https://www.lavanguardia.com/internacional/20261009/11655554/trump-acuerda-putin-suministro-millones-toneladas-diesel-ruso-mercados-mundiales.html"
+      "fecha": "2026-10-11T06:00:00+02:00",
+      "enlace": "https://www.lavanguardia.com/vida/20261011/11649381/generacion-irse-casa-cinco-casos-reales-ilustran-crisis-emancipacion-espana.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 17,
+    "antiguedad_minima_min": 9,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2281025,
+        "antiguedad_min": 2281381,
         "descartados_por_gancho": 0
       },
       {
@@ -90,35 +90,35 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 500",
+        "error": "HTTP 403",
         "antiguedad_min": null
       },
       {
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 137,
+        "items": 127,
         "error": null,
-        "antiguedad_min": 70,
-        "descartados_por_gancho": 7
+        "antiguedad_min": 66,
+        "descartados_por_gancho": 9
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 133,
+        "items": 127,
         "error": null,
-        "antiguedad_min": 100,
-        "descartados_por_gancho": 17
+        "antiguedad_min": 71,
+        "descartados_por_gancho": 25
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 24,
+        "items": 25,
         "error": null,
-        "antiguedad_min": 17,
-        "descartados_por_gancho": 1
+        "antiguedad_min": 9,
+        "descartados_por_gancho": 0
       }
     ]
   }
