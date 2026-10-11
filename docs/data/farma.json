@@ -1,9 +1,27 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "portadas",
-  "generado": "2026-10-11T08:06:37+02:00",
+  "modo": "ultimas",
+  "generado": "2026-10-11T15:13:04+02:00",
   "titulares": [
+    {
+      "titular": "Santalices: \"Si hay algo que necesita un espacio común para llegar a acuerdos es la sanidad\"",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-11T14:44:14+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/20261011/santalices-si-hay-algo-que-necesita-un-espacio-comun-para-llegar-acuerdos-es-la-sanidad/361280_0.html"
+    },
+    {
+      "titular": "Más Madrid propone a Mónica García como segunda en la lista para el 29-N por detrás de Emilio Delgado",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-11T14:39:30+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/20261011/mas-madrid-propone-monica-garcia-como-segunda-en-la-lista-para-el-por-detras-de-emilio-delgado/361311_0.html"
+    },
     {
       "titular": "Connect Health acercará la innovación en salud al Mobile World Congress 2027",
       "medios": [
@@ -12,24 +30,6 @@
       "consenso": 1,
       "fecha": "2026-10-10T19:25:39+02:00",
       "enlace": "https://diariofarma.com/2026/10/10/connect-health-acercara-la-salud-e-innovacion-al-mobile-world-congress-2027"
-    },
-    {
-      "titular": "El MICOF, entre dos elecciones y una batalla judicial que sigue abierta",
-      "medios": [
-        "El Global"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-09T12:36:20+02:00",
-      "enlace": "https://elglobalfarma.com/farmacia/micof-elecciones-batalla-judicial-sigue-abierta/"
-    },
-    {
-      "titular": "Incentivar al médico y mejorar sus condiciones para evitar que la homologación sea \"la política de recursos humanos\"",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-10T19:02:20+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/20261010/incentivar-al-medico-mejorar-sus-condiciones-para-evitar-que-la-homologacion-sea-politica-de-recursos-humanos/361271_0.html"
     },
     {
       "titular": "La industria de EE. UU. impugna el modelo Globe de precios de medicamentos",
@@ -41,6 +41,15 @@
       "enlace": "https://diariofarma.com/2026/10/10/la-industria-de-ee-uu-impugna-el-modelo-globe-de-precios-de-medicamentos"
     },
     {
+      "titular": "El MICOF, entre dos elecciones y una batalla judicial que sigue abierta",
+      "medios": [
+        "El Global"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-09T12:36:20+02:00",
+      "enlace": "https://elglobalfarma.com/farmacia/micof-elecciones-batalla-judicial-sigue-abierta/"
+    },
+    {
       "titular": "El convenio de farmacia, ante una nueva oportunidad para desbloquearse",
       "medios": [
         "El Global"
@@ -50,23 +59,13 @@
       "enlace": "https://elglobalfarma.com/opinion/editorial/convenio-farmacia-nueva-oportunidad-desbloquearse/"
     },
     {
-      "titular": "Unanimidad política en torno a la Atención Primaria como cimiento de un gran pacto tras el 29N",
+      "titular": "Alertas digitales para homogeneizar la práctica clínica de Primaria en crónicos",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-10-09T18:57:30+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/20261009/unanimidad-politica-en-torno-la-atencion-primaria-como-cimiento-de-un-gran-pacto-tras-el/361217_0.html"
-    },
-    {
-      "titular": "Jon Iñaki Betolaza se jubila tras más de una década al frente de la Dirección de Farmacia del País Vasco",
-      "medios": [
-        "Diariofarma",
-        "El Global"
-      ],
-      "consenso": 2,
-      "fecha": "2026-10-09T10:08:27+02:00",
-      "enlace": "https://elglobalfarma.com/farmacia/jon-inaki-betolaza-jubilacion-decada-frente-direccion-farmacia-pais-vasco/"
+      "fecha": "2026-10-11T13:04:45+02:00",
+      "enlace": "https://www.redaccionmedica.com/profesionales/sociedades-cientificas/20261011/alertas-digitales-para-homogeneizar-la-practica-clinica-de-primaria-en-cronicos/361097_0.html"
     }
   ],
   "salud": {
@@ -77,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 760,
+    "antiguedad_minima_min": 28,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -85,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 760,
+        "antiguedad_min": 1187,
         "descartados_por_gancho": 0
       },
       {
@@ -94,17 +93,17 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 2610,
+        "antiguedad_min": 3036,
         "descartados_por_gancho": 0
       },
       {
         "medio": "Redacción Médica",
         "url": "https://www.redaccionmedica.com/rss/",
         "ok": true,
-        "items": 30,
+        "items": 29,
         "error": null,
-        "antiguedad_min": 774,
-        "descartados_por_gancho": 0
+        "antiguedad_min": 28,
+        "descartados_por_gancho": 1
       },
       {
         "medio": "PMFarma",

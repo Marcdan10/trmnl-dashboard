@@ -1,9 +1,27 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "portadas",
-  "generado": "2026-10-11T08:06:30+02:00",
+  "modo": "ultimas",
+  "generado": "2026-10-11T15:12:58+02:00",
   "titulares": [
+    {
+      "titular": "33-40: Un gris Barça consigue un trabajado triunfo ante el colista de la ASOBAL",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-11T14:50:36+02:00",
+      "enlace": "https://www.mundodeportivo.com/balonmano/20261011/1004237371/33-40-gris-barca-consigue-trabajado-triunfo-colista-asobal.html"
+    },
+    {
+      "titular": "120-83: Un vendaval madridista arrolla al Kids&Us Manresa",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-11T14:48:19+02:00",
+      "enlace": "https://www.mundodeportivo.com/baloncesto/acb/20261011/1004237318/real-madrid-kids-us-manresa.html"
+    },
     {
       "titular": "Varela: \"Me pidieron que fuera a una sala, que Ancelotti quería verme y darme las gracias\"",
       "medios": [
@@ -12,15 +30,6 @@
       "consenso": 1,
       "fecha": "2026-10-09T09:02:13+02:00",
       "enlace": "https://www.marca.com/mundo-marca/2026/10/09/varela-me-pidieron-fuera-sala-ancelotti-queria-verme-darme-gracias.html"
-    },
-    {
-      "titular": "¡Izan Guevara se lleva la victoria en Moto2!",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-11T05:52:45+02:00",
-      "enlace": "https://www.mundodeportivo.com/motor/motogp/20261011/1004235780/motogp-indonesia-directo-carreras-moto3-moto2-categoria-reina-mandalika-marc-marquez-jorge-martin-bezzecchi-pedro-acosta.html"
     },
     {
       "titular": "\"Ya ha pasado un tiempo para que Alcaraz y yo podamos vernos y darnos un abrazo\"",
@@ -32,40 +41,31 @@
       "enlace": "https://www.marca.com/tenis/2026/10/09/ferrero-deseo-alcaraz-pasado-podamos-vernos-darnos-abrazo.html"
     },
     {
-      "titular": "Mensaje de Vinicius en redes tras la roja por agresión: \"La alegría sigue...\"",
+      "titular": "La Roma cede dos puntos pero aguanta el tipo en Como",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-10T23:56:48+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20261010/1004237166/mensaje-vinicius-redes-roja-agresion-alegria-sigue.html"
+      "fecha": "2026-10-11T14:36:45+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/serie-a/20261011/1004237302/roma.html"
     },
     {
-      "titular": "Atmane, a raquetazo limpio en la previa de Shanghái y no es expulsado",
-      "medios": [
-        "Marca"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-09T08:58:51+02:00",
-      "enlace": "https://www.marca.com/tenis/2026/10/09/atmane-raquetazo-limpio-previa-shanghai-expulsado.html"
-    },
-    {
-      "titular": "El gran susto de un ganador de la Roubaix: \"El casco le salvó la vida\"",
-      "medios": [
-        "Marca"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-09T08:57:48+02:00",
-      "enlace": "https://www.marca.com/ciclismo/2026/10/09/gran-susto-ganador-roubaix-casco-le-salvo-vida.html"
-    },
-    {
-      "titular": "Mourinho cancela la rueda de prensa: \"Quiero estar ante Sevilla y Barça\"",
+      "titular": "León XIV anuncia que tendrá que operarse: \"Me han encontrado un nódulo en el pulmón\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-10T23:40:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20261010/1004237162/mourinho-cancela-rueda-prensa-quiero-sevilla-barca.html"
+      "fecha": "2026-10-11T14:34:57+02:00",
+      "enlace": "https://www.mundodeportivo.com/actualidad/20261011/1004237377/papa-leon-xiv-anuncia-sorpresa-tendra-pasar-quirofano-medicos-me-han-encontrado-nodulo-pulmon-dct.html"
+    },
+    {
+      "titular": "La emotiva dedicatoria de Diomande",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-11T14:30:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20261011/1004237355/emotiva-dedicatoria-diomande.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 27,
+    "antiguedad_minima_min": 22,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 63,
         "error": null,
-        "antiguedad_min": 2824,
+        "antiguedad_min": 3250,
         "descartados_por_gancho": 8
       },
       {
@@ -99,9 +99,9 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 135,
+        "items": 128,
         "error": null,
-        "antiguedad_min": 27,
+        "antiguedad_min": 22,
         "descartados_por_gancho": 9
       },
       {
