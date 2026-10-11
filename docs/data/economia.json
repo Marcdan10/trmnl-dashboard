@@ -1,71 +1,71 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "ultimas",
-  "generado": "2026-10-11T20:14:19+02:00",
+  "modo": "portadas",
+  "generado": "2026-10-12T00:12:45+02:00",
   "titulares": [
     {
-      "titular": "Irán afirma que EEUU ha aceptado algunas de sus condiciones para poner fin a la guerra",
+      "titular": "Europa encara el invierno con las reservas de gas bajo mínimos y los precios en máximos",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-11T20:03:37+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/10/11/6acbc1c3e5fdea9b018b4586.html"
+      "fecha": "2026-10-11T23:43:37+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/10/11/6acb6fd2468aeb591e8b45a8.html"
     },
     {
-      "titular": "David Ellison ha creado un coloso de Hollywood: Ahora el reto será dirigirlo",
+      "titular": "BBVA exprime la rentabilidad en banca de inversión",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-11T19:44:14+02:00",
-      "enlace": "https://www.expansion.com/economia/financial-times/2026/10/09/6ac8d90de5fdeabf6a8b4593.html"
+      "fecha": "2026-10-11T23:43:38+02:00",
+      "enlace": "https://www.expansion.com/empresas/banca/2026/10/11/6a9eaeea468aebfc458b4581.html"
     },
     {
-      "titular": "Grupo Renault celebra el \"importante\" acuerdo de la UE y China para reducir las importaciones de coches",
+      "titular": "Volkswagen aplicará el modelo industrial español en toda Europa para competir con China",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-11T19:21:11+02:00",
-      "enlace": "https://www.expansion.com/empresas/motor/2026/10/11/6acbc245e5fdea2d6c8b4584.html"
+      "fecha": "2026-10-11T23:43:40+02:00",
+      "enlace": "https://www.expansion.com/empresas/motor/2026/10/11/6acb8ccb468aeb61778b4580.html"
     },
     {
-      "titular": "Trump anuncia que Kiev y Moscú acordaron dejar de atacar sus infraestructuras energéticas",
+      "titular": "El campeón del Ibex que sube un 420% desde 2022 y seguirá su rally a medio plazo",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-11T19:02:26+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/10/11/6acbbf0ee5fdeabe5f8b4596.html"
+      "fecha": "2026-10-11T23:44:45+02:00",
+      "enlace": "https://www.expansion.com/inversion/2026/10/11/6ac62275e5fdea9f228b45a6.html"
     },
     {
-      "titular": "Los frugales avanzan: el presupuesto de la UE se debatirá desde los recortes",
+      "titular": "El BCE vislumbra nuevas inyecciones de liquidez a la banca para 2027",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-11T17:12:58+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/10/11/6acba76c468aeba6488b45a1.html"
+      "fecha": "2026-10-11T23:44:59+02:00",
+      "enlace": "https://www.expansion.com/empresas/banca/2026/10/11/6ac9378be5fdead15f8b458d.html"
     },
     {
-      "titular": "Los hutíes demuestran su alcance militar con ataques mortales con misiles contra Riad",
+      "titular": "El \"contexto tóxico\" para Europa agrava la brecha frente a Wall Street",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-11T16:07:17+02:00",
-      "enlace": "https://www.expansion.com/economia/financial-times/2026/10/11/6acb9508e5fdea742b8b4594.html"
+      "fecha": "2026-10-11T23:45:01+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/10/11/6ac8e424468aeb752e8b4578.html"
     },
     {
-      "titular": "Un 4,8% de los ciudadanos asegura tener criptoactivos",
+      "titular": "Los tipos más altos devuelven el ahorro a los depósitos a plazo",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-11T15:23:00+02:00",
-      "enlace": "https://www.expansion.com/mercados/criptomonedas/2026/10/11/6acb8653468aeb761f8b4587.html"
+      "fecha": "2026-10-11T23:45:02+02:00",
+      "enlace": "https://www.expansion.com/empresas/banca/2026/10/11/6acb6cb5468aeb401e8b459c.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 10,
+    "antiguedad_minima_min": 26,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 70,
+        "items": 67,
         "error": null,
-        "antiguedad_min": 10,
+        "antiguedad_min": 26,
         "descartados_por_gancho": 0
       },
       {

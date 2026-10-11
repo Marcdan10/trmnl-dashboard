@@ -1,26 +1,17 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "ultimas",
-  "generado": "2026-10-11T20:14:21+02:00",
+  "modo": "portadas",
+  "generado": "2026-10-12T00:12:46+02:00",
   "titulares": [
     {
-      "titular": "Así queda la clasificación de la Premier tras la goleada del Manchester City",
+      "titular": "Gündogan: \"Rodri lee el juego antes que nadie, es el ancla de cualquier equipo\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-11T19:55:36+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/premier-league/20261011/1004237528/asi-queda-clasificacion-premier-goleada-manchester-city.html"
-    },
-    {
-      "titular": "Así queda la clasificación de la Liga ASOBAL: un líder milagroso deja tercero al Barça",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-11T19:41:51+02:00",
-      "enlace": "https://www.mundodeportivo.com/balonmano/20261011/1004237518/asi-queda-clasificacion-liga-asobal-lider-milagroso-deja-tercero-barca.html"
+      "fecha": "2026-10-11T22:00:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261011/1004237322/guendogan-rodri-lee-juego-nadie-ancla-equipo.html"
     },
     {
       "titular": "Varela: \"Me pidieron que fuera a una sala, que Ancelotti quería verme y darme las gracias\"",
@@ -32,6 +23,15 @@
       "enlace": "https://www.marca.com/mundo-marca/2026/10/09/varela-me-pidieron-fuera-sala-ancelotti-queria-verme-darme-gracias.html"
     },
     {
+      "titular": "Lamine Yamal quiere otro récord: Mbappé, en el punto de mira",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-11T23:52:56+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261011/1004237600/lamine-yamal-quiere-record-mbappe-punto-mira.html"
+    },
+    {
       "titular": "\"Ya ha pasado un tiempo para que Alcaraz y yo podamos vernos y darnos un abrazo\"",
       "medios": [
         "Marca"
@@ -39,15 +39,6 @@
       "consenso": 1,
       "fecha": "2026-10-09T09:01:59+02:00",
       "enlace": "https://www.marca.com/tenis/2026/10/09/ferrero-deseo-alcaraz-pasado-podamos-vernos-darnos-abrazo.html"
-    },
-    {
-      "titular": "La explicación del polémico penalti anulado al Sabadell",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-11T19:29:43+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/sabadell/20261011/1004237520/explicacion-polemico-penalti-anulado-sabadell.html"
     },
     {
       "titular": "0-3: El Manchester City 'post veredicto' golea al Liverpool de Iraola en Anfield",
@@ -59,13 +50,22 @@
       "enlace": "https://www.mundodeportivo.com/futbol/premier-league/20261011/1004237497/liverpool.html"
     },
     {
-      "titular": "Matarazzo: \"Marín y Nsongo se estaban agarrando entre ellos\"",
+      "titular": "Atmane, a raquetazo limpio en la previa de Shanghái y no es expulsado",
+      "medios": [
+        "Marca"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-09T08:58:51+02:00",
+      "enlace": "https://www.marca.com/tenis/2026/10/09/atmane-raquetazo-limpio-previa-shanghai-expulsado.html"
+    },
+    {
+      "titular": "5-2: El Betis golea a Osasuna y no se baja del podio liguero antes de recibir al Barça",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-11T19:19:39+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-sociedad/20261011/1004237516/matarazzo-marin-nsongo-estaban-agarrando.html"
+      "fecha": "2026-10-11T20:54:14+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/laliga/20261011/1004237547/betis-golea-osasuna-no-baja-podio-liguero-recibir-barca.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 18,
+    "antiguedad_minima_min": 19,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 63,
         "error": null,
-        "antiguedad_min": 3552,
+        "antiguedad_min": 3790,
         "descartados_por_gancho": 8
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 139,
+        "items": 143,
         "error": null,
-        "antiguedad_min": 18,
-        "descartados_por_gancho": 6
+        "antiguedad_min": 19,
+        "descartados_por_gancho": 5
       },
       {
         "medio": "Sport",
