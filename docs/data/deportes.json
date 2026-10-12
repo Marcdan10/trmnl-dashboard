@@ -1,17 +1,26 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "portadas",
-  "generado": "2026-10-12T09:50:41+02:00",
+  "modo": "ultimas",
+  "generado": "2026-10-12T19:14:04+02:00",
   "titulares": [
     {
-      "titular": "El Barça anuncia los 22 convocados para Estambul con las bajas conocidas",
+      "titular": "Dos platas y un bronce para España en el Mundial de Vela Inclusiva",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-12T09:17:17+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261012/1004237634/convocados.html"
+      "fecha": "2026-10-12T18:50:12+02:00",
+      "enlace": "https://www.mundodeportivo.com/vela/20261012/1004237901/dos-platas-bronce-espana-mundial-vela-inclusiva.html"
+    },
+    {
+      "titular": "Fran, ingeniero español en Japón: \"Pago 730€ por vivir en un dúplex de 45 m cuadrados en el centro\"",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-12T18:43:55+02:00",
+      "enlace": "https://www.mundodeportivo.com/tressesenta/20261012/1004237892/fran-ingeniero-espanol-japon-pago-730-euros-vivir-duplex-45-metros-cuadrados-centro-expt-dct.html"
     },
     {
       "titular": "Varela: \"Me pidieron que fuera a una sala, que Ancelotti quería verme y darme las gracias\"",
@@ -23,15 +32,6 @@
       "enlace": "https://www.marca.com/mundo-marca/2026/10/09/varela-me-pidieron-fuera-sala-ancelotti-queria-verme-darme-gracias.html"
     },
     {
-      "titular": "Acuerdo cerrado por Bernal hasta 2031 y sólo falta la firma",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-12T08:31:02+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261012/1004237635/acuerdo-cerrado-bernal-2031-falta-firma.html"
-    },
-    {
       "titular": "\"Ya ha pasado un tiempo para que Alcaraz y yo podamos vernos y darnos un abrazo\"",
       "medios": [
         "Marca"
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/tenis/2026/10/09/ferrero-deseo-alcaraz-pasado-podamos-vernos-darnos-abrazo.html"
     },
     {
-      "titular": "Atmane, a raquetazo limpio en la previa de Shanghái y no es expulsado",
-      "medios": [
-        "Marca"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-09T08:58:51+02:00",
-      "enlace": "https://www.marca.com/tenis/2026/10/09/atmane-raquetazo-limpio-previa-shanghai-expulsado.html"
-    },
-    {
-      "titular": "Lamine Yamal quiere otro récord: Mbappé, en el punto de mira",
+      "titular": "Mercedes, hostelera: \"Hace 10 años, el menú costaba unos 10 euros, y ahora ya cuesta 15\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-11T23:52:56+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261011/1004237600/lamine-yamal-quiere-record-mbappe-punto-mira.html"
+      "fecha": "2026-10-12T18:43:40+02:00",
+      "enlace": "https://www.mundodeportivo.com/tressesenta/20261012/1004237896/mercedes-hostelera-10-anos-menu-costaba-10-euros-hemos-tenido-subiendolo-cuesta-15-semana-20-semana-tienes-numeros-dnr-dct.html"
     },
     {
-      "titular": "El gran susto de un ganador de la Roubaix: \"El casco le salvó la vida\"",
+      "titular": "Flick: \"Gabriel Jesus fue una pequeña sorpresa\"",
       "medios": [
-        "Marca"
+        "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-09T08:57:48+02:00",
-      "enlace": "https://www.marca.com/ciclismo/2026/10/09/gran-susto-ganador-roubaix-casco-le-salvo-vida.html"
+      "fecha": "2026-10-12T18:41:57+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261012/1004237897/flick-gabriel-jesus-pequena-sorpresa.html"
+    },
+    {
+      "titular": "Pedro Acosta: \"Estoy totalmente de acuerdo con que Marc Márquez no fuera al evento de karts en Japón\"",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-12T18:38:29+02:00",
+      "enlace": "https://www.mundodeportivo.com/motor/motogp/20261012/1004237891/pedro-acosta-veremos-leyendas-abandonar-paddock-motogp-siquiera-querran-volver-estres-soportar-demasiado-alto-totalmente-acuerdo-marc-marquez-no-fuera-evento-karts-japon-smd.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 26,
+    "antiguedad_minima_min": 23,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 63,
         "error": null,
-        "antiguedad_min": 4368,
+        "antiguedad_min": 4931,
         "descartados_por_gancho": 8
       },
       {
@@ -99,9 +99,9 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 136,
+        "items": 143,
         "error": null,
-        "antiguedad_min": 26,
+        "antiguedad_min": 23,
         "descartados_por_gancho": 4
       },
       {

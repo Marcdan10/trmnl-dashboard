@@ -1,17 +1,44 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "portadas",
-  "generado": "2026-10-12T09:50:47+02:00",
+  "modo": "ultimas",
+  "generado": "2026-10-12T19:14:10+02:00",
   "titulares": [
     {
-      "titular": "29N: Mónica García ocupará el segundo puesto por Madrid en la propuesta del Frente Amplio",
+      "titular": "Marta Villanueva (IDIS): \"La sanidad española está gestionada con normas del siglo pasado\"",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-12T18:59:04+02:00",
+      "enlace": "https://www.redaccionmedica.com/empresas/sanidad-privada/20261012/marta-villanueva-idis-la-sanidad-espanola-esta-gestionada-con-normas-del-siglo-pasado/354033_0.html"
+    },
+    {
+      "titular": "La menopausia provoca un \"precipicio fisiológico\" en múltiples sistemas del organismo",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-12T18:58:15+02:00",
+      "enlace": "https://www.redaccionmedica.com/innovacion/avances/20261012/la-menopausia-provoca-un-precipicio-fisiologico-en-multiples-sistemas-del-organismo/361330_0.html"
+    },
+    {
+      "titular": "Uxafarma vuelve a hundir los precios de metformina, furosemida e hidroxicloroquina",
       "medios": [
         "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-10-11T23:04:51+02:00",
-      "enlace": "https://diariofarma.com/2026/10/11/29n-monica-garcia-ocupara-el-segundo-puesto-por-madrid-en-la-propuesta-del-frente-amplio"
+      "fecha": "2026-10-12T18:23:00+02:00",
+      "enlace": "https://diariofarma.com/2026/10/12/uxafarma-vuelve-a-hundir-los-precios-de-metformina-furosemida-e-hidroxicloroquina"
+    },
+    {
+      "titular": "Próximos pasos en valor social: qué medir, cómo y dónde debe pesar en la decisión",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-12T17:58:00+02:00",
+      "enlace": "https://diariofarma.com/2026/10/12/proximos-pasos-en-valor-social-que-medir-como-y-donde-debe-pesar-en-la-decision"
     },
     {
       "titular": "El MICOF, entre dos elecciones y una batalla judicial que sigue abierta",
@@ -23,24 +50,6 @@
       "enlace": "https://elglobalfarma.com/farmacia/micof-elecciones-batalla-judicial-sigue-abierta/"
     },
     {
-      "titular": "Ser profesional de la salud ayuda en el ámbito parlamentario, aunque \"debe haber criterio político\"",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-11T19:10:24+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/20261011/ser-profesional-de-la-salud-ayuda-en-el-ambito-parlamentario-aunque-debe-haber-criterio-politico/361250_0.html"
-    },
-    {
-      "titular": "Connect Health acercará la innovación en salud al Mobile World Congress 2027",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-10T19:25:39+02:00",
-      "enlace": "https://diariofarma.com/2026/10/10/connect-health-acercara-la-salud-e-innovacion-al-mobile-world-congress-2027"
-    },
-    {
       "titular": "El convenio de farmacia, ante una nueva oportunidad para desbloquearse",
       "medios": [
         "El Global"
@@ -50,23 +59,13 @@
       "enlace": "https://elglobalfarma.com/opinion/editorial/convenio-farmacia-nueva-oportunidad-desbloquearse/"
     },
     {
-      "titular": "Santalices: \"Si hay algo que necesita un espacio común para llegar a acuerdos es la sanidad\"",
+      "titular": "La opción de compartir hospital de prácticas prolifera en el grado en Medicina por una excepción legal",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-10-11T14:44:14+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/20261011/santalices-si-hay-algo-que-necesita-un-espacio-comun-para-llegar-acuerdos-es-la-sanidad/361280_0.html"
-    },
-    {
-      "titular": "Jon Iñaki Betolaza se jubila tras más de una década al frente de la Dirección de Farmacia del País Vasco",
-      "medios": [
-        "Diariofarma",
-        "El Global"
-      ],
-      "consenso": 2,
-      "fecha": "2026-10-09T10:08:27+02:00",
-      "enlace": "https://elglobalfarma.com/farmacia/jon-inaki-betolaza-jubilacion-decada-frente-direccion-farmacia-pais-vasco/"
+      "fecha": "2026-10-12T18:08:13+02:00",
+      "enlace": "https://www.redaccionmedica.com/formacion/estudiantes/20261012/la-opcion-de-compartir-hospital-practicas-prolifera-en-el-grado-medicina-por-una-excepcion-legal/355142_0.html"
     }
   ],
   "salud": {
@@ -77,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 645,
+    "antiguedad_minima_min": 15,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -85,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 645,
+        "antiguedad_min": 51,
         "descartados_por_gancho": 0
       },
       {
@@ -94,17 +93,17 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 4154,
+        "antiguedad_min": 4717,
         "descartados_por_gancho": 0
       },
       {
         "medio": "Redacción Médica",
         "url": "https://www.redaccionmedica.com/rss/",
         "ok": true,
-        "items": 29,
+        "items": 30,
         "error": null,
-        "antiguedad_min": 880,
-        "descartados_por_gancho": 1
+        "antiguedad_min": 15,
+        "descartados_por_gancho": 0
       },
       {
         "medio": "PMFarma",

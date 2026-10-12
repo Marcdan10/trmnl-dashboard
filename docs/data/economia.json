@@ -1,71 +1,71 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "portadas",
-  "generado": "2026-10-12T09:50:39+02:00",
+  "modo": "ultimas",
+  "generado": "2026-10-12T19:14:01+02:00",
   "titulares": [
     {
-      "titular": "Europa encara el invierno con las reservas de gas bajo mínimos y los precios en máximos",
+      "titular": "Starbucks descarta la compra de Chipotle Mexican Grill",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-11T23:43:37+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/10/11/6acb6fd2468aeb591e8b45a8.html"
+      "fecha": "2026-10-12T18:50:41+02:00",
+      "enlace": "https://www.expansion.com/empresas/distribucion/2026/10/12/6acd0eaa468aeb276b8b4571.html"
     },
     {
-      "titular": "BBVA exprime la rentabilidad en banca de inversión",
+      "titular": "El Ibex firma su mayor subida desde julio animado por los bancos",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-11T23:43:38+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/10/11/6a9eaeea468aebfc458b4581.html"
-    },
-    {
-      "titular": "Volkswagen aplicará el modelo industrial español en toda Europa para competir con China",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-11T23:43:40+02:00",
-      "enlace": "https://www.expansion.com/empresas/motor/2026/10/11/6acb8ccb468aeb61778b4580.html"
-    },
-    {
-      "titular": "El campeón del Ibex que sube un 420% desde 2022 y seguirá su rally a medio plazo",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-11T23:44:45+02:00",
-      "enlace": "https://www.expansion.com/inversion/2026/10/11/6ac62275e5fdea9f228b45a6.html"
-    },
-    {
-      "titular": "El BCE vislumbra nuevas inyecciones de liquidez a la banca para 2027",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-11T23:44:59+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/10/11/6ac9378be5fdead15f8b458d.html"
-    },
-    {
-      "titular": "El Ibex sube con fuerza y recupera los 19.200 puntos en una jornada semifestiva",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-12T08:26:26+02:00",
+      "fecha": "2026-10-12T18:34:15+02:00",
       "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/10/12/6acc7280468aeb995a8b459f.html"
     },
     {
-      "titular": "Los tipos más altos devuelven el ahorro a los depósitos a plazo",
+      "titular": "Berkeley se dispara casi un 62% en Bolsa en cuatro sesiones",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-11T23:45:02+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/10/11/6acb6cb5468aeb401e8b459c.html"
+      "fecha": "2026-10-12T18:00:36+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/10/12/6acca0a3468aeb61778b459d.html"
+    },
+    {
+      "titular": "Interrumpida la Alta Velocidad entre Barcelona y Madrid por el incendio de un tren en Ricla",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-12T17:52:22+02:00",
+      "enlace": "https://www.expansion.com/empresas/transporte/2026/10/12/6acd0232468aebf72f8b458d.html"
+    },
+    {
+      "titular": "El promotor de Operación Chamartín incrementa un 81% sus pérdidas en 2025",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-12T16:59:26+02:00",
+      "enlace": "https://www.expansion.com/inmobiliario/2026/10/12/6accf5cc468aeb1b598b4584.html"
+    },
+    {
+      "titular": "Citroën resucita el mítico 2 CV y asegura que seguirá siendo \"sencillo, ligero y muy barato\"",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-12T16:50:57+02:00",
+      "enlace": "https://www.expansion.com/empresas/motor/2026/10/12/6accf2dc468aebf72f8b4585.html"
+    },
+    {
+      "titular": "El Brent se da la vuelta y vuelve a superar los 107 dólares",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-12T16:33:59+02:00",
+      "enlace": "https://www.expansion.com/inversion/2026/10/12/6accbba3468aeb052c8b4571.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 24,
+    "antiguedad_minima_min": 23,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 71,
+        "items": 77,
         "error": null,
-        "antiguedad_min": 24,
+        "antiguedad_min": 23,
         "descartados_por_gancho": 0
       },
       {
