@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-10-12T03:28:54+02:00",
+  "generado": "2026-10-12T09:50:36+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -14,31 +14,31 @@
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
     },
     {
-      "titular": "Gabriel Rufián será candidato por Esquerra Republicana el 29-N",
+      "titular": "Buques de guerra marroquíes entraron en aguas de Ceuta coincidiendo con la llegada masiva de inmigrantes",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-11T12:06:53+02:00",
-      "enlace": "https://elpais.com/espana/catalunya/2026-10-11/rufian-sera-candidato-por-esquerra-republicana-el-29-n.html"
+      "fecha": "2026-10-12T05:30:01+02:00",
+      "enlace": "https://elpais.com/espana/2026-10-12/buques-de-guerra-marroquies-invadieron-aguas-de-ceuta-coincidiendo-con-la-entrada-masiva-de-inmigrantes.html"
     },
     {
-      "titular": "Rufián volverá a liderar la candidatura de ERC en el 29-N",
+      "titular": "ERC se alía con Podemos de la mano de Rufián, las claves del acuerdo",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-10-11T12:07:10+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20261011/11656507/gabriel-rufian-volvera-liderar-candidatura-erc-elecciones-29-n.html"
+      "fecha": "2026-10-11T20:54:30+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/elecciones/20261011/11656664/que-consiste-que-incluir-acuerdo-negocian-erc-29-n.html"
     },
     {
-      "titular": "Tres escenarios y una pregunta: ¿quién controla las fronteras, la tecnología y el dinero?",
+      "titular": "Amancio Ortega y su filosofía de vida: «Cuando estás en paz llegas a la oficina con alegría»",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-10-12T02:49:50+02:00",
-      "enlace": "https://www.abc.es/internacional/nuevas-fronteras-20261008014128-nt.html"
+      "fecha": "2026-10-12T09:36:18+02:00",
+      "enlace": "https://www.abc.es/gente/amancio-ortega-anos-filosofia-vida-paz-contigo-20261012162133-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -50,22 +50,22 @@
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
     },
     {
-      "titular": "Sánchez pide al Supremo que “frene el intento de atropello” de Feijóo y Abascal y permita votar a los descendientes del exilio",
+      "titular": "El sexto destructor lanzamisiles de EE UU llegará este jueves a la base naval de Rota",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-11T13:28:39+02:00",
-      "enlace": "https://elpais.com/espana/elecciones-generales/2026-10-11/sanchez-pide-al-supremo-que-frene-el-intento-de-atropello-de-feijoo-y-abascal-y-permita-votar-a-los-descendientes-del-exilio.html"
+      "fecha": "2026-10-12T05:30:01+02:00",
+      "enlace": "https://elpais.com/espana/2026-10-12/el-sexto-destructor-lanzamisiles-de-ee-uu-llegara-este-jueves-a-la-base-naval-de-rota.html"
     },
     {
-      "titular": "¿En qué consiste y qué puede incluir el acuerdo que negocian ERC y Podemos para el 29-N?",
+      "titular": "Gabriel Rufián liderará la candidatura de ERC el 29-N y tiene cerca un acuerdo de colaboración con Podemos",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-10-11T20:54:30+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/elecciones/20261011/11656664/que-consiste-que-incluir-acuerdo-negocian-erc-29-n.html"
+      "fecha": "2026-10-11T12:07:10+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20261011/11656507/gabriel-rufian-volvera-liderar-candidatura-erc-elecciones-29-n.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 39,
+    "antiguedad_minima_min": 2,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2282543,
+        "antiguedad_min": 2282925,
         "descartados_por_gancho": 0
       },
       {
@@ -97,28 +97,28 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 126,
+        "items": 130,
         "error": null,
-        "antiguedad_min": 83,
+        "antiguedad_min": 2,
         "descartados_por_gancho": 9
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 134,
+        "items": 120,
         "error": null,
-        "antiguedad_min": 178,
-        "descartados_por_gancho": 17
+        "antiguedad_min": 115,
+        "descartados_por_gancho": 18
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 25,
+        "items": 24,
         "error": null,
-        "antiguedad_min": 39,
-        "descartados_por_gancho": 0
+        "antiguedad_min": 14,
+        "descartados_por_gancho": 1
       }
     ]
   }
