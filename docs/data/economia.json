@@ -1,17 +1,26 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "ultimas",
-  "generado": "2026-10-12T19:14:01+02:00",
+  "modo": "portadas",
+  "generado": "2026-10-13T01:42:09+02:00",
   "titulares": [
     {
-      "titular": "Starbucks descarta la compra de Chipotle Mexican Grill",
+      "titular": "Zuckerberg rechaza frenar la IA: \"Meta ha alcanzado a sus rivales\"",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-12T18:50:41+02:00",
-      "enlace": "https://www.expansion.com/empresas/distribucion/2026/10/12/6acd0eaa468aeb276b8b4571.html"
+      "fecha": "2026-10-12T21:19:52+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/10/12/6acd2e82e5fdea184d8b4590.html"
+    },
+    {
+      "titular": "El M&A en España desciende un 25% en la 'era Pedro Sánchez'",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-11T23:43:40+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/10/11/6acb70fe468aebb04a8b45a2.html"
     },
     {
       "titular": "El Ibex firma su mayor subida desde julio animado por los bancos",
@@ -23,49 +32,40 @@
       "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/10/12/6acc7280468aeb995a8b459f.html"
     },
     {
-      "titular": "Berkeley se dispara casi un 62% en Bolsa en cuatro sesiones",
+      "titular": "La cuenta de inversión deja fuera al 90% de los fondos españoles",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-12T18:00:36+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/10/12/6acca0a3468aeb61778b459d.html"
+      "fecha": "2026-10-11T23:45:36+02:00",
+      "enlace": "https://www.expansion.com/ahorro/2026/10/11/6acbe795468aeb78798b45b4.html"
     },
     {
-      "titular": "Interrumpida la Alta Velocidad entre Barcelona y Madrid por el incendio de un tren en Ricla",
+      "titular": "Robert E. Hall y Michael Woodford, premio Nobel de Economía 2026",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-12T17:52:22+02:00",
-      "enlace": "https://www.expansion.com/empresas/transporte/2026/10/12/6acd0232468aebf72f8b458d.html"
+      "fecha": "2026-10-12T12:26:32+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/10/12/6accaef1468aebcd638b4575.html"
     },
     {
-      "titular": "El promotor de Operación Chamartín incrementa un 81% sus pérdidas en 2025",
+      "titular": "Los tipos más altos devuelven el ahorro a los depósitos a plazo",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-12T16:59:26+02:00",
-      "enlace": "https://www.expansion.com/inmobiliario/2026/10/12/6accf5cc468aeb1b598b4584.html"
+      "fecha": "2026-10-11T23:45:02+02:00",
+      "enlace": "https://www.expansion.com/empresas/banca/2026/10/11/6acb6cb5468aeb401e8b459c.html"
     },
     {
-      "titular": "Citroën resucita el mítico 2 CV y asegura que seguirá siendo \"sencillo, ligero y muy barato\"",
+      "titular": "Las grandes tecnológicas sacuden el mercado global de deuda",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-12T16:50:57+02:00",
-      "enlace": "https://www.expansion.com/empresas/motor/2026/10/12/6accf2dc468aebf72f8b4585.html"
-    },
-    {
-      "titular": "El Brent se da la vuelta y vuelve a superar los 107 dólares",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-12T16:33:59+02:00",
-      "enlace": "https://www.expansion.com/inversion/2026/10/12/6accbba3468aeb052c8b4571.html"
+      "fecha": "2026-10-11T23:44:45+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/10/11/6acbd221e5fdea2d6c8b458d.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 23,
+    "antiguedad_minima_min": 262,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 77,
+        "items": 79,
         "error": null,
-        "antiguedad_min": 23,
+        "antiguedad_min": 262,
         "descartados_por_gancho": 0
       },
       {
