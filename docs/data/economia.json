@@ -1,53 +1,17 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "ultimas",
-  "generado": "2026-10-13T21:41:40+02:00",
+  "modo": "portadas",
+  "generado": "2026-10-14T01:32:57+02:00",
   "titulares": [
     {
-      "titular": "El Rey, en Ceuta: \"Nuestra obligación es defender una parte irrenunciable de España\"",
+      "titular": "Por qué Donald Trump va directo a la yugular de Zelenski",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-13T20:57:21+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/10/13/6ace7eee468aebb97b8b4599.html"
-    },
-    {
-      "titular": "El Papa León XIV, operado con éxito de la extirpación del nódulo pulmonar",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-13T20:12:49+02:00",
-      "enlace": "https://www.expansion.com/sociedad/2026/10/13/papa-leon-xiv-operado-exito-extirpacion-nodulo-pulmonar.html"
-    },
-    {
-      "titular": "Euskadi ofrece a los caseros un seguro público gratuito para cubrir hasta 20 meses de impago de alquiler",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-13T19:50:51+02:00",
-      "enlace": "https://www.expansion.com/pais-vasco/2026/10/13/euskadi-ofrece-caseros-seguro-publico-gratuito-cubrir-20-meses-impago-alquiler.html"
-    },
-    {
-      "titular": "BP presentará su nuevo plan estratégico con viento de cola",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-13T19:08:33+02:00",
-      "enlace": "https://www.expansion.com/empresas/energia/2026/10/13/6ace658c468aebb4118b45a0.html"
-    },
-    {
-      "titular": "El Cupra Raval supera los 50.000 pedidos y ya es el mejor lanzamiento de la historia de la marca",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-13T18:56:17+02:00",
-      "enlace": "https://www.expansion.com/empresas/motor/2026/10/13/6acdff1b468aebdf418b4586.html"
+      "fecha": "2026-10-13T10:49:45+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/10/13/6acdef70e5fdeac6058b4589.html"
     },
     {
       "titular": "Valorian propone subir un 18% los sueldos en El Corte Inglés, Ikea o Fnac",
@@ -59,13 +23,49 @@
       "enlace": "https://www.expansion.com/empresas/distribucion/2026/10/13/6ace5f6de5fdeab23f8b4590.html"
     },
     {
-      "titular": "Las ventas de moda y artículos de cuero de LVMH caen en un entorno de retroceso del sector del lujo",
+      "titular": "Los decretos causan la retirada de 4.235 viviendas del alquiler en sólo diez días",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-13T17:54:02+02:00",
-      "enlace": "https://www.expansion.com/economia/financial-times/2026/10/13/6ace53f1468aeb49658b459b.html"
+      "fecha": "2026-10-13T11:50:50+02:00",
+      "enlace": "https://www.expansion.com/inmobiliario/mercado/2026/10/13/6acdfedc468aeb667f8b456d.html"
+    },
+    {
+      "titular": "WiZink mueve su sede en Madrid y traslada a 480 empleados",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-13T01:32:12+02:00",
+      "enlace": "https://www.expansion.com/empresas/banca/2026/10/13/6ac92ff0468aeb591e8b457c.html"
+    },
+    {
+      "titular": "El Vaticano confirma que el Papa León XIV tiene cáncer de pulmón",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-13T22:23:45+02:00",
+      "enlace": "https://www.expansion.com/sociedad/2026/10/13/vaticano-confirma-papa-leon-xiv-cancer-pulmon.html"
+    },
+    {
+      "titular": "La rentabilidad de las Letras a 9 meses se dispara hasta el 2,96%",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-13T12:26:53+02:00",
+      "enlace": "https://www.expansion.com/ahorro/2026/10/13/6ace04e9468aebb4118b4573.html"
+    },
+    {
+      "titular": "Las gestoras españolas trasladan a Luxemburgo 12.700 millones en fondos",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-13T11:35:06+02:00",
+      "enlace": "https://www.expansion.com/mercados/fondos/2026/10/13/6acd66d4468aeb1d0a8b4593.html"
     }
   ],
   "salud": {
@@ -78,7 +78,7 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 44,
+    "antiguedad_minima_min": 187,
     "detalle": [
       {
         "medio": "Expansión",
@@ -86,7 +86,7 @@
         "ok": true,
         "items": 77,
         "error": null,
-        "antiguedad_min": 44,
+        "antiguedad_min": 187,
         "descartados_por_gancho": 0
       },
       {
