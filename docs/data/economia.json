@@ -1,71 +1,71 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "portadas",
-  "generado": "2026-10-13T06:58:54+02:00",
+  "modo": "ultimas",
+  "generado": "2026-10-13T14:31:27+02:00",
   "titulares": [
     {
-      "titular": "Zuckerberg rechaza frenar la IA: \"Meta ha alcanzado a sus rivales\"",
+      "titular": "El Ibex busca esquivar el revés a la IA",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-12T21:19:52+02:00",
-      "enlace": "https://www.expansion.com/economia/financial-times/2026/10/12/6acd2e82e5fdea184d8b4590.html"
+      "fecha": "2026-10-13T13:40:59+02:00",
+      "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/10/13/6acdc73b468aebdf418b456f.html"
     },
     {
-      "titular": "PAI Partners prepara la venta de Áreas tras unos resultados récord",
+      "titular": "Netflix emitirá los 104 partidos del Mundial 2030 en España",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-13T03:18:46+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/10/13/6acce867e5fdea27338b4584.html"
+      "fecha": "2026-10-13T13:29:15+02:00",
+      "enlace": "https://www.expansion.com/deporte-negocio/2026/10/13/6ace152c468aeb667f8b4578.html"
     },
     {
-      "titular": "Alfonso Tolcheff (ING): \"Estamos abiertos a cualquier compra que acelere el crecimiento en España\"",
+      "titular": "El BOE publica el calendario laboral de 2027: festivos y puentes en todas las comunidades autónomas",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-13T03:18:50+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/10/13/6acd4bcf468aeb1b598b459d.html"
+      "fecha": "2026-10-13T13:24:51+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/10/13/6acdd8ae468aeb73758b45a3.html"
     },
     {
-      "titular": "Acciona lanza su división de 'data center' con un proyecto de 80 MW",
+      "titular": "La maniobra de Trump sobre el diésel ruso es interesada y no funcionará",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-13T03:18:47+02:00",
-      "enlace": "https://www.expansion.com/empresas/construccion-servicios/2026/10/13/6ac94028468aeb672d8b4584.html"
+      "fecha": "2026-10-13T13:18:12+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/10/13/6ace1292468aebb4118b4581.html"
     },
     {
-      "titular": "¿Es posible asegurar los errores y daños causados por la IA?",
+      "titular": "Hijos de Rivera se atreve con Alemania y abre filial propia en el país",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-13T00:19:20+02:00",
-      "enlace": "https://www.expansion.com/empresas/seguros/2026/10/13/6acd5153468aeb80348b4579.html"
+      "fecha": "2026-10-13T13:16:59+02:00",
+      "enlace": "https://www.expansion.com/empresas/distribucion/2026/10/13/6ace1328e5fdeab23f8b4581.html"
     },
     {
-      "titular": "Las gestoras españolas trasladan a Luxemburgo 12.700 millones en fondos",
+      "titular": "La dieta rica en proteínas y baja en grasas podría contribuir a prevenir la pérdida de audición en la vejez",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-13T01:11:15+02:00",
-      "enlace": "https://www.expansion.com/mercados/fondos/2026/10/13/6acd66d4468aeb1d0a8b4593.html"
+      "fecha": "2026-10-13T13:07:46+02:00",
+      "enlace": "https://www.expansion.com/estilo-vida/salud/2026/10/13/dieta-rica-proteinas-baja-grasas-podria-contribuir-prevenir-perdida-audicion-vejez.html"
     },
     {
-      "titular": "El valor renacido del Ibex que gusta a todos los expertos para seguir subiendo",
+      "titular": "Aena y aerolíneas responden al alza del petróleo con un 4,2% más de tráfico en septiembre",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-13T00:59:55+02:00",
-      "enlace": "https://www.expansion.com/inversion/2026/10/13/6ac8ba5be5fdeada2c8b4592.html"
+      "fecha": "2026-10-13T12:49:43+02:00",
+      "enlace": "https://www.expansion.com/empresas/transporte/2026/10/13/6ace08b2e5fdea4a4e8b4597.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 220,
+    "antiguedad_minima_min": 50,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 69,
+        "items": 73,
         "error": null,
-        "antiguedad_min": 220,
+        "antiguedad_min": 50,
         "descartados_por_gancho": 0
       },
       {
