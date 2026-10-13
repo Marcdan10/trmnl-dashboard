@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-10-13T01:42:06+02:00",
+  "generado": "2026-10-13T06:58:50+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -14,23 +14,31 @@
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
     },
     {
-      "titular": "El TS mantiene la suspensión del voto para los nacionalizados con la 'ley de nietos'",
+      "titular": "El tortuoso camino para aplicar la orden del Supremo sobre la ‘ley de nietos’: de los recursos exprés a las revisiones del censo fuera de plazo",
       "medios": [
-        "El País",
-        "La Vanguardia"
+        "El País"
       ],
-      "consenso": 2,
-      "fecha": "2026-10-12T16:05:40+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20261012/11657158/supremo-mantiene-suspension-voto-nacionalizados-ley-nietos.html"
+      "consenso": 1,
+      "fecha": "2026-10-13T05:30:01+02:00",
+      "enlace": "https://elpais.com/espana/elecciones-generales/2026-10-13/el-tortuoso-camino-para-aplicar-la-orden-del-supremo-sobre-la-ley-de-nietos-de-los-recursos-expres-a-las-revisiones-del-censo-fuera-de-plazo.html"
     },
     {
-      "titular": "Sobrevolando el desfile del 12 de octubre",
+      "titular": "El jefe supremo de la OTAN en Europa avisa a Rusia: “Si nos atacan, lucharemos”",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-13T06:00:00+02:00",
+      "enlace": "https://www.lavanguardia.com/internacional/20261013/11657235/jefe-supremo-otan-europa-avisa-rusia-atacan-lucharemos.html"
+    },
+    {
+      "titular": "De los cheques al diésel ruso: los 'regalos' de Trump para 'comprar' votos y salvar su segundo mandato",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-10-13T01:31:34+02:00",
-      "enlace": "https://www.abc.es/espana/sobrevolando-desfile-octubre-20261012180403-nt.html"
+      "fecha": "2026-10-13T06:30:16+02:00",
+      "enlace": "https://www.abc.es/internacional/cheques-diesel-ruso-regalos-trump-comprar-votos-20261012013834-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -42,31 +50,22 @@
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
     },
     {
-      "titular": "El voto particular en la decisión del Supremo sobre la ‘ley de nietos’: “El 29-N introdujo un elemento nuevo y decisivo”",
+      "titular": "El veto del Supremo a la ‘ley de nietos’: “Voté en 2023, pero ahora me lo prohíben”",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-12T16:08:29+02:00",
-      "enlace": "https://elpais.com/espana/elecciones-generales/2026-10-12/el-voto-particular-sobre-la-decision-del-supremo-sobre-la-ley-de-nietos-el-29-n-introdujo-un-elemento-nuevo-y-decisivo.html"
+      "fecha": "2026-10-13T06:00:00+02:00",
+      "enlace": "https://elpais.com/argentina/2026-10-13/roberto-cano-pereira-espanol-afectado-por-el-veto-del-supremo-vote-en-2023-pero-ahora-me-lo-prohiben.html"
     },
     {
-      "titular": "La izquierda alternativa elige a Colau ante el abismo de la fragmentación",
+      "titular": "Ceuta recibe hoy aún conmocionada a los Reyes",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-10-12T20:02:21+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20261012/11657267/frente-amplio-oficializa-apuesta-colau-emplaza-entrar-coalicion.html"
-    },
-    {
-      "titular": "Morante confirma el futuro de Aarón Palacio",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-13T01:29:16+02:00",
-      "enlace": "https://www.abc.es/cultura/toros/morante-confirma-futuro-aaron-palacio-20261012205413-nt.html"
+      "fecha": "2026-10-13T06:00:00+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20261013/11657238/ceuta-arropa-reyes-banderas-dolor.html"
     }
   ],
   "salud": {
@@ -75,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 10,
+    "antiguedad_minima_min": 13,
     "detalle": [
       {
         "medio": "RTVE",
@@ -83,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2283877,
+        "antiguedad_min": 2284193,
         "descartados_por_gancho": 0
       },
       {
@@ -100,26 +99,26 @@
         "ok": true,
         "items": 140,
         "error": null,
-        "antiguedad_min": 129,
-        "descartados_por_gancho": 8
+        "antiguedad_min": 13,
+        "descartados_por_gancho": 4
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 130,
+        "items": 122,
         "error": null,
-        "antiguedad_min": 197,
-        "descartados_por_gancho": 15
+        "antiguedad_min": 55,
+        "descartados_por_gancho": 16
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 25,
+        "items": 24,
         "error": null,
-        "antiguedad_min": 10,
-        "descartados_por_gancho": 0
+        "antiguedad_min": 28,
+        "descartados_por_gancho": 1
       }
     ]
   }
