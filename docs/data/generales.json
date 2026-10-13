@@ -2,61 +2,61 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-10-13T14:31:24+02:00",
+  "generado": "2026-10-13T21:41:38+02:00",
   "titulares": [
     {
-      "titular": "Última hora de la visita de los Reyes a Ceuta, en directo | Vivas avisa ante los Reyes de que Ceuta “es una olla a presión que en cualquier momento puede estallar”",
+      "titular": "Galatasaray - Barcelona en directo | El VAR anula un gol a Yilmaz por fuera de juego",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-13T14:27:36+02:00",
-      "enlace": "https://elpais.com/espana/2026-10-13/ultima-hora-de-la-visita-de-los-reyes-a-ceuta-en-directo.html"
+      "fecha": "2026-10-13T21:38:45+02:00",
+      "enlace": "https://elpais.com/deportes/futbol/2026-10-13/galatasaray-barcelona-en-directo-el-partido-de-la-champions-league-en-vivo.html"
     },
     {
-      "titular": "De la montaña a la ciudad: el calzado ‘outdoor’ de Columbia para caminar por todo tipo de superficies tiene un 30% de descuento",
+      "titular": "Atlético de Madrid - Manchester United, el partido de la Champions League en directo| El Atleti gana gracias al gol de Barrios a pesar de la insistencia del United",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-13T14:20:00+02:00",
-      "enlace": "https://elpais.com/escaparate/ofertas-y-descuentos/descuento-calzado-columbia.html"
+      "fecha": "2026-10-13T21:38:20+02:00",
+      "enlace": "https://elpais.com/deportes/futbol/2026-10-13/atletico-de-madrid-manchester-united-el-partido-de-la-champions-league-en-directo.html"
     },
     {
-      "titular": "El Prado rescata a Ricardo de Madrazo de los ángulos muertos de la historia del arte",
+      "titular": "Barrios adelanta al Atlético a los 50 segundos",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-10-13T14:17:40+02:00",
-      "enlace": "https://www.abc.es/cultura/prado-rescata-ricardo-madrazo-angulos-muertos-historia-20261013141522-nt.html"
+      "fecha": "2026-10-13T21:18:02+02:00",
+      "enlace": "https://www.abc.es/deportes/atletico-madrid/atletico-madrid-manchester-united-directo-resultado-ganador-20261013202418-di.html"
     },
     {
-      "titular": "La juez Biedma pide que declare el exmagistrado al que «reclutó» Leire Díez para hostigarla",
+      "titular": "«No es solamente un Rey, no es solamente Ceuta»",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-10-13T14:11:44+02:00",
-      "enlace": "https://www.abc.es/espana/juez-biedma-pide-audiencia-nacional-incorporar-denuncias-20261013131135-nt.html"
+      "fecha": "2026-10-13T21:16:14+02:00",
+      "enlace": "https://www.abc.es/espana/rey-ceuta-20261013210240-nt.html"
     },
     {
-      "titular": "Las mujeres españolas son madres seis años más tarde de lo que habían deseado",
+      "titular": "Feijoo echa en cara a Sánchez que no acompañe a los reyes en Ceuta",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-10-13T13:54:27+02:00",
-      "enlace": "https://www.lavanguardia.com/vida/20261013/11657806/mujeres-espanolas-son-madres-seis-anos-mas-tarde-habian-deseado.html"
+      "fecha": "2026-10-13T20:35:57+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20261013/11658182/feijoo-echa-cara-sanchez-acompane-reyes-ceuta.html"
     },
     {
-      "titular": "Estopa recupera las canciones inéditas de su maqueta original en el disco 'La MKT'",
+      "titular": "Angélica Liddell: “Me tiraría sobre el público ahora mismo para que me descuartizara”",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-10-13T13:51:44+02:00",
-      "enlace": "https://www.lavanguardia.com/cultura/20261013/11657868/estopa-recupera-canciones-ineditas-maqueta-original-nuevo-disco.html"
+      "fecha": "2026-10-13T20:35:25+02:00",
+      "enlace": "https://www.lavanguardia.com/cultura/20261013/11658183/angelica-liddell-silk-road-biennal-pensament-muerte-gaijin.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 3,
+    "antiguedad_minima_min": 2,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2284646,
+        "antiguedad_min": 2285076,
         "descartados_por_gancho": 0
       },
       {
@@ -97,28 +97,28 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 147,
+        "items": 148,
         "error": null,
-        "antiguedad_min": 3,
-        "descartados_por_gancho": 4
+        "antiguedad_min": 2,
+        "descartados_por_gancho": 3
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 121,
+        "items": 128,
         "error": null,
-        "antiguedad_min": 36,
-        "descartados_por_gancho": 17
+        "antiguedad_min": 65,
+        "descartados_por_gancho": 16
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 25,
+        "items": 24,
         "error": null,
-        "antiguedad_min": 13,
-        "descartados_por_gancho": 0
+        "antiguedad_min": 23,
+        "descartados_por_gancho": 1
       }
     ]
   }

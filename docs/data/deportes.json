@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-10-13T14:31:29+02:00",
+  "generado": "2026-10-13T21:41:41+02:00",
   "titulares": [
     {
-      "titular": "¡Ojo Barça!: esto es lo que se encontrará en el Ali Sami Yen",
+      "titular": "Buscan voluntarios para vivir gratis en una granja al norte de Portugal por cuidar animales y realizar tareas de jardinería",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-13T14:26:39+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261013/1004238180/ojo-barca-esto-encontrara-ali-sami-yen.html"
+      "fecha": "2026-10-13T21:22:46+02:00",
+      "enlace": "https://www.mundodeportivo.com/actualidad/20261013/1004238394/buscan-voluntarios-vivir-gratis-granja-norte-portugal-cambio-cuidar-animales-realizar-tareas-jardineria-dct.html"
     },
     {
-      "titular": "Bartra: \"Jugar la Champions con el Betis es más especial aún\"",
+      "titular": "El PSG, a punto de consumar un despido",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-13T14:24:36+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/betis/20261013/1004238206/bartra-jugar-champions-betis-especial-aun.html"
+      "fecha": "2026-10-13T21:04:11+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/champions-league/20261013/1004238379/psg-jardinero.html"
     },
     {
       "titular": "El Club 'Divertido' Lugo se lo pasa en grande: líder, invicto y mejor equipo de Primera RFEF",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/mundial/2026/10/13/netflix-adquiere-derechos-audiovisuales-espana-mundial-2030.html"
     },
     {
-      "titular": "La convocatoria del Real Madrid para Roma",
+      "titular": "Juan, agricultor: \"En tres meses ha subido de 1 euro a 1,65 el combustible. Llenar el depósito del tractor son 200 litros y te lo gastas en un día\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-13T14:24:35+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20261013/1004238204/convocatoria-real-madrid-roma.html"
+      "fecha": "2026-10-13T21:03:01+02:00",
+      "enlace": "https://www.mundodeportivo.com/tressesenta/20261013/1004238389/juan-bonilla-agricultor-tres-meses-subido-1-euro-1-65-combustible-llenar-deposito-tractor-son-200-litros-te-gastas-dia-arando-dnr-dct.html"
     },
     {
-      "titular": "Pellegrini: \"Estamos capacitados para hacer cosas importantes\"",
+      "titular": "100-88: El Kids&Us Manresa cae ante el líder Bahcesehir",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-13T14:20:50+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/betis/20261013/1004238203/pellegrini-capacitados-cosas-importantes.html"
+      "fecha": "2026-10-13T20:53:25+02:00",
+      "enlace": "https://www.mundodeportivo.com/baloncesto/eurocup/20261013/1004238384/100-88-kids-us-manresa-cae-lider-bahcesehir.html"
     },
     {
-      "titular": "El Lidl-Trek, en plena reestructuración, se refuerza con el mejor contrarrelojista del mundo",
+      "titular": "Sergio Ruiz, sargento de artillería: \"Alguien que forme parte de las Fuerzas Armadas\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-13T14:15:34+02:00",
-      "enlace": "https://www.mundodeportivo.com/ciclismo/20261013/1004238201/lidl-trek-plena-reestructuracion-refuerza-mejor-contrarrelojista-mundo.html"
+      "fecha": "2026-10-13T20:49:40+02:00",
+      "enlace": "https://www.mundodeportivo.com/actualidad/20261013/1004238369/sergio-ruiz-sargento-artilleria-alguien-forme-parte-fuerzas-armadas-companerismo-expt-dml-dct.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 4,
+    "antiguedad_minima_min": 18,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 60,
         "error": null,
-        "antiguedad_min": 62,
+        "antiguedad_min": 492,
         "descartados_por_gancho": 12
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 139,
+        "items": 136,
         "error": null,
-        "antiguedad_min": 4,
-        "descartados_por_gancho": 3
+        "antiguedad_min": 18,
+        "descartados_por_gancho": 7
       },
       {
         "medio": "Sport",
