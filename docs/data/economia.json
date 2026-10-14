@@ -2,8 +2,35 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-10-14T20:46:14+02:00",
+  "generado": "2026-10-14T23:59:51+02:00",
   "titulares": [
+    {
+      "titular": "Nieves baja un 12% las ventas y confía en las medidas contra el fraude del IVA",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-14T21:43:32+02:00",
+      "enlace": "https://www.expansion.com/catalunya/2026/10/14/nieves-baja-12-ventas-confia-medidas-fraude-iva.html"
+    },
+    {
+      "titular": "OHLA llevará en noviembre a junta extraordinaria un 'contrasplit' para agrupar acciones",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-14T21:35:59+02:00",
+      "enlace": "https://www.expansion.com/empresas/construccion-servicios/2026/10/14/6acfd830468aeba3568b456d.html"
+    },
+    {
+      "titular": "El FBI detiene a un empleado de OpenAI por posible espionaje",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-14T21:24:43+02:00",
+      "enlace": "https://www.expansion.com/tecnologia/2026/10/14/fbi-detiene-empleado-openai-posible-espionaje.html"
+    },
     {
       "titular": "La UE abre la puerta a no acordar este año el presupuesto común",
       "medios": [
@@ -39,33 +66,6 @@
       "consenso": 1,
       "fecha": "2026-10-14T18:28:21+02:00",
       "enlace": "https://www.expansion.com/empresas/telecomunicaciones/2026/10/14/6acfab09e5fdeae1078b45ad.html"
-    },
-    {
-      "titular": "EEUU amenaza con imponer un arancel de 200.000 dólares a cada buque español y con restringir las exportaciones de aceite",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-14T18:23:03+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/10/14/eeuu-amenaza-imponer-arancel-200-000-dolares-buque-espanol-restringir-exportaciones-aceite.html"
-    },
-    {
-      "titular": "Ahorramas despide a su CEO en pleno plan de crecimiento",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-14T18:07:42+02:00",
-      "enlace": "https://www.expansion.com/empresas/distribucion/2026/10/14/6acfa22c468aeb0c0a8b4590.html"
-    },
-    {
-      "titular": "Wewi Mobile incumple el plazo para devolver la marca Finetwork a Vodafone",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-14T18:07:35+02:00",
-      "enlace": "https://www.expansion.com/empresas/telecomunicaciones/2026/10/14/6acfa412e5fdea3c308b45b5.html"
     }
   ],
   "salud": {
@@ -78,7 +78,7 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 78,
+    "antiguedad_minima_min": 136,
     "detalle": [
       {
         "medio": "Expansión",
@@ -86,7 +86,7 @@
         "ok": true,
         "items": 77,
         "error": null,
-        "antiguedad_min": 78,
+        "antiguedad_min": 136,
         "descartados_por_gancho": 0
       },
       {

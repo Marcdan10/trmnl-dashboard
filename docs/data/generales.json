@@ -2,62 +2,61 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-10-14T20:46:11+02:00",
+  "generado": "2026-10-14T23:59:49+02:00",
   "titulares": [
     {
-      "titular": "Tiramisú casero y fácil, con la receta italiana",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-14T20:37:28+02:00",
-      "enlace": "https://www.abc.es/recetasderechupete/tiramisu-facil-receta-tradicional-italiana/2262/"
-    },
-    {
-      "titular": "Salchichas con tomate y arroz blanco, paso a paso",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-14T20:33:52+02:00",
-      "enlace": "https://www.abc.es/gastronomia/falsa-rechupete-20240712032340-nt.html"
-    },
-    {
-      "titular": "La economía entra en campaña (las empresas, menos)",
+      "titular": "Un enorme Betis vuela muy alto y remonta ante el Oporto",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-14T20:29:01+02:00",
-      "enlace": "https://cincodias.elpais.com/economia/foro-creo-creando-oportunidades/2026-10-14/la-economia-entra-en-campana-las-empresas-menos.html"
+      "fecha": "2026-10-14T23:59:06+02:00",
+      "enlace": "https://elpais.com/deportes/futbol/2026-10-14/un-enorme-betis-vuela-muy-alto-y-remonta-ante-el-oporto.html"
     },
     {
-      "titular": "Cuatro partidos de sanción a Vinicius, que se pierde el Clásico",
+      "titular": "Landaluce asume el fin de su mandato en Algeciras tras la moción de censura del PP y Vox: «Esto no tiene vuelta atrás»",
       "medios": [
-        "El País",
         "ABC"
       ],
-      "consenso": 2,
-      "fecha": "2026-10-14T20:25:43+02:00",
-      "enlace": "https://www.abc.es/deportes/real-madrid/oficial-cuatro-partidos-sancion-vinicius-pierde-clasico-20261014193124-nt.html"
+      "consenso": 1,
+      "fecha": "2026-10-14T23:40:00+02:00",
+      "enlace": "https://www.abc.es/espana/andalucia/cadiz/landaluce-asume-fin-mandato-algeciras-tras-mocion-20261014230730-nts.html"
     },
     {
-      "titular": "Conde-Pumpido: “La ley de amnistía se puede derogar, pero no tendrá efectos retroactivos”",
+      "titular": "El Madrid levanta el pulgar a tiempo en Roma",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-14T23:39:17+02:00",
+      "enlace": "https://www.abc.es/deportes/real-madrid/madrid-levanta-pulgar-tiempo-roma-20261014230135-nt.html"
+    },
+    {
+      "titular": "El club de los olvidados rescata al Madrid contra la Roma",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-14T23:29:44+02:00",
+      "enlace": "https://elpais.com/deportes/futbol/2026-10-14/el-club-de-los-olvidados-rescata-al-madrid-contra-la-roma.html"
+    },
+    {
+      "titular": "Un espectacular PSG apabulla con 45 minutos memorables en Manchester",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-10-14T20:08:08+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20261014/11659047/conde-pumpido-ley-amnistia-derogar-tendra-efectos-retroactivos.html"
+      "fecha": "2026-10-14T23:11:34+02:00",
+      "enlace": "https://www.lavanguardia.com/deportes/20261014/11659151/espectacular-psg-apabulla-45-minutos-memorables-manchester.html"
     },
     {
-      "titular": "Casey Affleck: “El cine no debería estar en manos de unos pocos”",
+      "titular": "El Madrid de los suplentes marca tres goles en seis minutos y logra una épica victoria en Roma",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-10-14T20:04:57+02:00",
-      "enlace": "https://www.lavanguardia.com/cultura/20261014/11659097/casey-affleck-cine-deberia-manos-pocos.html"
+      "fecha": "2026-10-14T23:01:07+02:00",
+      "enlace": "https://www.lavanguardia.com/deportes/real-madrid/20261014/11659149/madrid-suplentes-marca-tres-goles-seis-minutos-logra-epica-victoria-roma.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -75,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 8,
+    "antiguedad_minima_min": 0,
     "detalle": [
       {
         "medio": "RTVE",
@@ -83,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2286461,
+        "antiguedad_min": 2286654,
         "descartados_por_gancho": 0
       },
       {
@@ -91,35 +90,35 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 403",
+        "error": "HTTP 500",
         "antiguedad_min": null
       },
       {
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 153,
+        "items": 152,
         "error": null,
-        "antiguedad_min": 17,
+        "antiguedad_min": 0,
         "descartados_por_gancho": 2
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 134,
+        "items": 137,
         "error": null,
-        "antiguedad_min": 38,
-        "descartados_por_gancho": 9
+        "antiguedad_min": 48,
+        "descartados_por_gancho": 11
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 25,
+        "items": 24,
         "error": null,
-        "antiguedad_min": 8,
-        "descartados_por_gancho": 0
+        "antiguedad_min": 19,
+        "descartados_por_gancho": 1
       }
     ]
   }
