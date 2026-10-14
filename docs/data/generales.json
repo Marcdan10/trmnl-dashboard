@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-10-14T01:32:54+02:00",
+  "generado": "2026-10-14T05:06:03+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -32,13 +32,13 @@
       "enlace": "https://www.lavanguardia.com/politica/20261013/11658141/rey-exige-buena-fe-marruecos-advierte-soberania-espanola-negociable.html"
     },
     {
-      "titular": "El Barça destroza al Galatasaray",
+      "titular": "Pardo de Vera, tras solicitar los gastos de Carnicero: «Me dijeron 'ten cuidado, puedes tener problemas, Isabel'»",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-10-14T01:18:43+02:00",
-      "enlace": "https://www.abc.es/deportes/futbol/barca-destroza-galatasaray-20261013230649-nt.html"
+      "fecha": "2026-10-14T01:52:58+02:00",
+      "enlace": "https://www.abc.es/espana/pardo-vera-cesaron-solicitar-gastos-carnicero-20261014013121-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 14,
+    "antiguedad_minima_min": 55,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2285307,
+        "antiguedad_min": 2285521,
         "descartados_por_gancho": 0
       },
       {
@@ -90,7 +90,7 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 500",
+        "error": "HTTP 403",
         "antiguedad_min": null
       },
       {
@@ -99,7 +99,7 @@
         "ok": true,
         "items": 151,
         "error": null,
-        "antiguedad_min": 31,
+        "antiguedad_min": 55,
         "descartados_por_gancho": 2
       },
       {
@@ -108,7 +108,7 @@
         "ok": true,
         "items": 130,
         "error": null,
-        "antiguedad_min": 62,
+        "antiguedad_min": 210,
         "descartados_por_gancho": 12
       },
       {
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 23,
         "error": null,
-        "antiguedad_min": 14,
+        "antiguedad_min": 193,
         "descartados_por_gancho": 2
       }
     ]
