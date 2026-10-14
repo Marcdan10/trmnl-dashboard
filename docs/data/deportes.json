@@ -1,26 +1,26 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "portadas",
-  "generado": "2026-10-14T10:54:22+02:00",
+  "modo": "ultimas",
+  "generado": "2026-10-14T16:15:38+02:00",
   "titulares": [
     {
-      "titular": "\"Asombra al mundo\", \"aterrador\", \"los imparables\"",
+      "titular": "Una de las grandes candidatas al número 1 pierde terreno: sorpasso en lo alto de la clasificación tras el Germany P2",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-14T09:03:15+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261014/1004238561/asombra-mundo-aterrador-imparables.html"
+      "fecha": "2026-10-14T15:50:18+02:00",
+      "enlace": "https://www.mundodeportivo.com/padel/premier-padel/20261014/1004238642/grandes-candidatas-numero-1-pierde-terreno-sorpasso-alto-clasificacion-germany-p2.html"
     },
     {
-      "titular": "1-4: Exhibición de un Barça celestial en el infierno turco",
+      "titular": "El delirante pique de 'Cuti' Romero y Lisandro Martínez en el Metropolitano",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-13T22:57:01+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261013/1004238403/1-4-exhibicion-barca-celestial-infierno-turco.html"
+      "fecha": "2026-10-14T15:20:14+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20261014/1004238715/delirante-pique-cuti-romero-lisandro-martinez-metropolitano.html"
     },
     {
       "titular": "El Club 'Divertido' Lugo se lo pasa en grande: líder, invicto y mejor equipo de Primera RFEF",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/mundial/2026/10/13/netflix-adquiere-derechos-audiovisuales-espana-mundial-2030.html"
     },
     {
-      "titular": "Lamine Yamal explica su 'dribling' de rabona y lanza un mensaje",
+      "titular": "Así entrena un 'runner' de 68 años: \"Por eso siempre digo que nunca es tarde\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-14T09:00:26+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261014/1004238558/lamine-yamal-explica-dribling-rabona-lanza-mensaje.html"
+      "fecha": "2026-10-14T15:20:03+02:00",
+      "enlace": "https://www.mundodeportivo.com/running/20261014/1004238337/asi-entrena-jose-aguiar-runner-68-anos-mi-objetivo-longevidad-prevenir-lesiones-correr-dct.html"
     },
     {
-      "titular": "Arrasate: \"Siento que Osasuna me necesita y que yo puedo ayudar a Osasuna\"",
-      "medios": [
-        "Marca"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-13T12:56:47+02:00",
-      "enlace": "https://www.marca.com/futbol/osasuna/2026/10/13/arrasate-siento-osasuna-me-necesita-ayudar-osasuna.html"
-    },
-    {
-      "titular": "Lo de Vinicius, \"conducta violenta\"",
+      "titular": "El equipo ciclista femenino de Movistar cierra la temporada por todo lo alto con la victoria de Lippert",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-14T08:18:01+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20261014/1004238553/expulsion-vinicius-no-revision-cta.html"
+      "fecha": "2026-10-14T15:03:18+02:00",
+      "enlace": "https://www.mundodeportivo.com/ciclismo/20261014/1004238711/equipo-ciclista-femenino-movistar-cierra-temporada-alto-victoria-liane-lippert-veneto-women.html"
+    },
+    {
+      "titular": "Los auriculares con micrófono que hacen que en las videollamadas se te oiga a ti y no a la lavadora",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-14T15:01:32+02:00",
+      "enlace": "https://www.mundodeportivo.com/elrecomendador/ofertas/20261014/1004238448/auriculares-inalambricos-microfono-hacen-videollamadas-oiga-ti-no-lavadora-mkt-alie.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 29,
+    "antiguedad_minima_min": 25,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 60,
         "error": null,
-        "antiguedad_min": 1285,
+        "antiguedad_min": 1606,
         "descartados_por_gancho": 12
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 129,
+        "items": 137,
         "error": null,
-        "antiguedad_min": 29,
-        "descartados_por_gancho": 9
+        "antiguedad_min": 25,
+        "descartados_por_gancho": 5
       },
       {
         "medio": "Sport",

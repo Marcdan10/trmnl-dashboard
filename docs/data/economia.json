@@ -1,71 +1,71 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "portadas",
-  "generado": "2026-10-14T10:54:21+02:00",
+  "modo": "ultimas",
+  "generado": "2026-10-14T16:15:37+02:00",
   "titulares": [
     {
-      "titular": "FCC, Urbaser y Prezero se lanzan a por las plantas de residuos de Madrid",
+      "titular": "Planeta crece un 5% impulsada por la división de formación y estanca el ebitda",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-14T03:08:58+02:00",
-      "enlace": "https://www.expansion.com/empresas/construccion-servicios/2026/10/14/6ace9b4b468aebb97b8b45a0.html"
+      "fecha": "2026-10-14T15:56:30+02:00",
+      "enlace": "https://www.expansion.com/catalunya/2026/10/14/planeta-crece-5-impulsada-division-formacion-estanca-ebitda.html"
     },
     {
-      "titular": "La inflación se dispara al 4,9% en septiembre y los precios de los alimentos suben un 2,7%",
+      "titular": "Morgan Stanley gana 16.000 millones a septiembre, un 29% más",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-14T09:39:03+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/10/14/inflacion-dispara-4-9-septiembre-precios-alimentos-suben-2-7-1.html"
+      "fecha": "2026-10-14T15:56:14+02:00",
+      "enlace": "https://www.expansion.com/empresas/banca/2026/10/14/6acf89bde5fdea546b8b45b3.html"
     },
     {
-      "titular": "La Primera de Expansión sobre Volkswagen, Stellantis, Renault, Sacyr, Alantra y Santander",
+      "titular": "Feijóo exige que Sánchez explique en el Congreso los buques marroquíes en Ceuta y lo lleva a la Audiencia Nacional",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-14T08:25:32+02:00",
-      "enlace": "https://www.expansion.com/podcasts/primera-expansion/2026/10/14/primera-expansion-sobre-volkswagen-stellantis-renault-sacyr-alantra-santander.html"
+      "fecha": "2026-10-14T15:51:28+02:00",
+      "enlace": "https://www.expansion.com/economia/politica/2026/10/14/feijoo-exige-sanchez-explique-congreso-buques-marroquies-ceuta-lleva-audiencia-nacional.html"
     },
     {
-      "titular": "Cox invertirá 2.900 millones de dólares en El Salvador en infraestructuras de agua y energía",
+      "titular": "El PP denuncia la \"incoherencia\" de la portavoz del PSOE tras conocerse los 30 pisos de su pareja",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-14T08:04:54+02:00",
-      "enlace": "https://www.expansion.com/empresas/energia/2026/10/14/6acf1a54e5fdead9198b459d.html"
+      "fecha": "2026-10-14T15:45:32+02:00",
+      "enlace": "https://www.expansion.com/economia/politica/2026/10/14/pp-denuncia-incoherencia-portavoz-psoe-conocerse-30-pisos-pareja.html"
     },
     {
-      "titular": "El reto de asegurar los centros de datos de la IA en tierra de tornados",
+      "titular": "La economía mundial y el arte de vivir peligrosamente",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-14T03:09:10+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/10/14/6ace74bbe5fdea66608b4575.html"
+      "fecha": "2026-10-14T15:44:56+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/10/14/economia-mundial-arte-vivir-peligrosamente.html"
     },
     {
-      "titular": "Las mujeres facturan, ¿y Hacienda cobra? El peaje fiscal que pagará Shakira en Madrid",
+      "titular": "El Ibex digiere la tensiones inflacionistas en EEUU",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-14T09:44:50+02:00",
-      "enlace": "https://www.expansion.com/fiscal/2026/10/14/mujeres-facturan-hacienda-cobra-peaje-fiscal-pagara-shakira-madrid.html"
-    },
-    {
-      "titular": "El Ibex pone el foco en el IPC de EEUU",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-14T10:11:45+02:00",
+      "fecha": "2026-10-14T15:01:04+02:00",
       "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/10/14/6acf1b16468aeb6b438b456d.html"
+    },
+    {
+      "titular": "La inflación sorprende con un repunte del 3,7% en EEUU a las puertas de las 'midterm'",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-14T14:49:59+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/10/14/inflacion-sorprende-repunte-3-7-eeuu-puertas-midterm.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 30,
+    "antiguedad_minima_min": 19,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 72,
+        "items": 73,
         "error": null,
-        "antiguedad_min": 30,
+        "antiguedad_min": 19,
         "descartados_por_gancho": 0
       },
       {
