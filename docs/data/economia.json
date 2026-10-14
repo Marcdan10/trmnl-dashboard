@@ -2,70 +2,70 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-10-14T16:15:37+02:00",
+  "generado": "2026-10-14T20:46:14+02:00",
   "titulares": [
     {
-      "titular": "Planeta crece un 5% impulsada por la división de formación y estanca el ebitda",
+      "titular": "La UE abre la puerta a no acordar este año el presupuesto común",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-14T15:56:30+02:00",
-      "enlace": "https://www.expansion.com/catalunya/2026/10/14/planeta-crece-5-impulsada-division-formacion-estanca-ebitda.html"
+      "fecha": "2026-10-14T19:27:48+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/10/14/ue-abre-puerta-acordar-ano-presupuesto-comun.html"
     },
     {
-      "titular": "Morgan Stanley gana 16.000 millones a septiembre, un 29% más",
+      "titular": "Lufthansa compra el 44,9% de la lusa TAP y se impone a Air France-KLM",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-14T15:56:14+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/10/14/6acf89bde5fdea546b8b45b3.html"
+      "fecha": "2026-10-14T19:11:47+02:00",
+      "enlace": "https://www.expansion.com/empresas/industria/2026/10/14/6acfb7d0468aeb6d0b8b458e.html"
     },
     {
-      "titular": "Feijóo exige que Sánchez explique en el Congreso los buques marroquíes en Ceuta y lo lleva a la Audiencia Nacional",
+      "titular": "Las acciones del sector de defensa europeo emiten una señal de alarma geopolítica",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-14T15:51:28+02:00",
-      "enlace": "https://www.expansion.com/economia/politica/2026/10/14/feijoo-exige-sanchez-explique-congreso-buques-marroquies-ceuta-lleva-audiencia-nacional.html"
+      "fecha": "2026-10-14T18:58:18+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/10/14/acciones-sector-defensa-europeo-emiten-senal-alarma-geopolitica.html"
     },
     {
-      "titular": "El PP denuncia la \"incoherencia\" de la portavoz del PSOE tras conocerse los 30 pisos de su pareja",
+      "titular": "Telefónica se alía con Revolut en Alemania para telefonía móvil",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-14T15:45:32+02:00",
-      "enlace": "https://www.expansion.com/economia/politica/2026/10/14/pp-denuncia-incoherencia-portavoz-psoe-conocerse-30-pisos-pareja.html"
+      "fecha": "2026-10-14T18:28:21+02:00",
+      "enlace": "https://www.expansion.com/empresas/telecomunicaciones/2026/10/14/6acfab09e5fdeae1078b45ad.html"
     },
     {
-      "titular": "La economía mundial y el arte de vivir peligrosamente",
+      "titular": "EEUU amenaza con imponer un arancel de 200.000 dólares a cada buque español y con restringir las exportaciones de aceite",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-14T15:44:56+02:00",
-      "enlace": "https://www.expansion.com/economia/financial-times/2026/10/14/economia-mundial-arte-vivir-peligrosamente.html"
+      "fecha": "2026-10-14T18:23:03+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/10/14/eeuu-amenaza-imponer-arancel-200-000-dolares-buque-espanol-restringir-exportaciones-aceite.html"
     },
     {
-      "titular": "El Ibex digiere la tensiones inflacionistas en EEUU",
+      "titular": "Ahorramas despide a su CEO en pleno plan de crecimiento",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-14T15:01:04+02:00",
-      "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/10/14/6acf1b16468aeb6b438b456d.html"
+      "fecha": "2026-10-14T18:07:42+02:00",
+      "enlace": "https://www.expansion.com/empresas/distribucion/2026/10/14/6acfa22c468aeb0c0a8b4590.html"
     },
     {
-      "titular": "La inflación sorprende con un repunte del 3,7% en EEUU a las puertas de las 'midterm'",
+      "titular": "Wewi Mobile incumple el plazo para devolver la marca Finetwork a Vodafone",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-14T14:49:59+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/10/14/inflacion-sorprende-repunte-3-7-eeuu-puertas-midterm.html"
+      "fecha": "2026-10-14T18:07:35+02:00",
+      "enlace": "https://www.expansion.com/empresas/telecomunicaciones/2026/10/14/6acfa412e5fdea3c308b45b5.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 19,
+    "antiguedad_minima_min": 78,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 73,
+        "items": 77,
         "error": null,
-        "antiguedad_min": 19,
+        "antiguedad_min": 78,
         "descartados_por_gancho": 0
       },
       {

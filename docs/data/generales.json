@@ -2,61 +2,62 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-10-14T16:15:34+02:00",
+  "generado": "2026-10-14T20:46:11+02:00",
   "titulares": [
     {
-      "titular": "Audio | La declaración de la jueza Biedma en la Audiencia Nacional: “Allí, hacerme algo es muy fácil”",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-14T16:10:00+02:00",
-      "enlace": "https://elpais.com/videos/2026-10-14/audio-la-declaracion-de-la-jueza-biedma-en-la-audiencia-nacional-alli-hacerme-algo-es-muy-facil.html"
-    },
-    {
-      "titular": "Alto seguimiento, cánticos contra Ayuso y cargas en la primera jornada de huelga del profesorado en Madrid",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-14T16:00:48+02:00",
-      "enlace": "https://elpais.com/educacion/2026-10-14/la-huelga-indefinida-del-profesorado-en-madrid-comienza-con-el-corte-de-la-castellana-y-piquetes-en-la-puerta-de-los-centros.html"
-    },
-    {
-      "titular": "Ayuso agotará todas las vías judiciales ante el Supremo si el delegado de Sánchez no desaloja Sol",
+      "titular": "Tiramisú casero y fácil, con la receta italiana",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-10-14T15:54:29+02:00",
-      "enlace": "https://www.abc.es/espana/madrid/ayuso-agotara-vias-judiciales-ante-supremo-delegado-20261014145935-nt.html"
+      "fecha": "2026-10-14T20:37:28+02:00",
+      "enlace": "https://www.abc.es/recetasderechupete/tiramisu-facil-receta-tradicional-italiana/2262/"
     },
     {
-      "titular": "Irene Montero: «Me he criado en una familia creyente. Era hasta monaguilla»",
+      "titular": "Salchichas con tomate y arroz blanco, paso a paso",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-10-14T15:45:46+02:00",
-      "enlace": "https://www.abc.es/gente/irene-montero-anos-sobre-infancia-criado-familia-20261014154546-nt.html"
+      "fecha": "2026-10-14T20:33:52+02:00",
+      "enlace": "https://www.abc.es/gastronomia/falsa-rechupete-20240712032340-nt.html"
     },
     {
-      "titular": "Tres detenidos por su presunta relación con la muerte de un hombre en Barcelona este lunes",
+      "titular": "La economía entra en campaña (las empresas, menos)",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-14T20:29:01+02:00",
+      "enlace": "https://cincodias.elpais.com/economia/foro-creo-creando-oportunidades/2026-10-14/la-economia-entra-en-campana-las-empresas-menos.html"
+    },
+    {
+      "titular": "Cuatro partidos de sanción a Vinicius, que se pierde el Clásico",
+      "medios": [
+        "El País",
+        "ABC"
+      ],
+      "consenso": 2,
+      "fecha": "2026-10-14T20:25:43+02:00",
+      "enlace": "https://www.abc.es/deportes/real-madrid/oficial-cuatro-partidos-sancion-vinicius-pierde-clasico-20261014193124-nt.html"
+    },
+    {
+      "titular": "Conde-Pumpido: “La ley de amnistía se puede derogar, pero no tendrá efectos retroactivos”",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-10-14T15:30:43+02:00",
-      "enlace": "https://www.lavanguardia.com/local/barcelona/20261014/11658911/tres-detenidos-presunta-relacion-muerte-hombre-barcelona-lunes.html"
+      "fecha": "2026-10-14T20:08:08+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20261014/11659047/conde-pumpido-ley-amnistia-derogar-tendra-efectos-retroactivos.html"
     },
     {
-      "titular": "Kimberly Guilfoyle, la exnovia de Trump Jr que acabó de embajadora en Grecia entre escándalos",
+      "titular": "Casey Affleck: “El cine no debería estar en manos de unos pocos”",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-10-14T15:24:43+02:00",
-      "enlace": "https://www.lavanguardia.com/internacional/20261014/11658787/kimberly-guilfoyle-exnovia-trump-jr-acabo-embajadora-grecia-escandalos.html"
+      "fecha": "2026-10-14T20:04:57+02:00",
+      "enlace": "https://www.lavanguardia.com/cultura/20261014/11659097/casey-affleck-cine-deberia-manos-pocos.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -74,7 +75,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 5,
+    "antiguedad_minima_min": 8,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +83,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2286190,
+        "antiguedad_min": 2286461,
         "descartados_por_gancho": 0
       },
       {
@@ -90,26 +91,26 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 500",
+        "error": "HTTP 403",
         "antiguedad_min": null
       },
       {
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 150,
+        "items": 153,
         "error": null,
-        "antiguedad_min": 5,
+        "antiguedad_min": 17,
         "descartados_por_gancho": 2
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 131,
+        "items": 134,
         "error": null,
-        "antiguedad_min": 44,
-        "descartados_por_gancho": 13
+        "antiguedad_min": 38,
+        "descartados_por_gancho": 9
       },
       {
         "medio": "ABC",
@@ -117,7 +118,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 21,
+        "antiguedad_min": 8,
         "descartados_por_gancho": 0
       }
     ]
