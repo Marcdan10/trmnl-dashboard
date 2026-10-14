@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-10-14T05:06:03+02:00",
+  "generado": "2026-10-14T10:54:18+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -14,22 +14,22 @@
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
     },
     {
-      "titular": "El Rey, en Ceuta: “La soberanía y la integridad territorial no son negociables y, ante cualquier riesgo, nuestra obligación es su defensa”",
+      "titular": "Última hora de la actualidad política, en directo | Colau ofrece renunciar a su candidatura y cambiar el nombre de Frente Amplio para lograr la unidad con Podemos",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-13T19:52:15+02:00",
-      "enlace": "https://elpais.com/espana/2026-10-13/el-rey-en-ceuta-la-soberania-y-la-integridad-territorial-no-son-negociables-y-ante-cualquier-riesgo-nuestra-obligacion-es-su-defensa.html"
+      "fecha": "2026-10-14T10:45:00+02:00",
+      "enlace": "https://elpais.com/espana/2026-10-14/ultima-hora-de-la-actualidad-politica-en-directo.html"
     },
     {
-      "titular": "El Rey exige “buena fe” a Marruecos y advierte que la soberanía española “no es negociable”",
+      "titular": "Feijóo reclama la “limpieza del censo” de la mano del Supremo y el Gobierno ve trumpismo",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-10-13T19:41:45+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20261013/11658141/rey-exige-buena-fe-marruecos-advierte-soberania-espanola-negociable.html"
+      "fecha": "2026-10-14T06:00:00+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20261014/11658155/gobierno-alerta-gravedad-resolucion-supremo-restringir-voto.html"
     },
     {
       "titular": "Pardo de Vera, tras solicitar los gastos de Carnicero: «Me dijeron 'ten cuidado, puedes tener problemas, Isabel'»",
@@ -37,7 +37,7 @@
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-10-14T01:52:58+02:00",
+      "fecha": "2026-10-14T10:33:17+02:00",
       "enlace": "https://www.abc.es/espana/pardo-vera-cesaron-solicitar-gastos-carnicero-20261014013121-nt.html"
     },
     {
@@ -50,22 +50,22 @@
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
     },
     {
-      "titular": "Miles de personas reciben con entusiasmo a los Reyes en Ceuta: “Hoy toda España es caballa”",
+      "titular": "La anomalía de la orden del Supremo que solo permite votar a los nacionalizados por la ‘ley de nietos’ que viven en España",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-13T13:55:48+02:00",
-      "enlace": "https://elpais.com/espana/2026-10-13/miles-de-personas-reciben-con-entusiasmo-a-los-reyes-en-ceuta-hoy-toda-espana-es-caballa.html"
+      "fecha": "2026-10-14T05:30:01+02:00",
+      "enlace": "https://elpais.com/espana/elecciones-generales/2026-10-14/la-anomalia-de-la-orden-del-supremo-que-solo-permite-votar-a-los-nacionalizados-por-la-ley-de-nietos-que-viven-en-espana.html"
     },
     {
-      "titular": "Los Reyes visitan un colegio como símbolo de futuro en Ceuta y el cementerio musulmán donde están enterradas las víctimas de la entrada masiva",
+      "titular": "Colau, dispuesta a renunciar al liderazgo del Frente Amplio para pactar con Podemos",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-10-13T17:32:42+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20261013/11658020/reyes-visitan-colegio-muestra-futuro-convivencia-ceuta-quiere-recuperar.html"
+      "fecha": "2026-10-14T09:31:04+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20261014/11658507/colau-ofrece-negociar-lineas-rojas-propia-candidatura-marca-electoral.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 55,
+    "antiguedad_minima_min": 7,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2285521,
+        "antiguedad_min": 2285869,
         "descartados_por_gancho": 0
       },
       {
@@ -97,28 +97,28 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 151,
+        "items": 139,
         "error": null,
-        "antiguedad_min": 55,
-        "descartados_por_gancho": 2
+        "antiguedad_min": 7,
+        "descartados_por_gancho": 3
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 130,
+        "items": 124,
         "error": null,
-        "antiguedad_min": 210,
-        "descartados_por_gancho": 12
+        "antiguedad_min": 46,
+        "descartados_por_gancho": 13
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 23,
+        "items": 24,
         "error": null,
-        "antiguedad_min": 193,
-        "descartados_por_gancho": 2
+        "antiguedad_min": 21,
+        "descartados_por_gancho": 1
       }
     ]
   }

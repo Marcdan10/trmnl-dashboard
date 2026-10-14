@@ -2,34 +2,34 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "portadas",
-  "generado": "2026-10-14T05:06:13+02:00",
+  "generado": "2026-10-14T10:54:28+02:00",
   "titulares": [
     {
-      "titular": "Castilla y León reserva 1.326 millones a Farmacia dentro del presupuesto de 2027",
+      "titular": "La farmacia de AP reivindica su capacidad diferencial en la prescripción de legado",
       "medios": [
         "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-10-13T21:16:48+02:00",
-      "enlace": "https://diariofarma.com/2026/10/13/castilla-y-leon-reserva-1-326-millones-a-farmacia-dentro-del-presupuesto-de-2027"
+      "fecha": "2026-10-14T10:47:18+02:00",
+      "enlace": "https://diariofarma.com/2026/10/14/la-farmacia-de-ap-reivindica-su-capacidad-diferencial-en-la-prescripcion-de-legado"
     },
     {
-      "titular": "Cupón precinto: las claves de un cambio de modelo",
+      "titular": "La AESGP pide triplicar la protección de datos para impulsar el cambio de medicamentos con receta a sin receta",
       "medios": [
         "El Global"
       ],
       "consenso": 1,
-      "fecha": "2026-10-13T18:03:01+02:00",
-      "enlace": "https://elglobalfarma.com/farmacia/cupon-precinto-claves-cambio-modelo/"
+      "fecha": "2026-10-14T09:45:05+02:00",
+      "enlace": "https://elglobalfarma.com/farmacia/autocuidado/aesgp-triplicar-proteccion-datos-medicamentos-con-receta-sin-receta/"
     },
     {
-      "titular": "Mayor control de legalidad y solvencia del tejido empresarial dentista para proteger a trabajador y paciente",
+      "titular": "La IA busca su salto real en Oncología: de los pilotos al liderazgo europeo",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-10-13T18:30:00+02:00",
-      "enlace": "https://www.redaccionmedica.com/profesionales/20261013/mayor-control-de-legalidad-solvencia-del-tejido-empresarial-dentista-para-proteger-trabajador-paciente/361347_0.html"
+      "fecha": "2026-10-14T05:00:00+02:00",
+      "enlace": "https://www.redaccionmedica.com/profesionales/20261014/la-ia-busca-su-salto-real-en-oncologia-de-los-pilotos-al-liderazgo-europeo/353383_0.html"
     },
     {
       "titular": "Feder y Farmaindustria abordan los retos del cribado, a través de la experiencia de Murcia",
@@ -42,31 +42,31 @@
       "enlace": "https://diariofarma.com/2026/10/13/feder-y-farmaindustria-abordan-los-y-retos-del-cribado-en-el-sns-con-la-experiencia-de-murcia"
     },
     {
-      "titular": "La sanidad privada plantea abrir su historia clínica interoperable a Muface para compartir datos clínicos con la pública",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-13T16:39:59+02:00",
-      "enlace": "https://www.redaccionmedica.com/empresas/sanidad-privada/20261013/la-sanidad-privada-plantea-abrir-su-historia-clinica-interoperable-muface-para-compartir-datos-clinicos-con-la-publica/354535_0.html"
-    },
-    {
-      "titular": "La EFPIA vuelve a la carga contra la Directiva de Aguas Residuales tras el respaldo de 15 países a Polonia",
+      "titular": "Las recomendaciones para una política de financiación sostenible de medicamentos en España",
       "medios": [
         "El Global"
       ],
       "consenso": 1,
-      "fecha": "2026-10-13T17:19:05+02:00",
-      "enlace": "https://elglobalfarma.com/industria/efpia-carga-directiva-aguas-residuales-respaldo-15-paises-polonia/"
+      "fecha": "2026-10-14T09:11:31+02:00",
+      "enlace": "https://elglobalfarma.com/politica/funcas-recomendaciones-politica-financiacion-sostenible-espana/"
     },
     {
-      "titular": "La Red EAMI define su Plan Estratégico 2027-2030 e incorpora a Honduras y Chile",
+      "titular": "Si mi voto el 29N solo dependiera de la Sanidad",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-14T05:05:00+02:00",
+      "enlace": "https://www.redaccionmedica.com/opinion/20261014/si-mi-voto-el-solo-dependiera-de-la-sanidad/361340_12.html"
+    },
+    {
+      "titular": "Castilla y León reserva 1.326 millones a Farmacia dentro del presupuesto de 2027",
       "medios": [
         "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-10-13T18:04:32+02:00",
-      "enlace": "https://diariofarma.com/2026/10/13/la-red-eami-define-su-plan-estrategico-2027-2030-e-incorpora-a-honduras-y-chile"
+      "fecha": "2026-10-13T21:16:48+02:00",
+      "enlace": "https://diariofarma.com/2026/10/13/castilla-y-leon-reserva-1-326-millones-a-farmacia-dentro-del-presupuesto-de-2027"
     }
   ],
   "salud": {
@@ -77,7 +77,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 469,
+    "antiguedad_minima_min": 7,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -85,7 +85,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 469,
+        "antiguedad_min": 7,
         "descartados_por_gancho": 0
       },
       {
@@ -94,7 +94,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 663,
+        "antiguedad_min": 69,
         "descartados_por_gancho": 0
       },
       {
@@ -103,7 +103,7 @@
         "ok": true,
         "items": 29,
         "error": null,
-        "antiguedad_min": 636,
+        "antiguedad_min": 34,
         "descartados_por_gancho": 1
       },
       {

@@ -2,25 +2,43 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "portadas",
-  "generado": "2026-10-14T05:06:05+02:00",
+  "generado": "2026-10-14T10:54:21+02:00",
   "titulares": [
     {
-      "titular": "Volkswagen, Stellantis y Renault plantan cara a las marcas chinas con una ofensiva de modelos",
+      "titular": "FCC, Urbaser y Prezero se lanzan a por las plantas de residuos de Madrid",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
       "fecha": "2026-10-14T03:08:58+02:00",
-      "enlace": "https://www.expansion.com/empresas/motor/2026/10/14/6ace579a468aeb5c118b4587.html"
+      "enlace": "https://www.expansion.com/empresas/construccion-servicios/2026/10/14/6ace9b4b468aebb97b8b45a0.html"
     },
     {
-      "titular": "Santander liderará el alza del beneficio de una banca europea disparada",
+      "titular": "La inflación se dispara al 4,9% en septiembre y los precios de los alimentos suben un 2,7%",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-14T03:08:59+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/10/14/6aa93ea8468aebf73f8b4595.html"
+      "fecha": "2026-10-14T09:39:03+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/10/14/inflacion-dispara-4-9-septiembre-precios-alimentos-suben-2-7-1.html"
+    },
+    {
+      "titular": "La Primera de Expansión sobre Volkswagen, Stellantis, Renault, Sacyr, Alantra y Santander",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-14T08:25:32+02:00",
+      "enlace": "https://www.expansion.com/podcasts/primera-expansion/2026/10/14/primera-expansion-sobre-volkswagen-stellantis-renault-sacyr-alantra-santander.html"
+    },
+    {
+      "titular": "Cox invertirá 2.900 millones de dólares en El Salvador en infraestructuras de agua y energía",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-14T08:04:54+02:00",
+      "enlace": "https://www.expansion.com/empresas/energia/2026/10/14/6acf1a54e5fdead9198b459d.html"
     },
     {
       "titular": "El reto de asegurar los centros de datos de la IA en tierra de tornados",
@@ -37,35 +55,17 @@
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-14T00:18:47+02:00",
-      "enlace": "https://www.expansion.com/fiscal/2026/10/14/6ace7d01468aeb98198b4597.html"
+      "fecha": "2026-10-14T09:44:50+02:00",
+      "enlace": "https://www.expansion.com/fiscal/2026/10/14/mujeres-facturan-hacienda-cobra-peaje-fiscal-pagara-shakira-madrid.html"
     },
     {
-      "titular": "España: AIG, Zurich, Beazley, XL y Chubb cubren el riesgo tecnológico",
+      "titular": "El Ibex pone el foco en el IPC de EEUU",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-14T00:16:31+02:00",
-      "enlace": "https://www.expansion.com/empresas/seguros/2026/10/14/6acea6cae5fdeadf2e8b4574.html"
-    },
-    {
-      "titular": "Cómo sacar partido en el Ibex 35 a la gran paradoja de la Bolsa y el euro",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-13T20:44:47+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/10/13/6ace6020e5fdeab23f8b4597.html"
-    },
-    {
-      "titular": "Diez valores que podrían subir en Bolsa con sus resultados",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-14T00:20:34+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/10/14/6ace1f47468aeb7e218b457d.html"
+      "fecha": "2026-10-14T10:11:45+02:00",
+      "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/10/14/6acf1b16468aeb6b438b456d.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 116,
+    "antiguedad_minima_min": 30,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 68,
+        "items": 72,
         "error": null,
-        "antiguedad_min": 116,
+        "antiguedad_min": 30,
         "descartados_por_gancho": 0
       },
       {

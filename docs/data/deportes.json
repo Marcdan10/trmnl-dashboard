@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-10-14T05:06:07+02:00",
+  "generado": "2026-10-14T10:54:22+02:00",
   "titulares": [
     {
-      "titular": "Exhibición celestial en el infierno turco",
+      "titular": "\"Asombra al mundo\", \"aterrador\", \"los imparables\"",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-14T09:03:15+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261014/1004238561/asombra-mundo-aterrador-imparables.html"
+    },
+    {
+      "titular": "1-4: Exhibición de un Barça celestial en el infierno turco",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
       "fecha": "2026-10-13T22:57:01+02:00",
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261013/1004238403/1-4-exhibicion-barca-celestial-infierno-turco.html"
-    },
-    {
-      "titular": "El segundo entrenador del Galatasaray avisa a Flick y a su línea adelantada",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-13T19:37:59+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261013/1004238291/fawet.html"
     },
     {
       "titular": "El Club 'Divertido' Lugo se lo pasa en grande: líder, invicto y mejor equipo de Primera RFEF",
@@ -41,13 +41,13 @@
       "enlace": "https://www.marca.com/futbol/mundial/2026/10/13/netflix-adquiere-derechos-audiovisuales-espana-mundial-2030.html"
     },
     {
-      "titular": "El Galatasaray, sin dos de sus grandes nombres contra el Barça",
+      "titular": "Lamine Yamal explica su 'dribling' de rabona y lanza un mensaje",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-13T20:31:22+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261013/1004238378/galatasaray-dos-grandes-nombres-barca.html"
+      "fecha": "2026-10-14T09:00:26+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261014/1004238558/lamine-yamal-explica-dribling-rabona-lanza-mensaje.html"
     },
     {
       "titular": "Arrasate: \"Siento que Osasuna me necesita y que yo puedo ayudar a Osasuna\"",
@@ -59,13 +59,13 @@
       "enlace": "https://www.marca.com/futbol/osasuna/2026/10/13/arrasate-siento-osasuna-me-necesita-ayudar-osasuna.html"
     },
     {
-      "titular": "2-0. El Atlético logra un solvente triunfo para su capitán",
+      "titular": "Lo de Vinicius, \"conducta violenta\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-13T23:05:13+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20261013/1004238409/2-0-atletico-logra-solvente-triunfo-capitan.html"
+      "fecha": "2026-10-14T08:18:01+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20261014/1004238553/expulsion-vinicius-no-revision-cta.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 245,
+    "antiguedad_minima_min": 29,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 60,
         "error": null,
-        "antiguedad_min": 937,
+        "antiguedad_min": 1285,
         "descartados_por_gancho": 12
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 147,
+        "items": 129,
         "error": null,
-        "antiguedad_min": 245,
-        "descartados_por_gancho": 3
+        "antiguedad_min": 29,
+        "descartados_por_gancho": 9
       },
       {
         "medio": "Sport",
