@@ -1,8 +1,8 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "ultimas",
-  "generado": "2026-10-14T23:59:58+02:00",
+  "modo": "portadas",
+  "generado": "2026-10-15T02:23:06+02:00",
   "titulares": [
     {
       "titular": "“Nuestra propuesta al Biotech Act suscita interés y una buena acogida en Europa”",
@@ -14,13 +14,13 @@
       "enlace": "https://diariofarma.com/2026/10/14/nuestra-propuesta-al-biotech-act-suscita-interes-y-una-buena-acogida-en-europa"
     },
     {
-      "titular": "España no suscribe la iniciativa polaca sobre la RAP, pero reclama armonización europea",
+      "titular": "FIR 2027: todo lo que debes saber",
       "medios": [
-        "Diariofarma"
+        "El Global"
       ],
       "consenso": 1,
-      "fecha": "2026-10-14T21:08:40+02:00",
-      "enlace": "https://diariofarma.com/2026/10/14/espana-no-suscribe-la-iniciativa-polaca-sobre-la-rap-pero-reclama-armonizacion-europea"
+      "fecha": "2026-10-14T18:23:54+02:00",
+      "enlace": "https://elglobalfarma.com/farmacia/fir-2027-todo-debes-saber/"
     },
     {
       "titular": "La 'letra pequeña' que lastra la especialización veterinaria en Genética de Laboratorio: \"Los requisitos nos excluyen\"",
@@ -32,13 +32,13 @@
       "enlace": "https://www.redaccionmedica.com/profesionales/veterinaria/20261014/la-letra-pequena-que-lastra-la-especializacion-veterinaria-en-genetica-de-laboratorio-los-requisitos-nos-excluyen/362028_0.html"
     },
     {
-      "titular": "FIR 2027: todo lo que debes saber",
+      "titular": "España no suscribe la iniciativa polaca sobre la RAP, pero reclama armonización europea",
       "medios": [
-        "El Global"
+        "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-10-14T18:23:54+02:00",
-      "enlace": "https://elglobalfarma.com/farmacia/fir-2027-todo-debes-saber/"
+      "fecha": "2026-10-14T21:08:40+02:00",
+      "enlace": "https://diariofarma.com/2026/10/14/espana-no-suscribe-la-iniciativa-polaca-sobre-la-rap-pero-reclama-armonizacion-europea"
     },
     {
       "titular": "La EFPIA defiende que la seguridad sanitaria europea exige cooperación entre países y sistemas sanitarios sólidos",
@@ -50,13 +50,13 @@
       "enlace": "https://elglobalfarma.com/industria/efpia-seguridad-sanitaria-europea-cooperacion-paises-sistemas-sanitarios-solidos/"
     },
     {
-      "titular": "Fernando Campos (DKV): \"Los retos de la salud se afrontan desde la colaboración, la innovación y el conocimiento compartido\"",
+      "titular": "Las comunidades enmiendan la reforma del aborto: de la memoria económica a la confidencialidad en la historia clínica",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-10-14T17:57:41+02:00",
-      "enlace": "https://www.redaccionmedica.com/empresas/sanidad-privada/20261014/fernando-campos-dkv-los-retos-de-la-salud-se-afrontan-desde-colaboracion-innovacion-el-conocimiento-compartido/362045_0.html"
+      "fecha": "2026-10-14T15:11:43+02:00",
+      "enlace": "https://www.redaccionmedica.com/autonomias/20261014/las-comunidades-enmiendan-la-reforma-del-aborto-de-memoria-economica-confidencialidad-en-historia-clinica/362116_0.html"
     },
     {
       "titular": "Fenin plantea cuatro peticiones ante el 29N y alerta del riesgo para la industria sanitaria",
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 72,
+    "antiguedad_minima_min": 215,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 72,
+        "antiguedad_min": 215,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 336,
+        "antiguedad_min": 479,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 29,
         "error": null,
-        "antiguedad_min": 314,
+        "antiguedad_min": 457,
         "descartados_por_gancho": 1
       },
       {

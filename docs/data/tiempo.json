@@ -1,31 +1,7 @@
 {
   "ciudad": "Barcelona",
-  "generado": "2026-10-14T21:59:59",
+  "generado": "2026-10-15T00:23:07",
   "horas": [
-    {
-      "hora": "22",
-      "temp": 22,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "luna"
-    },
-    {
-      "hora": "23",
-      "temp": 21,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "luna"
-    },
-    {
-      "hora": "00",
-      "temp": 21,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "luna"
-    },
     {
       "hora": "01",
       "temp": 20,
@@ -40,11 +16,11 @@
       "prob": 0,
       "mm": 0,
       "mostrar_prob": false,
-      "icono": "luna"
+      "icono": "nube"
     },
     {
       "hora": "03",
-      "temp": 19,
+      "temp": 20,
       "prob": 0,
       "mm": 0,
       "mostrar_prob": false,
@@ -56,7 +32,7 @@
       "prob": 0,
       "mm": 0,
       "mostrar_prob": false,
-      "icono": "nube"
+      "icono": "luna"
     },
     {
       "hora": "05",
@@ -68,7 +44,7 @@
     },
     {
       "hora": "06",
-      "temp": 19,
+      "temp": 18,
       "prob": 0,
       "mm": 0,
       "mostrar_prob": false,
@@ -96,20 +72,34 @@
       "prob": 0,
       "mm": 0,
       "mostrar_prob": false,
-      "icono": "nube"
-    }
-  ],
-  "dias": [
+      "icono": "sol"
+    },
     {
-      "etiqueta": "jue 15",
-      "max": 22,
-      "min": 18,
+      "hora": "10",
+      "temp": 18,
       "prob": 0,
       "mm": 0,
       "mostrar_prob": false,
-      "destacar": false,
+      "icono": "sol"
+    },
+    {
+      "hora": "11",
+      "temp": 20,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
       "icono": "nube"
     },
+    {
+      "hora": "12",
+      "temp": 21,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "sol"
+    }
+  ],
+  "dias": [
     {
       "etiqueta": "vie 16",
       "max": 23,
@@ -165,6 +155,16 @@
       "max": 24,
       "min": 15,
       "prob": 38,
+      "mm": 0,
+      "mostrar_prob": true,
+      "destacar": false,
+      "icono": "nube"
+    },
+    {
+      "etiqueta": "jue 22",
+      "max": 20,
+      "min": 13,
+      "prob": 28,
       "mm": 0,
       "mostrar_prob": true,
       "destacar": false,

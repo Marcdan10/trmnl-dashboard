@@ -1,71 +1,71 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "ultimas",
-  "generado": "2026-10-14T23:59:51+02:00",
+  "modo": "portadas",
+  "generado": "2026-10-15T02:22:58+02:00",
   "titulares": [
     {
-      "titular": "Nieves baja un 12% las ventas y confía en las medidas contra el fraude del IVA",
+      "titular": "La deuda española ofrece una oportunidad histórica para invertir",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-14T21:43:32+02:00",
-      "enlace": "https://www.expansion.com/catalunya/2026/10/14/nieves-baja-12-ventas-confia-medidas-fraude-iva.html"
+      "fecha": "2026-10-14T00:24:01+02:00",
+      "enlace": "https://www.expansion.com/mercados/renta-fija/2026/10/14/6ace67f2e5fdea18358b456f.html"
     },
     {
-      "titular": "OHLA llevará en noviembre a junta extraordinaria un 'contrasplit' para agrupar acciones",
+      "titular": "FCC, Urbaser y Prezero se lanzan a por las plantas de residuos de Madrid",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-14T21:35:59+02:00",
-      "enlace": "https://www.expansion.com/empresas/construccion-servicios/2026/10/14/6acfd830468aeba3568b456d.html"
+      "fecha": "2026-10-14T03:08:58+02:00",
+      "enlace": "https://www.expansion.com/empresas/construccion-servicios/2026/10/14/6ace9b4b468aebb97b8b45a0.html"
     },
     {
-      "titular": "El FBI detiene a un empleado de OpenAI por posible espionaje",
+      "titular": "EEUU amenaza con imponer un arancel de 200.000 dólares a cada buque español y con restringir las exportaciones de aceite",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-14T21:24:43+02:00",
-      "enlace": "https://www.expansion.com/tecnologia/2026/10/14/fbi-detiene-empleado-openai-posible-espionaje.html"
+      "fecha": "2026-10-14T18:23:03+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/10/14/eeuu-amenaza-imponer-arancel-200-000-dolares-buque-espanol-restringir-exportaciones-aceite.html"
     },
     {
-      "titular": "La UE abre la puerta a no acordar este año el presupuesto común",
+      "titular": "El PP plantea un \"plan de choque\" con rebajas en IVA e IRPF para contener el alza de precios",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-14T19:27:48+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/10/14/ue-abre-puerta-acordar-ano-presupuesto-comun.html"
+      "fecha": "2026-10-14T17:55:26+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/10/14/pp-plantea-plan-choque-rebajas-iva-e-irpf-contener-alza-precios.html"
     },
     {
-      "titular": "Lufthansa compra el 44,9% de la lusa TAP y se impone a Air France-KLM",
+      "titular": "Los hutíes dejan al descubierto los límites del enorme arsenal de Arabia Saudí",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-14T19:11:47+02:00",
-      "enlace": "https://www.expansion.com/empresas/industria/2026/10/14/6acfb7d0468aeb6d0b8b458e.html"
+      "fecha": "2026-10-14T16:04:19+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/10/14/huties-dejan-descubierto-limites-enorme-arsenal-arabia-saudi.html"
     },
     {
-      "titular": "Las acciones del sector de defensa europeo emiten una señal de alarma geopolítica",
+      "titular": "Diez valores que podrían subir en Bolsa con sus resultados",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-14T18:58:18+02:00",
-      "enlace": "https://www.expansion.com/economia/financial-times/2026/10/14/acciones-sector-defensa-europeo-emiten-senal-alarma-geopolitica.html"
+      "fecha": "2026-10-14T00:20:34+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/10/14/6ace1f47468aeb7e218b457d.html"
     },
     {
-      "titular": "Telefónica se alía con Revolut en Alemania para telefonía móvil",
+      "titular": "Las mujeres facturan, ¿y Hacienda cobra? El peaje fiscal que pagará Shakira en Madrid",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-14T18:28:21+02:00",
-      "enlace": "https://www.expansion.com/empresas/telecomunicaciones/2026/10/14/6acfab09e5fdeae1078b45ad.html"
+      "fecha": "2026-10-14T09:44:50+02:00",
+      "enlace": "https://www.expansion.com/fiscal/2026/10/14/mujeres-facturan-hacienda-cobra-peaje-fiscal-pagara-shakira-madrid.html"
     }
   ],
   "salud": {
@@ -78,7 +78,7 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 136,
+    "antiguedad_minima_min": 279,
     "detalle": [
       {
         "medio": "Expansión",
@@ -86,7 +86,7 @@
         "ok": true,
         "items": 77,
         "error": null,
-        "antiguedad_min": 136,
+        "antiguedad_min": 279,
         "descartados_por_gancho": 0
       },
       {

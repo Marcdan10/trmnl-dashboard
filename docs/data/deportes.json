@@ -1,20 +1,20 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "ultimas",
-  "generado": "2026-10-14T23:59:52+02:00",
+  "modo": "portadas",
+  "generado": "2026-10-15T02:23:00+02:00",
   "titulares": [
     {
-      "titular": "6-0: El Aston Villa de Emery pasea su pegada y 'mata' al Fenerbahce",
+      "titular": "El Real Madrid de las remontadas en Champions volvió en Roma",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-14T23:22:13+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/champions-league/20261014/1004238867/aston-villa-emery-pasea-pegada-mata-fenerbahce.html"
+      "fecha": "2026-10-14T23:00:19+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20261014/1004238861/real-madrid-remontadas-champions-volvio-roma.html"
     },
     {
-      "titular": "Y el martes, Barça-PSG: el firme candidato ante el doble campeón",
+      "titular": "Y el martes, PSG-Barça: el doble campeón contra el firme candidato",
       "medios": [
         "Mundo Deportivo"
       ],
@@ -50,22 +50,22 @@
       "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20261014/1004238866/victoria-perfecta-trilero-mourinho.html"
     },
     {
-      "titular": "0-3: El Stuttgart sigue de dulce y hunde aún más al Slovan Bratislava",
+      "titular": "Arrasate: \"Siento que Osasuna me necesita y que yo puedo ayudar a Osasuna\"",
       "medios": [
-        "Mundo Deportivo"
+        "Marca"
       ],
       "consenso": 1,
-      "fecha": "2026-10-14T23:13:36+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/champions-league/20261014/1004238863/stuttgart-sigue-dulce-hunde-aun-slovan-bratislava.html"
+      "fecha": "2026-10-13T12:56:47+02:00",
+      "enlace": "https://www.marca.com/futbol/osasuna/2026/10/13/arrasate-siento-osasuna-me-necesita-ayudar-osasuna.html"
     },
     {
-      "titular": "El 1X1 del Real Madrid ante la Roma",
+      "titular": "2-4: Luis Enrique toma el Etihad con una demoledora primera parte",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-14T23:13:34+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20261014/1004238843/1x1-real-madrid-roma.html"
+      "fecha": "2026-10-14T23:03:17+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/champions-league/20261014/1004238846/city-psg.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 37,
+    "antiguedad_minima_min": 103,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 60,
         "error": null,
-        "antiguedad_min": 2071,
+        "antiguedad_min": 2214,
         "descartados_por_gancho": 12
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 137,
+        "items": 136,
         "error": null,
-        "antiguedad_min": 37,
-        "descartados_por_gancho": 6
+        "antiguedad_min": 103,
+        "descartados_por_gancho": 7
       },
       {
         "medio": "Sport",

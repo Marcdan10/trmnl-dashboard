@@ -1,63 +1,9 @@
 {
   "pantalla": "generales",
   "titulo": "Titulares",
-  "modo": "ultimas",
-  "generado": "2026-10-14T23:59:49+02:00",
+  "modo": "portadas",
+  "generado": "2026-10-15T02:22:56+02:00",
   "titulares": [
-    {
-      "titular": "Un enorme Betis vuela muy alto y remonta ante el Oporto",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-14T23:59:06+02:00",
-      "enlace": "https://elpais.com/deportes/futbol/2026-10-14/un-enorme-betis-vuela-muy-alto-y-remonta-ante-el-oporto.html"
-    },
-    {
-      "titular": "Landaluce asume el fin de su mandato en Algeciras tras la moción de censura del PP y Vox: «Esto no tiene vuelta atrás»",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-14T23:40:00+02:00",
-      "enlace": "https://www.abc.es/espana/andalucia/cadiz/landaluce-asume-fin-mandato-algeciras-tras-mocion-20261014230730-nts.html"
-    },
-    {
-      "titular": "El Madrid levanta el pulgar a tiempo en Roma",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-14T23:39:17+02:00",
-      "enlace": "https://www.abc.es/deportes/real-madrid/madrid-levanta-pulgar-tiempo-roma-20261014230135-nt.html"
-    },
-    {
-      "titular": "El club de los olvidados rescata al Madrid contra la Roma",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-14T23:29:44+02:00",
-      "enlace": "https://elpais.com/deportes/futbol/2026-10-14/el-club-de-los-olvidados-rescata-al-madrid-contra-la-roma.html"
-    },
-    {
-      "titular": "Un espectacular PSG apabulla con 45 minutos memorables en Manchester",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-14T23:11:34+02:00",
-      "enlace": "https://www.lavanguardia.com/deportes/20261014/11659151/espectacular-psg-apabulla-45-minutos-memorables-manchester.html"
-    },
-    {
-      "titular": "El Madrid de los suplentes marca tres goles en seis minutos y logra una épica victoria en Roma",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-14T23:01:07+02:00",
-      "enlace": "https://www.lavanguardia.com/deportes/real-madrid/20261014/11659149/madrid-suplentes-marca-tres-goles-seis-minutos-logra-epica-victoria-roma.html"
-    },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
       "medios": [
@@ -66,6 +12,60 @@
       "consenso": 1,
       "fecha": "2022-06-10T01:05:00+02:00",
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
+    },
+    {
+      "titular": "Margarita Robles será la ‘número dos’ de Pedro Sánchez en las listas del PSOE",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-14T17:12:03+02:00",
+      "enlace": "https://elpais.com/espana/elecciones-generales/2026-10-14/margarita-robles-sera-la-numero-dos-de-pedro-sanchez-en-las-listas-del-psoe.html"
+    },
+    {
+      "titular": "Conde-Pumpido: “Solo queda que el Supremo aplique la amnistía y cierre la causa del 'procés'”",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-14T20:08:08+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20261014/11659047/conde-pumpido-ley-amnistia-derogar-tendra-efectos-retroactivos.html"
+    },
+    {
+      "titular": "Urtasun guarda silencio sobre el Principal de Valencia tres semanas después del cierre",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-15T01:44:50+02:00",
+      "enlace": "https://www.abc.es/espana/comunidad-valenciana/urtasun-guarda-silencio-sobre-principal-valencia-tres-20261015194500-nt.html"
+    },
+    {
+      "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
+      "medios": [
+        "RTVE"
+      ],
+      "consenso": 1,
+      "fecha": "2022-06-10T00:03:00+02:00",
+      "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
+    },
+    {
+      "titular": "El PSOE aumenta la distancia sobre el PP hasta los 11,8 puntos tras la convocatoria electoral, según el CIS",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-14T13:27:59+02:00",
+      "enlace": "https://elpais.com/espana/elecciones-generales/2026-10-14/el-psoe-aumenta-la-distancia-sobre-el-pp-hasta-los-118-puntos-tras-la-convocatoria-electoral-segun-el-cis.html"
+    },
+    {
+      "titular": "Shakira mueve 400 millones de euros durante su residencia en Madrid",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-15T01:43:36+02:00",
+      "enlace": "https://www.abc.es/gente/shakira-mueve-400-millones-euros-residencia-madrid-20261014170930-nt.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 0,
+    "antiguedad_minima_min": 38,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2286654,
+        "antiguedad_min": 2286797,
         "descartados_por_gancho": 0
       },
       {
@@ -90,35 +90,35 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 500",
+        "error": "HTTP 403",
         "antiguedad_min": null
       },
       {
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 152,
+        "items": 153,
         "error": null,
-        "antiguedad_min": 0,
+        "antiguedad_min": 99,
         "descartados_por_gancho": 2
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 137,
+        "items": 136,
         "error": null,
-        "antiguedad_min": 48,
-        "descartados_por_gancho": 11
+        "antiguedad_min": 112,
+        "descartados_por_gancho": 9
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 24,
+        "items": 25,
         "error": null,
-        "antiguedad_min": 19,
-        "descartados_por_gancho": 1
+        "antiguedad_min": 38,
+        "descartados_por_gancho": 0
       }
     ]
   }
