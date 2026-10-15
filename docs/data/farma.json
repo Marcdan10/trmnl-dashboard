@@ -2,25 +2,25 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "portadas",
-  "generado": "2026-10-15T06:57:41+02:00",
+  "generado": "2026-10-15T11:38:31+02:00",
   "titulares": [
     {
-      "titular": "“Nuestra propuesta al Biotech Act suscita interés y una buena acogida en Europa”",
+      "titular": "Cataluña alerta del riesgo de las cascadas terapéuticas en la seguridad del paciente",
       "medios": [
         "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-10-14T22:47:25+02:00",
-      "enlace": "https://diariofarma.com/2026/10/14/nuestra-propuesta-al-biotech-act-suscita-interes-y-una-buena-acogida-en-europa"
+      "fecha": "2026-10-15T11:32:33+02:00",
+      "enlace": "https://diariofarma.com/2026/10/15/cataluna-alerta-del-riesgo-de-las-cascadas-terapeuticas-en-la-seguridad-del-paciente"
     },
     {
-      "titular": "FIR 2027: todo lo que debes saber",
+      "titular": "Jornada, salarios y descansos: los asuntos pendientes del convenio de farmacia",
       "medios": [
         "El Global"
       ],
       "consenso": 1,
-      "fecha": "2026-10-14T18:23:54+02:00",
-      "enlace": "https://elglobalfarma.com/farmacia/fir-2027-todo-debes-saber/"
+      "fecha": "2026-10-15T11:31:26+02:00",
+      "enlace": "https://elglobalfarma.com/farmacia/convenio-farmacia-claves-jornada-salarios-descansos/"
     },
     {
       "titular": "El sistema sanitario de México: cobertura poblacional deficiente, fragmentado y muy necesitado de financiación",
@@ -32,6 +32,33 @@
       "enlace": "https://www.redaccionmedica.com/opinion/20261015/el-sistema-sanitario-de-mexico-cobertura-poblacional-deficiente-fragmentado-muy-necesitado-financiacion/362154_12.html"
     },
     {
+      "titular": "“Nuestra propuesta al Biotech Act suscita interés y una buena acogida en Europa”",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-14T22:47:25+02:00",
+      "enlace": "https://diariofarma.com/2026/10/14/nuestra-propuesta-al-biotech-act-suscita-interes-y-una-buena-acogida-en-europa"
+    },
+    {
+      "titular": "España, referente europeo en terapias CAR-T, ante el reto de mejorar el seguimiento de los pacientes",
+      "medios": [
+        "El Global"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-15T09:03:16+02:00",
+      "enlace": "https://elglobalfarma.com/industria/espana-referente-europeo-terapias-car-t-reto-seguimiento-pacientes/"
+    },
+    {
+      "titular": "Reformar la sanidad depende de todos, no solo del 29N",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-15T09:59:31+02:00",
+      "enlace": "https://www.redaccionmedica.com/opinion/20261015/reformar-la-sanidad-depende-de-todos-no-solo-del/362183_14.html"
+    },
+    {
       "titular": "España no suscribe la iniciativa polaca sobre la RAP, pero reclama armonización europea",
       "medios": [
         "Diariofarma"
@@ -39,33 +66,6 @@
       "consenso": 1,
       "fecha": "2026-10-14T21:08:40+02:00",
       "enlace": "https://diariofarma.com/2026/10/14/espana-no-suscribe-la-iniciativa-polaca-sobre-la-rap-pero-reclama-armonizacion-europea"
-    },
-    {
-      "titular": "La EFPIA defiende que la seguridad sanitaria europea exige cooperación entre países y sistemas sanitarios sólidos",
-      "medios": [
-        "El Global"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-14T18:21:38+02:00",
-      "enlace": "https://elglobalfarma.com/industria/efpia-seguridad-sanitaria-europea-cooperacion-paises-sistemas-sanitarios-solidos/"
-    },
-    {
-      "titular": "La inyección que mejora la miastenia desde la primera semana \"estará disponible en año y medio\"",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-15T05:03:00+02:00",
-      "enlace": "https://www.redaccionmedica.com/innovacion/avances/20261015/la-inyeccion-que-mejora-la-miastenia-desde-primera-semana-estara-disponible-en-ano-medio/362091_0.html"
-    },
-    {
-      "titular": "Fenin plantea cuatro peticiones ante el 29N y alerta del riesgo para la industria sanitaria",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-14T19:43:09+02:00",
-      "enlace": "https://diariofarma.com/2026/10/14/fenin-plantea-cuatro-peticiones-ante-el-29-n-y-alerta-del-riesgo-para-la-industria-sanitaria"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 112,
+    "antiguedad_minima_min": 5,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 490,
+        "antiguedad_min": 5,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 753,
+        "antiguedad_min": 7,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 112,
+        "antiguedad_min": 21,
         "descartados_por_gancho": 0
       },
       {

@@ -2,25 +2,16 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-10-15T06:57:36+02:00",
+  "generado": "2026-10-15T11:38:25+02:00",
   "titulares": [
     {
-      "titular": "El Real Madrid de las remontadas en Champions volvió en Roma",
+      "titular": "Ojo a la reacción de Mourinho tras el error de Vinicius en el 2-1 de la Roma",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-14T23:00:19+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20261014/1004238861/real-madrid-remontadas-champions-volvio-roma.html"
-    },
-    {
-      "titular": "Y el martes, PSG-Barça: el doble campeón contra el firme candidato",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-14T23:22:11+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261014/1004238871/martes-barca-psg-firme-candidato-doble-campeon.html"
+      "fecha": "2026-10-15T10:17:45+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20261015/1004238967/ojo-reaccion-mourinho-error-vinicius-2-1-roma.html"
     },
     {
       "titular": "El Club 'Divertido' Lugo se lo pasa en grande: líder, invicto y mejor equipo de Primera RFEF",
@@ -59,13 +50,22 @@
       "enlace": "https://www.marca.com/futbol/osasuna/2026/10/13/arrasate-siento-osasuna-me-necesita-ayudar-osasuna.html"
     },
     {
-      "titular": "2-4: Luis Enrique toma el Etihad con una demoledora primera parte",
+      "titular": "Vinicius rompe su silencio: \"Al final, la tarjeta siempre es para mí\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-14T23:03:17+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/champions-league/20261014/1004238846/city-psg.html"
+      "fecha": "2026-10-15T00:39:02+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20261015/1004238919/vinicius-rompe-silencio-final-tarjeta-siempre-mi.html"
+    },
+    {
+      "titular": "'Cinco en raya' goleador de un Gordon enrachado",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-15T06:15:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261015/1004238837/cinco-raya-goleador-gordon-enrachado.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 378,
+    "antiguedad_minima_min": 14,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 60,
         "error": null,
-        "antiguedad_min": 2488,
+        "antiguedad_min": 2769,
         "descartados_por_gancho": 12
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 136,
+        "items": 132,
         "error": null,
-        "antiguedad_min": 378,
-        "descartados_por_gancho": 7
+        "antiguedad_min": 14,
+        "descartados_por_gancho": 9
       },
       {
         "medio": "Sport",
