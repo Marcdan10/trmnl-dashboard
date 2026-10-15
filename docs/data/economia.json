@@ -1,35 +1,17 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "portadas",
-  "generado": "2026-10-15T11:38:23+02:00",
+  "modo": "ultimas",
+  "generado": "2026-10-15T16:36:11+02:00",
   "titulares": [
     {
-      "titular": "Repsol contraataca a Iberdrola con una campaña comercial histórica",
+      "titular": "La compra de vivienda por extranjeros cae un 13%: ¿en qué zonas baja con más fuerza?",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-15T03:16:23+02:00",
-      "enlace": "https://www.expansion.com/empresas/energia/2026/10/15/6acfe96ee5fdea926a8b4590.html"
-    },
-    {
-      "titular": "Diego Della Valle (Tod's) defiende la \"inteligencia artesanal\" frente a la IA",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-15T09:53:03+02:00",
-      "enlace": "https://www.expansion.com/luxury-forum/2026/10/15/6ad0864d468aeb06668b45ca.html"
-    },
-    {
-      "titular": "Urbano Cairo: \"La industria del lujo aúna singularidad, valor económico y estrategia empresarial\"",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-15T10:19:08+02:00",
-      "enlace": "https://www.expansion.com/luxury-forum/2026/10/15/6ad08968468aeb92068b4584.html"
+      "fecha": "2026-10-15T16:25:20+02:00",
+      "enlace": "https://www.expansion.com/inmobiliario/mercado-inmobiliario/2026/10/15/compra-vivienda-extranjeros-cae-13-zonas-baja-fuerza.html"
     },
     {
       "titular": "Las imágenes del EXPANSIÓN Luxury Forum",
@@ -37,35 +19,53 @@
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-15T10:56:26+02:00",
+      "fecha": "2026-10-15T16:21:57+02:00",
       "enlace": "https://www.expansion.com/luxury-forum/album/2026/10/15/6ad08368e5fdeabd498b456c.html"
     },
     {
-      "titular": "Bankinter abre la veda de las alzas de precios hipotecarios en la banca",
+      "titular": "Ferrovial se impone en la puja por la autopista I-285 de Georgia de 27.000 millones",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-15T00:07:31+02:00",
-      "enlace": "https://www.expansion.com/ahorro/2026/10/15/6acfc8d7e5fdea480a8b456e.html"
+      "fecha": "2026-10-15T16:04:56+02:00",
+      "enlace": "https://www.expansion.com/empresas/construccion-servicios/2026/10/15/6ad0dc92e5fdea5f1b8b459d.html"
     },
     {
-      "titular": "Prosegur entra en el negocio de la Defensa y aspira a contratos militares",
+      "titular": "Crédito privado para el fútbol inglés: préstamos avalados por sus plantillas",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-15T00:03:12+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/10/15/6acff7a2468aeb744d8b456d.html"
+      "fecha": "2026-10-15T15:54:49+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/10/15/credito-privado-futbol-ingles-prestamos-avalados-plantillas.html"
     },
     {
-      "titular": "Barclays avisa del 'riesgo Vox' para el coste de la deuda de España",
+      "titular": "Los bancos, obligados a reintegrar pagos no autorizados aunque se trate de una negligencia del cliente",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-14T20:50:30+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/10/14/6acf966be5fdead9198b45b2.html"
+      "fecha": "2026-10-15T15:50:38+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/10/15/bancos-obligados-reintegrar-pagos-autorizados-trate-negligencia-cliente.html"
+    },
+    {
+      "titular": "El lujo ofrece una oportunidad de inversión a largo plazo",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-15T15:38:47+02:00",
+      "enlace": "https://www.expansion.com/luxury-forum/2026/10/15/6ad0d5aae5fdea480a8b459c.html"
+    },
+    {
+      "titular": "De la F1 al Mutua Open: el negocio que mueve el deporte prémium en Madrid",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-15T15:29:30+02:00",
+      "enlace": "https://www.expansion.com/luxury-forum/2026/10/15/6ad09b23e5fdea2a328b4588.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 36,
+    "antiguedad_minima_min": 10,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 74,
+        "items": 83,
         "error": null,
-        "antiguedad_min": 36,
+        "antiguedad_min": 10,
         "descartados_por_gancho": 0
       },
       {

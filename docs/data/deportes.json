@@ -1,17 +1,26 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "portadas",
-  "generado": "2026-10-15T11:38:25+02:00",
+  "modo": "ultimas",
+  "generado": "2026-10-15T16:36:13+02:00",
   "titulares": [
     {
-      "titular": "Ojo a la reacción de Mourinho tras el error de Vinicius en el 2-1 de la Roma",
+      "titular": "Le caen 24 años de suspensión por amañar sus partidos de tenis",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-15T10:17:45+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20261015/1004238967/ojo-reaccion-mourinho-error-vinicius-2-1-roma.html"
+      "fecha": "2026-10-15T16:25:35+02:00",
+      "enlace": "https://www.mundodeportivo.com/tenis/20261015/1004239134/le-caen-24-anos-suspension-amanar-partidos-tenis.html"
+    },
+    {
+      "titular": "¡Hasta 1.500 km en dos días! La Triumph Coast 2 Coast 2026 vuelve a poner a prueba a los devoradores de asfalto",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-15T16:15:18+02:00",
+      "enlace": "https://www.mundodeportivo.com/solomoto/20261015/1004238922/1-500-km-dos-dias-triumph-coast-2-coast-2026-vuelve-poner-prueba-devoradores-asfalto.html"
     },
     {
       "titular": "El Club 'Divertido' Lugo se lo pasa en grande: líder, invicto y mejor equipo de Primera RFEF",
@@ -32,40 +41,31 @@
       "enlace": "https://www.marca.com/futbol/mundial/2026/10/13/netflix-adquiere-derechos-audiovisuales-espana-mundial-2030.html"
     },
     {
-      "titular": "La jugada perfecta para un 'trilero'",
+      "titular": "Fichaje de Haas; la nueva perla brasileña que aterriza en F1",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-14T23:16:01+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20261014/1004238866/victoria-perfecta-trilero-mourinho.html"
+      "fecha": "2026-10-15T16:12:30+02:00",
+      "enlace": "https://www.mundodeportivo.com/motor/f1/20261015/1004239126/haas-anuncia-sustituto-ocon-rafael-camara-nueva-perla-brasilena-aterriza-f1.html"
     },
     {
-      "titular": "Arrasate: \"Siento que Osasuna me necesita y que yo puedo ayudar a Osasuna\"",
-      "medios": [
-        "Marca"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-13T12:56:47+02:00",
-      "enlace": "https://www.marca.com/futbol/osasuna/2026/10/13/arrasate-siento-osasuna-me-necesita-ayudar-osasuna.html"
-    },
-    {
-      "titular": "Vinicius rompe su silencio: \"Al final, la tarjeta siempre es para mí\"",
+      "titular": "Si tu móvil se queda sin espacio, estos Xiaomi con 512 GB te permiten olvidarte de borrar fotos",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-15T00:39:02+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20261015/1004238919/vinicius-rompe-silencio-final-tarjeta-siempre-mi.html"
+      "fecha": "2026-10-15T16:05:59+02:00",
+      "enlace": "https://www.mundodeportivo.com/elrecomendador/ofertas/20261015/1004238940/movil-queda-espacio-cada-dos-tres-xiaomi-512-gb-permiten-olvidarte-borrar-fotos-mkt-alie.html"
     },
     {
-      "titular": "'Cinco en raya' goleador de un Gordon enrachado",
+      "titular": "Internacional Sub-15 del Barça y árbitro",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-15T06:15:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261015/1004238837/cinco-raya-goleador-gordon-enrachado.html"
+      "fecha": "2026-10-15T15:58:36+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261015/1004239078/ejemplar-gael-jose-seijo-internacional-sub-15-barca-arbitro.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 14,
+    "antiguedad_minima_min": 10,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 60,
         "error": null,
-        "antiguedad_min": 2769,
+        "antiguedad_min": 3067,
         "descartados_por_gancho": 12
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 132,
+        "items": 137,
         "error": null,
-        "antiguedad_min": 14,
-        "descartados_por_gancho": 9
+        "antiguedad_min": 10,
+        "descartados_por_gancho": 5
       },
       {
         "medio": "Sport",
