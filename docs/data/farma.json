@@ -2,7 +2,7 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "portadas",
-  "generado": "2026-10-15T02:23:06+02:00",
+  "generado": "2026-10-15T06:57:41+02:00",
   "titulares": [
     {
       "titular": "“Nuestra propuesta al Biotech Act suscita interés y una buena acogida en Europa”",
@@ -23,13 +23,13 @@
       "enlace": "https://elglobalfarma.com/farmacia/fir-2027-todo-debes-saber/"
     },
     {
-      "titular": "La 'letra pequeña' que lastra la especialización veterinaria en Genética de Laboratorio: \"Los requisitos nos excluyen\"",
+      "titular": "El sistema sanitario de México: cobertura poblacional deficiente, fragmentado y muy necesitado de financiación",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-10-14T18:45:11+02:00",
-      "enlace": "https://www.redaccionmedica.com/profesionales/veterinaria/20261014/la-letra-pequena-que-lastra-la-especializacion-veterinaria-en-genetica-de-laboratorio-los-requisitos-nos-excluyen/362028_0.html"
+      "fecha": "2026-10-15T05:01:00+02:00",
+      "enlace": "https://www.redaccionmedica.com/opinion/20261015/el-sistema-sanitario-de-mexico-cobertura-poblacional-deficiente-fragmentado-muy-necesitado-financiacion/362154_12.html"
     },
     {
       "titular": "España no suscribe la iniciativa polaca sobre la RAP, pero reclama armonización europea",
@@ -50,13 +50,13 @@
       "enlace": "https://elglobalfarma.com/industria/efpia-seguridad-sanitaria-europea-cooperacion-paises-sistemas-sanitarios-solidos/"
     },
     {
-      "titular": "Las comunidades enmiendan la reforma del aborto: de la memoria económica a la confidencialidad en la historia clínica",
+      "titular": "La inyección que mejora la miastenia desde la primera semana \"estará disponible en año y medio\"",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-10-14T15:11:43+02:00",
-      "enlace": "https://www.redaccionmedica.com/autonomias/20261014/las-comunidades-enmiendan-la-reforma-del-aborto-de-memoria-economica-confidencialidad-en-historia-clinica/362116_0.html"
+      "fecha": "2026-10-15T05:03:00+02:00",
+      "enlace": "https://www.redaccionmedica.com/innovacion/avances/20261015/la-inyeccion-que-mejora-la-miastenia-desde-primera-semana-estara-disponible-en-ano-medio/362091_0.html"
     },
     {
       "titular": "Fenin plantea cuatro peticiones ante el 29N y alerta del riesgo para la industria sanitaria",
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 215,
+    "antiguedad_minima_min": 112,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 215,
+        "antiguedad_min": 490,
         "descartados_por_gancho": 0
       },
       {
@@ -93,17 +93,17 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 479,
+        "antiguedad_min": 753,
         "descartados_por_gancho": 0
       },
       {
         "medio": "Redacción Médica",
         "url": "https://www.redaccionmedica.com/rss/",
         "ok": true,
-        "items": 29,
+        "items": 30,
         "error": null,
-        "antiguedad_min": 457,
-        "descartados_por_gancho": 1
+        "antiguedad_min": 112,
+        "descartados_por_gancho": 0
       },
       {
         "medio": "PMFarma",

@@ -1,39 +1,7 @@
 {
   "ciudad": "Barcelona",
-  "generado": "2026-10-15T00:23:07",
+  "generado": "2026-10-15T04:57:41",
   "horas": [
-    {
-      "hora": "01",
-      "temp": 20,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "luna"
-    },
-    {
-      "hora": "02",
-      "temp": 20,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "nube"
-    },
-    {
-      "hora": "03",
-      "temp": 20,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "luna"
-    },
-    {
-      "hora": "04",
-      "temp": 19,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "luna"
-    },
     {
       "hora": "05",
       "temp": 19,
@@ -72,15 +40,15 @@
       "prob": 0,
       "mm": 0,
       "mostrar_prob": false,
-      "icono": "sol"
+      "icono": "nube"
     },
     {
       "hora": "10",
-      "temp": 18,
+      "temp": 19,
       "prob": 0,
       "mm": 0,
       "mostrar_prob": false,
-      "icono": "sol"
+      "icono": "nube"
     },
     {
       "hora": "11",
@@ -96,13 +64,45 @@
       "prob": 0,
       "mm": 0,
       "mostrar_prob": false,
+      "icono": "nube"
+    },
+    {
+      "hora": "13",
+      "temp": 22,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "sol"
+    },
+    {
+      "hora": "14",
+      "temp": 22,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "sol"
+    },
+    {
+      "hora": "15",
+      "temp": 22,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "sol"
+    },
+    {
+      "hora": "16",
+      "temp": 22,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
       "icono": "sol"
     }
   ],
   "dias": [
     {
       "etiqueta": "vie 16",
-      "max": 23,
+      "max": 24,
       "min": 18,
       "prob": 0,
       "mm": 0,
@@ -112,10 +112,10 @@
     },
     {
       "etiqueta": "sáb 17",
-      "max": 23,
+      "max": 24,
       "min": 18,
-      "prob": 85,
-      "mm": 17.5,
+      "prob": 95,
+      "mm": 17.2,
       "mostrar_prob": true,
       "destacar": true,
       "icono": "lluvia"
@@ -124,37 +124,37 @@
       "etiqueta": "dom 18",
       "max": 20,
       "min": 14,
-      "prob": 94,
-      "mm": 46.3,
+      "prob": 96,
+      "mm": 59.7,
       "mostrar_prob": true,
       "destacar": true,
       "icono": "lluvia"
     },
     {
       "etiqueta": "lun 19",
-      "max": 19,
-      "min": 9,
-      "prob": 83,
-      "mm": 11.4,
+      "max": 18,
+      "min": 14,
+      "prob": 64,
+      "mm": 15.2,
       "mostrar_prob": true,
       "destacar": true,
       "icono": "lluvia"
     },
     {
       "etiqueta": "mar 20",
-      "max": 21,
-      "min": 7,
-      "prob": 49,
+      "max": 22,
+      "min": 12,
+      "prob": 57,
       "mm": 0,
       "mostrar_prob": true,
       "destacar": false,
-      "icono": "lluvia"
+      "icono": "nube"
     },
     {
       "etiqueta": "mié 21",
-      "max": 24,
-      "min": 15,
-      "prob": 38,
+      "max": 23,
+      "min": 8,
+      "prob": 32,
       "mm": 0,
       "mostrar_prob": true,
       "destacar": false,
@@ -163,8 +163,8 @@
     {
       "etiqueta": "jue 22",
       "max": 20,
-      "min": 13,
-      "prob": 28,
+      "min": 10,
+      "prob": 18,
       "mm": 0,
       "mostrar_prob": true,
       "destacar": false,
@@ -174,7 +174,7 @@
   "aviso": {
     "activo": true,
     "alcance": "semana",
-    "texto": "Lluvia prevista el sáb 17 · 85%"
+    "texto": "Lluvia prevista el sáb 17 · 95%"
   },
   "atribucion": "Open-Meteo (CC BY 4.0)"
 }

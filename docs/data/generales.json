@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-10-15T02:22:56+02:00",
+  "generado": "2026-10-15T06:57:34+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -14,13 +14,13 @@
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
     },
     {
-      "titular": "Margarita Robles será la ‘número dos’ de Pedro Sánchez en las listas del PSOE",
+      "titular": "El PSOE y el PP encienden la batalla por el futuro de las pensiones",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-14T17:12:03+02:00",
-      "enlace": "https://elpais.com/espana/elecciones-generales/2026-10-14/margarita-robles-sera-la-numero-dos-de-pedro-sanchez-en-las-listas-del-psoe.html"
+      "fecha": "2026-10-15T05:30:01+02:00",
+      "enlace": "https://elpais.com/economia/2026-10-15/el-psoe-y-el-pp-encienden-la-batalla-por-el-futuro-de-las-pensiones.html"
     },
     {
       "titular": "Conde-Pumpido: “Solo queda que el Supremo aplique la amnistía y cierre la causa del 'procés'”",
@@ -32,13 +32,13 @@
       "enlace": "https://www.lavanguardia.com/politica/20261014/11659047/conde-pumpido-ley-amnistia-derogar-tendra-efectos-retroactivos.html"
     },
     {
-      "titular": "Urtasun guarda silencio sobre el Principal de Valencia tres semanas después del cierre",
+      "titular": "Preguntan a los acampados en Sol a qué se dedican y la mayoría responde lo mismo: «Me lo ponéis muy difícil»",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-10-15T01:44:50+02:00",
-      "enlace": "https://www.abc.es/espana/comunidad-valenciana/urtasun-guarda-silencio-sobre-principal-valencia-tres-20261015194500-nt.html"
+      "fecha": "2026-10-15T06:15:00+02:00",
+      "enlace": "https://www.abc.es/recreo/preguntan-acampados-vivienda-sol-dedican-mayoria-responde-20261015164646-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -50,22 +50,22 @@
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
     },
     {
-      "titular": "El PSOE aumenta la distancia sobre el PP hasta los 11,8 puntos tras la convocatoria electoral, según el CIS",
+      "titular": "Por qué tantos sociólogos no se creen la encuesta del CIS: el sesgo en la muestra contamina las encuestas",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-14T13:27:59+02:00",
-      "enlace": "https://elpais.com/espana/elecciones-generales/2026-10-14/el-psoe-aumenta-la-distancia-sobre-el-pp-hasta-los-118-puntos-tras-la-convocatoria-electoral-segun-el-cis.html"
+      "fecha": "2026-10-15T05:30:01+02:00",
+      "enlace": "https://elpais.com/espana/2026-10-15/por-que-tantos-sociologos-no-se-creen-la-encuesta-del-cis-el-sesgo-en-la-muestra-contamina-las-encuestas.html"
     },
     {
-      "titular": "Shakira mueve 400 millones de euros durante su residencia en Madrid",
+      "titular": "El Tribunal de Cuentas amnistía a todos los responsables contables del 'procés'",
       "medios": [
-        "ABC"
+        "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-10-15T01:43:36+02:00",
-      "enlace": "https://www.abc.es/gente/shakira-mueve-400-millones-euros-residencia-madrid-20261014170930-nt.html"
+      "fecha": "2026-10-14T10:41:59+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20261014/11658572/tribunal-cuentas-amnistia-todos-responsables-proces.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 38,
+    "antiguedad_minima_min": 12,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2286797,
+        "antiguedad_min": 2287072,
         "descartados_por_gancho": 0
       },
       {
@@ -97,28 +97,28 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 153,
+        "items": 138,
         "error": null,
-        "antiguedad_min": 99,
-        "descartados_por_gancho": 2
+        "antiguedad_min": 12,
+        "descartados_por_gancho": 6
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 136,
+        "items": 134,
         "error": null,
-        "antiguedad_min": 112,
-        "descartados_por_gancho": 9
+        "antiguedad_min": 57,
+        "descartados_por_gancho": 10
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 25,
+        "items": 24,
         "error": null,
-        "antiguedad_min": 38,
-        "descartados_por_gancho": 0
+        "antiguedad_min": 42,
+        "descartados_por_gancho": 1
       }
     ]
   }
