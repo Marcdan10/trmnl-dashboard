@@ -2,8 +2,44 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-10-15T20:49:19+02:00",
+  "generado": "2026-10-15T23:53:54+02:00",
   "titulares": [
+    {
+      "titular": "Bruselas negociará con China aplicar cuotas a nuevos sectores",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-15T22:20:27+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/10/15/bruselas-negociara-china-aplicar-cuotas-nuevos-sectores.html"
+    },
+    {
+      "titular": "Botín no descarta nuevas adquisiciones en EEUU, pero prioriza la integración de Webster",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-15T22:19:56+02:00",
+      "enlace": "https://www.expansion.com/empresas/banca/2026/10/15/6ad13447e5fdeaad5e8b45a4.html"
+    },
+    {
+      "titular": "Las imágenes del EXPANSIÓN Luxury Forum",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-15T21:28:43+02:00",
+      "enlace": "https://www.expansion.com/luxury-forum/album/2026/10/15/6ad08368e5fdeabd498b456c.html"
+    },
+    {
+      "titular": "Repsol y Moeve liberan un récord de crudo ante la emergencia petrolífera",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-15T21:06:19+02:00",
+      "enlace": "https://www.expansion.com/empresas/energia/2026/10/15/6ad1235b468aebda3b8b457e.html"
+    },
     {
       "titular": "Lo superfluo, una \"necesidad para la dignidad del ser humano\"",
       "medios": [
@@ -30,42 +66,6 @@
       "consenso": 1,
       "fecha": "2026-10-15T20:18:33+02:00",
       "enlace": "https://www.expansion.com/deporte-negocio/2026/10/15/superliga-real-madrid-bernd-reichart-dirigira-area-negocio-club.html"
-    },
-    {
-      "titular": "Marc Márquez e Iris Tió, mejores deportistas españoles de 2025",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-15T20:09:36+02:00",
-      "enlace": "https://www.expansion.com/deporte-negocio/2026/10/15/marc-marquez-e-iris-tio-mejores-deportistas-espanoles-2025.html"
-    },
-    {
-      "titular": "Del taller artesano a la mesa: el nuevo lujo vive de emociones y se vende por redes",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-15T19:59:11+02:00",
-      "enlace": "https://www.expansion.com/luxury-forum/2026/10/15/6ad113e2468aeb293e8b457a.html"
-    },
-    {
-      "titular": "Olivier Nicolay: \"Las firmas que perduran son las que logran expandirse sin perder su ADN\"",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-15T19:28:41+02:00",
-      "enlace": "https://www.expansion.com/luxury-forum/2026/10/15/6ad1011ae5fdeae8308b45a3.html"
-    },
-    {
-      "titular": "Las imágenes del EXPANSIÓN Luxury Forum",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-15T19:13:20+02:00",
-      "enlace": "https://www.expansion.com/luxury-forum/album/2026/10/15/6ad08368e5fdeabd498b456c.html"
     }
   ],
   "salud": {
@@ -78,7 +78,7 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 14,
+    "antiguedad_minima_min": 93,
     "detalle": [
       {
         "medio": "Expansión",
@@ -86,7 +86,7 @@
         "ok": true,
         "items": 89,
         "error": null,
-        "antiguedad_min": 14,
+        "antiguedad_min": 93,
         "descartados_por_gancho": 0
       },
       {

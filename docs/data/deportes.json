@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-10-15T20:49:20+02:00",
+  "generado": "2026-10-15T23:53:55+02:00",
   "titulares": [
     {
-      "titular": "Lleva el gol en la sangre: Ansu Fati marca en su primera titularidad de la temporada",
+      "titular": "Xavi Albert: \"El duelo de la derrota contra Olympiacos se ha alargado\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-15T20:18:19+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/internacional/20261015/1004239225/lleva-gol-sangre-ansu-fati-marca-primera-titularidad-temporada.html"
+      "fecha": "2026-10-15T23:23:54+02:00",
+      "enlace": "https://www.mundodeportivo.com/baloncesto/euroliga/20261015/1004239275/xavi-albert-duelo-derrota-olympiacos-alargado.html"
     },
     {
-      "titular": "22-36: Destrozo del Barça con un gran Sergey para pasar a la segunda fase de la Champions",
+      "titular": "30-38: Hundimiento total y lío tremendo en el grupo de Champions del Barça",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-15T20:15:56+02:00",
-      "enlace": "https://www.mundodeportivo.com/balonmano/20261015/1004239224/22-36-destrozo-barca-gran-sergey-pasar-segunda-fase-champions.html"
+      "fecha": "2026-10-15T23:10:17+02:00",
+      "enlace": "https://www.mundodeportivo.com/balonmano/20261015/1004239273/30-38-hundimiento-total-lio-tremendo-grupo-champions-barca.html"
     },
     {
       "titular": "El Club 'Divertido' Lugo se lo pasa en grande: líder, invicto y mejor equipo de Primera RFEF",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/mundial/2026/10/13/netflix-adquiere-derechos-audiovisuales-espana-mundial-2030.html"
     },
     {
-      "titular": "Marc Márquez e Iris Tió ganan los Premios Nacionales del Deporte 2025",
+      "titular": "La Juventus 'mata' al Celta en un cruel último minuto",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-15T20:06:48+02:00",
-      "enlace": "https://www.mundodeportivo.com/otros-deportes/20261015/1004239220/marc-marquez-e-iris-tio-ganan-premios-nacionales-deporte-2025.html"
+      "fecha": "2026-10-15T23:06:22+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/europa-league/20261015/1004239268/celta-juve.html"
     },
     {
-      "titular": "Valencia Basket - Maccabi Tel Aviv, en directo",
+      "titular": "Así queda la clasificación de la Euroliga tras la victoria del Madrid y la derrota de Valencia",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-15T19:59:17+02:00",
-      "enlace": "https://www.mundodeportivo.com/baloncesto/euroliga/20261015/1004239154/valencia-basket-maccabi-tel-aviv-partido-baloncesto-hoy-en-directo-euroliga-ext-pau.html"
+      "fecha": "2026-10-15T23:06:15+02:00",
+      "enlace": "https://www.mundodeportivo.com/baloncesto/euroliga/20261015/1004239272/asi-queda-clasificacion-euroliga-victoria-madrid-derrota-valencia.html"
     },
     {
-      "titular": "Israel Pérez, veterinario: \"Si el perro mueve la cola hacia la derecha, siente algo positivo\"",
+      "titular": "111-92: Feliz lidera el cómodo triunfo del Real Madrid ante un mermado ASVEL",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-15T19:55:59+02:00",
-      "enlace": "https://www.mundodeportivo.com/elotromundo/mascotas/20261015/1004239209/israel-perez-veterinario-perro-mueve-cola-derecha-siente-positivo-mueve-izquierda-hay-estres-negativo-pjm-dct.html"
+      "fecha": "2026-10-15T23:03:23+02:00",
+      "enlace": "https://www.mundodeportivo.com/baloncesto/euroliga/20261015/1004239253/cronica-rm-asvel.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 31,
+    "antiguedad_minima_min": 30,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 60,
         "error": null,
-        "antiguedad_min": 3320,
+        "antiguedad_min": 3505,
         "descartados_por_gancho": 12
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 136,
+        "items": 140,
         "error": null,
-        "antiguedad_min": 31,
-        "descartados_por_gancho": 6
+        "antiguedad_min": 30,
+        "descartados_por_gancho": 4
       },
       {
         "medio": "Sport",

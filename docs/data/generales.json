@@ -2,62 +2,61 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-10-15T20:49:17+02:00",
+  "generado": "2026-10-15T23:53:50+02:00",
   "titulares": [
     {
-      "titular": "La FIFA modificará la norma que anuló la roja a Balogun en el último Mundial",
+      "titular": "Puigdemont descarta ejercer como jefe de la oposición en el Parlament",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-15T20:29:57+02:00",
-      "enlace": "https://elpais.com/deportes/futbol/2026-10-15/la-fifa-modificara-la-norma-que-anulo-la-roja-a-balogun-en-el-ultimo-mundial.html"
+      "fecha": "2026-10-15T23:36:36+02:00",
+      "enlace": "https://elpais.com/espana/catalunya/2026-10-15/puigdemont-descarta-ejercer-como-jefe-de-la-oposicion-en-el-parlament.html"
     },
     {
-      "titular": "Un acto convocado por Vito Quiles en Pamplona termina en altercados y con un detenido",
+      "titular": "Alberto Herreros y Silvia Domínguez lucen en el Hall of Fame del baloncesto español",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-15T20:28:00+02:00",
-      "enlace": "https://elpais.com/espana/2026-10-15/un-acto-convocado-por-vito-quiles-en-pamplona-termina-en-altercados-y-con-un-detenido.html"
+      "fecha": "2026-10-15T23:34:00+02:00",
+      "enlace": "https://elpais.com/deportes/baloncesto/2026-10-15/alberto-herreros-y-silvia-domiguez-lucen-en-el-hall-of-fame-del-baloncesto-espanol.html"
     },
     {
-      "titular": "División en la UE por el presupuesto 2028-34: más gastos o más recortes",
+      "titular": "Un choque entre un autobús y un tren deja 19 heridos en el lado francés del túnel del canal de la Mancha",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-10-15T20:23:35+02:00",
-      "enlace": "https://www.abc.es/internacional/veintisiete-divididos-sobre-siguiente-presupuesto-plurianual-ue-20261015135045-nt.html"
+      "fecha": "2026-10-15T23:22:34+02:00",
+      "enlace": "https://www.abc.es/internacional/choque-autobus-tren-deja-heridos-lado-frances-20261015215039-nt.html"
     },
     {
-      "titular": "El juez que investiga presuntos amaños de obras públicas por parte de Cerdán pide sus agendas requisadas en el caso Leire",
+      "titular": "Una asociación fantasma cercana al PSOE se persona contra la suspensión del voto de los nietos",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-10-15T20:20:39+02:00",
-      "enlace": "https://www.abc.es/espana/juez-investiga-presuntos-amanos-obras-publicas-parte-20261015194934-nt.html"
+      "fecha": "2026-10-15T23:11:42+02:00",
+      "enlace": "https://www.abc.es/espana/asociacion-fantasma-cercana-psoe-persona-supremo-suspension-20261015193605-nt.html"
     },
     {
-      "titular": "Zelenski retoma los ataques contra las refinerías rusas tras el fracaso de la tregua energética de Trump",
-      "medios": [
-        "La Vanguardia",
-        "ABC"
-      ],
-      "consenso": 2,
-      "fecha": "2026-10-15T20:02:10+02:00",
-      "enlace": "https://www.abc.es/internacional/zelenski-retoma-ataques-refinerias-rusas-tras-fracaso-20261015182633-nt.html"
-    },
-    {
-      "titular": "La mitad de las viviendas compradas durante la burbuja inmobiliaria se vendieron a pérdidas",
+      "titular": "Puigdemont confirma que no será jefe de la oposición en el Parlament cuando regrese a Catalunya",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-10-15T19:53:59+02:00",
-      "enlace": "https://www.lavanguardia.com/economia/20261015/11660054/mitad-viviendas-compradas-burbuja-inmobiliaria-vendieron-perdidas.html"
+      "fecha": "2026-10-15T23:00:00+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20261015/11660068/puigdemont-confirma-sera-jefe-oposicion-parlament-regrese-catalunya.html"
+    },
+    {
+      "titular": "Isabel Allende: “Una vez probé la IA y fue horrible; te sale con unas cursiladas que no te imaginas”",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-15T22:55:32+02:00",
+      "enlace": "https://www.lavanguardia.com/magazine/protagonistas/20261015/11659962/isabel-allende-vez-probe-ia-horrible-te-sale-cursiladas-te-imaginas.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -75,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 19,
+    "antiguedad_minima_min": 17,
     "detalle": [
       {
         "medio": "RTVE",
@@ -83,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2287904,
+        "antiguedad_min": 2288088,
         "descartados_por_gancho": 0
       },
       {
@@ -91,7 +90,7 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 403",
+        "error": "HTTP 429",
         "antiguedad_min": null
       },
       {
@@ -100,26 +99,26 @@
         "ok": true,
         "items": 147,
         "error": null,
-        "antiguedad_min": 19,
-        "descartados_por_gancho": 8
+        "antiguedad_min": 17,
+        "descartados_por_gancho": 7
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 134,
+        "items": 139,
         "error": null,
-        "antiguedad_min": 55,
-        "descartados_por_gancho": 14
+        "antiguedad_min": 53,
+        "descartados_por_gancho": 12
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 25,
+        "items": 23,
         "error": null,
         "antiguedad_min": 25,
-        "descartados_por_gancho": 0
+        "descartados_por_gancho": 2
       }
     ]
   }
