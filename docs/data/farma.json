@@ -2,25 +2,25 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "ultimas",
-  "generado": "2026-10-16T16:06:21+02:00",
+  "generado": "2026-10-16T20:14:24+02:00",
   "titulares": [
     {
-      "titular": "Primera jornada de huelga indefinida en la sanidad canaria: los sindicatos cifran un 58% de seguimiento",
+      "titular": "La EMA da luz verde a un nuevo medicamento para el control de peso y la diabetes tipo 2",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-10-16T15:02:58+02:00",
-      "enlace": "https://www.redaccionmedica.com/autonomias/20261016/primera-jornada-de-huelga-indefinida-en-la-sanidad-canaria-los-sindicatos-cifran-un-seguimiento/362417_0.html"
+      "fecha": "2026-10-16T18:44:02+02:00",
+      "enlace": "https://www.redaccionmedica.com/empresas/industria-farmaceutica/20261016/la-ema-da-luz-verde-un-nuevo-medicamento-para-el-control-de-peso-la-diabetes-tipo/362461_0.html"
     },
     {
-      "titular": "El PSOE-A propone clasificar las listas de espera en Salud Mental y tener datos homogéneos en el SAS",
+      "titular": "Respuesta nacional ante \"parches autonómicos\" para enfrentar el irregular mapa de acceso enfermero a puestos directivos",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-10-16T14:49:59+02:00",
-      "enlace": "https://www.redaccionmedica.com/autonomias/andalucia/20261016/el-psoe-a-propone-clasificar-las-listas-de-espera-en-salud-mental-tener-datos-homogeneos-el-sas/362426_0.html"
+      "fecha": "2026-10-16T18:27:51+02:00",
+      "enlace": "https://www.redaccionmedica.com/profesionales/enfermeria/20261016/respuesta-nacional-ante-parches-autonomicos-para-enfrentar-el-irregular-mapa-de-acceso-enfermero-puestos-directivos/362206_0.html"
     },
     {
       "titular": "Extremadura reserva casi el 40 % de su presupuesto de 2027 a sanidad y dependencia",
@@ -59,13 +59,13 @@
       "enlace": "https://elglobalfarma.com/industria/chmp-opinion-positiva-seis-medicamentos-reunion-octubre/"
     },
     {
-      "titular": "Pedro Gullón inaugura la jornada 'Longevidad, prevención y diagnóstico precoz' y Manel Esteller impartirá una ponencia",
+      "titular": "Carina Escobar, reelegida presidenta de la Plataforma de Organizaciones de Pacientes",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-10-16T14:43:06+02:00",
-      "enlace": "https://www.redaccionmedica.com/longevidad/20261016/pedro-gullon-inaugura-la-jornada-longevidad-prevencion-diagnostico-precoz-manel-esteller-impartira-una-ponencia/362326_0.html"
+      "fecha": "2026-10-16T17:47:08+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20261016/carina-escobar-reelegida-presidenta-de-la-plataforma-organizaciones-pacientes/362459_0.html"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 63,
+    "antiguedad_minima_min": 90,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 80,
+        "antiguedad_min": 328,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 8,
         "error": null,
-        "antiguedad_min": 121,
+        "antiguedad_min": 369,
         "descartados_por_gancho": 2
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 63,
+        "antiguedad_min": 90,
         "descartados_por_gancho": 0
       },
       {

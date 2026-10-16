@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-10-16T16:06:14+02:00",
+  "generado": "2026-10-16T20:14:18+02:00",
   "titulares": [
     {
-      "titular": "Ya está disponible la banda sonora completa de 'La bola negra', que suma ya casi 4 millones de espectadores en cines",
+      "titular": "Barça - Olympiacos, en directo",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-16T15:45:22+02:00",
-      "enlace": "https://www.mundodeportivo.com/elotromundo/television/20261016/1004239532/esta-disponible-banda-sonora-completa-bola-negra-pelicula-javis-suma-4-millones-espectadores-cines-dct.html"
+      "fecha": "2026-10-16T19:53:08+02:00",
+      "enlace": "https://www.mundodeportivo.com/baloncesto/euroliga/20261016/1004239151/barca-olympiacos-directo-euroliga-baloncesto.html"
     },
     {
-      "titular": "Peugeot, a pescar en río revuelto en las 6h de Barcelona",
+      "titular": "Terzic explica el motivo de la ausencia de Laporte en Vallecas",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-16T15:45:10+02:00",
-      "enlace": "https://www.mundodeportivo.com/motor/20261016/1004239467/peugeot-pescar-rio-revuelto-barcelona.html"
+      "fecha": "2026-10-16T19:46:30+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/athletic-bilbao/20261016/1004239362/laporte-no-veia-preparado-jugar.html"
     },
     {
       "titular": "El Club 'Divertido' Lugo se lo pasa en grande: líder, invicto y mejor equipo de Primera RFEF",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/mundial/2026/10/13/netflix-adquiere-derechos-audiovisuales-espana-mundial-2030.html"
     },
     {
-      "titular": "Noelia Márquez, de soltera de 'La isla de las tentaciones' a triunfar en Perú como concursante de 'reality'",
+      "titular": "Jugadores que han vestido las camisetas de Barça y Betis en el siglo XXI",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-16T15:43:05+02:00",
-      "enlace": "https://www.mundodeportivo.com/elotromundo/television/20261016/1004239528/noelia-marquez-soltera-isla-tentaciones-triunfar-peru-concursante-reality-galeria-dct.html"
+      "fecha": "2026-10-16T19:44:49+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261016/1004239599/jugadores-han-vestido-camisetas-barca-betis-siglo-xxi.html"
     },
     {
-      "titular": "La FIFA sanciona a la RFEF por el \"Musulmán el que no bote\" del España-Egipto",
+      "titular": "Miki Codina, duda en el Sabadell ante el Burgos",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-16T15:37:35+02:00",
-      "enlace": "https://www.mundodeportivo.com/seleccion-espanola/20261016/1004239534/fifa-sanciona-rfef-musulman-no-bote-espana-egipto.html"
+      "fecha": "2026-10-16T19:34:03+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/sabadell/20261016/1004239604/miki-codina-duda-sabadell-burgos.html"
     },
     {
-      "titular": "Tres gimnastas rusos siguen esperando visado para los Mundiales de Róterdam, tras el veto a Melnikova",
+      "titular": "Los 5 partidos a seguir de la jornada 7 de la Premier League",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-16T15:35:40+02:00",
-      "enlace": "https://www.mundodeportivo.com/gimnasia/20261016/1004239530/tres-gimnastas-rusos-siguen-esperando-visado-mundiales-roterdam-veto-melnikova.html"
+      "fecha": "2026-10-16T19:27:06+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/premier-league/20261016/1004239602/5-partidos-seguir-jornada-7-premier-league.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 20,
+    "antiguedad_minima_min": 21,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 60,
         "error": null,
-        "antiguedad_min": 4477,
+        "antiguedad_min": 4725,
         "descartados_por_gancho": 12
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 136,
+        "items": 137,
         "error": null,
-        "antiguedad_min": 20,
-        "descartados_por_gancho": 7
+        "antiguedad_min": 21,
+        "descartados_por_gancho": 6
       },
       {
         "medio": "Sport",

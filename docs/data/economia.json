@@ -2,70 +2,70 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-10-16T16:06:12+02:00",
+  "generado": "2026-10-16T20:14:16+02:00",
   "titulares": [
     {
-      "titular": "Banqueros y asesores percibirán 334 millones de libras en la operación de adquisición de easyJet",
+      "titular": "Trump despide a la portavoz de la Casa Blanca cinco días después de nombrarla",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-16T15:35:59+02:00",
-      "enlace": "https://www.expansion.com/economia/financial-times/2026/10/16/banqueros-asesores-percibiran-334-millones-libras-operacion-adquisicion-easyjet.html"
+      "fecha": "2026-10-16T19:59:23+02:00",
+      "enlace": "https://www.expansion.com/economia/politica/2026/10/16/trump-despide-portavoz-casa-blanca-cinco-dias-despues-nombrarla.html"
     },
     {
-      "titular": "Ofensiva francoalemana para rebajar los límites a la venta de coches de combustión",
+      "titular": "Nordex impulsa el resultado de Acciona tras disparar ventas y margen",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-16T15:25:01+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/10/16/ofensiva-francoalemana-rebajar-limites-venta-coches-combustion.html"
+      "fecha": "2026-10-16T19:46:34+02:00",
+      "enlace": "https://www.expansion.com/empresas/construccion-servicios/2026/10/16/6ad26174468aeb7c638b457e.html"
     },
     {
-      "titular": "El Ibex apunta al alza para asegurar la semana",
+      "titular": "Engie se adjudica la energía de TMB, Metro de Bilbao y otros operadores de transporte",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-16T14:32:53+02:00",
-      "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/10/16/6ad1bca4e5fdead6768b456d.html"
+      "fecha": "2026-10-16T19:44:10+02:00",
+      "enlace": "https://www.expansion.com/catalunya/2026/10/16/engie-adjudica-energia-tmb-metro-bilbao-otros-operadores-transporte.html"
     },
     {
-      "titular": "Huelga de la educación pública en la Comunidad de Madrid: cuánto cobran maestros y profesores y qué mejoras salariales piden",
+      "titular": "Los maquinistas convocan huelga en Renfe para el 29 de octubre",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-16T14:28:49+02:00",
-      "enlace": "https://www.expansion.com/economia/funcion-publica/2026/10/16/huelga-educacion-publica-comunidad-madrid-cuanto-cobran-maestros-profesores-mejoras-salariales-piden.html"
+      "fecha": "2026-10-16T19:16:39+02:00",
+      "enlace": "https://www.expansion.com/empresas/transporte/2026/10/16/6ad25a32e5fdeae3038b45a6.html"
     },
     {
-      "titular": "Qué hacer en Ferrovial tras su bache en el Ibex",
+      "titular": "Dos ofertas de un euro y tres parciales: así se reparte el interés de los inversores por Tubos Reunidos",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-16T13:49:04+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/10/16/6ad1f86f468aebe7128b4577.html"
+      "fecha": "2026-10-16T18:30:08+02:00",
+      "enlace": "https://www.expansion.com/pais-vasco/2026/10/16/dos-cinco-ofertas-tubos-reunidos-plantean-inicio-salvar-planta-amurrio.html"
     },
     {
-      "titular": "Cómo ganar en Bolsa sin salir de Europa, con Flaviel del Pino de BLD",
+      "titular": "La portavoz del PSOE, Montse Mínguez, dimite tras conocerse los 30 pisos de su pareja",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-16T13:44:24+02:00",
-      "enlace": "https://www.expansion.com/podcasts/en-accion/2026/10/16/ganar-bolsa-salir-europa-flaviel-pino-bld.html"
+      "fecha": "2026-10-16T18:28:37+02:00",
+      "enlace": "https://www.expansion.com/economia/politica/2026/10/16/portavoz-psoe-montse-minguez-dimite-conocerse-30-pisos-pareja.html"
     },
     {
-      "titular": "Aena abre la puerta a adelantar algunas obras de la ampliación del Prat",
+      "titular": "Netflix releva a la jefa de contenidos para revitalizar el negocio y la cotización",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-16T13:14:06+02:00",
-      "enlace": "https://www.expansion.com/catalunya/2026/10/16/aena-abre-puerta-adelantar-obras-ampliacion-prat.html"
+      "fecha": "2026-10-16T18:20:21+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/10/16/6ad24ec0e5fdeaf76e8b45a9.html"
     }
   ],
   "salud": {
@@ -78,7 +78,7 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 30,
+    "antiguedad_minima_min": 14,
     "detalle": [
       {
         "medio": "Expansión",
@@ -86,8 +86,8 @@
         "ok": true,
         "items": 76,
         "error": null,
-        "antiguedad_min": 30,
-        "descartados_por_gancho": 2
+        "antiguedad_min": 14,
+        "descartados_por_gancho": 3
       },
       {
         "medio": "Cinco Días",

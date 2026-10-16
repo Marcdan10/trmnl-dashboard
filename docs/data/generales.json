@@ -2,61 +2,61 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-10-16T16:06:10+02:00",
+  "generado": "2026-10-16T20:14:13+02:00",
   "titulares": [
     {
-      "titular": "El Real Madrid exige la dimisión de Tebas por comparar sus métodos de propaganda con los de la Alemania nazi",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-16T15:57:38+02:00",
-      "enlace": "https://www.abc.es/deportes/futbol/real-madrid-exige-dimision-tebas-comparar-metodos-20261016154626-nt.html"
-    },
-    {
-      "titular": "En Hawái, oficiada por su ex y con DiCaprio entre los invitados: los detalles de la boda de Jennifer Meyer, exmujer de Tobey Maguire",
+      "titular": "Última hora de la actualidad política, en directo | Horas decisivas para un acuerdo de unidad en el espacio a la izquierda del PSOE",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-16T15:56:28+02:00",
-      "enlace": "https://elpais.com/gente/2026-10-16/en-hawai-oficiada-por-su-ex-y-con-dicaprio-entre-los-invitados-los-detalles-de-la-boda-de-jennifer-meyer-exmujer-de-tobey-maguire.html"
-    },
-    {
-      "titular": "Última hora de la actualidad política, en directo | Sumar hace un último llamamiento a Podemos para integrarse en el Frente Amplio",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-16T15:54:39+02:00",
+      "fecha": "2026-10-16T19:58:21+02:00",
       "enlace": "https://elpais.com/espana/2026-10-16/ultima-hora-de-la-actualidad-politica-en-directo.html"
     },
     {
-      "titular": "Un terremoto de 4,2 en el Bierzo se siente en todo el noroeste: «Tenía muchísimo miedo»",
+      "titular": "Trump despide a la portavoz de prensa de la Casa Blanca cinco días después de nombrarla",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-16T19:53:00+02:00",
+      "enlace": "https://elpais.com/us/2026-10-16/trump-abre-la-puerta-a-una-salida-de-la-portavoz-de-prensa-recien-nombrada-por-el.html"
+    },
+    {
+      "titular": "Trump le recomienda a su portavoz que considere su dimisión cinco días después de asumir el cargo",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-10-16T15:39:53+02:00",
-      "enlace": "https://www.abc.es/espana/castilla-leon/bierzo-leon-sufre-terremoto-magnitud-cuatro-dejado-20261016082937-nt.html"
+      "fecha": "2026-10-16T19:44:41+02:00",
+      "enlace": "https://www.abc.es/internacional/trump-recomienda-flamante-portavoz-considere-dimision-20261016194045-nt.html"
     },
     {
-      "titular": "Corazones rotos y aterrizajes forzosos",
+      "titular": "Rufián no hará campaña por Montero en las provincias con fuerzas soberanistas",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-16T19:39:38+02:00",
+      "enlace": "https://www.abc.es/espana/rufian-hara-campana-montero-provincias-fuerzas-soberanistas-20261016171450-nt.html"
+    },
+    {
+      "titular": "Señales para comprobar si tu asma está mal controlada",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-10-16T15:30:00+02:00",
-      "enlace": "https://www.lavanguardia.com/gente/corazon/20261016/11660767/corazones-rotos-aterrizajes-forzosos.html"
+      "fecha": "2026-10-16T19:00:00+02:00",
+      "enlace": "https://www.lavanguardia.com/vida/salud/20261016/11660838/senales-comprobar-asma-esta-mal-controlada.html"
     },
     {
-      "titular": "El prestamista de Plus Ultra niega que blanqueara dinero del rescate",
+      "titular": "El coche volador de Tesla, el luto después de un tiroteo en Oregón y más imágenes del día",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-10-16T15:18:28+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20261016/11660832/prestamista-plus-ultra-niega-blanqueara-dinero-rescate.html"
+      "fecha": "2026-10-16T18:50:08+02:00",
+      "enlace": "https://www.lavanguardia.com/fotos/20261016/11661000/coche-volador-tesla-luto-tiroteo-oregon-mas-imagenes-dia.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 8,
+    "antiguedad_minima_min": 15,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2289061,
+        "antiguedad_min": 2289309,
         "descartados_por_gancho": 0
       },
       {
@@ -97,18 +97,18 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 141,
+        "items": 140,
         "error": null,
-        "antiguedad_min": 9,
+        "antiguedad_min": 15,
         "descartados_por_gancho": 2
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 134,
+        "items": 140,
         "error": null,
-        "antiguedad_min": 36,
+        "antiguedad_min": 74,
         "descartados_por_gancho": 13
       },
       {
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 8,
+        "antiguedad_min": 29,
         "descartados_por_gancho": 0
       }
     ]
