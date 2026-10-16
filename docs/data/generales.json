@@ -2,61 +2,62 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-10-16T20:14:13+02:00",
+  "generado": "2026-10-16T23:27:52+02:00",
   "titulares": [
     {
-      "titular": "Última hora de la actualidad política, en directo | Horas decisivas para un acuerdo de unidad en el espacio a la izquierda del PSOE",
+      "titular": "Oferta 'in extremis' del Frente Amplio a Podemos: el número dos por Madrid y una portavocía para Irene Montero",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-16T23:12:22+02:00",
+      "enlace": "https://www.abc.es/espana/frente-amplio-lanza-oferta-acuerdo-podemos-puestos-20261016220600-nt.html"
+    },
+    {
+      "titular": "Última hora de la actualidad política, en directo | Podemos responde al Frente Amplio con una oferta para acuerdos territoriales sin Madrid y Cataluña",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-16T19:58:21+02:00",
+      "fecha": "2026-10-16T23:10:52+02:00",
       "enlace": "https://elpais.com/espana/2026-10-16/ultima-hora-de-la-actualidad-politica-en-directo.html"
     },
     {
-      "titular": "Trump despide a la portavoz de prensa de la Casa Blanca cinco días después de nombrarla",
+      "titular": "El Barcelona cae en la prórroga ante el Olympiacos",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-16T19:53:00+02:00",
-      "enlace": "https://elpais.com/us/2026-10-16/trump-abre-la-puerta-a-una-salida-de-la-portavoz-de-prensa-recien-nombrada-por-el.html"
+      "fecha": "2026-10-16T23:05:22+02:00",
+      "enlace": "https://elpais.com/deportes/baloncesto/2026-10-16/el-barcelona-cae-en-la-prorroga-ante-el-olympiacos.html"
     },
     {
-      "titular": "Trump le recomienda a su portavoz que considere su dimisión cinco días después de asumir el cargo",
+      "titular": "El Defensor del Pueblo sale en auxilio del Gobierno y lleva el censo de la 'ley de nietos' al TC",
       "medios": [
+        "La Vanguardia",
         "ABC"
       ],
-      "consenso": 1,
-      "fecha": "2026-10-16T19:44:41+02:00",
-      "enlace": "https://www.abc.es/internacional/trump-recomienda-flamante-portavoz-considere-dimision-20261016194045-nt.html"
+      "consenso": 2,
+      "fecha": "2026-10-16T22:48:59+02:00",
+      "enlace": "https://www.abc.es/espana/gobierno-moviliza-defensor-pueblo-desesperada-lleve-ley-20261015200928-nt.html"
     },
     {
-      "titular": "Rufián no hará campaña por Montero en las provincias con fuerzas soberanistas",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-16T19:39:38+02:00",
-      "enlace": "https://www.abc.es/espana/rufian-hara-campana-montero-provincias-fuerzas-soberanistas-20261016171450-nt.html"
-    },
-    {
-      "titular": "Señales para comprobar si tu asma está mal controlada",
+      "titular": "Convergents resolverá el pacto con Junts para las municipales tras no llegar a un acuerdo para el 29-N",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-10-16T19:00:00+02:00",
-      "enlace": "https://www.lavanguardia.com/vida/salud/20261016/11660838/senales-comprobar-asma-esta-mal-controlada.html"
+      "fecha": "2026-10-16T22:04:04+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20261016/11661082/convergents-resolvera-pacto-junts-municipales-llegar-acuerdo-29-n.html"
     },
     {
-      "titular": "El coche volador de Tesla, el luto después de un tiroteo en Oregón y más imágenes del día",
+      "titular": "La UE arropa a Zelenski para hacer frente a la presión de Trump",
       "medios": [
-        "La Vanguardia"
+        "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-10-16T18:50:08+02:00",
-      "enlace": "https://www.lavanguardia.com/fotos/20261016/11661000/coche-volador-tesla-luto-tiroteo-oregon-mas-imagenes-dia.html"
+      "fecha": "2026-10-16T21:39:01+02:00",
+      "enlace": "https://www.abc.es/internacional/von-der-leyen-asegura-ue-levantara-ninguna-20261016095351-nt.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -82,7 +83,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2289309,
+        "antiguedad_min": 2289502,
         "descartados_por_gancho": 0
       },
       {
@@ -99,16 +100,16 @@
         "ok": true,
         "items": 140,
         "error": null,
-        "antiguedad_min": 15,
+        "antiguedad_min": 17,
         "descartados_por_gancho": 2
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 140,
+        "items": 142,
         "error": null,
-        "antiguedad_min": 74,
+        "antiguedad_min": 64,
         "descartados_por_gancho": 13
       },
       {
@@ -117,7 +118,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 29,
+        "antiguedad_min": 15,
         "descartados_por_gancho": 0
       }
     ]

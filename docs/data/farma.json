@@ -2,8 +2,17 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "ultimas",
-  "generado": "2026-10-16T20:14:24+02:00",
+  "generado": "2026-10-16T23:28:01+02:00",
   "titulares": [
+    {
+      "titular": "Ana Castillo, directora general de Inspección y Política Sanitaria del Departamento de Salud de Aragón",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-16T20:41:40+02:00",
+      "enlace": "https://www.redaccionmedica.com/autonomias/20261016/ana-castillo-directora-general-de-inspeccion-politica-sanitaria-del-departamento-salud-aragon/362462_0.html"
+    },
     {
       "titular": "La EMA da luz verde a un nuevo medicamento para el control de peso y la diabetes tipo 2",
       "medios": [
@@ -12,15 +21,6 @@
       "consenso": 1,
       "fecha": "2026-10-16T18:44:02+02:00",
       "enlace": "https://www.redaccionmedica.com/empresas/industria-farmaceutica/20261016/la-ema-da-luz-verde-un-nuevo-medicamento-para-el-control-de-peso-la-diabetes-tipo/362461_0.html"
-    },
-    {
-      "titular": "Respuesta nacional ante \"parches autonómicos\" para enfrentar el irregular mapa de acceso enfermero a puestos directivos",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-16T18:27:51+02:00",
-      "enlace": "https://www.redaccionmedica.com/profesionales/enfermeria/20261016/respuesta-nacional-ante-parches-autonomicos-para-enfrentar-el-irregular-mapa-de-acceso-enfermero-puestos-directivos/362206_0.html"
     },
     {
       "titular": "Extremadura reserva casi el 40 % de su presupuesto de 2027 a sanidad y dependencia",
@@ -59,13 +59,13 @@
       "enlace": "https://elglobalfarma.com/industria/chmp-opinion-positiva-seis-medicamentos-reunion-octubre/"
     },
     {
-      "titular": "Carina Escobar, reelegida presidenta de la Plataforma de Organizaciones de Pacientes",
+      "titular": "Respuesta nacional ante \"parches autonómicos\" para enfrentar el irregular mapa de acceso enfermero a puestos directivos",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-10-16T17:47:08+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20261016/carina-escobar-reelegida-presidenta-de-la-plataforma-organizaciones-pacientes/362459_0.html"
+      "fecha": "2026-10-16T18:27:51+02:00",
+      "enlace": "https://www.redaccionmedica.com/profesionales/enfermeria/20261016/respuesta-nacional-ante-parches-autonomicos-para-enfrentar-el-irregular-mapa-de-acceso-enfermero-puestos-directivos/362206_0.html"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 90,
+    "antiguedad_minima_min": 166,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 328,
+        "antiguedad_min": 521,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 8,
         "error": null,
-        "antiguedad_min": 369,
+        "antiguedad_min": 562,
         "descartados_por_gancho": 2
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 90,
+        "antiguedad_min": 166,
         "descartados_por_gancho": 0
       },
       {

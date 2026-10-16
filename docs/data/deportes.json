@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-10-16T20:14:18+02:00",
+  "generado": "2026-10-16T23:27:56+02:00",
   "titulares": [
     {
-      "titular": "Barça - Olympiacos, en directo",
+      "titular": "El Córdoba respira y ahoga aún más al Leganés de un Morata expulsado",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-16T19:53:08+02:00",
-      "enlace": "https://www.mundodeportivo.com/baloncesto/euroliga/20261016/1004239151/barca-olympiacos-directo-euroliga-baloncesto.html"
+      "fecha": "2026-10-16T22:52:29+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/liga-segunda-division/20261016/1004239639/cordoba-respira-ahoga-aun-leganes-morata-expulsado.html"
     },
     {
-      "titular": "Terzic explica el motivo de la ausencia de Laporte en Vallecas",
+      "titular": "Los trabajadores tienen derecho a cobrar todo el dinero del paro de golpe si se cumplen estos requisitos",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-16T19:46:30+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/athletic-bilbao/20261016/1004239362/laporte-no-veia-preparado-jugar.html"
+      "fecha": "2026-10-16T22:48:53+02:00",
+      "enlace": "https://www.mundodeportivo.com/actualidad/20261016/1004239638/esta-vigor-espana-establece-trabajadores-derecho-cobrar-dinero-paro-golpe-cumplen-requisitos-finanzas-dct.html"
     },
     {
       "titular": "El Club 'Divertido' Lugo se lo pasa en grande: líder, invicto y mejor equipo de Primera RFEF",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/mundial/2026/10/13/netflix-adquiere-derechos-audiovisuales-espana-mundial-2030.html"
     },
     {
-      "titular": "Jugadores que han vestido las camisetas de Barça y Betis en el siglo XXI",
+      "titular": "100-105: El Barça lleva al límite al campeón y cae en la prórroga",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-16T19:44:49+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261016/1004239599/jugadores-han-vestido-camisetas-barca-betis-siglo-xxi.html"
+      "fecha": "2026-10-16T22:46:55+02:00",
+      "enlace": "https://www.mundodeportivo.com/baloncesto/euroliga/20261016/1004239610/aa.html"
     },
     {
-      "titular": "Miki Codina, duda en el Sabadell ante el Burgos",
+      "titular": "Así queda la clasificación tras la derrota en la prórroga del Barça ante el campeón",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-16T19:34:03+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/sabadell/20261016/1004239604/miki-codina-duda-sabadell-burgos.html"
+      "fecha": "2026-10-16T22:44:30+02:00",
+      "enlace": "https://www.mundodeportivo.com/baloncesto/euroliga/20261016/1004239634/asi-queda-clasificacion-euroliga-derrota-barca-campeon-europa.html"
     },
     {
-      "titular": "Los 5 partidos a seguir de la jornada 7 de la Premier League",
+      "titular": "Detenidos dos ultras del Porto por agredir a un vigilante en La Cartuja y romperle la mandíbula",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-16T19:27:06+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/premier-league/20261016/1004239602/5-partidos-seguir-jornada-7-premier-league.html"
+      "fecha": "2026-10-16T22:40:12+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/betis/20261016/1004239637/detenidos-dos-ultras-porto-agredir-vigilante-cartuja-romperle-mandibula.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 21,
+    "antiguedad_minima_min": 35,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 60,
         "error": null,
-        "antiguedad_min": 4725,
+        "antiguedad_min": 4919,
         "descartados_por_gancho": 12
       },
       {
@@ -99,9 +99,9 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 137,
+        "items": 138,
         "error": null,
-        "antiguedad_min": 21,
+        "antiguedad_min": 35,
         "descartados_por_gancho": 6
       },
       {
