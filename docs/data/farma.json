@@ -1,18 +1,9 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "ultimas",
-  "generado": "2026-10-15T23:54:02+02:00",
+  "modo": "portadas",
+  "generado": "2026-10-16T02:00:22+02:00",
   "titulares": [
-    {
-      "titular": "Paso atrás en la contención de la tuberculosis: Agricultura cuestiona la flexibilización de los controles",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-15T20:35:26+02:00",
-      "enlace": "https://www.redaccionmedica.com/salud-animal/20261015/paso-atras-en-la-contencion-de-tuberculosis-agricultura-cuestiona-flexibilizacion-los-controles/362318_0.html"
-    },
     {
       "titular": "Sanidad publica la propuesta del CAPF de guía de Análisis de Impacto Presupuestario",
       "medios": [
@@ -21,24 +12,6 @@
       "consenso": 1,
       "fecha": "2026-10-15T20:30:00+02:00",
       "enlace": "https://diariofarma.com/2026/10/15/sanidad-publica-la-propuesta-del-capf-de-guia-de-analisis-de-impacto-presupuestario"
-    },
-    {
-      "titular": "RD de Precios: Sanidad rebaja su objetivo, mira al Consejo de Estado y descarta el BOE",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-15T20:18:00+02:00",
-      "enlace": "https://diariofarma.com/2026/10/15/rd-de-precios-sanidad-rebaja-su-objetivo-mira-al-consejo-de-estado-y-descarta-el-boe"
-    },
-    {
-      "titular": "El sistema informático de los centros de salud y hospitales de Castilla y León cae durante dos horas",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-15T20:05:36+02:00",
-      "enlace": "https://www.redaccionmedica.com/autonomias/castilla-leon/20261015/el-sistema-informatico-de-los-centros-salud-hospitales-castilla-leon-cae-durante-dos-horas/362316_0.html"
     },
     {
       "titular": "Las tres medidas de López-Belmonte para impulsar el liderazgo de España en salud, innovación y autonomía estratégica",
@@ -50,6 +23,24 @@
       "enlace": "https://elglobalfarma.com/industria/medidas-lopez-belmonte-farmaindustria-liderazgo-espana-salud-innovacion-autonomia-estrategica/"
     },
     {
+      "titular": "La lactancia materna exclusiva hasta los 6 meses se desvanece en un SNS sin medios y unos permisos que se quedan cortos",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-15T18:02:21+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20261015/la-lactancia-materna-exclusiva-hasta-los-meses-se-desvanece-en-un-sns-sin-medios-unos-permisos-que-quedan-cortos/349367_0.html"
+    },
+    {
+      "titular": "RD de Precios: Sanidad rebaja su objetivo, mira al Consejo de Estado y descarta el BOE",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-15T20:18:00+02:00",
+      "enlace": "https://diariofarma.com/2026/10/15/rd-de-precios-sanidad-rebaja-su-objetivo-mira-al-consejo-de-estado-y-descarta-el-boe"
+    },
+    {
       "titular": "Juan López-Belmonte, una trayectoria consolidada que vuelve a encontrarse con Farmaindustria",
       "medios": [
         "El Global"
@@ -59,13 +50,23 @@
       "enlace": "https://elglobalfarma.com/industria/juan-lopez-belmonte-trayectoria-vuelve-farmaindustria/"
     },
     {
-      "titular": "La industria de la salud pide una vía única en Europa para la IA en dispositivos sanitarios",
+      "titular": "Reformar la sanidad depende de todos, no solo del 29N",
       "medios": [
-        "Diariofarma"
+        "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-10-15T19:11:54+02:00",
-      "enlace": "https://diariofarma.com/2026/10/15/la-industria-de-la-salud-pide-una-via-unica-en-europa-para-la-ia-en-dispositivos-sanitarios"
+      "fecha": "2026-10-15T09:59:31+02:00",
+      "enlace": "https://www.redaccionmedica.com/opinion/20261015/reformar-la-sanidad-depende-de-todos-no-solo-del/362183_14.html"
+    },
+    {
+      "titular": "Andalucía anuncia la creación de su primera red de investigación clínica en AP",
+      "medios": [
+        "Diariofarma",
+        "Redacción Médica"
+      ],
+      "consenso": 2,
+      "fecha": "2026-10-15T19:10:50+02:00",
+      "enlace": "https://diariofarma.com/2026/10/15/andalucia-anuncia-la-creacion-de-su-primera-red-de-investigacion-clinica-en-ap"
     }
   ],
   "salud": {
@@ -76,7 +77,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 198,
+    "antiguedad_minima_min": 324,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +85,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 203,
+        "antiguedad_min": 330,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +94,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 416,
+        "antiguedad_min": 542,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +103,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 198,
+        "antiguedad_min": 324,
         "descartados_por_gancho": 0
       },
       {

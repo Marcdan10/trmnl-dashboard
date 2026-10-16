@@ -1,63 +1,9 @@
 {
   "pantalla": "generales",
   "titulo": "Titulares",
-  "modo": "ultimas",
-  "generado": "2026-10-15T23:53:50+02:00",
+  "modo": "portadas",
+  "generado": "2026-10-16T02:00:09+02:00",
   "titulares": [
-    {
-      "titular": "Puigdemont descarta ejercer como jefe de la oposición en el Parlament",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-15T23:36:36+02:00",
-      "enlace": "https://elpais.com/espana/catalunya/2026-10-15/puigdemont-descarta-ejercer-como-jefe-de-la-oposicion-en-el-parlament.html"
-    },
-    {
-      "titular": "Alberto Herreros y Silvia Domínguez lucen en el Hall of Fame del baloncesto español",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-15T23:34:00+02:00",
-      "enlace": "https://elpais.com/deportes/baloncesto/2026-10-15/alberto-herreros-y-silvia-domiguez-lucen-en-el-hall-of-fame-del-baloncesto-espanol.html"
-    },
-    {
-      "titular": "Un choque entre un autobús y un tren deja 19 heridos en el lado francés del túnel del canal de la Mancha",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-15T23:22:34+02:00",
-      "enlace": "https://www.abc.es/internacional/choque-autobus-tren-deja-heridos-lado-frances-20261015215039-nt.html"
-    },
-    {
-      "titular": "Una asociación fantasma cercana al PSOE se persona contra la suspensión del voto de los nietos",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-15T23:11:42+02:00",
-      "enlace": "https://www.abc.es/espana/asociacion-fantasma-cercana-psoe-persona-supremo-suspension-20261015193605-nt.html"
-    },
-    {
-      "titular": "Puigdemont confirma que no será jefe de la oposición en el Parlament cuando regrese a Catalunya",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-15T23:00:00+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20261015/11660068/puigdemont-confirma-sera-jefe-oposicion-parlament-regrese-catalunya.html"
-    },
-    {
-      "titular": "Isabel Allende: “Una vez probé la IA y fue horrible; te sale con unas cursiladas que no te imaginas”",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-15T22:55:32+02:00",
-      "enlace": "https://www.lavanguardia.com/magazine/protagonistas/20261015/11659962/isabel-allende-vez-probe-ia-horrible-te-sale-cursiladas-te-imaginas.html"
-    },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
       "medios": [
@@ -66,6 +12,60 @@
       "consenso": 1,
       "fecha": "2022-06-10T01:05:00+02:00",
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
+    },
+    {
+      "titular": "La Junta Electoral abre expediente sancionador a Sánchez por la rueda de prensa en La Moncloa donde anunció los decretos sobre vivienda",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-15T16:34:32+02:00",
+      "enlace": "https://elpais.com/espana/2026-10-15/la-junta-electoral-abre-expediente-sancionador-a-sanchez-por-la-rueda-de-prensa-en-la-moncloa-donde-anuncio-los-decretos-sobre-vivienda.html"
+    },
+    {
+      "titular": "Feijóo garantiza que revalorizará las pensiones y Sánchez le acusa de mentir",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-16T00:05:00+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20261016/11660046/feijoo-garantiza-revalorizara-pensiones-sanchez-le-acusa-mentir.html"
+    },
+    {
+      "titular": "Jaime Lorente: «No me dedico a esto por la alfombra roja»",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-16T01:55:28+02:00",
+      "enlace": "https://www.abc.es/play/cine/noticias/jaime-lorente-debuta-director-mal-hijo-dedicado-20261015193822-nt.html"
+    },
+    {
+      "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
+      "medios": [
+        "RTVE"
+      ],
+      "consenso": 1,
+      "fecha": "2022-06-10T00:03:00+02:00",
+      "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
+    },
+    {
+      "titular": "Una asociación de descendientes de españoles se persona en el Supremo contra la suspensión del voto de los nacionalizados por la ‘ley de nietos’",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-15T18:34:21+02:00",
+      "enlace": "https://elpais.com/espana/2026-10-15/una-asociacion-de-descendientes-de-espanoles-se-persona-en-el-supremo-contra-la-suspension-del-voto-de-los-nacionalizados-por-la-ley-de-nietos.html"
+    },
+    {
+      "titular": "Frente Amplio frena el intento de Podemos de “trocear” la izquierda",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-15T14:26:40+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20261015/11659797/frente-amplio-corta-paso-intentos-trocear-espacio.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 17,
+    "antiguedad_minima_min": 4,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2288088,
+        "antiguedad_min": 2288215,
         "descartados_por_gancho": 0
       },
       {
@@ -90,7 +90,7 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 429",
+        "error": "HTTP 403",
         "antiguedad_min": null
       },
       {
@@ -99,17 +99,17 @@
         "ok": true,
         "items": 147,
         "error": null,
-        "antiguedad_min": 17,
+        "antiguedad_min": 34,
         "descartados_por_gancho": 7
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 139,
+        "items": 133,
         "error": null,
-        "antiguedad_min": 53,
-        "descartados_por_gancho": 12
+        "antiguedad_min": 57,
+        "descartados_por_gancho": 13
       },
       {
         "medio": "ABC",
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 23,
         "error": null,
-        "antiguedad_min": 25,
+        "antiguedad_min": 4,
         "descartados_por_gancho": 2
       }
     ]
