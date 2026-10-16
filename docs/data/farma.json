@@ -1,72 +1,71 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "portadas",
-  "generado": "2026-10-16T11:26:18+02:00",
+  "modo": "ultimas",
+  "generado": "2026-10-16T16:06:21+02:00",
   "titulares": [
     {
-      "titular": "Sanidad publica la propuesta del CAPF de guía de Análisis de Impacto Presupuestario",
+      "titular": "Primera jornada de huelga indefinida en la sanidad canaria: los sindicatos cifran un 58% de seguimiento",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-16T15:02:58+02:00",
+      "enlace": "https://www.redaccionmedica.com/autonomias/20261016/primera-jornada-de-huelga-indefinida-en-la-sanidad-canaria-los-sindicatos-cifran-un-seguimiento/362417_0.html"
+    },
+    {
+      "titular": "El PSOE-A propone clasificar las listas de espera en Salud Mental y tener datos homogéneos en el SAS",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-16T14:49:59+02:00",
+      "enlace": "https://www.redaccionmedica.com/autonomias/andalucia/20261016/el-psoe-a-propone-clasificar-las-listas-de-espera-en-salud-mental-tener-datos-homogeneos-el-sas/362426_0.html"
+    },
+    {
+      "titular": "Extremadura reserva casi el 40 % de su presupuesto de 2027 a sanidad y dependencia",
       "medios": [
         "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-10-15T20:30:00+02:00",
-      "enlace": "https://diariofarma.com/2026/10/15/sanidad-publica-la-propuesta-del-capf-de-guia-de-analisis-de-impacto-presupuestario"
+      "fecha": "2026-10-16T14:46:15+02:00",
+      "enlace": "https://diariofarma.com/2026/10/16/extremadura-reserva-casi-el-40-de-su-presupuesto-de-2027-a-sanidad-y-dependencia"
     },
     {
-      "titular": "La EFPIA y cinco organizaciones europeas piden una vía regulatoria única para las tecnologías médicas con IA",
-      "medios": [
-        "El Global"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-16T11:25:23+02:00",
-      "enlace": "https://elglobalfarma.com/industria/efpia-organizaciones-europeas-via-regulatoria-unica-tecnologias-medicas-ia/"
-    },
-    {
-      "titular": "Los sindicatos médicos apartan sus diferencias y acudirán en bloque a la manifestación del 21-N",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-16T11:14:28+02:00",
-      "enlace": "https://www.redaccionmedica.com/profesionales/medicina/20261016/los-sindicatos-medicos-apartan-sus-diferencias-acudiran-en-bloque-la-manifestacion-del/362330_0.html"
-    },
-    {
-      "titular": "RD de Precios: Sanidad rebaja su objetivo, mira al Consejo de Estado y descarta el BOE",
+      "titular": "País Vasco habilita 92 ensayos clínicos oncológicos en una plataforma única",
       "medios": [
         "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-10-15T20:18:00+02:00",
-      "enlace": "https://diariofarma.com/2026/10/15/rd-de-precios-sanidad-rebaja-su-objetivo-mira-al-consejo-de-estado-y-descarta-el-boe"
+      "fecha": "2026-10-16T14:27:23+02:00",
+      "enlace": "https://diariofarma.com/2026/10/16/pais-vasco-habilita-92-ensayos-clinicos-oncologicos-en-una-plataforma-unica"
     },
     {
-      "titular": "FarmaFit reúne a más de 300 profesionales para reforzar el papel de la farmacia en la salud deportiva",
+      "titular": "Una nueva etapa y mucho en juego",
       "medios": [
         "El Global"
       ],
       "consenso": 1,
-      "fecha": "2026-10-16T10:24:53+02:00",
-      "enlace": "https://elglobalfarma.com/farmacia/farmafit-reune-profesionales-reforzar-papel-farmacia-salud-deportiva/"
+      "fecha": "2026-10-16T13:56:40+02:00",
+      "enlace": "https://elglobalfarma.com/opinion/editorial/nueva-etapa-mucho-juego/"
     },
     {
-      "titular": "Retos y oportunidades de la Inteligencia Artificial en la relación médico-paciente",
+      "titular": "El CHMP emite opinión positiva para seis medicamentos en su reunión de octubre",
+      "medios": [
+        "El Global"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-16T13:36:35+02:00",
+      "enlace": "https://elglobalfarma.com/industria/chmp-opinion-positiva-seis-medicamentos-reunion-octubre/"
+    },
+    {
+      "titular": "Pedro Gullón inaugura la jornada 'Longevidad, prevención y diagnóstico precoz' y Manel Esteller impartirá una ponencia",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-10-16T05:09:00+02:00",
-      "enlace": "https://www.redaccionmedica.com/opinion/20261016/retos-oportunidades-de-la-inteligencia-artificial-en-relacion-medico-paciente/362283_12.html"
-    },
-    {
-      "titular": "Andalucía anuncia la creación de su primera red de investigación clínica en AP",
-      "medios": [
-        "Diariofarma",
-        "Redacción Médica"
-      ],
-      "consenso": 2,
-      "fecha": "2026-10-15T19:10:50+02:00",
-      "enlace": "https://diariofarma.com/2026/10/15/andalucia-anuncia-la-creacion-de-su-primera-red-de-investigacion-clinica-en-ap"
+      "fecha": "2026-10-16T14:43:06+02:00",
+      "enlace": "https://www.redaccionmedica.com/longevidad/20261016/pedro-gullon-inaugura-la-jornada-longevidad-prevencion-diagnostico-precoz-manel-esteller-impartira-una-ponencia/362326_0.html"
     }
   ],
   "salud": {
@@ -77,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 0,
+    "antiguedad_minima_min": 63,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -85,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 896,
+        "antiguedad_min": 80,
         "descartados_por_gancho": 0
       },
       {
@@ -94,7 +93,7 @@
         "ok": true,
         "items": 8,
         "error": null,
-        "antiguedad_min": 0,
+        "antiguedad_min": 121,
         "descartados_por_gancho": 2
       },
       {
@@ -103,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 11,
+        "antiguedad_min": 63,
         "descartados_por_gancho": 0
       },
       {

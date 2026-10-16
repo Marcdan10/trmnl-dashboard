@@ -1,17 +1,26 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "portadas",
-  "generado": "2026-10-16T11:26:12+02:00",
+  "modo": "ultimas",
+  "generado": "2026-10-16T16:06:14+02:00",
   "titulares": [
     {
-      "titular": "El Barça aumenta el valor de sus fichajes en 116 millones",
+      "titular": "Ya está disponible la banda sonora completa de 'La bola negra', que suma ya casi 4 millones de espectadores en cines",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-16T10:38:13+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261016/1004239393/barca-aumenta-valor-fichajes-116-millones.html"
+      "fecha": "2026-10-16T15:45:22+02:00",
+      "enlace": "https://www.mundodeportivo.com/elotromundo/television/20261016/1004239532/esta-disponible-banda-sonora-completa-bola-negra-pelicula-javis-suma-4-millones-espectadores-cines-dct.html"
+    },
+    {
+      "titular": "Peugeot, a pescar en río revuelto en las 6h de Barcelona",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-16T15:45:10+02:00",
+      "enlace": "https://www.mundodeportivo.com/motor/20261016/1004239467/peugeot-pescar-rio-revuelto-barcelona.html"
     },
     {
       "titular": "El Club 'Divertido' Lugo se lo pasa en grande: líder, invicto y mejor equipo de Primera RFEF",
@@ -23,15 +32,6 @@
       "enlace": "https://www.marca.com/futbol/primera-rfef/2026/10/13/club-divertido-lugo-pasa-grande-lider-invicto-mejor-equipo-primera-rfef.html"
     },
     {
-      "titular": "La increíble proyección goleadora de la apisonadora del Barça",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-16T00:30:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261016/1004239197/increible-proyeccion-goleadora-apisonadora-barca.html"
-    },
-    {
       "titular": "¡Netflix se queda el Mundial de España!",
       "medios": [
         "Marca"
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/mundial/2026/10/13/netflix-adquiere-derechos-audiovisuales-espana-mundial-2030.html"
     },
     {
-      "titular": "Flick cambia de planes antes de viajar a Sevilla",
+      "titular": "Noelia Márquez, de soltera de 'La isla de las tentaciones' a triunfar en Perú como concursante de 'reality'",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-15T14:38:50+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261015/1004239100/flick-cambia-planes-viajar-sevilla.html"
+      "fecha": "2026-10-16T15:43:05+02:00",
+      "enlace": "https://www.mundodeportivo.com/elotromundo/television/20261016/1004239528/noelia-marquez-soltera-isla-tentaciones-triunfar-peru-concursante-reality-galeria-dct.html"
     },
     {
-      "titular": "Arrasate: \"Siento que Osasuna me necesita y que yo puedo ayudar a Osasuna\"",
-      "medios": [
-        "Marca"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-13T12:56:47+02:00",
-      "enlace": "https://www.marca.com/futbol/osasuna/2026/10/13/arrasate-siento-osasuna-me-necesita-ayudar-osasuna.html"
-    },
-    {
-      "titular": "El agente de Nico Williams reconoce que no se fue al Barça porque no tenía seguridad de ser inscrito",
+      "titular": "La FIFA sanciona a la RFEF por el \"Musulmán el que no bote\" del España-Egipto",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-16T08:14:27+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/athletic-bilbao/20261016/1004239340/agente-nico-williams-reconoce-no-barca-no-tenia-seguridad-inscrito.html"
+      "fecha": "2026-10-16T15:37:35+02:00",
+      "enlace": "https://www.mundodeportivo.com/seleccion-espanola/20261016/1004239534/fifa-sanciona-rfef-musulman-no-bote-espana-egipto.html"
+    },
+    {
+      "titular": "Tres gimnastas rusos siguen esperando visado para los Mundiales de Róterdam, tras el veto a Melnikova",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-16T15:35:40+02:00",
+      "enlace": "https://www.mundodeportivo.com/gimnasia/20261016/1004239530/tres-gimnastas-rusos-siguen-esperando-visado-mundiales-roterdam-veto-melnikova.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 43,
+    "antiguedad_minima_min": 20,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 60,
         "error": null,
-        "antiguedad_min": 4197,
+        "antiguedad_min": 4477,
         "descartados_por_gancho": 12
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 130,
+        "items": 136,
         "error": null,
-        "antiguedad_min": 43,
-        "descartados_por_gancho": 8
+        "antiguedad_min": 20,
+        "descartados_por_gancho": 7
       },
       {
         "medio": "Sport",

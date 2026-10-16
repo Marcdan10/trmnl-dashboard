@@ -1,71 +1,71 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "portadas",
-  "generado": "2026-10-16T11:26:11+02:00",
+  "modo": "ultimas",
+  "generado": "2026-10-16T16:06:12+02:00",
   "titulares": [
     {
-      "titular": "Ferrovial hace un 'hat trick' de 60.000 millones en autopistas de peaje",
+      "titular": "Banqueros y asesores percibirán 334 millones de libras en la operación de adquisición de easyJet",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-16T00:26:22+02:00",
-      "enlace": "https://www.expansion.com/empresas/construccion-servicios/2026/10/16/6ad144da468aeb724e8b4592.html"
+      "fecha": "2026-10-16T15:35:59+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/10/16/banqueros-asesores-percibiran-334-millones-libras-operacion-adquisicion-easyjet.html"
     },
     {
-      "titular": "Crecen las apuestas de que la Reserva Federal mantendrá los tipos de interés en octubre",
+      "titular": "Ofensiva francoalemana para rebajar los límites a la venta de coches de combustión",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-16T10:09:49+02:00",
-      "enlace": "https://www.expansion.com/economia/financial-times/2026/10/16/crecen-apuestas-reserva-federal-mantendra-tipos-interes-octubre.html"
+      "fecha": "2026-10-16T15:25:01+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/10/16/ofensiva-francoalemana-rebajar-limites-venta-coches-combustion.html"
     },
     {
-      "titular": "Unicaja negocia los últimos flecos para hacerse con WiZink",
+      "titular": "El Ibex apunta al alza para asegurar la semana",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-16T02:13:16+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/10/16/6ad12838468aeb724e8b458a.html"
+      "fecha": "2026-10-16T14:32:53+02:00",
+      "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/10/16/6ad1bca4e5fdead6768b456d.html"
     },
     {
-      "titular": "Tesla presenta un coche eléctrico con tecnología de SpaceX que puede volar y acelera como un cohete",
+      "titular": "Huelga de la educación pública en la Comunidad de Madrid: cuánto cobran maestros y profesores y qué mejoras salariales piden",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-16T10:17:03+02:00",
-      "enlace": "https://www.expansion.com/empresas/motor/2026/10/16/6ad1dd74468aeb724e8b45a4.html"
+      "fecha": "2026-10-16T14:28:49+02:00",
+      "enlace": "https://www.expansion.com/economia/funcion-publica/2026/10/16/huelga-educacion-publica-comunidad-madrid-cuanto-cobran-maestros-profesores-mejoras-salariales-piden.html"
     },
     {
-      "titular": "EEUU estudia vetar 3.000 millones en exportaciones españolas",
+      "titular": "Qué hacer en Ferrovial tras su bache en el Ibex",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-16T01:20:54+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/10/16/eeuu-estudia-vetar-3-000-millones-exportaciones-espanolas.html"
+      "fecha": "2026-10-16T13:49:04+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/10/16/6ad1f86f468aebe7128b4577.html"
     },
     {
-      "titular": "Cinco valores refugio en el Ibex si estallan las cotizadas de la IA",
+      "titular": "Cómo ganar en Bolsa sin salir de Europa, con Flaviel del Pino de BLD",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-15T20:53:25+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/10/15/6ad10148468aeba8498b457f.html"
+      "fecha": "2026-10-16T13:44:24+02:00",
+      "enlace": "https://www.expansion.com/podcasts/en-accion/2026/10/16/ganar-bolsa-salir-europa-flaviel-pino-bld.html"
     },
     {
-      "titular": "La empresa familiar centenaria con un Récord Guinness cafetero",
+      "titular": "Aena abre la puerta a adelantar algunas obras de la ampliación del Prat",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-16T01:07:05+02:00",
-      "enlace": "https://www.expansion.com/empresas/distribucion/2026/10/16/6ad0d077468aeb76028b4572.html"
+      "fecha": "2026-10-16T13:14:06+02:00",
+      "enlace": "https://www.expansion.com/catalunya/2026/10/16/aena-abre-puerta-adelantar-obras-ampliacion-prat.html"
     }
   ],
   "salud": {
@@ -78,16 +78,16 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 33,
+    "antiguedad_minima_min": 30,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 71,
+        "items": 76,
         "error": null,
-        "antiguedad_min": 33,
-        "descartados_por_gancho": 1
+        "antiguedad_min": 30,
+        "descartados_por_gancho": 2
       },
       {
         "medio": "Cinco Días",
