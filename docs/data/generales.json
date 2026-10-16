@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-10-16T02:00:09+02:00",
+  "generado": "2026-10-16T06:47:03+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -14,13 +14,13 @@
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
     },
     {
-      "titular": "La Junta Electoral abre expediente sancionador a Sánchez por la rueda de prensa en La Moncloa donde anunció los decretos sobre vivienda",
+      "titular": "La izquierda alternativa lleva al límite el pulso para las listas del 29-N con el escollo principal de Madrid",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-15T16:34:32+02:00",
-      "enlace": "https://elpais.com/espana/2026-10-15/la-junta-electoral-abre-expediente-sancionador-a-sanchez-por-la-rueda-de-prensa-en-la-moncloa-donde-anuncio-los-decretos-sobre-vivienda.html"
+      "fecha": "2026-10-16T05:30:01+02:00",
+      "enlace": "https://elpais.com/espana/elecciones-generales/2026-10-16/la-izquierda-alternativa-lleva-al-limite-el-pulso-para-las-listas-del-29-n-con-el-escollo-principal-de-madrid.html"
     },
     {
       "titular": "Feijóo garantiza que revalorizará las pensiones y Sánchez le acusa de mentir",
@@ -32,13 +32,13 @@
       "enlace": "https://www.lavanguardia.com/politica/20261016/11660046/feijoo-garantiza-revalorizara-pensiones-sanchez-le-acusa-mentir.html"
     },
     {
-      "titular": "Jaime Lorente: «No me dedico a esto por la alfombra roja»",
+      "titular": "Luis Alberto Zamora: «El boniato protege la vista, es antioxidante y rico en vitaminas»",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-10-16T01:55:28+02:00",
-      "enlace": "https://www.abc.es/play/cine/noticias/jaime-lorente-debuta-director-mal-hijo-dedicado-20261015193822-nt.html"
+      "fecha": "2026-10-16T06:00:04+02:00",
+      "enlace": "https://www.abc.es/bienestar/alimentacion/luis-alberto-zamora-nutricionista-boniato-protege-vista-20261016060000-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -50,13 +50,15 @@
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
     },
     {
-      "titular": "Una asociación de descendientes de españoles se persona en el Supremo contra la suspensión del voto de los nacionalizados por la ‘ley de nietos’",
+      "titular": "Isabel Allende gana el 75 Premio Planeta con la continuación de 'La casa de los espíritus'",
       "medios": [
-        "El País"
+        "El País",
+        "La Vanguardia",
+        "ABC"
       ],
-      "consenso": 1,
-      "fecha": "2026-10-15T18:34:21+02:00",
-      "enlace": "https://elpais.com/espana/2026-10-15/una-asociacion-de-descendientes-de-espanoles-se-persona-en-el-supremo-contra-la-suspension-del-voto-de-los-nacionalizados-por-la-ley-de-nietos.html"
+      "consenso": 3,
+      "fecha": "2026-10-16T02:23:30+02:00",
+      "enlace": "https://www.abc.es/cultura/isabel-allende-gana-premio-planeta-segunda-parte-20261015175309-nt.html"
     },
     {
       "titular": "Frente Amplio frena el intento de Podemos de “trocear” la izquierda",
@@ -74,7 +76,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 4,
+    "antiguedad_minima_min": 17,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +84,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2288215,
+        "antiguedad_min": 2288502,
         "descartados_por_gancho": 0
       },
       {
@@ -97,10 +99,10 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 147,
+        "items": 137,
         "error": null,
-        "antiguedad_min": 34,
-        "descartados_por_gancho": 7
+        "antiguedad_min": 17,
+        "descartados_por_gancho": 8
       },
       {
         "medio": "La Vanguardia",
@@ -108,7 +110,7 @@
         "ok": true,
         "items": 133,
         "error": null,
-        "antiguedad_min": 57,
+        "antiguedad_min": 344,
         "descartados_por_gancho": 13
       },
       {
@@ -117,7 +119,7 @@
         "ok": true,
         "items": 23,
         "error": null,
-        "antiguedad_min": 4,
+        "antiguedad_min": 46,
         "descartados_por_gancho": 2
       }
     ]
