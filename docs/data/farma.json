@@ -1,27 +1,9 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "ultimas",
-  "generado": "2026-10-16T23:28:01+02:00",
+  "modo": "portadas",
+  "generado": "2026-10-17T01:46:08+02:00",
   "titulares": [
-    {
-      "titular": "Ana Castillo, directora general de Inspección y Política Sanitaria del Departamento de Salud de Aragón",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-16T20:41:40+02:00",
-      "enlace": "https://www.redaccionmedica.com/autonomias/20261016/ana-castillo-directora-general-de-inspeccion-politica-sanitaria-del-departamento-salud-aragon/362462_0.html"
-    },
-    {
-      "titular": "La EMA da luz verde a un nuevo medicamento para el control de peso y la diabetes tipo 2",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-16T18:44:02+02:00",
-      "enlace": "https://www.redaccionmedica.com/empresas/industria-farmaceutica/20261016/la-ema-da-luz-verde-un-nuevo-medicamento-para-el-control-de-peso-la-diabetes-tipo/362461_0.html"
-    },
     {
       "titular": "Extremadura reserva casi el 40 % de su presupuesto de 2027 a sanidad y dependencia",
       "medios": [
@@ -32,13 +14,23 @@
       "enlace": "https://diariofarma.com/2026/10/16/extremadura-reserva-casi-el-40-de-su-presupuesto-de-2027-a-sanidad-y-dependencia"
     },
     {
-      "titular": "País Vasco habilita 92 ensayos clínicos oncológicos en una plataforma única",
+      "titular": "Respuesta nacional ante \"parches autonómicos\" para enfrentar el irregular mapa de acceso enfermero a puestos directivos",
       "medios": [
-        "Diariofarma"
+        "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-10-16T14:27:23+02:00",
-      "enlace": "https://diariofarma.com/2026/10/16/pais-vasco-habilita-92-ensayos-clinicos-oncologicos-en-una-plataforma-unica"
+      "fecha": "2026-10-16T18:27:51+02:00",
+      "enlace": "https://www.redaccionmedica.com/profesionales/enfermeria/20261016/respuesta-nacional-ante-parches-autonomicos-para-enfrentar-el-irregular-mapa-de-acceso-enfermero-puestos-directivos/362206_0.html"
+    },
+    {
+      "titular": "La UE recomienda por primera vez un medicamento evaluado mediante revisión por fases",
+      "medios": [
+        "Diariofarma",
+        "El Global"
+      ],
+      "consenso": 2,
+      "fecha": "2026-10-16T14:12:54+02:00",
+      "enlace": "https://diariofarma.com/2026/10/16/la-ema-recomienda-por-primera-vez-la-autorizacion-de-un-medicamento-evaluado-mediante-revision-por-fases"
     },
     {
       "titular": "Una nueva etapa y mucho en juego",
@@ -50,6 +42,15 @@
       "enlace": "https://elglobalfarma.com/opinion/editorial/nueva-etapa-mucho-juego/"
     },
     {
+      "titular": "Retos y oportunidades de la Inteligencia Artificial en la relación médico-paciente",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-16T05:09:00+02:00",
+      "enlace": "https://www.redaccionmedica.com/opinion/20261016/retos-oportunidades-de-la-inteligencia-artificial-en-relacion-medico-paciente/362283_12.html"
+    },
+    {
       "titular": "El CHMP emite opinión positiva para seis medicamentos en su reunión de octubre",
       "medios": [
         "El Global"
@@ -59,13 +60,13 @@
       "enlace": "https://elglobalfarma.com/industria/chmp-opinion-positiva-seis-medicamentos-reunion-octubre/"
     },
     {
-      "titular": "Respuesta nacional ante \"parches autonómicos\" para enfrentar el irregular mapa de acceso enfermero a puestos directivos",
+      "titular": "País Vasco habilita 92 ensayos clínicos oncológicos en una plataforma única",
       "medios": [
-        "Redacción Médica"
+        "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-10-16T18:27:51+02:00",
-      "enlace": "https://www.redaccionmedica.com/profesionales/enfermeria/20261016/respuesta-nacional-ante-parches-autonomicos-para-enfrentar-el-irregular-mapa-de-acceso-enfermero-puestos-directivos/362206_0.html"
+      "fecha": "2026-10-16T14:27:23+02:00",
+      "enlace": "https://diariofarma.com/2026/10/16/pais-vasco-habilita-92-ensayos-clinicos-oncologicos-en-una-plataforma-unica"
     }
   ],
   "salud": {
@@ -76,7 +77,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 166,
+    "antiguedad_minima_min": 304,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +85,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 521,
+        "antiguedad_min": 659,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +94,7 @@
         "ok": true,
         "items": 8,
         "error": null,
-        "antiguedad_min": 562,
+        "antiguedad_min": 700,
         "descartados_por_gancho": 2
       },
       {
@@ -102,7 +103,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 166,
+        "antiguedad_min": 304,
         "descartados_por_gancho": 0
       },
       {

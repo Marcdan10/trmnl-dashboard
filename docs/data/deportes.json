@@ -1,26 +1,26 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "ultimas",
-  "generado": "2026-10-16T23:27:56+02:00",
+  "modo": "portadas",
+  "generado": "2026-10-17T01:46:04+02:00",
   "titulares": [
     {
-      "titular": "El Córdoba respira y ahoga aún más al Leganés de un Morata expulsado",
+      "titular": "El problema 'invisible' con el que tuvo que lidiar Raphinha con su selección",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-16T22:52:29+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/liga-segunda-division/20261016/1004239639/cordoba-respira-ahoga-aun-leganes-morata-expulsado.html"
+      "fecha": "2026-10-16T20:18:50+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261016/1004239608/problema-invisible-tuvo-lidiar-raphinha-seleccion.html"
     },
     {
-      "titular": "Los trabajadores tienen derecho a cobrar todo el dinero del paro de golpe si se cumplen estos requisitos",
+      "titular": "Raphinha y De Jong regresan a la convocatoria del Barça",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-16T22:48:53+02:00",
-      "enlace": "https://www.mundodeportivo.com/actualidad/20261016/1004239638/esta-vigor-espana-establece-trabajadores-derecho-cobrar-dinero-paro-golpe-cumplen-requisitos-finanzas-dct.html"
+      "fecha": "2026-10-16T18:31:05+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261016/1004239593/raphinha-jong-regresan-convocatoria-barca-medirse-betis.html"
     },
     {
       "titular": "El Club 'Divertido' Lugo se lo pasa en grande: líder, invicto y mejor equipo de Primera RFEF",
@@ -41,6 +41,15 @@
       "enlace": "https://www.marca.com/futbol/mundial/2026/10/13/netflix-adquiere-derechos-audiovisuales-espana-mundial-2030.html"
     },
     {
+      "titular": "Flick pone por las nubes a Olmo, Fermín y Gavi",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-16T14:23:06+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261016/1004239504/flick-pone-nubes-olmo-fermin-gavi.html"
+    },
+    {
       "titular": "100-105: El Barça lleva al límite al campeón y cae en la prórroga",
       "medios": [
         "Mundo Deportivo"
@@ -50,22 +59,13 @@
       "enlace": "https://www.mundodeportivo.com/baloncesto/euroliga/20261016/1004239610/aa.html"
     },
     {
-      "titular": "Así queda la clasificación tras la derrota en la prórroga del Barça ante el campeón",
+      "titular": "Arrasate: \"Siento que Osasuna me necesita y que yo puedo ayudar a Osasuna\"",
       "medios": [
-        "Mundo Deportivo"
+        "Marca"
       ],
       "consenso": 1,
-      "fecha": "2026-10-16T22:44:30+02:00",
-      "enlace": "https://www.mundodeportivo.com/baloncesto/euroliga/20261016/1004239634/asi-queda-clasificacion-euroliga-derrota-barca-campeon-europa.html"
-    },
-    {
-      "titular": "Detenidos dos ultras del Porto por agredir a un vigilante en La Cartuja y romperle la mandíbula",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-16T22:40:12+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/betis/20261016/1004239637/detenidos-dos-ultras-porto-agredir-vigilante-cartuja-romperle-mandibula.html"
+      "fecha": "2026-10-13T12:56:47+02:00",
+      "enlace": "https://www.marca.com/futbol/osasuna/2026/10/13/arrasate-siento-osasuna-me-necesita-ayudar-osasuna.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 35,
+    "antiguedad_minima_min": 83,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 60,
         "error": null,
-        "antiguedad_min": 4919,
+        "antiguedad_min": 5057,
         "descartados_por_gancho": 12
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 138,
+        "items": 140,
         "error": null,
-        "antiguedad_min": 35,
-        "descartados_por_gancho": 6
+        "antiguedad_min": 83,
+        "descartados_por_gancho": 5
       },
       {
         "medio": "Sport",

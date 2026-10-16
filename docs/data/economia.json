@@ -1,71 +1,71 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "ultimas",
-  "generado": "2026-10-16T23:27:55+02:00",
+  "modo": "portadas",
+  "generado": "2026-10-17T01:46:02+02:00",
   "titulares": [
     {
-      "titular": "Trump despide a la portavoz de la Casa Blanca cinco días después de nombrarla",
+      "titular": "Volkswagen, Renault y Stellantis resucitan a sus 'clásicos' para crecer",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-16T19:59:23+02:00",
-      "enlace": "https://www.expansion.com/economia/politica/2026/10/16/trump-despide-portavoz-casa-blanca-cinco-dias-despues-nombrarla.html"
+      "fecha": "2026-10-17T00:15:29+02:00",
+      "enlace": "https://www.expansion.com/empresas/motor/2026/10/17/6ad245af468aeb2d038b456e.html"
     },
     {
-      "titular": "Nordex impulsa el resultado de Acciona tras disparar ventas y margen",
+      "titular": "García San Miguel (Abenójar Tungsten): \"Vamos a tener en España la mayor mina de wolframio del mundo tras China\"",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-16T19:46:34+02:00",
-      "enlace": "https://www.expansion.com/empresas/construccion-servicios/2026/10/16/6ad26174468aeb7c638b457e.html"
+      "fecha": "2026-10-17T00:14:56+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/10/17/6ad20ecb468aebc92b8b457c.html"
     },
     {
-      "titular": "Engie se adjudica la energía de TMB, Metro de Bilbao y otros operadores de transporte",
+      "titular": "Valores para ganar más enla recta final del año en Bolsa",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-16T19:44:10+02:00",
-      "enlace": "https://www.expansion.com/catalunya/2026/10/16/engie-adjudica-energia-tmb-metro-bilbao-otros-operadores-transporte.html"
+      "fecha": "2026-10-17T00:13:34+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/10/17/6ad2908ae5fdea10278b4581.html"
     },
     {
-      "titular": "Los maquinistas convocan huelga en Renfe para el 29 de octubre",
+      "titular": "Italia y Dinamarca lideran las críticas a Sánchez por su descontrol migratorio",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-16T19:16:39+02:00",
-      "enlace": "https://www.expansion.com/empresas/transporte/2026/10/16/6ad25a32e5fdeae3038b45a6.html"
+      "fecha": "2026-10-17T00:13:22+02:00",
+      "enlace": "https://www.expansion.com/economia/politica/2026/10/17/italia-dinamarca-lideran-criticas-sanchez-descontrol-migratorio.html"
     },
     {
-      "titular": "Dos ofertas de un euro y tres parciales: así se reparte el interés de los inversores por Tubos Reunidos",
+      "titular": "Los 'blue chips' europeos que más corren aún tienen fondo",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-16T18:30:08+02:00",
-      "enlace": "https://www.expansion.com/pais-vasco/2026/10/16/dos-cinco-ofertas-tubos-reunidos-plantean-inicio-salvar-planta-amurrio.html"
+      "fecha": "2026-10-17T00:12:35+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/10/17/6ad2812ee5fdeae92a8b457e.html"
     },
     {
-      "titular": "La portavoz del PSOE, Montse Mínguez, dimite tras conocerse los 30 pisos de su pareja",
+      "titular": "La empresa española que fabrica para Ritz, Mandarin Oriental, Hermès y Louis Vuitton",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-16T18:28:37+02:00",
-      "enlace": "https://www.expansion.com/economia/politica/2026/10/16/portavoz-psoe-montse-minguez-dimite-conocerse-30-pisos-pareja.html"
+      "fecha": "2026-10-17T00:12:34+02:00",
+      "enlace": "https://www.expansion.com/estilo-vida/2026/10/17/empresa-espanola-fabrica-ritz-mandarin-oriental-hermes-louis-vuitton.html"
     },
     {
-      "titular": "Netflix releva a la jefa de contenidos para revitalizar el negocio y la cotización",
+      "titular": "Palmer Luckey, el revolucionario trumpista de la realidad virtual",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-16T18:20:21+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/10/16/6ad24ec0e5fdeaf76e8b45a9.html"
+      "fecha": "2026-10-17T00:11:45+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/10/17/6ad27379e5fdeadd728b4599.html"
     }
   ],
   "salud": {
@@ -78,16 +78,16 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 208,
+    "antiguedad_minima_min": 18,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 76,
+        "items": 71,
         "error": null,
-        "antiguedad_min": 208,
-        "descartados_por_gancho": 3
+        "antiguedad_min": 18,
+        "descartados_por_gancho": 5
       },
       {
         "medio": "Cinco Días",

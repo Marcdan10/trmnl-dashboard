@@ -1,64 +1,9 @@
 {
   "pantalla": "generales",
   "titulo": "Titulares",
-  "modo": "ultimas",
-  "generado": "2026-10-16T23:27:52+02:00",
+  "modo": "portadas",
+  "generado": "2026-10-17T01:46:00+02:00",
   "titulares": [
-    {
-      "titular": "Oferta 'in extremis' del Frente Amplio a Podemos: el número dos por Madrid y una portavocía para Irene Montero",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-16T23:12:22+02:00",
-      "enlace": "https://www.abc.es/espana/frente-amplio-lanza-oferta-acuerdo-podemos-puestos-20261016220600-nt.html"
-    },
-    {
-      "titular": "Última hora de la actualidad política, en directo | Podemos responde al Frente Amplio con una oferta para acuerdos territoriales sin Madrid y Cataluña",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-16T23:10:52+02:00",
-      "enlace": "https://elpais.com/espana/2026-10-16/ultima-hora-de-la-actualidad-politica-en-directo.html"
-    },
-    {
-      "titular": "El Barcelona cae en la prórroga ante el Olympiacos",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-16T23:05:22+02:00",
-      "enlace": "https://elpais.com/deportes/baloncesto/2026-10-16/el-barcelona-cae-en-la-prorroga-ante-el-olympiacos.html"
-    },
-    {
-      "titular": "El Defensor del Pueblo sale en auxilio del Gobierno y lleva el censo de la 'ley de nietos' al TC",
-      "medios": [
-        "La Vanguardia",
-        "ABC"
-      ],
-      "consenso": 2,
-      "fecha": "2026-10-16T22:48:59+02:00",
-      "enlace": "https://www.abc.es/espana/gobierno-moviliza-defensor-pueblo-desesperada-lleve-ley-20261015200928-nt.html"
-    },
-    {
-      "titular": "Convergents resolverá el pacto con Junts para las municipales tras no llegar a un acuerdo para el 29-N",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-16T22:04:04+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20261016/11661082/convergents-resolvera-pacto-junts-municipales-llegar-acuerdo-29-n.html"
-    },
-    {
-      "titular": "La UE arropa a Zelenski para hacer frente a la presión de Trump",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-16T21:39:01+02:00",
-      "enlace": "https://www.abc.es/internacional/von-der-leyen-asegura-ue-levantara-ninguna-20261016095351-nt.html"
-    },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
       "medios": [
@@ -67,6 +12,61 @@
       "consenso": 1,
       "fecha": "2022-06-10T01:05:00+02:00",
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
+    },
+    {
+      "titular": "Frente Amplio y Podemos fracasan en su intento de pactar una papeleta única para el 29-N",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-16T23:54:15+02:00",
+      "enlace": "https://elpais.com/espana/elecciones-generales/2026-10-16/frente-amplio-y-podemos-fracasan-en-su-intento-de-pactar-una-papeleta-unica-para-el-29-n.html"
+    },
+    {
+      "titular": "La izquierda alternativa fracasa en su intento de ir unida el próximo 29-N",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-17T00:13:45+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20261017/11661133/izquierda-alternativa-fracasa-intento-unida-proximo-29-n.html"
+    },
+    {
+      "titular": "¿Compensa siempre alquilar tu vivienda en España? La rentabilidad que puedes sacarle a todos los ahorros",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-17T01:27:17+02:00",
+      "enlace": "https://www.abc.es/economia/cuentas-corrientes/vivienda-mejor-inversion-descubre-rentabilidad-opciones-tus-20261017012717-nt.html"
+    },
+    {
+      "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
+      "medios": [
+        "RTVE"
+      ],
+      "consenso": 1,
+      "fecha": "2022-06-10T00:03:00+02:00",
+      "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
+    },
+    {
+      "titular": "La portavoz del PSOE, Montse Mínguez, dimite tras las críticas por los negocios inmobiliarios de su pareja",
+      "medios": [
+        "El País",
+        "La Vanguardia"
+      ],
+      "consenso": 2,
+      "fecha": "2026-10-16T18:53:07+02:00",
+      "enlace": "https://elpais.com/espana/elecciones-generales/2026-10-16/montse-minguez-deja-la-politica-para-no-perjudicar-la-campana-de-sanchez.html"
+    },
+    {
+      "titular": "Irene Montero se impone en las primarias de Podemos sin rival y con baja participación",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-16T16:00:24+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20261016/11660855/montero-gana-holgura-primarias-apoyos-belarra-frente-amplio.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 15,
+    "antiguedad_minima_min": 18,
     "detalle": [
       {
         "medio": "RTVE",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2289502,
+        "antiguedad_min": 2289640,
         "descartados_por_gancho": 0
       },
       {
@@ -91,7 +91,7 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 403",
+        "error": "HTTP 500",
         "antiguedad_min": null
       },
       {
@@ -100,26 +100,26 @@
         "ok": true,
         "items": 140,
         "error": null,
-        "antiguedad_min": 17,
+        "antiguedad_min": 111,
         "descartados_por_gancho": 2
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 142,
+        "items": 139,
         "error": null,
-        "antiguedad_min": 64,
+        "antiguedad_min": 50,
         "descartados_por_gancho": 13
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 25,
+        "items": 23,
         "error": null,
-        "antiguedad_min": 15,
-        "descartados_por_gancho": 0
+        "antiguedad_min": 18,
+        "descartados_por_gancho": 2
       }
     ]
   }
