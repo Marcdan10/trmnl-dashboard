@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-10-16T06:47:03+02:00",
+  "generado": "2026-10-16T11:26:07+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -14,31 +14,31 @@
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
     },
     {
-      "titular": "La izquierda alternativa lleva al límite el pulso para las listas del 29-N con el escollo principal de Madrid",
+      "titular": "Ayuso cierra la estación de metro Sol para realizar tareas de limpieza: “Hay condiciones de insalubridad dentro”",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-16T05:30:01+02:00",
-      "enlace": "https://elpais.com/espana/elecciones-generales/2026-10-16/la-izquierda-alternativa-lleva-al-limite-el-pulso-para-las-listas-del-29-n-con-el-escollo-principal-de-madrid.html"
+      "fecha": "2026-10-16T10:57:12+02:00",
+      "enlace": "https://elpais.com/espana/madrid/2026-10-16/ayuso-cierra-la-estacion-de-metro-sol-para-realizar-tareas-de-limpieza-hay-condiciones-de-insalubridad-dentro.html"
     },
     {
-      "titular": "Feijóo garantiza que revalorizará las pensiones y Sánchez le acusa de mentir",
+      "titular": "Italia y España pactan una salida al bloqueo de Schengen tras dos meses de tensiones",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-10-16T00:05:00+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20261016/11660046/feijoo-garantiza-revalorizara-pensiones-sanchez-le-acusa-mentir.html"
+      "fecha": "2026-10-16T09:31:41+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20261016/11660437/italia-espana-pactan-salida-bloqueo-schengen-dos-meses-tensiones.html"
     },
     {
-      "titular": "Luis Alberto Zamora: «El boniato protege la vista, es antioxidante y rico en vitaminas»",
+      "titular": "Musk presenta su nuevo Roadster que vuela y alcanza los 100 km/h en menos de un segundo",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-10-16T06:00:04+02:00",
-      "enlace": "https://www.abc.es/bienestar/alimentacion/luis-alberto-zamora-nutricionista-boniato-protege-vista-20261016060000-nt.html"
+      "fecha": "2026-10-16T11:11:31+02:00",
+      "enlace": "https://www.abc.es/motor/musk-presenta-nuevo-tesla-roadster-coche-puede-20261016091043-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -50,24 +50,22 @@
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
     },
     {
-      "titular": "Isabel Allende gana el 75 Premio Planeta con la continuación de 'La casa de los espíritus'",
+      "titular": "El encaje de Irene Montero tensa el pulso en las listas de la izquierda",
       "medios": [
-        "El País",
-        "La Vanguardia",
-        "ABC"
+        "El País"
       ],
-      "consenso": 3,
-      "fecha": "2026-10-16T02:23:30+02:00",
-      "enlace": "https://www.abc.es/cultura/isabel-allende-gana-premio-planeta-segunda-parte-20261015175309-nt.html"
+      "consenso": 1,
+      "fecha": "2026-10-16T08:18:28+02:00",
+      "enlace": "https://elpais.com/espana/elecciones-generales/2026-10-16/la-izquierda-alternativa-lleva-al-limite-el-pulso-para-las-listas-del-29-n-con-el-escollo-principal-de-madrid.html"
     },
     {
-      "titular": "Frente Amplio frena el intento de Podemos de “trocear” la izquierda",
+      "titular": "Frente Amplio ofrece a Irene Montero un puesto de salida en Madrid para las elecciones",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-10-15T14:26:40+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20261015/11659797/frente-amplio-corta-paso-intentos-trocear-espacio.html"
+      "fecha": "2026-10-16T09:54:25+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20261016/11660458/frente-amplio-ofrece-irene-montero-puesto-salida-madrid-elecciones.html"
     }
   ],
   "salud": {
@@ -76,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 17,
+    "antiguedad_minima_min": 1,
     "detalle": [
       {
         "medio": "RTVE",
@@ -84,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2288502,
+        "antiguedad_min": 2288781,
         "descartados_por_gancho": 0
       },
       {
@@ -92,35 +90,35 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 403",
+        "error": "HTTP 500",
         "antiguedad_min": null
       },
       {
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 137,
+        "items": 139,
         "error": null,
-        "antiguedad_min": 17,
-        "descartados_por_gancho": 8
+        "antiguedad_min": 1,
+        "descartados_por_gancho": 7
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 133,
+        "items": 129,
         "error": null,
-        "antiguedad_min": 344,
-        "descartados_por_gancho": 13
+        "antiguedad_min": 71,
+        "descartados_por_gancho": 15
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 23,
+        "items": 25,
         "error": null,
-        "antiguedad_min": 46,
-        "descartados_por_gancho": 2
+        "antiguedad_min": 14,
+        "descartados_por_gancho": 0
       }
     ]
   }

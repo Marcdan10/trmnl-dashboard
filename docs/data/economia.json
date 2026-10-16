@@ -2,8 +2,26 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "portadas",
-  "generado": "2026-10-16T06:47:05+02:00",
+  "generado": "2026-10-16T11:26:11+02:00",
   "titulares": [
+    {
+      "titular": "Ferrovial hace un 'hat trick' de 60.000 millones en autopistas de peaje",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-16T00:26:22+02:00",
+      "enlace": "https://www.expansion.com/empresas/construccion-servicios/2026/10/16/6ad144da468aeb724e8b4592.html"
+    },
+    {
+      "titular": "Crecen las apuestas de que la Reserva Federal mantendrá los tipos de interés en octubre",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-16T10:09:49+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/10/16/crecen-apuestas-reserva-federal-mantendra-tipos-interes-octubre.html"
+    },
     {
       "titular": "Unicaja negocia los últimos flecos para hacerse con WiZink",
       "medios": [
@@ -12,6 +30,15 @@
       "consenso": 1,
       "fecha": "2026-10-16T02:13:16+02:00",
       "enlace": "https://www.expansion.com/empresas/banca/2026/10/16/6ad12838468aeb724e8b458a.html"
+    },
+    {
+      "titular": "Tesla presenta un coche eléctrico con tecnología de SpaceX que puede volar y acelera como un cohete",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-16T10:17:03+02:00",
+      "enlace": "https://www.expansion.com/empresas/motor/2026/10/16/6ad1dd74468aeb724e8b45a4.html"
     },
     {
       "titular": "EEUU estudia vetar 3.000 millones en exportaciones españolas",
@@ -23,49 +50,22 @@
       "enlace": "https://www.expansion.com/economia/2026/10/16/eeuu-estudia-vetar-3-000-millones-exportaciones-espanolas.html"
     },
     {
-      "titular": "Ferrovial hace un 'hat trick' de 60.000 millones en autopistas de peaje",
+      "titular": "Cinco valores refugio en el Ibex si estallan las cotizadas de la IA",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-16T00:26:22+02:00",
-      "enlace": "https://www.expansion.com/empresas/construccion-servicios/2026/10/16/6ad144da468aeb724e8b4592.html"
+      "fecha": "2026-10-15T20:53:25+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/10/15/6ad10148468aeba8498b457f.html"
     },
     {
-      "titular": "BBVA y Sabadell redefinen sus estrategias en solitario un año después del fracaso de la opa",
+      "titular": "La empresa familiar centenaria con un Récord Guinness cafetero",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-16T00:38:17+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/10/16/6ad129b8468aeb414c8b4581.html"
-    },
-    {
-      "titular": "El dueño de Fitz gestionará el antiguo Pachá Madrid",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-16T00:38:56+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/10/16/6ad120ae468aeb142a8b4588.html"
-    },
-    {
-      "titular": "McKinsey: el mercado mundial del lujo alcanzará 628.000 millones de euros en 2030",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-15T11:54:28+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/10/15/6ad09acfe5fdea480a8b4587.html"
-    },
-    {
-      "titular": "Diego Della Valle (Tod's) defiende la \"inteligencia artesanal\" frente a la IA",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-15T09:53:03+02:00",
-      "enlace": "https://www.expansion.com/luxury-forum/2026/10/15/6ad0864d468aeb06668b45ca.html"
+      "fecha": "2026-10-16T01:07:05+02:00",
+      "enlace": "https://www.expansion.com/empresas/distribucion/2026/10/16/6ad0d077468aeb76028b4572.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 237,
+    "antiguedad_minima_min": 33,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 74,
+        "items": 71,
         "error": null,
-        "antiguedad_min": 237,
+        "antiguedad_min": 33,
         "descartados_por_gancho": 1
       },
       {

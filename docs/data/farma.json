@@ -2,7 +2,7 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "portadas",
-  "generado": "2026-10-16T06:47:10+02:00",
+  "generado": "2026-10-16T11:26:18+02:00",
   "titulares": [
     {
       "titular": "Sanidad publica la propuesta del CAPF de guía de Análisis de Impacto Presupuestario",
@@ -14,22 +14,22 @@
       "enlace": "https://diariofarma.com/2026/10/15/sanidad-publica-la-propuesta-del-capf-de-guia-de-analisis-de-impacto-presupuestario"
     },
     {
-      "titular": "Las tres medidas de López-Belmonte para impulsar el liderazgo de España en salud, innovación y autonomía estratégica",
+      "titular": "La EFPIA y cinco organizaciones europeas piden una vía regulatoria única para las tecnologías médicas con IA",
       "medios": [
         "El Global"
       ],
       "consenso": 1,
-      "fecha": "2026-10-15T16:57:47+02:00",
-      "enlace": "https://elglobalfarma.com/industria/medidas-lopez-belmonte-farmaindustria-liderazgo-espana-salud-innovacion-autonomia-estrategica/"
+      "fecha": "2026-10-16T11:25:23+02:00",
+      "enlace": "https://elglobalfarma.com/industria/efpia-organizaciones-europeas-via-regulatoria-unica-tecnologias-medicas-ia/"
     },
     {
-      "titular": "La lactancia materna exclusiva hasta los 6 meses se desvanece en un SNS sin medios y unos permisos que se quedan cortos",
+      "titular": "Los sindicatos médicos apartan sus diferencias y acudirán en bloque a la manifestación del 21-N",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-10-15T18:02:21+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20261015/la-lactancia-materna-exclusiva-hasta-los-meses-se-desvanece-en-un-sns-sin-medios-unos-permisos-que-quedan-cortos/349367_0.html"
+      "fecha": "2026-10-16T11:14:28+02:00",
+      "enlace": "https://www.redaccionmedica.com/profesionales/medicina/20261016/los-sindicatos-medicos-apartan-sus-diferencias-acudiran-en-bloque-la-manifestacion-del/362330_0.html"
     },
     {
       "titular": "RD de Precios: Sanidad rebaja su objetivo, mira al Consejo de Estado y descarta el BOE",
@@ -41,22 +41,22 @@
       "enlace": "https://diariofarma.com/2026/10/15/rd-de-precios-sanidad-rebaja-su-objetivo-mira-al-consejo-de-estado-y-descarta-el-boe"
     },
     {
-      "titular": "Juan López-Belmonte, una trayectoria consolidada que vuelve a encontrarse con Farmaindustria",
+      "titular": "FarmaFit reúne a más de 300 profesionales para reforzar el papel de la farmacia en la salud deportiva",
       "medios": [
         "El Global"
       ],
       "consenso": 1,
-      "fecha": "2026-10-15T16:13:39+02:00",
-      "enlace": "https://elglobalfarma.com/industria/juan-lopez-belmonte-trayectoria-vuelve-farmaindustria/"
+      "fecha": "2026-10-16T10:24:53+02:00",
+      "enlace": "https://elglobalfarma.com/farmacia/farmafit-reune-profesionales-reforzar-papel-farmacia-salud-deportiva/"
     },
     {
-      "titular": "Reformar la sanidad depende de todos, no solo del 29N",
+      "titular": "Retos y oportunidades de la Inteligencia Artificial en la relación médico-paciente",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-10-15T09:59:31+02:00",
-      "enlace": "https://www.redaccionmedica.com/opinion/20261015/reformar-la-sanidad-depende-de-todos-no-solo-del/362183_14.html"
+      "fecha": "2026-10-16T05:09:00+02:00",
+      "enlace": "https://www.redaccionmedica.com/opinion/20261016/retos-oportunidades-de-la-inteligencia-artificial-en-relacion-medico-paciente/362283_12.html"
     },
     {
       "titular": "Andalucía anuncia la creación de su primera red de investigación clínica en AP",
@@ -77,7 +77,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 611,
+    "antiguedad_minima_min": 0,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -85,17 +85,17 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 617,
+        "antiguedad_min": 896,
         "descartados_por_gancho": 0
       },
       {
         "medio": "El Global",
         "url": "https://elglobal.es/feed/",
         "ok": true,
-        "items": 10,
+        "items": 8,
         "error": null,
-        "antiguedad_min": 829,
-        "descartados_por_gancho": 0
+        "antiguedad_min": 0,
+        "descartados_por_gancho": 2
       },
       {
         "medio": "Redacción Médica",
@@ -103,7 +103,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 611,
+        "antiguedad_min": 11,
         "descartados_por_gancho": 0
       },
       {

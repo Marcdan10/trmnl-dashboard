@@ -2,25 +2,16 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-10-16T06:47:06+02:00",
+  "generado": "2026-10-16T11:26:12+02:00",
   "titulares": [
     {
-      "titular": "La increíble proyección goleadora de la apisonadora del Barça",
+      "titular": "El Barça aumenta el valor de sus fichajes en 116 millones",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-16T06:30:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261016/1004239197/increible-proyeccion-goleadora-apisonadora-barca.html"
-    },
-    {
-      "titular": "Raphinha, de vuelta con el grupo, igual que De Jong",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-15T10:34:07+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261015/1004238977/dia-d-raphinha-jong.html"
+      "fecha": "2026-10-16T10:38:13+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261016/1004239393/barca-aumenta-valor-fichajes-116-millones.html"
     },
     {
       "titular": "El Club 'Divertido' Lugo se lo pasa en grande: líder, invicto y mejor equipo de Primera RFEF",
@@ -32,6 +23,15 @@
       "enlace": "https://www.marca.com/futbol/primera-rfef/2026/10/13/club-divertido-lugo-pasa-grande-lider-invicto-mejor-equipo-primera-rfef.html"
     },
     {
+      "titular": "La increíble proyección goleadora de la apisonadora del Barça",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-16T00:30:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261016/1004239197/increible-proyeccion-goleadora-apisonadora-barca.html"
+    },
+    {
       "titular": "¡Netflix se queda el Mundial de España!",
       "medios": [
         "Marca"
@@ -41,22 +41,13 @@
       "enlace": "https://www.marca.com/futbol/mundial/2026/10/13/netflix-adquiere-derechos-audiovisuales-espana-mundial-2030.html"
     },
     {
-      "titular": "1-2: La Juventus 'mata' al Celta en un cruel último minuto",
+      "titular": "Flick cambia de planes antes de viajar a Sevilla",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-15T23:06:22+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/europa-league/20261015/1004239268/celta-juve-europa-league.html"
-    },
-    {
-      "titular": "22-36: Destrozo del Barça con un gran Sergey para pasar a la segunda fase de la Champions",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-15T20:15:56+02:00",
-      "enlace": "https://www.mundodeportivo.com/balonmano/20261015/1004239224/22-36-destrozo-barca-gran-sergey-pasar-segunda-fase-champions.html"
+      "fecha": "2026-10-15T14:38:50+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261015/1004239100/flick-cambia-planes-viajar-sevilla.html"
     },
     {
       "titular": "Arrasate: \"Siento que Osasuna me necesita y que yo puedo ayudar a Osasuna\"",
@@ -66,6 +57,15 @@
       "consenso": 1,
       "fecha": "2026-10-13T12:56:47+02:00",
       "enlace": "https://www.marca.com/futbol/osasuna/2026/10/13/arrasate-siento-osasuna-me-necesita-ayudar-osasuna.html"
+    },
+    {
+      "titular": "El agente de Nico Williams reconoce que no se fue al Barça porque no tenía seguridad de ser inscrito",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-16T08:14:27+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/athletic-bilbao/20261016/1004239340/agente-nico-williams-reconoce-no-barca-no-tenia-seguridad-inscrito.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 17,
+    "antiguedad_minima_min": 43,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 60,
         "error": null,
-        "antiguedad_min": 3918,
+        "antiguedad_min": 4197,
         "descartados_por_gancho": 12
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 138,
+        "items": 130,
         "error": null,
-        "antiguedad_min": 17,
-        "descartados_por_gancho": 4
+        "antiguedad_min": 43,
+        "descartados_por_gancho": 8
       },
       {
         "medio": "Sport",
