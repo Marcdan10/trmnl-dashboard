@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-10-17T16:47:59+02:00",
+  "generado": "2026-10-17T19:41:47+02:00",
   "titulares": [
     {
-      "titular": "Aviso de Protecció Civil en Barcelona: envían una nueva Es-Alert ante la previsión de lluvias torrenciales a partir de esta hora",
+      "titular": "El VAR anula un golazo de Lo Celso",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-17T16:27:40+02:00",
-      "enlace": "https://www.mundodeportivo.com/actualidad/20261017/1004239848/aviso-proteccio-civil-barcelona-envian-nueva-alert-prevision-lluvias-torrenciales-partir-hora-dct.html"
+      "fecha": "2026-10-17T19:27:41+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261017/1004237996/betis-barcelona-directo-laliga-ea-sports-primera-division-barca.html"
     },
     {
-      "titular": "Así es el desayuno de Susanna Griso a sus 57 años: \"Me ayuda a tener energía\"",
+      "titular": "2-1: El filial azulgrana, serio y efectivo, vence y sigue líder",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-17T16:23:23+02:00",
-      "enlace": "https://www.mundodeportivo.com/running/20261017/1004239846/susanna-griso-57-anos-desayuno-frutos-secos-granola-energia-toda-manana-dsy-dct.html"
+      "fecha": "2026-10-17T19:20:59+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261017/1004239916/2-1-filial-azulgrana-serio-efectivo-vence-sigue-lider.html"
     },
     {
       "titular": "El Club 'Divertido' Lugo se lo pasa en grande: líder, invicto y mejor equipo de Primera RFEF",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/mundial/2026/10/13/netflix-adquiere-derechos-audiovisuales-espana-mundial-2030.html"
     },
     {
-      "titular": "Javi Puado y Fortuño, luz en otro tropiezo cruel",
+      "titular": "1-1: El Eibar rescata un punto ante el Mallorca en el minuto 93 de penalti",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-17T16:20:38+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/rcd-espanyol/20261017/1004239843/javi-puado-fortuno-ponen-luz-derrota-cruel.html"
+      "fecha": "2026-10-17T19:19:10+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/liga-segunda-division/20261017/1004239917/eibar-rescata-punto-mallorca-minuto-93-penalti.html"
     },
     {
-      "titular": "Un estudio revela que los españoles han adelantado las cenas casi una hora",
+      "titular": "Hace la misma compra en el mismo supermercado cinco años después y compara los tickets: \"Más de 20 euros de diferencia\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-17T16:16:07+02:00",
-      "enlace": "https://www.mundodeportivo.com/pulso/20261017/1004239845/estudio-revela-espanoles-han-adelantado-hora-ultima-decada-momento-cenar-restaurantes-dct.html"
+      "fecha": "2026-10-17T19:07:37+02:00",
+      "enlace": "https://www.mundodeportivo.com/tressesenta/20261017/1004239904/compra-supermercado-cinco-anos-compara-tickets-costaba-30-39-euros-hoy-cuesta-51-11-mas-20-euros-diferencia-dct.html"
     },
     {
-      "titular": "El 1x1 del Atlético ante el Espanyol",
+      "titular": "Esta instalación española será decisiva para las misiones Artemis de la NASA",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-17T16:14:21+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20261017/1004239842/1x1-atletico-espanyol.html"
+      "fecha": "2026-10-17T18:56:19+02:00",
+      "enlace": "https://www.mundodeportivo.com/actualidad/20261017/1004239875/ministerio-defensa-confirma-instalacion-espanola-sera-decisiva-misiones-artemis-nasa-dml-dct.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 20,
+    "antiguedad_minima_min": 14,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 60,
         "error": null,
-        "antiguedad_min": 5959,
+        "antiguedad_min": 6133,
         "descartados_por_gancho": 12
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 135,
+        "items": 138,
         "error": null,
-        "antiguedad_min": 20,
-        "descartados_por_gancho": 7
+        "antiguedad_min": 14,
+        "descartados_por_gancho": 5
       },
       {
         "medio": "Sport",

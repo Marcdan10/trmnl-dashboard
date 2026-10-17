@@ -2,28 +2,28 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "ultimas",
-  "generado": "2026-10-17T16:48:06+02:00",
+  "generado": "2026-10-17T19:41:54+02:00",
   "titulares": [
     {
-      "titular": "Blanca, la psiquiatra que llegó a la élite sanitaria británica: \"No voy a volver a España para perder nivel de vida\"",
+      "titular": "\"La Nutrición de Precisión ya ha demostrado su valor, ahora debe entrar en la práctica clínica habitual\"",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-10-17T15:39:55+02:00",
-      "enlace": "https://www.redaccionmedica.com/profesionales/20261017/blanca-la-psiquiatra-que-llego-elite-sanitaria-britanica-no-voy-volver-espana-para-perder-nivel-de-vida/361364_0.html"
+      "fecha": "2026-10-17T18:49:11+02:00",
+      "enlace": "https://www.redaccionmedica.com/nutricion/20261017/la-nutricion-de-precision-ya-ha-demostrado-su-valor-ahora-debe-entrar-en-la-practica-clinica-habitual/361365_0.html"
     },
     {
-      "titular": "Frente Amplio nace con una apuesta firme por la sanidad pero alejado de Podemos",
+      "titular": "Un estudio demuestra el potencial antioxidante de la vitamina C para reducir la carga inflamatoria",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-10-17T15:01:20+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/20261017/frente-amplio-nace-con-una-apuesta-firme-por-la-sanidad-pero-alejado-de-podemos/362466_0.html"
+      "fecha": "2026-10-17T18:29:33+02:00",
+      "enlace": "https://www.redaccionmedica.com/nutricion/20261017/un-estudio-demuestra-el-potencial-antioxidante-de-la-vitamina-para-reducir-carga-inflamatoria/362472_0.html"
     },
     {
-      "titular": "Extremadura reserva casi el 40 % de su presupuesto de 2027 a sanidad y dependencia",
+      "titular": "Extremadura reserva casi el 40% de su presupuesto de 2027 a sanidad y dependencia",
       "medios": [
         "Diariofarma"
       ],
@@ -59,13 +59,13 @@
       "enlace": "https://elglobalfarma.com/industria/chmp-opinion-positiva-seis-medicamentos-reunion-octubre/"
     },
     {
-      "titular": "Dispensación directa y control 'de principio a fin': el modelo alemán de medicamentos que seduce a la Veterinaria española",
+      "titular": "Fallece Paz Gallardo, secretaria autonómica del sindicato SAE en Madrid",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-10-17T14:56:04+02:00",
-      "enlace": "https://www.redaccionmedica.com/salud-animal/20261017/dispensacion-directa-control-de-principio-fin-el-modelo-aleman-medicamentos-que-seduce-la-veterinaria-espanola/362327_0.html"
+      "fecha": "2026-10-17T18:08:49+02:00",
+      "enlace": "https://www.redaccionmedica.com/profesionales/medicina/20261017/fallece-paz-gallardo-secretaria-autonomica-del-sindicato-sae-en-madrid/362470_0.html"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 68,
+    "antiguedad_minima_min": 52,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 1561,
+        "antiguedad_min": 1735,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 8,
         "error": null,
-        "antiguedad_min": 1602,
+        "antiguedad_min": 1776,
         "descartados_por_gancho": 2
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 68,
+        "antiguedad_min": 52,
         "descartados_por_gancho": 0
       },
       {
