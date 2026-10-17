@@ -2,61 +2,61 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-10-17T19:41:42+02:00",
+  "generado": "2026-10-17T21:57:12+02:00",
   "titulares": [
     {
-      "titular": "Real Betis-FC Barcelona, el partido de LaLiga en directo|El Barça gana al descanso gracias a los goles de Lamine y Rodri",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-17T19:38:31+02:00",
-      "enlace": "https://elpais.com/deportes/futbol/2026-10-17/real-betis-fc-barcelona-el-partido-de-laliga-en-directo.html"
-    },
-    {
-      "titular": "El VAR anula un golazo de Lo Celso",
+      "titular": "La Ertzaintza detiene por terrorismo a dos proetarras con una base de datos sobre guardias civiles destinados en el País Vasco",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-10-17T19:20:33+02:00",
-      "enlace": "https://www.abc.es/deportes/futbol/betis-barcelona-directo-resultado-goles-partido-liga-20261017180749-di.html"
+      "fecha": "2026-10-17T21:39:57+02:00",
+      "enlace": "https://www.abc.es/espana/pais-vasco/ertzaintza-detiene-terrorismo-dos-proetarras-base-datos-20261017202953-nt.html"
     },
     {
-      "titular": "Violentas protestas en Francia por el coste de la vida: más de 270 detenidos y disturbios en las principales ciudades",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-17T19:10:05+02:00",
-      "enlace": "https://www.abc.es/internacional/166-detenidos-protestas-estudiantes-francia-coste-vida-20261017150236-nt.html"
-    },
-    {
-      "titular": "Un avión de Vueling aterriza de emergencia en Barcelona tras chocar con una bandada de aves",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-17T19:09:06+02:00",
-      "enlace": "https://www.lavanguardia.com/local/barcelona/20261017/11661540/avion-vueling-aterriza-emergencia-barcelona-chocar-aves.html"
-    },
-    {
-      "titular": "Israel afronta unas elecciones decisivas con Netanyahu y la oposición lejos de la mayoría",
+      "titular": "Buscan a una persona desaparecida en Cabrera de Mar (Barcelona) por el temporal",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-17T19:05:12+02:00",
-      "enlace": "https://elpais.com/internacional/2026-10-17/israel-afronta-unas-elecciones-decisivas-en-un-escenario-de-total-incertidumbre.html"
+      "fecha": "2026-10-17T21:37:22+02:00",
+      "enlace": "https://elpais.com/espana/2026-10-17/emergencias-envia-mensajes-de-alerta-por-lluvias-a-la-poblacion-de-valencia-y-alicante.html"
     },
     {
-      "titular": "Messi y Patti Smith disparan la demanda en los actos de los Premios Princesa de Asturias",
+      "titular": "La Cartuja también se vence a Lamine Yamal y el Barcelona golea al Betis",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-17T21:19:06+02:00",
+      "enlace": "https://elpais.com/deportes/futbol/2026-10-17/la-cartuja-tambien-se-vence-a-lamine-yamal-y-el-barcelona-golea-al-betis.html"
+    },
+    {
+      "titular": "El Barça y De Burgos ahogan al Betis",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-17T21:11:15+02:00",
+      "enlace": "https://www.abc.es/deportes/futbol/barca-burgos-ahogan-betis-20261017203801-nt.html"
+    },
+    {
+      "titular": "Rodri: “Concedemos bastante, por ahí puede llegar la mejora”",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-10-17T18:46:45+02:00",
-      "enlace": "https://www.lavanguardia.com/vida/20261017/11661536/messi-patti-smith-disparan-demanda-actos-premios-princesa-asturias.html"
+      "fecha": "2026-10-17T21:00:42+02:00",
+      "enlace": "https://www.lavanguardia.com/deportes/fc-barcelona/20261017/11661590/rodri-concedemos-llegar-mejora.html"
+    },
+    {
+      "titular": "Las imágenes de las protestas en Francia",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-17T20:47:18+02:00",
+      "enlace": "https://www.lavanguardia.com/internacional/20261017/11661587/imagenes-protestas-francia.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 3,
+    "antiguedad_minima_min": 17,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2290716,
+        "antiguedad_min": 2290852,
         "descartados_por_gancho": 0
       },
       {
@@ -90,7 +90,7 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 403",
+        "error": "HTTP 500",
         "antiguedad_min": null
       },
       {
@@ -99,7 +99,7 @@
         "ok": true,
         "items": 139,
         "error": null,
-        "antiguedad_min": 3,
+        "antiguedad_min": 19,
         "descartados_por_gancho": 8
       },
       {
@@ -108,7 +108,7 @@
         "ok": true,
         "items": 134,
         "error": null,
-        "antiguedad_min": 32,
+        "antiguedad_min": 56,
         "descartados_por_gancho": 19
       },
       {
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 21,
+        "antiguedad_min": 17,
         "descartados_por_gancho": 0
       }
     ]
