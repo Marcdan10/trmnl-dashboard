@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-10-17T13:42:12+02:00",
+  "generado": "2026-10-17T16:47:59+02:00",
   "titulares": [
     {
-      "titular": "\"Vengo con mucha energía y no contaminado\"",
+      "titular": "Aviso de Protecció Civil en Barcelona: envían una nueva Es-Alert ante la previsión de lluvias torrenciales a partir de esta hora",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-17T13:25:27+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/osasuna/20261017/1004239798/vengo-energia-no-contaminado.html"
+      "fecha": "2026-10-17T16:27:40+02:00",
+      "enlace": "https://www.mundodeportivo.com/actualidad/20261017/1004239848/aviso-proteccio-civil-barcelona-envian-nueva-alert-prevision-lluvias-torrenciales-partir-hora-dct.html"
     },
     {
-      "titular": "Fokina: \"Estaba frustrado, pensé qué quería hacer con mi futuro. Y he conseguido mi mejor victoria\"",
+      "titular": "Así es el desayuno de Susanna Griso a sus 57 años: \"Me ayuda a tener energía\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-17T13:18:19+02:00",
-      "enlace": "https://www.mundodeportivo.com/tenis/20261017/1004239793/davidovich-finalista-shanghai-frustrado-tuve-pensar-queria-mi-futuro-he-conseguido-mejor-victoria-mi-vida.html"
+      "fecha": "2026-10-17T16:23:23+02:00",
+      "enlace": "https://www.mundodeportivo.com/running/20261017/1004239846/susanna-griso-57-anos-desayuno-frutos-secos-granola-energia-toda-manana-dsy-dct.html"
     },
     {
       "titular": "El Club 'Divertido' Lugo se lo pasa en grande: líder, invicto y mejor equipo de Primera RFEF",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/mundial/2026/10/13/netflix-adquiere-derechos-audiovisuales-espana-mundial-2030.html"
     },
     {
-      "titular": "Un adiestrador canino advierte cómo hay que dirigirse a tu mascota",
+      "titular": "Javi Puado y Fortuño, luz en otro tropiezo cruel",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-17T13:04:05+02:00",
-      "enlace": "https://www.mundodeportivo.com/elotromundo/mascotas/20261017/1004239788/juan-manuel-adiestrador-canino-dice-perros-hay-imponer-autoridad-dirigirse-tono-firme-evidencias-muestran-comprenden-mejor-les-hablamos-forma-amable-entusiasta-dct.html"
+      "fecha": "2026-10-17T16:20:38+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/rcd-espanyol/20261017/1004239843/javi-puado-fortuno-ponen-luz-derrota-cruel.html"
     },
     {
-      "titular": "Indurain y la entrevista que desmintió: \"Ser español me hace ilusión, pero podría ser de otro sitio\"",
+      "titular": "Un estudio revela que los españoles han adelantado las cenas casi una hora",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-17T13:02:24+02:00",
-      "enlace": "https://www.mundodeportivo.com/solobici/20261017/1004239770/miguel-indurain-espanol.html"
+      "fecha": "2026-10-17T16:16:07+02:00",
+      "enlace": "https://www.mundodeportivo.com/pulso/20261017/1004239845/estudio-revela-espanoles-han-adelantado-hora-ultima-decada-momento-cenar-restaurantes-dct.html"
     },
     {
-      "titular": "Los calzoncillos Calvin Klein que nunca pasan de moda tienen unos descuentos de hasta el 40%",
+      "titular": "El 1x1 del Atlético ante el Espanyol",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-17T13:00:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/elrecomendador/moda/20261017/1004239124/calzoncillos-calvin-klein-nunca-pasan-moda-descuentos-40-mkt-cakl.html"
+      "fecha": "2026-10-17T16:14:21+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20261017/1004239842/1x1-atletico-espanyol.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 16,
+    "antiguedad_minima_min": 20,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 60,
         "error": null,
-        "antiguedad_min": 5773,
+        "antiguedad_min": 5959,
         "descartados_por_gancho": 12
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 133,
+        "items": 135,
         "error": null,
-        "antiguedad_min": 16,
-        "descartados_por_gancho": 6
+        "antiguedad_min": 20,
+        "descartados_por_gancho": 7
       },
       {
         "medio": "Sport",

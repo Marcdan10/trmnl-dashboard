@@ -2,24 +2,25 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-10-17T13:42:08+02:00",
+  "generado": "2026-10-17T16:47:53+02:00",
   "titulares": [
     {
-      "titular": "Rafa Jódar - Daniil Medvedev en directo, la semifinal del Masters Shanghái en vivo|Comienza el primer set",
+      "titular": "Sánchez designa a Rebeca Torró como portavoz tras la dimisión de Montse Mínguez",
       "medios": [
-        "El País"
+        "La Vanguardia",
+        "ABC"
       ],
-      "consenso": 1,
-      "fecha": "2026-10-17T13:41:25+02:00",
-      "enlace": "https://elpais.com/deportes/tenis/2026-10-17/rafa-jodar-daniil-medvedev-en-directo-la-semifinal-del-masters-shanghai-en-vivo.html"
+      "consenso": 2,
+      "fecha": "2026-10-17T16:40:07+02:00",
+      "enlace": "https://www.abc.es/espana/sanchez-designa-rebeca-torro-portavoz-tras-dimision-20261017100356-nt.html"
     },
     {
-      "titular": "Última hora de la actualidad política, en directo | Sánchez llama a la movilización el 29-N: “Hay que frenar la ola reaccionaria”",
+      "titular": "Última hora de la actualidad política, en directo | García Albiol será el candidato del PP al Congreso por Barcelona",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-17T13:37:21+02:00",
+      "fecha": "2026-10-17T16:39:36+02:00",
       "enlace": "https://elpais.com/espana/2026-10-17/ultima-hora-de-la-actualidad-politica-en-directo.html"
     },
     {
@@ -28,37 +29,35 @@
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-10-17T13:36:30+02:00",
+      "fecha": "2026-10-17T16:36:51+02:00",
       "enlace": "https://www.abc.es/espana/sanchez-ticket-electoral-begona-gomez-29n-20261017120622-nt.html"
     },
     {
-      "titular": "El Defensor del Pueblo tilda de «obviedad constitucional» que los beneficiados de la 'ley de nietos' pueden votar",
+      "titular": "Baena es el corazón del Atlético",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-10-17T13:36:25+02:00",
-      "enlace": "https://www.abc.es/espana/defensor-pueblo-tilda-obviedad-constitucional-beneficiados-ley-20261017130559-nt.html"
+      "fecha": "2026-10-17T16:23:49+02:00",
+      "enlace": "https://www.abc.es/deportes/atletico-madrid/baena-corazon-atletico-20261017160326-nt.html"
     },
     {
-      "titular": "Aemet eleva a rojo el aviso por lluvias en el litoral sur de Valencia y norte de Alicante este domingo",
+      "titular": "El Papa sale del hospital cuatro días después de su operación de pulmón",
       "medios": [
-        "La Vanguardia",
-        "ABC"
+        "El País"
       ],
-      "consenso": 2,
-      "fecha": "2026-10-17T13:03:10+02:00",
-      "enlace": "https://www.abc.es/espana/comunidad-valenciana/aemet-eleva-rojo-aviso-lluvias-litoral-sur-20261017125700-nt.html"
+      "consenso": 1,
+      "fecha": "2026-10-17T16:17:26+02:00",
+      "enlace": "https://elpais.com/internacional/2026-10-17/el-papa-sale-esta-tarde-del-hospital-cuatro-dias-despues-de-su-operacion-de-pulmon.html"
     },
     {
-      "titular": "León XIV recibe el alta hospitalaria antes de lo previsto tras su operación de cáncer de pulmón",
+      "titular": "Vallvidrera sale a la montaña para exigir al Govern la reapertura inmediata de Collserola",
       "medios": [
-        "La Vanguardia",
-        "ABC"
+        "La Vanguardia"
       ],
-      "consenso": 2,
-      "fecha": "2026-10-17T13:03:02+02:00",
-      "enlace": "https://www.lavanguardia.com/internacional/20261017/11661422/leon-xiv-recibe-alta-hospitalaria-previsto-operacion-cancer-pulmon.html"
+      "consenso": 1,
+      "fecha": "2026-10-17T15:15:47+02:00",
+      "enlace": "https://www.lavanguardia.com/local/barcelona/20261017/11661447/vallvidrera-manifestacion-exigir-apertura-inmediata-parque-natural-collserola.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -76,7 +75,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 0,
+    "antiguedad_minima_min": 7,
     "detalle": [
       {
         "medio": "RTVE",
@@ -84,7 +83,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2290357,
+        "antiguedad_min": 2290542,
         "descartados_por_gancho": 0
       },
       {
@@ -99,28 +98,28 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 139,
+        "items": 140,
         "error": null,
-        "antiguedad_min": 0,
-        "descartados_por_gancho": 8
+        "antiguedad_min": 8,
+        "descartados_por_gancho": 7
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 131,
+        "items": 130,
         "error": null,
-        "antiguedad_min": 39,
-        "descartados_por_gancho": 18
+        "antiguedad_min": 92,
+        "descartados_por_gancho": 19
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 24,
+        "items": 25,
         "error": null,
-        "antiguedad_min": 5,
-        "descartados_por_gancho": 1
+        "antiguedad_min": 7,
+        "descartados_por_gancho": 0
       }
     ]
   }

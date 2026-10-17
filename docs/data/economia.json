@@ -2,8 +2,53 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-10-17T13:42:11+02:00",
+  "generado": "2026-10-17T16:47:56+02:00",
   "titulares": [
+    {
+      "titular": "Pedro Sánchez llama a la movilización en un mitin convertido en una declaración de amor a su mujer",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-17T16:01:27+02:00",
+      "enlace": "https://www.expansion.com/elecciones/elecciones-generales/2026/10/17/6ad37e7fe5fdeae92a8b4598.html"
+    },
+    {
+      "titular": "Feijóo: la \"coalición de desesperados\" Sánchez-Colau acredita la situación del PSOE",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-17T15:10:35+02:00",
+      "enlace": "https://www.expansion.com/elecciones/elecciones-generales/2026/10/17/6ad36b66468aeb085c8b45a2.html"
+    },
+    {
+      "titular": "Un mejor equilibrio entre clima e industria",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-17T14:41:38+02:00",
+      "enlace": "https://www.expansion.com/opinion/2026/10/17/mejor-equilibrio-clima-e-industria.html"
+    },
+    {
+      "titular": "Otro rapapolvo por la inmigración a Sánchez",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-17T14:29:07+02:00",
+      "enlace": "https://www.expansion.com/opinion/2026/10/17/rapapolvo-inmigracion-sanchez.html"
+    },
+    {
+      "titular": "Las preocupaciones sobre la IA llevan a los inversores a protegerse con la renta fija",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-17T14:16:14+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/10/17/6ad36473e5fdea86558b45a0.html"
+    },
     {
       "titular": "Cuatro de cada diez madrileños tienen dificultades para llegar a fin de mes",
       "medios": [
@@ -21,51 +66,6 @@
       "consenso": 1,
       "fecha": "2026-10-17T12:59:11+02:00",
       "enlace": "https://www.expansion.com/empresas/transporte/2026/10/17/6ad32e08468aebe8788b4588.html"
-    },
-    {
-      "titular": "El Papa León XIV recibe el alta hospitalaria y regresará al Vaticano esta tarde",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-17T12:19:49+02:00",
-      "enlace": "https://www.expansion.com/sociedad/2026/10/17/papa-leon-xiv-recibe-alta-hospitalaria-regresara-vaticano-tarde.html"
-    },
-    {
-      "titular": "Arranca el juicio por corrupción a la excúpula de Duro Felguera y exministros venezolanos",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-17T12:01:30+02:00",
-      "enlace": "https://www.expansion.com/empresas/industria/2026/10/17/6ad343a2e5fdea30488b45ad.html"
-    },
-    {
-      "titular": "Cómo ganar en Bolsa sin salir de Europa, con Flavien del Pino de BDL Capital Management",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-17T11:55:19+02:00",
-      "enlace": "https://www.expansion.com/podcasts/en-accion/2026/10/16/ganar-bolsa-salir-europa-flaviel-pino-bld.html"
-    },
-    {
-      "titular": "El Comité Federal del PSOE proclama a Sánchez candidato por unanimidad y ratifica listas",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-17T11:40:37+02:00",
-      "enlace": "https://www.expansion.com/elecciones/elecciones-generales/2026/10/17/6ad34041468aeb05408b459a.html"
-    },
-    {
-      "titular": "Un año después del robo del Louvre: grave crisis de imagen y las joyas aún sin aparecer",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-17T11:23:59+02:00",
-      "enlace": "https://www.expansion.com/sociedad/2026/10/17/ano-despues-robo-louvre-grave-crisis-imagen-joyas-aun-aparecer.html"
     }
   ],
   "salud": {
@@ -78,16 +78,16 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 20,
+    "antiguedad_minima_min": 46,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 74,
+        "items": 75,
         "error": null,
-        "antiguedad_min": 20,
-        "descartados_por_gancho": 4
+        "antiguedad_min": 46,
+        "descartados_por_gancho": 3
       },
       {
         "medio": "Cinco Días",
