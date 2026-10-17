@@ -1,23 +1,7 @@
 {
   "ciudad": "Barcelona",
-  "generado": "2026-10-17T21:58:24",
+  "generado": "2026-10-17T23:51:09",
   "horas": [
-    {
-      "hora": "22",
-      "temp": 20,
-      "prob": 98,
-      "mm": 5.8,
-      "mostrar_prob": true,
-      "icono": "lluvia"
-    },
-    {
-      "hora": "23",
-      "temp": 19,
-      "prob": 98,
-      "mm": 3.1,
-      "mostrar_prob": true,
-      "icono": "lluvia"
-    },
     {
       "hora": "00",
       "temp": 19,
@@ -97,6 +81,22 @@
       "mm": 0.2,
       "mostrar_prob": true,
       "icono": "lluvia"
+    },
+    {
+      "hora": "10",
+      "temp": 17,
+      "prob": 65,
+      "mm": 0.3,
+      "mostrar_prob": true,
+      "icono": "lluvia"
+    },
+    {
+      "hora": "11",
+      "temp": 17,
+      "prob": 83,
+      "mm": 0.5,
+      "mostrar_prob": true,
+      "icono": "lluvia"
     }
   ],
   "dias": [
@@ -174,7 +174,7 @@
   "aviso": {
     "activo": true,
     "alcance": "horas",
-    "texto": "Lluvia prevista a partir de las 22 h · 98%"
+    "texto": "Lluvia prevista a partir de las 00 h · 98%"
   },
   "atribucion": "Open-Meteo (CC BY 4.0)"
 }

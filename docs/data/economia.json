@@ -1,35 +1,17 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "ultimas",
-  "generado": "2026-10-17T23:58:18+02:00",
+  "modo": "portadas",
+  "generado": "2026-10-18T01:50:59+02:00",
   "titulares": [
     {
-      "titular": "Las telecos, tras el órdago de SpaceX",
+      "titular": "Así es la empresa a la que aspiran los ‘Zeta’",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-17T21:04:28+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/10/17/6abfb96c468aeb49278b458d.html"
-    },
-    {
-      "titular": "Más de un tercio de las empresas europeas superan su presupuesto en IA",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-17T20:54:17+02:00",
-      "enlace": "https://www.expansion.com/tecnologia/2026/10/17/tercio-empresas-europeas-superan-presupuesto-ia.html"
-    },
-    {
-      "titular": "Mesas para comer a cualquier hora",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-17T20:49:16+02:00",
-      "enlace": "https://www.expansion.com/estilo-vida/rincones-gastronomicos/2026/10/17/mesas-comer-hora.html"
+      "fecha": "2026-10-16T15:46:13+02:00",
+      "enlace": "https://www.expansion.com/expansion-empleo/2026/10/16/asi-empresa-aspiran-zeta.html"
     },
     {
       "titular": "Radiografía del alquiler: así están los precios por capitales",
@@ -41,6 +23,42 @@
       "enlace": "https://www.expansion.com/inmobiliario/mercado-inmobiliario/2026/10/17/radiografia-alquiler-asi-estan-precios-capitales.html"
     },
     {
+      "titular": "Valores para ganar más enla recta final del año en Bolsa",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-17T00:13:34+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/10/17/6ad2908ae5fdea10278b4581.html"
+    },
+    {
+      "titular": "Volkswagen, Renault y Stellantis resucitan a sus 'clásicos' para crecer",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-17T00:15:29+02:00",
+      "enlace": "https://www.expansion.com/empresas/motor/2026/10/17/6ad245af468aeb2d038b456e.html"
+    },
+    {
+      "titular": "Mesas para comer a cualquier hora",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-17T20:49:16+02:00",
+      "enlace": "https://www.expansion.com/estilo-vida/rincones-gastronomicos/2026/10/17/mesas-comer-hora.html"
+    },
+    {
+      "titular": "Los 'blue chips' europeos que más corren aún tienen fondo",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-17T00:12:35+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/10/17/6ad2812ee5fdeae92a8b457e.html"
+    },
+    {
       "titular": "Puig suma adeptos a la espera de su 'Día del Inversor'",
       "medios": [
         "Expansión"
@@ -48,24 +66,6 @@
       "consenso": 1,
       "fecha": "2026-10-17T20:39:15+02:00",
       "enlace": "https://www.expansion.com/mercados/2026/10/17/6ad3bf04e5fdea4b718b4575.html"
-    },
-    {
-      "titular": "Portugal vive una jornada de protestas sindicales contra la carestía de la vida",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-17T20:30:43+02:00",
-      "enlace": "https://www.expansion.com/sociedad/2026/10/17/portugal-vive-jornada-protestas-sindicales-carestia-vida.html"
-    },
-    {
-      "titular": "Irán afirma que el estrecho de Ormuz podría reabrirse en siete días si EEUU acepta su plan",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-17T19:22:50+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/10/17/iran-afirma-estrecho-ormuz-podria-reabrirse-siete-dias-eeuu-acepta-plan.html"
     }
   ],
   "salud": {
@@ -78,7 +78,7 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 173,
+    "antiguedad_minima_min": 286,
     "detalle": [
       {
         "medio": "Expansión",
@@ -86,7 +86,7 @@
         "ok": true,
         "items": 69,
         "error": null,
-        "antiguedad_min": 173,
+        "antiguedad_min": 286,
         "descartados_por_gancho": 4
       },
       {
