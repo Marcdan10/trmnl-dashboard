@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-10-17T04:33:41+02:00",
+  "generado": "2026-10-17T09:25:06+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -32,15 +32,6 @@
       "enlace": "https://www.lavanguardia.com/politica/20261017/11661133/izquierda-alternativa-fracasa-intento-unida-proximo-29-n.html"
     },
     {
-      "titular": "Señales de alarma en el crédito: los españoles dedican ya más del 38% de su renta a la hipoteca",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-17T02:27:20+02:00",
-      "enlace": "https://www.abc.es/economia/senales-alarma-credito-espanoles-dedican-renta-hipoteca-20261016010030-nt.html"
-    },
-    {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
       "medios": [
         "RTVE"
@@ -50,23 +41,31 @@
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
     },
     {
-      "titular": "La portavoz del PSOE, Montse Mínguez, dimite tras las críticas por los negocios inmobiliarios de su pareja",
+      "titular": "El PSOE y el Frente Amplio alcanzan un pacto nacional de listas conjuntas al Senado",
       "medios": [
-        "El País",
-        "La Vanguardia"
+        "El País"
       ],
-      "consenso": 2,
-      "fecha": "2026-10-16T18:53:07+02:00",
-      "enlace": "https://elpais.com/espana/elecciones-generales/2026-10-16/montse-minguez-deja-la-politica-para-no-perjudicar-la-campana-de-sanchez.html"
+      "consenso": 1,
+      "fecha": "2026-10-16T23:53:19+02:00",
+      "enlace": "https://elpais.com/espana/elecciones-generales/2026-10-16/el-psoe-y-la-izquierda-alcanzan-un-pacto-nacional-de-listas-conjuntas-al-senado.html"
     },
     {
-      "titular": "Irene Montero se impone en las primarias de Podemos sin rival y con baja participación",
+      "titular": "Así han quedado los acuerdos territoriales a la izquierda del PSOE para las elecciones del 29-N",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-10-16T16:00:24+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20261016/11660855/montero-gana-holgura-primarias-apoyos-belarra-frente-amplio.html"
+      "fecha": "2026-10-17T00:55:28+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20261017/11661135/asi-acuerdos-territoriales-izquierda-psoe-elecciones-29-n.html"
+    },
+    {
+      "titular": "Juan del Val: «Pedro Sánchez ha visto una oportunidad con el desahucio de Maricarmen»",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-17T08:30:18+02:00",
+      "enlace": "https://www.abc.es/play/television/noticias/juan-val-pedro-sanchez-visto-oportunidad-desahucio-20261016083000-nt.html"
     }
   ],
   "salud": {
@@ -75,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 111,
+    "antiguedad_minima_min": 29,
     "detalle": [
       {
         "medio": "RTVE",
@@ -83,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2289808,
+        "antiguedad_min": 2290100,
         "descartados_por_gancho": 0
       },
       {
@@ -98,28 +97,28 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 140,
+        "items": 135,
         "error": null,
-        "antiguedad_min": 111,
-        "descartados_por_gancho": 2
+        "antiguedad_min": 145,
+        "descartados_por_gancho": 9
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 139,
+        "items": 129,
         "error": null,
-        "antiguedad_min": 218,
-        "descartados_por_gancho": 13
+        "antiguedad_min": 29,
+        "descartados_por_gancho": 17
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 25,
+        "items": 24,
         "error": null,
-        "antiguedad_min": 126,
-        "descartados_por_gancho": 0
+        "antiguedad_min": 54,
+        "descartados_por_gancho": 1
       }
     ]
   }

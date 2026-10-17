@@ -2,7 +2,7 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "portadas",
-  "generado": "2026-10-17T04:33:44+02:00",
+  "generado": "2026-10-17T09:25:11+02:00",
   "titulares": [
     {
       "titular": "Volkswagen, Renault y Stellantis resucitan a sus 'clásicos' para crecer",
@@ -41,6 +41,15 @@
       "enlace": "https://www.expansion.com/economia/politica/2026/10/17/italia-dinamarca-lideran-criticas-sanchez-descontrol-migratorio.html"
     },
     {
+      "titular": "Industria del lujo: estrategias para crecer en un entorno cambiante",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-17T08:39:38+02:00",
+      "enlace": "https://www.expansion.com/luxury-forum/2026/10/17/6ad3181ee5fdea74708b458e.html"
+    },
+    {
       "titular": "Los 'blue chips' europeos que más corren aún tienen fondo",
       "medios": [
         "Expansión"
@@ -57,15 +66,6 @@
       "consenso": 1,
       "fecha": "2026-10-17T00:12:34+02:00",
       "enlace": "https://www.expansion.com/estilo-vida/2026/10/17/empresa-espanola-fabrica-ritz-mandarin-oriental-hermes-louis-vuitton.html"
-    },
-    {
-      "titular": "Palmer Luckey, el revolucionario trumpista de la realidad virtual",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-17T00:11:45+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/10/17/6ad27379e5fdeadd728b4599.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 186,
+    "antiguedad_minima_min": 45,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 71,
+        "items": 72,
         "error": null,
-        "antiguedad_min": 186,
+        "antiguedad_min": 45,
         "descartados_por_gancho": 5
       },
       {
