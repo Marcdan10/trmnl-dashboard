@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-10-17T21:57:15+02:00",
+  "generado": "2026-10-17T23:58:19+02:00",
   "titulares": [
     {
-      "titular": "Rodri: \"Concedemos bastante, por ahí puede venir la mejora\"",
+      "titular": "72-79: El Obradoiro resiste la reacción final del San Pablo y gana en Burgos",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-17T21:23:12+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261017/1004239956/rodri-concedemos-venir-le-mejora.html"
+      "fecha": "2026-10-17T23:26:46+02:00",
+      "enlace": "https://www.mundodeportivo.com/baloncesto/acb/20261017/1004239985/72-79.html"
     },
     {
-      "titular": "Rajadón de Pellegrini: \"Es indefendible e inexplicable\"",
+      "titular": "32-32: Rebelión de los modestos y bofetadas a los grandes de la Liga ASOBAL",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-17T21:22:23+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261017/1004239958/rajadon-pellegrini-indefendible-e-inexplicable.html"
+      "fecha": "2026-10-17T23:14:27+02:00",
+      "enlace": "https://www.mundodeportivo.com/balonmano/20261017/1004239984/32-32-rebelion-modestos-bofetadas-grandes-liga-asobal.html"
     },
     {
       "titular": "El Club 'Divertido' Lugo se lo pasa en grande: líder, invicto y mejor equipo de Primera RFEF",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/mundial/2026/10/13/netflix-adquiere-derechos-audiovisuales-espana-mundial-2030.html"
     },
     {
-      "titular": "El Spar Girona estrena su casillero y el Cadí La Seu tumba al Estudiantes",
+      "titular": "La novedad que llega el próximo lunes por primera vez en la historia de 'La isla de las tentaciones'",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-17T21:20:05+02:00",
-      "enlace": "https://www.mundodeportivo.com/baloncesto/liga-femenina/20261017/1004239954/spar-girona-estrena-casillero-cadi-seu-tumba-estudiantes.html"
+      "fecha": "2026-10-17T23:12:48+02:00",
+      "enlace": "https://www.mundodeportivo.com/elotromundo/television/20261017/1004239988/novedad-llega-proximo-lunes-primera-vez-historia-isla-tentaciones-dct.html"
     },
     {
-      "titular": "Flick: \"Con Eric Garcia y Gerard Martín hay que esperar a ver los resultados\"",
+      "titular": "\"Hemos tratado de sustituir la Leyenda Negra por una Leyenda rosa, y la Leyenda rosa es tan poco creíble como la negra\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-17T21:13:34+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261017/1004239955/flick-eric-garcia-gerard-martin-hay-esperar-ver-resultados.html"
+      "fecha": "2026-10-17T23:10:06+02:00",
+      "enlace": "https://www.mundodeportivo.com/tressesenta/20261017/1004239960/jose-calvo-poyato-historiador-imperio-espanol-no-colonias-crea-virreinatos-manera-habitantes-son-subditos-plena-igualdad-peninsula-iberica-smd-hst.html"
     },
     {
-      "titular": "Jordi Cruz: \"Hay que limpiar bien los productos que comemos con 700 ml de agua, 250 ml de vinagre blanco y 50 ml de zumo de limón\"",
+      "titular": "0-0: El gol es la asignatura pendiente de Valencia y Athletic",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-17T21:12:46+02:00",
-      "enlace": "https://www.mundodeportivo.com/foodie/20261017/1004239895/jordi-cruz-cocinero-catalan-hay-limpiar-productos-comemos-sobre-crudos-necesitamos-700-ml-agua-250-ml-vinagre-blanco-50-ml-zumo-limon-mejor-acido-citrico-xef-dct.html"
+      "fecha": "2026-10-17T23:06:50+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/athletic-bilbao/20261017/1004239973/asas.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 34,
+    "antiguedad_minima_min": 31,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 60,
         "error": null,
-        "antiguedad_min": 6268,
+        "antiguedad_min": 6389,
         "descartados_por_gancho": 12
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 138,
+        "items": 142,
         "error": null,
-        "antiguedad_min": 34,
-        "descartados_por_gancho": 7
+        "antiguedad_min": 31,
+        "descartados_por_gancho": 6
       },
       {
         "medio": "Sport",

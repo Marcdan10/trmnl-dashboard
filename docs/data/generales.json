@@ -2,61 +2,61 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-10-17T21:57:12+02:00",
+  "generado": "2026-10-17T23:58:15+02:00",
   "titulares": [
     {
-      "titular": "La Ertzaintza detiene por terrorismo a dos proetarras con una base de datos sobre guardias civiles destinados en el País Vasco",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-17T21:39:57+02:00",
-      "enlace": "https://www.abc.es/espana/pais-vasco/ertzaintza-detiene-terrorismo-dos-proetarras-base-datos-20261017202953-nt.html"
-    },
-    {
-      "titular": "Buscan a una persona desaparecida en Cabrera de Mar (Barcelona) por el temporal",
+      "titular": "Reabre la estación de Metro de Sol tras el cierre de dos días ordenado por Ayuso para disuadir a los acampados por la vivienda",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-17T21:37:22+02:00",
-      "enlace": "https://elpais.com/espana/2026-10-17/emergencias-envia-mensajes-de-alerta-por-lluvias-a-la-poblacion-de-valencia-y-alicante.html"
+      "fecha": "2026-10-17T23:48:33+02:00",
+      "enlace": "https://elpais.com/espana/madrid/2026-10-17/reabre-la-estacion-de-metro-de-sol-tras-el-cierre-de-dos-dias-ordenado-por-ayuso-para-disuadir-a-los-acampados-por-la-vivienda.html"
     },
     {
-      "titular": "La Cartuja también se vence a Lamine Yamal y el Barcelona golea al Betis",
+      "titular": "Javi Guerra sostiene al Valencia",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-17T21:19:06+02:00",
-      "enlace": "https://elpais.com/deportes/futbol/2026-10-17/la-cartuja-tambien-se-vence-a-lamine-yamal-y-el-barcelona-golea-al-betis.html"
+      "fecha": "2026-10-17T23:21:29+02:00",
+      "enlace": "https://elpais.com/deportes/futbol/2026-10-17/javi-guerra-sostiene-al-valencia.html"
     },
     {
-      "titular": "El Barça y De Burgos ahogan al Betis",
+      "titular": "Abierta la estación de Metro de Sol tras constatarse su salubridad y seguridad",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-17T23:14:54+02:00",
+      "enlace": "https://www.lavanguardia.com/local/madrid/20261017/11661653/abierta-estacion-metro-sol-constatarse-salubridad-seguridad.html"
+    },
+    {
+      "titular": "¿Compensa siempre alquilar tu vivienda? La rentabilidad que puedes sacarle a todos los ahorros",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-10-17T21:11:15+02:00",
-      "enlace": "https://www.abc.es/deportes/futbol/barca-burgos-ahogan-betis-20261017203801-nt.html"
+      "fecha": "2026-10-17T22:42:32+02:00",
+      "enlace": "https://www.abc.es/economia/cuentas-corrientes/vivienda-mejor-inversion-descubre-rentabilidad-opciones-tus-20261017012717-nt.html"
     },
     {
-      "titular": "Rodri: “Concedemos bastante, por ahí puede llegar la mejora”",
+      "titular": "Sánchez presume de pacifismo, pero ha solicitado ya a Estados Unidos armamento por más de 7.100 millones",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-17T22:38:44+02:00",
+      "enlace": "https://www.abc.es/espana/sanchez-presume-pacifismo-solicitado-estados-unidos-armamento-20261017202206-nt.html"
+    },
+    {
+      "titular": "Cliff Hagan, el campeón con gancho que ganó la NBA derrotando a los invencibles Boston Celtics",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-10-17T21:00:42+02:00",
-      "enlace": "https://www.lavanguardia.com/deportes/fc-barcelona/20261017/11661590/rodri-concedemos-llegar-mejora.html"
-    },
-    {
-      "titular": "Las imágenes de las protestas en Francia",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-17T20:47:18+02:00",
-      "enlace": "https://www.lavanguardia.com/internacional/20261017/11661587/imagenes-protestas-francia.html"
+      "fecha": "2026-10-17T22:28:27+02:00",
+      "enlace": "https://www.lavanguardia.com/vida/20261017/11661484/cliff-hagan-campeon-gancho-gano-nba-derrotando-invencibles-boston-celtics.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 17,
+    "antiguedad_minima_min": 9,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2290852,
+        "antiguedad_min": 2290973,
         "descartados_por_gancho": 0
       },
       {
@@ -90,26 +90,26 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 500",
+        "error": "HTTP 403",
         "antiguedad_min": null
       },
       {
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 139,
+        "items": 142,
         "error": null,
-        "antiguedad_min": 19,
+        "antiguedad_min": 9,
         "descartados_por_gancho": 8
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 134,
+        "items": 140,
         "error": null,
-        "antiguedad_min": 56,
-        "descartados_por_gancho": 19
+        "antiguedad_min": 43,
+        "descartados_por_gancho": 17
       },
       {
         "medio": "ABC",
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 17,
+        "antiguedad_min": 46,
         "descartados_por_gancho": 0
       }
     ]
