@@ -1,9 +1,27 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "portadas",
-  "generado": "2026-10-17T09:25:17+02:00",
+  "modo": "ultimas",
+  "generado": "2026-10-17T13:42:18+02:00",
   "titulares": [
+    {
+      "titular": "Jonathan, la tortuga de 194 años que podría ayudar a “diagnosticar” la longevidad",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-17T13:14:24+02:00",
+      "enlace": "https://www.redaccionmedica.com/longevidad/20261017/jonathan-la-tortuga-de-anos-que-podria-ayudar-diagnosticar-longevidad/362322_0.html"
+    },
+    {
+      "titular": "Ingeniería se topa con el dilema de explotar el dato sanitario o proteger su anonimato: \"La legislación no llega\"",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-17T12:08:11+02:00",
+      "enlace": "https://www.redaccionmedica.com/innovacion/avances/20261017/ingenieria-se-topa-con-el-dilema-de-explotar-dato-sanitario-proteger-su-anonimato-la-legislacion-no-llega/362182_0.html"
+    },
     {
       "titular": "Extremadura reserva casi el 40 % de su presupuesto de 2027 a sanidad y dependencia",
       "medios": [
@@ -14,23 +32,13 @@
       "enlace": "https://diariofarma.com/2026/10/16/extremadura-reserva-casi-el-40-de-su-presupuesto-de-2027-a-sanidad-y-dependencia"
     },
     {
-      "titular": "Respuesta nacional ante \"parches autonómicos\" para enfrentar el irregular mapa de acceso enfermero a puestos directivos",
+      "titular": "País Vasco habilita 92 ensayos clínicos oncológicos en una plataforma única",
       "medios": [
-        "Redacción Médica"
+        "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-10-16T18:27:51+02:00",
-      "enlace": "https://www.redaccionmedica.com/profesionales/enfermeria/20261016/respuesta-nacional-ante-parches-autonomicos-para-enfrentar-el-irregular-mapa-de-acceso-enfermero-puestos-directivos/362206_0.html"
-    },
-    {
-      "titular": "La UE recomienda por primera vez un medicamento evaluado mediante revisión por fases",
-      "medios": [
-        "Diariofarma",
-        "El Global"
-      ],
-      "consenso": 2,
-      "fecha": "2026-10-16T14:12:54+02:00",
-      "enlace": "https://diariofarma.com/2026/10/16/la-ema-recomienda-por-primera-vez-la-autorizacion-de-un-medicamento-evaluado-mediante-revision-por-fases"
+      "fecha": "2026-10-16T14:27:23+02:00",
+      "enlace": "https://diariofarma.com/2026/10/16/pais-vasco-habilita-92-ensayos-clinicos-oncologicos-en-una-plataforma-unica"
     },
     {
       "titular": "Una nueva etapa y mucho en juego",
@@ -42,15 +50,6 @@
       "enlace": "https://elglobalfarma.com/opinion/editorial/nueva-etapa-mucho-juego/"
     },
     {
-      "titular": "Retos y oportunidades de la Inteligencia Artificial en la relación médico-paciente",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-16T05:09:00+02:00",
-      "enlace": "https://www.redaccionmedica.com/opinion/20261016/retos-oportunidades-de-la-inteligencia-artificial-en-relacion-medico-paciente/362283_12.html"
-    },
-    {
       "titular": "El CHMP emite opinión positiva para seis medicamentos en su reunión de octubre",
       "medios": [
         "El Global"
@@ -60,13 +59,13 @@
       "enlace": "https://elglobalfarma.com/industria/chmp-opinion-positiva-seis-medicamentos-reunion-octubre/"
     },
     {
-      "titular": "País Vasco habilita 92 ensayos clínicos oncológicos en una plataforma única",
+      "titular": "La Aemps alerta de un problema de stock relacionado con la duloxetina, uno de los antidepresivos más populares en España",
       "medios": [
-        "Diariofarma"
+        "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-10-16T14:27:23+02:00",
-      "enlace": "https://diariofarma.com/2026/10/16/pais-vasco-habilita-92-ensayos-clinicos-oncologicos-en-una-plataforma-unica"
+      "fecha": "2026-10-17T11:42:59+02:00",
+      "enlace": "https://www.redaccionmedica.com/actualidad/20261017/aemps-alerta-problema-stock-duloxetina-antidepresivos-populares-espana/362335_0.html"
     }
   ],
   "salud": {
@@ -77,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 763,
+    "antiguedad_minima_min": 27,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -85,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 1118,
+        "antiguedad_min": 1375,
         "descartados_por_gancho": 0
       },
       {
@@ -94,7 +93,7 @@
         "ok": true,
         "items": 8,
         "error": null,
-        "antiguedad_min": 1159,
+        "antiguedad_min": 1416,
         "descartados_por_gancho": 2
       },
       {
@@ -103,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 763,
+        "antiguedad_min": 27,
         "descartados_por_gancho": 0
       },
       {

@@ -1,71 +1,71 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "portadas",
-  "generado": "2026-10-17T09:25:11+02:00",
+  "modo": "ultimas",
+  "generado": "2026-10-17T13:42:11+02:00",
   "titulares": [
     {
-      "titular": "Volkswagen, Renault y Stellantis resucitan a sus 'clásicos' para crecer",
+      "titular": "Cuatro de cada diez madrileños tienen dificultades para llegar a fin de mes",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-17T00:15:29+02:00",
-      "enlace": "https://www.expansion.com/empresas/motor/2026/10/17/6ad245af468aeb2d038b456e.html"
+      "fecha": "2026-10-17T13:21:58+02:00",
+      "enlace": "https://www.expansion.com/sociedad/2026/10/17/cuatro-diez-madrilenos-dificultades-llegar-mes.html"
     },
     {
-      "titular": "García San Miguel (Abenójar Tungsten): \"Vamos a tener en España la mayor mina de wolframio del mundo tras China\"",
+      "titular": "Portugal oficializa la elección de Lufthansa para adquirir hasta el 49,9% de TAP",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-17T00:14:56+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/10/17/6ad20ecb468aebc92b8b457c.html"
+      "fecha": "2026-10-17T12:59:11+02:00",
+      "enlace": "https://www.expansion.com/empresas/transporte/2026/10/17/6ad32e08468aebe8788b4588.html"
     },
     {
-      "titular": "Valores para ganar más enla recta final del año en Bolsa",
+      "titular": "El Papa León XIV recibe el alta hospitalaria y regresará al Vaticano esta tarde",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-17T00:13:34+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/10/17/6ad2908ae5fdea10278b4581.html"
+      "fecha": "2026-10-17T12:19:49+02:00",
+      "enlace": "https://www.expansion.com/sociedad/2026/10/17/papa-leon-xiv-recibe-alta-hospitalaria-regresara-vaticano-tarde.html"
     },
     {
-      "titular": "Italia y Dinamarca lideran las críticas a Sánchez por su descontrol migratorio",
+      "titular": "Arranca el juicio por corrupción a la excúpula de Duro Felguera y exministros venezolanos",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-17T00:13:22+02:00",
-      "enlace": "https://www.expansion.com/economia/politica/2026/10/17/italia-dinamarca-lideran-criticas-sanchez-descontrol-migratorio.html"
+      "fecha": "2026-10-17T12:01:30+02:00",
+      "enlace": "https://www.expansion.com/empresas/industria/2026/10/17/6ad343a2e5fdea30488b45ad.html"
     },
     {
-      "titular": "Industria del lujo: estrategias para crecer en un entorno cambiante",
+      "titular": "Cómo ganar en Bolsa sin salir de Europa, con Flavien del Pino de BDL Capital Management",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-17T08:39:38+02:00",
-      "enlace": "https://www.expansion.com/luxury-forum/2026/10/17/6ad3181ee5fdea74708b458e.html"
+      "fecha": "2026-10-17T11:55:19+02:00",
+      "enlace": "https://www.expansion.com/podcasts/en-accion/2026/10/16/ganar-bolsa-salir-europa-flaviel-pino-bld.html"
     },
     {
-      "titular": "Los 'blue chips' europeos que más corren aún tienen fondo",
+      "titular": "El Comité Federal del PSOE proclama a Sánchez candidato por unanimidad y ratifica listas",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-17T00:12:35+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/10/17/6ad2812ee5fdeae92a8b457e.html"
+      "fecha": "2026-10-17T11:40:37+02:00",
+      "enlace": "https://www.expansion.com/elecciones/elecciones-generales/2026/10/17/6ad34041468aeb05408b459a.html"
     },
     {
-      "titular": "La empresa española que fabrica para Ritz, Mandarin Oriental, Hermès y Louis Vuitton",
+      "titular": "Un año después del robo del Louvre: grave crisis de imagen y las joyas aún sin aparecer",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-17T00:12:34+02:00",
-      "enlace": "https://www.expansion.com/estilo-vida/2026/10/17/empresa-espanola-fabrica-ritz-mandarin-oriental-hermes-louis-vuitton.html"
+      "fecha": "2026-10-17T11:23:59+02:00",
+      "enlace": "https://www.expansion.com/sociedad/2026/10/17/ano-despues-robo-louvre-grave-crisis-imagen-joyas-aun-aparecer.html"
     }
   ],
   "salud": {
@@ -78,16 +78,16 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 45,
+    "antiguedad_minima_min": 20,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 72,
+        "items": 74,
         "error": null,
-        "antiguedad_min": 45,
-        "descartados_por_gancho": 5
+        "antiguedad_min": 20,
+        "descartados_por_gancho": 4
       },
       {
         "medio": "Cinco Días",
