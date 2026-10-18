@@ -1,71 +1,71 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "portadas",
-  "generado": "2026-10-18T09:40:27+02:00",
+  "modo": "ultimas",
+  "generado": "2026-10-18T14:22:50+02:00",
   "titulares": [
     {
-      "titular": "Así es la empresa a la que aspiran los ‘Zeta’",
+      "titular": "El impacto económico de la crisis migratoria alcanza los 74,34 millones en Ceuta",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-16T15:46:13+02:00",
-      "enlace": "https://www.expansion.com/expansion-empleo/2026/10/16/asi-empresa-aspiran-zeta.html"
+      "fecha": "2026-10-18T14:12:29+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/10/18/impacto-economico-crisis-migratoria-alcanza-74-34-millones-euros-ceuta.html"
     },
     {
-      "titular": "Radiografía del alquiler: así están los precios por capitales",
+      "titular": "Indra mantiene la presentación de su plan estratégico el 25 de noviembre pese a la cercanía de las elecciones",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-17T20:44:43+02:00",
-      "enlace": "https://www.expansion.com/inmobiliario/mercado-inmobiliario/2026/10/17/radiografia-alquiler-asi-estan-precios-capitales.html"
+      "fecha": "2026-10-18T13:42:04+02:00",
+      "enlace": "https://www.expansion.com/empresas/industria/2026/10/18/6ad4afb0e5fdea3c7c8b457f.html"
     },
     {
-      "titular": "Valores para ganar más enla recta final del año en Bolsa",
+      "titular": "Las acampadas por la vivienda desafían a las autoridades en Lisboa y Oporto",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-17T00:13:34+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/10/17/6ad2908ae5fdea10278b4581.html"
+      "fecha": "2026-10-18T12:54:02+02:00",
+      "enlace": "https://www.expansion.com/sociedad/2026/10/18/acampadas-vivienda-desafian-autoridades-lisboa-oporto.html"
     },
     {
-      "titular": "Volkswagen, Renault y Stellantis resucitan a sus 'clásicos' para crecer",
+      "titular": "El Papa León XIV reaparece para rezar el Ángelus tras su operación: \"Retomaré gradualmente mi actividad\"",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-17T00:15:29+02:00",
-      "enlace": "https://www.expansion.com/empresas/motor/2026/10/17/6ad245af468aeb2d038b456e.html"
+      "fecha": "2026-10-18T12:45:17+02:00",
+      "enlace": "https://www.expansion.com/sociedad/2026/10/18/papa-leon-xiv-reaparece-rezar-angelus-operacion-retomare-gradualmente-mi-actividad.html"
     },
     {
-      "titular": "Mesas para comer a cualquier hora",
+      "titular": "La sicav del fundador de Pronovias lidera por patrimonio gestionado hasta septiembre",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-17T20:49:16+02:00",
-      "enlace": "https://www.expansion.com/estilo-vida/rincones-gastronomicos/2026/10/17/mesas-comer-hora.html"
+      "fecha": "2026-10-18T12:36:53+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/10/18/6ad4a04a468aeb494d8b4580.html"
     },
     {
-      "titular": "Los 'blue chips' europeos que más corren aún tienen fondo",
+      "titular": "Los afectados por la suspensión de la 'ley de nietos' apuran los días para presentar alegaciones al Supremo",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-17T00:12:35+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/10/17/6ad2812ee5fdeae92a8b457e.html"
+      "fecha": "2026-10-18T12:06:04+02:00",
+      "enlace": "https://www.expansion.com/elecciones/elecciones-generales/2026/10/18/6ad49806e5fdeaa7358b457d.html"
     },
     {
-      "titular": "Puig suma adeptos a la espera de su 'Día del Inversor'",
+      "titular": "Detenidas 855 personas sólo en París durante la jornada de protestas sociales en Francia",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-17T20:39:15+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/10/17/6ad3bf04e5fdea4b718b4575.html"
+      "fecha": "2026-10-18T11:45:44+02:00",
+      "enlace": "https://www.expansion.com/sociedad/2026/10/18/detenidas-855-personas-paris-durante-jornada-protestas-sociales-francia.html"
     }
   ],
   "salud": {
@@ -78,16 +78,16 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 755,
+    "antiguedad_minima_min": 10,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 69,
+        "items": 71,
         "error": null,
-        "antiguedad_min": 755,
-        "descartados_por_gancho": 4
+        "antiguedad_min": 10,
+        "descartados_por_gancho": 2
       },
       {
         "medio": "Cinco Días",
