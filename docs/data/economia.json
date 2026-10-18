@@ -1,71 +1,71 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "ultimas",
-  "generado": "2026-10-18T23:12:24+02:00",
+  "modo": "portadas",
+  "generado": "2026-10-19T01:26:09+02:00",
   "titulares": [
     {
-      "titular": "Accenture explora la venta de su negocio en China por 1.300 millones",
+      "titular": "CaixaBank pide a la UE destopar los bonus de los directivos",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-18T20:39:08+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/10/18/6ad51249e5fdea32618b4572.html"
+      "fecha": "2026-10-19T00:15:47+02:00",
+      "enlace": "https://www.expansion.com/empresas/banca/2026/10/19/6ad51ed1468aebf12a8b45d7.html"
     },
     {
-      "titular": "La luz marcará el lunes su máximo anual en el mercado mayorista",
+      "titular": "La inversión inmobiliaria se dispara un 35% y marca récord hasta septiembre",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-18T15:59:28+02:00",
-      "enlace": "https://www.expansion.com/empresas/energia/2026/10/18/6ad4cfe0e5fdea5f6a8b4580.html"
+      "fecha": "2026-10-18T23:43:54+02:00",
+      "enlace": "https://www.expansion.com/inmobiliario/2026/10/18/inversion-inmobiliaria-dispara-35-marca-record-septiembre.html"
     },
     {
-      "titular": "La primera gran dana del otoño se cobra una víctima mortal y mantiene zonas en aviso rojo",
+      "titular": "CEOE pide a los partidos un ahorro en costes energéticos de 25.000 millones",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-18T15:28:34+02:00",
-      "enlace": "https://www.expansion.com/sociedad/2026/10/18/primera-gran-dana-otono-cobra-victima-mortal-mantiene-zonas-aviso-rojo.html"
+      "fecha": "2026-10-18T23:41:20+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/10/18/ceoe-pide-partidos-ahorro-costes-energeticos-25-000-millones.html"
     },
     {
-      "titular": "El impacto económico de la crisis migratoria alcanza los 74,34 millones en Ceuta",
+      "titular": "Se exigen expertos, pero escasean los puestos para principiantes",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-18T14:12:29+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/10/18/impacto-economico-crisis-migratoria-alcanza-74-34-millones-euros-ceuta.html"
+      "fecha": "2026-10-18T23:47:13+02:00",
+      "enlace": "https://www.expansion.com/expansion-empleo/profesiones/2026/10/16/exigen-expertos-escasean-puestos-principiantes.html"
     },
     {
-      "titular": "Indra mantiene la presentación de su plan estratégico el 25 de noviembre pese a la cercanía de las elecciones",
+      "titular": "Las inversiones más favorecidas con cada caída de las tecnológicas",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-18T13:42:04+02:00",
-      "enlace": "https://www.expansion.com/empresas/industria/2026/10/18/6ad4afb0e5fdea3c7c8b457f.html"
+      "fecha": "2026-10-16T15:09:33+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/10/16/6ad21cad468aeb40268b457f.html"
     },
     {
-      "titular": "Las acampadas por la vivienda desafían a las autoridades en Lisboa y Oporto",
+      "titular": "Por qué la próxima legislatura sí habrá que reformar las pensiones",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-18T12:54:02+02:00",
-      "enlace": "https://www.expansion.com/sociedad/2026/10/18/acampadas-vivienda-desafian-autoridades-lisboa-oporto.html"
+      "fecha": "2026-10-18T23:34:27+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/10/18/proxima-legislatura-habra-reformar-pensiones.html"
     },
     {
-      "titular": "El Papa León XIV reaparece para rezar el Ángelus tras su operación: \"Retomaré gradualmente mi actividad\"",
+      "titular": "\"Euroclear usará Inversis para crecer en Portugal e Italia\"",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-18T12:45:17+02:00",
-      "enlace": "https://www.expansion.com/sociedad/2026/10/18/papa-leon-xiv-reaparece-rezar-angelus-operacion-retomare-gradualmente-mi-actividad.html"
+      "fecha": "2026-10-19T00:15:48+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/10/19/6ad5223d468aeba8248b4574.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 153,
+    "antiguedad_minima_min": 68,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 71,
+        "items": 66,
         "error": null,
-        "antiguedad_min": 153,
+        "antiguedad_min": 68,
         "descartados_por_gancho": 2
       },
       {
