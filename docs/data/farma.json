@@ -2,43 +2,43 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "ultimas",
-  "generado": "2026-10-18T14:22:56+02:00",
+  "generado": "2026-10-18T18:02:18+02:00",
   "titulares": [
     {
-      "titular": "Un estudio demuestra que la vacunación en farmacias eleva las tasas de inmunización",
+      "titular": "La suplementación con Omega-3 mejora la función visual y el rendimiento deportivo",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-10-18T14:06:15+02:00",
-      "enlace": "https://www.redaccionmedica.com/profesionales/farmacia/20261018/un-estudio-demuestra-que-la-vacunacion-en-farmacias-eleva-las-tasas-de-inmunizacion/362059_0.html"
+      "fecha": "2026-10-18T17:54:25+02:00",
+      "enlace": "https://www.redaccionmedica.com/innovacion/avances/20261018/la-suplementacion-con-omega-3-mejora-la-funcion-visual-el-rendimiento-deportivo/362476_0.html"
     },
     {
-      "titular": "El broncoscopio robótico que imita a las serpientes y “nota” cuándo roza la vía aérea",
+      "titular": "Galicia arranca en 14 hospitales el ensayo de la vacuna combinada de gripe/covid para mayores de 65",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-18T17:46:41+02:00",
+      "enlace": "https://diariofarma.com/2026/10/18/galciia-arranca-en-14-hospitales-el-ensayo-sobre-la-vacuna-combinada-de-gripe-y-covidpara-mayores-de-65-anos"
+    },
+    {
+      "titular": "Ifpma: Un 1% más de vacunación antigripal evitaría más de 18.000 hospitalizaciones al año",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-18T17:37:04+02:00",
+      "enlace": "https://diariofarma.com/2026/10/18/ifpma-un-1-mas-de-vacunacion-antigripal-evitaria-mas-de-18-000-hospitalizaciones-al-ano"
+    },
+    {
+      "titular": "Entrar a Medicina tras pasar por dos FP y casi terminar Enfermería: \"No podía dormir por las noches\"",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-10-18T13:07:28+02:00",
-      "enlace": "https://www.redaccionmedica.com/innovacion/20261018/el-broncoscopio-robotico-que-imita-las-serpientes-nota-cuando-roza-la-via-aerea/362371_0.html"
-    },
-    {
-      "titular": "Extremadura reserva casi el 40% de su presupuesto de 2027 a sanidad y dependencia",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-16T14:46:15+02:00",
-      "enlace": "https://diariofarma.com/2026/10/16/extremadura-reserva-casi-el-40-de-su-presupuesto-de-2027-a-sanidad-y-dependencia"
-    },
-    {
-      "titular": "País Vasco habilita 92 ensayos clínicos oncológicos en una plataforma única",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-16T14:27:23+02:00",
-      "enlace": "https://diariofarma.com/2026/10/16/pais-vasco-habilita-92-ensayos-clinicos-oncologicos-en-una-plataforma-unica"
+      "fecha": "2026-10-18T17:16:26+02:00",
+      "enlace": "https://www.redaccionmedica.com/formacion/estudiantes/20261018/entrar-medicina-tras-pasar-por-dos-fp-casi-terminar-enfermeria-no-podia-dormir-las-noches/362109_0.html"
     },
     {
       "titular": "Una nueva etapa y mucho en juego",
@@ -59,13 +59,13 @@
       "enlace": "https://elglobalfarma.com/industria/chmp-opinion-positiva-seis-medicamentos-reunion-octubre/"
     },
     {
-      "titular": "Los veterinarios reclaman más peso en salud pública frente a la rabia: \"Queremos que se nos escuche\"",
+      "titular": "Sanidad creará la Mesa de Pacientes este mes con vocalía en evaluación de tecnologías",
       "medios": [
-        "Redacción Médica"
+        "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-10-18T12:28:50+02:00",
-      "enlace": "https://www.redaccionmedica.com/salud-animal/20261018/los-veterinarios-reclaman-mas-peso-en-salud-publica-frente-la-rabia-queremos-que-se-nos-escuche/362011_0.html"
+      "fecha": "2026-10-18T17:05:12+02:00",
+      "enlace": "https://diariofarma.com/2026/10/18/sanidad-creara-la-mesa-de-pacientes-este-mes-con-vocalia-en-evaluacion-de-tecnologias"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 16,
+    "antiguedad_minima_min": 7,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 2856,
+        "antiguedad_min": 15,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 8,
         "error": null,
-        "antiguedad_min": 2897,
+        "antiguedad_min": 3116,
         "descartados_por_gancho": 2
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 29,
         "error": null,
-        "antiguedad_min": 16,
+        "antiguedad_min": 7,
         "descartados_por_gancho": 1
       },
       {
