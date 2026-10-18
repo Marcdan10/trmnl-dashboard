@@ -2,8 +2,17 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-10-18T20:44:50+02:00",
+  "generado": "2026-10-18T23:12:24+02:00",
   "titulares": [
+    {
+      "titular": "Accenture explora la venta de su negocio en China por 1.300 millones",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-18T20:39:08+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/10/18/6ad51249e5fdea32618b4572.html"
+    },
     {
       "titular": "La luz marcará el lunes su máximo anual en el mercado mayorista",
       "medios": [
@@ -57,15 +66,6 @@
       "consenso": 1,
       "fecha": "2026-10-18T12:45:17+02:00",
       "enlace": "https://www.expansion.com/sociedad/2026/10/18/papa-leon-xiv-reaparece-rezar-angelus-operacion-retomare-gradualmente-mi-actividad.html"
-    },
-    {
-      "titular": "La sicav del fundador de Pronovias lidera por patrimonio gestionado hasta septiembre",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-18T12:36:53+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/10/18/6ad4a04a468aeb494d8b4580.html"
     }
   ],
   "salud": {
@@ -78,7 +78,7 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 285,
+    "antiguedad_minima_min": 153,
     "detalle": [
       {
         "medio": "Expansión",
@@ -86,7 +86,7 @@
         "ok": true,
         "items": 71,
         "error": null,
-        "antiguedad_min": 285,
+        "antiguedad_min": 153,
         "descartados_por_gancho": 2
       },
       {
