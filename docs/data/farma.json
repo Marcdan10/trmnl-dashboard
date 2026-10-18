@@ -2,16 +2,25 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "ultimas",
-  "generado": "2026-10-18T18:02:18+02:00",
+  "generado": "2026-10-18T20:44:58+02:00",
   "titulares": [
     {
-      "titular": "La suplementación con Omega-3 mejora la función visual y el rendimiento deportivo",
+      "titular": "Los pacientes fijan sus prioridades ante el 29N: desbloqueo de la ley y tijeretazo a las listas de espera",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-10-18T17:54:25+02:00",
-      "enlace": "https://www.redaccionmedica.com/innovacion/avances/20261018/la-suplementacion-con-omega-3-mejora-la-funcion-visual-el-rendimiento-deportivo/362476_0.html"
+      "fecha": "2026-10-18T18:37:53+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/20261018/los-pacientes-fijan-sus-prioridades-ante-el-desbloqueo-de-la-ley-tijeretazo-las-listas-espera/362181_0.html"
+    },
+    {
+      "titular": "\"Soy médico y tengo guardia el 29N, ¿puedo salir a votar o lo hago por correo?\"",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-18T18:19:01+02:00",
+      "enlace": "https://www.redaccionmedica.com/virico/20261018/soy-medico-tengo-guardia-el-puedo-salir-votar-lo-hago-por-correo/362083_0.html"
     },
     {
       "titular": "Galicia arranca en 14 hospitales el ensayo de la vacuna combinada de gripe/covid para mayores de 65",
@@ -23,22 +32,13 @@
       "enlace": "https://diariofarma.com/2026/10/18/galciia-arranca-en-14-hospitales-el-ensayo-sobre-la-vacuna-combinada-de-gripe-y-covidpara-mayores-de-65-anos"
     },
     {
-      "titular": "Ifpma: Un 1% más de vacunación antigripal evitaría más de 18.000 hospitalizaciones al año",
+      "titular": "Ifpma: un 1% más de vacunación antigripal evitaría más de 18.000 hospitalizaciones al año",
       "medios": [
         "Diariofarma"
       ],
       "consenso": 1,
       "fecha": "2026-10-18T17:37:04+02:00",
       "enlace": "https://diariofarma.com/2026/10/18/ifpma-un-1-mas-de-vacunacion-antigripal-evitaria-mas-de-18-000-hospitalizaciones-al-ano"
-    },
-    {
-      "titular": "Entrar a Medicina tras pasar por dos FP y casi terminar Enfermería: \"No podía dormir por las noches\"",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-18T17:16:26+02:00",
-      "enlace": "https://www.redaccionmedica.com/formacion/estudiantes/20261018/entrar-medicina-tras-pasar-por-dos-fp-casi-terminar-enfermeria-no-podia-dormir-las-noches/362109_0.html"
     },
     {
       "titular": "Una nueva etapa y mucho en juego",
@@ -59,13 +59,13 @@
       "enlace": "https://elglobalfarma.com/industria/chmp-opinion-positiva-seis-medicamentos-reunion-octubre/"
     },
     {
-      "titular": "Sanidad creará la Mesa de Pacientes este mes con vocalía en evaluación de tecnologías",
+      "titular": "La suplementación con Omega-3 mejora la función visual y el rendimiento deportivo",
       "medios": [
-        "Diariofarma"
+        "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-10-18T17:05:12+02:00",
-      "enlace": "https://diariofarma.com/2026/10/18/sanidad-creara-la-mesa-de-pacientes-este-mes-con-vocalia-en-evaluacion-de-tecnologias"
+      "fecha": "2026-10-18T17:54:25+02:00",
+      "enlace": "https://www.redaccionmedica.com/innovacion/avances/20261018/la-suplementacion-con-omega-3-mejora-la-funcion-visual-el-rendimiento-deportivo/362476_0.html"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 7,
+    "antiguedad_minima_min": 127,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 15,
+        "antiguedad_min": 178,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 8,
         "error": null,
-        "antiguedad_min": 3116,
+        "antiguedad_min": 3279,
         "descartados_por_gancho": 2
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 29,
         "error": null,
-        "antiguedad_min": 7,
+        "antiguedad_min": 127,
         "descartados_por_gancho": 1
       },
       {

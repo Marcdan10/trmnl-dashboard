@@ -2,62 +2,62 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-10-18T18:02:09+02:00",
+  "generado": "2026-10-18T20:44:47+02:00",
   "titulares": [
     {
-      "titular": "Al Barcelona se le atraganta Zubieta y vuelve a caer ante la Real Sociedad",
+      "titular": "De Portugal a Albania, pasando por Italia, Europa clama contra los recortes y el alto coste de la vida",
       "medios": [
-        "El País",
-        "La Vanguardia"
+        "ABC"
       ],
-      "consenso": 2,
-      "fecha": "2026-10-18T17:39:39+02:00",
-      "enlace": "https://elpais.com/deportes/futbol/2026-10-18/el-barcelona-cae-por-segundo-ano-consecutivo-ante-la-real-sociedad-en-zubieta.html"
+      "consenso": 1,
+      "fecha": "2026-10-18T20:41:05+02:00",
+      "enlace": "https://www.abc.es/internacional/portugal-albania-pasando-italia-europa-clama-recortes-20261018193321-nt.html"
+    },
+    {
+      "titular": "Macron anuncia la «prohibición de reuniones» y la aplicación de «las medidas necesarias» por los disturbios en Francia",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-18T20:37:12+02:00",
+      "enlace": "https://www.abc.es/internacional/macron-anuncia-prohibicion-reuniones-aplicacion-medidas-necesarias-20261018202921-nt.html"
     },
     {
       "titular": "La UME se despliega en Ibiza y Mallorca para colaborar en las incidencias provocadas por la dana ‘Adam’",
       "medios": [
-        "El País"
+        "El País",
+        "ABC"
       ],
-      "consenso": 1,
-      "fecha": "2026-10-18T17:38:32+02:00",
+      "consenso": 2,
+      "fecha": "2026-10-18T20:29:02+02:00",
       "enlace": "https://elpais.com/el-tiempo/2026-10-18/la-ume-se-despliega-en-ibiza-y-mallorca-para-colaborar-en-las-incidencias-provocadas-por-la-dana-adam.html"
     },
     {
-      "titular": "Hallan el cuerpo sin vida de la mujer desaparecida que cayó por una riera por las fuertes lluvias en Cabrera de Mar (Barcelona)",
+      "titular": "Macron acusa a la “extrema izquierda” de inflamar la calle",
       "medios": [
-        "ABC"
+        "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-18T17:38:00+02:00",
-      "enlace": "https://www.abc.es/espana/cataluna/hallan-cuerpo-vida-mujer-desaparecida-cayo-riera-20261018123002-nt.html"
+      "fecha": "2026-10-18T20:23:12+02:00",
+      "enlace": "https://elpais.com/internacional/2026-10-18/macron-acusa-a-la-extrema-izquierda-de-inflamar-la-calle.html"
     },
     {
-      "titular": "El Papa reza el Ángelus en San Pedro tras su operación y afirma que retomará gradualmente su actividad",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-18T17:37:51+02:00",
-      "enlace": "https://www.abc.es/sociedad/papa-reza-angelus-san-pedro-tras-operacion-20261018122013-nt.html"
-    },
-    {
-      "titular": "Fuego en las calles de Francia y más imágenes del día.",
+      "titular": "Una ola de violencia juvenil sacude el centro de Milán",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-10-18T17:32:52+02:00",
-      "enlace": "https://www.lavanguardia.com/fotos/20261018/11662067/fuego-calles-francia-mas-imagenes-dia.html"
+      "fecha": "2026-10-18T20:07:05+02:00",
+      "enlace": "https://www.lavanguardia.com/internacional/20261018/11662126/ola-violencia-juvenil-sacude-centro-milan.html"
     },
     {
-      "titular": "Foment avisa del riesgo de cierres en la industria por la subida de los precios energéticos",
+      "titular": "La dana obliga a suspender clases en Mallorca, Eivissa y Formentera y moviliza a la UME",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-10-18T17:28:32+02:00",
-      "enlace": "https://www.lavanguardia.com/economia/20261018/11662065/foment-avisa-riesgo-cierres-industria-subida-precios-energeticos.html"
+      "fecha": "2026-10-18T19:52:51+02:00",
+      "enlace": "https://www.lavanguardia.com/vida/20261018/11662117/dana-obliga-suspender-clases-mallorca-eivissa-formentera-moviliza-ume.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -75,7 +75,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 22,
+    "antiguedad_minima_min": 3,
     "detalle": [
       {
         "medio": "RTVE",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2292057,
+        "antiguedad_min": 2292219,
         "descartados_por_gancho": 0
       },
       {
@@ -91,35 +91,35 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 403",
+        "error": "HTTP 500",
         "antiguedad_min": null
       },
       {
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 136,
+        "items": 134,
         "error": null,
-        "antiguedad_min": 22,
-        "descartados_por_gancho": 7
+        "antiguedad_min": 15,
+        "descartados_por_gancho": 8
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 139,
+        "items": 135,
         "error": null,
-        "antiguedad_min": 29,
-        "descartados_por_gancho": 26
+        "antiguedad_min": 37,
+        "descartados_por_gancho": 25
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 23,
+        "items": 24,
         "error": null,
-        "antiguedad_min": 24,
-        "descartados_por_gancho": 2
+        "antiguedad_min": 3,
+        "descartados_por_gancho": 1
       }
     ]
   }
