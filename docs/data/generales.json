@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-10-19T01:26:06+02:00",
+  "generado": "2026-10-19T03:29:31+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -23,22 +23,22 @@
       "enlace": "https://elpais.com/internacional/2026-10-18/macron-acusa-a-la-extrema-izquierda-de-inflamar-la-calle.html"
     },
     {
-      "titular": "Feijóo promete una nueva ley antiocupaciones de la mano de Albiol",
+      "titular": "Feijóo marca Catalunya como un territorio clave para llegar a la Moncloa tras las elecciones del 29-N",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-10-18T12:55:28+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20261018/11661983/feijoo-promete-nueva-ley-antiocupaciones-mano-albiol-elecciones-29-n.html"
+      "fecha": "2026-10-19T00:05:00+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20261019/11662138/feijoo-marca-catalunya-territorio-clave-llegar-moncloa-elecciones-29-n.html"
     },
     {
-      "titular": "El premio es quedarse con Isabel Allende",
+      "titular": "Baleares suspende las clases en plena alerta roja y con la UME desplegada por la dana Adam",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-10-19T01:08:40+02:00",
-      "enlace": "https://www.abc.es/cultura/verdadero-premio-quedarse-isabel-allende-20261018010742-nt.html"
+      "fecha": "2026-10-19T02:59:20+02:00",
+      "enlace": "https://www.abc.es/espana/baleares/ume-desplegara-ibiza-mallorca-colaborar-incidencias-provocadas-20261018180145-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 2,
+    "antiguedad_minima_min": 12,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2292501,
+        "antiguedad_min": 2292624,
         "descartados_por_gancho": 0
       },
       {
@@ -99,17 +99,17 @@
         "ok": true,
         "items": 137,
         "error": null,
-        "antiguedad_min": 2,
+        "antiguedad_min": 12,
         "descartados_por_gancho": 8
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 137,
+        "items": 136,
         "error": null,
-        "antiguedad_min": 221,
-        "descartados_por_gancho": 25
+        "antiguedad_min": 168,
+        "descartados_por_gancho": 23
       },
       {
         "medio": "ABC",
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 24,
         "error": null,
-        "antiguedad_min": 17,
+        "antiguedad_min": 30,
         "descartados_por_gancho": 1
       }
     ]
