@@ -1,26 +1,26 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "portadas",
-  "generado": "2026-10-19T08:40:31+02:00",
+  "modo": "ultimas",
+  "generado": "2026-10-19T16:14:51+02:00",
   "titulares": [
     {
-      "titular": "Crónica de un atraco anunciado",
+      "titular": "Estos 5 alimentos baratos son los que mejoran realmente tu rendimiento",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-18T23:02:09+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20261018/1004240362/cronica-atraco-anunciado.html"
+      "fecha": "2026-10-19T15:49:09+02:00",
+      "enlace": "https://www.mundodeportivo.com/solobici/20261019/1004240599/entrenadores-coinciden-no-malgastes-dinero-cinco-alimentos-baratos-son-mejoran-realmente-rendimiento-deportista.html"
     },
     {
-      "titular": "Lamine Yamal vs. Dembélé, el duelo bestial",
+      "titular": "Los entrenadores coinciden sobre las personas que van al gimnasio antes de trabajar",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-19T06:30:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261019/1004240371/lamine-yamal-vs-dembele-duelo-bestial.html"
+      "fecha": "2026-10-19T15:40:57+02:00",
+      "enlace": "https://www.mundodeportivo.com/running/20261019/1004240603/entrenadores-coinciden-personas-ejercicio-fuerza-manana-suelen-mas-energia-trabajo-dct.html"
     },
     {
       "titular": "El Club 'Divertido' Lugo se lo pasa en grande: líder, invicto y mejor equipo de Primera RFEF",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/mundial/2026/10/13/netflix-adquiere-derechos-audiovisuales-espana-mundial-2030.html"
     },
     {
-      "titular": "4-1: El Madrid se aleja del mal juego pero no de la polémica",
+      "titular": "El Circuit Català de Trofeus abre curso y corona a Adrián Santos y al Sant Andreu del anterior",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-18T23:02:50+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20261018/1004240356/madrid-aleja-mal-juego-no-polemica-victoria-sevilla.html"
+      "fecha": "2026-10-19T15:39:26+02:00",
+      "enlace": "https://www.mundodeportivo.com/natacion/20261019/1004240593/circuit-catala-trofeus-presenta-corona-adrian-santos-sant-andreu.html"
     },
     {
-      "titular": "Arrasate: \"Siento que Osasuna me necesita y que yo puedo ayudar a Osasuna\"",
-      "medios": [
-        "Marca"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-13T12:56:47+02:00",
-      "enlace": "https://www.marca.com/futbol/osasuna/2026/10/13/arrasate-siento-osasuna-me-necesita-ayudar-osasuna.html"
-    },
-    {
-      "titular": "\"He pedido las imágenes de lo de Güler y no las hay; no entiendo la obsesión\"",
+      "titular": "El PSG sí podrá contar con los 'tocados' Akliouche y Mayulu, dos verdugos del Barça",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-18T23:58:04+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20261018/1004240380/mourinho-he-pedido-imagenes-gueler-no-hay-no-entiendo-obsesion.html"
+      "fecha": "2026-10-19T15:37:31+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261019/1004240597/psg-podra-contar-tocados-akliouche-mayulu-dos-verdugos-barca.html"
+    },
+    {
+      "titular": "Doble alerta amarilla en el Espanyol",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-19T15:25:12+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/rcd-espanyol/20261019/1004240596/doble-alerta-amarilla-espanyol.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 29,
+    "antiguedad_minima_min": 25,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 60,
         "error": null,
-        "antiguedad_min": 8351,
+        "antiguedad_min": 8806,
         "descartados_por_gancho": 12
       },
       {
@@ -99,9 +99,9 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 134,
+        "items": 137,
         "error": null,
-        "antiguedad_min": 29,
+        "antiguedad_min": 25,
         "descartados_por_gancho": 4
       },
       {

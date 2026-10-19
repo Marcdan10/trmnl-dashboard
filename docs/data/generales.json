@@ -1,9 +1,63 @@
 {
   "pantalla": "generales",
   "titulo": "Titulares",
-  "modo": "portadas",
-  "generado": "2026-10-19T08:40:26+02:00",
+  "modo": "ultimas",
+  "generado": "2026-10-19T16:14:48+02:00",
   "titulares": [
+    {
+      "titular": "Última hora del temporal en España, en directo | Asciende a cuatro la cifra de muertos en el temporal que ha dejado inundaciones en Valencia y Alicante",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-19T16:09:00+02:00",
+      "enlace": "https://elpais.com/el-tiempo/2026-10-19/ultima-hora-del-temporal-en-espana-en-directo.html"
+    },
+    {
+      "titular": "La policía carga contra un grupo de profesores de Madrid que bloqueaba la entrada a un acto de Ayuso",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-19T16:01:54+02:00",
+      "enlace": "https://elpais.com/espana/madrid/2026-10-19/cancelado-el-acto-de-la-consejera-de-educacion-de-madrid-mercedes-zarzalejo-en-un-centro-de-fp-por-la-presencia-de-manifestantes.html"
+    },
+    {
+      "titular": "La izquierda alienta las protestas callejeras mientras el seguimiento de la huelga educativa cae al 13,2%",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-19T15:51:22+02:00",
+      "enlace": "https://www.abc.es/espana/madrid/madrid-alienta-protestas-callejeras-seguimiento-huelga-educativa-20261019150833-nt.html"
+    },
+    {
+      "titular": "El presidente del tribunal de Duro Felguera rechaza que Zapatero y Moratinos testifiquen: «¡Se nos mueren!",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-19T15:48:43+02:00",
+      "enlace": "https://www.abc.es/espana/presidente-tribunal-duro-felguera-rechaza-zapatero-moratinos-20261019123617-nt.html"
+    },
+    {
+      "titular": "Dana Adam en Valencia y Alicante, hoy en directo: última hora de la lluvia, el confinamiento de municipios y los fallecidos por el temporal",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-19T15:44:20+02:00",
+      "enlace": "https://www.lavanguardia.com/vida/20261019/11662360/temporal-lluvias-dana-adam-catalunya-valencia-baleares-ultima-hora-hoy-en-directo.html"
+    },
+    {
+      "titular": "La dana suma ya cuatro fallecidos y desborda Valencia y Alicante",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-19T15:24:54+02:00",
+      "enlace": "https://www.lavanguardia.com/local/valencia/20261019/11662847/dana-provoca-tres-fallecidos-caos-sur-valencia-norte-alicante.html"
+    },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
       "medios": [
@@ -12,60 +66,6 @@
       "consenso": 1,
       "fecha": "2022-06-10T01:05:00+02:00",
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
-    },
-    {
-      "titular": "El Gobierno arranca los “martes sociales” con un decreto para mejorar las prestaciones por viudedad, incapacidad, para víctimas del terrorismo y de violencia de género",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-19T05:30:01+02:00",
-      "enlace": "https://elpais.com/espana/2026-10-19/el-gobierno-arranca-los-martes-sociales-con-un-decreto-para-mejorar-las-prestaciones-por-viudedad-incapacidad-para-victimas-del-terrorismo-y-de-violencia-de-genero.html"
-    },
-    {
-      "titular": "Conmoción en Francia por la furia desatada en las protestas",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-18T10:58:03+02:00",
-      "enlace": "https://www.lavanguardia.com/internacional/20261018/11661928/conmocion-francia-magnitud-destrozos-criticas-gobierno.html"
-    },
-    {
-      "titular": "El premio es quedarse con Isabel Allende",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-19T08:28:33+02:00",
-      "enlace": "https://www.abc.es/cultura/verdadero-premio-quedarse-isabel-allende-20261018010742-nt.html"
-    },
-    {
-      "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
-      "medios": [
-        "RTVE"
-      ],
-      "consenso": 1,
-      "fecha": "2022-06-10T00:03:00+02:00",
-      "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
-    },
-    {
-      "titular": "El Constitucional discute si intervenir ya en la controversia sobre la suspensión del derecho al voto de 160.000 españoles por la ‘ley de nietos’",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-19T05:30:01+02:00",
-      "enlace": "https://elpais.com/espana/2026-10-19/el-constitucional-discute-si-intervenir-ya-en-la-controversia-sobre-la-suspension-del-derecho-al-voto-de-160000-espanoles-por-la-ley-de-nietos.html"
-    },
-    {
-      "titular": "Una ola de violencia juvenil sacude el centro de Milán",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-18T20:07:05+02:00",
-      "enlace": "https://www.lavanguardia.com/internacional/20261018/11662126/ola-violencia-juvenil-sacude-centro-milan.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 11,
+    "antiguedad_minima_min": 5,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2292935,
+        "antiguedad_min": 2293389,
         "descartados_por_gancho": 0
       },
       {
@@ -97,28 +97,28 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 136,
+        "items": 145,
         "error": null,
-        "antiguedad_min": 16,
-        "descartados_por_gancho": 13
+        "antiguedad_min": 5,
+        "descartados_por_gancho": 9
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 123,
+        "items": 134,
         "error": null,
-        "antiguedad_min": 77,
-        "descartados_por_gancho": 17
+        "antiguedad_min": 30,
+        "descartados_por_gancho": 16
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 24,
+        "items": 25,
         "error": null,
-        "antiguedad_min": 11,
-        "descartados_por_gancho": 1
+        "antiguedad_min": 23,
+        "descartados_por_gancho": 0
       }
     ]
   }

@@ -1,71 +1,71 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "portadas",
-  "generado": "2026-10-19T08:40:29+02:00",
+  "modo": "ultimas",
+  "generado": "2026-10-19T16:14:50+02:00",
   "titulares": [
     {
-      "titular": "CaixaBank pide a la UE destopar los bonus de los directivos",
+      "titular": "Zelenski, Europa y el final de la estrategia de persuasión a Trump",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-19T00:15:47+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/10/19/6ad51ed1468aebf12a8b45d7.html"
+      "fecha": "2026-10-19T15:36:15+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/10/19/zelenski-europa-final-estrategia-persuasion-trump.html"
     },
     {
-      "titular": "Santander se asocia con Nvidia para impulsar el despliegue de la IA",
+      "titular": "Los socios de Telefónica presionan a Competencia británica para que autorice la compra de Netomnia",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-19T07:01:51+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/10/19/6ad4e366468aeb18638b456f.html"
+      "fecha": "2026-10-19T15:22:38+02:00",
+      "enlace": "https://www.expansion.com/empresas/telecomunicaciones/2026/10/19/6ad61134e5fdea0f488b4598.html"
     },
     {
-      "titular": "La Primera de Expansión sobre inversión inmobiliaria, Elon Musk, CEOE, PIB de China, Anthropic, Barclays y Francia",
+      "titular": "Mina el Moto aspira a una valoración de hasta 750 millones en su salida a Bolsa",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-19T07:21:00+02:00",
-      "enlace": "https://www.expansion.com/podcasts/la-primera-de-expansion/2026/10/19/primera-expansion-sobre-inversion-inmobiliaria-elon-musk-ceoe-pib-china-anthropic-barclays-francia.html"
+      "fecha": "2026-10-19T15:15:04+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/10/19/6ad6179be5fdea4b3d8b4598.html"
     },
     {
-      "titular": "La inversión inmobiliaria se dispara un 35% y marca récord hasta septiembre",
+      "titular": "El Ibex tropieza y ve peligrar los 19.000 puntos",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-18T23:43:54+02:00",
-      "enlace": "https://www.expansion.com/inmobiliario/2026/10/18/inversion-inmobiliaria-dispara-35-marca-record-septiembre.html"
-    },
-    {
-      "titular": "Las inversiones más favorecidas con cada caída de las tecnológicas",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-19T08:17:51+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/10/16/6ad21cad468aeb40268b457f.html"
-    },
-    {
-      "titular": "Por qué la próxima legislatura sí habrá que reformar las pensiones",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-18T23:34:27+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/10/18/proxima-legislatura-habra-reformar-pensiones.html"
-    },
-    {
-      "titular": "El Ibex inicia la semana con dudas",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-19T08:27:34+02:00",
+      "fecha": "2026-10-19T14:38:07+02:00",
       "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/10/19/6ad5b041468aeb505d8b456f.html"
+    },
+    {
+      "titular": "Anthropic compromete el 5% de sus acciones a un fondo de ‘beneficio público’",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-19T14:24:28+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/10/19/anthropic-compromete-5-acciones-fondo-beneficio-publico.html"
+    },
+    {
+      "titular": "Amor (ATA): \"Termina una legislatura nefasta, hay autónomos que ganan a final de mes menos que su propio trabajador\"",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-19T14:05:55+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/10/19/amor-ata-termina-legislatura-nefasta-hay-autonomos-ganan-final-mes-propio-trabajador.html"
+    },
+    {
+      "titular": "Japón encabeza una misión para realizar el primer viaje de ida y vuelta a Marte",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-19T13:43:06+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/10/19/japon-encabeza-mision-realizar-primer-viaje-ida-vuelta-marte.html"
     }
   ],
   "salud": {
@@ -78,16 +78,16 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 12,
+    "antiguedad_minima_min": 38,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 69,
+        "items": 76,
         "error": null,
-        "antiguedad_min": 12,
-        "descartados_por_gancho": 2
+        "antiguedad_min": 38,
+        "descartados_por_gancho": 1
       },
       {
         "medio": "Cinco Días",
