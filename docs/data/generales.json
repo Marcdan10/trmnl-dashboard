@@ -1,64 +1,9 @@
 {
   "pantalla": "generales",
   "titulo": "Titulares",
-  "modo": "ultimas",
-  "generado": "2026-10-19T22:01:55+02:00",
+  "modo": "portadas",
+  "generado": "2026-10-20T01:50:15+02:00",
   "titulares": [
-    {
-      "titular": "Japón se atreve con la primera misión para traer muestras de Fobos, la desconocida luna de Marte",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-19T21:53:06+02:00",
-      "enlace": "https://elpais.com/ciencia/2026-10-19/japon-se-atreve-con-la-primera-mision-para-traer-muestras-de-fobos-la-desconocida-luna-de-marte.html"
-    },
-    {
-      "titular": "Los ‘turistas’ que viajan a Ibiza para robar relojes de 450.000 euros",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-19T21:49:40+02:00",
-      "enlace": "https://elpais.com/espana/2026-10-19/los-turistas-que-viajan-a-ibiza-para-robar-relojes-de-450000-euros.html"
-    },
-    {
-      "titular": "La costa valenciana sobrevive a una dana que hizo recordar la tragedia de hace dos años",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-19T21:41:44+02:00",
-      "enlace": "https://www.abc.es/espana/comunidad-valenciana/dana-engulle-pego-oliva-evidencia-lecciones-aprendidas-20261020213112-nt.html"
-    },
-    {
-      "titular": "El desprendimiento de una roca en Málaga provoca el quinto muerto de Adam",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-19T21:40:16+02:00",
-      "enlace": "https://www.abc.es/sociedad/temporal-lluvias-tormentas-comunidad-valenciana-cataluna-baleares-20261019091904-di.html"
-    },
-    {
-      "titular": "Meloni despliega el Ejército para defender Milán de las protestas",
-      "medios": [
-        "La Vanguardia",
-        "ABC"
-      ],
-      "consenso": 2,
-      "fecha": "2026-10-19T21:32:12+02:00",
-      "enlace": "https://www.abc.es/internacional/meloni-despliega-ejercito-defender-milan-protestas-20261019200131-nt.html"
-    },
-    {
-      "titular": "Los premios ODA se celebrarán por primera vez en Barcelona",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-19T20:41:31+02:00",
-      "enlace": "https://www.lavanguardia.com/cultura/20261019/11663031/premios-oda-celebraran-primera-vez-barcelona.html"
-    },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
       "medios": [
@@ -67,6 +12,60 @@
       "consenso": 1,
       "fecha": "2022-06-10T01:05:00+02:00",
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
+    },
+    {
+      "titular": "La Generalitat levanta el confinamiento en los municipios de Valencia y Alicante afectados por las lluvias torrenciales y las inundaciones",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-19T17:58:57+02:00",
+      "enlace": "https://elpais.com/espana/comunidad-valenciana/2026-10-19/maxima-alerta-en-gandia-y-denia-por-las-lluvias-torrenciales-y-las-inundaciones-que-activa-a-la-ume.html"
+    },
+    {
+      "titular": "La dana ‘Adam’ deja cuatro muertos, tres en Valencia y uno en Andalucía",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-20T00:05:00+02:00",
+      "enlace": "https://www.lavanguardia.com/local/valencia/20261020/11662975/dana-adam-deja-cuatro-muertos-tres-valencia-andalucia.html"
+    },
+    {
+      "titular": "El precedente del amparo 'preventivo' del Defensor del Pueblo: fue en 1984, y se retiró al personarse los afectados",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-20T01:36:17+02:00",
+      "enlace": "https://www.abc.es/espana/precedente-historico-amparo-defensor-pueblo-1984-retiro-20261019013330-nt.html"
+    },
+    {
+      "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
+      "medios": [
+        "RTVE"
+      ],
+      "consenso": 1,
+      "fecha": "2022-06-10T00:03:00+02:00",
+      "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
+    },
+    {
+      "titular": "Mapas y gráficos de las inundaciones en Valencia y hacia dónde se dirige la tormenta",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-19T15:30:47+02:00",
+      "enlace": "https://elpais.com/espana/comunidad-valenciana/2026-10-19/mapas-y-graficos-de-las-inundaciones-en-valencia-y-hacia-donde-se-dirige-la-tormenta.html"
+    },
+    {
+      "titular": "La dana se ceba con Eivissa y Formentera con amenazas de desbordamiento de torrentes",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-19T11:06:58+02:00",
+      "enlace": "https://www.lavanguardia.com/vida/20261019/11662458/dana-ceba-eivissa-formentera-amenazas-desbordamiento-torrentes.html"
     }
   ],
   "salud": {
@@ -75,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 8,
+    "antiguedad_minima_min": 13,
     "detalle": [
       {
         "medio": "RTVE",
@@ -83,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2293736,
+        "antiguedad_min": 2293965,
         "descartados_por_gancho": 0
       },
       {
@@ -100,26 +99,26 @@
         "ok": true,
         "items": 147,
         "error": null,
-        "antiguedad_min": 8,
+        "antiguedad_min": 63,
         "descartados_por_gancho": 7
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 137,
+        "items": 127,
         "error": null,
         "antiguedad_min": 80,
-        "descartados_por_gancho": 17
+        "descartados_por_gancho": 12
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 24,
+        "items": 22,
         "error": null,
-        "antiguedad_min": 20,
-        "descartados_por_gancho": 1
+        "antiguedad_min": 13,
+        "descartados_por_gancho": 3
       }
     ]
   }

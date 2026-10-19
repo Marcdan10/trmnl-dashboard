@@ -1,71 +1,71 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "ultimas",
-  "generado": "2026-10-19T22:01:59+02:00",
+  "modo": "portadas",
+  "generado": "2026-10-20T01:50:19+02:00",
   "titulares": [
     {
-      "titular": "Stirling Square amplía su cartera con la compra de Afrikelp por parte de SAS Group",
+      "titular": "La prima de riesgo se dispara en Francia en plena oleada de disturbios",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-19T20:23:34+02:00",
-      "enlace": "https://www.expansion.com/catalunya/2026/10/19/stirling-square-amplia-cartera-compra-afrikelp-parte-sas-group.html"
+      "fecha": "2026-10-19T12:43:26+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/10/19/prima-riesgo-dispara-francia-plena-oleada-disturbios.html"
     },
     {
-      "titular": "Catalunya eleva hasta el 2,6%, tres décimas más, su previsión para crecimiento para 2026",
+      "titular": "Así es el 'contrato con España' de Feijóo: vivienda, pensiones e impuestos como protagonistas",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-19T20:21:37+02:00",
-      "enlace": "https://www.expansion.com/catalunya/2026/10/19/catalunya-eleva-2-6-tres-decimas-prevision-crecimiento-2026.html"
+      "fecha": "2026-10-19T16:58:45+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/10/19/asi-contrato-espana-feijoo-vivienda-pensiones-e-impuestos-protagonistas.html"
     },
     {
-      "titular": "Inditex arrebata el trono a Santander de mayor valor de la Bolsa española",
+      "titular": "El Ibex pierde un 1,5% arrastrado por la crisis social en Francia",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-19T20:17:13+02:00",
-      "enlace": "https://www.expansion.com/inversion/2026/10/19/6ad6540b468aebff388b459e.html"
+      "fecha": "2026-10-19T17:41:01+02:00",
+      "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/10/19/6ad5b041468aeb505d8b456f.html"
     },
     {
-      "titular": "El Gobierno de Milei planea recortar otros 20.000 empleos públicos en Argentina",
+      "titular": "Telefónica firma su alianza con Orange, Vodafone y Telekom para competir con Starlink en satélites",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-19T19:48:19+02:00",
-      "enlace": "https://www.expansion.com/economia/politica/2026/10/19/gobierno-milei-planea-recortar-otros-20-000-empleos-publicos-argentina.html"
+      "fecha": "2026-10-19T11:05:01+02:00",
+      "enlace": "https://www.expansion.com/empresas/telecomunicaciones/2026/10/19/6ad5dae1468aebdc3e8b4588.html"
     },
     {
-      "titular": "Primeras inversiones en Estados Unidos de Alisos, la plataforma de Aurica Capital y A&G",
+      "titular": "EEUU amenaza a Europa con represalias \"devastadoras\" si se limita el espectro a Starlink",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-19T19:18:09+02:00",
-      "enlace": "https://www.expansion.com/catalunya/2026/10/19/primeras-inversiones-estados-unidos-alisos-plataforma-aurica-capital-g.html"
+      "fecha": "2026-10-19T11:56:12+02:00",
+      "enlace": "https://www.expansion.com/empresas/telecomunicaciones/2026/10/19/6ad5d718e5fdeaeb528b4586.html"
     },
     {
-      "titular": "Por qué no podemos dejar el sitio antes conocido como Twitter",
+      "titular": "Por qué la próxima legislatura sí habrá que reformar las pensiones",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-19T18:56:28+02:00",
-      "enlace": "https://www.expansion.com/economia/financial-times/2026/10/19/dejar-sitio-conocido-twitter.html"
+      "fecha": "2026-10-18T23:34:27+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/10/18/proxima-legislatura-habra-reformar-pensiones.html"
     },
     {
-      "titular": "Florida emite una orden de arresto contra Raúl Castro",
+      "titular": "Palacio Residencial Sagasta: así son los nuevos pisos de lujo con servicios de hotel en Chamberí",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-19T18:11:03+02:00",
-      "enlace": "https://www.expansion.com/economia/politica/2026/10/19/florida-emite-orden-arresto-raul-castro.html"
+      "fecha": "2026-10-19T12:02:58+02:00",
+      "enlace": "https://www.expansion.com/inmobiliario/casas/2026/10/19/palacio-residencial-sagasta-asi-son-nuevos-pisos-lujo-servicios-hotel-chamberi.html"
     }
   ],
   "salud": {
@@ -78,7 +78,7 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 98,
+    "antiguedad_minima_min": 208,
     "detalle": [
       {
         "medio": "Expansión",
@@ -86,7 +86,7 @@
         "ok": true,
         "items": 79,
         "error": null,
-        "antiguedad_min": 98,
+        "antiguedad_min": 208,
         "descartados_por_gancho": 1
       },
       {

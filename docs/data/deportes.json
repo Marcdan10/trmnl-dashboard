@@ -1,26 +1,26 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "ultimas",
-  "generado": "2026-10-19T22:02:02+02:00",
+  "modo": "portadas",
+  "generado": "2026-10-20T01:50:21+02:00",
   "titulares": [
     {
-      "titular": "Historiadora sobre la muerte de Alejandro Magno: \"Posiblemente estemos ante el caso más famoso de falso diagnóstico de muerte\"",
+      "titular": "Flick desvela las opciones para la defensa en París",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-19T21:55:20+02:00",
-      "enlace": "https://www.mundodeportivo.com/tressesenta/20261019/1004240742/katherine-hall-historiadora-sobre-muerte-alejandro-magno-pesar-enfermo-permanecio-pleno-facultades-mentales-conoce-sindrome-guillain-barre-smd-hst.html"
+      "fecha": "2026-10-19T19:07:34+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261019/1004240690/flick-desvela-opciones-defensa.html"
     },
     {
-      "titular": "Afra Blanco: \"Actualmente tenemos un modelo que es que quien más cobra, más aporta\"",
+      "titular": "Àlex Campos, el canterano del Barça convocado para París",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-19T21:51:59+02:00",
-      "enlace": "https://www.mundodeportivo.com/actualidad/20261019/1004240760/afra-blanco-sindicalista-actualmente-modelo-mas-cobra-mas-aporta-propuesta-vox-mas-cobra-mas-ahorra-dnr-dct.html"
+      "fecha": "2026-10-19T11:15:13+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/20261019/1004240469/alex-campos-joven-promesa-barca-convocado-paris.html"
     },
     {
       "titular": "El Club 'Divertido' Lugo se lo pasa en grande: líder, invicto y mejor equipo de Primera RFEF",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/mundial/2026/10/13/netflix-adquiere-derechos-audiovisuales-espana-mundial-2030.html"
     },
     {
-      "titular": "La UCI publica la lista de equipos que han pedido inscripción para 2027... y no está Kern Pharma",
+      "titular": "Laporta: \"El fútbol no se concibe sin Lamine, es un genio\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-19T21:16:06+02:00",
-      "enlace": "https://www.mundodeportivo.com/ciclismo/20261019/1004240767/uci-publica-lista-equipos-han-pedido-inscripcion-2027-no-kern-pharma.html"
+      "fecha": "2026-10-19T17:31:56+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261019/1004240659/laporta-vuelve-atizar-madrid-han-equivocado-pagando-precio.html"
     },
     {
-      "titular": "Los veterinarios coinciden: dormir con tu perro no es malo, pero advierten de algo que muchos pasan por alto",
+      "titular": "Los fichajes del Barça 2026-27 ya vencieron al PSG",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-19T21:13:57+02:00",
-      "enlace": "https://www.mundodeportivo.com/elotromundo/mascotas/20261019/1004240770/veterinarios-coinciden-dormir-perro-no-malo-advierten-propietarios-pasan-alto-dct.html"
+      "fecha": "2026-10-19T07:00:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261019/1004240274/fichajes-barca-2026-27-cargarse-psg.html"
     },
     {
-      "titular": "Juan Manuel, agricultor: \"Estamos hablando de 30 o 33 céntimos el kilo de patata y en el mercado no baja de 2 euros\"",
+      "titular": "Arrasate: \"Siento que Osasuna me necesita y que yo puedo ayudar a Osasuna\"",
       "medios": [
-        "Mundo Deportivo"
+        "Marca"
       ],
       "consenso": 1,
-      "fecha": "2026-10-19T21:05:27+02:00",
-      "enlace": "https://www.mundodeportivo.com/tressesenta/20261019/1004240768/juan-manuel-agricultor-semilla-patata-lleva-mas-2-000-euros-hectarea-hablando-30-33-centimos-kilo-patata-mercado-no-baja-2-euros-dct.html"
+      "fecha": "2026-10-13T12:56:47+02:00",
+      "enlace": "https://www.marca.com/futbol/osasuna/2026/10/13/arrasate-siento-osasuna-me-necesita-ayudar-osasuna.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 6,
+    "antiguedad_minima_min": 88,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 60,
         "error": null,
-        "antiguedad_min": 9153,
+        "antiguedad_min": 9381,
         "descartados_por_gancho": 12
       },
       {
@@ -99,9 +99,9 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 145,
+        "items": 140,
         "error": null,
-        "antiguedad_min": 6,
+        "antiguedad_min": 88,
         "descartados_por_gancho": 3
       },
       {

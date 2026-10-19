@@ -1,18 +1,9 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "ultimas",
-  "generado": "2026-10-19T22:02:08+02:00",
+  "modo": "portadas",
+  "generado": "2026-10-20T01:50:27+02:00",
   "titulares": [
-    {
-      "titular": "Europa da luz verde a la ampliación de indicación para un fármaco destinado al mieloma múltiple",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-19T19:50:22+02:00",
-      "enlace": "https://www.redaccionmedica.com/empresas/industria-farmaceutica/20261019/europa-da-luz-verde-la-ampliacion-de-indicacion-para-un-farmaco-destinado-al-mieloma-multiple/362619_0.html"
-    },
     {
       "titular": "Castilla-La Mancha impulsa la medicina de precisión en su nuevo Plan contra el Cáncer",
       "medios": [
@@ -21,24 +12,6 @@
       "consenso": 1,
       "fecha": "2026-10-19T19:45:14+02:00",
       "enlace": "https://diariofarma.com/2026/10/19/castilla-la-mancha-impulsa-la-medicina-de-precision-en-su-nuevo-plan-contra-el-cancer"
-    },
-    {
-      "titular": "Aguas residuales: el sector, resignado a tener que pagar, exige que el reparto sea justo",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-19T19:36:06+02:00",
-      "enlace": "https://diariofarma.com/2026/10/19/aguas-residuales-el-sector-resignado-a-tener-que-pagar-exige-que-el-reparto-sea-justo"
-    },
-    {
-      "titular": "Cuenta atrás para aplicar la subida salarial en un sector veterinario que pide más pulso sindical: \"Hay nula representación\"",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-19T19:08:12+02:00",
-      "enlace": "https://www.redaccionmedica.com/profesionales/veterinaria/20261019/cuenta-atras-para-aplicar-la-subida-salarial-en-un-sector-veterinario-que-pide-mas-pulso-sindical-hay-nula-representacion/362618_0.html"
     },
     {
       "titular": "Raquel Martínez ingresa en la Academia de Farmacia de Castilla y León y aboga por el farmacéutico como un pilar «indispensable» para los pacientes",
@@ -50,6 +23,24 @@
       "enlace": "https://elglobalfarma.com/farmacia/raquel-martinez-academia-farmacia-castilla-leon-asistencial/"
     },
     {
+      "titular": "Rechazo rotundo de los médicos al nuevo Estatuto Marco y firme voluntad para conseguir uno propio",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-19T07:43:00+02:00",
+      "enlace": "https://www.redaccionmedica.com/profesionales/medicina/20261019/rechazo-rotundo-de-los-medicos-al-nuevo-estatuto-marco-firme-voluntad-para-conseguir-uno-propio/362375_0.html"
+    },
+    {
+      "titular": "Aguas residuales: el sector, resignado a tener que pagar, exige que el reparto sea justo",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-19T19:36:06+02:00",
+      "enlace": "https://diariofarma.com/2026/10/19/aguas-residuales-el-sector-resignado-a-tener-que-pagar-exige-que-el-reparto-sea-justo"
+    },
+    {
       "titular": "El gran reto del farmacéutico en época de resfriados: encontrar la mejor opción para cada síntoma",
       "medios": [
         "El Global"
@@ -57,6 +48,15 @@
       "consenso": 1,
       "fecha": "2026-10-19T17:11:27+02:00",
       "enlace": "https://elglobalfarma.com/farmacia/autocuidado/gran-reto-farmaceutico-resfriados/"
+    },
+    {
+      "titular": "Los facultativos ven justificada una huelga médica indefinida para tumbar el Estatuto Marco",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-19T05:00:00+02:00",
+      "enlace": "https://www.redaccionmedica.com/profesionales/medicina/20261019/los-facultativos-ven-justificada-una-huelga-medica-indefinida-para-tumbar-el-estatuto-marco/362393_0.html"
     },
     {
       "titular": "Las nuevas rutas formativas marcan el inicio del programa de formación del COFB",
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 131,
+    "antiguedad_minima_min": 360,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 136,
+        "antiguedad_min": 365,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 186,
+        "antiguedad_min": 415,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 28,
         "error": null,
-        "antiguedad_min": 131,
+        "antiguedad_min": 360,
         "descartados_por_gancho": 2
       },
       {
