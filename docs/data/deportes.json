@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-10-19T16:14:51+02:00",
+  "generado": "2026-10-19T22:02:02+02:00",
   "titulares": [
     {
-      "titular": "Estos 5 alimentos baratos son los que mejoran realmente tu rendimiento",
+      "titular": "Historiadora sobre la muerte de Alejandro Magno: \"Posiblemente estemos ante el caso más famoso de falso diagnóstico de muerte\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-19T15:49:09+02:00",
-      "enlace": "https://www.mundodeportivo.com/solobici/20261019/1004240599/entrenadores-coinciden-no-malgastes-dinero-cinco-alimentos-baratos-son-mejoran-realmente-rendimiento-deportista.html"
+      "fecha": "2026-10-19T21:55:20+02:00",
+      "enlace": "https://www.mundodeportivo.com/tressesenta/20261019/1004240742/katherine-hall-historiadora-sobre-muerte-alejandro-magno-pesar-enfermo-permanecio-pleno-facultades-mentales-conoce-sindrome-guillain-barre-smd-hst.html"
     },
     {
-      "titular": "Los entrenadores coinciden sobre las personas que van al gimnasio antes de trabajar",
+      "titular": "Afra Blanco: \"Actualmente tenemos un modelo que es que quien más cobra, más aporta\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-19T15:40:57+02:00",
-      "enlace": "https://www.mundodeportivo.com/running/20261019/1004240603/entrenadores-coinciden-personas-ejercicio-fuerza-manana-suelen-mas-energia-trabajo-dct.html"
+      "fecha": "2026-10-19T21:51:59+02:00",
+      "enlace": "https://www.mundodeportivo.com/actualidad/20261019/1004240760/afra-blanco-sindicalista-actualmente-modelo-mas-cobra-mas-aporta-propuesta-vox-mas-cobra-mas-ahorra-dnr-dct.html"
     },
     {
       "titular": "El Club 'Divertido' Lugo se lo pasa en grande: líder, invicto y mejor equipo de Primera RFEF",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/mundial/2026/10/13/netflix-adquiere-derechos-audiovisuales-espana-mundial-2030.html"
     },
     {
-      "titular": "El Circuit Català de Trofeus abre curso y corona a Adrián Santos y al Sant Andreu del anterior",
+      "titular": "La UCI publica la lista de equipos que han pedido inscripción para 2027... y no está Kern Pharma",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-19T15:39:26+02:00",
-      "enlace": "https://www.mundodeportivo.com/natacion/20261019/1004240593/circuit-catala-trofeus-presenta-corona-adrian-santos-sant-andreu.html"
+      "fecha": "2026-10-19T21:16:06+02:00",
+      "enlace": "https://www.mundodeportivo.com/ciclismo/20261019/1004240767/uci-publica-lista-equipos-han-pedido-inscripcion-2027-no-kern-pharma.html"
     },
     {
-      "titular": "El PSG sí podrá contar con los 'tocados' Akliouche y Mayulu, dos verdugos del Barça",
+      "titular": "Los veterinarios coinciden: dormir con tu perro no es malo, pero advierten de algo que muchos pasan por alto",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-19T15:37:31+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261019/1004240597/psg-podra-contar-tocados-akliouche-mayulu-dos-verdugos-barca.html"
+      "fecha": "2026-10-19T21:13:57+02:00",
+      "enlace": "https://www.mundodeportivo.com/elotromundo/mascotas/20261019/1004240770/veterinarios-coinciden-dormir-perro-no-malo-advierten-propietarios-pasan-alto-dct.html"
     },
     {
-      "titular": "Doble alerta amarilla en el Espanyol",
+      "titular": "Juan Manuel, agricultor: \"Estamos hablando de 30 o 33 céntimos el kilo de patata y en el mercado no baja de 2 euros\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-19T15:25:12+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/rcd-espanyol/20261019/1004240596/doble-alerta-amarilla-espanyol.html"
+      "fecha": "2026-10-19T21:05:27+02:00",
+      "enlace": "https://www.mundodeportivo.com/tressesenta/20261019/1004240768/juan-manuel-agricultor-semilla-patata-lleva-mas-2-000-euros-hectarea-hablando-30-33-centimos-kilo-patata-mercado-no-baja-2-euros-dct.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 25,
+    "antiguedad_minima_min": 6,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 60,
         "error": null,
-        "antiguedad_min": 8806,
+        "antiguedad_min": 9153,
         "descartados_por_gancho": 12
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 137,
+        "items": 145,
         "error": null,
-        "antiguedad_min": 25,
-        "descartados_por_gancho": 4
+        "antiguedad_min": 6,
+        "descartados_por_gancho": 3
       },
       {
         "medio": "Sport",
