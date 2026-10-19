@@ -2,17 +2,8 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-10-19T03:29:34+02:00",
+  "generado": "2026-10-19T08:40:31+02:00",
   "titulares": [
-    {
-      "titular": "El Madrid se aleja del mal juego pero no de la polémica",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-18T23:02:50+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20261018/1004240356/madrid-aleja-mal-juego-no-polemica-victoria-sevilla.html"
-    },
     {
       "titular": "Crónica de un atraco anunciado",
       "medios": [
@@ -21,6 +12,15 @@
       "consenso": 1,
       "fecha": "2026-10-18T23:02:09+02:00",
       "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20261018/1004240362/cronica-atraco-anunciado.html"
+    },
+    {
+      "titular": "Lamine Yamal vs. Dembélé, el duelo bestial",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-19T06:30:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261019/1004240371/lamine-yamal-vs-dembele-duelo-bestial.html"
     },
     {
       "titular": "El Club 'Divertido' Lugo se lo pasa en grande: líder, invicto y mejor equipo de Primera RFEF",
@@ -41,13 +41,13 @@
       "enlace": "https://www.marca.com/futbol/mundial/2026/10/13/netflix-adquiere-derechos-audiovisuales-espana-mundial-2030.html"
     },
     {
-      "titular": "Luis García: “Quizá no le llaman del VAR para que no lleguen al Clásico a 9 puntos”",
+      "titular": "4-1: El Madrid se aleja del mal juego pero no de la polémica",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-18T23:45:18+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20261018/1004240374/luis-garcia-han-privado-jugar-partido-once-diez.html"
+      "fecha": "2026-10-18T23:02:50+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20261018/1004240356/madrid-aleja-mal-juego-no-polemica-victoria-sevilla.html"
     },
     {
       "titular": "Arrasate: \"Siento que Osasuna me necesita y que yo puedo ayudar a Osasuna\"",
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 177,
+    "antiguedad_minima_min": 29,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 60,
         "error": null,
-        "antiguedad_min": 8040,
+        "antiguedad_min": 8351,
         "descartados_por_gancho": 12
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 140,
+        "items": 134,
         "error": null,
-        "antiguedad_min": 177,
-        "descartados_por_gancho": 5
+        "antiguedad_min": 29,
+        "descartados_por_gancho": 4
       },
       {
         "medio": "Sport",

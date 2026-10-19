@@ -2,7 +2,7 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "portadas",
-  "generado": "2026-10-19T03:29:39+02:00",
+  "generado": "2026-10-19T08:40:37+02:00",
   "titulares": [
     {
       "titular": "Galicia arranca en 14 hospitales el ensayo de la vacuna combinada de gripe/covid para mayores de 65",
@@ -14,13 +14,13 @@
       "enlace": "https://diariofarma.com/2026/10/18/galciia-arranca-en-14-hospitales-el-ensayo-sobre-la-vacuna-combinada-de-gripe-y-covidpara-mayores-de-65-anos"
     },
     {
-      "titular": "Los pacientes fijan sus prioridades ante el 29N: desbloqueo de la ley y tijeretazo a las listas de espera",
+      "titular": "Rechazo rotundo de los médicos al nuevo Estatuto Marco y firme voluntad para conseguir uno propio",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-10-18T18:37:53+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/20261018/los-pacientes-fijan-sus-prioridades-ante-el-desbloqueo-de-la-ley-tijeretazo-las-listas-espera/362181_0.html"
+      "fecha": "2026-10-19T05:00:00+02:00",
+      "enlace": "https://www.redaccionmedica.com/profesionales/medicina/20261019/rechazo-rotundo-de-los-medicos-al-nuevo-estatuto-marco-firme-voluntad-para-conseguir-uno-propio/362375_0.html"
     },
     {
       "titular": "Ifpma: un 1% más de vacunación antigripal evitaría más de 18.000 hospitalizaciones al año",
@@ -41,13 +41,13 @@
       "enlace": "https://elglobalfarma.com/opinion/editorial/nueva-etapa-mucho-juego/"
     },
     {
-      "titular": "La sanidad concertada catalana busca avanzar hacia la armonización de condiciones",
+      "titular": "Los facultativos ven justificada una huelga médica indefinida para tumbar el Estatuto Marco",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-10-18T15:55:04+02:00",
-      "enlace": "https://www.redaccionmedica.com/autonomias/catalunya/20261018/la-sanidad-concertada-catalana-busca-avanzar-hacia-la-armonizacion-de-condiciones/361116_0.html"
+      "fecha": "2026-10-19T05:00:00+02:00",
+      "enlace": "https://www.redaccionmedica.com/profesionales/medicina/20261019/los-facultativos-ven-justificada-una-huelga-medica-indefinida-para-tumbar-el-estatuto-marco/362393_0.html"
     },
     {
       "titular": "El CHMP emite opinión positiva para seis medicamentos en su reunión de octubre",
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 531,
+    "antiguedad_minima_min": 213,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 582,
+        "antiguedad_min": 893,
         "descartados_por_gancho": 0
       },
       {
@@ -93,17 +93,17 @@
         "ok": true,
         "items": 8,
         "error": null,
-        "antiguedad_min": 3684,
+        "antiguedad_min": 3995,
         "descartados_por_gancho": 2
       },
       {
         "medio": "Redacción Médica",
         "url": "https://www.redaccionmedica.com/rss/",
         "ok": true,
-        "items": 29,
+        "items": 28,
         "error": null,
-        "antiguedad_min": 531,
-        "descartados_por_gancho": 1
+        "antiguedad_min": 213,
+        "descartados_por_gancho": 2
       },
       {
         "medio": "PMFarma",

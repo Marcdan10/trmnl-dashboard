@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-10-19T03:29:31+02:00",
+  "generado": "2026-10-19T08:40:26+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -14,31 +14,31 @@
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
     },
     {
-      "titular": "Macron acusa a la “extrema izquierda” de inflamar la calle",
+      "titular": "El Gobierno arranca los “martes sociales” con un decreto para mejorar las prestaciones por viudedad, incapacidad, para víctimas del terrorismo y de violencia de género",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-18T20:53:03+02:00",
-      "enlace": "https://elpais.com/internacional/2026-10-18/macron-acusa-a-la-extrema-izquierda-de-inflamar-la-calle.html"
+      "fecha": "2026-10-19T05:30:01+02:00",
+      "enlace": "https://elpais.com/espana/2026-10-19/el-gobierno-arranca-los-martes-sociales-con-un-decreto-para-mejorar-las-prestaciones-por-viudedad-incapacidad-para-victimas-del-terrorismo-y-de-violencia-de-genero.html"
     },
     {
-      "titular": "Feijóo marca Catalunya como un territorio clave para llegar a la Moncloa tras las elecciones del 29-N",
+      "titular": "Conmoción en Francia por la furia desatada en las protestas",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-10-19T00:05:00+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20261019/11662138/feijoo-marca-catalunya-territorio-clave-llegar-moncloa-elecciones-29-n.html"
+      "fecha": "2026-10-18T10:58:03+02:00",
+      "enlace": "https://www.lavanguardia.com/internacional/20261018/11661928/conmocion-francia-magnitud-destrozos-criticas-gobierno.html"
     },
     {
-      "titular": "Baleares suspende las clases en plena alerta roja y con la UME desplegada por la dana Adam",
+      "titular": "El premio es quedarse con Isabel Allende",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-10-19T02:59:20+02:00",
-      "enlace": "https://www.abc.es/espana/baleares/ume-desplegara-ibiza-mallorca-colaborar-incidencias-provocadas-20261018180145-nt.html"
+      "fecha": "2026-10-19T08:28:33+02:00",
+      "enlace": "https://www.abc.es/cultura/verdadero-premio-quedarse-isabel-allende-20261018010742-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -50,22 +50,22 @@
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
     },
     {
-      "titular": "Los disturbios vuelven al centro de París un día después de la gran revuelta",
+      "titular": "El Constitucional discute si intervenir ya en la controversia sobre la suspensión del derecho al voto de 160.000 españoles por la ‘ley de nietos’",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-18T18:46:26+02:00",
-      "enlace": "https://elpais.com/internacional/2026-10-18/los-disturbios-vuelven-al-centro-de-paris-un-dia-despues-de-la-gran-revuelta.html"
+      "fecha": "2026-10-19T05:30:01+02:00",
+      "enlace": "https://elpais.com/espana/2026-10-19/el-constitucional-discute-si-intervenir-ya-en-la-controversia-sobre-la-suspension-del-derecho-al-voto-de-160000-espanoles-por-la-ley-de-nietos.html"
     },
     {
-      "titular": "Francia en llamas, Italia en tensión, España abre la válvula electoral",
+      "titular": "Una ola de violencia juvenil sacude el centro de Milán",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-10-18T06:00:00+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20261018/11661657/francia-llamas-italia-tension-espana-abre-valvula-electoral.html"
+      "fecha": "2026-10-18T20:07:05+02:00",
+      "enlace": "https://www.lavanguardia.com/internacional/20261018/11662126/ola-violencia-juvenil-sacude-centro-milan.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 12,
+    "antiguedad_minima_min": 11,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2292624,
+        "antiguedad_min": 2292935,
         "descartados_por_gancho": 0
       },
       {
@@ -97,19 +97,19 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 137,
+        "items": 136,
         "error": null,
-        "antiguedad_min": 12,
-        "descartados_por_gancho": 8
+        "antiguedad_min": 16,
+        "descartados_por_gancho": 13
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 136,
+        "items": 123,
         "error": null,
-        "antiguedad_min": 168,
-        "descartados_por_gancho": 23
+        "antiguedad_min": 77,
+        "descartados_por_gancho": 17
       },
       {
         "medio": "ABC",
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 24,
         "error": null,
-        "antiguedad_min": 30,
+        "antiguedad_min": 11,
         "descartados_por_gancho": 1
       }
     ]
