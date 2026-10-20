@@ -1,26 +1,26 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "portadas",
-  "generado": "2026-10-20T10:18:52+02:00",
+  "modo": "ultimas",
+  "generado": "2026-10-20T15:44:21+02:00",
   "titulares": [
     {
-      "titular": "Desafío en París antes del Clásico",
+      "titular": "Máximo optimismo entre la afición del Barça en París",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-20T06:00:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261020/1004240857/desafio-paris-clasico.html"
+      "fecha": "2026-10-20T15:12:31+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261020/1004241042/maximo-optimismo-aficion-barca-paris.html"
     },
     {
-      "titular": "Horario y canal del PSG - Barcelona: dónde ver por TV el partido",
+      "titular": "Protege tu coche (y a ti mismo) con las dashcams mejor valoradas de 2026 que cuestan menos de 100 euros",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-19T18:47:18+02:00",
-      "enlace": "https://www.mundodeportivo.com/horarios/futbol/20261018/1004240320/horario-canal-ver-tv-psg-barcelona-uefa-champions-league.html"
+      "fecha": "2026-10-20T15:01:35+02:00",
+      "enlace": "https://www.mundodeportivo.com/elrecomendador/motor/20261020/1004240978/protege-coche-dashcams-mejor-valoradas-2026-100-euros-mkt-alie.html"
     },
     {
       "titular": "El Club 'Divertido' Lugo se lo pasa en grande: líder, invicto y mejor equipo de Primera RFEF",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/mundial/2026/10/13/netflix-adquiere-derechos-audiovisuales-espana-mundial-2030.html"
     },
     {
-      "titular": "Crece el escándalo del Real Madrid-Sevilla: \"Se decidió no dar esa repetición\"",
+      "titular": "\"Ha habido entendimiento total entre el club, yo y mis agentes\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-20T08:31:55+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20261020/1004240872/sergio-carranza.html"
+      "fecha": "2026-10-20T14:51:16+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/celta-vigo/20261020/1004241036/habido-entendimiento-total-club-mis-agentes.html"
     },
     {
-      "titular": "Arrasate: \"Siento que Osasuna me necesita y que yo puedo ayudar a Osasuna\"",
-      "medios": [
-        "Marca"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-13T12:56:47+02:00",
-      "enlace": "https://www.marca.com/futbol/osasuna/2026/10/13/arrasate-siento-osasuna-me-necesita-ayudar-osasuna.html"
-    },
-    {
-      "titular": "El posible once del Barça ante el PSG",
+      "titular": "Djené, camino de entrar al top histórico de más 'leñeros' de LaLiga",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-20T05:30:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261020/1004240860/posible-once-barca-psg.html"
+      "fecha": "2026-10-20T14:47:23+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/laliga/20261020/1004241012/djene-camino-entrar-top-historico-expulsados-laliga.html"
+    },
+    {
+      "titular": "Descubre que su marido tiene una doble vida gracias al Gordo de la Lotería y le pide la mitad del premio",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-20T14:37:39+02:00",
+      "enlace": "https://www.mundodeportivo.com/tressesenta/20261020/1004241027/descubre-marido-doble-vida-gracias-gordo-loteria-le-pide-mitad-premio-109-000-euros-dnr-dct.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 22,
+    "antiguedad_minima_min": 31,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 60,
         "error": null,
-        "antiguedad_min": 9890,
+        "antiguedad_min": 10215,
         "descartados_por_gancho": 12
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 135,
+        "items": 133,
         "error": null,
-        "antiguedad_min": 22,
-        "descartados_por_gancho": 4
+        "antiguedad_min": 31,
+        "descartados_por_gancho": 7
       },
       {
         "medio": "Sport",
