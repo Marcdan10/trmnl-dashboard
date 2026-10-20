@@ -2,8 +2,44 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-10-20T20:14:05+02:00",
+  "generado": "2026-10-20T23:46:40+02:00",
   "titulares": [
+    {
+      "titular": "Netflix factura un 12% más, pero decepciona con sus previsiones",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-20T22:56:46+02:00",
+      "enlace": "https://www.expansion.com/tecnologia/2026/10/20/netflix-cumple-previsiones-facturar-12.html"
+    },
+    {
+      "titular": "SpaceX dispara un 161% su facturación y entra en beneficios en el trimestre",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-20T22:50:16+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/10/20/6ad7a913e5fdea9e2e8b456f.html"
+    },
+    {
+      "titular": "Anthropic perdió 72.000 millones entre enero y junio",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-20T22:43:49+02:00",
+      "enlace": "https://www.expansion.com/tecnologia/2026/10/20/anthropic-perdio-72-000-millones-enero-junio.html"
+    },
+    {
+      "titular": "Chris Hohn sube al 13% en Ferrovial en pleno avance en EEUU",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-20T20:48:35+02:00",
+      "enlace": "https://www.expansion.com/empresas/construccion-servicios/2026/10/20/6ad7b77f468aeb9c578b459f.html"
+    },
     {
       "titular": "Stellantis anuncia la fabricación de un segundo modelo de Leapmotor en Zaragoza",
       "medios": [
@@ -30,42 +66,6 @@
       "consenso": 1,
       "fecha": "2026-10-20T19:33:35+02:00",
       "enlace": "https://www.expansion.com/economia/2026/10/20/gobierno-aprobara-ano-subida-sueldo-funcionarios-5.html"
-    },
-    {
-      "titular": "Telefónica y sus socios retan al regulador británico en la compra de Netomnia y no presentan remedios",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-20T19:17:37+02:00",
-      "enlace": "https://www.expansion.com/empresas/telecomunicaciones/2026/10/20/6ad79eba468aeb7d728b45a2.html"
-    },
-    {
-      "titular": "Eduardo Dívar (Kia): \"Nunca habían entrado 40 marcas nuevas de golpe; hay inflación de todo\"",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-20T18:23:46+02:00",
-      "enlace": "https://www.expansion.com/empresas/motor/2026/10/20/6ad77f92e5fdeaa65b8b458b.html"
-    },
-    {
-      "titular": "Carrefour rebaja sus previsiones por los disturbios en Francia: \"Es una situación sin precedentes\"",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-20T18:23:30+02:00",
-      "enlace": "https://www.expansion.com/empresas/distribucion/2026/10/20/6ad790ede5fdea4b068b4593.html"
-    },
-    {
-      "titular": "O'Leary (Ryanair) alerta de la \"mayor subida en la historia\" de las tarifas aéreas, hasta un 20%",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-20T18:21:27+02:00",
-      "enlace": "https://www.expansion.com/empresas/transporte/2026/10/20/6ad7923de5fdea4b068b459a.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 18,
+    "antiguedad_minima_min": 49,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 79,
+        "items": 81,
         "error": null,
-        "antiguedad_min": 18,
+        "antiguedad_min": 49,
         "descartados_por_gancho": 1
       },
       {

@@ -2,8 +2,17 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "ultimas",
-  "generado": "2026-10-20T20:14:14+02:00",
+  "generado": "2026-10-20T23:46:49+02:00",
   "titulares": [
+    {
+      "titular": "El Gobierno garantiza la subida salarial del 5% para los profesionales sanitarios en 2027",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-20T20:37:33+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/20261020/el-gobierno-garantiza-la-subida-salarial-del-para-los-profesionales-sanitarios-en/362854_0.html"
+    },
     {
       "titular": "Galicia creará 48 plazas de farmacia de atención primaria dentro de su plan de reforma de AP",
       "medios": [
@@ -30,15 +39,6 @@
       "consenso": 1,
       "fecha": "2026-10-20T18:30:40+02:00",
       "enlace": "https://www.redaccionmedica.com/longevidad/20261020/necesitamos-una-buena-gobernanza-tecnologica-en-los-cribados-para-un-diagnostico-molecular-mas-rapido-seguro/362622_0.html"
-    },
-    {
-      "titular": "\"Cuando hacemos una detección temprana o hipertemprana de cáncer, curamos prácticamente al 90% de los pacientes\"",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-20T18:30:15+02:00",
-      "enlace": "https://www.redaccionmedica.com/longevidad/20261020/cuando-hacemos-una-deteccion-temprana-hipertemprana-curamos-practicamente-al-de-los-pacientes/362628_0.html"
     },
     {
       "titular": "«El mejor GLP-1 será aquel que el paciente pueda utilizar e integrar más fácilmente en su vida cotidiana»",
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 4,
+    "antiguedad_minima_min": 189,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 4,
+        "antiguedad_min": 217,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 144,
+        "antiguedad_min": 357,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 28,
         "error": null,
-        "antiguedad_min": 103,
+        "antiguedad_min": 189,
         "descartados_por_gancho": 2
       },
       {

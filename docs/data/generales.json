@@ -2,25 +2,25 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-10-20T20:14:02+02:00",
+  "generado": "2026-10-20T23:46:35+02:00",
   "titulares": [
     {
-      "titular": "La UCO cuestiona la veracidad del tiroteo al coche de Aldama",
+      "titular": "El PSG de Luis Enrique alecciona al Barcelona en la Champions",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-20T20:10:19+02:00",
-      "enlace": "https://elpais.com/espana/2026-10-20/la-uco-cuestiona-la-veracidad-del-tiroteo-al-coche-de-aldama.html"
+      "fecha": "2026-10-20T23:38:21+02:00",
+      "enlace": "https://elpais.com/deportes/futbol/2026-10-20/el-psg-de-luis-enrique-alecciona-al-barcelona-en-la-champions.html"
     },
     {
-      "titular": "El Supremo se adelanta al TC y aplica la amnistía a Junqueras con críticas a Pumpido",
+      "titular": "Primer gol de Julián y resistencia: el Atlético defiende el empate con diez ante el Stuttgart",
       "medios": [
-        "ABC"
+        "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-20T19:56:07+02:00",
-      "enlace": "https://www.abc.es/espana/supremo-adelanta-tc-aplica-amnistia-junqueras-presos-20261020131014-nt.html"
+      "fecha": "2026-10-20T23:35:41+02:00",
+      "enlace": "https://elpais.com/deportes/futbol/2026-10-20/primer-gol-de-julian-y-resistencia-el-atletico-defiende-el-empate-con-diez-ante-el-stuttgart.html"
     },
     {
       "titular": "Del 1-O a la amnistía: el traje a medida para borrar el 'procés'",
@@ -28,36 +28,35 @@
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-10-20T19:54:56+02:00",
+      "fecha": "2026-10-20T23:28:38+02:00",
       "enlace": "https://www.abc.es/espana/amnistia-traje-medida-borrar-proces-20261010194659-nt.html"
     },
     {
-      "titular": "El juez envía a prisión por terrorismo a los dos disidentes de la izquierda ‘abertzale’ detenidos por la Ertzaintza",
+      "titular": "Medio siglo después, Patti Smith aún tiene el poder",
       "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-20T19:52:47+02:00",
-      "enlace": "https://elpais.com/espana/2026-10-20/el-juez-envia-a-prision-por-terrorismo-a-los-dos-disidentes-de-la-izquierda-abertzale-detenidos-por-la-ertzaintza.html"
-    },
-    {
-      "titular": "Detenido un profesor en Madrid por violar a una decena de alumnos de entre 12 y 15 años",
-      "medios": [
-        "La Vanguardia",
         "ABC"
       ],
-      "consenso": 2,
-      "fecha": "2026-10-20T19:51:10+02:00",
-      "enlace": "https://www.abc.es/espana/madrid/detenido-profesor-colegio-junto-gran-via-violar-20261020142840-nt.html"
+      "consenso": 1,
+      "fecha": "2026-10-20T23:27:56+02:00",
+      "enlace": "https://www.abc.es/cultura/musica/medio-siglo-despues-patti-smith-poder-20261020213651-nt.html"
     },
     {
-      "titular": "Banca March inicia su internacionalización con una filial en Luxemburgo y oficinas en Lisboa",
+      "titular": "Un inmenso PSG noquea al Barça al final",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-10-20T19:10:13+02:00",
-      "enlace": "https://www.lavanguardia.com/dinero/20261020/11663933/banca-march-inicia-internacionalizacion-filial-luxemburgo-oficinas-lisboa.html"
+      "fecha": "2026-10-20T23:04:15+02:00",
+      "enlace": "https://www.lavanguardia.com/deportes/fc-barcelona/20261020/11663775/inmenso-psg-noquea-barca-final.html"
+    },
+    {
+      "titular": "Lluís Puig vuelve este miércoles a Catalunya y asistirá el jueves al pleno del Parlament",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-20T22:43:53+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20261020/11662810/lluis-puig-vuelve-miercoles-catalunya-asistira-jueves-pleno-parlament.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -75,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 3,
+    "antiguedad_minima_min": 8,
     "detalle": [
       {
         "medio": "RTVE",
@@ -83,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2295069,
+        "antiguedad_min": 2295281,
         "descartados_por_gancho": 0
       },
       {
@@ -91,35 +90,35 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 403",
+        "error": "HTTP 500",
         "antiguedad_min": null
       },
       {
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 141,
+        "items": 139,
         "error": null,
-        "antiguedad_min": 3,
+        "antiguedad_min": 8,
         "descartados_por_gancho": 5
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 140,
+        "items": 143,
         "error": null,
-        "antiguedad_min": 63,
-        "descartados_por_gancho": 14
+        "antiguedad_min": 42,
+        "descartados_por_gancho": 13
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 25,
+        "items": 24,
         "error": null,
         "antiguedad_min": 17,
-        "descartados_por_gancho": 0
+        "descartados_por_gancho": 1
       }
     ]
   }

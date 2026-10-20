@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-10-20T20:14:07+02:00",
+  "generado": "2026-10-20T23:46:42+02:00",
   "titulares": [
     {
-      "titular": "Olmo llega en París a los 100 partidos con el Barça",
+      "titular": "Daiki Hashimoto conduce a Japón hacia el título mundial",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-20T19:57:17+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261020/1004241167/olmo-llega-paris-100-partidos-barca.html"
+      "fecha": "2026-10-20T23:21:24+02:00",
+      "enlace": "https://www.mundodeportivo.com/gimnasia/20261020/1004241249/daiki-hashimoto-conduce-japon-titulo-mundial.html"
     },
     {
-      "titular": "63-79: Triunfo cómodo del Unicaja en República Checa",
+      "titular": "Grimaldo: \"Una pena la expulsión, sentíamos que podíamos darle la vuelta al partido\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-20T19:56:37+02:00",
-      "enlace": "https://www.mundodeportivo.com/baloncesto/basketball-champions-league/20261020/1004241188/63-79-triunfo-comodo-unicaja-republica-checa.html"
+      "fecha": "2026-10-20T23:19:54+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20261020/1004241250/grimaldo-pena-expulsion-sentiamos-podiamos-darle-vuelta-partido.html"
     },
     {
       "titular": "Elena Morales, arquitecta: \"El 'pecho de paloma' es la solución más económica para evitar que la humedad arruine la fachada\"",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/premier-league/2026/10/20/david-raya-futuro-me-encantaria-video.html"
     },
     {
-      "titular": "El CTA da por bien anulado el gol de Lo Celso ante el Barça y no analiza el codazo de Güler",
+      "titular": "Llegan a Aldi y arrasará: 3 paquetes de fideos con auriculares de regalo por 4,99 euros",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-20T19:52:32+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261020/1004241184/cta-da-anulado-gol-celso-barca-no-analiza-codazo-gueler.html"
+      "fecha": "2026-10-20T23:12:35+02:00",
+      "enlace": "https://www.mundodeportivo.com/actualidad/consumo/20261020/1004241248/llegan-aldi-prometen-agotarse-estanterias-3-paquetes-fideos-orientales-auriculares-inalambricos-regalo-4-99-euros-dct.html"
     },
     {
-      "titular": "12-11. Italia supera a una España que rema pero que no llega a tiempo",
+      "titular": "Oblak: \"Un punto es mejor que ninguno; pero necesitamos sumar para estar arriba y pasar\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-20T19:50:54+02:00",
-      "enlace": "https://www.mundodeportivo.com/waterpolo/20261020/1004241185/12-11-italia-supera-espana-rema-no-llega.html"
+      "fecha": "2026-10-20T23:11:50+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20261020/1004241247/oblak-punto-mejor-ninguno-necesitamos-sumar-pasar.html"
     },
     {
-      "titular": "Martín Molina: \"Me preocupa poder explicar por qué llegamos a la Guerra Civil\"",
+      "titular": "4-0: La Roma se da un festín ante el Slovan y se reconcilia con la Champions",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-20T19:50:41+02:00",
-      "enlace": "https://www.mundodeportivo.com/tressesenta/20261020/1004241141/martin-molina-historiador-sobre-guerra-civil-me-preocupa-explicar-llegamos-episodio-dramatico-historia-espana-smd-hst.html"
+      "fecha": "2026-10-20T23:10:28+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/champions-league/20261020/1004241243/roma-da-festin-slovan-reconcilia-champions.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 16,
+    "antiguedad_minima_min": 25,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 72,
         "error": null,
-        "antiguedad_min": 211,
+        "antiguedad_min": 424,
         "descartados_por_gancho": 0
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 133,
+        "items": 134,
         "error": null,
-        "antiguedad_min": 16,
-        "descartados_por_gancho": 8
+        "antiguedad_min": 25,
+        "descartados_por_gancho": 6
       },
       {
         "medio": "Sport",

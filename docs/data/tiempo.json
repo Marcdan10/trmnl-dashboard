@@ -1,31 +1,7 @@
 {
   "ciudad": "Barcelona",
-  "generado": "2026-10-20T18:14:15",
+  "generado": "2026-10-20T21:46:50",
   "horas": [
-    {
-      "hora": "19",
-      "temp": 19,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "sol"
-    },
-    {
-      "hora": "20",
-      "temp": 18,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "luna"
-    },
-    {
-      "hora": "21",
-      "temp": 18,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "luna"
-    },
     {
       "hora": "22",
       "temp": 17,
@@ -97,6 +73,30 @@
       "mm": 0,
       "mostrar_prob": false,
       "icono": "nube"
+    },
+    {
+      "hora": "07",
+      "temp": 15,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "nube"
+    },
+    {
+      "hora": "08",
+      "temp": 15,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "nube"
+    },
+    {
+      "hora": "09",
+      "temp": 15,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "nube"
     }
   ],
   "dias": [
@@ -104,9 +104,9 @@
       "etiqueta": "mié 21",
       "max": 22,
       "min": 15,
-      "prob": 18,
+      "prob": 5,
       "mm": 0,
-      "mostrar_prob": true,
+      "mostrar_prob": false,
       "destacar": false,
       "icono": "nube"
     },
@@ -114,7 +114,7 @@
       "etiqueta": "jue 22",
       "max": 19,
       "min": 15,
-      "prob": 45,
+      "prob": 33,
       "mm": 1.1,
       "mostrar_prob": true,
       "destacar": false,
@@ -122,9 +122,9 @@
     },
     {
       "etiqueta": "vie 23",
-      "max": 21,
+      "max": 22,
       "min": 17,
-      "prob": 1,
+      "prob": 2,
       "mm": 0,
       "mostrar_prob": false,
       "destacar": false,
@@ -132,19 +132,19 @@
     },
     {
       "etiqueta": "sáb 24",
-      "max": 20,
+      "max": 19,
       "min": 15,
-      "prob": 13,
-      "mm": 0,
+      "prob": 10,
+      "mm": 0.3,
       "mostrar_prob": true,
       "destacar": false,
       "icono": "nube"
     },
     {
       "etiqueta": "dom 25",
-      "max": 23,
+      "max": 22,
       "min": 15,
-      "prob": 2,
+      "prob": 0,
       "mm": 0,
       "mostrar_prob": false,
       "destacar": false,
