@@ -2,7 +2,7 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "portadas",
-  "generado": "2026-10-20T01:50:27+02:00",
+  "generado": "2026-10-20T04:59:03+02:00",
   "titulares": [
     {
       "titular": "Castilla-La Mancha impulsa la medicina de precisión en su nuevo Plan contra el Cáncer",
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 360,
+    "antiguedad_minima_min": 548,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 365,
+        "antiguedad_min": 553,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 415,
+        "antiguedad_min": 603,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 28,
         "error": null,
-        "antiguedad_min": 360,
+        "antiguedad_min": 548,
         "descartados_por_gancho": 2
       },
       {

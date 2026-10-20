@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-10-20T01:50:15+02:00",
+  "generado": "2026-10-20T04:58:52+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -32,13 +32,13 @@
       "enlace": "https://www.lavanguardia.com/local/valencia/20261020/11662975/dana-adam-deja-cuatro-muertos-tres-valencia-andalucia.html"
     },
     {
-      "titular": "El precedente del amparo 'preventivo' del Defensor del Pueblo: fue en 1984, y se retiró al personarse los afectados",
+      "titular": "París, bajo toque de queda: la calma después de los saqueos",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-10-20T01:36:17+02:00",
-      "enlace": "https://www.abc.es/espana/precedente-historico-amparo-defensor-pueblo-1984-retiro-20261019013330-nt.html"
+      "fecha": "2026-10-20T02:35:35+02:00",
+      "enlace": "https://www.abc.es/internacional/paris-bajo-toque-queda-calma-despues-saqueos-20261020022758-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 13,
+    "antiguedad_minima_min": 143,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2293965,
+        "antiguedad_min": 2294153,
         "descartados_por_gancho": 0
       },
       {
@@ -99,7 +99,7 @@
         "ok": true,
         "items": 147,
         "error": null,
-        "antiguedad_min": 63,
+        "antiguedad_min": 252,
         "descartados_por_gancho": 7
       },
       {
@@ -108,17 +108,17 @@
         "ok": true,
         "items": 127,
         "error": null,
-        "antiguedad_min": 80,
+        "antiguedad_min": 268,
         "descartados_por_gancho": 12
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 22,
+        "items": 23,
         "error": null,
-        "antiguedad_min": 13,
-        "descartados_por_gancho": 3
+        "antiguedad_min": 143,
+        "descartados_por_gancho": 2
       }
     ]
   }

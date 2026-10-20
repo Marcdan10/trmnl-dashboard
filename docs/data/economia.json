@@ -2,70 +2,70 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "portadas",
-  "generado": "2026-10-20T01:50:19+02:00",
+  "generado": "2026-10-20T04:58:55+02:00",
   "titulares": [
     {
-      "titular": "La prima de riesgo se dispara en Francia en plena oleada de disturbios",
+      "titular": "La banca española tiene 20.000 millones de euros en deuda soberana francesa",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-19T12:43:26+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/10/19/prima-riesgo-dispara-francia-plena-oleada-disturbios.html"
+      "fecha": "2026-10-20T01:48:47+02:00",
+      "enlace": "https://www.expansion.com/empresas/banca/2026/10/20/6ad657ff468aeb6a078b4590.html"
     },
     {
-      "titular": "Así es el 'contrato con España' de Feijóo: vivienda, pensiones e impuestos como protagonistas",
+      "titular": "Santander ficha a KPMG para buscar socio en seguros para empresas",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-19T16:58:45+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/10/19/asi-contrato-espana-feijoo-vivienda-pensiones-e-impuestos-protagonistas.html"
+      "fecha": "2026-10-20T01:48:48+02:00",
+      "enlace": "https://www.expansion.com/empresas/seguros/2026/10/20/6ad64ed2468aebff388b4597.html"
     },
     {
-      "titular": "El Ibex pierde un 1,5% arrastrado por la crisis social en Francia",
+      "titular": "PAI contrata a JPMorgan y RBC para analizar la venta de Áreas",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-19T17:41:01+02:00",
-      "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/10/19/6ad5b041468aeb505d8b456f.html"
+      "fecha": "2026-10-20T01:49:03+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/10/20/6ad65dc3e5fdea0b578b456f.html"
     },
     {
-      "titular": "Telefónica firma su alianza con Orange, Vodafone y Telekom para competir con Starlink en satélites",
+      "titular": "SWI amplía capital en 800 millones para crecer en infraestructura de IA",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-19T11:05:01+02:00",
-      "enlace": "https://www.expansion.com/empresas/telecomunicaciones/2026/10/19/6ad5dae1468aebdc3e8b4588.html"
+      "fecha": "2026-10-13T01:30:55+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/10/13/6acd25a2e5fdeaf94a8b459a.html"
     },
     {
-      "titular": "EEUU amenaza a Europa con represalias \"devastadoras\" si se limita el espectro a Starlink",
+      "titular": "El mercado del alquiler se reduce en 16.600 viviendas este año por la inseguridad",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-19T11:56:12+02:00",
-      "enlace": "https://www.expansion.com/empresas/telecomunicaciones/2026/10/19/6ad5d718e5fdeaeb528b4586.html"
+      "fecha": "2026-10-20T01:52:54+02:00",
+      "enlace": "https://www.expansion.com/inmobiliario/2026/10/20/mercado-alquiler-reduce-16-600-viviendas-ano-inseguridad.html"
     },
     {
-      "titular": "Por qué la próxima legislatura sí habrá que reformar las pensiones",
+      "titular": "Los mejores y peores valores en términos de valor y momentum",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-18T23:34:27+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/10/18/proxima-legislatura-habra-reformar-pensiones.html"
+      "fecha": "2026-10-20T02:26:40+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/10/20/6ad6125de5fdea65528b459f.html"
     },
     {
-      "titular": "Palacio Residencial Sagasta: así son los nuevos pisos de lujo con servicios de hotel en Chamberí",
+      "titular": "Los bancos que pagan más por domiciliar la nómina en 2026",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-19T12:02:58+02:00",
-      "enlace": "https://www.expansion.com/inmobiliario/casas/2026/10/19/palacio-residencial-sagasta-asi-son-nuevos-pisos-lujo-servicios-hotel-chamberi.html"
+      "fecha": "2026-10-20T02:26:41+02:00",
+      "enlace": "https://www.expansion.com/empresas/banca/2026/10/20/6ad5f04b468aebea578b4595.html"
     }
   ],
   "salud": {
@@ -78,16 +78,16 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 208,
+    "antiguedad_minima_min": 152,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 79,
+        "items": 72,
         "error": null,
-        "antiguedad_min": 208,
-        "descartados_por_gancho": 1
+        "antiguedad_min": 152,
+        "descartados_por_gancho": 2
       },
       {
         "medio": "Cinco Días",
