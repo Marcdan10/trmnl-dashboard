@@ -2,70 +2,70 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-10-20T15:44:19+02:00",
+  "generado": "2026-10-20T20:14:05+02:00",
   "titulares": [
     {
-      "titular": "JPMorgan: el bitcoin subirá más a largo plazo que Wall Street y el oro",
+      "titular": "Stellantis anuncia la fabricación de un segundo modelo de Leapmotor en Zaragoza",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-20T15:33:07+02:00",
-      "enlace": "https://www.expansion.com/mercados/criptomonedas/2026/10/20/6ad7522f468aebc16e8b45aa.html"
+      "fecha": "2026-10-20T19:55:56+02:00",
+      "enlace": "https://www.expansion.com/empresas/motor/2026/10/20/6ad7aae9e5fdea4a608b457d.html"
     },
     {
-      "titular": "Los chips: cerca de soportes y muy sobrevendido",
+      "titular": "Prada, Tom Ford y Antonio Banderas, entre los mejores perfumes del año",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-20T15:08:13+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/10/20/6ad74eab468aeb1d488b457b.html"
+      "fecha": "2026-10-20T19:51:18+02:00",
+      "enlace": "https://www.expansion.com/empresas/industria/2026/10/20/6ad79255468aebf13f8b4582.html"
     },
     {
-      "titular": "El Ibex se queda sin apoyos y pierde los 19.000 puntos",
+      "titular": "El Gobierno aprobará antes de fin de año la subida de sueldo a los funcionarios del 5%",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-20T14:20:39+02:00",
-      "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/10/20/6ad701bae5fdea41568b4586.html"
+      "fecha": "2026-10-20T19:33:35+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/10/20/gobierno-aprobara-ano-subida-sueldo-funcionarios-5.html"
     },
     {
-      "titular": "El Supremo amnistía a Junqueras, Romeva, Turull y Bassa, los dirigentes del 'procés' condenados por malversación",
+      "titular": "Telefónica y sus socios retan al regulador británico en la compra de Netomnia y no presentan remedios",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-20T13:55:42+02:00",
-      "enlace": "https://www.expansion.com/economia/politica/2026/10/20/supremo-amnistia-junqueras-romeva-turull-bassa-dirigentes-proces-condenados-malversacion.html"
+      "fecha": "2026-10-20T19:17:37+02:00",
+      "enlace": "https://www.expansion.com/empresas/telecomunicaciones/2026/10/20/6ad79eba468aeb7d728b45a2.html"
     },
     {
-      "titular": "La prima de riesgo sigue escalando en Francia por las dudas en su economía y los disturbios",
+      "titular": "Eduardo Dívar (Kia): \"Nunca habían entrado 40 marcas nuevas de golpe; hay inflación de todo\"",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-20T13:43:12+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/10/20/prima-riesgo-sigue-escalando-francia-dudas-economia-disturbios.html"
+      "fecha": "2026-10-20T18:23:46+02:00",
+      "enlace": "https://www.expansion.com/empresas/motor/2026/10/20/6ad77f92e5fdeaa65b8b458b.html"
     },
     {
-      "titular": "La difícil justificación de la compra de nuevos trenes de alta velocidad",
+      "titular": "Carrefour rebaja sus previsiones por los disturbios en Francia: \"Es una situación sin precedentes\"",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-20T13:37:28+02:00",
-      "enlace": "https://www.expansion.com/opinion/2026/10/20/dificil-justificacion-compra-nuevos-trenes-alta-velocidad.html"
+      "fecha": "2026-10-20T18:23:30+02:00",
+      "enlace": "https://www.expansion.com/empresas/distribucion/2026/10/20/6ad790ede5fdea4b068b4593.html"
     },
     {
-      "titular": "Cambio de hora: los relojes se retrasan una hora la madrugada del domingo 25 de octubre hasta el último domingo de marzo de 2027",
+      "titular": "O'Leary (Ryanair) alerta de la \"mayor subida en la historia\" de las tarifas aéreas, hasta un 20%",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-20T13:23:32+02:00",
-      "enlace": "https://www.expansion.com/estilo-vida/salud/2026/10/20/cambio-hora-relojes-retrasan-hora-madrugada-domingo-25-octubre-ultimo-domingo-marzo-2027.html"
+      "fecha": "2026-10-20T18:21:27+02:00",
+      "enlace": "https://www.expansion.com/empresas/transporte/2026/10/20/6ad7923de5fdea4b068b459a.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 11,
+    "antiguedad_minima_min": 18,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 77,
+        "items": 79,
         "error": null,
-        "antiguedad_min": 11,
+        "antiguedad_min": 18,
         "descartados_por_gancho": 1
       },
       {

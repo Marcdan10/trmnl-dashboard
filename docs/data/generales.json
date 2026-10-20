@@ -2,61 +2,62 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-10-20T15:44:14+02:00",
+  "generado": "2026-10-20T20:14:02+02:00",
   "titulares": [
     {
-      "titular": "El empresario Julio Martínez, ante el juez Calama: “Voy informando a Zapatero de las necesidades de Plus Ultra”",
+      "titular": "La UCO cuestiona la veracidad del tiroteo al coche de Aldama",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-20T15:31:05+02:00",
-      "enlace": "https://elpais.com/espana/2026-10-20/el-empresario-julio-martinez-ante-el-juez-calama-voy-informando-a-zapatero-de-las-necesidades-de-plus-ultra.html"
+      "fecha": "2026-10-20T20:10:19+02:00",
+      "enlace": "https://elpais.com/espana/2026-10-20/la-uco-cuestiona-la-veracidad-del-tiroteo-al-coche-de-aldama.html"
     },
     {
-      "titular": "El futbolista Sergio Rico, víctima de un robo violento en su casa",
+      "titular": "El Supremo se adelanta al TC y aplica la amnistía a Junqueras con críticas a Pumpido",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-10-20T15:15:54+02:00",
-      "enlace": "https://www.abc.es/gente/futbolista-sergio-rico-victima-robo-casa-20261020145741-nt.html"
+      "fecha": "2026-10-20T19:56:07+02:00",
+      "enlace": "https://www.abc.es/espana/supremo-adelanta-tc-aplica-amnistia-junqueras-presos-20261020131014-nt.html"
     },
     {
-      "titular": "Detenido un profesor de un colegio junto a la Gran Vía por violar a una decena de alumnos de entre 12 y 15 años",
+      "titular": "Del 1-O a la amnistía: el traje a medida para borrar el 'procés'",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-10-20T15:12:36+02:00",
+      "fecha": "2026-10-20T19:54:56+02:00",
+      "enlace": "https://www.abc.es/espana/amnistia-traje-medida-borrar-proces-20261010194659-nt.html"
+    },
+    {
+      "titular": "El juez envía a prisión por terrorismo a los dos disidentes de la izquierda ‘abertzale’ detenidos por la Ertzaintza",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-20T19:52:47+02:00",
+      "enlace": "https://elpais.com/espana/2026-10-20/el-juez-envia-a-prision-por-terrorismo-a-los-dos-disidentes-de-la-izquierda-abertzale-detenidos-por-la-ertzaintza.html"
+    },
+    {
+      "titular": "Detenido un profesor en Madrid por violar a una decena de alumnos de entre 12 y 15 años",
+      "medios": [
+        "La Vanguardia",
+        "ABC"
+      ],
+      "consenso": 2,
+      "fecha": "2026-10-20T19:51:10+02:00",
       "enlace": "https://www.abc.es/espana/madrid/detenido-profesor-colegio-junto-gran-via-violar-20261020142840-nt.html"
     },
     {
-      "titular": "Las familias monomarentales quedan fuera de las ayudas de emergencia habitacional",
+      "titular": "Banca March inicia su internacionalización con una filial en Luxemburgo y oficinas en Lisboa",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-10-20T15:09:45+02:00",
-      "enlace": "https://www.lavanguardia.com/vida/20261020/11663702/familias-monomarentales-quedan-fuera-ayudas-emergencia-habitacional.html"
-    },
-    {
-      "titular": "El Congreso otorga el nombre Pérez Rubalcaba a una sala de trabajo de la prensa en el 15º aniversario del fin de ETA",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-20T14:53:08+02:00",
-      "enlace": "https://elpais.com/espana/2026-10-20/el-congreso-otorga-el-nombre-perez-rubalcaba-a-una-sala-de-trabajo-de-la-prensa-en-el-15-aniversario-del-fin-de-eta.html"
-    },
-    {
-      "titular": "Detenido un profesor de un colegio religioso de Madrid por violar a una decena de menores",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-20T14:52:06+02:00",
-      "enlace": "https://www.lavanguardia.com/local/madrid/20261020/11663703/prision-profesor-colegio-religioso-madrid-violar-decena-alumnos.html"
+      "fecha": "2026-10-20T19:10:13+02:00",
+      "enlace": "https://www.lavanguardia.com/dinero/20261020/11663933/banca-march-inicia-internacionalizacion-filial-luxemburgo-oficinas-lisboa.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -74,7 +75,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 13,
+    "antiguedad_minima_min": 3,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +83,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2294799,
+        "antiguedad_min": 2295069,
         "descartados_por_gancho": 0
       },
       {
@@ -99,17 +100,17 @@
         "ok": true,
         "items": 141,
         "error": null,
-        "antiguedad_min": 13,
+        "antiguedad_min": 3,
         "descartados_por_gancho": 5
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 137,
+        "items": 140,
         "error": null,
-        "antiguedad_min": 34,
-        "descartados_por_gancho": 13
+        "antiguedad_min": 63,
+        "descartados_por_gancho": 14
       },
       {
         "medio": "ABC",
@@ -117,7 +118,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 28,
+        "antiguedad_min": 17,
         "descartados_por_gancho": 0
       }
     ]
