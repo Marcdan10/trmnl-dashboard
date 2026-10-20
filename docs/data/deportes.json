@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-10-20T04:58:57+02:00",
+  "generado": "2026-10-20T10:18:52+02:00",
   "titulares": [
     {
-      "titular": "Flick desvela las opciones para la defensa en París",
+      "titular": "Desafío en París antes del Clásico",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-19T19:07:34+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261019/1004240690/flick-desvela-opciones-defensa.html"
+      "fecha": "2026-10-20T06:00:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261020/1004240857/desafio-paris-clasico.html"
     },
     {
-      "titular": "Àlex Campos, el canterano del Barça convocado para París",
+      "titular": "Horario y canal del PSG - Barcelona: dónde ver por TV el partido",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-19T11:15:13+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/20261019/1004240469/alex-campos-joven-promesa-barca-convocado-paris.html"
+      "fecha": "2026-10-19T18:47:18+02:00",
+      "enlace": "https://www.mundodeportivo.com/horarios/futbol/20261018/1004240320/horario-canal-ver-tv-psg-barcelona-uefa-champions-league.html"
     },
     {
       "titular": "El Club 'Divertido' Lugo se lo pasa en grande: líder, invicto y mejor equipo de Primera RFEF",
@@ -41,22 +41,13 @@
       "enlace": "https://www.marca.com/futbol/mundial/2026/10/13/netflix-adquiere-derechos-audiovisuales-espana-mundial-2030.html"
     },
     {
-      "titular": "Laporta: \"El fútbol no se concibe sin Lamine, es un genio\"",
+      "titular": "Crece el escándalo del Real Madrid-Sevilla: \"Se decidió no dar esa repetición\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-19T17:31:56+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261019/1004240659/laporta-vuelve-atizar-madrid-han-equivocado-pagando-precio.html"
-    },
-    {
-      "titular": "Los fichajes del Barça 2026-27 ya vencieron al PSG",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-19T07:00:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261019/1004240274/fichajes-barca-2026-27-cargarse-psg.html"
+      "fecha": "2026-10-20T08:31:55+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20261020/1004240872/sergio-carranza.html"
     },
     {
       "titular": "Arrasate: \"Siento que Osasuna me necesita y que yo puedo ayudar a Osasuna\"",
@@ -66,6 +57,15 @@
       "consenso": 1,
       "fecha": "2026-10-13T12:56:47+02:00",
       "enlace": "https://www.marca.com/futbol/osasuna/2026/10/13/arrasate-siento-osasuna-me-necesita-ayudar-osasuna.html"
+    },
+    {
+      "titular": "El posible once del Barça ante el PSG",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-20T05:30:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261020/1004240860/posible-once-barca-psg.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 276,
+    "antiguedad_minima_min": 22,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 60,
         "error": null,
-        "antiguedad_min": 9570,
+        "antiguedad_min": 9890,
         "descartados_por_gancho": 12
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 140,
+        "items": 135,
         "error": null,
-        "antiguedad_min": 276,
-        "descartados_por_gancho": 3
+        "antiguedad_min": 22,
+        "descartados_por_gancho": 4
       },
       {
         "medio": "Sport",

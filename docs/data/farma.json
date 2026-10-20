@@ -2,8 +2,35 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "portadas",
-  "generado": "2026-10-20T04:59:03+02:00",
+  "generado": "2026-10-20T10:18:56+02:00",
   "titulares": [
+    {
+      "titular": "AFI calcula que los medicamentos aportan al Estado más de lo que cuesta financiarlos",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-20T08:47:00+02:00",
+      "enlace": "https://diariofarma.com/2026/10/20/afi-calcula-que-los-medicamentos-aportan-al-estado-mas-de-lo-que-cuesta-financiarlos"
+    },
+    {
+      "titular": "La AEMPS presenta los resultados del Instrumento de Apoyo Técnico para la implementación del Reglamento HTA",
+      "medios": [
+        "El Global"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-20T09:21:37+02:00",
+      "enlace": "https://elglobalfarma.com/politica/aemps-resultados-instrumento-apoyo-tecnico-implementacion-reglamento-hta/"
+    },
+    {
+      "titular": "Mónica García renuncia a entrar en la lista de Frente Amplio para el 29N y se centrará en las elecciones de Madrid",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-20T08:58:23+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/20261020/monica-garcia-renuncia-entrar-en-la-lista-de-frente-amplio-para-el-se-centrara-las-elecciones-madrid/362620_0.html"
+    },
     {
       "titular": "Castilla-La Mancha impulsa la medicina de precisión en su nuevo Plan contra el Cáncer",
       "medios": [
@@ -14,22 +41,23 @@
       "enlace": "https://diariofarma.com/2026/10/19/castilla-la-mancha-impulsa-la-medicina-de-precision-en-su-nuevo-plan-contra-el-cancer"
     },
     {
-      "titular": "Raquel Martínez ingresa en la Academia de Farmacia de Castilla y León y aboga por el farmacéutico como un pilar «indispensable» para los pacientes",
-      "medios": [
-        "El Global"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-19T18:55:05+02:00",
-      "enlace": "https://elglobalfarma.com/farmacia/raquel-martinez-academia-farmacia-castilla-leon-asistencial/"
-    },
-    {
-      "titular": "Rechazo rotundo de los médicos al nuevo Estatuto Marco y firme voluntad para conseguir uno propio",
+      "titular": "Estatuto del Cuidador, blindaje laboral y protección familiar: las recetas españolas para el nuevo Pacto Europeo",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-10-19T07:43:00+02:00",
-      "enlace": "https://www.redaccionmedica.com/profesionales/medicina/20261019/rechazo-rotundo-de-los-medicos-al-nuevo-estatuto-marco-firme-voluntad-para-conseguir-uno-propio/362375_0.html"
+      "fecha": "2026-10-19T18:30:12+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/internacional/20261019/estatuto-del-cuidador-blindaje-laboral-proteccion-familiar-las-recetas-espanolas-para-el-nuevo-pacto-europeo/362112_0.html"
+    },
+    {
+      "titular": "Cada euro invertido en medicamentos ahorra 64 céntimos al Estado en otras partidas públicas",
+      "medios": [
+        "El Global",
+        "Redacción Médica"
+      ],
+      "consenso": 2,
+      "fecha": "2026-10-20T05:00:00+02:00",
+      "enlace": "https://www.redaccionmedica.com/empresas/industria-farmaceutica/20261020/cada-euro-invertido-en-medicamentos-ahorra-centimos-al-estado-otras-partidas-publicas/362292_0.html"
     },
     {
       "titular": "Aguas residuales: el sector, resignado a tener que pagar, exige que el reparto sea justo",
@@ -39,33 +67,6 @@
       "consenso": 1,
       "fecha": "2026-10-19T19:36:06+02:00",
       "enlace": "https://diariofarma.com/2026/10/19/aguas-residuales-el-sector-resignado-a-tener-que-pagar-exige-que-el-reparto-sea-justo"
-    },
-    {
-      "titular": "El gran reto del farmacéutico en época de resfriados: encontrar la mejor opción para cada síntoma",
-      "medios": [
-        "El Global"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-19T17:11:27+02:00",
-      "enlace": "https://elglobalfarma.com/farmacia/autocuidado/gran-reto-farmaceutico-resfriados/"
-    },
-    {
-      "titular": "Los facultativos ven justificada una huelga médica indefinida para tumbar el Estatuto Marco",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-19T05:00:00+02:00",
-      "enlace": "https://www.redaccionmedica.com/profesionales/medicina/20261019/los-facultativos-ven-justificada-una-huelga-medica-indefinida-para-tumbar-el-estatuto-marco/362393_0.html"
-    },
-    {
-      "titular": "Las nuevas rutas formativas marcan el inicio del programa de formación del COFB",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-19T19:22:55+02:00",
-      "enlace": "https://diariofarma.com/2026/10/19/las-nuevas-rutas-formativas-marcan-el-inicio-del-programa-de-formacion-continuada-del-cofb"
     }
   ],
   "salud": {
@@ -76,7 +77,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 548,
+    "antiguedad_minima_min": 18,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +85,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 553,
+        "antiguedad_min": 91,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +94,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 603,
+        "antiguedad_min": 57,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +103,7 @@
         "ok": true,
         "items": 28,
         "error": null,
-        "antiguedad_min": 548,
+        "antiguedad_min": 18,
         "descartados_por_gancho": 2
       },
       {

@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-10-20T04:58:52+02:00",
+  "generado": "2026-10-20T10:18:49+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -14,31 +14,31 @@
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
     },
     {
-      "titular": "La Generalitat levanta el confinamiento en los municipios de Valencia y Alicante afectados por las lluvias torrenciales y las inundaciones",
+      "titular": "Última hora de la actualidad política, en directo | Feijóo confirma negociaciones con Vox para las listas del Senado: “Sería un error facilitar al sanchismo el control”",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-19T17:58:57+02:00",
-      "enlace": "https://elpais.com/espana/comunidad-valenciana/2026-10-19/maxima-alerta-en-gandia-y-denia-por-las-lluvias-torrenciales-y-las-inundaciones-que-activa-a-la-ume.html"
+      "fecha": "2026-10-20T10:13:29+02:00",
+      "enlace": "https://elpais.com/espana/2026-10-20/ultima-hora-de-la-actualidad-politica-en-directo.html"
     },
     {
-      "titular": "La dana ‘Adam’ deja cuatro muertos, tres en Valencia y uno en Andalucía",
+      "titular": "Toques de queda en París y otras ciudades para frenar la violencia",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-10-20T00:05:00+02:00",
-      "enlace": "https://www.lavanguardia.com/local/valencia/20261020/11662975/dana-adam-deja-cuatro-muertos-tres-valencia-andalucia.html"
+      "fecha": "2026-10-20T06:00:00+02:00",
+      "enlace": "https://www.lavanguardia.com/internacional/20261020/11663056/francia-ensaya-toque-queda.html"
     },
     {
-      "titular": "París, bajo toque de queda: la calma después de los saqueos",
+      "titular": "Muere Sahara Ray, exnovia de Justin Bieber, a los 34 años",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-10-20T02:35:35+02:00",
-      "enlace": "https://www.abc.es/internacional/paris-bajo-toque-queda-calma-despues-saqueos-20261020022758-nt.html"
+      "fecha": "2026-10-20T09:47:34+02:00",
+      "enlace": "https://www.abc.es/gente/muere-exnovia-justin-bieber-anos-20261020093755-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -50,22 +50,22 @@
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
     },
     {
-      "titular": "Mapas y gráficos de las inundaciones en Valencia y hacia dónde se dirige la tormenta",
+      "titular": "Un nacionalizado por la ‘ley de nietos’ acude al Constitucional para poder votar el 29-N",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-19T15:30:47+02:00",
-      "enlace": "https://elpais.com/espana/comunidad-valenciana/2026-10-19/mapas-y-graficos-de-las-inundaciones-en-valencia-y-hacia-donde-se-dirige-la-tormenta.html"
+      "fecha": "2026-10-20T06:53:06+02:00",
+      "enlace": "https://elpais.com/espana/elecciones-generales/2026-10-20/un-nacionalizado-por-la-ley-de-nietos-acude-al-constitucional-para-poder-votar-el-29-n.html"
     },
     {
-      "titular": "La dana se ceba con Eivissa y Formentera con amenazas de desbordamiento de torrentes",
+      "titular": "El Gobierno aprueba un decreto para extender las mejoras sociales a viudas y víctimas de violencia de género en plena precampaña",
       "medios": [
-        "La Vanguardia"
+        "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-10-19T11:06:58+02:00",
-      "enlace": "https://www.lavanguardia.com/vida/20261019/11662458/dana-ceba-eivissa-formentera-amenazas-desbordamiento-torrentes.html"
+      "fecha": "2026-10-20T09:37:00+02:00",
+      "enlace": "https://www.abc.es/economia/gobierno-aprueba-decreto-extender-mejoras-sociales-viudas-20261020093504-nt.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 143,
+    "antiguedad_minima_min": 5,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2294153,
+        "antiguedad_min": 2294473,
         "descartados_por_gancho": 0
       },
       {
@@ -97,28 +97,28 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 147,
+        "items": 135,
         "error": null,
-        "antiguedad_min": 252,
-        "descartados_por_gancho": 7
+        "antiguedad_min": 5,
+        "descartados_por_gancho": 10
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 127,
+        "items": 125,
         "error": null,
-        "antiguedad_min": 268,
-        "descartados_por_gancho": 12
+        "antiguedad_min": 61,
+        "descartados_por_gancho": 14
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 23,
+        "items": 24,
         "error": null,
-        "antiguedad_min": 143,
-        "descartados_por_gancho": 2
+        "antiguedad_min": 31,
+        "descartados_por_gancho": 1
       }
     ]
   }

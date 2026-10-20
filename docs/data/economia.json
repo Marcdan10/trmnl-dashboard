@@ -2,7 +2,7 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "portadas",
-  "generado": "2026-10-20T04:58:55+02:00",
+  "generado": "2026-10-20T10:18:51+02:00",
   "titulares": [
     {
       "titular": "La banca española tiene 20.000 millones de euros en deuda soberana francesa",
@@ -14,40 +14,40 @@
       "enlace": "https://www.expansion.com/empresas/banca/2026/10/20/6ad657ff468aeb6a078b4590.html"
     },
     {
-      "titular": "Santander ficha a KPMG para buscar socio en seguros para empresas",
+      "titular": "El consumo renueva sus primeros ejecutivos",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
       "fecha": "2026-10-20T01:48:48+02:00",
-      "enlace": "https://www.expansion.com/empresas/seguros/2026/10/20/6ad64ed2468aebff388b4597.html"
+      "enlace": "https://www.expansion.com/empresas/distribucion/2026/10/20/6ad655f9e5fdea6e458b4572.html"
     },
     {
-      "titular": "PAI contrata a JPMorgan y RBC para analizar la venta de Áreas",
+      "titular": "Subida salarial del 5% para los funcionarios: pendiente de las elecciones",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-20T01:49:03+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/10/20/6ad65dc3e5fdea0b578b456f.html"
+      "fecha": "2026-10-20T00:14:51+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/10/20/subida-salarial-5-funcionarios-pendiente-elecciones.html"
     },
     {
-      "titular": "SWI amplía capital en 800 millones para crecer en infraestructura de IA",
+      "titular": "La Primera de Expansión sobre Santander, Telefónica, Starlink, la deuda de la IA y Anthropic",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-13T01:30:55+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/10/13/6acd25a2e5fdeaf94a8b459a.html"
+      "fecha": "2026-10-20T07:17:24+02:00",
+      "enlace": "https://www.expansion.com/podcasts/la-primera-de-expansion/2026/10/20/primera-expansion-sobre-santander-telefonica-starlink-deuda-ia-anthropic.html"
     },
     {
-      "titular": "El mercado del alquiler se reduce en 16.600 viviendas este año por la inseguridad",
+      "titular": "Sigue la fuga empresarial en Cataluña: pierde 302 compañías hasta septiembre mientras que Madrid suma 505 más",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-20T01:52:54+02:00",
-      "enlace": "https://www.expansion.com/inmobiliario/2026/10/20/mercado-alquiler-reduce-16-600-viviendas-ano-inseguridad.html"
+      "fecha": "2026-10-20T02:04:17+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/10/20/sigue-fuga-empresarial-cataluna-pierde-302-companias-septiembre-madrid-suma-505.html"
     },
     {
       "titular": "Los mejores y peores valores en términos de valor y momentum",
@@ -59,13 +59,13 @@
       "enlace": "https://www.expansion.com/mercados/2026/10/20/6ad6125de5fdea65528b459f.html"
     },
     {
-      "titular": "Los bancos que pagan más por domiciliar la nómina en 2026",
+      "titular": "St. Regis tendrá un hotel y residencias de lujo en Marbella",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-20T02:26:41+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/10/20/6ad5f04b468aebea578b4595.html"
+      "fecha": "2026-10-20T09:29:58+02:00",
+      "enlace": "https://www.expansion.com/inmobiliario/casas/2026/10/20/st-regis-tendra-hotel-residencias-lujo-marbella.html"
     }
   ],
   "salud": {
@@ -78,16 +78,16 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 152,
+    "antiguedad_minima_min": 8,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 72,
+        "items": 78,
         "error": null,
-        "antiguedad_min": 152,
-        "descartados_por_gancho": 2
+        "antiguedad_min": 8,
+        "descartados_por_gancho": 1
       },
       {
         "medio": "Cinco Días",
