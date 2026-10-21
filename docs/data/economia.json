@@ -1,71 +1,71 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "portadas",
-  "generado": "2026-10-21T07:06:17+02:00",
+  "modo": "ultimas",
+  "generado": "2026-10-21T12:24:09+02:00",
   "titulares": [
     {
-      "titular": "Sabadell recompone su accionariado con la entrada de fondos de largo plazo",
+      "titular": "Sánchez anticipa gasto público electoralista",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-21T02:37:48+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/10/21/6abba2fe468aebd3528b459e.html"
+      "fecha": "2026-10-21T12:08:04+02:00",
+      "enlace": "https://www.expansion.com/opinion/2026/10/21/sanchez-anticipa-gasto-publico-electoralista.html"
     },
     {
-      "titular": "Batalla de los robotaxis: los coches sin conductor de Google y Uber comienzan a circular por Madrid",
+      "titular": "El Ibex busca una tregua por encima de los 19.000 puntos",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-21T01:21:17+02:00",
-      "enlace": "https://www.expansion.com/tecnologia/2026/10/21/batalla-robotaxis-coches-conductor-google-uber-comienzan-circular-madrid.html"
+      "fecha": "2026-10-21T12:02:47+02:00",
+      "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/10/21/6ad854efe5fdea57578b458a.html"
     },
     {
-      "titular": "El Supremo acota el cálculo del valor del catastro sin la visita de un perito",
+      "titular": "Bruselas investiga a Booking por sospechas de riesgo sistémico de fraude",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-21T02:33:48+02:00",
-      "enlace": "https://www.expansion.com/fiscal/2026/10/21/supremo-acota-calculo-valor-catastro-visita-perito.html"
+      "fecha": "2026-10-21T12:00:21+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/10/21/6ad8898ee5fdea5d338b4582.html"
     },
     {
-      "titular": "La llegada de diésel ruso frena la escalada del crudo impulsada por los ataques hutíes",
+      "titular": "El coste de la deuda en Francia alcanza el 5% por primera vez desde 2002",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-21T02:36:07+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/10/21/llegada-diesel-ruso-frena-escalada-crudo-impulsada-ataques-huties.html"
+      "fecha": "2026-10-21T11:57:25+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/10/21/costes-endeudamiento-francia-alcanzan-5-primera-vez-2002.html"
     },
     {
-      "titular": "La UE rechaza extraer gas y petróleo en el Ártico pese a la crisis energética",
+      "titular": "La geopolítica perversa de Trump con el diésel",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-21T03:06:38+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/10/21/ue-rechaza-extraer-gas-petroleo-artico-pese-crisis-energetica.html"
+      "fecha": "2026-10-21T11:56:40+02:00",
+      "enlace": "https://www.expansion.com/opinion/2026/10/21/geopolitica-perversa-trump-diesel.html"
     },
     {
-      "titular": "¿Están las Bolsas ante un cambio de ciclo?",
+      "titular": "Los Cosmen y Asterion lanzan una opa de exclusión sobre Mobico",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-21T00:32:43+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/10/21/6ad7af43468aeb1d488b458b.html"
+      "fecha": "2026-10-21T11:44:24+02:00",
+      "enlace": "https://www.expansion.com/empresas/transporte/2026/10/21/6ad88969e5fdea20258b4585.html"
     },
     {
-      "titular": "Centros de datos: ¿es excesivo el castigo a ACS, Merlin y Solaria?",
+      "titular": "Vox no descarta \"ninguna fórmula\" para el pacto con el PP para el Senado",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-21T00:45:09+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/10/21/6ad7aad6468aeb3f5f8b456d.html"
+      "fecha": "2026-10-21T11:18:37+02:00",
+      "enlace": "https://www.expansion.com/elecciones/elecciones-generales/2026/10/21/vox-descarta-ninguna-formula-pacto-pp-senado.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 239,
+    "antiguedad_minima_min": 16,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 72,
+        "items": 77,
         "error": null,
-        "antiguedad_min": 239,
+        "antiguedad_min": 16,
         "descartados_por_gancho": 0
       },
       {
@@ -126,7 +126,7 @@
         "url": "https://www.bde.es/wbe/es/rss/noticias.xml",
         "ok": false,
         "items": 0,
-        "error": "URLError: <urlopen error timed out>",
+        "error": "HTTP 404",
         "antiguedad_min": null
       }
     ]
