@@ -2,70 +2,70 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-10-21T12:24:09+02:00",
+  "generado": "2026-10-21T17:27:38+02:00",
   "titulares": [
     {
-      "titular": "Sánchez anticipa gasto público electoralista",
+      "titular": "Reglas de oro para invertir bien en los activos con riesgo",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-21T12:08:04+02:00",
-      "enlace": "https://www.expansion.com/opinion/2026/10/21/sanchez-anticipa-gasto-publico-electoralista.html"
+      "fecha": "2026-10-21T17:02:02+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/10/21/6ad2503b468aeb857b8b457d.html"
     },
     {
-      "titular": "El Ibex busca una tregua por encima de los 19.000 puntos",
+      "titular": "Zelenski se abre a un alto el fuego con Rusia que \"congele\" las actuales líneas del frente",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-21T12:02:47+02:00",
+      "fecha": "2026-10-21T16:57:41+02:00",
+      "enlace": "https://www.expansion.com/economia/politica/2026/10/21/zelenski-abre-alto-fuego-rusia-congele-actuales-lineas-frente.html"
+    },
+    {
+      "titular": "El Ibex supera los 19.200 puntos apoyado en los bancos",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-21T16:13:01+02:00",
       "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/10/21/6ad854efe5fdea57578b458a.html"
     },
     {
-      "titular": "Bruselas investiga a Booking por sospechas de riesgo sistémico de fraude",
+      "titular": "SpaceX dispara un 161% su facturación y entra en beneficios en el trimestre",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-21T12:00:21+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/10/21/6ad8898ee5fdea5d338b4582.html"
+      "fecha": "2026-10-21T16:12:03+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/10/20/6ad7a913e5fdea9e2e8b456f.html"
     },
     {
-      "titular": "El coste de la deuda en Francia alcanza el 5% por primera vez desde 2002",
+      "titular": "Los fabricantes de baterías chinos se apresuran a invertir en el exterior para eludir las barreras occidentales",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-21T11:57:25+02:00",
-      "enlace": "https://www.expansion.com/economia/financial-times/2026/10/21/costes-endeudamiento-francia-alcanzan-5-primera-vez-2002.html"
+      "fecha": "2026-10-21T16:11:39+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/10/21/fabricantes-baterias-chinos-apresuran-invertir-exterior-eludir-barreras-occidentales.html"
     },
     {
-      "titular": "La geopolítica perversa de Trump con el diésel",
+      "titular": "ACS se impone a FCC para construir el 'superhub' de Melbourne",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-21T11:56:40+02:00",
-      "enlace": "https://www.expansion.com/opinion/2026/10/21/geopolitica-perversa-trump-diesel.html"
+      "fecha": "2026-10-21T15:52:03+02:00",
+      "enlace": "https://www.expansion.com/empresas/construccion-servicios/2026/10/21/6ad8c381468aeb46388b4581.html"
     },
     {
-      "titular": "Los Cosmen y Asterion lanzan una opa de exclusión sobre Mobico",
+      "titular": "OpenAI comercializará sus modelos más avanzados en Google Cloud",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-21T11:44:24+02:00",
-      "enlace": "https://www.expansion.com/empresas/transporte/2026/10/21/6ad88969e5fdea20258b4585.html"
-    },
-    {
-      "titular": "Vox no descarta \"ninguna fórmula\" para el pacto con el PP para el Senado",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-21T11:18:37+02:00",
-      "enlace": "https://www.expansion.com/elecciones/elecciones-generales/2026/10/21/vox-descarta-ninguna-formula-pacto-pp-senado.html"
+      "fecha": "2026-10-21T15:44:58+02:00",
+      "enlace": "https://www.expansion.com/tecnologia/2026/10/21/openai-comercializara-modelos-avanzados-google-cloud.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 16,
+    "antiguedad_minima_min": 25,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 77,
+        "items": 75,
         "error": null,
-        "antiguedad_min": 16,
+        "antiguedad_min": 25,
         "descartados_por_gancho": 0
       },
       {

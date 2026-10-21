@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-10-21T12:24:11+02:00",
+  "generado": "2026-10-21T17:27:39+02:00",
   "titulares": [
     {
-      "titular": "La exclusiva normativa de Francia que permitiría fichar al PSG sin esperar a enero: ¿Qué es el 'comodín Joker'?",
+      "titular": "La policía inglesa usará tecnología de reconocimiento facial en el Chelsea - Tottenham",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-21T11:54:07+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/ligue-1/20261021/1004241414/exclusiva-normativa-francia-permitiria-fichar-psg-esperar-enero-comodin-joker.html"
+      "fecha": "2026-10-21T16:54:29+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/premier-league/20261021/1004241518/policia-inglesa-usara-tecnologia-reconocimiento-facial-chelsea-tottenham.html"
     },
     {
-      "titular": "Buscan voluntarios para vivir gratis en la Antártida por contar pingüinos, cobrando hasta 2.500€ al mes",
+      "titular": "El Barça ya lleva siete partidos de la Champions encajando tres o más goles",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-21T11:52:57+02:00",
-      "enlace": "https://www.mundodeportivo.com/actualidad/20261021/1004241395/buscan-voluntarios-vivir-gratis-antartida-contar-pingueinos-cobrando-2-500-euros-mes-dct.html"
+      "fecha": "2026-10-21T16:49:11+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261021/1004241511/barca-lleva-siete-partidos-champions-encajando-tres-goles.html"
     },
     {
       "titular": "Contrato histórico para la gran estrella española del ciclismo",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/champions-league/2026/10/21/violento-tifo-ultras-psg-denuncia-barcelona-masacre-jason-viernes-13-video.html"
     },
     {
-      "titular": "Cala, la hija de un político español que debutó en el desfile de Victoria's Secret",
+      "titular": "La nueva película española que acaba de llegar a Netflix y ya es Top 1 de lo más visto en nuestro país",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-21T11:49:41+02:00",
-      "enlace": "https://www.mundodeportivo.com/elotromundo/television/20261021/1004241399/cala-moragas-modelo-espanola-debuto-desfile-victoria-s-secret-hija-conocido-politico-galeria-dct.html"
+      "fecha": "2026-10-21T16:46:12+02:00",
+      "enlace": "https://www.mundodeportivo.com/elotromundo/television/20261021/1004241510/nueva-pelicula-espanola-acaba-llegar-netflix-top-1-visto-nuestro-pais-tvp-dct.html"
     },
     {
-      "titular": "La Guàrdia Urbana de Barcelona advierte de la principal causa de accidentes en las Rondas",
+      "titular": "Bordalás: \"La prioridad es la Liga, pero queremos llegar lo más lejos posible en Europa\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-21T11:45:47+02:00",
-      "enlace": "https://www.mundodeportivo.com/solomoto/20261021/1004241406/guardia-urbana-barcelona-advierte-principal-causa-accidentes-rondas-prohibido-no-autorizadas-hacerlo-smd.html"
+      "fecha": "2026-10-21T16:17:31+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/conference-league/20261021/1004241509/bordalas-prioridad-liga-queremos-llegar-lejos-posible-europa.html"
     },
     {
-      "titular": "El Sabadell sabe el camino para volver a levantarse",
+      "titular": "Oftalmólogo habla claro del cambio de hora: \"No solo altera las rutinas diarias\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-21T11:43:34+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/sabadell/20261021/1004241408/sabadell-camino-volver-levantarse.html"
+      "fecha": "2026-10-21T16:15:44+02:00",
+      "enlace": "https://www.mundodeportivo.com/pulso/20261021/1004241486/doctor-carles-barnes-oftalmologo-sobre-cambio-hora-no-altera-rutinas-diarias-ejerce-impacto-directo-sobre-salud-ocular-dct.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 30,
+    "antiguedad_minima_min": 33,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 70,
         "error": null,
-        "antiguedad_min": 143,
+        "antiguedad_min": 446,
         "descartados_por_gancho": 5
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 133,
+        "items": 140,
         "error": null,
-        "antiguedad_min": 30,
-        "descartados_por_gancho": 7
+        "antiguedad_min": 33,
+        "descartados_por_gancho": 5
       },
       {
         "medio": "Sport",
