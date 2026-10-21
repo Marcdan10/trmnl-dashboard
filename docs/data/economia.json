@@ -1,44 +1,26 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "ultimas",
-  "generado": "2026-10-21T21:28:01+02:00",
+  "modo": "portadas",
+  "generado": "2026-10-22T00:36:07+02:00",
   "titulares": [
-    {
-      "titular": "La geopolítica del pan y del petróleo",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-21T21:02:37+02:00",
-      "enlace": "https://www.expansion.com/opinion/2026/10/21/geopolitica-pan-petroleo.html"
-    },
-    {
-      "titular": "Milei intensifica el enfrentamiento con Sánchez: \"Dictador, ladrón y corrupto\"",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-21T20:35:48+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/10/21/milei-intensifica-enfrentamiento-sanchez-dictador-ladron-corrupto.html"
-    },
     {
       "titular": "EEUU impone una multa histórica de 25.000 millones de dólares a Meta",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-21T20:11:03+02:00",
+      "fecha": "2026-10-21T22:44:32+02:00",
       "enlace": "https://www.expansion.com/empresas/2026/10/21/6ad90019e5fdea0a278b45b4.html"
     },
     {
-      "titular": "Washington investiga a las 'Big Four' por 'vender' a clientes el paraíso fiscal de Malta",
+      "titular": "Los Cosmen y Asterion lanzan una opa de exclusión sobre Mobico",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-21T19:49:22+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/10/21/6ad8f571468aebad088b4585.html"
+      "fecha": "2026-10-21T11:44:24+02:00",
+      "enlace": "https://www.expansion.com/empresas/transporte/2026/10/21/6ad88969e5fdea20258b4585.html"
     },
     {
       "titular": "La IA detecta un fallo que pone en riesgo hasta el 70% de las páginas web del mundo",
@@ -50,22 +32,40 @@
       "enlace": "https://www.expansion.com/tecnologia/2026/10/21/ia-detecta-fallo-pone-riesgo-70-paginas-web-mundo.html"
     },
     {
-      "titular": "Persán busca compras en Latinoamérica tras integrar Mibelle",
+      "titular": "Los clientes de Iberia podrán pagar con Avios en El Corte Inglés",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-21T19:08:38+02:00",
-      "enlace": "https://www.expansion.com/empresas/distribucion/2026/10/21/6ad8ddd2e5fdea5d338b459a.html"
+      "fecha": "2026-10-21T15:23:54+02:00",
+      "enlace": "https://www.expansion.com/empresas/transporte/2026/10/21/6ad8b983468aeb8d408b4589.html"
     },
     {
-      "titular": "Garamendi blinda el núcleo duro de CEOE para encarar el nuevo ciclo político",
+      "titular": "Batalla de los robotaxis: los coches sin conductor de Google y Uber comienzan a circular por Madrid",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-21T18:54:23+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/10/21/garamendi-blinda-nucleo-duro-ceoe-encarar-nuevo-ciclo-politico.html"
+      "fecha": "2026-10-21T01:21:17+02:00",
+      "enlace": "https://www.expansion.com/tecnologia/2026/10/21/batalla-robotaxis-coches-conductor-google-uber-comienzan-circular-madrid.html"
+    },
+    {
+      "titular": "Netflix tiene un problema de 300.000 millones de dólares",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-21T10:25:35+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/10/21/netflix-problema-300-000-millones-dolares.html"
+    },
+    {
+      "titular": "SpaceX y Tesla estudian una posible fusión",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-21T08:07:35+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/10/21/spacex-tesla-estudian-posible-fusion.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 25,
+    "antiguedad_minima_min": 102,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 76,
+        "items": 77,
         "error": null,
-        "antiguedad_min": 25,
+        "antiguedad_min": 102,
         "descartados_por_gancho": 0
       },
       {

@@ -1,26 +1,17 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "ultimas",
-  "generado": "2026-10-21T21:28:02+02:00",
+  "modo": "portadas",
+  "generado": "2026-10-22T00:36:15+02:00",
   "titulares": [
     {
-      "titular": "2-4: El Galatasaray consigue su primera victoria en un partido vibrante ante el Lille",
+      "titular": "Dosis de moral para el Real Madrid antes del Clásico",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-21T20:51:13+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/champions-league/20261021/1004241604/galatasaray-consigue-primera-victoria-partido-vibrante-lille.html"
-    },
-    {
-      "titular": "4-1: Baño histórico de Cesc y Nico Paz al United que deja 'tocado' a Carrick",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-21T20:50:50+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/champions-league/20261021/1004241592/manchester.html"
+      "fecha": "2026-10-21T23:00:01+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20261021/1004241656/dosis-moral-real-madrid-clasico.html"
     },
     {
       "titular": "Histórico Yáñez, fiesta de Enzo, obra de arte de 'Caste', pleno y liderato",
@@ -32,6 +23,15 @@
       "enlace": "https://www.marca.com/futbol/real-madrid/2026/10/21/historico-yanez-fiesta-enzo-obra-arte-caste-pleno-liderato.html"
     },
     {
+      "titular": "1-0: El Real Betis se hace grande en Europa",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-21T23:16:08+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/champions-league/20261021/1004241670/real-betis-grande-europa.html"
+    },
+    {
       "titular": "Un menor, investigado por arrojar una piedra desde un puente y dejar en estado crítico a un conductor",
       "medios": [
         "Marca"
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/tiramillas/sucesos/2026/10/21/menor-16-anos-investigado-guardia-civil-arrojar-piedra-puente-ap-41-dejar-critico-conductor.html"
     },
     {
-      "titular": "\"El pulpo y las sardinas son especies que son muy vulnerables a los efectos del cambio climático2",
+      "titular": "Mourinho empieza 'su' Clásico: \"Estamos perdiendo 24 horas de reposo\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-21T20:45:22+02:00",
-      "enlace": "https://www.mundodeportivo.com/tressesenta/20261021/1004241559/sebastian-villasante-experto-sostenibilidad-pulpo-vulnerable-cambio-climatico-cambiando-zonas-habita-smd-sbj.html"
+      "fecha": "2026-10-21T23:25:37+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20261021/1004241674/mourinho-empieza-clasico-perdiendo-24-horas-reposo.html"
     },
     {
-      "titular": "Real Madrid - Leipzig, en directo",
+      "titular": "María Herrera, la reina de las motos: \"Quiero llevar el Mundial Femenino a MotoGP\"",
       "medios": [
-        "Mundo Deportivo"
+        "Marca"
       ],
       "consenso": 1,
-      "fecha": "2026-10-21T20:36:26+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20261021/1004239672/real-madrid-leipzig-directo-champions-league-futbol-jornada-3.html"
+      "fecha": "2026-10-21T17:58:43+02:00",
+      "enlace": "https://www.marca.com/motor/mas-motor/2026/10/21/maria-herrera-reina-motos-quiero-llevar-mundial-femenino-motogp.html"
     },
     {
-      "titular": "Bayern de Múnich - Arsenal, en directo",
+      "titular": "Ni una sola lágrima caerá por Vinicius",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-21T20:30:08+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/champions-league/20261021/1004241600/bayern-munich-arsenal-partido-futbol-hoy-en-directo-champions-league-ext-pau.html"
+      "fecha": "2026-10-21T22:56:35+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20261021/1004241654/sola-lagrima-caera-vinicius.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 36,
+    "antiguedad_minima_min": 12,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 74,
         "error": null,
-        "antiguedad_min": 200,
+        "antiguedad_min": 388,
         "descartados_por_gancho": 5
       },
       {
@@ -99,9 +99,9 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 135,
+        "items": 137,
         "error": null,
-        "antiguedad_min": 36,
+        "antiguedad_min": 12,
         "descartados_por_gancho": 6
       },
       {

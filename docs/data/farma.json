@@ -1,18 +1,9 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "ultimas",
-  "generado": "2026-10-21T21:28:07+02:00",
+  "modo": "portadas",
+  "generado": "2026-10-22T00:36:19+02:00",
   "titulares": [
-    {
-      "titular": "El portavoz de VOX en la Comisión de Sanidad del Congreso encabeza la lista del partido en Alicante para el 29N",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-21T19:42:43+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20261021/el-portavoz-de-vox-en-la-comision-sanidad-del-congreso-encabeza-lista-partido-alicante-para-el/362985_0.html"
-    },
     {
       "titular": "El proyecto presupuestario de Castilla-La Mancha eleva el gasto sanitario un 13,6%",
       "medios": [
@@ -21,24 +12,6 @@
       "consenso": 1,
       "fecha": "2026-10-21T19:36:15+02:00",
       "enlace": "https://diariofarma.com/2026/10/21/el-proyecto-presupuestario-de-castilla-la-mancha-eleva-el-gasto-sanitario-un-136"
-    },
-    {
-      "titular": "Hemato2026 aborda la equidad en el acceso a la inmunoterapia y la terapia génica",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-21T19:16:41+02:00",
-      "enlace": "https://diariofarma.com/2026/10/21/hemato2026-aborda-la-equidad-en-el-acceso-a-la-inmunoterapia-y-la-terapia-genica"
-    },
-    {
-      "titular": "Veterinarios y ganaderos ven luces y sombras en endurecer el control de tuberculosis: \"Ignora consecuencias para el sector\"",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-21T19:07:45+02:00",
-      "enlace": "https://www.redaccionmedica.com/salud-animal/20261021/veterinarios-ganaderos-ven-luces-sombras-en-endurecer-el-control-de-tuberculosis-ignora-consecuencias-para-sector/362984_0.html"
     },
     {
       "titular": "La ética gana peso como ventaja competitiva para la industria farmacéutica: las claves",
@@ -50,6 +23,24 @@
       "enlace": "https://elglobalfarma.com/industria/etica-peso-ventaja-competitiva-industria-farmaceutica-claves/"
     },
     {
+      "titular": "El diagnóstico precoz pone a prueba al SNS: \"El sistema falla porque premia responder a la enfermedad antes que prevenirla\"",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-21T15:24:31+02:00",
+      "enlace": "https://www.redaccionmedica.com/longevidad/20261021/el-diagnostico-precoz-pone-prueba-al-sns-sistema-falla-porque-premia-responder-la-enfermedad-antes-que-prevenirla/362675_0.html"
+    },
+    {
+      "titular": "Hemato2026 aborda la equidad en el acceso a la inmunoterapia y la terapia génica",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-21T19:16:41+02:00",
+      "enlace": "https://diariofarma.com/2026/10/21/hemato2026-aborda-la-equidad-en-el-acceso-a-la-inmunoterapia-y-la-terapia-genica"
+    },
+    {
       "titular": "La AEMPS publica una nueva ronda de IPT: consulta aquí los últimos cuatro informes",
       "medios": [
         "El Global"
@@ -59,13 +50,23 @@
       "enlace": "https://elglobalfarma.com/politica/aemps-ronda-ipt-cuatro-informes/"
     },
     {
-      "titular": "Muere un oncólogo de 51 años referente en cáncer de próstata, en un festival de música electrónica",
+      "titular": "De la reacción a la proactividad: la necesaria alianza entre pacientes, sanitarios y empresas para una longevidad saludable",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-10-21T18:53:06+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/internacional/20261021/muere-un-oncologo-de-anos-referente-en-cancer-prostata-festival-musica-electronica/362981_0.html"
+      "fecha": "2026-10-21T15:05:38+02:00",
+      "enlace": "https://www.redaccionmedica.com/longevidad/20261021/de-la-reaccion-proactividad-necesaria-alianza-entre-pacientes-sanitarios-empresas-para-una-longevidad-saludable/362667_0.html"
+    },
+    {
+      "titular": "El Consejo General respalda crear la especialidad de Salud Pública vía FIR",
+      "medios": [
+        "Diariofarma",
+        "El Global"
+      ],
+      "consenso": 2,
+      "fecha": "2026-10-21T16:42:10+02:00",
+      "enlace": "https://diariofarma.com/2026/10/21/el-consejo-general-respalda-crear-la-especialidad-de-salud-publica-via-fir"
     }
   ],
   "salud": {
@@ -76,7 +77,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 105,
+    "antiguedad_minima_min": 293,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +85,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 111,
+        "antiguedad_min": 300,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +94,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 196,
+        "antiguedad_min": 384,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +103,7 @@
         "ok": true,
         "items": 28,
         "error": null,
-        "antiguedad_min": 105,
+        "antiguedad_min": 293,
         "descartados_por_gancho": 2
       },
       {

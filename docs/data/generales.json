@@ -1,63 +1,9 @@
 {
   "pantalla": "generales",
   "titulo": "Titulares",
-  "modo": "ultimas",
-  "generado": "2026-10-21T21:27:59+02:00",
+  "modo": "portadas",
+  "generado": "2026-10-22T00:36:03+02:00",
   "titulares": [
-    {
-      "titular": "Real Madrid - Leipzig en directo | Comienza el encuentro en el Bernabéu",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-21T21:26:09+02:00",
-      "enlace": "https://elpais.com/deportes/futbol/2026-10-21/real-madrid-leipzig-en-directo-el-partido-de-la-champions-league-en-vivo.html"
-    },
-    {
-      "titular": "El Vaticano anuncia que el tumor del Papa estaba localizado y no necesita ninguna terapia posterior",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-21T21:25:58+02:00",
-      "enlace": "https://elpais.com/internacional/2026-10-21/el-vaticano-anuncia-que-el-tumor-del-papa-estaba-localizado-y-no-necesita-ninguna-terapia-posterior.html"
-    },
-    {
-      "titular": "Betis - Feyenoord, en directo: Abde rozó el primero en un remate de espuela (0-0)",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-21T21:06:52+02:00",
-      "enlace": "https://www.abc.es/deportes/alfinaldelapalmera/noticias-betis/betis-feyenoord-directo-ultima-hora-partido-champions-20261021155245-dis.html"
-    },
-    {
-      "titular": "Saibari, la perla marroquí, sustituye al sancionado Olise ante el Arsenal",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-21T21:02:55+02:00",
-      "enlace": "https://www.abc.es/deportes/futbol/bayern-arsenal-directo-resultado-goles-partido-champions-20261021204730-di.html"
-    },
-    {
-      "titular": "El Manchester United, zarandeado como un juguete roto por el Como",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-21T20:55:31+02:00",
-      "enlace": "https://www.lavanguardia.com/deportes/futbol/20261021/11664906/manchester-united-zarandeado-juguete-roto.html"
-    },
-    {
-      "titular": "Un juez condena a Meta a pagar 25.000 millones por vender datos de usuarios con fines electorales",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-21T20:37:09+02:00",
-      "enlace": "https://www.lavanguardia.com/internacional/20261021/11664898/juez-condena-meta-pagar-25-000-millones-vender-datos-usuarios-fines-electorales.html"
-    },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
       "medios": [
@@ -66,6 +12,61 @@
       "consenso": 1,
       "fecha": "2022-06-10T01:05:00+02:00",
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
+    },
+    {
+      "titular": "Ayuso y Milei, un encuentro inoportuno zanjado con un abrazo entusiasta",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-21T18:31:22+02:00",
+      "enlace": "https://elpais.com/espana/madrid/2026-10-21/ayuso-y-milei-un-encuentro-descafeinado-e-inoportuno.html"
+    },
+    {
+      "titular": "El profesor pederasta embaucó durante cinco años a sus alumnos a través de videojuegos",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-21T23:57:37+02:00",
+      "enlace": "https://www.abc.es/espana/madrid/profesor-pederasta-embauco-cinco-anos-alumnos-traves-20261020012145-nt.html"
+    },
+    {
+      "titular": "El presidente de la Federación Griega de baloncesto, detenido por presunto amaño de partidos",
+      "medios": [
+        "La Vanguardia",
+        "ABC"
+      ],
+      "consenso": 2,
+      "fecha": "2026-10-21T23:23:24+02:00",
+      "enlace": "https://www.abc.es/deportes/baloncesto/presidente-federacion-griega-baloncesto-detenido-presunto-amano-20261021173151-nt.html"
+    },
+    {
+      "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
+      "medios": [
+        "RTVE"
+      ],
+      "consenso": 1,
+      "fecha": "2022-06-10T00:03:00+02:00",
+      "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
+    },
+    {
+      "titular": "Milei busca la confrontación directa con Sánchez en Madrid y eclipsa a Feijóo y Abascal",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-21T17:30:37+02:00",
+      "enlace": "https://elpais.com/espana/2026-10-21/milei-participa-en-un-desayuno-informativo-en-madrid-durante-su-visita-a-espana.html"
+    },
+    {
+      "titular": "¿Por qué el control del Senado es clave para el futuro del Tribunal Constitucional?",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-21T14:04:48+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20261021/11664604/senado-llave-renovacion-tribunal-constitucional.html"
     }
   ],
   "salud": {
@@ -74,7 +75,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 1,
+    "antiguedad_minima_min": 19,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +83,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2296582,
+        "antiguedad_min": 2296770,
         "descartados_por_gancho": 0
       },
       {
@@ -97,19 +98,19 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 149,
+        "items": 151,
         "error": null,
-        "antiguedad_min": 1,
+        "antiguedad_min": 19,
         "descartados_por_gancho": 4
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 138,
+        "items": 141,
         "error": null,
-        "antiguedad_min": 32,
-        "descartados_por_gancho": 12
+        "antiguedad_min": 31,
+        "descartados_por_gancho": 11
       },
       {
         "medio": "ABC",
@@ -117,7 +118,7 @@
         "ok": true,
         "items": 24,
         "error": null,
-        "antiguedad_min": 21,
+        "antiguedad_min": 38,
         "descartados_por_gancho": 1
       }
     ]
