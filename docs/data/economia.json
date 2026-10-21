@@ -2,70 +2,70 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "portadas",
-  "generado": "2026-10-21T02:19:11+02:00",
+  "generado": "2026-10-21T07:06:17+02:00",
   "titulares": [
     {
-      "titular": "Carrefour rebaja sus previsiones por los disturbios en Francia: \"Es una situación sin precedentes\"",
+      "titular": "Sabadell recompone su accionariado con la entrada de fondos de largo plazo",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-20T18:23:30+02:00",
-      "enlace": "https://www.expansion.com/empresas/distribucion/2026/10/20/6ad790ede5fdea4b068b4593.html"
+      "fecha": "2026-10-21T02:37:48+02:00",
+      "enlace": "https://www.expansion.com/empresas/banca/2026/10/21/6abba2fe468aebd3528b459e.html"
     },
     {
-      "titular": "Waymo: los coches sin conductor de Google comienzan a circular por Madrid",
+      "titular": "Batalla de los robotaxis: los coches sin conductor de Google y Uber comienzan a circular por Madrid",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-20T12:01:03+02:00",
-      "enlace": "https://www.expansion.com/tecnologia/2026/10/20/waymo-aterriza-madrid-robotaxi-google-prepara-estreno-espana-2027.html"
+      "fecha": "2026-10-21T01:21:17+02:00",
+      "enlace": "https://www.expansion.com/tecnologia/2026/10/21/batalla-robotaxis-coches-conductor-google-uber-comienzan-circular-madrid.html"
     },
     {
-      "titular": "El Gobierno aprobará antes de fin de año la subida de sueldo a los funcionarios del 5%",
+      "titular": "El Supremo acota el cálculo del valor del catastro sin la visita de un perito",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-20T19:33:35+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/10/20/gobierno-aprobara-ano-subida-sueldo-funcionarios-5.html"
+      "fecha": "2026-10-21T02:33:48+02:00",
+      "enlace": "https://www.expansion.com/fiscal/2026/10/21/supremo-acota-calculo-valor-catastro-visita-perito.html"
     },
     {
-      "titular": "Tres valores del Ibex que marcan récord en un octubre bajista",
+      "titular": "La llegada de diésel ruso frena la escalada del crudo impulsada por los ataques hutíes",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-20T02:26:41+02:00",
-      "enlace": "https://www.expansion.com/inversion/2026/10/20/6ad6528e468aebe36d8b459a.html"
+      "fecha": "2026-10-21T02:36:07+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/10/21/llegada-diesel-ruso-frena-escalada-crudo-impulsada-ataques-huties.html"
     },
     {
-      "titular": "Una caída de Google Cloud interrumpe servicios de Revolut y otros bancos europeos",
+      "titular": "La UE rechaza extraer gas y petróleo en el Ártico pese a la crisis energética",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-20T13:13:17+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/10/20/6ad74a6fe5fdea41568b459c.html"
+      "fecha": "2026-10-21T03:06:38+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/10/21/ue-rechaza-extraer-gas-petroleo-artico-pese-crisis-energetica.html"
     },
     {
-      "titular": "JPMorgan: el bitcoin subirá más a largo plazo que Wall Street y el oro",
+      "titular": "¿Están las Bolsas ante un cambio de ciclo?",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-20T15:33:07+02:00",
-      "enlace": "https://www.expansion.com/mercados/criptomonedas/2026/10/20/6ad7522f468aebc16e8b45aa.html"
+      "fecha": "2026-10-21T00:32:43+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/10/21/6ad7af43468aeb1d488b458b.html"
     },
     {
-      "titular": "¿Es el desplome del mercado coreano el canario en la mina de la IA?",
+      "titular": "Centros de datos: ¿es excesivo el castigo a ACS, Merlin y Solaria?",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-20T12:27:14+02:00",
-      "enlace": "https://www.expansion.com/inversion/2026/10/20/6ad73b4ae5fdead13c8b459f.html"
+      "fecha": "2026-10-21T00:45:09+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/10/21/6ad7aad6468aeb3f5f8b456d.html"
     }
   ],
   "salud": {
@@ -78,16 +78,16 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 202,
+    "antiguedad_minima_min": 239,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 81,
+        "items": 72,
         "error": null,
-        "antiguedad_min": 202,
-        "descartados_por_gancho": 1
+        "antiguedad_min": 239,
+        "descartados_por_gancho": 0
       },
       {
         "medio": "Cinco Días",
@@ -126,7 +126,7 @@
         "url": "https://www.bde.es/wbe/es/rss/noticias.xml",
         "ok": false,
         "items": 0,
-        "error": "HTTP 404",
+        "error": "URLError: <urlopen error timed out>",
         "antiguedad_min": null
       }
     ]

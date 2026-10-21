@@ -2,7 +2,7 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-10-21T02:19:12+02:00",
+  "generado": "2026-10-21T07:06:18+02:00",
   "titulares": [
     {
       "titular": "4-2: El Barça cae goleado ante el campeón en un partido loco",
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 106,
+    "antiguedad_minima_min": 16,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 72,
         "error": null,
-        "antiguedad_min": 576,
+        "antiguedad_min": 863,
         "descartados_por_gancho": 0
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 137,
+        "items": 142,
         "error": null,
-        "antiguedad_min": 106,
-        "descartados_por_gancho": 8
+        "antiguedad_min": 16,
+        "descartados_por_gancho": 7
       },
       {
         "medio": "Sport",

@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-10-21T02:19:08+02:00",
+  "generado": "2026-10-21T07:05:55+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -14,31 +14,31 @@
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
     },
     {
-      "titular": "El Supremo amnistía la malversación a Junqueras y tres exconsejeros con fuertes críticas al Constitucional",
+      "titular": "El Constitucional se dispone a rechazar el amparo presentado por la ‘ley de nietos’",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-20T12:50:49+02:00",
-      "enlace": "https://elpais.com/espana/2026-10-20/el-supremo-asume-la-doctrina-del-constitucional-y-amnistia-a-junqueras-y-tres-exconsejeros.html"
+      "fecha": "2026-10-21T05:30:01+02:00",
+      "enlace": "https://elpais.com/espana/2026-10-21/el-constitucional-se-dispone-a-rechazar-el-amparo-presentado-por-la-ley-de-nietos.html"
     },
     {
-      "titular": "El Supremo amnistía a Junqueras y al resto de líderes condenados del 'procés' y lanza críticas al TC",
+      "titular": "La agonía de un Macron impotente",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-10-20T12:52:20+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20261020/11663593/junqueras-resto-lideres-proces-condenados-quedan-amnistiados.html"
+      "fecha": "2026-10-21T00:00:00+02:00",
+      "enlace": "https://www.lavanguardia.com/internacional/20261021/11663822/agonia-macron-impotente.html"
     },
     {
-      "titular": "Los trabajadores pagan un 18% más de impuestos y cotizaciones con Sánchez, mientras su renta cae un 4%",
+      "titular": "Admitidas las demandas de Julio Iglesias contra Yolanda Díaz y varios periodistas",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-10-21T01:57:59+02:00",
-      "enlace": "https://www.abc.es/economia/impuestos-cotizaciones-soporta-trabajador-medio-suben-sanchez-20261021222828-nt.html"
+      "fecha": "2026-10-21T06:45:08+02:00",
+      "enlace": "https://www.abc.es/gente/julio-iglesias-apunta-dos-victorias-judiciales-admiten-20261020165312-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -50,22 +50,22 @@
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
     },
     {
-      "titular": "Feijóo propone exigir a los nacionalizados un “tiempo de residencia mínima” en España para poder votar",
+      "titular": "Marchena contra Conde-Pumpido: el choque por la amnistía",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-20T13:35:05+02:00",
-      "enlace": "https://elpais.com/espana/elecciones-generales/2026-10-20/feijoo-propone-exigir-un-tiempo-de-residencia-minima-en-espana-para-poder-votar-a-quienes-hayan-sido-nacionalizados.html"
+      "fecha": "2026-10-21T05:30:01+02:00",
+      "enlace": "https://elpais.com/espana/2026-10-21/marchena-contra-conde-pumpido-clave-del-choque-por-la-amnistia.html"
     },
     {
-      "titular": "El Gobierno da la bienvenida a la amnistía para Junqueras y Turull: “Es motivo de celebración”",
+      "titular": "Francia ensaya el toque de queda",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-10-20T14:06:51+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20261020/11663681/gobierno-da-bienvenida-amnistia-junqueras-turull-motivo-celebracion.html"
+      "fecha": "2026-10-20T06:00:00+02:00",
+      "enlace": "https://www.lavanguardia.com/internacional/20261020/11663056/francia-ensaya-toque-queda.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 21,
+    "antiguedad_minima_min": 5,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2295434,
+        "antiguedad_min": 2295720,
         "descartados_por_gancho": 0
       },
       {
@@ -97,18 +97,18 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 140,
+        "items": 142,
         "error": null,
-        "antiguedad_min": 119,
+        "antiguedad_min": 5,
         "descartados_por_gancho": 5
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 145,
+        "items": 138,
         "error": null,
-        "antiguedad_min": 103,
+        "antiguedad_min": 42,
         "descartados_por_gancho": 9
       },
       {
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 24,
         "error": null,
-        "antiguedad_min": 21,
+        "antiguedad_min": 20,
         "descartados_por_gancho": 1
       }
     ]
