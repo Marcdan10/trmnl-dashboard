@@ -1,18 +1,9 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "ultimas",
-  "generado": "2026-10-20T23:46:49+02:00",
+  "modo": "portadas",
+  "generado": "2026-10-21T02:19:16+02:00",
   "titulares": [
-    {
-      "titular": "El Gobierno garantiza la subida salarial del 5% para los profesionales sanitarios en 2027",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-20T20:37:33+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/20261020/el-gobierno-garantiza-la-subida-salarial-del-para-los-profesionales-sanitarios-en/362854_0.html"
-    },
     {
       "titular": "Galicia creará 48 plazas de farmacia de atención primaria dentro de su plan de reforma de AP",
       "medios": [
@@ -21,24 +12,6 @@
       "consenso": 1,
       "fecha": "2026-10-20T20:09:10+02:00",
       "enlace": "https://diariofarma.com/2026/10/20/galicia-creara-48-plazas-de-farmacia-de-atencion-primaria-dentro-de-su-plan-de-reforma-de-ap"
-    },
-    {
-      "titular": "La FDA orienta sus prioridades científicas de 2027 a la IA y los genéricos complejos",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-20T19:26:53+02:00",
-      "enlace": "https://diariofarma.com/2026/10/20/la-fda-orienta-sus-prioridades-cientificas-de-2027-a-la-ia-y-los-genericos-complejos"
-    },
-    {
-      "titular": "\"Necesitamos una buena gobernanza tecnológica en los cribados para un diagnóstico molecular más rápido y seguro\"",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-20T18:30:40+02:00",
-      "enlace": "https://www.redaccionmedica.com/longevidad/20261020/necesitamos-una-buena-gobernanza-tecnologica-en-los-cribados-para-un-diagnostico-molecular-mas-rapido-seguro/362622_0.html"
     },
     {
       "titular": "«El mejor GLP-1 será aquel que el paciente pueda utilizar e integrar más fácilmente en su vida cotidiana»",
@@ -50,6 +23,24 @@
       "enlace": "https://elglobalfarma.com/industria/glp-1-paciente-integrar-vida-cotidiana/"
     },
     {
+      "titular": "\"Necesitamos una buena gobernanza tecnológica en los cribados para un diagnóstico molecular más rápido y seguro\"",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-20T18:30:40+02:00",
+      "enlace": "https://www.redaccionmedica.com/longevidad/20261020/necesitamos-una-buena-gobernanza-tecnologica-en-los-cribados-para-un-diagnostico-molecular-mas-rapido-seguro/362622_0.html"
+    },
+    {
+      "titular": "La FDA orienta sus prioridades científicas de 2027 a la IA y los genéricos complejos",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-20T19:26:53+02:00",
+      "enlace": "https://diariofarma.com/2026/10/20/la-fda-orienta-sus-prioridades-cientificas-de-2027-a-la-ia-y-los-genericos-complejos"
+    },
+    {
       "titular": "Sergio Marco se estrena como presidente del MICOF: «Debemos defender nuestra profesión y generar oportunidades para su desarrollo»",
       "medios": [
         "El Global"
@@ -57,6 +48,15 @@
       "consenso": 1,
       "fecha": "2026-10-20T15:58:29+02:00",
       "enlace": "https://elglobalfarma.com/farmacia/sergio-marco-presidente-micof/"
+    },
+    {
+      "titular": "Tecnología personalizada y acompañamiento profesional: claves para fomentar el envejecimiento saludable",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-20T18:20:46+02:00",
+      "enlace": "https://www.redaccionmedica.com/longevidad/20261020/tecnologia-personalizada-acompanamiento-profesional-claves-para-fomentar-el-envejecimiento-saludable/362624_0.html"
     },
     {
       "titular": "La farmacia de Salud Pública solicita a Sanidad la creación de una especialidad propia vía FIR",
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 189,
+    "antiguedad_minima_min": 341,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 217,
+        "antiguedad_min": 370,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 357,
+        "antiguedad_min": 509,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 28,
         "error": null,
-        "antiguedad_min": 189,
+        "antiguedad_min": 341,
         "descartados_por_gancho": 2
       },
       {
