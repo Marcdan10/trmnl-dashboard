@@ -2,62 +2,61 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-10-21T17:27:35+02:00",
+  "generado": "2026-10-21T21:27:59+02:00",
   "titulares": [
     {
-      "titular": "Exteriores acusa a Milei de fomentar la «polarización y violencia» y avisa: «España no acepta injerencias externas»",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-21T17:21:14+02:00",
-      "enlace": "https://www.abc.es/espana/exteriores-acusa-milei-fomentar-polarizacion-violencia-avisa-20261021171743-nt.html"
-    },
-    {
-      "titular": "Andy Burnham se enfrenta a los grupos ecologistas al dar luz verde a una explotación de gas en el mar del Norte",
+      "titular": "Real Madrid - Leipzig en directo | Comienza el encuentro en el Bernabéu",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-21T17:17:27+02:00",
-      "enlace": "https://elpais.com/clima-y-medio-ambiente/2026-10-21/andy-burnham-se-enfrenta-a-los-grupos-ecologistas-al-dar-luz-verde-a-una-explotacion-de-gas-en-el-mar-del-norte.html"
+      "fecha": "2026-10-21T21:26:09+02:00",
+      "enlace": "https://elpais.com/deportes/futbol/2026-10-21/real-madrid-leipzig-en-directo-el-partido-de-la-champions-league-en-vivo.html"
     },
     {
-      "titular": "Última hora de la actualidad política, en directo | El Gobierno condena “enérgicamente” los “insultos y calumnias” de Milei a Sánchez",
+      "titular": "El Vaticano anuncia que el tumor del Papa estaba localizado y no necesita ninguna terapia posterior",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-21T17:14:58+02:00",
-      "enlace": "https://elpais.com/espana/2026-10-21/ultima-hora-de-la-actualidad-politica-en-directo.html"
+      "fecha": "2026-10-21T21:25:58+02:00",
+      "enlace": "https://elpais.com/internacional/2026-10-21/el-vaticano-anuncia-que-el-tumor-del-papa-estaba-localizado-y-no-necesita-ninguna-terapia-posterior.html"
     },
     {
-      "titular": "Hernández de Cos se cita con Merz y Macron para reforzar su candidatura a presidir el BCE",
+      "titular": "Betis - Feyenoord, en directo: Abde rozó el primero en un remate de espuela (0-0)",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-10-21T17:14:55+02:00",
-      "enlace": "https://www.abc.es/economia/hernandez-cos-cita-merz-macron-impulsar-candidatura-20261020012540-nt.html"
+      "fecha": "2026-10-21T21:06:52+02:00",
+      "enlace": "https://www.abc.es/deportes/alfinaldelapalmera/noticias-betis/betis-feyenoord-directo-ultima-hora-partido-champions-20261021155245-dis.html"
     },
     {
-      "titular": "Admitida una querella contra la hermana de Óscar Puente por prevaricar en la ley",
+      "titular": "Saibari, la perla marroquí, sustituye al sancionado Olise ante el Arsenal",
       "medios": [
-        "La Vanguardia",
         "ABC"
       ],
-      "consenso": 2,
-      "fecha": "2026-10-21T16:17:24+02:00",
-      "enlace": "https://www.abc.es/espana/juzgado-madrid-admite-querella-sofia-puente-prevaricar-20261021124142-nt.html"
+      "consenso": 1,
+      "fecha": "2026-10-21T21:02:55+02:00",
+      "enlace": "https://www.abc.es/deportes/futbol/bayern-arsenal-directo-resultado-goles-partido-champions-20261021204730-di.html"
     },
     {
-      "titular": "Chaquetas adidas a precio de outlet: 7 gangas para renovar tu armario este otoño",
+      "titular": "El Manchester United, zarandeado como un juguete roto por el Como",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-10-21T15:37:30+02:00",
-      "enlace": "https://www.lavanguardia.com/comprar/moda-belleza/20261021/11663871/chaquetas-adidas-precio-outlet-7-gangas-renovar-armario-otono-mkt-adid.html"
+      "fecha": "2026-10-21T20:55:31+02:00",
+      "enlace": "https://www.lavanguardia.com/deportes/futbol/20261021/11664906/manchester-united-zarandeado-juguete-roto.html"
+    },
+    {
+      "titular": "Un juez condena a Meta a pagar 25.000 millones por vender datos de usuarios con fines electorales",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-21T20:37:09+02:00",
+      "enlace": "https://www.lavanguardia.com/internacional/20261021/11664898/juez-condena-meta-pagar-25-000-millones-vender-datos-usuarios-fines-electorales.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -75,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 6,
+    "antiguedad_minima_min": 1,
     "detalle": [
       {
         "medio": "RTVE",
@@ -83,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2296342,
+        "antiguedad_min": 2296582,
         "descartados_por_gancho": 0
       },
       {
@@ -91,26 +90,26 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 403",
+        "error": "HTTP 500",
         "antiguedad_min": null
       },
       {
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 150,
+        "items": 149,
         "error": null,
-        "antiguedad_min": 10,
-        "descartados_por_gancho": 3
+        "antiguedad_min": 1,
+        "descartados_por_gancho": 4
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 137,
+        "items": 138,
         "error": null,
-        "antiguedad_min": 110,
-        "descartados_por_gancho": 15
+        "antiguedad_min": 32,
+        "descartados_por_gancho": 12
       },
       {
         "medio": "ABC",
@@ -118,7 +117,7 @@
         "ok": true,
         "items": 24,
         "error": null,
-        "antiguedad_min": 6,
+        "antiguedad_min": 21,
         "descartados_por_gancho": 1
       }
     ]
