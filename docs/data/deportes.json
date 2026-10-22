@@ -2,16 +2,16 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-10-22T00:36:15+02:00",
+  "generado": "2026-10-22T03:08:29+02:00",
   "titulares": [
     {
-      "titular": "Dosis de moral para el Real Madrid antes del Clásico",
+      "titular": "Moral intacta en el Barça con el foco en el Clásico",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-21T23:00:01+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20261021/1004241656/dosis-moral-real-madrid-clasico.html"
+      "fecha": "2026-10-22T00:30:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261022/1004241635/moral-intacta-barca-foco-clasico.html"
     },
     {
       "titular": "Histórico Yáñez, fiesta de Enzo, obra de arte de 'Caste', pleno y liderato",
@@ -23,15 +23,6 @@
       "enlace": "https://www.marca.com/futbol/real-madrid/2026/10/21/historico-yanez-fiesta-enzo-obra-arte-caste-pleno-liderato.html"
     },
     {
-      "titular": "1-0: El Real Betis se hace grande en Europa",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-21T23:16:08+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/champions-league/20261021/1004241670/real-betis-grande-europa.html"
-    },
-    {
       "titular": "Un menor, investigado por arrojar una piedra desde un puente y dejar en estado crítico a un conductor",
       "medios": [
         "Marca"
@@ -41,13 +32,13 @@
       "enlace": "https://www.marca.com/tiramillas/sucesos/2026/10/21/menor-16-anos-investigado-guardia-civil-arrojar-piedra-puente-ap-41-dejar-critico-conductor.html"
     },
     {
-      "titular": "Mourinho empieza 'su' Clásico: \"Estamos perdiendo 24 horas de reposo\"",
+      "titular": "4-1: Dosis de moral para el Real Madrid antes del Clásico",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-21T23:25:37+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20261021/1004241674/mourinho-empieza-clasico-perdiendo-24-horas-reposo.html"
+      "fecha": "2026-10-21T23:00:01+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20261021/1004241656/dosis-moral-real-madrid-clasico.html"
     },
     {
       "titular": "María Herrera, la reina de las motos: \"Quiero llevar el Mundial Femenino a MotoGP\"",
@@ -66,6 +57,15 @@
       "consenso": 1,
       "fecha": "2026-10-21T22:56:35+02:00",
       "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20261021/1004241654/sola-lagrima-caera-vinicius.html"
+    },
+    {
+      "titular": "Mbappé, un 'hat-trick' con premio",
+      "medios": [
+        "Marca"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-21T17:50:17+02:00",
+      "enlace": "https://www.marca.com/futbol/real-madrid/2026/10/21/mbappe-primer-asalto-100.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 12,
+    "antiguedad_minima_min": 150,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 74,
         "error": null,
-        "antiguedad_min": 388,
+        "antiguedad_min": 541,
         "descartados_por_gancho": 5
       },
       {
@@ -101,7 +101,7 @@
         "ok": true,
         "items": 137,
         "error": null,
-        "antiguedad_min": 12,
+        "antiguedad_min": 150,
         "descartados_por_gancho": 6
       },
       {
