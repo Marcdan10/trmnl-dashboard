@@ -2,61 +2,61 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-10-22T14:12:28+02:00",
+  "generado": "2026-10-22T19:26:20+02:00",
   "titulares": [
     {
-      "titular": "Comín desprecia su regreso a España: «Volveré del 'exilio' el día que retorne a Cataluña»",
+      "titular": "Felipe González votará en blanco y dice que si Milei vuelve a España «15 veces más, gana Sánchez»",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-10-22T13:57:09+02:00",
-      "enlace": "https://www.abc.es/espana/comin-desprecia-regreso-espana-volvere-exilio-dia-20261022132655-nt.html"
+      "fecha": "2026-10-22T19:12:59+02:00",
+      "enlace": "https://www.abc.es/espana/andalucia/malaga/felipe-gonzalez-confirma-votara-blanco-asegura-milei-20261022145904-nts.html"
     },
     {
-      "titular": "Ayuso, ante las amenazas de la izquierda: «No me van a callar ni amedrentar»",
+      "titular": "Messi I de Asturias, el día de gloria y reconocimiento en su regreso a España",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-10-22T13:56:56+02:00",
-      "enlace": "https://www.abc.es/espana/madrid/ayuso-ante-amenazas-izquierda-van-callar-amedrentar-20261022112643-nt.html"
+      "fecha": "2026-10-22T19:09:12+02:00",
+      "enlace": "https://www.abc.es/deportes/futbol/messi-asturias-siempre-pensar-siguiente-jugada-20261022184528-nt.html"
     },
     {
-      "titular": "Los presupuestos extremeños condenan a la asfixia al Consejo de la Juventud y a la cooperación internacional de la región",
+      "titular": "Sanidad despeja ‘in extremis’ el temor de los psiquiatras ante la nueva ley de internamientos forzosos para enfermos de salud mental",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-22T13:55:17+02:00",
-      "enlace": "https://elpais.com/espana/2026-10-22/los-presupuestos-extremenos-condenan-a-la-asfixia-al-consejo-de-la-juventud-y-a-la-cooperacion-internacional-al-desarrollo.html"
+      "fecha": "2026-10-22T19:04:22+02:00",
+      "enlace": "https://elpais.com/sociedad/2026-10-22/sanidad-despeja-in-extremis-el-temor-de-los-psiquiatras-ante-la-nueva-ley-de-internamientos-forzosos-para-enfermos-de-salud-mental.html"
     },
     {
-      "titular": "Corea del Norte amenaza con reanudar la guerra de altavoces contra Seúl",
+      "titular": "Detectado el virus Shamonda en tres explotaciones de vacuno de leche en Girona",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-22T18:48:33+02:00",
+      "enlace": "https://www.lavanguardia.com/vida/20261022/11665772/detectado-virus-shamonda-tres-explotaciones-vacuno-leche-girona.html"
+    },
+    {
+      "titular": "Millones de ciberataques en pocas horas, tras descubrir la IA un fallo en el corazón del 70% de las webs",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-22T13:51:30+02:00",
-      "enlace": "https://elpais.com/internacional/2026-10-22/corea-del-norte-amenaza-con-reanudar-la-guerra-de-altavoces-contra-seul.html"
+      "fecha": "2026-10-22T18:40:23+02:00",
+      "enlace": "https://elpais.com/tecnologia/2026-10-22/millones-de-intentos-de-ataque-en-pocas-horas-tras-destaparse-fallos-graves-en-miles-de-webs.html"
     },
     {
-      "titular": "La mujer que sobrevivió dos veces a la inyección letal ya camina",
+      "titular": "Bolt también desplegará robotaxis por Madrid en el 2027",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-10-22T13:21:26+02:00",
-      "enlace": "https://www.lavanguardia.com/internacional/20261022/11665454/mujer-sobrevivio-dos-veces-inyeccion-letal-camina.html"
-    },
-    {
-      "titular": "5 ideas para darle un aire nuevo al suelo de tu patio, jardín o terraza",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-22T13:05:14+02:00",
-      "enlace": "https://www.lavanguardia.com/comprar/hogar-cocina/20260804/11607466/ni-obras-cemento-ideas-aire-nuevo-suelo-patio-terraza-mkt-alie.html"
+      "fecha": "2026-10-22T18:39:50+02:00",
+      "enlace": "https://www.lavanguardia.com/local/barcelona/20261022/11665758/bolt-desplegara-robotaxis-madrid-2027.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 15,
+    "antiguedad_minima_min": 13,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2297587,
+        "antiguedad_min": 2297901,
         "descartados_por_gancho": 0
       },
       {
@@ -90,26 +90,26 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 500",
+        "error": "HTTP 403",
         "antiguedad_min": null
       },
       {
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 146,
+        "items": 143,
         "error": null,
-        "antiguedad_min": 17,
+        "antiguedad_min": 21,
         "descartados_por_gancho": 6
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 125,
+        "items": 130,
         "error": null,
-        "antiguedad_min": 51,
-        "descartados_por_gancho": 9
+        "antiguedad_min": 37,
+        "descartados_por_gancho": 10
       },
       {
         "medio": "ABC",
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 15,
+        "antiguedad_min": 13,
         "descartados_por_gancho": 0
       }
     ]

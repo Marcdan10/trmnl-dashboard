@@ -2,70 +2,70 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-10-22T14:12:32+02:00",
+  "generado": "2026-10-22T19:26:23+02:00",
   "titulares": [
     {
-      "titular": "Confirmada la muerte de un hombre en Francia por el virus shamonda en Francia, el primer contagio humano en el mundo",
+      "titular": "Luz verde a la ley de Ayuso que agiliza las gestiones tributarias y garantiza la seguridad jurídica",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-22T13:59:33+02:00",
-      "enlace": "https://www.expansion.com/estilo-vida/salud/2026/10/22/confirmada-muerte-hombre-francia-virus-shamonda-francia-primer-contagio-humano-mundo.html"
+      "fecha": "2026-10-22T19:18:36+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/10/22/luz-verde-ley-ayuso-agiliza-gestiones-tributarias-garantiza-seguridad-juridica.html"
     },
     {
-      "titular": "Osborne acelera en innovación y busca compras en nuevas categorías",
+      "titular": "Cómo la deuda de la Sepi puede condicionar la venta de Tubos: el choque entre Bruselas y la ley concursal",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-22T13:44:35+02:00",
-      "enlace": "https://www.expansion.com/empresas/distribucion/2026/10/22/6ad9f47a468aebeb428b4577.html"
+      "fecha": "2026-10-22T19:12:57+02:00",
+      "enlace": "https://www.expansion.com/pais-vasco/2026/10/22/deuda-sepi-condicionar-venta-tubos-choque-bruselas-ley-concursal.html"
     },
     {
-      "titular": "El Ibex corrige su optimismo con los resultados",
+      "titular": "Los coches eléctricos se disparan más del 70% en Europa y suponen casi un tercio del mercado",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-22T13:40:23+02:00",
+      "fecha": "2026-10-22T18:57:15+02:00",
+      "enlace": "https://www.expansion.com/empresas/motor/2026/10/22/6ada3d54e5fdea67028b4588.html"
+    },
+    {
+      "titular": "Por qué Bankinter cae un 7,56%, su mayor descenso desde abril de 2026",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-22T18:53:19+02:00",
+      "enlace": "https://www.expansion.com/inversion/2026/10/22/6ada3a5be5fdead16a8b458c.html"
+    },
+    {
+      "titular": "El Ibex pierde los 19.000 puntos por las fuertes caídas de los bancos",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-22T17:41:57+02:00",
       "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/10/22/6ad9a54ae5fdea1b788b457d.html"
     },
     {
-      "titular": "España suma dos millones de metros cuadrados de trasteros de alquiler",
+      "titular": "No habrá guerras ni inflación: ¿Ha cumplido Donald Trump sus grandes promesas?",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-22T13:30:16+02:00",
-      "enlace": "https://www.expansion.com/inmobiliario/2026/10/22/espana-suma-dos-millones-metros-cuadrados-trasteros-alquiler.html"
+      "fecha": "2026-10-22T17:10:11+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/10/22/habra-guerras-inflacion-cumplido-donald-trump-grandes-promesas.html"
     },
     {
-      "titular": "Cómo sacar partido a la lluvia de dividendos del Ibex 35",
+      "titular": "Swanlaab invierte un millón en RawData para acelerar la digitalización de la agricultura",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-22T13:26:00+02:00",
-      "enlace": "https://www.expansion.com/podcasts/en-accion/2026/10/22/sacar-partido-lluvia-dividendos-ibex-35.html"
-    },
-    {
-      "titular": "Los puestos tecnológicos mejor pagados en España",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-22T12:53:02+02:00",
-      "enlace": "https://www.expansion.com/expansion-empleo/2026/10/22/puestos-tecnologicos-mejor-pagados-espana.html"
-    },
-    {
-      "titular": "Covirán prevé cerrar el año con 150 nuevos supermercados",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-22T12:50:25+02:00",
-      "enlace": "https://www.expansion.com/empresas/distribucion/2026/10/22/6ad9e7e4468aeb2c798b457f.html"
+      "fecha": "2026-10-22T16:06:09+02:00",
+      "enlace": "https://www.expansion.com/expansion-empleo/emprendedores/2026/10/22/swanlaab-invierte-millon-rawdata-acelerar-digitalizacion-agricultura.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 12,
+    "antiguedad_minima_min": 7,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 78,
+        "items": 80,
         "error": null,
-        "antiguedad_min": 12,
+        "antiguedad_min": 7,
         "descartados_por_gancho": 0
       },
       {
