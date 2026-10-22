@@ -1,26 +1,17 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "ultimas",
-  "generado": "2026-10-22T22:41:44+02:00",
+  "modo": "portadas",
+  "generado": "2026-10-23T01:48:42+02:00",
   "titulares": [
     {
-      "titular": "Aitana abre su álbum más personal de su gira por Latinoamérica",
+      "titular": "81-89: El Barça mejora su imagen y gana en Milán",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-22T22:28:52+02:00",
-      "enlace": "https://www.mundodeportivo.com/elotromundo/gente/20261022/1004242051/aitana-abre-album-mas-personal-gira-latinoamerica-galeria-dct.html"
-    },
-    {
-      "titular": "Gayo Suetonio, historiador, sobre los gladiadores: \"Les honraban más que a los emperadores\"",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-22T22:21:46+02:00",
-      "enlace": "https://www.mundodeportivo.com/tressesenta/20261022/1004242000/jose-soto-historiador-factor-principal-caida-roma-ambicion-elites-incapacidad-ponerse-acuerdo-solucion-problemas-smd-hst.html"
+      "fecha": "2026-10-22T22:40:33+02:00",
+      "enlace": "https://www.mundodeportivo.com/baloncesto/euroliga/20261022/1004242049/81-89-barca-mejora-imagen-gana-milan.html"
     },
     {
       "titular": "Histórico Yáñez, fiesta de Enzo, obra de arte de 'Caste', pleno y liderato",
@@ -32,6 +23,15 @@
       "enlace": "https://www.marca.com/futbol/real-madrid/2026/10/21/historico-yanez-fiesta-enzo-obra-arte-caste-pleno-liderato.html"
     },
     {
+      "titular": "Leo recuerda a su padre y su importancia antes de recoger el galardón",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-22T17:37:51+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261022/1004241958/leo-recuerda-padre-importancia-recoger-galardon.html"
+    },
+    {
       "titular": "Un menor, investigado por arrojar una piedra desde un puente y dejar en estado crítico a un conductor",
       "medios": [
         "Marca"
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/tiramillas/sucesos/2026/10/21/menor-16-anos-investigado-guardia-civil-arrojar-piedra-puente-ap-41-dejar-critico-conductor.html"
     },
     {
-      "titular": "40-34: El Barça sentencia a otra víctima ilustre en la Champions con un partidazo de Hallgrimsson",
+      "titular": "Cancelo estalla contra sus críticos",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-22T22:17:33+02:00",
-      "enlace": "https://www.mundodeportivo.com/balonmano/20261022/1004242030/barca.html"
+      "fecha": "2026-10-23T00:02:06+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261022/1004242031/cancelo-estalla-criticos.html"
     },
     {
-      "titular": "99-113: El Real Madrid acaba con el Maccabi a base de triples",
+      "titular": "María Herrera, la reina de las motos: \"Quiero llevar el Mundial Femenino a MotoGP\"",
       "medios": [
-        "Mundo Deportivo"
+        "Marca"
       ],
       "consenso": 1,
-      "fecha": "2026-10-22T22:07:15+02:00",
-      "enlace": "https://www.mundodeportivo.com/baloncesto/euroliga/20261022/1004242044/99-113-real-madrid-acaba-maccabi-base-triples.html"
+      "fecha": "2026-10-21T17:58:43+02:00",
+      "enlace": "https://www.marca.com/motor/mas-motor/2026/10/21/maria-herrera-reina-motos-quiero-llevar-mundial-femenino-motogp.html"
     },
     {
-      "titular": "Bordalás: \"Me siento engañado porque no se ha cumplido lo que se ha prometido\"",
+      "titular": "1-2: El Celta asalta Celtic Park con Javi Rodríguez vestido de héroe",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-22T21:59:36+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/getafe/20261022/1004242040/bordalas-me-siento-enganado-no-cumplido-prometido.html"
+      "fecha": "2026-10-22T23:04:41+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/celta-vigo/20261022/1004242015/celtic-celta.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 12,
+    "antiguedad_minima_min": 76,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 74,
         "error": null,
-        "antiguedad_min": 1714,
+        "antiguedad_min": 1901,
         "descartados_por_gancho": 5
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 139,
+        "items": 144,
         "error": null,
-        "antiguedad_min": 12,
-        "descartados_por_gancho": 6
+        "antiguedad_min": 76,
+        "descartados_por_gancho": 5
       },
       {
         "medio": "Sport",

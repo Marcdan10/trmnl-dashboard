@@ -1,62 +1,19 @@
 {
   "pantalla": "generales",
   "titulo": "Titulares",
-  "modo": "ultimas",
-  "generado": "2026-10-22T22:41:39+02:00",
+  "modo": "portadas",
+  "generado": "2026-10-23T01:48:36+02:00",
   "titulares": [
     {
-      "titular": "El Gobierno de Kast rebaja las condenas de 56 condenados por delitos sexuales contra menores",
+      "titular": "Muere el actor Tom Skerritt conocido por sus papeles en 'Alien' o 'Top Gun'",
       "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-22T22:28:07+02:00",
-      "enlace": "https://elpais.com/chile/2026-10-22/el-gobierno-de-kast-rebaja-las-condenas-de-56-condenados-por-delitos-sexuales-contra-menores.html"
-    },
-    {
-      "titular": "Elon Musk invierte 89.000 millones en Skydance, la nueva compañía surgida de la fusión de Paramount y Warner",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-22T22:27:40+02:00",
-      "enlace": "https://elpais.com/economia/2026-10-22/elon-musk-invierte-89000-millones-en-skydance-la-nueva-compania-surgida-de-la-fusion-de-paramount-y-warner.html"
-    },
-    {
-      "titular": "El Real Madrid no para de crecer",
-      "medios": [
+        "El País",
+        "La Vanguardia",
         "ABC"
       ],
-      "consenso": 1,
-      "fecha": "2026-10-22T22:12:20+02:00",
-      "enlace": "https://www.abc.es/deportes/baloncesto/real-madrid-crecer-20261022220413-nt.html"
-    },
-    {
-      "titular": "Moderna se desploma un 24% tras filtraciones no verificadas sobre su vacuna contra el melanoma",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-22T21:54:57+02:00",
-      "enlace": "https://www.abc.es/economia/moderna-desploma-tras-filtraciones-verificadas-sobre-vacuna-20261022215457-nt.html"
-    },
-    {
-      "titular": "Cargas policiales, tensión y al menos un herido en el acto de Vito Quiles en Zaragoza",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-22T21:17:22+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20261022/11665853/cargas-policiales-tension-herido-acto-vito-quiles-zaragoza.html"
-    },
-    {
-      "titular": "Sorpresa coral a Patti Smith: miles de personas cantan su himno 'People have the power'",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-22T20:56:07+02:00",
-      "enlace": "https://www.lavanguardia.com/cultura/20261022/11665838/sorpresa-coral-patti-smith-miles-personas-cantan-himno-people-have-the-power.html"
+      "consenso": 3,
+      "fecha": "2026-10-22T22:47:50+02:00",
+      "enlace": "https://www.abc.es/play/cine/noticias/muere-actor-tom-skerritt-anos-conocido-papeles-20261022223818-nt.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -66,6 +23,51 @@
       "consenso": 1,
       "fecha": "2022-06-10T01:05:00+02:00",
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
+    },
+    {
+      "titular": "El PSOE acepta un cara a cara con Feijóo el 16 de noviembre y sigue en el aire la celebración del debate a cuatro",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-22T17:54:37+02:00",
+      "enlace": "https://elpais.com/espana/elecciones-generales/2026-10-22/el-psoe-acepta-un-cara-a-cara-con-feijoo-el-16-de-noviembre.html"
+    },
+    {
+      "titular": "El malestar europeo deja supermercados vacíos en Italia y pone en jaque a Meloni",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-22T11:33:45+02:00",
+      "enlace": "https://www.lavanguardia.com/internacional/20261022/11665320/protesta-camioneros-deja-supermercados-vacios-pone-jaque-meloni.html"
+    },
+    {
+      "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
+      "medios": [
+        "RTVE"
+      ],
+      "consenso": 1,
+      "fecha": "2022-06-10T00:03:00+02:00",
+      "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
+    },
+    {
+      "titular": "Italia y España levantan el bloqueo de Schengen",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-22T10:45:32+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20261022/11665273/italia-espana-levantan-bloqueo-schengen.html"
+    },
+    {
+      "titular": "Lista de premios de Lotería Nacional del jueves 22 de octubre",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-22T22:38:56+02:00",
+      "enlace": "https://www.abc.es/loterias/loteria-nacional/loteria-nacional-hoy-jueves-directo-comprobar-resultados-numeros-sorteo-20261022193000-di.html"
     }
   ],
   "salud": {
@@ -74,7 +76,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 13,
+    "antiguedad_minima_min": 43,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +84,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2298096,
+        "antiguedad_min": 2298283,
         "descartados_por_gancho": 0
       },
       {
@@ -97,19 +99,19 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 146,
+        "items": 145,
         "error": null,
-        "antiguedad_min": 13,
+        "antiguedad_min": 47,
         "descartados_por_gancho": 6
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 137,
+        "items": 136,
         "error": null,
-        "antiguedad_min": 84,
-        "descartados_por_gancho": 10
+        "antiguedad_min": 43,
+        "descartados_por_gancho": 12
       },
       {
         "medio": "ABC",
@@ -117,7 +119,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 29,
+        "antiguedad_min": 180,
         "descartados_por_gancho": 0
       }
     ]

@@ -1,8 +1,8 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "ultimas",
-  "generado": "2026-10-22T22:41:50+02:00",
+  "modo": "portadas",
+  "generado": "2026-10-23T01:48:49+02:00",
   "titulares": [
     {
       "titular": "La AN anula la inclusión de 14 medicamentos en la OPR de 2021, recurrida por Farmaindustria",
@@ -14,22 +14,13 @@
       "enlace": "https://diariofarma.com/2026/10/22/la-an-anula-la-inclusion-de-14-medicamentos-en-la-opr-de-2021-recurrida-por-farmaindustria"
     },
     {
-      "titular": "Francia limitará al 30% el tiempo que los médicos pueden dedicar a la Medicina Estética",
+      "titular": "El área cardiovascular crecerá un 11% anual hasta 2032, por encima del conjunto de los medicamentos de prescripción",
       "medios": [
-        "Redacción Médica"
+        "El Global"
       ],
       "consenso": 1,
-      "fecha": "2026-10-22T20:18:45+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/internacional/20261022/francia-limitara-al-el-tiempo-que-los-medicos-pueden-dedicar-la-medicina-estetica/363172_0.html"
-    },
-    {
-      "titular": "MTA: Gras aboga por simplificar los acuerdos y avanzar en la disponibilidad y uso de datos",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-22T19:26:15+02:00",
-      "enlace": "https://diariofarma.com/2026/10/22/mta-gras-aboga-por-simplificar-los-acuerdos-y-avanzar-en-la-disponibilidad-y-uso-de-datos"
+      "fecha": "2026-10-22T17:47:54+02:00",
+      "enlace": "https://elglobalfarma.com/industria/area-cardiovascular-crecera-encima-medicamentos-prescripcion/"
     },
     {
       "titular": "Los profesionales de Primaria deben aprender a \"coordinar y ser coordinados\" para aportar su máximo valor",
@@ -41,13 +32,13 @@
       "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20261022/los-profesionales-de-primaria-deben-aprender-coordinar-ser-coordinados-para-aportar-su-maximo-valor/353699_0.html"
     },
     {
-      "titular": "El área cardiovascular crecerá un 11% anual hasta 2032, por encima del conjunto de los medicamentos de prescripción",
+      "titular": "MTA: Gras aboga por simplificar los acuerdos y avanzar en la disponibilidad y uso de datos",
       "medios": [
-        "El Global"
+        "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-10-22T17:47:54+02:00",
-      "enlace": "https://elglobalfarma.com/industria/area-cardiovascular-crecera-encima-medicamentos-prescripcion/"
+      "fecha": "2026-10-22T19:26:15+02:00",
+      "enlace": "https://diariofarma.com/2026/10/22/mta-gras-aboga-por-simplificar-los-acuerdos-y-avanzar-en-la-disponibilidad-y-uso-de-datos"
     },
     {
       "titular": "La farmacia comunitaria impulsa su papel en la atención nutricional",
@@ -57,6 +48,15 @@
       "consenso": 1,
       "fecha": "2026-10-22T16:35:30+02:00",
       "enlace": "https://elglobalfarma.com/farmacia/farmacia-comunitaria-impulsa-papel-atencion-nutricional/"
+    },
+    {
+      "titular": "Derechos Sociales presiona a las autonomías para acabar con las listas de espera en Dependencia en el año 2028",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-22T17:16:36+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/servicios-sociales/20261022/derechos-sociales-presiona-las-autonomias-para-acabar-con-listas-de-espera-en-dependencia-el-ano/362055_0.html"
     },
     {
       "titular": "El ISCIII indica que el incremento de las ITS en España se ralentiza",
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 137,
+    "antiguedad_minima_min": 324,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 137,
+        "antiguedad_min": 324,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 293,
+        "antiguedad_min": 480,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 143,
+        "antiguedad_min": 330,
         "descartados_por_gancho": 0
       },
       {
