@@ -1,17 +1,26 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "portadas",
-  "generado": "2026-10-22T08:18:38+02:00",
+  "modo": "ultimas",
+  "generado": "2026-10-22T14:12:34+02:00",
   "titulares": [
     {
-      "titular": "Moral intacta en el Barça con el foco en el Clásico",
+      "titular": "Tres jugadores del Real Madrid, entre los 10 mejores pagados del mundo en 2026",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-22T00:30:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261022/1004241635/moral-intacta-barca-foco-clasico.html"
+      "fecha": "2026-10-22T13:55:13+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20261022/1004241875/tres-jugadores-real-madrid-10-mejores-pagados-mundo-2026.html"
+    },
+    {
+      "titular": "Rayo Vallecano - Elche CF: suspensión del partido o posible invasión",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-22T13:38:51+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/rayo-vallecano/20261022/1004241860/protestas-continuan-vallecas.html"
     },
     {
       "titular": "Histórico Yáñez, fiesta de Enzo, obra de arte de 'Caste', pleno y liderato",
@@ -32,40 +41,31 @@
       "enlace": "https://www.marca.com/tiramillas/sucesos/2026/10/21/menor-16-anos-investigado-guardia-civil-arrojar-piedra-puente-ap-41-dejar-critico-conductor.html"
     },
     {
-      "titular": "4-1: Dosis de ánimos para el Real Madrid antes del Clásico",
+      "titular": "\"Para ganar tienes que ser más perro, tener la maldad y picardía que no se ha tenido\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-21T23:00:01+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20261021/1004241656/dosis-moral-real-madrid-clasico.html"
+      "fecha": "2026-10-22T13:33:42+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/rcd-espanyol/20261022/1004241817/cabrera.html"
     },
     {
-      "titular": "María Herrera, la reina de las motos: \"Quiero llevar el Mundial Femenino a MotoGP\"",
-      "medios": [
-        "Marca"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-21T17:58:43+02:00",
-      "enlace": "https://www.marca.com/motor/mas-motor/2026/10/21/maria-herrera-reina-motos-quiero-llevar-mundial-femenino-motogp.html"
-    },
-    {
-      "titular": "Ni una sola lágrima caerá por Vinicius",
+      "titular": "Así será el Tour de Francia 2027: mucha contrarreloj, puertos míticos y todo un desafío para el pentacampeón Pogacar",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-21T22:56:35+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20261021/1004241654/sola-lagrima-caera-vinicius.html"
+      "fecha": "2026-10-22T13:29:53+02:00",
+      "enlace": "https://www.mundodeportivo.com/ciclismo/tour-francia/20261022/1004241864/asi-sera-tour-francia-2027-contrarreloj-puertos-miticos-desafio-pentacampeon-pogacar.html"
     },
     {
-      "titular": "Mbappé, un 'hat-trick' con premio",
+      "titular": "Lidl rebaja hasta el domingo 25 de octubre varias de sus carnes frescas: hasta un 20% más baratas",
       "medios": [
-        "Marca"
+        "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-21T17:50:17+02:00",
-      "enlace": "https://www.marca.com/futbol/real-madrid/2026/10/21/mbappe-primer-asalto-100.html"
+      "fecha": "2026-10-22T13:28:01+02:00",
+      "enlace": "https://www.mundodeportivo.com/actualidad/consumo/20261022/1004241851/lidl-rebaja-domingo-25-octubre-carnes-frescas-20-mas-baratas-dct.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 27,
+    "antiguedad_minima_min": 17,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 74,
         "error": null,
-        "antiguedad_min": 851,
+        "antiguedad_min": 1205,
         "descartados_por_gancho": 5
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 141,
+        "items": 152,
         "error": null,
-        "antiguedad_min": 27,
-        "descartados_por_gancho": 5
+        "antiguedad_min": 17,
+        "descartados_por_gancho": 4
       },
       {
         "medio": "Sport",

@@ -1,71 +1,71 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "portadas",
-  "generado": "2026-10-22T08:18:37+02:00",
+  "modo": "ultimas",
+  "generado": "2026-10-22T14:12:32+02:00",
   "titulares": [
     {
-      "titular": "Santander ficha al exCEO de El Corte Inglés Santiago Bau",
+      "titular": "Confirmada la muerte de un hombre en Francia por el virus shamonda en Francia, el primer contagio humano en el mundo",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-22T02:18:15+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/10/22/6ad9060de5fdea73488b4581.html"
+      "fecha": "2026-10-22T13:59:33+02:00",
+      "enlace": "https://www.expansion.com/estilo-vida/salud/2026/10/22/confirmada-muerte-hombre-francia-virus-shamonda-francia-primer-contagio-humano-mundo.html"
     },
     {
-      "titular": "Bankinter gana 901 millones hasta septiembre, un 11% más",
+      "titular": "Osborne acelera en innovación y busca compras en nuevas categorías",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-22T07:49:55+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/10/22/6ad99f1be5fdea25648b4573.html"
+      "fecha": "2026-10-22T13:44:35+02:00",
+      "enlace": "https://www.expansion.com/empresas/distribucion/2026/10/22/6ad9f47a468aebeb428b4577.html"
     },
     {
-      "titular": "La banca europea, con colchón para mejorar el dividendo",
+      "titular": "El Ibex corrige su optimismo con los resultados",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-22T02:18:16+02:00",
-      "enlace": "https://www.expansion.com/inversion/2026/10/22/6ad90076e5fdea12568b4597.html"
+      "fecha": "2026-10-22T13:40:23+02:00",
+      "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/10/22/6ad9a54ae5fdea1b788b457d.html"
     },
     {
-      "titular": "La Primera de Expansión sobre Santander, Meta, vivienda, Tesla, Puma, TikTok y el Papa",
+      "titular": "España suma dos millones de metros cuadrados de trasteros de alquiler",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-22T07:25:06+02:00",
-      "enlace": "https://www.expansion.com/podcasts/la-primera-de-expansion/2026/10/22/primera-expansion-sobre-santander-meta-vivienda-tesla-puma-tiktok-papa.html"
+      "fecha": "2026-10-22T13:30:16+02:00",
+      "enlace": "https://www.expansion.com/inmobiliario/2026/10/22/espana-suma-dos-millones-metros-cuadrados-trasteros-alquiler.html"
     },
     {
-      "titular": "Los pequeños caseros y los futuros inquilinos, los más castigados por los decretos de vivienda",
+      "titular": "Cómo sacar partido a la lluvia de dividendos del Ibex 35",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-22T00:10:37+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/10/22/pequenos-caseros-futuros-inquilinos-castigados-decretos-vivienda.html"
+      "fecha": "2026-10-22T13:26:00+02:00",
+      "enlace": "https://www.expansion.com/podcasts/en-accion/2026/10/22/sacar-partido-lluvia-dividendos-ibex-35.html"
     },
     {
-      "titular": "Alerta en el mercado europeo: el bono francés ya rinde más del 5%",
+      "titular": "Los puestos tecnológicos mejor pagados en España",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-22T02:18:24+02:00",
-      "enlace": "https://www.expansion.com/mercados/renta-fija/2026/10/22/6ad8f415468aebb12e8b458e.html"
+      "fecha": "2026-10-22T12:53:02+02:00",
+      "enlace": "https://www.expansion.com/expansion-empleo/2026/10/22/puestos-tecnologicos-mejor-pagados-espana.html"
     },
     {
-      "titular": "Cuatro sectores bursátiles para \"comprar Europa\"",
+      "titular": "Covirán prevé cerrar el año con 150 nuevos supermercados",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-22T02:18:17+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/10/22/6ad8ab2f468aeb010f8b45d3.html"
+      "fecha": "2026-10-22T12:50:25+02:00",
+      "enlace": "https://www.expansion.com/empresas/distribucion/2026/10/22/6ad9e7e4468aeb2c798b457f.html"
     }
   ],
   "salud": {
@@ -78,16 +78,16 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 28,
+    "antiguedad_minima_min": 12,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 70,
+        "items": 78,
         "error": null,
-        "antiguedad_min": 28,
-        "descartados_por_gancho": 1
+        "antiguedad_min": 12,
+        "descartados_por_gancho": 0
       },
       {
         "medio": "Cinco Días",
