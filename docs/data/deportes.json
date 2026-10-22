@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-10-22T19:26:25+02:00",
+  "generado": "2026-10-22T22:41:44+02:00",
   "titulares": [
     {
-      "titular": "Olot, capital del hockey rodado este fin de semana con los dos torneos de la Supercopa de España",
+      "titular": "Aitana abre su álbum más personal de su gira por Latinoamérica",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-22T18:53:28+02:00",
-      "enlace": "https://www.mundodeportivo.com/hockey-patines/20261022/1004241989/olot-capital-hockey-rodado-semana-dos-torneos-supercopa-espana.html"
+      "fecha": "2026-10-22T22:28:52+02:00",
+      "enlace": "https://www.mundodeportivo.com/elotromundo/gente/20261022/1004242051/aitana-abre-album-mas-personal-gira-latinoamerica-galeria-dct.html"
     },
     {
-      "titular": "El Real Betis ya ha batido su récord de ingresos en Europa",
+      "titular": "Gayo Suetonio, historiador, sobre los gladiadores: \"Les honraban más que a los emperadores\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-22T18:53:15+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/betis/20261022/1004241991/real-betis-batido-record-ingresos-europa.html"
+      "fecha": "2026-10-22T22:21:46+02:00",
+      "enlace": "https://www.mundodeportivo.com/tressesenta/20261022/1004242000/jose-soto-historiador-factor-principal-caida-roma-ambicion-elites-incapacidad-ponerse-acuerdo-solucion-problemas-smd-hst.html"
     },
     {
       "titular": "Histórico Yáñez, fiesta de Enzo, obra de arte de 'Caste', pleno y liderato",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/tiramillas/sucesos/2026/10/21/menor-16-anos-investigado-guardia-civil-arrojar-piedra-puente-ap-41-dejar-critico-conductor.html"
     },
     {
-      "titular": "Jesús, hostelero: \"Ahora el trabajo se paga bien, se hacen 40 horas y nada que ver con hace años. Mucha gente joven no aguanta\"",
+      "titular": "40-34: El Barça sentencia a otra víctima ilustre en la Champions con un partidazo de Hallgrimsson",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-22T18:52:37+02:00",
-      "enlace": "https://www.mundodeportivo.com/tressesenta/20261022/1004241990/jesus-ortega-hostelero-no-hay-profesionales-cualificados-trabajo-paga-40-horas-ver-anos-complicado-gente-joven-no-aguanta-dct.html"
+      "fecha": "2026-10-22T22:17:33+02:00",
+      "enlace": "https://www.mundodeportivo.com/balonmano/20261022/1004242030/barca.html"
     },
     {
-      "titular": "Donald Trump acusa a LeBron James de faltar al respeto al himno nacional",
+      "titular": "99-113: El Real Madrid acaba con el Maccabi a base de triples",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-22T18:50:19+02:00",
-      "enlace": "https://www.mundodeportivo.com/baloncesto/nba/20261022/1004241987/donald-trump-acusa-lebron-james-faltar-respeto-himno-nacional.html"
+      "fecha": "2026-10-22T22:07:15+02:00",
+      "enlace": "https://www.mundodeportivo.com/baloncesto/euroliga/20261022/1004242044/99-113-real-madrid-acaba-maccabi-base-triples.html"
     },
     {
-      "titular": "39-35: Nielsen agiganta su figura cada día y somete al Füchse como hizo con el Barça",
+      "titular": "Bordalás: \"Me siento engañado porque no se ha cumplido lo que se ha prometido\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-22T18:46:17+02:00",
-      "enlace": "https://www.mundodeportivo.com/balonmano/20261022/1004241959/39-35-nielsen-agiganta-figura-dia-somete-fuechse-hizo-barca.html"
+      "fecha": "2026-10-22T21:59:36+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/getafe/20261022/1004242040/bordalas-me-siento-enganado-no-cumplido-prometido.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 32,
+    "antiguedad_minima_min": 12,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 74,
         "error": null,
-        "antiguedad_min": 1519,
+        "antiguedad_min": 1714,
         "descartados_por_gancho": 5
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 144,
+        "items": 139,
         "error": null,
-        "antiguedad_min": 32,
-        "descartados_por_gancho": 4
+        "antiguedad_min": 12,
+        "descartados_por_gancho": 6
       },
       {
         "medio": "Sport",
