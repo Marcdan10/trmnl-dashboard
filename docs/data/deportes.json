@@ -2,7 +2,7 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-10-22T03:08:29+02:00",
+  "generado": "2026-10-22T08:18:38+02:00",
   "titulares": [
     {
       "titular": "Moral intacta en el Barça con el foco en el Clásico",
@@ -32,7 +32,7 @@
       "enlace": "https://www.marca.com/tiramillas/sucesos/2026/10/21/menor-16-anos-investigado-guardia-civil-arrojar-piedra-puente-ap-41-dejar-critico-conductor.html"
     },
     {
-      "titular": "4-1: Dosis de moral para el Real Madrid antes del Clásico",
+      "titular": "4-1: Dosis de ánimos para el Real Madrid antes del Clásico",
       "medios": [
         "Mundo Deportivo"
       ],
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 150,
+    "antiguedad_minima_min": 27,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 74,
         "error": null,
-        "antiguedad_min": 541,
+        "antiguedad_min": 851,
         "descartados_por_gancho": 5
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 137,
+        "items": 141,
         "error": null,
-        "antiguedad_min": 150,
-        "descartados_por_gancho": 6
+        "antiguedad_min": 27,
+        "descartados_por_gancho": 5
       },
       {
         "medio": "Sport",

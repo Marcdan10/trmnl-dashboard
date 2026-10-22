@@ -2,7 +2,7 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "portadas",
-  "generado": "2026-10-22T03:08:35+02:00",
+  "generado": "2026-10-22T08:18:45+02:00",
   "titulares": [
     {
       "titular": "El proyecto presupuestario de Castilla-La Mancha eleva el gasto sanitario un 13,6%",
@@ -23,13 +23,13 @@
       "enlace": "https://elglobalfarma.com/industria/etica-peso-ventaja-competitiva-industria-farmaceutica-claves/"
     },
     {
-      "titular": "El diagnóstico precoz pone a prueba al SNS: \"El sistema falla porque premia responder a la enfermedad antes que prevenirla\"",
+      "titular": "Plantearse dejar Medicina a un mes de empezar: \"Ser un médico infeliz no va a ayudar a nadie\"",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-10-21T15:24:31+02:00",
-      "enlace": "https://www.redaccionmedica.com/longevidad/20261021/el-diagnostico-precoz-pone-prueba-al-sns-sistema-falla-porque-premia-responder-la-enfermedad-antes-que-prevenirla/362675_0.html"
+      "fecha": "2026-10-22T05:00:00+02:00",
+      "enlace": "https://www.redaccionmedica.com/formacion/estudiantes/20261022/plantearse-dejar-medicina-un-mes-de-empezar-ser-medico-infeliz-no-va-ayudar-nadie/362593_0.html"
     },
     {
       "titular": "Hemato2026 aborda la equidad en el acceso a la inmunoterapia y la terapia génica",
@@ -50,13 +50,13 @@
       "enlace": "https://elglobalfarma.com/politica/aemps-ronda-ipt-cuatro-informes/"
     },
     {
-      "titular": "De la reacción a la proactividad: la necesaria alianza entre pacientes, sanitarios y empresas para una longevidad saludable",
+      "titular": "\"Los anticuerpos monoclonales en migraña han permitido al farmacéutico hospitalario participar en la atención directa\"",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-10-21T15:05:38+02:00",
-      "enlace": "https://www.redaccionmedica.com/longevidad/20261021/de-la-reaccion-proactividad-necesaria-alianza-entre-pacientes-sanitarios-empresas-para-una-longevidad-saludable/362667_0.html"
+      "fecha": "2026-10-22T05:05:00+02:00",
+      "enlace": "https://www.redaccionmedica.com/empresas/industria-farmaceutica/20261022/los-anticuerpos-monoclonales-en-migrana-han-permitido-al-farmaceutico-hospitalario-participar-la-atencion-directa/362549_0.html"
     },
     {
       "titular": "El Consejo General respalda crear la especialidad de Salud Pública vía FIR",
@@ -77,7 +77,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 445,
+    "antiguedad_minima_min": 193,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -85,7 +85,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 452,
+        "antiguedad_min": 762,
         "descartados_por_gancho": 0
       },
       {
@@ -94,17 +94,17 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 537,
+        "antiguedad_min": 847,
         "descartados_por_gancho": 0
       },
       {
         "medio": "Redacción Médica",
         "url": "https://www.redaccionmedica.com/rss/",
         "ok": true,
-        "items": 28,
+        "items": 29,
         "error": null,
-        "antiguedad_min": 445,
-        "descartados_por_gancho": 2
+        "antiguedad_min": 193,
+        "descartados_por_gancho": 1
       },
       {
         "medio": "PMFarma",

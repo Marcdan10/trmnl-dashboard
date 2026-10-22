@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-10-22T03:08:24+02:00",
+  "generado": "2026-10-22T08:18:34+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -14,22 +14,22 @@
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
     },
     {
-      "titular": "Ayuso y Milei, un encuentro inoportuno zanjado con un abrazo entusiasta",
+      "titular": "El voto de los nacionalizados queda en manos del Supremo en tiempo de descuento",
       "medios": [
-        "El País"
+        "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-10-21T18:31:22+02:00",
-      "enlace": "https://elpais.com/espana/madrid/2026-10-21/ayuso-y-milei-un-encuentro-descafeinado-e-inoportuno.html"
+      "fecha": "2026-10-22T06:00:00+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20261022/11664880/tc-rechaza-recurso-defensor-pueblo-nietos-podran-votar.html"
     },
     {
-      "titular": "EE.UU. ordena la evacuación del personal de la embajada en Arabia Saudí tras el ataque a un aeropuerto",
+      "titular": "Los peatones y motoristas encabezan las listas de mortalidad en ciudad y carretera",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-10-22T02:34:12+02:00",
-      "enlace": "https://www.abc.es/internacional/eeuu-ordena-evacuacion-personal-embajada-arabia-saudi-20261022023412-nt.html"
+      "fecha": "2026-10-22T07:41:00+02:00",
+      "enlace": "https://www.abc.es/motor/reportajes/peatones-motoristas-encabezan-listas-mortalidad-ciudad-carretera-20261021011247-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -41,13 +41,13 @@
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
     },
     {
-      "titular": "Milei busca la confrontación directa con Sánchez en Madrid y eclipsa a Feijóo y Abascal",
+      "titular": "El PP confía en que el impacto de la visita de Milei se diluya el 29-N: “Si llega a venir la última semana sería distinto”",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-21T17:30:37+02:00",
-      "enlace": "https://elpais.com/espana/2026-10-21/milei-participa-en-un-desayuno-informativo-en-madrid-durante-su-visita-a-espana.html"
+      "fecha": "2026-10-22T05:30:01+02:00",
+      "enlace": "https://elpais.com/espana/2026-10-22/el-pp-confia-en-que-el-impacto-de-la-visita-de-milei-se-diluya-el-29-n-si-llega-a-venir-la-ultima-semana-seria-distinto.html"
     },
     {
       "titular": "¿Por qué el control del Senado es clave para el futuro del Tribunal Constitucional?",
@@ -59,13 +59,13 @@
       "enlace": "https://www.lavanguardia.com/politica/20261021/11664604/senado-llave-renovacion-tribunal-constitucional.html"
     },
     {
-      "titular": "La protesta de Sol degenera en peleas, cuarenta grupos y sin liderazgo",
+      "titular": "El 'New York Times' destaca a un actor de 'La bola negra': «Posee un magnetismo»",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-10-22T02:20:41+02:00",
-      "enlace": "https://www.abc.es/espana/madrid/acampada-sol-degenera-peleas-protocolos-violaciones-ayuda-20261020012739-nt.html"
+      "fecha": "2026-10-22T07:25:50+02:00",
+      "enlace": "https://www.abc.es/play/cine/noticias/new-york-times-publica-critica-sobre-bola-20261022063000-nt.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 34,
+    "antiguedad_minima_min": 8,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2296923,
+        "antiguedad_min": 2297233,
         "descartados_por_gancho": 0
       },
       {
@@ -97,28 +97,28 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 151,
+        "items": 139,
         "error": null,
-        "antiguedad_min": 134,
-        "descartados_por_gancho": 4
+        "antiguedad_min": 8,
+        "descartados_por_gancho": 6
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 141,
+        "items": 126,
         "error": null,
-        "antiguedad_min": 116,
-        "descartados_por_gancho": 8
+        "antiguedad_min": 39,
+        "descartados_por_gancho": 10
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 24,
+        "items": 25,
         "error": null,
-        "antiguedad_min": 34,
-        "descartados_por_gancho": 1
+        "antiguedad_min": 37,
+        "descartados_por_gancho": 0
       }
     ]
   }
