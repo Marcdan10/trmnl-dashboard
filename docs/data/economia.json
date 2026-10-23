@@ -1,71 +1,71 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "portadas",
-  "generado": "2026-10-23T10:12:44+02:00",
+  "modo": "ultimas",
+  "generado": "2026-10-23T15:40:26+02:00",
   "titulares": [
     {
-      "titular": "OpenAI rebaja su objetivo de valoración a 1,25 billones a las puertas de su salida a Bolsa",
+      "titular": "El petróleo da un paso más en su escalada al tocar los 115 dólares",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-23T09:06:37+02:00",
-      "enlace": "https://www.expansion.com/tecnologia/2026/10/23/openai-rebaja-objetivo-valoracion-1-25-billones-puertas-salida-bolsa.html"
-    },
-    {
-      "titular": "Colonial negocia vender la sede de Iberia en Madrid",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-23T01:34:05+02:00",
-      "enlace": "https://www.expansion.com/inmobiliario/2026/10/23/colonial-negocia-vender-sede-iberia-madrid.html"
-    },
-    {
-      "titular": "Geely, MG y Chery sacrifican su margen para conquistar Europa",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-23T07:02:08+02:00",
-      "enlace": "https://www.expansion.com/empresas/motor/2026/10/23/6adae32de5fdead16a8b45ae.html"
-    },
-    {
-      "titular": "La Primera de Expansión sobre coches chinos, Colonial, Iberia, barcos chinos, el Yen y Open AI",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-23T07:31:39+02:00",
-      "enlace": "https://www.expansion.com/podcasts/la-primera-de-expansion/2026/10/23/primera-expansion-sobre-coches-chinos-colonial-iberia-barcos-chinos-yen-open-ai.html"
-    },
-    {
-      "titular": "El petróleo da un paso más en su escalada",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-23T09:57:18+02:00",
+      "fecha": "2026-10-23T15:19:22+02:00",
       "enlace": "https://www.expansion.com/mercados/materias-primas/2026/10/23/6adb0f83e5fdea04318b45ba.html"
     },
     {
-      "titular": "La cruda realidad europea sobre los bonos de EEUU",
+      "titular": "El Valencia CF abre su capital a EEUU: Pitchwise toma el 42% e inyecta 100 millones",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-23T00:39:32+02:00",
-      "enlace": "https://www.expansion.com/economia/financial-times/2026/10/23/cruda-realidad-europea-sobre-bonos-eeuu.html"
+      "fecha": "2026-10-23T15:13:47+02:00",
+      "enlace": "https://www.expansion.com/deporte-negocio/2026/10/23/valencia-cf-abre-capital-eeuu-pitchwise-toma-42-e-inyecta-100-millones.html"
     },
     {
-      "titular": "Viviendas de autor recién salidas de la fábrica",
+      "titular": "El Ibex intenta resistir cerca de los 19.000 puntos",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-23T01:41:27+02:00",
-      "enlace": "https://www.expansion.com/inmobiliario/casas/2026/10/23/viviendas-autor-recien-salidas-fabrica.html"
+      "fecha": "2026-10-23T15:07:31+02:00",
+      "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/10/23/6adaf7cc468aebbd528b458e.html"
+    },
+    {
+      "titular": "Qué está provocando el desplome del oro",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-23T14:18:50+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/10/23/6adb41d9e5fdea8e478b457c.html"
+    },
+    {
+      "titular": "La Audiencia Nacional amnistía a los doce CDR procesados por terrorismo",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-23T14:16:11+02:00",
+      "enlace": "https://www.expansion.com/economia/politica/2026/10/23/audiencia-nacional-amnistia-doce-cdr-procesados-terrorismo.html"
+    },
+    {
+      "titular": "Los Sainz de Vicuña irrumpen en Acerinox y afloran un 3% valorado en 125 millones",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-23T14:10:35+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/10/23/6adb4e53468aeb866d8b4598.html"
+    },
+    {
+      "titular": "Hausum cierra una ronda de medio millón con Diroca y Spicy4tuna",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-23T13:27:01+02:00",
+      "enlace": "https://www.expansion.com/catalunya/2026/10/23/hausum-cierra-ronda-medio-millon-diroca-spicy4tuna.html"
     }
   ],
   "salud": {
@@ -78,7 +78,7 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 8,
+    "antiguedad_minima_min": 21,
     "detalle": [
       {
         "medio": "Expansión",
@@ -86,8 +86,8 @@
         "ok": true,
         "items": 72,
         "error": null,
-        "antiguedad_min": 8,
-        "descartados_por_gancho": 1
+        "antiguedad_min": 21,
+        "descartados_por_gancho": 2
       },
       {
         "medio": "Cinco Días",
