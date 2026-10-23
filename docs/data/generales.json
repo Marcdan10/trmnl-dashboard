@@ -2,19 +2,8 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-10-23T01:48:36+02:00",
+  "generado": "2026-10-23T04:56:01+02:00",
   "titulares": [
-    {
-      "titular": "Muere el actor Tom Skerritt conocido por sus papeles en 'Alien' o 'Top Gun'",
-      "medios": [
-        "El País",
-        "La Vanguardia",
-        "ABC"
-      ],
-      "consenso": 3,
-      "fecha": "2026-10-22T22:47:50+02:00",
-      "enlace": "https://www.abc.es/play/cine/noticias/muere-actor-tom-skerritt-anos-conocido-papeles-20261022223818-nt.html"
-    },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
       "medios": [
@@ -43,6 +32,25 @@
       "enlace": "https://www.lavanguardia.com/internacional/20261022/11665320/protesta-camioneros-deja-supermercados-vacios-pone-jaque-meloni.html"
     },
     {
+      "titular": "Cinco planes de Halloween para los amantes del misterio y las leyendas",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-27T02:59:00+02:00",
+      "enlace": "https://www.abc.es/viajar/destinos/espana/publicarhalloween-2026-cinco-planes-amantes-misterio-leyendas-20261022031732-nt.html"
+    },
+    {
+      "titular": "Álvarez de Toledo y Sémper serán los números dos y tres de Feijóo en la lista por Madrid",
+      "medios": [
+        "El País",
+        "La Vanguardia"
+      ],
+      "consenso": 2,
+      "fecha": "2026-10-22T12:45:24+02:00",
+      "enlace": "https://elpais.com/espana/2026-10-22/alvarez-de-toledo-y-semper-seran-los-numeros-dos-y-tres-de-feijoo-en-la-lista-por-madrid.html"
+    },
+    {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
       "medios": [
         "RTVE"
@@ -59,15 +67,6 @@
       "consenso": 1,
       "fecha": "2026-10-22T10:45:32+02:00",
       "enlace": "https://www.lavanguardia.com/politica/20261022/11665273/italia-espana-levantan-bloqueo-schengen.html"
-    },
-    {
-      "titular": "Lista de premios de Lotería Nacional del jueves 22 de octubre",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-22T22:38:56+02:00",
-      "enlace": "https://www.abc.es/loterias/loteria-nacional/loteria-nacional-hoy-jueves-directo-comprobar-resultados-numeros-sorteo-20261022193000-di.html"
     }
   ],
   "salud": {
@@ -76,7 +75,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 43,
+    "antiguedad_minima_min": -5643,
     "detalle": [
       {
         "medio": "RTVE",
@@ -84,7 +83,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2298283,
+        "antiguedad_min": 2298471,
         "descartados_por_gancho": 0
       },
       {
@@ -101,7 +100,7 @@
         "ok": true,
         "items": 145,
         "error": null,
-        "antiguedad_min": 47,
+        "antiguedad_min": 25,
         "descartados_por_gancho": 6
       },
       {
@@ -110,17 +109,17 @@
         "ok": true,
         "items": 136,
         "error": null,
-        "antiguedad_min": 43,
+        "antiguedad_min": 231,
         "descartados_por_gancho": 12
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 25,
+        "items": 23,
         "error": null,
-        "antiguedad_min": 180,
-        "descartados_por_gancho": 0
+        "antiguedad_min": -5643,
+        "descartados_por_gancho": 2
       }
     ]
   }
