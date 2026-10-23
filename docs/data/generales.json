@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-10-23T04:56:01+02:00",
+  "generado": "2026-10-23T10:12:39+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -14,22 +14,22 @@
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
     },
     {
-      "titular": "El PSOE acepta un cara a cara con Feijóo el 16 de noviembre y sigue en el aire la celebración del debate a cuatro",
+      "titular": "Última hora de la actualidad política, en directo | Feijóo intentará gobernar aunque no sea la lista más votada: “El objetivo es que Sánchez se vaya”",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-22T17:54:37+02:00",
-      "enlace": "https://elpais.com/espana/elecciones-generales/2026-10-22/el-psoe-acepta-un-cara-a-cara-con-feijoo-el-16-de-noviembre.html"
+      "fecha": "2026-10-23T10:04:29+02:00",
+      "enlace": "https://elpais.com/espana/2026-10-23/ultima-hora-de-la-actualidad-politica-en-directo.html"
     },
     {
-      "titular": "El malestar europeo deja supermercados vacíos en Italia y pone en jaque a Meloni",
+      "titular": "Feijóo asegura que Milei ha rebajado la pobreza en Argentina, pero no comparte su “lenguaje”",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-10-22T11:33:45+02:00",
-      "enlace": "https://www.lavanguardia.com/internacional/20261022/11665320/protesta-camioneros-deja-supermercados-vacios-pone-jaque-meloni.html"
+      "fecha": "2026-10-23T09:05:25+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20261023/11666170/feijoo-dispuesto-corresponder-vox-renuncia-presentar-determinadas-provincias-senado.html"
     },
     {
       "titular": "Cinco planes de Halloween para los amantes del misterio y las leyendas",
@@ -41,16 +41,6 @@
       "enlace": "https://www.abc.es/viajar/destinos/espana/publicarhalloween-2026-cinco-planes-amantes-misterio-leyendas-20261022031732-nt.html"
     },
     {
-      "titular": "Álvarez de Toledo y Sémper serán los números dos y tres de Feijóo en la lista por Madrid",
-      "medios": [
-        "El País",
-        "La Vanguardia"
-      ],
-      "consenso": 2,
-      "fecha": "2026-10-22T12:45:24+02:00",
-      "enlace": "https://elpais.com/espana/2026-10-22/alvarez-de-toledo-y-semper-seran-los-numeros-dos-y-tres-de-feijoo-en-la-lista-por-madrid.html"
-    },
-    {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
       "medios": [
         "RTVE"
@@ -60,13 +50,22 @@
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
     },
     {
-      "titular": "Italia y España levantan el bloqueo de Schengen",
+      "titular": "Sánchez con Broncano: sesión de control del buen rollito",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-22T23:46:58+02:00",
+      "enlace": "https://elpais.com/espana/2026-10-22/sanchez-con-broncano-sesion-de-control-del-buen-rollito.html"
+    },
+    {
+      "titular": "Los vídeos falsos fabricados con IA irrumpen en la campaña",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-10-22T10:45:32+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20261022/11665273/italia-espana-levantan-bloqueo-schengen.html"
+      "fecha": "2026-10-23T06:00:00+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20261023/11665829/campanas-deepfakes.html"
     }
   ],
   "salud": {
@@ -75,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": -5643,
+    "antiguedad_minima_min": -5327,
     "detalle": [
       {
         "medio": "RTVE",
@@ -83,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2298471,
+        "antiguedad_min": 2298787,
         "descartados_por_gancho": 0
       },
       {
@@ -91,35 +90,35 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 403",
+        "error": "HTTP 500",
         "antiguedad_min": null
       },
       {
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 145,
+        "items": 138,
         "error": null,
-        "antiguedad_min": 25,
-        "descartados_por_gancho": 6
+        "antiguedad_min": 8,
+        "descartados_por_gancho": 10
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 136,
+        "items": 125,
         "error": null,
-        "antiguedad_min": 231,
-        "descartados_por_gancho": 12
+        "antiguedad_min": 29,
+        "descartados_por_gancho": 18
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 23,
+        "items": 25,
         "error": null,
-        "antiguedad_min": -5643,
-        "descartados_por_gancho": 2
+        "antiguedad_min": -5327,
+        "descartados_por_gancho": 0
       }
     ]
   }

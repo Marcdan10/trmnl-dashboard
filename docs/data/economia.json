@@ -2,8 +2,17 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "portadas",
-  "generado": "2026-10-23T04:56:04+02:00",
+  "generado": "2026-10-23T10:12:44+02:00",
   "titulares": [
+    {
+      "titular": "OpenAI rebaja su objetivo de valoración a 1,25 billones a las puertas de su salida a Bolsa",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-23T09:06:37+02:00",
+      "enlace": "https://www.expansion.com/tecnologia/2026/10/23/openai-rebaja-objetivo-valoracion-1-25-billones-puertas-salida-bolsa.html"
+    },
     {
       "titular": "Colonial negocia vender la sede de Iberia en Madrid",
       "medios": [
@@ -14,31 +23,31 @@
       "enlace": "https://www.expansion.com/inmobiliario/2026/10/23/colonial-negocia-vender-sede-iberia-madrid.html"
     },
     {
-      "titular": "Bankinter y Sonae ponen a la venta su Socimi comercial",
+      "titular": "Geely, MG y Chery sacrifican su margen para conquistar Europa",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-23T01:34:15+02:00",
-      "enlace": "https://www.expansion.com/inmobiliario/2026/10/23/bankinter-sonae-ponen-venta-socimi-comercial.html"
+      "fecha": "2026-10-23T07:02:08+02:00",
+      "enlace": "https://www.expansion.com/empresas/motor/2026/10/23/6adae32de5fdead16a8b45ae.html"
     },
     {
-      "titular": "Los coches eléctricos se disparan más del 70% en Europa y suponen casi un tercio del mercado",
+      "titular": "La Primera de Expansión sobre coches chinos, Colonial, Iberia, barcos chinos, el Yen y Open AI",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-22T18:57:15+02:00",
-      "enlace": "https://www.expansion.com/empresas/motor/2026/10/22/6ada3d54e5fdea67028b4588.html"
+      "fecha": "2026-10-23T07:31:39+02:00",
+      "enlace": "https://www.expansion.com/podcasts/la-primera-de-expansion/2026/10/23/primera-expansion-sobre-coches-chinos-colonial-iberia-barcos-chinos-yen-open-ai.html"
     },
     {
-      "titular": "La crisis de la deuda francesa tensa el coste de financiación de bancos y empresas",
+      "titular": "El petróleo da un paso más en su escalada",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-23T02:04:15+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/10/23/6ad2161be5fdea54478b458e.html"
+      "fecha": "2026-10-23T09:57:18+02:00",
+      "enlace": "https://www.expansion.com/mercados/materias-primas/2026/10/23/6adb0f83e5fdea04318b45ba.html"
     },
     {
       "titular": "La cruda realidad europea sobre los bonos de EEUU",
@@ -48,15 +57,6 @@
       "consenso": 1,
       "fecha": "2026-10-23T00:39:32+02:00",
       "enlace": "https://www.expansion.com/economia/financial-times/2026/10/23/cruda-realidad-europea-sobre-bonos-eeuu.html"
-    },
-    {
-      "titular": "Los Cosmen fichan a CaixaBank y Santander para la opa sobre Mobico",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-23T02:04:16+02:00",
-      "enlace": "https://www.expansion.com/empresas/transporte/2026/10/23/6ada74a4e5fdead95e8b45d0.html"
     },
     {
       "titular": "Viviendas de autor recién salidas de la fábrica",
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 170,
+    "antiguedad_minima_min": 8,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 66,
+        "items": 72,
         "error": null,
-        "antiguedad_min": 170,
+        "antiguedad_min": 8,
         "descartados_por_gancho": 1
       },
       {

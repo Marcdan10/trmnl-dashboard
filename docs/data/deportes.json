@@ -2,17 +2,8 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-10-23T04:56:05+02:00",
+  "generado": "2026-10-23T10:12:46+02:00",
   "titulares": [
-    {
-      "titular": "81-89: El Barça mejora su imagen y gana en Milán",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-22T22:40:33+02:00",
-      "enlace": "https://www.mundodeportivo.com/baloncesto/euroliga/20261022/1004242049/81-89-barca-mejora-imagen-gana-milan.html"
-    },
     {
       "titular": "Histórico Yáñez, fiesta de Enzo, obra de arte de 'Caste', pleno y liderato",
       "medios": [
@@ -23,13 +14,13 @@
       "enlace": "https://www.marca.com/futbol/real-madrid/2026/10/21/historico-yanez-fiesta-enzo-obra-arte-caste-pleno-liderato.html"
     },
     {
-      "titular": "Leo recuerda a su padre y su importancia antes de recoger el galardón",
+      "titular": "Mourinho, el gran 'calentador' de los Clásicos",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-22T17:37:51+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261022/1004241958/leo-recuerda-padre-importancia-recoger-galardon.html"
+      "fecha": "2026-10-23T05:05:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261023/1004242041/gran-calentador-clasicos.html"
     },
     {
       "titular": "Un menor, investigado por arrojar una piedra desde un puente y dejar en estado crítico a un conductor",
@@ -41,13 +32,13 @@
       "enlace": "https://www.marca.com/tiramillas/sucesos/2026/10/21/menor-16-anos-investigado-guardia-civil-arrojar-piedra-puente-ap-41-dejar-critico-conductor.html"
     },
     {
-      "titular": "Cancelo estalla contra sus críticos",
+      "titular": "Un culé ilustre, Premio Princesa de los Deportes",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-23T00:02:06+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261022/1004242031/cancelo-estalla-criticos.html"
+      "fecha": "2026-10-23T07:00:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261023/1004242104/cule-ilustre-premio-princesa-deportes.html"
     },
     {
       "titular": "María Herrera, la reina de las motos: \"Quiero llevar el Mundial Femenino a MotoGP\"",
@@ -59,13 +50,22 @@
       "enlace": "https://www.marca.com/motor/mas-motor/2026/10/21/maria-herrera-reina-motos-quiero-llevar-mundial-femenino-motogp.html"
     },
     {
-      "titular": "1-2: El Celta asalta Celtic Park con Javi Rodríguez vestido de héroe",
+      "titular": "Las Aprilia plantan cara a Marc Márquez en la práctica de Phillip Island",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-22T23:04:41+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/celta-vigo/20261022/1004242015/celtic-celta.html"
+      "fecha": "2026-10-23T07:22:25+02:00",
+      "enlace": "https://www.mundodeportivo.com/motor/motogp/20261023/1004242128/aprilia-plantan-cara-marc-marquez-practica-phillip-island.html"
+    },
+    {
+      "titular": "Mbappé, un 'hat-trick' con premio",
+      "medios": [
+        "Marca"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-21T17:50:17+02:00",
+      "enlace": "https://www.marca.com/futbol/real-madrid/2026/10/21/mbappe-primer-asalto-100.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 264,
+    "antiguedad_minima_min": 24,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 74,
         "error": null,
-        "antiguedad_min": 2088,
+        "antiguedad_min": 2405,
         "descartados_por_gancho": 5
       },
       {
@@ -101,8 +101,8 @@
         "ok": true,
         "items": 144,
         "error": null,
-        "antiguedad_min": 264,
-        "descartados_por_gancho": 5
+        "antiguedad_min": 24,
+        "descartados_por_gancho": 6
       },
       {
         "medio": "Sport",
