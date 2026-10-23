@@ -2,70 +2,70 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-10-23T15:40:26+02:00",
+  "generado": "2026-10-23T20:03:05+02:00",
   "titulares": [
     {
-      "titular": "El petróleo da un paso más en su escalada al tocar los 115 dólares",
+      "titular": "Expansión, premio ANESE de Comunicación",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-23T15:19:22+02:00",
+      "fecha": "2026-10-23T19:28:47+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/10/23/6adb9947e5fdea65408b4588.html"
+    },
+    {
+      "titular": "Urbas suma más adhesiones a su plande rescate en la recta final del concurso",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-23T18:25:31+02:00",
+      "enlace": "https://www.expansion.com/empresas/construccion-servicios/2026/10/23/6adb8a11e5fdea8c1f8b4587.html"
+    },
+    {
+      "titular": "Volvo Cars se estrella en Bolsa",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-23T18:10:28+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/10/23/6adb1c23468aebeb088b4599.html"
+    },
+    {
+      "titular": "El petróleo da un paso más en su escalada al tocar los 117 dólares",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-23T17:51:37+02:00",
       "enlace": "https://www.expansion.com/mercados/materias-primas/2026/10/23/6adb0f83e5fdea04318b45ba.html"
     },
     {
-      "titular": "El Valencia CF abre su capital a EEUU: Pitchwise toma el 42% e inyecta 100 millones",
+      "titular": "El Ibex cierra por debajo de los 19.000 puntos tras caer un 1,7% en la semana",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-23T15:13:47+02:00",
-      "enlace": "https://www.expansion.com/deporte-negocio/2026/10/23/valencia-cf-abre-capital-eeuu-pitchwise-toma-42-e-inyecta-100-millones.html"
-    },
-    {
-      "titular": "El Ibex intenta resistir cerca de los 19.000 puntos",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-23T15:07:31+02:00",
+      "fecha": "2026-10-23T17:49:07+02:00",
       "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/10/23/6adaf7cc468aebbd528b458e.html"
     },
     {
-      "titular": "Qué está provocando el desplome del oro",
+      "titular": "El Barça culmina su segunda emisión de bonos del año para financiar la reforma del Camp Nou",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-23T14:18:50+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/10/23/6adb41d9e5fdea8e478b457c.html"
+      "fecha": "2026-10-23T17:44:10+02:00",
+      "enlace": "https://www.expansion.com/catalunya/2026/10/23/barca-culmina-segunda-emision-bonos-ano-financiar-reforma-camp-nou.html"
     },
     {
-      "titular": "La Audiencia Nacional amnistía a los doce CDR procesados por terrorismo",
+      "titular": "Macron advierte que se prohibirán algunas protestas",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-23T14:16:11+02:00",
-      "enlace": "https://www.expansion.com/economia/politica/2026/10/23/audiencia-nacional-amnistia-doce-cdr-procesados-terrorismo.html"
-    },
-    {
-      "titular": "Los Sainz de Vicuña irrumpen en Acerinox y afloran un 3% valorado en 125 millones",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-23T14:10:35+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/10/23/6adb4e53468aeb866d8b4598.html"
-    },
-    {
-      "titular": "Hausum cierra una ronda de medio millón con Diroca y Spicy4tuna",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-23T13:27:01+02:00",
-      "enlace": "https://www.expansion.com/catalunya/2026/10/23/hausum-cierra-ronda-medio-millon-diroca-spicy4tuna.html"
+      "fecha": "2026-10-23T17:30:26+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/10/23/macron-advierte-prohibiran-protestas.html"
     }
   ],
   "salud": {
@@ -78,16 +78,16 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 21,
+    "antiguedad_minima_min": 34,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 72,
+        "items": 74,
         "error": null,
-        "antiguedad_min": 21,
-        "descartados_por_gancho": 2
+        "antiguedad_min": 34,
+        "descartados_por_gancho": 1
       },
       {
         "medio": "Cinco Días",

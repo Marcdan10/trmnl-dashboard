@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-10-23T15:40:24+02:00",
+  "generado": "2026-10-23T20:03:02+02:00",
   "titulares": [
     {
       "titular": "Cinco planes de Halloween para los amantes del misterio y las leyendas",
@@ -14,49 +14,49 @@
       "enlace": "https://www.abc.es/viajar/destinos/espana/publicarhalloween-2026-cinco-planes-amantes-misterio-leyendas-20261022031732-nt.html"
     },
     {
-      "titular": "Pedro Ruiz va al cine a ver 'La invitación' y opina sin filtro: «Entretiene por la buena interpretación»",
+      "titular": "El Supremo da cinco días a Bolaños y Albares para que identifiquen a los 163.000 'nietos'",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-10-23T15:32:22+02:00",
-      "enlace": "https://www.abc.es/play/cine/noticias/pedro-ruiz-cine-ver-invitacion-opina-filtros-pelicula-penelope-cruz-interpretacion-20261023115635-nt.html"
+      "fecha": "2026-10-23T19:54:30+02:00",
+      "enlace": "https://www.abc.es/espana/supremo-dias-bolanos-albares-identifiquen-163000-nietos-20261023123605-nt.html"
     },
     {
-      "titular": "Netanyahu ordena el cierre de Cisjordania tras un ataque palestino en el que han muerto dos militares a cuatro días de las elecciones",
+      "titular": "Los Premios Princesa de Asturias 2026, en directo | Felipe VI: “La democracia requiere un compromiso diario exigente y un cuidado de las formas”",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-23T15:23:57+02:00",
-      "enlace": "https://elpais.com/internacional/2026-10-23/el-ejercito-israeli-mata-a-dos-palestinos-armados-tras-un-tiroteo-en-cisjordania.html"
+      "fecha": "2026-10-23T19:52:09+02:00",
+      "enlace": "https://elpais.com/cultura/2026-10-23/los-premios-princesa-de-asturias-en-directo.html"
     },
     {
-      "titular": "Leonor preside por primera vez en solitario la audiencia con los ganadores de los Princesa de Asturias",
+      "titular": "Patti Smith improvisa la canción ‘Wing’ ante los Reyes en los Princesa de Asturias",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-23T15:15:31+02:00",
-      "enlace": "https://elpais.com/cultura/2026-10-23/dona-leonor-preside-por-primera-vez-en-solitario-la-audiencia-con-los-ganadores-de-los-princesa-de-asturias.html"
+      "fecha": "2026-10-23T19:50:14+02:00",
+      "enlace": "https://elpais.com/cultura/2026-10-23/patti-smith-improvisa-la-cancion-wing-ante-los-reyes-en-los-princesa-de-austurias.html"
     },
     {
-      "titular": "Temor a que las autonomías “hagan caja” con la inversión extra a la dependencia del Gobierno",
+      "titular": "La Fiscalía pide añadir a la imputación de Zapatero el delito de malversación",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-10-23T14:53:24+02:00",
-      "enlace": "https://www.lavanguardia.com/vida/20261023/11666547/temor-autonomias-hagan-caja-inversion-extra-dependencia-gobierno.html"
+      "fecha": "2026-10-23T19:02:12+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20261023/11666707/fiscalia-pide-anadir-imputacion-zapatero-delito-malversacion.html"
     },
     {
-      "titular": "El Parlament valida el lunes al enésimo intento para tener una ley electoral catalana",
+      "titular": "Dani Martín aplaza sus conciertos en Barcelona por una situación familiar “de extrema gravedad”",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-10-23T14:48:27+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20261023/11666536/parlament-valida-lunes-enesimo-intento-ley-electoral-catalana.html"
+      "fecha": "2026-10-23T19:00:46+02:00",
+      "enlace": "https://www.lavanguardia.com/cultura/20261023/11666704/dani-martin-aplaza-conciertos-barcelona-situacion-familiar-extrema-gravedad.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": -4999,
+    "antiguedad_minima_min": -4736,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2299115,
+        "antiguedad_min": 2299378,
         "descartados_por_gancho": 0
       },
       {
@@ -97,18 +97,18 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 143,
+        "items": 150,
         "error": null,
-        "antiguedad_min": 16,
-        "descartados_por_gancho": 10
+        "antiguedad_min": 10,
+        "descartados_por_gancho": 8
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 134,
+        "items": 142,
         "error": null,
-        "antiguedad_min": 46,
+        "antiguedad_min": 60,
         "descartados_por_gancho": 15
       },
       {
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": -4999,
+        "antiguedad_min": -4736,
         "descartados_por_gancho": 0
       }
     ]
