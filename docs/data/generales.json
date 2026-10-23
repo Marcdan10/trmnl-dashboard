@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-10-23T20:03:02+02:00",
+  "generado": "2026-10-23T23:33:12+02:00",
   "titulares": [
     {
       "titular": "Cinco planes de Halloween para los amantes del misterio y las leyendas",
@@ -14,49 +14,49 @@
       "enlace": "https://www.abc.es/viajar/destinos/espana/publicarhalloween-2026-cinco-planes-amantes-misterio-leyendas-20261022031732-nt.html"
     },
     {
-      "titular": "El Supremo da cinco días a Bolaños y Albares para que identifiquen a los 163.000 'nietos'",
+      "titular": "El centro del mundo no está tan mal",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-10-23T19:54:30+02:00",
-      "enlace": "https://www.abc.es/espana/supremo-dias-bolanos-albares-identifiquen-163000-nietos-20261023123605-nt.html"
+      "fecha": "2026-10-23T23:27:23+02:00",
+      "enlace": "https://www.abc.es/cultura/centro-mundo-mal-20261023194804-nt.html"
     },
     {
-      "titular": "Los Premios Princesa de Asturias 2026, en directo | Felipe VI: “La democracia requiere un compromiso diario exigente y un cuidado de las formas”",
+      "titular": "Moody’s mantiene la calificación de la deuda soberana de Francia en medio de la crisis política y el malestar social",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-23T19:52:09+02:00",
-      "enlace": "https://elpais.com/cultura/2026-10-23/los-premios-princesa-de-asturias-en-directo.html"
+      "fecha": "2026-10-23T23:18:25+02:00",
+      "enlace": "https://elpais.com/economia/2026-10-23/moodys-mantiene-la-calificacion-de-la-deuda-soberana-de-francia-en-medio-de-la-crisis-politica-y-el-malestar-social.html"
     },
     {
-      "titular": "Patti Smith improvisa la canción ‘Wing’ ante los Reyes en los Princesa de Asturias",
+      "titular": "El Valencia Basket logra un contundente triunfo en París",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-23T19:50:14+02:00",
-      "enlace": "https://elpais.com/cultura/2026-10-23/patti-smith-improvisa-la-cancion-wing-ante-los-reyes-en-los-princesa-de-austurias.html"
+      "fecha": "2026-10-23T23:14:11+02:00",
+      "enlace": "https://elpais.com/deportes/baloncesto/2026-10-23/el-valencia-basket-logra-un-contundente-triunfo-en-paris.html"
     },
     {
-      "titular": "La Fiscalía pide añadir a la imputación de Zapatero el delito de malversación",
+      "titular": "Laporta felicita a Messi por el Princesa de Asturias: “Hiciste aún más grande al Barça, el club de tu vida”",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-10-23T19:02:12+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20261023/11666707/fiscalia-pide-anadir-imputacion-zapatero-delito-malversacion.html"
+      "fecha": "2026-10-23T22:30:30+02:00",
+      "enlace": "https://www.lavanguardia.com/deportes/fc-barcelona/20261023/11666805/laporta-felicita-messi-princesa-asturias-hiciste-aun-mas-grande-barca-club-vida.html"
     },
     {
-      "titular": "Dani Martín aplaza sus conciertos en Barcelona por una situación familiar “de extrema gravedad”",
+      "titular": "Julio Barnes entre Cervantes y Flaubert",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-10-23T19:00:46+02:00",
-      "enlace": "https://www.lavanguardia.com/cultura/20261023/11666704/dani-martin-aplaza-conciertos-barcelona-situacion-familiar-extrema-gravedad.html"
+      "fecha": "2026-10-23T21:16:11+02:00",
+      "enlace": "https://www.lavanguardia.com/cultura/20261023/11666793/premios-princesa-asturias-2026-julio-barnes-cervantes-flaubert.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": -4736,
+    "antiguedad_minima_min": -4526,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2299378,
+        "antiguedad_min": 2299588,
         "descartados_por_gancho": 0
       },
       {
@@ -97,18 +97,18 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 150,
+        "items": 152,
         "error": null,
-        "antiguedad_min": 10,
-        "descartados_por_gancho": 8
+        "antiguedad_min": 14,
+        "descartados_por_gancho": 6
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 142,
+        "items": 137,
         "error": null,
-        "antiguedad_min": 60,
+        "antiguedad_min": 62,
         "descartados_por_gancho": 15
       },
       {
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": -4736,
+        "antiguedad_min": -4526,
         "descartados_por_gancho": 0
       }
     ]

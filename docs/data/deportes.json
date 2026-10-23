@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-10-23T20:03:06+02:00",
+  "generado": "2026-10-23T23:33:15+02:00",
   "titulares": [
     {
-      "titular": "Vuelve 'Crackòvia' a TV3 con personajes clásicos, nuevas imitaciones, la resaca del Clásico y una nueva forma de emisión",
+      "titular": "\"Para ahorrar dinero en la factura de la calefacción este invierno, todo el mundo se tiene que ir a la TUR del gas\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-23T19:56:52+02:00",
-      "enlace": "https://www.mundodeportivo.com/elotromundo/television/20261023/1004242404/vuelve-crackovia-tv3-clasicos-nuevos-personajes-resaca-clasico-horarios-dias-emision-dct.html"
+      "fecha": "2026-10-23T23:22:36+02:00",
+      "enlace": "https://www.mundodeportivo.com/economia-hogar/20261023/1004242445/sergio-soto-experto-energia-habido-anos-barato-gas-natural-otros-bomba-calor-tendencia-plazo-sea-barata-bomba-smd.html"
     },
     {
-      "titular": "Premios Princesa de Asturias 2026, en directo",
+      "titular": "El Nottingham corta la mala racha y Glasner toma aire",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-23T19:45:13+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261023/1004242110/premios-princesa-asturias-2026-directo-sigue-ceremonia-messi-resto-ganadores.html"
+      "fecha": "2026-10-23T23:10:12+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/premier-league/20261023/1004242455/nottingham.html"
     },
     {
       "titular": "Histórico Yáñez, fiesta de Enzo, obra de arte de 'Caste', pleno y liderato",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/tiramillas/sucesos/2026/10/21/menor-16-anos-investigado-guardia-civil-arrojar-piedra-puente-ap-41-dejar-critico-conductor.html"
     },
     {
-      "titular": "Xabi Alonso encuentra al nuevo Courtois: \"Tiene muchas similitudes\"",
+      "titular": "93-104: El Valencia vence en París y recupera el aliento en la Euroliga",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-23T19:35:57+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/internacional/20261023/1004242400/xabi-alonso-encuentra-nuevo-courtois-muchas-similitudes.html"
+      "fecha": "2026-10-23T23:09:52+02:00",
+      "enlace": "https://www.mundodeportivo.com/baloncesto/euroliga/20261023/1004242463/93-104-valencia-vence-paris-recupera-aliento-euroliga.html"
     },
     {
-      "titular": "Adeyemi: \"Flick es la razón por la que estoy aquí\"",
+      "titular": "Así queda la clasificación tras la victoria del Valencia Basket en París",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-23T19:27:58+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261023/1004242398/adeyemi-flick-razon.html"
+      "fecha": "2026-10-23T22:50:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/baloncesto/euroliga/20261023/1004242460/asi-queda-clasificacion-euroliga-victoria-valencia-basket-paris.html"
     },
     {
-      "titular": "Leo Messi recoge el Premio Princesa de Asturias de los Deportes",
+      "titular": "Lío con el último gol de Cristiano Ronaldo: no queda claro si es suyo",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-23T19:27:33+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261023/1004242397/leo-messi-recoge-premio-princesa-asturias-deportes.html"
+      "fecha": "2026-10-23T22:43:18+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/liga-arabia-saudi/20261023/1004242459/lio-ultimo-gol-cristiano-ronaldo-no-queda-claro-suyo.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 6,
+    "antiguedad_minima_min": 10,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 74,
         "error": null,
-        "antiguedad_min": 2995,
+        "antiguedad_min": 3206,
         "descartados_por_gancho": 5
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 141,
+        "items": 140,
         "error": null,
-        "antiguedad_min": 6,
-        "descartados_por_gancho": 6
+        "antiguedad_min": 10,
+        "descartados_por_gancho": 7
       },
       {
         "medio": "Sport",
