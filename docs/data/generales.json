@@ -1,36 +1,9 @@
 {
   "pantalla": "generales",
   "titulo": "Titulares",
-  "modo": "portadas",
-  "generado": "2026-10-24T11:14:47+02:00",
+  "modo": "ultimas",
+  "generado": "2026-10-24T15:26:53+02:00",
   "titulares": [
-    {
-      "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
-      "medios": [
-        "RTVE"
-      ],
-      "consenso": 1,
-      "fecha": "2022-06-10T01:05:00+02:00",
-      "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
-    },
-    {
-      "titular": "¿Dónde y por qué se protesta en Europa? Las reivindicaciones de los jóvenes de cada país",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-24T05:30:01+02:00",
-      "enlace": "https://elpais.com/internacional/europa/informada/2026-10-24/donde-y-por-que-se-protesta-en-europa-las-reivindicaciones-de-los-jovenes-de-cada-pais.html"
-    },
-    {
-      "titular": "Un atentado mortal de signo racista sacude Francia en plena ola de protestas",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-24T00:05:00+02:00",
-      "enlace": "https://www.lavanguardia.com/internacional/20261024/11666807/atentado-mortal-signo-racista-sacude-francia-plena-ola-protestas.html"
-    },
     {
       "titular": "Cinco planes de Halloween para los amantes del misterio y las leyendas",
       "medios": [
@@ -41,31 +14,59 @@
       "enlace": "https://www.abc.es/viajar/destinos/espana/publicarhalloween-2026-cinco-planes-amantes-misterio-leyendas-20261022031732-nt.html"
     },
     {
-      "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
+      "titular": "El último adiós de Fórmula V: «La crítica nos daba palos, pero el tiempo ha puesto a cada uno en su lugar»",
       "medios": [
-        "RTVE"
+        "ABC"
       ],
       "consenso": 1,
-      "fecha": "2022-06-10T00:03:00+02:00",
-      "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
+      "fecha": "2026-10-24T15:15:55+02:00",
+      "enlace": "https://www.abc.es/cultura/musica/ultimo-adios-formula-critica-daba-palos-tiempo-20261024115114-nt.html"
     },
     {
-      "titular": "Francia contiene el aliento ante una nueva jornada de protestas",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-24T11:00:33+02:00",
-      "enlace": "https://elpais.com/internacional/2026-10-24/francia-contiene-el-aliento-ante-una-nueva-jornada-de-protestas.html"
-    },
-    {
-      "titular": "Francia: la izquierda en las calles, la ultraderecha en las urnas",
+      "titular": "Dani Martín anuncia la muerte de su padre: “Vuela alto, capitán”",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-10-24T06:00:00+02:00",
-      "enlace": "https://www.lavanguardia.com/internacional/20261024/11666799/francia-izquierda-calles-ultraderecha-urnas.html"
+      "fecha": "2026-10-24T15:06:50+02:00",
+      "enlace": "https://www.lavanguardia.com/gente/20261024/11667210/dani-martin-anuncia-muerte-padre-vuela-alto-capitan.html"
+    },
+    {
+      "titular": "Gioseppo y los botines más cómodos para los días de lluvia",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-24T14:30:00+02:00",
+      "enlace": "https://www.lavanguardia.com/comprar/moda-belleza/20261024/11665171/gioseppo-tira-casa-ventana-botines-mas-comodos-dias-lluvia-elegantes-transpirables-oferta-mkt-gios.html"
+    },
+    {
+      "titular": "Última hora de la actualidad política, en directo | Feijóo advierte al PSOE de que no va a “indultar corruptos” si gobierna y se encargará “de que paguen por todo”",
+      "medios": [
+        "El País",
+        "La Vanguardia"
+      ],
+      "consenso": 2,
+      "fecha": "2026-10-24T14:19:35+02:00",
+      "enlace": "https://elpais.com/espana/2026-10-24/ultima-hora-de-la-actualidad-politica-en-directo.html"
+    },
+    {
+      "titular": "Flick sobre el clásico: “Es el mejor partido que ofrece nuestro deporte”",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-24T14:11:37+02:00",
+      "enlace": "https://elpais.com/deportes/futbol/2026-10-24/flick-sobre-el-clasico-es-el-mejor-partido-que-ofrece-nuestro-deporte.html"
+    },
+    {
+      "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
+      "medios": [
+        "RTVE"
+      ],
+      "consenso": 1,
+      "fecha": "2022-06-10T01:05:00+02:00",
+      "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
     }
   ],
   "salud": {
@@ -74,7 +75,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": -3825,
+    "antiguedad_minima_min": -3573,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +83,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2300289,
+        "antiguedad_min": 2300541,
         "descartados_por_gancho": 0
       },
       {
@@ -90,25 +91,25 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 429",
+        "error": "HTTP 500",
         "antiguedad_min": null
       },
       {
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 140,
+        "items": 144,
         "error": null,
-        "antiguedad_min": 14,
-        "descartados_por_gancho": 8
+        "antiguedad_min": 67,
+        "descartados_por_gancho": 7
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 115,
+        "items": 117,
         "error": null,
-        "antiguedad_min": 41,
+        "antiguedad_min": 20,
         "descartados_por_gancho": 22
       },
       {
@@ -117,7 +118,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": -3825,
+        "antiguedad_min": -3573,
         "descartados_por_gancho": 0
       }
     ]
