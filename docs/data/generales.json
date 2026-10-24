@@ -1,9 +1,36 @@
 {
   "pantalla": "generales",
   "titulo": "Titulares",
-  "modo": "ultimas",
-  "generado": "2026-10-24T23:42:51+02:00",
+  "modo": "portadas",
+  "generado": "2026-10-25T01:55:31+02:00",
   "titulares": [
+    {
+      "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
+      "medios": [
+        "RTVE"
+      ],
+      "consenso": 1,
+      "fecha": "2022-06-10T01:05:00+02:00",
+      "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
+    },
+    {
+      "titular": "Casi medio millón de personas mantiene el pulso a Macron en toda Francia pese al despliegue policial",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-24T17:53:34+02:00",
+      "enlace": "https://elpais.com/internacional/2026-10-24/francia-contiene-el-aliento-ante-una-nueva-jornada-de-protestas.html"
+    },
+    {
+      "titular": "Disturbios y pillaje en Barcelona tras una protesta que emulaba a las de Francia",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-24T19:17:32+02:00",
+      "enlace": "https://www.lavanguardia.com/local/barcelona/20261024/11667279/mossos-guardia-urbana-dispersan-concentracion-sistema-placa-catalunya.html"
+    },
     {
       "titular": "Cinco planes de Halloween para los amantes del misterio y las leyendas",
       "medios": [
@@ -14,60 +41,31 @@
       "enlace": "https://www.abc.es/viajar/destinos/espana/publicarhalloween-2026-cinco-planes-amantes-misterio-leyendas-20261022031732-nt.html"
     },
     {
-      "titular": "El Rey, operado en Oviedo por una catarata en el ojo izquierdo",
-      "medios": [
-        "El País",
-        "La Vanguardia",
-        "ABC"
-      ],
-      "consenso": 3,
-      "fecha": "2026-10-25T06:30:01+02:00",
-      "enlace": "https://elpais.com/espana/2026-10-24/felipe-vi-operado-de-cataratas-del-ojo-izquierdo-en-oviedo.html"
-    },
-    {
-      "titular": "Julián Álvarez consigue el indulto del Metropolitano",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-24T23:13:44+02:00",
-      "enlace": "https://www.abc.es/deportes/atletico-madrid/cronica-atletico-madrid-deportivo-coruna-20261024144328-nt.html"
-    },
-    {
-      "titular": "El Barça olvida el tropiezo en Zubieta ganando al Granada",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-24T22:29:40+02:00",
-      "enlace": "https://www.lavanguardia.com/deportes/futbol-femenino/20261024/11667358/barca-olvida-tropiezo-zubieta-ganando-granada.html"
-    },
-    {
-      "titular": "La temida jornada de protestas en Italia transcurre sin incidentes y con la detención del presunto promotor en redes de los disturbios",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-24T22:20:28+02:00",
-      "enlace": "https://elpais.com/internacional/2026-10-24/la-temida-jornada-de-protestas-en-italia-transcurre-sin-incidentes-y-con-la-detencion-del-presunto-promotor-en-redes-de-los-disturbios.html"
-    },
-    {
-      "titular": "Jóvenes de los disturbios en Barcelona: “Nos aburríamos en casa”",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-24T21:45:17+02:00",
-      "enlace": "https://www.lavanguardia.com/local/barcelona/20261024/11667352/aburriamos-casa.html"
-    },
-    {
-      "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
+      "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
       "medios": [
         "RTVE"
       ],
       "consenso": 1,
-      "fecha": "2022-06-10T01:05:00+02:00",
-      "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
+      "fecha": "2022-06-10T00:03:00+02:00",
+      "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
+    },
+    {
+      "titular": "¿Dónde y por qué se protesta en Europa? Las reivindicaciones de los jóvenes de cada país",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-24T05:30:01+02:00",
+      "enlace": "https://elpais.com/internacional/europa/informada/2026-10-24/donde-y-por-que-se-protesta-en-europa-las-reivindicaciones-de-los-jovenes-de-cada-pais.html"
+    },
+    {
+      "titular": "Los disturbios durante una protesta en el centro de Barcelona, en imágenes",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-24T20:32:14+02:00",
+      "enlace": "https://www.lavanguardia.com/local/barcelona/20261024/11667298/disturbios-protesta-centro-barcelona-imagenes.html"
     }
   ],
   "salud": {
@@ -76,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": -3077,
+    "antiguedad_minima_min": -2944,
     "detalle": [
       {
         "medio": "RTVE",
@@ -84,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2301037,
+        "antiguedad_min": 2301170,
         "descartados_por_gancho": 0
       },
       {
@@ -99,28 +97,28 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 144,
+        "items": 146,
         "error": null,
-        "antiguedad_min": -408,
+        "antiguedad_min": -275,
         "descartados_por_gancho": 8
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 122,
+        "items": 121,
         "error": null,
-        "antiguedad_min": 36,
+        "antiguedad_min": 135,
         "descartados_por_gancho": 20
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 25,
+        "items": 24,
         "error": null,
-        "antiguedad_min": -3077,
-        "descartados_por_gancho": 0
+        "antiguedad_min": -2944,
+        "descartados_por_gancho": 1
       }
     ]
   }

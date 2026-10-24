@@ -1,44 +1,17 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "ultimas",
-  "generado": "2026-10-24T23:42:54+02:00",
+  "modo": "portadas",
+  "generado": "2026-10-25T01:55:33+02:00",
   "titulares": [
     {
-      "titular": "La ofensiva china que resucita las superdeportivas de acceso",
+      "titular": "Barcelona se dispara un 11% a pesar del freno de la compraventa",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-24T21:13:41+02:00",
-      "enlace": "https://www.expansion.com/empresas/motor/2026/10/24/6adcfd77e5fdea7b168b4571.html"
-    },
-    {
-      "titular": "La Administración entra en una carrera contrarreloj por la IA",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-24T20:04:05+02:00",
-      "enlace": "https://www.expansion.com/tecnologia/2026/10/24/administracion-entra-carrera-contrarreloj-ia.html"
-    },
-    {
-      "titular": "Alfonso y Enrique: objetivo 2050",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-24T19:48:41+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/10/24/6adcdea3468aeb852b8b4596.html"
-    },
-    {
-      "titular": "Pistas para invertir ahora con un euro bajo presión",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-24T19:48:16+02:00",
-      "enlace": "https://www.expansion.com/inversion/2026/10/24/6adb9ab9e5fdea911e8b45a9.html"
+      "fecha": "2026-10-24T19:25:32+02:00",
+      "enlace": "https://www.expansion.com/inmobiliario/mercado-inmobiliario/2026/10/24/barcelona-dispara-11-pesar-freno-compraventa.html"
     },
     {
       "titular": "El alquiler cae en un tercio de Madrid",
@@ -50,13 +23,13 @@
       "enlace": "https://www.expansion.com/inmobiliario/mercado-inmobiliario/2026/10/24/alquiler-cae-tercio-madrid.html"
     },
     {
-      "titular": "Las grandes capitales pierden fuerza",
+      "titular": "Madrid: la escalada se desacelera, pero el precio sigue en máximos",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-24T19:30:40+02:00",
-      "enlace": "https://www.expansion.com/inmobiliario/mercado-inmobiliario/2026/10/24/grandes-capitales-pierden-fuerza.html"
+      "fecha": "2026-10-24T19:20:14+02:00",
+      "enlace": "https://www.expansion.com/inmobiliario/mercado-inmobiliario/2026/10/24/madrid-escalada-desacelera-precio-sigue-maximos.html"
     },
     {
       "titular": "Barcelona: incertidumbre en el alquiler",
@@ -66,6 +39,33 @@
       "consenso": 1,
       "fecha": "2026-10-24T19:27:41+02:00",
       "enlace": "https://www.expansion.com/inmobiliario/mercado-inmobiliario/2026/10/24/barcelona-incertidumbre-alquiler.html"
+    },
+    {
+      "titular": "Las grandes capitales pierden fuerza",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-24T19:30:40+02:00",
+      "enlace": "https://www.expansion.com/inmobiliario/mercado-inmobiliario/2026/10/24/grandes-capitales-pierden-fuerza.html"
+    },
+    {
+      "titular": "La fiscalidad de la vivienda para uso propio y alquiler",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-24T19:23:39+02:00",
+      "enlace": "https://www.expansion.com/inmobiliario/mercado-inmobiliario/2026/10/24/fiscalidad-vivienda-propio-alquiler.html"
+    },
+    {
+      "titular": "La rentabilidad se modera al 6,2%",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-24T19:21:53+02:00",
+      "enlace": "https://www.expansion.com/inmobiliario/mercado-inmobiliario/2026/10/24/rentabilidad-modera-6-2.html"
     }
   ],
   "salud": {
@@ -78,7 +78,7 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 149,
+    "antiguedad_minima_min": 281,
     "detalle": [
       {
         "medio": "Expansión",
@@ -86,7 +86,7 @@
         "ok": true,
         "items": 75,
         "error": null,
-        "antiguedad_min": 149,
+        "antiguedad_min": 281,
         "descartados_por_gancho": 3
       },
       {

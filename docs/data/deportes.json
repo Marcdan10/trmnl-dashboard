@@ -1,26 +1,17 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "ultimas",
-  "generado": "2026-10-24T23:42:55+02:00",
+  "modo": "portadas",
+  "generado": "2026-10-25T01:55:34+02:00",
   "titulares": [
     {
-      "titular": "El 1x1 del Barça ante el Casademont Zaragoza",
+      "titular": "\"Quería pedir disculpas a nuestra gente por mis palabras en el Mundial\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-24T23:22:40+02:00",
-      "enlace": "https://www.mundodeportivo.com/baloncesto/acb/20261024/1004242734/1x1-barca-casademont-zaragoza.html"
-    },
-    {
-      "titular": "El bonito gesto de Gavi con Kvaratskhelia y su favorito al Balón de Oro",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-24T23:20:04+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261024/1004242828/bonito-gesto-gavi-kvaratskhelia-favorito-balon-oro.html"
+      "fecha": "2026-10-24T23:36:48+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20261024/1004242833/queria-pedir-disculpas-nuestra-gente-mis-palabras-mundial.html"
     },
     {
       "titular": "Histórico Yáñez, fiesta de Enzo, obra de arte de 'Caste', pleno y liderato",
@@ -32,6 +23,15 @@
       "enlace": "https://www.marca.com/futbol/real-madrid/2026/10/21/historico-yanez-fiesta-enzo-obra-arte-caste-pleno-liderato.html"
     },
     {
+      "titular": "Simeone: \"Valoro a los que piden perdón, Julián es un gran chico, lo hizo desde el sentimiento\"",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-24T23:50:05+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20261024/1004242845/simeone-valoro-piden-perdon-julian-gran-chico-hizo-sentimiento.html"
+    },
+    {
       "titular": "Un menor, investigado por arrojar una piedra desde un puente y dejar en estado crítico a un conductor",
       "medios": [
         "Marca"
@@ -39,15 +39,6 @@
       "consenso": 1,
       "fecha": "2026-10-21T18:00:10+02:00",
       "enlace": "https://www.marca.com/tiramillas/sucesos/2026/10/21/menor-16-anos-investigado-guardia-civil-arrojar-piedra-puente-ap-41-dejar-critico-conductor.html"
-    },
-    {
-      "titular": "Fuerte trompazo de un top-10 tras malograr cuatro 'match-balls': los resultados del día",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-24T23:13:50+02:00",
-      "enlace": "https://www.mundodeportivo.com/tenis/20261024/1004242830/fuerte-trompazo-top-10-malograr-cuatro-match-balls-resultados-dia.html"
     },
     {
       "titular": "99-81: Juan Núñez se reivindica y guía al Barça ante el Casademont Zaragoza",
@@ -59,13 +50,22 @@
       "enlace": "https://www.mundodeportivo.com/baloncesto/acb/20261024/1004242731/barca-casademont-zaragoza-liga-endesa-acb-palau-blaugrana.html"
     },
     {
-      "titular": "El 'clásico' 1-0 del Atlético para sacar ventaja en una jornada que será propicia",
+      "titular": "María Herrera, la reina de las motos: \"Quiero llevar el Mundial Femenino a MotoGP\"",
       "medios": [
-        "Mundo Deportivo"
+        "Marca"
       ],
       "consenso": 1,
-      "fecha": "2026-10-24T23:07:31+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20261024/1004242812/atletico-madrid-deportivo-coruna.html"
+      "fecha": "2026-10-21T17:58:43+02:00",
+      "enlace": "https://www.marca.com/motor/mas-motor/2026/10/21/maria-herrera-reina-motos-quiero-llevar-mundial-femenino-motogp.html"
+    },
+    {
+      "titular": "Mbappé, un 'hat-trick' con premio",
+      "medios": [
+        "Marca"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-21T17:50:17+02:00",
+      "enlace": "https://www.marca.com/futbol/real-madrid/2026/10/21/mbappe-primer-asalto-100.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 20,
+    "antiguedad_minima_min": 85,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 74,
         "error": null,
-        "antiguedad_min": 4655,
+        "antiguedad_min": 4788,
         "descartados_por_gancho": 5
       },
       {
@@ -99,9 +99,9 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 135,
+        "items": 134,
         "error": null,
-        "antiguedad_min": 20,
+        "antiguedad_min": 85,
         "descartados_por_gancho": 6
       },
       {

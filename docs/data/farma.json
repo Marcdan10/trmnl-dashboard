@@ -1,27 +1,9 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "ultimas",
-  "generado": "2026-10-24T23:43:00+02:00",
+  "modo": "portadas",
+  "generado": "2026-10-25T01:55:38+02:00",
   "titulares": [
-    {
-      "titular": "Miguel Muñoz-Cruzado entra como Académico Correspondiente de la Real Academia de Medicina de Cádiz",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-24T18:37:28+02:00",
-      "enlace": "https://www.redaccionmedica.com/profesionales/20261024/miguel-munoz-cruzado-entra-como-academico-correspondiente-de-la-real-academia-medicina-cadiz/363317_0.html"
-    },
-    {
-      "titular": "España castiga el espionaje de historiales clínicos con prisión pero esquiva la \"muerte civil\" que impone la sanidad británica",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-24T18:09:37+02:00",
-      "enlace": "https://www.redaccionmedica.com/profesionales/derecho-sanitario/20261024/espana-castiga-el-espionaje-de-historiales-clinicos-con-prision-pero-esquiva-la-muerte-civil-que-impone-sanidad-britanica/354315_0.html"
-    },
     {
       "titular": "El CISNS tumba la reforma de listas de espera pero aprueba fondos y cartera común",
       "medios": [
@@ -30,15 +12,6 @@
       "consenso": 1,
       "fecha": "2026-10-23T17:37:13+02:00",
       "enlace": "https://diariofarma.com/2026/10/23/el-cisns-tumba-la-reforma-de-listas-de-espera-pero-aprueba-fondos-y-cartera-comun"
-    },
-    {
-      "titular": "La FH lleva la IA a la validación y la formación, pero reclama reglas claras",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-23T14:45:12+02:00",
-      "enlace": "https://diariofarma.com/2026/10/23/la-fh-lleva-la-ia-a-la-validacion-y-la-formacion-pero-reclama-reglas-claras"
     },
     {
       "titular": "La farmacia ya está en la salud pública; falta reconocerlo",
@@ -50,6 +23,24 @@
       "enlace": "https://elglobalfarma.com/opinion/editorial/farmacia-salud-publica-falta-reconocerlo/"
     },
     {
+      "titular": "España castiga el espionaje de historiales clínicos con prisión pero esquiva la \"muerte civil\" que impone la sanidad británica",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-24T18:09:37+02:00",
+      "enlace": "https://www.redaccionmedica.com/profesionales/derecho-sanitario/20261024/espana-castiga-el-espionaje-de-historiales-clinicos-con-prision-pero-esquiva-la-muerte-civil-que-impone-sanidad-britanica/354315_0.html"
+    },
+    {
+      "titular": "La FH lleva la IA a la validación y la formación, pero reclama reglas claras",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-23T14:45:12+02:00",
+      "enlace": "https://diariofarma.com/2026/10/23/la-fh-lleva-la-ia-a-la-validacion-y-la-formacion-pero-reclama-reglas-claras"
+    },
+    {
       "titular": "El convenio de farmacia afronta una nueva cita para intentar desbloquear la negociación",
       "medios": [
         "El Global"
@@ -59,13 +50,22 @@
       "enlace": "https://elglobalfarma.com/farmacia/convenio-farmacia-nueva-cita-intentar-desbloquear-negociacion/"
     },
     {
-      "titular": "Tu cerebro puede aparentar más años de los que tienes: un estudio lo relaciona con la microbiota intestinal",
+      "titular": "'Farmacias de ejercicio': cómo aterrizar el modelo de prescripción médica personalizada en la actividad física",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-10-24T16:57:52+02:00",
-      "enlace": "https://www.redaccionmedica.com/longevidad/20261024/tu-cerebro-puede-aparentar-mas-anos-de-los-que-tienes-un-estudio-lo-relaciona-con-la-microbiota-intestinal/362604_0.html"
+      "fecha": "2026-10-24T15:58:07+02:00",
+      "enlace": "https://www.redaccionmedica.com/profesionales/medicina/20261024/farmacias-de-ejercicio-como-aterrizar-el-modelo-prescripcion-medica-personalizada-en-la-actividad-fisica/362559_0.html"
+    },
+    {
+      "titular": "La farmacia hospitalaria pide gobernar la IA en lugar de limitar su utilización",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-23T13:57:20+02:00",
+      "enlace": "https://diariofarma.com/2026/10/23/la-farmacia-hospitalaria-pide-gobernar-la-ia-en-lugar-de-limitar-su-utilizacion"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 305,
+    "antiguedad_minima_min": 438,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 1805,
+        "antiguedad_min": 1938,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 2047,
+        "antiguedad_min": 2180,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 305,
+        "antiguedad_min": 438,
         "descartados_por_gancho": 0
       },
       {
