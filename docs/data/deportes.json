@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-10-24T15:26:58+02:00",
+  "generado": "2026-10-24T18:47:35+02:00",
   "titulares": [
     {
-      "titular": "Esta es la convocatoria del Real Madrid para el Clásico",
+      "titular": "Araujo: \"Que me quede o no en el Liverpool no depende sólo de mí\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-24T14:42:20+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20261024/1004242650/convocatoria-real-madrid-clasico.html"
+      "fecha": "2026-10-24T18:19:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261024/1004242714/araujo.html"
     },
     {
-      "titular": "La Real perdona al Espanyol y se le escapan dos puntos en Zubieta (1-1)",
+      "titular": "2-1: El Racing deja a Manolo González tambaleándose",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-24T14:28:53+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-sociedad/20261024/1004242586/real-sociedad-espanyol.html"
+      "fecha": "2026-10-24T18:14:49+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/rcd-espanyol/20261024/1004242721/racing-deja-manolo-gonzalez-tambaleandose.html"
     },
     {
       "titular": "Histórico Yáñez, fiesta de Enzo, obra de arte de 'Caste', pleno y liderato",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/tiramillas/sucesos/2026/10/21/menor-16-anos-investigado-guardia-civil-arrojar-piedra-puente-ap-41-dejar-critico-conductor.html"
     },
     {
-      "titular": "2-7: Goleada del Barça en El Ejido antes de la Champions",
+      "titular": "De Jong: \"No quiero acostumbrarme a ser suplente\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-24T14:22:04+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261024/1004242643/2-7-goleada-barca-ejido-champions.html"
+      "fecha": "2026-10-24T18:12:39+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261024/1004242718/jong-no-quiero-acostumbrarme-suplente.html"
     },
     {
-      "titular": "El superalimento de David Broncano (41 años): \"Los días que no tengo tiempo, me hago este batido\"",
+      "titular": "3-5: El Barça, a la final de la Supercopa tras batir al Liceo con cinco goleadores distintos",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-24T14:21:04+02:00",
-      "enlace": "https://www.mundodeportivo.com/running/20261024/1004242622/superalimento-desayuna-david-broncano-41-anos-dias-no-cojo-batidora-le-echo-gofio-frutos-rojos-platano-avena-leche-dsy-dct.html"
+      "fecha": "2026-10-24T18:10:24+02:00",
+      "enlace": "https://www.mundodeportivo.com/hockey-patines/20261024/1004242720/3-5-barca-final-supercopa-batir-liceo-cinco-goleadores-distintos.html"
     },
     {
-      "titular": "Flick, para que quede claro: \"Confío en los árbitros\"",
+      "titular": "Alex Palou: \"Va a ser el inicio de algo muy grande. Puede ser espectacular y creo que puede ser el gran evento de la IndyCar después de las 500 millas\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-24T14:11:42+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261024/1004242637/flic-quede-claro-confio-arbitros.html"
+      "fecha": "2026-10-24T18:08:40+02:00",
+      "enlace": "https://www.mundodeportivo.com/motor/indycar/20261024/1004242719/alex-palou-creo-esto-inicio-grande-espectacular-creo-firmemente-gran-evento-indycar-500-millas.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 44,
+    "antiguedad_minima_min": 28,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 74,
         "error": null,
-        "antiguedad_min": 4159,
+        "antiguedad_min": 4360,
         "descartados_por_gancho": 5
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 138,
+        "items": 139,
         "error": null,
-        "antiguedad_min": 44,
-        "descartados_por_gancho": 8
+        "antiguedad_min": 28,
+        "descartados_por_gancho": 5
       },
       {
         "medio": "Sport",

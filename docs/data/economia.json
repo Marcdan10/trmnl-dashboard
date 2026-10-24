@@ -2,7 +2,7 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-10-24T15:26:57+02:00",
+  "generado": "2026-10-24T18:47:33+02:00",
   "titulares": [
     {
       "titular": "Temblores bursátiles por la escalada bélica",
@@ -78,7 +78,7 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 144,
+    "antiguedad_minima_min": 344,
     "detalle": [
       {
         "medio": "Expansión",
@@ -86,7 +86,7 @@
         "ok": true,
         "items": 77,
         "error": null,
-        "antiguedad_min": 144,
+        "antiguedad_min": 344,
         "descartados_por_gancho": 1
       },
       {
