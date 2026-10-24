@@ -2,16 +2,16 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-10-24T06:51:40+02:00",
+  "generado": "2026-10-24T11:14:52+02:00",
   "titulares": [
     {
-      "titular": "¡Marc Márquez se lleva la sprint!",
+      "titular": "Mou responde a Fermín: \"A nosotros nos cansan otras cosas y siguen pasando\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-24T05:48:46+02:00",
-      "enlace": "https://www.mundodeportivo.com/motor/motogp/20261024/1004240923/carrera-sprint-motogp-phillip-island-directo-gran-premio-australia-marc-marquez-jorge-martin-pedro-acosta-bezzecchi.html"
+      "fecha": "2026-10-24T10:20:15+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20261024/1004242548/mourinho-responde-fermin-cansan-cosas-siguen-pasando.html"
     },
     {
       "titular": "Histórico Yáñez, fiesta de Enzo, obra de arte de 'Caste', pleno y liderato",
@@ -23,13 +23,13 @@
       "enlace": "https://www.marca.com/futbol/real-madrid/2026/10/21/historico-yanez-fiesta-enzo-obra-arte-caste-pleno-liderato.html"
     },
     {
-      "titular": "Marc Márquez firma una de sus mejores poles tras una caída inicial en Phillip Island",
+      "titular": "\"¿El Clásico, la prueba del algodón del equipo? No, el Madrid con Mourinho gana títulos\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-24T05:57:12+02:00",
-      "enlace": "https://www.mundodeportivo.com/motor/motogp/20261024/1004242515/marc-marquez-firma-mejores-poles-caida-inicial-phillip-island.html"
+      "fecha": "2026-10-24T10:39:27+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20261024/1004242556/clasico-prueba-algodon-equipo-no-madrid-mourinho-gana-titulos.html"
     },
     {
       "titular": "Un menor, investigado por arrojar una piedra desde un puente y dejar en estado crítico a un conductor",
@@ -41,13 +41,13 @@
       "enlace": "https://www.marca.com/tiramillas/sucesos/2026/10/21/menor-16-anos-investigado-guardia-civil-arrojar-piedra-puente-ap-41-dejar-critico-conductor.html"
     },
     {
-      "titular": "Leo Messi recoge el Premio Princesa de Asturias de los Deportes",
+      "titular": "\"No interesan los entrenadores, lo importante es la dimensión mundial\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-23T19:27:33+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261023/1004242397/leo-messi-recoge-premio-princesa-asturias-deportes.html"
+      "fecha": "2026-10-24T10:33:10+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20261024/1004242554/jose-mourinho-no-interesan-entrenadores-importante-dimension-mundial.html"
     },
     {
       "titular": "María Herrera, la reina de las motos: \"Quiero llevar el Mundial Femenino a MotoGP\"",
@@ -59,13 +59,13 @@
       "enlace": "https://www.marca.com/motor/mas-motor/2026/10/21/maria-herrera-reina-motos-quiero-llevar-mundial-femenino-motogp.html"
     },
     {
-      "titular": "Mbappé, un 'hat-trick' con premio",
+      "titular": "Márquez recupera el liderato tras un duelo brutal en el sprint con un desafortunado Jorge Martín",
       "medios": [
-        "Marca"
+        "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-21T17:50:17+02:00",
-      "enlace": "https://www.marca.com/futbol/real-madrid/2026/10/21/mbappe-primer-asalto-100.html"
+      "fecha": "2026-10-24T06:32:27+02:00",
+      "enlace": "https://www.mundodeportivo.com/motor/motogp/20261024/1004242516/marc-marquez-recupera-liderato-duelo-brutal-sprint-desafortunado-jorge-martin.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 54,
+    "antiguedad_minima_min": 23,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 74,
         "error": null,
-        "antiguedad_min": 3644,
+        "antiguedad_min": 3907,
         "descartados_por_gancho": 5
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 138,
+        "items": 137,
         "error": null,
-        "antiguedad_min": 54,
-        "descartados_por_gancho": 7
+        "antiguedad_min": 23,
+        "descartados_por_gancho": 6
       },
       {
         "medio": "Sport",

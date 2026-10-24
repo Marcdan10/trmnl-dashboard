@@ -2,7 +2,7 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "portadas",
-  "generado": "2026-10-24T06:51:39+02:00",
+  "generado": "2026-10-24T11:14:50+02:00",
   "titulares": [
     {
       "titular": "Cambio de etapa a la vista en el mercado hipotecario español",
@@ -23,13 +23,22 @@
       "enlace": "https://www.expansion.com/empresas/banca/2026/10/24/6ad74ae7e5fdeadc6a8b45a5.html"
     },
     {
-      "titular": "Cómo cobrar más de 10.000 millones de euros en dividendos en la recta final del año",
+      "titular": "Cómo cobrar más de 10.000 millones en dividendos en la recta final del año",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
       "fecha": "2026-10-24T00:03:18+02:00",
       "enlace": "https://www.expansion.com/inversion/2026/10/24/6adb8e09468aeb3f6b8b4577.html"
+    },
+    {
+      "titular": "El proyecto estrella de Escrivá elimina despachos de directivos en el Banco de España",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-24T00:05:50+02:00",
+      "enlace": "https://www.expansion.com/empresas/banca/2026/10/24/6adb9c3e468aebc56f8b457c.html"
     },
     {
       "titular": "BYD da el 'sorpasso' a MG y ya es la marca china más vendida en España",
@@ -48,15 +57,6 @@
       "consenso": 1,
       "fecha": "2026-10-24T00:04:52+02:00",
       "enlace": "https://www.expansion.com/empresas/2026/10/24/6adbbcc0e5fdea321d8b4591.html"
-    },
-    {
-      "titular": "El proyecto estrella de Escrivá elimina despachos de directivos en el Banco de España",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-24T00:05:50+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/10/24/6adb9c3e468aebc56f8b457c.html"
     },
     {
       "titular": "La banca recupera las bonificaciones por traspasos de fondos de inversión",
@@ -78,7 +78,7 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 392,
+    "antiguedad_minima_min": 655,
     "detalle": [
       {
         "medio": "Expansión",
@@ -86,7 +86,7 @@
         "ok": true,
         "items": 77,
         "error": null,
-        "antiguedad_min": 392,
+        "antiguedad_min": 655,
         "descartados_por_gancho": 1
       },
       {
