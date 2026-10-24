@@ -1,71 +1,71 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "ultimas",
-  "generado": "2026-10-23T23:33:15+02:00",
+  "modo": "portadas",
+  "generado": "2026-10-24T02:10:29+02:00",
   "titulares": [
     {
-      "titular": "Las claves bursátiles de la próxima semana",
+      "titular": "Cambio de etapa a la vista en el mercado hipotecario español",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-23T23:28:12+02:00",
-      "enlace": "https://videos.expansion.com/v/xbqs95e-las-claves-bursatiles-de-la-proxima-semana-23-10-2026?uetv_pl=0"
+      "fecha": "2026-10-24T00:01:38+02:00",
+      "enlace": "https://www.expansion.com/empresas/banca/2026/10/24/6adbb92ce5fdead5478b4591.html"
     },
     {
-      "titular": "Castilla Termal inaugura su sexto hotel: un palacio renacentista en Burgos",
+      "titular": "La IA agéntica, la cuenta europea y la deuda soberana amenazan los depósitos de la banca",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-23T23:16:52+02:00",
-      "enlace": "https://www.expansion.com/fueradeserie/viajes/2026/10/23/6ac8d3d7468aeb74518b4578.html"
+      "fecha": "2026-10-24T00:02:18+02:00",
+      "enlace": "https://www.expansion.com/empresas/banca/2026/10/24/6ad74ae7e5fdeadc6a8b45a5.html"
     },
     {
-      "titular": "El legendario Hotel Plaza cierra sus puertas durante cuatro años",
+      "titular": "Cómo cobrar más de 10.000 millones de euros en dividendos en la recta final del año",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-23T23:16:37+02:00",
-      "enlace": "https://www.expansion.com/estilo-vida/2026/10/23/legendario-hotel-plaza-cierra-puertas-durante-cuatro-anos.html"
+      "fecha": "2026-10-24T00:03:18+02:00",
+      "enlace": "https://www.expansion.com/inversion/2026/10/24/6adb8e09468aeb3f6b8b4577.html"
     },
     {
-      "titular": "La IA impulsa inversiones extremas",
+      "titular": "BYD da el 'sorpasso' a MG y ya es la marca china más vendida en España",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-23T23:07:56+02:00",
-      "enlace": "https://www.expansion.com/tecnologia/2026/10/23/ia-impulsa-inversiones-extremas.html"
+      "fecha": "2026-10-24T00:04:18+02:00",
+      "enlace": "https://www.expansion.com/empresas/motor/2026/10/24/6adb7767468aeb866d8b45aa.html"
     },
     {
-      "titular": "De Palladium a Ramat: Marc Rahola Matutes y su apuesta por emprender fuera del grupo hotelero familiar",
+      "titular": "Mahou, Damm, Estrella Galicia y Cruzcampo aceleran en el exterior",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-23T22:58:16+02:00",
-      "enlace": "https://www.expansion.com/estilo-vida/viajes/2026/10/23/palladium-ramat-marc-rahola-matutes-apuesta-emprender-fuera-grupo-hotelero-familiar.html"
+      "fecha": "2026-10-24T00:04:52+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/10/24/6adbbcc0e5fdea321d8b4591.html"
     },
     {
-      "titular": "Destinos viajeros que amplían el concepto de lujo",
+      "titular": "El proyecto estrella de Escrivá elimina despachos de directivos en el Banco de España",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-23T22:55:06+02:00",
-      "enlace": "https://www.expansion.com/estilo-vida/viajes/2026/10/23/destinos-viajeros-amplian-concepto-lujo.html"
+      "fecha": "2026-10-24T00:05:50+02:00",
+      "enlace": "https://www.expansion.com/empresas/banca/2026/10/24/6adb9c3e468aebc56f8b457c.html"
     },
     {
-      "titular": "Frigicoll obtiene 208 millones de ingresos tras su alianza con Midea",
+      "titular": "La banca recupera las bonificaciones por traspasos de fondos de inversión",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-23T21:25:58+02:00",
-      "enlace": "https://www.expansion.com/catalunya/2026/10/23/frigicoll-obtiene-208-millones-ingresos-alianza-midea.html"
+      "fecha": "2026-10-23T23:40:50+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/10/23/6adbd24a468aeb97768b456f.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 5,
+    "antiguedad_minima_min": 110,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 76,
+        "items": 77,
         "error": null,
-        "antiguedad_min": 5,
+        "antiguedad_min": 110,
         "descartados_por_gancho": 1
       },
       {

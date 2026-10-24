@@ -1,9 +1,36 @@
 {
   "pantalla": "generales",
   "titulo": "Titulares",
-  "modo": "ultimas",
-  "generado": "2026-10-23T23:33:12+02:00",
+  "modo": "portadas",
+  "generado": "2026-10-24T02:10:26+02:00",
   "titulares": [
+    {
+      "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
+      "medios": [
+        "RTVE"
+      ],
+      "consenso": 1,
+      "fecha": "2022-06-10T01:05:00+02:00",
+      "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
+    },
+    {
+      "titular": "El Supremo exige al Gobierno la lista de los afectados por la ‘ley de nietos’ y amenaza de multa y posible responsabilidad penal si no lo hace",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-23T12:31:47+02:00",
+      "enlace": "https://elpais.com/espana/elecciones-generales/2026-10-23/el-supremo-da-cinco-dias-a-bolanos-y-albares-para-entregar-los-nombres-de-los-mas-de-160000-nacionalizados-por-la-ley-de-nietos-a-los-que-ha-suspendido-el-derecho-al-voto.html"
+    },
+    {
+      "titular": "El Rey advierte ante las elecciones del 29-N que la democracia “no se agota” en las urnas",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-23T19:47:26+02:00",
+      "enlace": "https://www.lavanguardia.com/cultura/20261023/11666741/rey-advierte-elecciones-29-n-democracia-agota-urnas.html"
+    },
     {
       "titular": "Cinco planes de Halloween para los amantes del misterio y las leyendas",
       "medios": [
@@ -14,58 +41,31 @@
       "enlace": "https://www.abc.es/viajar/destinos/espana/publicarhalloween-2026-cinco-planes-amantes-misterio-leyendas-20261022031732-nt.html"
     },
     {
-      "titular": "El centro del mundo no está tan mal",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-23T23:27:23+02:00",
-      "enlace": "https://www.abc.es/cultura/centro-mundo-mal-20261023194804-nt.html"
-    },
-    {
-      "titular": "Moody’s mantiene la calificación de la deuda soberana de Francia en medio de la crisis política y el malestar social",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-23T23:18:25+02:00",
-      "enlace": "https://elpais.com/economia/2026-10-23/moodys-mantiene-la-calificacion-de-la-deuda-soberana-de-francia-en-medio-de-la-crisis-politica-y-el-malestar-social.html"
-    },
-    {
-      "titular": "El Valencia Basket logra un contundente triunfo en París",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-23T23:14:11+02:00",
-      "enlace": "https://elpais.com/deportes/baloncesto/2026-10-23/el-valencia-basket-logra-un-contundente-triunfo-en-paris.html"
-    },
-    {
-      "titular": "Laporta felicita a Messi por el Princesa de Asturias: “Hiciste aún más grande al Barça, el club de tu vida”",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-23T22:30:30+02:00",
-      "enlace": "https://www.lavanguardia.com/deportes/fc-barcelona/20261023/11666805/laporta-felicita-messi-princesa-asturias-hiciste-aun-mas-grande-barca-club-vida.html"
-    },
-    {
-      "titular": "Julio Barnes entre Cervantes y Flaubert",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-23T21:16:11+02:00",
-      "enlace": "https://www.lavanguardia.com/cultura/20261023/11666793/premios-princesa-asturias-2026-julio-barnes-cervantes-flaubert.html"
-    },
-    {
-      "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
+      "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
       "medios": [
         "RTVE"
       ],
       "consenso": 1,
-      "fecha": "2022-06-10T01:05:00+02:00",
-      "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
+      "fecha": "2022-06-10T00:03:00+02:00",
+      "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
+    },
+    {
+      "titular": "Vox exige al PP tener grupo propio en el Senado y protagonismo en Cataluña",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-23T15:18:14+02:00",
+      "enlace": "https://elpais.com/espana/2026-10-23/vox-exige-al-pp-tener-grupo-propio-en-el-senado-y-protagonismo-en-cataluna.html"
+    },
+    {
+      "titular": "La mujer «inquieta y andariega» (y 2)",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-24T01:55:54+02:00",
+      "enlace": "https://www.abc.es/cultura/cultural/mujer-inquieta-andariega-20261023063254-nt.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": -4526,
+    "antiguedad_minima_min": -4369,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2299588,
+        "antiguedad_min": 2299745,
         "descartados_por_gancho": 0
       },
       {
@@ -90,26 +90,26 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 403",
+        "error": "HTTP 500",
         "antiguedad_min": null
       },
       {
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 152,
+        "items": 153,
         "error": null,
-        "antiguedad_min": 14,
+        "antiguedad_min": 123,
         "descartados_por_gancho": 6
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 137,
+        "items": 132,
         "error": null,
-        "antiguedad_min": 62,
-        "descartados_por_gancho": 15
+        "antiguedad_min": 48,
+        "descartados_por_gancho": 13
       },
       {
         "medio": "ABC",
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": -4526,
+        "antiguedad_min": -4369,
         "descartados_por_gancho": 0
       }
     ]

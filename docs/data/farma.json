@@ -1,18 +1,9 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "ultimas",
-  "generado": "2026-10-23T23:33:20+02:00",
+  "modo": "portadas",
+  "generado": "2026-10-24T02:10:38+02:00",
   "titulares": [
-    {
-      "titular": "\"El acceso es una barrera muy difícil de superar desde la perspectiva de una compañía que ha realizado una inversión importante\"",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-23T18:03:58+02:00",
-      "enlace": "https://www.redaccionmedica.com/empresas/industria-farmaceutica/20261023/el-acceso-es-una-barrera-muy-dificil-de-superar-desde-la-perspectiva-compania-que-ha-realizado-inversion-importante/362358_0.html"
-    },
     {
       "titular": "El CISNS tumba la reforma de listas de espera pero aprueba fondos y cartera común",
       "medios": [
@@ -21,24 +12,6 @@
       "consenso": 1,
       "fecha": "2026-10-23T17:37:13+02:00",
       "enlace": "https://diariofarma.com/2026/10/23/el-cisns-tumba-la-reforma-de-listas-de-espera-pero-aprueba-fondos-y-cartera-comun"
-    },
-    {
-      "titular": "El 'motor del cambio' en Medicina parte del cimiento estudiantil: \"Unidos logramos grandes avances\"",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-23T16:59:24+02:00",
-      "enlace": "https://www.redaccionmedica.com/formacion/estudiantes/20261023/el-motor-del-cambio-en-medicina-parte-cimiento-estudiantil-unidos-logramos-grandes-avances/363224_0.html"
-    },
-    {
-      "titular": "La FH lleva la IA a la validación y la formación, pero reclama reglas claras",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-23T14:45:12+02:00",
-      "enlace": "https://diariofarma.com/2026/10/23/la-fh-lleva-la-ia-a-la-validacion-y-la-formacion-pero-reclama-reglas-claras"
     },
     {
       "titular": "La farmacia ya está en la salud pública; falta reconocerlo",
@@ -50,6 +23,24 @@
       "enlace": "https://elglobalfarma.com/opinion/editorial/farmacia-salud-publica-falta-reconocerlo/"
     },
     {
+      "titular": "\"El acceso es una barrera muy difícil de superar desde la perspectiva de una compañía que ha realizado una inversión importante\"",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-23T18:03:58+02:00",
+      "enlace": "https://www.redaccionmedica.com/empresas/industria-farmaceutica/20261023/el-acceso-es-una-barrera-muy-dificil-de-superar-desde-la-perspectiva-compania-que-ha-realizado-inversion-importante/362358_0.html"
+    },
+    {
+      "titular": "La FH lleva la IA a la validación y la formación, pero reclama reglas claras",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-23T14:45:12+02:00",
+      "enlace": "https://diariofarma.com/2026/10/23/la-fh-lleva-la-ia-a-la-validacion-y-la-formacion-pero-reclama-reglas-claras"
+    },
+    {
       "titular": "El convenio de farmacia afronta una nueva cita para intentar desbloquear la negociación",
       "medios": [
         "El Global"
@@ -59,13 +50,22 @@
       "enlace": "https://elglobalfarma.com/farmacia/convenio-farmacia-nueva-cita-intentar-desbloquear-negociacion/"
     },
     {
-      "titular": "Vivir con autonomía: el soporte médico que derriba barreras físicas y burocráticas en discapacidad",
+      "titular": "Las comunidades del PP bloquean en el Interterritorial el decreto que unifica las listas de espera",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-10-23T16:00:00+02:00",
-      "enlace": "https://www.redaccionmedica.com/profesionales/medicina/20261023/vivir-con-autonomia-el-soporte-medico-que-derriba-barreras-fisicas-burocraticas-en-discapacidad/362252_0.html"
+      "fecha": "2026-10-23T13:29:26+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/20261023/las-comunidades-del-pp-bloquean-en-el-interterritorial-decreto-que-unifica-las-listas-de-espera/363253_0.html"
+    },
+    {
+      "titular": "La farmacia hospitalaria pide gobernar la IA en lugar de limitar su utilización",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-23T13:57:20+02:00",
+      "enlace": "https://diariofarma.com/2026/10/23/la-farmacia-hospitalaria-pide-gobernar-la-ia-en-lugar-de-limitar-su-utilizacion"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 329,
+    "antiguedad_minima_min": 486,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 356,
+        "antiguedad_min": 513,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 597,
+        "antiguedad_min": 755,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 329,
+        "antiguedad_min": 486,
         "descartados_por_gancho": 0
       },
       {

@@ -1,26 +1,17 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "ultimas",
-  "generado": "2026-10-23T23:33:15+02:00",
+  "modo": "portadas",
+  "generado": "2026-10-24T02:10:31+02:00",
   "titulares": [
     {
-      "titular": "\"Para ahorrar dinero en la factura de la calefacción este invierno, todo el mundo se tiene que ir a la TUR del gas\"",
+      "titular": "El primer Clásico de Lamine en el Spotify Camp Nou",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-23T23:22:36+02:00",
-      "enlace": "https://www.mundodeportivo.com/economia-hogar/20261023/1004242445/sergio-soto-experto-energia-habido-anos-barato-gas-natural-otros-bomba-calor-tendencia-plazo-sea-barata-bomba-smd.html"
-    },
-    {
-      "titular": "El Nottingham corta la mala racha y Glasner toma aire",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-23T23:10:12+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/premier-league/20261023/1004242455/nottingham.html"
+      "fecha": "2026-10-24T00:30:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261024/1004242347/primer-clasico-lamine-spotify-camp-nou.html"
     },
     {
       "titular": "Histórico Yáñez, fiesta de Enzo, obra de arte de 'Caste', pleno y liderato",
@@ -32,6 +23,15 @@
       "enlace": "https://www.marca.com/futbol/real-madrid/2026/10/21/historico-yanez-fiesta-enzo-obra-arte-caste-pleno-liderato.html"
     },
     {
+      "titular": "Mensaje de felicitación del FC Barcelona",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-23T20:18:34+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261023/1004242416/mensaje-felicitacion-fc-barcelona-leo-messi.html"
+    },
+    {
       "titular": "Un menor, investigado por arrojar una piedra desde un puente y dejar en estado crítico a un conductor",
       "medios": [
         "Marca"
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/tiramillas/sucesos/2026/10/21/menor-16-anos-investigado-guardia-civil-arrojar-piedra-puente-ap-41-dejar-critico-conductor.html"
     },
     {
-      "titular": "93-104: El Valencia vence en París y recupera el aliento en la Euroliga",
+      "titular": "Emotivo mensaje de Laporta a Leo: \"Con tu talento hiciste más grande al club de tu vida\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-23T23:09:52+02:00",
-      "enlace": "https://www.mundodeportivo.com/baloncesto/euroliga/20261023/1004242463/93-104-valencia-vence-paris-recupera-aliento-euroliga.html"
+      "fecha": "2026-10-23T21:38:21+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261023/1004242439/emotivo-mensaje-laporta-messi-talento-hiciste-grande-club-vida.html"
     },
     {
-      "titular": "Así queda la clasificación tras la victoria del Valencia Basket en París",
+      "titular": "María Herrera, la reina de las motos: \"Quiero llevar el Mundial Femenino a MotoGP\"",
       "medios": [
-        "Mundo Deportivo"
+        "Marca"
       ],
       "consenso": 1,
-      "fecha": "2026-10-23T22:50:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/baloncesto/euroliga/20261023/1004242460/asi-queda-clasificacion-euroliga-victoria-valencia-basket-paris.html"
+      "fecha": "2026-10-21T17:58:43+02:00",
+      "enlace": "https://www.marca.com/motor/mas-motor/2026/10/21/maria-herrera-reina-motos-quiero-llevar-mundial-femenino-motogp.html"
     },
     {
-      "titular": "Lío con el último gol de Cristiano Ronaldo: no queda claro si es suyo",
+      "titular": "Leo Messi recoge el Premio Princesa de Asturias de los Deportes",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-23T22:43:18+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/liga-arabia-saudi/20261023/1004242459/lio-ultimo-gol-cristiano-ronaldo-no-queda-claro-suyo.html"
+      "fecha": "2026-10-23T19:27:33+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261023/1004242397/leo-messi-recoge-premio-princesa-asturias-deportes.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 10,
+    "antiguedad_minima_min": 74,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 74,
         "error": null,
-        "antiguedad_min": 3206,
+        "antiguedad_min": 3363,
         "descartados_por_gancho": 5
       },
       {
@@ -99,9 +99,9 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 140,
+        "items": 139,
         "error": null,
-        "antiguedad_min": 10,
+        "antiguedad_min": 74,
         "descartados_por_gancho": 7
       },
       {
