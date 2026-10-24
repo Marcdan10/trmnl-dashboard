@@ -2,8 +2,17 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-10-24T21:11:27+02:00",
+  "generado": "2026-10-24T23:42:54+02:00",
   "titulares": [
+    {
+      "titular": "La ofensiva china que resucita las superdeportivas de acceso",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-24T21:13:41+02:00",
+      "enlace": "https://www.expansion.com/empresas/motor/2026/10/24/6adcfd77e5fdea7b168b4571.html"
+    },
     {
       "titular": "La Administración entra en una carrera contrarreloj por la IA",
       "medios": [
@@ -57,15 +66,6 @@
       "consenso": 1,
       "fecha": "2026-10-24T19:27:41+02:00",
       "enlace": "https://www.expansion.com/inmobiliario/mercado-inmobiliario/2026/10/24/barcelona-incertidumbre-alquiler.html"
-    },
-    {
-      "titular": "Barcelona se dispara un 11% a pesar del freno de la compraventa",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-24T19:25:32+02:00",
-      "enlace": "https://www.expansion.com/inmobiliario/mercado-inmobiliario/2026/10/24/barcelona-dispara-11-pesar-freno-compraventa.html"
     }
   ],
   "salud": {
@@ -78,7 +78,7 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 67,
+    "antiguedad_minima_min": 149,
     "detalle": [
       {
         "medio": "Expansión",
@@ -86,7 +86,7 @@
         "ok": true,
         "items": 75,
         "error": null,
-        "antiguedad_min": 67,
+        "antiguedad_min": 149,
         "descartados_por_gancho": 3
       },
       {

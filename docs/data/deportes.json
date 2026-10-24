@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-10-24T21:11:28+02:00",
+  "generado": "2026-10-24T23:42:55+02:00",
   "titulares": [
     {
-      "titular": "Mateu Alemany sí que habló del Clásico",
+      "titular": "El 1x1 del Barça ante el Casademont Zaragoza",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-24T20:55:55+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20261024/1004242786/mateu-alemany-hablo-clasico.html"
+      "fecha": "2026-10-24T23:22:40+02:00",
+      "enlace": "https://www.mundodeportivo.com/baloncesto/acb/20261024/1004242734/1x1-barca-casademont-zaragoza.html"
     },
     {
-      "titular": "Diego Ocampo: \"No nos enteramos del nivel de la Liga Endesa\"",
+      "titular": "El bonito gesto de Gavi con Kvaratskhelia y su favorito al Balón de Oro",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-24T20:49:45+02:00",
-      "enlace": "https://www.mundodeportivo.com/baloncesto/acb/20261024/1004242784/diego-ocampo-no-enteramos-nivel-liga-endesa.html"
+      "fecha": "2026-10-24T23:20:04+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261024/1004242828/bonito-gesto-gavi-kvaratskhelia-favorito-balon-oro.html"
     },
     {
       "titular": "Histórico Yáñez, fiesta de Enzo, obra de arte de 'Caste', pleno y liderato",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/tiramillas/sucesos/2026/10/21/menor-16-anos-investigado-guardia-civil-arrojar-piedra-puente-ap-41-dejar-critico-conductor.html"
     },
     {
-      "titular": "Una protesta estudiantil en el centro de Barcelona desata fuertes enfrentamientos con la policía y obliga a cerrar los accesos a plaza Catalunya",
+      "titular": "Fuerte trompazo de un top-10 tras malograr cuatro 'match-balls': los resultados del día",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-24T20:48:36+02:00",
-      "enlace": "https://www.mundodeportivo.com/actualidad/20261024/1004242780/protesta-estudiantes-centro-barcelona-desata-fuertes-enfrentamientos-policia-obliga-cerrar-accesos-plaza-catalunya-dct.html"
+      "fecha": "2026-10-24T23:13:50+02:00",
+      "enlace": "https://www.mundodeportivo.com/tenis/20261024/1004242830/fuerte-trompazo-top-10-malograr-cuatro-match-balls-resultados-dia.html"
     },
     {
-      "titular": "Atlético de Madrid - Deportivo de A Coruña, en directo",
+      "titular": "99-81: Juan Núñez se reivindica y guía al Barça ante el Casademont Zaragoza",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-24T20:47:40+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/laliga/20261024/1004240822/atletico-madrid-deportivo-coruna-directo-laliga-ea-sports-futbol-primera-division.html"
+      "fecha": "2026-10-24T23:09:05+02:00",
+      "enlace": "https://www.mundodeportivo.com/baloncesto/acb/20261024/1004242731/barca-casademont-zaragoza-liga-endesa-acb-palau-blaugrana.html"
     },
     {
-      "titular": "Hamilton planta cara a Verstappen y Ferrari va en serio; Alonso se mantiene",
+      "titular": "El 'clásico' 1-0 del Atlético para sacar ventaja en una jornada que será propicia",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-24T20:44:34+02:00",
-      "enlace": "https://www.mundodeportivo.com/motor/f1/20261024/1004242782/hamilton-planta-cara-verstappen-ferrari-serio-alonso-mantiene.html"
+      "fecha": "2026-10-24T23:07:31+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20261024/1004242812/atletico-madrid-deportivo-coruna.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 15,
+    "antiguedad_minima_min": 20,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 74,
         "error": null,
-        "antiguedad_min": 4504,
+        "antiguedad_min": 4655,
         "descartados_por_gancho": 5
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 138,
+        "items": 135,
         "error": null,
-        "antiguedad_min": 15,
-        "descartados_por_gancho": 7
+        "antiguedad_min": 20,
+        "descartados_por_gancho": 6
       },
       {
         "medio": "Sport",

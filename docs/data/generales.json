@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-10-24T21:11:25+02:00",
+  "generado": "2026-10-24T23:42:51+02:00",
   "titulares": [
     {
       "titular": "Cinco planes de Halloween para los amantes del misterio y las leyendas",
@@ -14,22 +14,33 @@
       "enlace": "https://www.abc.es/viajar/destinos/espana/publicarhalloween-2026-cinco-planes-amantes-misterio-leyendas-20261022031732-nt.html"
     },
     {
-      "titular": "El Villarreal se aprovecha de un pobre Valencia para dar un paso al frente",
+      "titular": "El Rey, operado en Oviedo por una catarata en el ojo izquierdo",
       "medios": [
-        "El País"
+        "El País",
+        "La Vanguardia",
+        "ABC"
       ],
-      "consenso": 1,
-      "fecha": "2026-10-24T20:52:04+02:00",
-      "enlace": "https://elpais.com/deportes/futbol/2026-10-24/el-villarreal-se-aprovecha-de-un-pobre-valencia-para-dar-un-paso-al-frente.html"
+      "consenso": 3,
+      "fecha": "2026-10-25T06:30:01+02:00",
+      "enlace": "https://elpais.com/espana/2026-10-24/felipe-vi-operado-de-cataratas-del-ojo-izquierdo-en-oviedo.html"
     },
     {
-      "titular": "Grupos de encapuchados antisistema causan destrozos en Barcelona emulando los disturbios de París",
+      "titular": "Julián Álvarez consigue el indulto del Metropolitano",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-10-24T20:52:02+02:00",
-      "enlace": "https://www.abc.es/espana/cataluna/disturbios-centro-barcelona-marcha-sistema-20261024202028-nt.html"
+      "fecha": "2026-10-24T23:13:44+02:00",
+      "enlace": "https://www.abc.es/deportes/atletico-madrid/cronica-atletico-madrid-deportivo-coruna-20261024144328-nt.html"
+    },
+    {
+      "titular": "El Barça olvida el tropiezo en Zubieta ganando al Granada",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-24T22:29:40+02:00",
+      "enlace": "https://www.lavanguardia.com/deportes/futbol-femenino/20261024/11667358/barca-olvida-tropiezo-zubieta-ganando-granada.html"
     },
     {
       "titular": "La temida jornada de protestas en Italia transcurre sin incidentes y con la detención del presunto promotor en redes de los disturbios",
@@ -37,26 +48,17 @@
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-24T20:41:38+02:00",
+      "fecha": "2026-10-24T22:20:28+02:00",
       "enlace": "https://elpais.com/internacional/2026-10-24/la-temida-jornada-de-protestas-en-italia-transcurre-sin-incidentes-y-con-la-detencion-del-presunto-promotor-en-redes-de-los-disturbios.html"
     },
     {
-      "titular": "Mossos y Guàrdia Urbana dispersan una concentración “contra el sistema” en Plaça Catalunya",
+      "titular": "Jóvenes de los disturbios en Barcelona: “Nos aburríamos en casa”",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-10-24T19:17:32+02:00",
-      "enlace": "https://www.lavanguardia.com/local/barcelona/20261024/11667279/mossos-guardia-urbana-dispersan-concentracion-sistema-placa-catalunya.html"
-    },
-    {
-      "titular": "Michael Kiwanuka (★★★★✩), radicalmente libre y humano, y otros discos de la semana",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-24T19:13:20+02:00",
-      "enlace": "https://www.lavanguardia.com/cultura/20261024/11667271/michael-kiwanuka-radicalmente-libre-humano-otros-discos-semana.html"
+      "fecha": "2026-10-24T21:45:17+02:00",
+      "enlace": "https://www.lavanguardia.com/local/barcelona/20261024/11667352/aburriamos-casa.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -74,7 +76,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": -3228,
+    "antiguedad_minima_min": -3077,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +84,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2300886,
+        "antiguedad_min": 2301037,
         "descartados_por_gancho": 0
       },
       {
@@ -97,19 +99,19 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 143,
+        "items": 144,
         "error": null,
-        "antiguedad_min": 19,
+        "antiguedad_min": -408,
         "descartados_por_gancho": 8
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 120,
+        "items": 122,
         "error": null,
-        "antiguedad_min": 113,
-        "descartados_por_gancho": 22
+        "antiguedad_min": 36,
+        "descartados_por_gancho": 20
       },
       {
         "medio": "ABC",
@@ -117,7 +119,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": -3228,
+        "antiguedad_min": -3077,
         "descartados_por_gancho": 0
       }
     ]
