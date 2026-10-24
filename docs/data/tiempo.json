@@ -1,99 +1,99 @@
 {
   "ciudad": "Barcelona",
-  "generado": "2026-10-24T00:10:38",
+  "generado": "2026-10-24T04:51:44",
   "horas": [
-    {
-      "hora": "01",
-      "temp": 17,
-      "prob": 13,
-      "mm": 0,
-      "mostrar_prob": true,
-      "icono": "nube"
-    },
-    {
-      "hora": "02",
-      "temp": 19,
-      "prob": 20,
-      "mm": 0,
-      "mostrar_prob": true,
-      "icono": "nube"
-    },
-    {
-      "hora": "03",
-      "temp": 18,
-      "prob": 30,
-      "mm": 0,
-      "mostrar_prob": true,
-      "icono": "nube"
-    },
-    {
-      "hora": "04",
-      "temp": 18,
-      "prob": 43,
-      "mm": 0,
-      "mostrar_prob": true,
-      "icono": "nube"
-    },
     {
       "hora": "05",
       "temp": 17,
-      "prob": 48,
-      "mm": 0.2,
+      "prob": 10,
+      "mm": 0,
       "mostrar_prob": true,
       "icono": "nube"
     },
     {
       "hora": "06",
-      "temp": 16,
-      "prob": 48,
-      "mm": 0.2,
+      "temp": 17,
+      "prob": 38,
+      "mm": 0,
       "mostrar_prob": true,
       "icono": "nube"
     },
     {
       "hora": "07",
       "temp": 16,
-      "prob": 40,
-      "mm": 0.1,
+      "prob": 53,
+      "mm": 0.2,
       "mostrar_prob": true,
       "icono": "nube"
     },
     {
       "hora": "08",
-      "temp": 16,
-      "prob": 50,
-      "mm": 0,
+      "temp": 17,
+      "prob": 53,
+      "mm": 0.1,
       "mostrar_prob": true,
       "icono": "nube"
     },
     {
       "hora": "09",
-      "temp": 16,
-      "prob": 25,
-      "mm": 0.1,
+      "temp": 17,
+      "prob": 45,
+      "mm": 0,
       "mostrar_prob": true,
       "icono": "nube"
     },
     {
       "hora": "10",
-      "temp": 16,
-      "prob": 23,
-      "mm": 0.1,
+      "temp": 17,
+      "prob": 28,
+      "mm": 0,
       "mostrar_prob": true,
       "icono": "nube"
     },
     {
       "hora": "11",
       "temp": 16,
-      "prob": 8,
+      "prob": 5,
       "mm": 0,
       "mostrar_prob": false,
       "icono": "nube"
     },
     {
       "hora": "12",
-      "temp": 16,
-      "prob": 5,
+      "temp": 17,
+      "prob": 3,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "nube"
+    },
+    {
+      "hora": "13",
+      "temp": 17,
+      "prob": 3,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "nube"
+    },
+    {
+      "hora": "14",
+      "temp": 17,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "nube"
+    },
+    {
+      "hora": "15",
+      "temp": 17,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "nube"
+    },
+    {
+      "hora": "16",
+      "temp": 17,
+      "prob": 0,
       "mm": 0,
       "mostrar_prob": false,
       "icono": "nube"
@@ -102,7 +102,7 @@
   "dias": [
     {
       "etiqueta": "dom 25",
-      "max": 22,
+      "max": 21,
       "min": 14,
       "prob": 0,
       "mm": 0,
@@ -123,8 +123,8 @@
     {
       "etiqueta": "mar 27",
       "max": 23,
-      "min": 16,
-      "prob": 2,
+      "min": 15,
+      "prob": 0,
       "mm": 0,
       "mostrar_prob": false,
       "destacar": false,
@@ -133,7 +133,7 @@
     {
       "etiqueta": "mié 28",
       "max": 24,
-      "min": 16,
+      "min": 17,
       "prob": 3,
       "mm": 0,
       "mostrar_prob": false,
@@ -142,9 +142,9 @@
     },
     {
       "etiqueta": "jue 29",
-      "max": 22,
+      "max": 21,
       "min": 11,
-      "prob": 0,
+      "prob": 1,
       "mm": 0,
       "mostrar_prob": false,
       "destacar": false,
@@ -153,8 +153,8 @@
     {
       "etiqueta": "vie 30",
       "max": 21,
-      "min": 16,
-      "prob": 0,
+      "min": 14,
+      "prob": 2,
       "mm": 0,
       "mostrar_prob": false,
       "destacar": false,
@@ -163,10 +163,10 @@
     {
       "etiqueta": "sáb 31",
       "max": 20,
-      "min": 12,
-      "prob": 6,
+      "min": 11,
+      "prob": 11,
       "mm": 0,
-      "mostrar_prob": false,
+      "mostrar_prob": true,
       "destacar": false,
       "icono": "nube"
     }

@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-10-24T02:10:26+02:00",
+  "generado": "2026-10-24T06:51:37+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -14,22 +14,22 @@
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
     },
     {
-      "titular": "El Supremo exige al Gobierno la lista de los afectados por la ‘ley de nietos’ y amenaza de multa y posible responsabilidad penal si no lo hace",
+      "titular": "¿Dónde y por qué se protesta en Europa? Las reivindicaciones de los jóvenes de cada país",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-23T12:31:47+02:00",
-      "enlace": "https://elpais.com/espana/elecciones-generales/2026-10-23/el-supremo-da-cinco-dias-a-bolanos-y-albares-para-entregar-los-nombres-de-los-mas-de-160000-nacionalizados-por-la-ley-de-nietos-a-los-que-ha-suspendido-el-derecho-al-voto.html"
+      "fecha": "2026-10-24T05:30:01+02:00",
+      "enlace": "https://elpais.com/internacional/europa/informada/2026-10-24/donde-y-por-que-se-protesta-en-europa-las-reivindicaciones-de-los-jovenes-de-cada-pais.html"
     },
     {
-      "titular": "El Rey advierte ante las elecciones del 29-N que la democracia “no se agota” en las urnas",
+      "titular": "Un atentado mortal de signo racista sacude Francia en plena ola de protestas",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-10-23T19:47:26+02:00",
-      "enlace": "https://www.lavanguardia.com/cultura/20261023/11666741/rey-advierte-elecciones-29-n-democracia-agota-urnas.html"
+      "fecha": "2026-10-24T00:05:00+02:00",
+      "enlace": "https://www.lavanguardia.com/internacional/20261024/11666807/atentado-mortal-signo-racista-sacude-francia-plena-ola-protestas.html"
     },
     {
       "titular": "Cinco planes de Halloween para los amantes del misterio y las leyendas",
@@ -50,22 +50,22 @@
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
     },
     {
-      "titular": "Vox exige al PP tener grupo propio en el Senado y protagonismo en Cataluña",
+      "titular": "Francina Armengol, presidenta del Congreso: “No hay una polarización, hay un clima de agresividad buscado”",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-23T15:18:14+02:00",
-      "enlace": "https://elpais.com/espana/2026-10-23/vox-exige-al-pp-tener-grupo-propio-en-el-senado-y-protagonismo-en-cataluna.html"
+      "fecha": "2026-10-24T05:30:01+02:00",
+      "enlace": "https://elpais.com/espana/2026-10-24/francina-armengol-presidenta-del-congreso-no-hay-una-polarizacion-hay-un-clima-de-agresividad-buscado.html"
     },
     {
-      "titular": "La mujer «inquieta y andariega» (y 2)",
+      "titular": "Francia: la izquierda en las calles, la ultraderecha en las urnas",
       "medios": [
-        "ABC"
+        "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-10-24T01:55:54+02:00",
-      "enlace": "https://www.abc.es/cultura/cultural/mujer-inquieta-andariega-20261023063254-nt.html"
+      "fecha": "2026-10-24T06:00:00+02:00",
+      "enlace": "https://www.lavanguardia.com/internacional/20261024/11666799/francia-izquierda-calles-ultraderecha-urnas.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": -4369,
+    "antiguedad_minima_min": -4088,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2299745,
+        "antiguedad_min": 2300026,
         "descartados_por_gancho": 0
       },
       {
@@ -90,26 +90,26 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 500",
+        "error": "HTTP 403",
         "antiguedad_min": null
       },
       {
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 153,
+        "items": 141,
         "error": null,
-        "antiguedad_min": 123,
+        "antiguedad_min": 6,
         "descartados_por_gancho": 6
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 132,
+        "items": 121,
         "error": null,
-        "antiguedad_min": 48,
-        "descartados_por_gancho": 13
+        "antiguedad_min": 51,
+        "descartados_por_gancho": 16
       },
       {
         "medio": "ABC",
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": -4369,
+        "antiguedad_min": -4088,
         "descartados_por_gancho": 0
       }
     ]
