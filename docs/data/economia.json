@@ -2,70 +2,70 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-10-24T18:47:33+02:00",
+  "generado": "2026-10-24T21:11:27+02:00",
   "titulares": [
     {
-      "titular": "Temblores bursátiles por la escalada bélica",
+      "titular": "La Administración entra en una carrera contrarreloj por la IA",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-24T13:02:37+02:00",
-      "enlace": "https://www.expansion.com/opinion/2026/10/24/temblores-bursatiles-escalada-belica.html"
+      "fecha": "2026-10-24T20:04:05+02:00",
+      "enlace": "https://www.expansion.com/tecnologia/2026/10/24/administracion-entra-carrera-contrarreloj-ia.html"
     },
     {
-      "titular": "Emprender comprando: de la experiencia al criterio",
+      "titular": "Alfonso y Enrique: objetivo 2050",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-24T12:47:52+02:00",
-      "enlace": "https://www.expansion.com/opinion/2026/10/24/emprender-comprando-experiencia-criterio.html"
+      "fecha": "2026-10-24T19:48:41+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/10/24/6adcdea3468aeb852b8b4596.html"
     },
     {
-      "titular": "Samsung y Apple ganan cuota frente a las marcas chinas",
+      "titular": "Pistas para invertir ahora con un euro bajo presión",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-24T00:19:36+02:00",
-      "enlace": "https://www.expansion.com/tecnologia/2026/10/24/samsung-apple-ganan-cuota-frente-marcas-chinas.html"
+      "fecha": "2026-10-24T19:48:16+02:00",
+      "enlace": "https://www.expansion.com/inversion/2026/10/24/6adb9ab9e5fdea911e8b45a9.html"
     },
     {
-      "titular": "Unicaja ficha en Santander al responsable de la nueva dirección ligada a inversión alternativa",
+      "titular": "El alquiler cae en un tercio de Madrid",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-24T00:14:13+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/10/24/6adb90ee468aeb851d8b4583.html"
+      "fecha": "2026-10-24T19:32:58+02:00",
+      "enlace": "https://www.expansion.com/inmobiliario/mercado-inmobiliario/2026/10/24/alquiler-cae-tercio-madrid.html"
     },
     {
-      "titular": "IAG queda al margen de la última concentración aérea en Europa",
+      "titular": "Las grandes capitales pierden fuerza",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-24T00:13:42+02:00",
-      "enlace": "https://www.expansion.com/empresas/transporte/2026/10/24/6adba3c4468aeb861d8b4592.html"
+      "fecha": "2026-10-24T19:30:40+02:00",
+      "enlace": "https://www.expansion.com/inmobiliario/mercado-inmobiliario/2026/10/24/grandes-capitales-pierden-fuerza.html"
     },
     {
-      "titular": "El proyecto estrella de Escrivá elimina despachos de directivos en el Banco de España",
+      "titular": "Barcelona: incertidumbre en el alquiler",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-24T00:05:50+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/10/24/6adb9c3e468aebc56f8b457c.html"
+      "fecha": "2026-10-24T19:27:41+02:00",
+      "enlace": "https://www.expansion.com/inmobiliario/mercado-inmobiliario/2026/10/24/barcelona-incertidumbre-alquiler.html"
     },
     {
-      "titular": "Mahou, Damm, Estrella Galicia y Cruzcampo aceleran en el exterior",
+      "titular": "Barcelona se dispara un 11% a pesar del freno de la compraventa",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-24T00:04:52+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/10/24/6adbbcc0e5fdea321d8b4591.html"
+      "fecha": "2026-10-24T19:25:32+02:00",
+      "enlace": "https://www.expansion.com/inmobiliario/mercado-inmobiliario/2026/10/24/barcelona-dispara-11-pesar-freno-compraventa.html"
     }
   ],
   "salud": {
@@ -78,16 +78,16 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 344,
+    "antiguedad_minima_min": 67,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 77,
+        "items": 75,
         "error": null,
-        "antiguedad_min": 344,
-        "descartados_por_gancho": 1
+        "antiguedad_min": 67,
+        "descartados_por_gancho": 3
       },
       {
         "medio": "Cinco Días",

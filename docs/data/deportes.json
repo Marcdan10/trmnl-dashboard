@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-10-24T18:47:35+02:00",
+  "generado": "2026-10-24T21:11:28+02:00",
   "titulares": [
     {
-      "titular": "Araujo: \"Que me quede o no en el Liverpool no depende sólo de mí\"",
+      "titular": "Mateu Alemany sí que habló del Clásico",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-24T18:19:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261024/1004242714/araujo.html"
+      "fecha": "2026-10-24T20:55:55+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20261024/1004242786/mateu-alemany-hablo-clasico.html"
     },
     {
-      "titular": "2-1: El Racing deja a Manolo González tambaleándose",
+      "titular": "Diego Ocampo: \"No nos enteramos del nivel de la Liga Endesa\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-24T18:14:49+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/rcd-espanyol/20261024/1004242721/racing-deja-manolo-gonzalez-tambaleandose.html"
+      "fecha": "2026-10-24T20:49:45+02:00",
+      "enlace": "https://www.mundodeportivo.com/baloncesto/acb/20261024/1004242784/diego-ocampo-no-enteramos-nivel-liga-endesa.html"
     },
     {
       "titular": "Histórico Yáñez, fiesta de Enzo, obra de arte de 'Caste', pleno y liderato",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/tiramillas/sucesos/2026/10/21/menor-16-anos-investigado-guardia-civil-arrojar-piedra-puente-ap-41-dejar-critico-conductor.html"
     },
     {
-      "titular": "De Jong: \"No quiero acostumbrarme a ser suplente\"",
+      "titular": "Una protesta estudiantil en el centro de Barcelona desata fuertes enfrentamientos con la policía y obliga a cerrar los accesos a plaza Catalunya",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-24T18:12:39+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261024/1004242718/jong-no-quiero-acostumbrarme-suplente.html"
+      "fecha": "2026-10-24T20:48:36+02:00",
+      "enlace": "https://www.mundodeportivo.com/actualidad/20261024/1004242780/protesta-estudiantes-centro-barcelona-desata-fuertes-enfrentamientos-policia-obliga-cerrar-accesos-plaza-catalunya-dct.html"
     },
     {
-      "titular": "3-5: El Barça, a la final de la Supercopa tras batir al Liceo con cinco goleadores distintos",
+      "titular": "Atlético de Madrid - Deportivo de A Coruña, en directo",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-24T18:10:24+02:00",
-      "enlace": "https://www.mundodeportivo.com/hockey-patines/20261024/1004242720/3-5-barca-final-supercopa-batir-liceo-cinco-goleadores-distintos.html"
+      "fecha": "2026-10-24T20:47:40+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/laliga/20261024/1004240822/atletico-madrid-deportivo-coruna-directo-laliga-ea-sports-futbol-primera-division.html"
     },
     {
-      "titular": "Alex Palou: \"Va a ser el inicio de algo muy grande. Puede ser espectacular y creo que puede ser el gran evento de la IndyCar después de las 500 millas\"",
+      "titular": "Hamilton planta cara a Verstappen y Ferrari va en serio; Alonso se mantiene",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-24T18:08:40+02:00",
-      "enlace": "https://www.mundodeportivo.com/motor/indycar/20261024/1004242719/alex-palou-creo-esto-inicio-grande-espectacular-creo-firmemente-gran-evento-indycar-500-millas.html"
+      "fecha": "2026-10-24T20:44:34+02:00",
+      "enlace": "https://www.mundodeportivo.com/motor/f1/20261024/1004242782/hamilton-planta-cara-verstappen-ferrari-serio-alonso-mantiene.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 28,
+    "antiguedad_minima_min": 15,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 74,
         "error": null,
-        "antiguedad_min": 4360,
+        "antiguedad_min": 4504,
         "descartados_por_gancho": 5
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 139,
+        "items": 138,
         "error": null,
-        "antiguedad_min": 28,
-        "descartados_por_gancho": 5
+        "antiguedad_min": 15,
+        "descartados_por_gancho": 7
       },
       {
         "medio": "Sport",

@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-10-24T18:47:29+02:00",
+  "generado": "2026-10-24T21:11:25+02:00",
   "titulares": [
     {
       "titular": "Cinco planes de Halloween para los amantes del misterio y las leyendas",
@@ -14,49 +14,49 @@
       "enlace": "https://www.abc.es/viajar/destinos/espana/publicarhalloween-2026-cinco-planes-amantes-misterio-leyendas-20261022031732-nt.html"
     },
     {
-      "titular": "Estallan los disturbios en Francia tras una nueva jornada de protestas",
+      "titular": "El Villarreal se aprovecha de un pobre Valencia para dar un paso al frente",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-24T20:52:04+02:00",
+      "enlace": "https://elpais.com/deportes/futbol/2026-10-24/el-villarreal-se-aprovecha-de-un-pobre-valencia-para-dar-un-paso-al-frente.html"
+    },
+    {
+      "titular": "Grupos de encapuchados antisistema causan destrozos en Barcelona emulando los disturbios de París",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-10-24T18:29:00+02:00",
-      "enlace": "https://www.abc.es/internacional/manifestacion-paris-directo-ultima-hora-protestas-posibles-20261024123601-di.html"
+      "fecha": "2026-10-24T20:52:02+02:00",
+      "enlace": "https://www.abc.es/espana/cataluna/disturbios-centro-barcelona-marcha-sistema-20261024202028-nt.html"
     },
     {
-      "titular": "El hartazgo de los jóvenes en Albania frente a la clase dirigente vuelve a estallar en las calles",
+      "titular": "La temida jornada de protestas en Italia transcurre sin incidentes y con la detención del presunto promotor en redes de los disturbios",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-24T18:20:51+02:00",
-      "enlace": "https://elpais.com/internacional/2026-10-24/el-hartazgo-de-los-jovenes-en-albania-frente-a-la-clase-dirigente-vuelve-a-estallar-en-las-calles.html"
+      "fecha": "2026-10-24T20:41:38+02:00",
+      "enlace": "https://elpais.com/internacional/2026-10-24/la-temida-jornada-de-protestas-en-italia-transcurre-sin-incidentes-y-con-la-detencion-del-presunto-promotor-en-redes-de-los-disturbios.html"
     },
     {
-      "titular": "París, Marsella y Estrasburgo viven los primeros altercados de una nueva jornada de protesta en Francia",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-24T17:53:34+02:00",
-      "enlace": "https://elpais.com/internacional/2026-10-24/francia-contiene-el-aliento-ante-una-nueva-jornada-de-protestas.html"
-    },
-    {
-      "titular": "Detenido en Milán el presunto cerebro de las protestas juveniles en Italia",
+      "titular": "Mossos y Guàrdia Urbana dispersan una concentración “contra el sistema” en Plaça Catalunya",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-10-24T17:23:39+02:00",
-      "enlace": "https://www.lavanguardia.com/internacional/20261024/11667247/detenido-milan-presunto-cerebro-protestas-juveniles-italia.html"
+      "fecha": "2026-10-24T19:17:32+02:00",
+      "enlace": "https://www.lavanguardia.com/local/barcelona/20261024/11667279/mossos-guardia-urbana-dispersan-concentracion-sistema-placa-catalunya.html"
     },
     {
-      "titular": "Ni radiador, ni estufa: calefactor de bajo consumo para baños",
+      "titular": "Michael Kiwanuka (★★★★✩), radicalmente libre y humano, y otros discos de la semana",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-10-24T17:00:00+02:00",
-      "enlace": "https://www.lavanguardia.com/comprar/hogar-cocina/20261024/11666193/radiador-estufa-calefactor-consumo-potente-silencioso-perfecto-banos-pequenos.html"
+      "fecha": "2026-10-24T19:13:20+02:00",
+      "enlace": "https://www.lavanguardia.com/cultura/20261024/11667271/michael-kiwanuka-radicalmente-libre-humano-otros-discos-semana.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": -3372,
+    "antiguedad_minima_min": -3228,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2300742,
+        "antiguedad_min": 2300886,
         "descartados_por_gancho": 0
       },
       {
@@ -97,19 +97,19 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 142,
+        "items": 143,
         "error": null,
-        "antiguedad_min": 26,
+        "antiguedad_min": 19,
         "descartados_por_gancho": 8
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 119,
+        "items": 120,
         "error": null,
-        "antiguedad_min": 83,
-        "descartados_por_gancho": 23
+        "antiguedad_min": 113,
+        "descartados_por_gancho": 22
       },
       {
         "medio": "ABC",
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": -3372,
+        "antiguedad_min": -3228,
         "descartados_por_gancho": 0
       }
     ]
