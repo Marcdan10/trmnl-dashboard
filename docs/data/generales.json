@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-10-25T01:55:31+02:00",
+  "generado": "2026-10-25T04:52:26+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -37,7 +37,7 @@
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-10-27T02:59:00+02:00",
+      "fecha": "2026-10-27T03:59:00+02:00",
       "enlace": "https://www.abc.es/viajar/destinos/espana/publicarhalloween-2026-cinco-planes-amantes-misterio-leyendas-20261022031732-nt.html"
     },
     {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": -2944,
+    "antiguedad_minima_min": -2827,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2301170,
+        "antiguedad_min": 2301347,
         "descartados_por_gancho": 0
       },
       {
@@ -99,26 +99,26 @@
         "ok": true,
         "items": 146,
         "error": null,
-        "antiguedad_min": -275,
+        "antiguedad_min": -98,
         "descartados_por_gancho": 8
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 121,
+        "items": 124,
         "error": null,
-        "antiguedad_min": 135,
-        "descartados_por_gancho": 20
+        "antiguedad_min": 179,
+        "descartados_por_gancho": 18
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 24,
+        "items": 25,
         "error": null,
-        "antiguedad_min": -2944,
-        "descartados_por_gancho": 1
+        "antiguedad_min": -2827,
+        "descartados_por_gancho": 0
       }
     ]
   }
