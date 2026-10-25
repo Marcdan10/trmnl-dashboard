@@ -1,71 +1,71 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "ultimas",
-  "generado": "2026-10-25T21:49:30+02:00",
+  "modo": "portadas",
+  "generado": "2026-10-26T00:13:36+02:00",
   "titulares": [
     {
-      "titular": "La líder opositora María Corina Machado regresa a Venezuela",
+      "titular": "Santander, BBVA y Sabadell relanzan la banca personal para frenar a los neobancos",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-25T20:25:07+02:00",
-      "enlace": "https://www.expansion.com/economia/politica/2026/10/25/lider-opositora-maria-corina-machado-regresa-venezuela.html"
+      "fecha": "2026-10-26T00:00:03+02:00",
+      "enlace": "https://www.expansion.com/empresas/banca/2026/10/25/6adb9512468aeb852b8b4580.html"
     },
     {
-      "titular": "Dimite el delegado del Gobierno en Madrid tras quedar fuera de las listas del PSOE al 29N",
+      "titular": "El alquiler cae en un tercio de Madrid",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-25T20:12:04+02:00",
-      "enlace": "https://www.expansion.com/economia/politica/2026/10/25/dimite-delegado-gobierno-madrid-quedar-fuera-listas-psoe-29n.html"
+      "fecha": "2026-10-24T19:32:58+02:00",
+      "enlace": "https://www.expansion.com/inmobiliario/mercado-inmobiliario/2026/10/24/alquiler-cae-tercio-madrid.html"
     },
     {
-      "titular": "Fallece Antonio Castelo, analista de iBroker",
+      "titular": "Madrid: la escalada se desacelera, pero el precio sigue en máximos",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-25T19:02:41+02:00",
-      "enlace": "https://www.expansion.com/inversion/2026/10/25/6ade2cffe5fdeaaa2c8b457b.html"
+      "fecha": "2026-10-24T19:20:14+02:00",
+      "enlace": "https://www.expansion.com/inmobiliario/mercado-inmobiliario/2026/10/24/madrid-escalada-desacelera-precio-sigue-maximos.html"
     },
     {
-      "titular": "Trump anuncia en un acto de campaña que Audi construirá su primera fábrica en EEUU",
+      "titular": "Más de 3,6 millones de trabajadores tienen blindado el sueldo ante la escalada del IPC",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-25T17:17:56+02:00",
-      "enlace": "https://www.expansion.com/empresas/motor/2026/10/25/6ade1da0468aebcc698b4594.html"
+      "fecha": "2026-10-25T23:52:32+02:00",
+      "enlace": "https://www.expansion.com/economia/politica/2026/10/25/3-6-millones-trabajadores-blindado-sueldo-escalada-ipc.html"
     },
     {
-      "titular": "El rey Felipe VI abandona la clínica tras someterse a una operación de cataratas en Oviedo",
+      "titular": "Los socios de Madrileña Red de Gas fichan a Goldman Sachs para su venta",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-25T12:21:29+02:00",
-      "enlace": "https://www.expansion.com/sociedad/2026/10/25/rey-felipe-vi-abandona-clinica-someterse-operacion-cataratas-oviedo.html"
+      "fecha": "2026-10-26T00:02:23+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/10/25/6ade3190e5fdeabf608b4587.html"
     },
     {
-      "titular": "La ofensiva china que resucita las superdeportivas de acceso",
+      "titular": "La fiscalidad de la vivienda para uso propio y alquiler",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-24T21:13:41+02:00",
-      "enlace": "https://www.expansion.com/empresas/motor/2026/10/24/6adcfd77e5fdea7b168b4571.html"
+      "fecha": "2026-10-24T19:23:39+02:00",
+      "enlace": "https://www.expansion.com/inmobiliario/mercado-inmobiliario/2026/10/24/fiscalidad-vivienda-propio-alquiler.html"
     },
     {
-      "titular": "La Administración entra en una carrera contrarreloj por la IA",
+      "titular": "Sabadell y CaixaBank son los bancos que más condicionan el bonus; Bankinter, el que menos",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-24T20:04:05+02:00",
-      "enlace": "https://www.expansion.com/tecnologia/2026/10/24/administracion-entra-carrera-contrarreloj-ia.html"
+      "fecha": "2026-10-20T07:36:13+02:00",
+      "enlace": "https://www.expansion.com/empresas/banca/2026/10/20/6a54c287468aebff568b45a6.html"
     }
   ],
   "salud": {
@@ -78,16 +78,16 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 84,
+    "antiguedad_minima_min": 11,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 76,
+        "items": 75,
         "error": null,
-        "antiguedad_min": 84,
-        "descartados_por_gancho": 3
+        "antiguedad_min": 11,
+        "descartados_por_gancho": 4
       },
       {
         "medio": "Cinco Días",

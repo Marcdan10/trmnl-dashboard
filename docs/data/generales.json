@@ -1,63 +1,9 @@
 {
   "pantalla": "generales",
   "titulo": "Titulares",
-  "modo": "ultimas",
-  "generado": "2026-10-25T21:49:27+02:00",
+  "modo": "portadas",
+  "generado": "2026-10-26T00:13:34+02:00",
   "titulares": [
-    {
-      "titular": "Barcelona - Real Madrid en directo | Bernardo Silva es titular en el Madrid y Fermín sustituye a Olmo en el once azulgrana",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-25T21:44:12+02:00",
-      "enlace": "https://elpais.com/deportes/futbol/2026-10-25/barcelona-real-madrid-en-directo-el-clasico-de-la-liga-en-vivo.html"
-    },
-    {
-      "titular": "Antonelli no está para rodeos y se lleva la ‘pole’ del GP de EE UU",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-25T21:42:25+02:00",
-      "enlace": "https://elpais.com/deportes/formula-1/2026-10-24/antonelli-no-esta-para-rodeos-y-se-lleva-la-pole-del-gp-de-ee-uu.html"
-    },
-    {
-      "titular": "Brasil elige entre mantener a Lula o la vuelta del 'bolsonarismo' en una segunda vuelta tensa y ajustada",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-25T21:25:08+02:00",
-      "enlace": "https://www.abc.es/internacional/elecciones-brasil-directo-votaciones-encuestas-ultima-hora-20261025125416-di.html"
-    },
-    {
-      "titular": "El campanero de la generación Z que quiere rescatar el olvidado carillón de la Casa de la Villa",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-25T21:17:49+02:00",
-      "enlace": "https://www.abc.es/espana/madrid/campanero-generacion-quiere-rescatar-olvidado-carillon-casa-20261023015242-nt.html"
-    },
-    {
-      "titular": "El clásico | Alineaciones confirmadas y todo preparado en el Camp Nou",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-25T21:11:29+02:00",
-      "enlace": "https://www.lavanguardia.com/deportes/futbol/20261025/11667648/barcelona-real-madrid-clasico-laliga-ea-sports-partido-futbol-hoy-en-directo.html"
-    },
-    {
-      "titular": "Mourinho saca su once más ofensivo en el clásico; sin sorpresas en el Barça",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-25T20:59:13+02:00",
-      "enlace": "https://www.lavanguardia.com/deportes/futbol/20261025/11667763/alineaciones-barcelona-real-madrid-mourinho-flick.html"
-    },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
       "medios": [
@@ -66,6 +12,60 @@
       "consenso": 1,
       "fecha": "2022-06-10T01:05:00+02:00",
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
+    },
+    {
+      "titular": "Elecciones en Brasil, en vivo |Lula pide ampliar el horario de voto por problemas con el transporte: “No permitiremos que haya robo”",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-25T21:58:52+02:00",
+      "enlace": "https://elpais.com/america/2026-10-25/resultados-de-las-elecciones-en-brasil-en-vivo.html"
+    },
+    {
+      "titular": "Grupos en redes promovieron que jóvenes y menores causaran los disturbios",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-25T09:39:18+02:00",
+      "enlace": "https://www.lavanguardia.com/local/barcelona/20261025/11667600/quienes-como-organizaron-alborotadores-ayer-barcelona.html"
+    },
+    {
+      "titular": "El Real Madrid prolonga su invicto doméstico a costa del Lleida",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-25T23:59:02+02:00",
+      "enlace": "https://www.abc.es/deportes/baloncesto/real-madrid-prolonga-invicto-domestico-costa-lleida-20261024205819-nt.html"
+    },
+    {
+      "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
+      "medios": [
+        "RTVE"
+      ],
+      "consenso": 1,
+      "fecha": "2022-06-10T00:03:00+02:00",
+      "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
+    },
+    {
+      "titular": "La jornada electoral de Brasil, en imágenes",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-25T17:55:45+02:00",
+      "enlace": "https://elpais.com/america/2026-10-25/la-jornada-electoral-de-brasil-en-imagenes.html"
+    },
+    {
+      "titular": "Trump culpa a la inmigración de los disturbios en Barcelona: “Son gente que odia a España“",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-25T18:53:00+02:00",
+      "enlace": "https://www.lavanguardia.com/internacional/20261025/11667718/trump-culpa-inmigracion-disturbios-barcelona-son-gente-odia-espana.html"
     }
   ],
   "salud": {
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2302364,
+        "antiguedad_min": 2302508,
         "descartados_por_gancho": 0
       },
       {
@@ -97,7 +97,7 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 144,
+        "items": 145,
         "error": null,
         "antiguedad_min": 5,
         "descartados_por_gancho": 5
@@ -106,19 +106,19 @@
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 138,
+        "items": 132,
         "error": null,
-        "antiguedad_min": 37,
-        "descartados_por_gancho": 20
+        "antiguedad_min": 69,
+        "descartados_por_gancho": 19
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 24,
+        "items": 25,
         "error": null,
-        "antiguedad_min": 24,
-        "descartados_por_gancho": 1
+        "antiguedad_min": 14,
+        "descartados_por_gancho": 0
       }
     ]
   }

@@ -1,8 +1,8 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "ultimas",
-  "generado": "2026-10-25T21:49:36+02:00",
+  "modo": "portadas",
+  "generado": "2026-10-26T00:13:42+02:00",
   "titulares": [
     {
       "titular": "El CAPF trabajará en la revisión dinámica de precios y en fijar un umbral por AVAC",
@@ -14,6 +14,15 @@
       "enlace": "https://diariofarma.com/2026/10/25/el-capf-actualiza-sus-lineas-estrategicas-y-reclama-mas-recursos-para-evaluacion"
     },
     {
+      "titular": "La farmacia ya está en la salud pública; falta reconocerlo",
+      "medios": [
+        "El Global"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-23T13:35:19+02:00",
+      "enlace": "https://elglobalfarma.com/opinion/editorial/farmacia-salud-publica-falta-reconocerlo/"
+    },
+    {
       "titular": "La sanidad privada impulsa su músculo investigador con más ensayos, pacientes y nuevas estructuras",
       "medios": [
         "Redacción Médica"
@@ -21,15 +30,6 @@
       "consenso": 1,
       "fecha": "2026-10-25T19:00:00+02:00",
       "enlace": "https://www.redaccionmedica.com/empresas/sanidad-privada/20261025/la-sanidad-privada-impulsa-su-musculo-investigador-con-mas-ensayos-pacientes-nuevas-estructuras/362262_0.html"
-    },
-    {
-      "titular": "El TSJCV obliga a la Conselleria de Sanidad a ampliar la información sobre los pagos a la sanidad privada",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-25T18:38:45+02:00",
-      "enlace": "https://www.redaccionmedica.com/autonomias/comunitat-valenciana/20261025/el-tsjcv-obliga-la-conselleria-de-sanidad-ampliar-informacion-sobre-los-pagos-sanidad-privada/363322_0.html"
     },
     {
       "titular": "Fisabio evalúa el impacto de la vacuna frente al VRS en las hospitalizaciones de mayores",
@@ -41,15 +41,6 @@
       "enlace": "https://diariofarma.com/2026/10/25/fisabio-evalua-el-impacto-de-la-vacuna-frente-al-vrs-en-las-hospitalizaciones-de-mayores"
     },
     {
-      "titular": "La farmacia ya está en la salud pública; falta reconocerlo",
-      "medios": [
-        "El Global"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-23T13:35:19+02:00",
-      "enlace": "https://elglobalfarma.com/opinion/editorial/farmacia-salud-publica-falta-reconocerlo/"
-    },
-    {
       "titular": "El convenio de farmacia afronta una nueva cita para intentar desbloquear la negociación",
       "medios": [
         "El Global"
@@ -59,13 +50,22 @@
       "enlace": "https://elglobalfarma.com/farmacia/convenio-farmacia-nueva-cita-intentar-desbloquear-negociacion/"
     },
     {
-      "titular": "La menopausia no es una enfermedad",
+      "titular": "La protección de la salud mental de los MIR, a expensas del futuro del RD: \"La prevención comienza por mejorar las condiciones laborales\"",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-10-25T18:09:01+02:00",
-      "enlace": "https://www.redaccionmedica.com/opinion/20261025/la-menopausia-no-es-una-enfermedad/363246_12.html"
+      "fecha": "2026-10-25T16:57:54+02:00",
+      "enlace": "https://www.redaccionmedica.com/formacion/mir/20261025/la-proteccion-de-la-salud-mental-los-mir-expensas-del-futuro-rd-prevencion-comienza-por-mejorar-las-condiciones-laborales/363019_0.html"
+    },
+    {
+      "titular": "Lamas, “entusiasmada” con la Biotech Act por su impulso integral a la biotecnología",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-25T14:16:12+02:00",
+      "enlace": "https://diariofarma.com/2026/10/25/lamas-entusiasmada-con-la-biotech-act-por-su-impulso-integral-a-la-biotecnologia"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 156,
+    "antiguedad_minima_min": 300,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 156,
+        "antiguedad_min": 300,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 3374,
+        "antiguedad_min": 3518,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 169,
+        "antiguedad_min": 313,
         "descartados_por_gancho": 0
       },
       {

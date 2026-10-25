@@ -1,27 +1,9 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "ultimas",
-  "generado": "2026-10-25T21:49:31+02:00",
+  "modo": "portadas",
+  "generado": "2026-10-26T00:13:38+02:00",
   "titulares": [
-    {
-      "titular": "Flick: \"Quiero al equipo concentrado\"",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-25T21:28:03+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261025/1004243118/flick-quiero-equipo-concentrado.html"
-    },
-    {
-      "titular": "El atrevido vaticinio de Suárez para el Clásico",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-25T21:15:55+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261025/1004243117/atrevido-vaticinio-suarez-clasico.html"
-    },
     {
       "titular": "Histórico Yáñez, fiesta de Enzo, obra de arte de 'Caste', pleno y liderato",
       "medios": [
@@ -30,6 +12,15 @@
       "consenso": 1,
       "fecha": "2026-10-21T18:07:09+02:00",
       "enlace": "https://www.marca.com/futbol/real-madrid/2026/10/21/historico-yanez-fiesta-enzo-obra-arte-caste-pleno-liderato.html"
+    },
+    {
+      "titular": "Flick: \"Quiero al equipo concentrado\"",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-25T21:28:03+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261025/1004243118/flick-quiero-equipo-concentrado.html"
     },
     {
       "titular": "Un menor, investigado por arrojar una piedra desde un puente y dejar en estado crítico a un conductor",
@@ -41,31 +32,40 @@
       "enlace": "https://www.marca.com/tiramillas/sucesos/2026/10/21/menor-16-anos-investigado-guardia-civil-arrojar-piedra-puente-ap-41-dejar-critico-conductor.html"
     },
     {
-      "titular": "Sierra, sargento: \"Ascendí a cabo en 2022 y ese mismo año también aprobé la oposición para sargento\"",
+      "titular": "Espart cae por lesión y examen mayúsculo para Balde",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-25T21:02:07+02:00",
-      "enlace": "https://www.mundodeportivo.com/actualidad/20261025/1004243087/sierra-sargento-ascendi-cabo-2022-ese-ano-aprobe-oposicion-sargento-dml-expt-dct.html"
+      "fecha": "2026-10-25T22:41:12+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261025/1004243150/espart-cae-lesion-examen-mayusculo-balde.html"
     },
     {
-      "titular": "Al menos veinte heridos graves al colisionar un autobús contra un turismo en Barcelona",
+      "titular": "María Herrera, la reina de las motos: \"Quiero llevar el Mundial Femenino a MotoGP\"",
       "medios": [
-        "Mundo Deportivo"
+        "Marca"
       ],
       "consenso": 1,
-      "fecha": "2026-10-25T21:00:32+02:00",
-      "enlace": "https://www.mundodeportivo.com/actualidad/20261025/1004243112/veinte-heridos-graves-colisionar-autobus-caido-terraplen-20-metros-turismo-barcelona-dct.html"
+      "fecha": "2026-10-21T17:58:43+02:00",
+      "enlace": "https://www.marca.com/motor/mas-motor/2026/10/21/maria-herrera-reina-motos-quiero-llevar-mundial-femenino-motogp.html"
     },
     {
-      "titular": "F1: GP de Estados Unidos, en directo",
+      "titular": "El 1x1 del Barça ante el Madrid al descanso",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-25T20:58:29+02:00",
-      "enlace": "https://www.mundodeportivo.com/motor/f1/20261025/1004243109/f1-2026-gran-premio-estados-unidos-circuito-de-las-americas-carrera-formula-1-hoy-en-directo-alonso-sainz-gp-ext-pau.html"
+      "fecha": "2026-10-25T22:50:37+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261025/1004243114/1x1-barca-madrid-descanso.html"
+    },
+    {
+      "titular": "Mbappé, un 'hat-trick' con premio",
+      "medios": [
+        "Marca"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-21T17:50:17+02:00",
+      "enlace": "https://www.marca.com/futbol/real-madrid/2026/10/21/mbappe-primer-asalto-100.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 21,
+    "antiguedad_minima_min": 16,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 74,
         "error": null,
-        "antiguedad_min": 5982,
+        "antiguedad_min": 6126,
         "descartados_por_gancho": 5
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 137,
+        "items": 135,
         "error": null,
-        "antiguedad_min": 21,
-        "descartados_por_gancho": 6
+        "antiguedad_min": 16,
+        "descartados_por_gancho": 7
       },
       {
         "medio": "Sport",
