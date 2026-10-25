@@ -2,8 +2,35 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-10-25T19:08:05+02:00",
+  "generado": "2026-10-25T21:49:30+02:00",
   "titulares": [
+    {
+      "titular": "La líder opositora María Corina Machado regresa a Venezuela",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-25T20:25:07+02:00",
+      "enlace": "https://www.expansion.com/economia/politica/2026/10/25/lider-opositora-maria-corina-machado-regresa-venezuela.html"
+    },
+    {
+      "titular": "Dimite el delegado del Gobierno en Madrid tras quedar fuera de las listas del PSOE al 29N",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-25T20:12:04+02:00",
+      "enlace": "https://www.expansion.com/economia/politica/2026/10/25/dimite-delegado-gobierno-madrid-quedar-fuera-listas-psoe-29n.html"
+    },
+    {
+      "titular": "Fallece Antonio Castelo, analista de iBroker",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-25T19:02:41+02:00",
+      "enlace": "https://www.expansion.com/inversion/2026/10/25/6ade2cffe5fdeaaa2c8b457b.html"
+    },
     {
       "titular": "Trump anuncia en un acto de campaña que Audi construirá su primera fábrica en EEUU",
       "medios": [
@@ -39,33 +66,6 @@
       "consenso": 1,
       "fecha": "2026-10-24T20:04:05+02:00",
       "enlace": "https://www.expansion.com/tecnologia/2026/10/24/administracion-entra-carrera-contrarreloj-ia.html"
-    },
-    {
-      "titular": "Alfonso y Enrique: objetivo 2050",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-24T19:48:41+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/10/24/6adcdea3468aeb852b8b4596.html"
-    },
-    {
-      "titular": "Pistas para invertir ahora con un euro bajo presión",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-24T19:48:16+02:00",
-      "enlace": "https://www.expansion.com/inversion/2026/10/24/6adb9ab9e5fdea911e8b45a9.html"
-    },
-    {
-      "titular": "El alquiler cae en un tercio de Madrid",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-24T19:32:58+02:00",
-      "enlace": "https://www.expansion.com/inmobiliario/mercado-inmobiliario/2026/10/24/alquiler-cae-tercio-madrid.html"
     }
   ],
   "salud": {
@@ -78,7 +78,7 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 110,
+    "antiguedad_minima_min": 84,
     "detalle": [
       {
         "medio": "Expansión",
@@ -86,7 +86,7 @@
         "ok": true,
         "items": 76,
         "error": null,
-        "antiguedad_min": 110,
+        "antiguedad_min": 84,
         "descartados_por_gancho": 3
       },
       {

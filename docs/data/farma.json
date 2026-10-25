@@ -2,8 +2,17 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "ultimas",
-  "generado": "2026-10-25T19:08:13+02:00",
+  "generado": "2026-10-25T21:49:36+02:00",
   "titulares": [
+    {
+      "titular": "El CAPF trabajará en la revisión dinámica de precios y en fijar un umbral por AVAC",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-25T19:13:00+02:00",
+      "enlace": "https://diariofarma.com/2026/10/25/el-capf-actualiza-sus-lineas-estrategicas-y-reclama-mas-recursos-para-evaluacion"
+    },
     {
       "titular": "La sanidad privada impulsa su músculo investigador con más ensayos, pacientes y nuevas estructuras",
       "medios": [
@@ -30,15 +39,6 @@
       "consenso": 1,
       "fecha": "2026-10-25T14:35:37+02:00",
       "enlace": "https://diariofarma.com/2026/10/25/fisabio-evalua-el-impacto-de-la-vacuna-frente-al-vrs-en-las-hospitalizaciones-de-mayores"
-    },
-    {
-      "titular": "Lamas, “entusiasmada” con la Biotech Act por su impulso integral a la biotecnología",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-25T14:16:12+02:00",
-      "enlace": "https://diariofarma.com/2026/10/25/lamas-entusiasmada-con-la-biotech-act-por-su-impulso-integral-a-la-biotecnologia"
     },
     {
       "titular": "La farmacia ya está en la salud pública; falta reconocerlo",
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 8,
+    "antiguedad_minima_min": 156,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 272,
+        "antiguedad_min": 156,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 3212,
+        "antiguedad_min": 3374,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 8,
+        "antiguedad_min": 169,
         "descartados_por_gancho": 0
       },
       {

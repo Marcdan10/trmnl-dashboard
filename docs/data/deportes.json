@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-10-25T19:08:07+02:00",
+  "generado": "2026-10-25T21:49:31+02:00",
   "titulares": [
     {
-      "titular": "Jabari Parker rompe su silencio",
+      "titular": "Flick: \"Quiero al equipo concentrado\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-25T18:48:14+02:00",
-      "enlace": "https://www.mundodeportivo.com/baloncesto/euroliga/20261025/1004243056/jabari-parker-rompe-silencio.html"
+      "fecha": "2026-10-25T21:28:03+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261025/1004243118/flick-quiero-equipo-concentrado.html"
     },
     {
-      "titular": "Musetti deja a Fritz sin título en Bruselas",
+      "titular": "El atrevido vaticinio de Suárez para el Clásico",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-25T18:42:09+02:00",
-      "enlace": "https://www.mundodeportivo.com/tenis/20261025/1004243057/musetti-deja-fritz-titulo-bruselas.html"
+      "fecha": "2026-10-25T21:15:55+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261025/1004243117/atrevido-vaticinio-suarez-clasico.html"
     },
     {
       "titular": "Histórico Yáñez, fiesta de Enzo, obra de arte de 'Caste', pleno y liderato",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/tiramillas/sucesos/2026/10/21/menor-16-anos-investigado-guardia-civil-arrojar-piedra-puente-ap-41-dejar-critico-conductor.html"
     },
     {
-      "titular": "Terzic muestra su satisfacción: \"Hemos ganado como equipo\"",
+      "titular": "Sierra, sargento: \"Ascendí a cabo en 2022 y ese mismo año también aprobé la oposición para sargento\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-25T18:41:36+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/athletic-bilbao/20261025/1004242918/terzic.html"
+      "fecha": "2026-10-25T21:02:07+02:00",
+      "enlace": "https://www.mundodeportivo.com/actualidad/20261025/1004243087/sierra-sargento-ascendi-cabo-2022-ese-ano-aprobe-oposicion-sargento-dml-expt-dct.html"
     },
     {
-      "titular": "Kelly Olynyk ya lidera al Roma Basketball",
+      "titular": "Al menos veinte heridos graves al colisionar un autobús contra un turismo en Barcelona",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-25T18:33:39+02:00",
-      "enlace": "https://www.mundodeportivo.com/baloncesto/eurocup/20261025/1004243031/kelly-olynyk-lidera-roma-basketball.html"
+      "fecha": "2026-10-25T21:00:32+02:00",
+      "enlace": "https://www.mundodeportivo.com/actualidad/20261025/1004243112/veinte-heridos-graves-colisionar-autobus-caido-terraplen-20-metros-turismo-barcelona-dct.html"
     },
     {
-      "titular": "Nico Williams rebate a su agente: \"Nunca he dudado de estar aquí\"",
+      "titular": "F1: GP de Estados Unidos, en directo",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-25T18:21:45+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/athletic-bilbao/20261025/1004242919/nico-williams-rebate-agente-nunca-he-dudado.html"
+      "fecha": "2026-10-25T20:58:29+02:00",
+      "enlace": "https://www.mundodeportivo.com/motor/f1/20261025/1004243109/f1-2026-gran-premio-estados-unidos-circuito-de-las-americas-carrera-formula-1-hoy-en-directo-alonso-sainz-gp-ext-pau.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 19,
+    "antiguedad_minima_min": 21,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 74,
         "error": null,
-        "antiguedad_min": 5820,
+        "antiguedad_min": 5982,
         "descartados_por_gancho": 5
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 135,
+        "items": 137,
         "error": null,
-        "antiguedad_min": 19,
-        "descartados_por_gancho": 7
+        "antiguedad_min": 21,
+        "descartados_por_gancho": 6
       },
       {
         "medio": "Sport",
