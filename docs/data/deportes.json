@@ -1,17 +1,26 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "portadas",
-  "generado": "2026-10-25T10:01:00+02:00",
+  "modo": "ultimas",
+  "generado": "2026-10-25T15:16:20+02:00",
   "titulares": [
     {
-      "titular": "Oficial: El GP de Australia de MotoGP, cancelado",
+      "titular": "Max Verstappen: \"Le invito a conducir mi coche, después de cinco vueltas ya no podrá caminar\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-25T06:37:09+02:00",
-      "enlace": "https://www.mundodeportivo.com/motor/motogp/20261025/1004242891/oficial-gran-premio-australia-motogp-sido-cancelado.html"
+      "fecha": "2026-10-25T14:44:53+02:00",
+      "enlace": "https://www.mundodeportivo.com/motor/f1/20261025/1004242981/max-verstappen-invito-conducir-mi-coche-cinco-vueltas-no-podra-caminar.html"
+    },
+    {
+      "titular": "Flick tira de dos canteranos más para completar la convocatoria del Clásico",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-25T14:28:36+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261025/1004242980/flick-tira-dos-canteranos-completar-convocatoria-clasico.html"
     },
     {
       "titular": "Histórico Yáñez, fiesta de Enzo, obra de arte de 'Caste', pleno y liderato",
@@ -23,15 +32,6 @@
       "enlace": "https://www.marca.com/futbol/real-madrid/2026/10/21/historico-yanez-fiesta-enzo-obra-arte-caste-pleno-liderato.html"
     },
     {
-      "titular": "Media Liga en el Clásico y mucho más",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-25T07:30:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261025/1004242826/media-liga-clasico.html"
-    },
-    {
       "titular": "Un menor, investigado por arrojar una piedra desde un puente y dejar en estado crítico a un conductor",
       "medios": [
         "Marca"
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/tiramillas/sucesos/2026/10/21/menor-16-anos-investigado-guardia-civil-arrojar-piedra-puente-ap-41-dejar-critico-conductor.html"
     },
     {
-      "titular": "María Herrera, la reina de las motos: \"Quiero llevar el Mundial Femenino a MotoGP\"",
-      "medios": [
-        "Marca"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-21T17:58:43+02:00",
-      "enlace": "https://www.marca.com/motor/mas-motor/2026/10/21/maria-herrera-reina-motos-quiero-llevar-mundial-femenino-motogp.html"
-    },
-    {
-      "titular": "Mensaje de felicitación del FC Barcelona",
+      "titular": "Athletic Club - Getafe, en directo",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-23T20:18:34+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261023/1004242416/mensaje-felicitacion-fc-barcelona-leo-messi.html"
+      "fecha": "2026-10-25T14:27:58+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/laliga/20261025/1004241061/athletic-club-getafe-directo-sigue-laliga-ea-sports-vivo.html"
     },
     {
-      "titular": "Mbappé, un 'hat-trick' con premio",
+      "titular": "Llegada 'caliente' del Real Madrid al hotel de concentración",
       "medios": [
-        "Marca"
+        "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-21T17:50:17+02:00",
-      "enlace": "https://www.marca.com/futbol/real-madrid/2026/10/21/mbappe-primer-asalto-100.html"
+      "fecha": "2026-10-25T14:27:03+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/el-clasico-barca-real-madrid/20261025/1004242979/llegada-caliente-real-madrid-hotel-concentracion.html"
+    },
+    {
+      "titular": "España amplía el acceso a la jubilación a los 56 y sin recortes para los trabajadores con alguna de estas 11 enfermedades",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-25T14:14:28+02:00",
+      "enlace": "https://www.mundodeportivo.com/actualidad/20261025/1004242975/oficial-espana-cambia-normas-partir-amplia-acceso-jubilacion-56-anos-recortes-trabajadores-11-enfermedades-finanzas-dct.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 1,
+    "antiguedad_minima_min": 31,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 74,
         "error": null,
-        "antiguedad_min": 5273,
+        "antiguedad_min": 5589,
         "descartados_por_gancho": 5
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 134,
+        "items": 135,
         "error": null,
-        "antiguedad_min": 1,
-        "descartados_por_gancho": 4
+        "antiguedad_min": 31,
+        "descartados_por_gancho": 6
       },
       {
         "medio": "Sport",
