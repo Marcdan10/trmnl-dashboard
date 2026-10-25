@@ -2,16 +2,16 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-10-25T04:52:32+02:00",
+  "generado": "2026-10-25T10:01:00+02:00",
   "titulares": [
     {
-      "titular": "\"Quería pedir disculpas a nuestra gente por mis palabras en el Mundial\"",
+      "titular": "Oficial: El GP de Australia de MotoGP, cancelado",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-24T23:36:48+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20261024/1004242833/queria-pedir-disculpas-nuestra-gente-mis-palabras-mundial.html"
+      "fecha": "2026-10-25T06:37:09+02:00",
+      "enlace": "https://www.mundodeportivo.com/motor/motogp/20261025/1004242891/oficial-gran-premio-australia-motogp-sido-cancelado.html"
     },
     {
       "titular": "Histórico Yáñez, fiesta de Enzo, obra de arte de 'Caste', pleno y liderato",
@@ -23,13 +23,13 @@
       "enlace": "https://www.marca.com/futbol/real-madrid/2026/10/21/historico-yanez-fiesta-enzo-obra-arte-caste-pleno-liderato.html"
     },
     {
-      "titular": "Simeone: \"Valoro a los que piden perdón, Julián es un gran chico, lo hizo desde el sentimiento\"",
+      "titular": "Media Liga en el Clásico y mucho más",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-24T23:50:05+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20261024/1004242845/simeone-valoro-piden-perdon-julian-gran-chico-hizo-sentimiento.html"
+      "fecha": "2026-10-25T07:30:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261025/1004242826/media-liga-clasico.html"
     },
     {
       "titular": "Un menor, investigado por arrojar una piedra desde un puente y dejar en estado crítico a un conductor",
@@ -41,15 +41,6 @@
       "enlace": "https://www.marca.com/tiramillas/sucesos/2026/10/21/menor-16-anos-investigado-guardia-civil-arrojar-piedra-puente-ap-41-dejar-critico-conductor.html"
     },
     {
-      "titular": "Se retrasa MotoGP y se cancela Moto3 por el temporal en Phillip Island",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-25T03:51:24+02:00",
-      "enlace": "https://www.mundodeportivo.com/motor/motogp/20261025/1004242889/retrasa-programa-domingo-motogp-temporal-phillip-island.html"
-    },
-    {
       "titular": "María Herrera, la reina de las motos: \"Quiero llevar el Mundial Femenino a MotoGP\"",
       "medios": [
         "Marca"
@@ -57,6 +48,15 @@
       "consenso": 1,
       "fecha": "2026-10-21T17:58:43+02:00",
       "enlace": "https://www.marca.com/motor/mas-motor/2026/10/21/maria-herrera-reina-motos-quiero-llevar-mundial-femenino-motogp.html"
+    },
+    {
+      "titular": "Mensaje de felicitación del FC Barcelona",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-23T20:18:34+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261023/1004242416/mensaje-felicitacion-fc-barcelona-leo-messi.html"
     },
     {
       "titular": "Mbappé, un 'hat-trick' con premio",
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 31,
+    "antiguedad_minima_min": 1,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 74,
         "error": null,
-        "antiguedad_min": 4965,
+        "antiguedad_min": 5273,
         "descartados_por_gancho": 5
       },
       {
@@ -101,8 +101,8 @@
         "ok": true,
         "items": 134,
         "error": null,
-        "antiguedad_min": 31,
-        "descartados_por_gancho": 6
+        "antiguedad_min": 1,
+        "descartados_por_gancho": 4
       },
       {
         "medio": "Sport",

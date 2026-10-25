@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-10-25T04:52:26+02:00",
+  "generado": "2026-10-25T10:00:56+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -14,16 +14,16 @@
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
     },
     {
-      "titular": "Casi medio millón de personas mantiene el pulso a Macron en toda Francia pese al despliegue policial",
+      "titular": "Pedro Sánchez: “Un Gobierno del PP con Vox no es alternancia, es retroceder 50 años”",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-24T17:53:34+02:00",
-      "enlace": "https://elpais.com/internacional/2026-10-24/francia-contiene-el-aliento-ante-una-nueva-jornada-de-protestas.html"
+      "fecha": "2026-10-25T06:30:01+02:00",
+      "enlace": "https://elpais.com/espana/elecciones-generales/2026-10-25/pedro-sanchez-un-gobierno-del-pp-con-vox-no-es-alternancia-es-retroceder-50-anos.html"
     },
     {
-      "titular": "Disturbios y pillaje en Barcelona tras una protesta que emulaba a las de Francia",
+      "titular": "Más de cien detenidos en Barcelona tras una protesta que emulaba a las de Francia",
       "medios": [
         "La Vanguardia"
       ],
@@ -50,13 +50,13 @@
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
     },
     {
-      "titular": "¿Dónde y por qué se protesta en Europa? Las reivindicaciones de los jóvenes de cada país",
+      "titular": "Sánchez y Feijóo, por carriles paralelos",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-24T05:30:01+02:00",
-      "enlace": "https://elpais.com/internacional/europa/informada/2026-10-24/donde-y-por-que-se-protesta-en-europa-las-reivindicaciones-de-los-jovenes-de-cada-pais.html"
+      "fecha": "2026-10-25T06:30:01+02:00",
+      "enlace": "https://elpais.com/espana/elecciones-generales/2026-10-25/sanchez-y-feijoo-por-carriles-paralelos.html"
     },
     {
       "titular": "Los disturbios durante una protesta en el centro de Barcelona, en imágenes",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": -2827,
+    "antiguedad_minima_min": -2519,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2301347,
+        "antiguedad_min": 2301655,
         "descartados_por_gancho": 0
       },
       {
@@ -97,19 +97,19 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 146,
+        "items": 138,
         "error": null,
-        "antiguedad_min": -98,
-        "descartados_por_gancho": 8
+        "antiguedad_min": 11,
+        "descartados_por_gancho": 11
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 124,
+        "items": 131,
         "error": null,
-        "antiguedad_min": 179,
-        "descartados_por_gancho": 18
+        "antiguedad_min": 60,
+        "descartados_por_gancho": 21
       },
       {
         "medio": "ABC",
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": -2827,
+        "antiguedad_min": -2519,
         "descartados_por_gancho": 0
       }
     ]
