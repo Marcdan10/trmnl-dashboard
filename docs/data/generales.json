@@ -2,61 +2,63 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-10-25T15:16:14+02:00",
+  "generado": "2026-10-25T19:08:02+02:00",
   "titulares": [
     {
-      "titular": "Última hora de la actualidad política, en directo | Feijóo: “¿La alternancia es que Sánchez se suceda a sí mismo?”",
+      "titular": "El regreso de María Corina Machado a Venezuela, en vivo | Trump: “Espero que esté a salvo, es una mujer muy agradable”",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-25T15:01:31+02:00",
-      "enlace": "https://elpais.com/espana/2026-10-25/ultima-hora-de-la-actualidad-politica-en-directo.html"
+      "fecha": "2026-10-25T18:59:45+02:00",
+      "enlace": "https://elpais.com/america/2026-10-25/el-regreso-de-maria-corina-machado-a-venezuela-en-vivo.html"
     },
     {
-      "titular": "El TSJ obliga a Sanidad a facilitar la información sobre los pagos a centros privados que pidieron los socialistas valencianos",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-25T14:54:47+02:00",
-      "enlace": "https://elpais.com/espana/comunidad-valenciana/2026-10-25/el-tsj-obliga-a-sanidad-a-facilitar-la-informacion-sobre-los-pagos-a-centros-privados-que-pidieron-los-socialistas-valencianos.html"
-    },
-    {
-      "titular": "Encuentran restos de mil romanos en las excavaciones del metro",
+      "titular": "Mujeres caballas se manifiestan en Madrid y dan un plazo a Sánchez: «Fuimos las primeras en dar un paso adelante para recuperar la normalidad«",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-10-25T14:32:15+02:00",
-      "enlace": "https://www.abc.es/espana/andalucia/malaga/encuentran-restos-mil-romanos-excavaciones-metro-malaga-20261025121814-nts.html"
-    },
-    {
-      "titular": "Mujeres caballas se manifiestan en Madrid «por una Ceuta segura, española y europea»",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-25T14:08:34+02:00",
+      "fecha": "2026-10-25T18:50:29+02:00",
       "enlace": "https://www.abc.es/espana/mujeres-caballas-manifiestan-madrid-ceuta-segura-espanola-20261025123815-nt.html"
     },
     {
-      "titular": "Las mejores ollas arroceras para preparar arroz de forma rápida",
+      "titular": "Edmundo González: «Nuestra voz soberana retorna con ella para liderar este proceso»",
       "medios": [
-        "La Vanguardia"
+        "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-10-25T14:00:00+02:00",
-      "enlace": "https://www.lavanguardia.com/comprar/hogar-cocina/20261025/11665656/mejores-ollas-arroceras-mkt-nrt.html"
+      "fecha": "2026-10-25T18:45:48+02:00",
+      "enlace": "https://www.abc.es/internacional/maria-corina-machado-vuelve-venezuela-directo-reaparacion-20261025165921-di.html"
     },
     {
-      "titular": "Blocus, la plataforma anónima que alentó la protesta violenta y que los Mossos ya investigan",
+      "titular": "María Corina Machado regresa a Venezuela: «Estoy aquí. Con ustedes»",
+      "medios": [
+        "El País",
+        "La Vanguardia",
+        "ABC"
+      ],
+      "consenso": 3,
+      "fecha": "2026-10-25T18:34:36+02:00",
+      "enlace": "https://www.abc.es/internacional/maria-corina-machado-regresa-venezuela-tras-operacion-20261025164628-nt.html"
+    },
+    {
+      "titular": "La cancelación de la carrera de Australia fastidia a Marc Márquez y da aire a Jorge Martín",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-10-25T13:51:48+02:00",
-      "enlace": "https://www.lavanguardia.com/local/barcelona/20261025/11667662/blocus-plataforma-anonima-alento-protesta-violenta-mossos-investigan.html"
+      "fecha": "2026-10-25T18:28:57+02:00",
+      "enlace": "https://www.lavanguardia.com/deportes/20261025/11667712/motogp-cancelacion-carrera-australia-phillip-island-perjudica-fastidia-marc-marquez-da-aire-jorge-martin-lucha-mundial-motogp.html"
+    },
+    {
+      "titular": "La ‘resistencia’ a Trump habla (y lee) español",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-25T18:21:07+02:00",
+      "enlace": "https://www.lavanguardia.com/cultura/20261025/11667707/cultura-espanol-filnyc-nueva-ucles-york-trump.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -74,7 +76,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 14,
+    "antiguedad_minima_min": 8,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +84,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2301971,
+        "antiguedad_min": 2302202,
         "descartados_por_gancho": 0
       },
       {
@@ -97,28 +99,28 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 142,
+        "items": 141,
         "error": null,
-        "antiguedad_min": 14,
+        "antiguedad_min": 8,
         "descartados_por_gancho": 9
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 135,
+        "items": 143,
         "error": null,
-        "antiguedad_min": 76,
+        "antiguedad_min": 39,
         "descartados_por_gancho": 21
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 24,
+        "items": 25,
         "error": null,
-        "antiguedad_min": 43,
-        "descartados_por_gancho": 1
+        "antiguedad_min": 17,
+        "descartados_por_gancho": 0
       }
     ]
   }
