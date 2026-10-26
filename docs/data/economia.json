@@ -1,44 +1,35 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "ultimas",
-  "generado": "2026-10-26T20:46:04+02:00",
+  "modo": "portadas",
+  "generado": "2026-10-27T00:58:59+02:00",
   "titulares": [
     {
-      "titular": "Vivanta anuncia a sus empleados el cierre temporal de todas sus clínicas en España",
+      "titular": "El Gobierno suaviza las exigencias de renovables a los centros de datos",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-26T19:54:17+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/10/26/6adf93c5e5fdeaa5678b4595.html"
+      "fecha": "2026-10-27T00:01:05+02:00",
+      "enlace": "https://www.expansion.com/tecnologia/2026/10/26/gobierno-suaviza-exigencias-renovables-centros-datos.html"
     },
     {
-      "titular": "Abordador Capital toma la mayoría de Clarel en mitad de su plan estratégico",
+      "titular": "Moeve y Galp cancelan la mayor fusión petrolera intraeuropea",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-26T19:41:32+02:00",
-      "enlace": "https://www.expansion.com/empresas/distribucion/2026/10/26/6adf9060468aeb200e8b459c.html"
+      "fecha": "2026-10-26T09:11:01+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/10/26/6adef86ce5fdea4b708b4583.html"
     },
     {
-      "titular": "Pacto PP-Vox para amarrar la mayoría de la derecha en el Senado",
+      "titular": "Anthropic toma delantera en la carrera por la IA: registra el folleto para saltar a Bolsa",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-26T19:35:20+02:00",
-      "enlace": "https://www.expansion.com/economia/politica/2026/10/26/pacto-pp-vox-amarrar-mayoria-derecha-senado.html"
-    },
-    {
-      "titular": "De Telefónica a Santander: los valores más expuestos a Brasil caen hasta un 6%",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-26T19:05:54+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/10/26/6adf08fe468aebd8488b4577.html"
+      "fecha": "2026-10-26T15:24:02+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/10/26/6adf536ae5fdea212e8b4576.html"
     },
     {
       "titular": "Microsoft lanza un plan de bajas voluntarias para 60.000 empleados",
@@ -50,22 +41,31 @@
       "enlace": "https://www.expansion.com/tecnologia/2026/10/26/microsoft-lanza-plan-bajas-voluntarias-60-000-empleados.html"
     },
     {
-      "titular": "El Ibex se queda rezagado de Europa por el 'efecto Brasil', pero recupera los 19.000 puntos",
+      "titular": "Aagesen: \"La transición energética requiere un marco estable pero dinámico para facilitar las señales de inversión\"",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-26T18:38:18+02:00",
-      "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/10/26/6adef961e5fdeacc278b4574.html"
+      "fecha": "2026-10-26T11:24:56+02:00",
+      "enlace": "https://www.expansion.com/sostenibilidad/greenworld/2026/10/26/6adf16cce5fdead23e8b4590.html"
     },
     {
-      "titular": "Woodburn avisa del riesgo de diluir el mercado de carbono: \"Penalizará a las empresas pioneras\"",
+      "titular": "Simon Stiell (ONU): \"España ha recorrido un largo camino; ahora debemos acelerar\"",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-26T18:22:41+02:00",
-      "enlace": "https://www.expansion.com/sostenibilidad/greenworld/2026/10/26/6adf7ddbe5fdeaa5678b458c.html"
+      "fecha": "2026-10-26T17:00:56+02:00",
+      "enlace": "https://www.expansion.com/sostenibilidad/greenworld/2026/10/26/6adf6423e5fdea1b788b4570.html"
+    },
+    {
+      "titular": "\"Europa debe mantener con firmeza su agenda de transición energética\"",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-26T11:54:35+02:00",
+      "enlace": "https://www.expansion.com/sostenibilidad/greenworld/2026/10/26/6adf1ea2468aeb067f8b4599.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 51,
+    "antiguedad_minima_min": 57,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 88,
+        "items": 90,
         "error": null,
-        "antiguedad_min": 51,
+        "antiguedad_min": 57,
         "descartados_por_gancho": 1
       },
       {
@@ -118,7 +118,7 @@
         "url": "https://www.ine.es/dyngs/Prensa/rss.htm",
         "ok": false,
         "items": 0,
-        "error": "HTTP 503",
+        "error": "HTTP 404",
         "antiguedad_min": null
       },
       {

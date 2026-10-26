@@ -1,44 +1,17 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "ultimas",
-  "generado": "2026-10-26T20:46:09+02:00",
+  "modo": "portadas",
+  "generado": "2026-10-27T00:59:08+02:00",
   "titulares": [
     {
-      "titular": "Farmaindustria aborda con el PP los retos en el acceso a la innovación",
+      "titular": "Sanidad expone a audiencia el RD que obliga a las CC.AA. a medir la demora en AP y remitir microdatos",
       "medios": [
         "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-10-26T20:37:45+02:00",
-      "enlace": "https://diariofarma.com/2026/10/26/29n-farmaindustria-aborda-con-el-pp-los-retos-en-el-acceso-a-la-innovacion"
-    },
-    {
-      "titular": "Sanidad saca a audiencia pública la norma para obligar a las autonomías a acotar las listas de espera",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-26T20:16:16+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/ministerio-sanidad/20261026/sanidad-saca-audiencia-publica-la-norma-para-obligar-las-autonomias-acotar-listas-de-espera/363449_0.html"
-    },
-    {
-      "titular": "Farmaindustria recurrirá también la orden de precios de referencia de 2026 ante la AN",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-26T19:50:00+02:00",
-      "enlace": "https://diariofarma.com/2026/10/26/farmaindustria-volvera-a-recurrir-la-orden-de-precios-de-referencia-de-2026-ante-la-an"
-    },
-    {
-      "titular": "\"Queremos que el Congreso Nacional de Derecho Sanitario traduzca en propuestas las necesidades del sector\"",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-26T19:34:06+02:00",
-      "enlace": "https://www.redaccionmedica.com/profesionales/derecho-sanitario/20261026/queremos-que-el-congreso-nacional-de-derecho-sanitario-traduzca-en-propuestas-las-necesidades-del-sector/362870_0.html"
+      "fecha": "2026-10-26T20:55:44+02:00",
+      "enlace": "https://diariofarma.com/2026/10/26/sanida-expone-a-audiencia-publica-el-rd-que-obliga-a-las-cc-aa-a-medir-la-demors-en-ap-y-remitir-microdatos"
     },
     {
       "titular": "Cumbre PP-Farmaindustria a las puertas del 29-N",
@@ -50,6 +23,24 @@
       "enlace": "https://elglobalfarma.com/politica/cumbre-pp-farmaindustria-29-n/"
     },
     {
+      "titular": "\"Queremos que el Congreso Nacional de Derecho Sanitario traduzca en propuestas las necesidades del sector\"",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-26T19:34:06+02:00",
+      "enlace": "https://www.redaccionmedica.com/profesionales/derecho-sanitario/20261026/queremos-que-el-congreso-nacional-de-derecho-sanitario-traduzca-en-propuestas-las-necesidades-del-sector/362870_0.html"
+    },
+    {
+      "titular": "Farmaindustria aborda con el PP los retos en el acceso a la innovación",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-26T20:37:45+02:00",
+      "enlace": "https://diariofarma.com/2026/10/26/29n-farmaindustria-aborda-con-el-pp-los-retos-en-el-acceso-a-la-innovacion"
+    },
+    {
       "titular": "Los cinco principios activos de nuevos medicamentos a los que prestar atención en 2027: de la obesidad a la colitis ulcerosa",
       "medios": [
         "El Global"
@@ -59,13 +50,23 @@
       "enlace": "https://elglobalfarma.com/industria/cinco-principios-activos-medicamentos-atencion-2027-obesidad-colitis-ulcerosa/"
     },
     {
-      "titular": "La sanidad animal madrileña pasa a las manos de Jorge Rodrigo tras la remodelación del Gobierno de Ayuso",
+      "titular": "Ni debate ideológico ni opacidad: normalizar la sanidad concertada con rigor",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-10-26T19:33:14+02:00",
-      "enlace": "https://www.redaccionmedica.com/salud-animal/20261026/la-sanidad-animal-madrilena-pasa-las-manos-de-jorge-rodrigo-tras-la-remodelacion-del-gobierno-ayuso/363444_0.html"
+      "fecha": "2026-10-26T13:51:34+02:00",
+      "enlace": "https://www.redaccionmedica.com/opinion/20261026/ni-debate-ideologico-ni-opacidad-normalizar-la-sanidad-concertada-con-rigor/363372_14.html"
+    },
+    {
+      "titular": "El Micof incorpora a 312 nuevos colegiados y aborda los retos tecnológicos del sector",
+      "medios": [
+        "Diariofarma",
+        "El Global"
+      ],
+      "consenso": 2,
+      "fecha": "2026-10-26T18:46:25+02:00",
+      "enlace": "https://diariofarma.com/2026/10/26/el-micof-incorpora-a-312-nuevos-colegiados-y-aborda-los-retos-tecnologicos-del-sector"
     }
   ],
   "salud": {
@@ -76,7 +77,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 8,
+    "antiguedad_minima_min": 243,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +85,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 8,
+        "antiguedad_min": 243,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +94,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 99,
+        "antiguedad_min": 352,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +103,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 29,
+        "antiguedad_min": 282,
         "descartados_por_gancho": 0
       },
       {
