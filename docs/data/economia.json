@@ -2,7 +2,7 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "portadas",
-  "generado": "2026-10-26T00:13:36+02:00",
+  "generado": "2026-10-26T02:30:59+02:00",
   "titulares": [
     {
       "titular": "Santander, BBVA y Sabadell relanzan la banca personal para frenar a los neobancos",
@@ -10,26 +10,26 @@
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-26T00:00:03+02:00",
+      "fecha": "2026-10-26T01:05:46+02:00",
       "enlace": "https://www.expansion.com/empresas/banca/2026/10/25/6adb9512468aeb852b8b4580.html"
     },
     {
-      "titular": "El alquiler cae en un tercio de Madrid",
+      "titular": "Los socios de Madrileña Red de Gas fichan a Goldman Sachs para su venta",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-24T19:32:58+02:00",
-      "enlace": "https://www.expansion.com/inmobiliario/mercado-inmobiliario/2026/10/24/alquiler-cae-tercio-madrid.html"
+      "fecha": "2026-10-26T01:07:06+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/10/25/6ade3190e5fdeabf608b4587.html"
     },
     {
-      "titular": "Madrid: la escalada se desacelera, pero el precio sigue en máximos",
+      "titular": "Seat negocia con Aggity fabricar drones en su planta de Martorell",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-24T19:20:14+02:00",
-      "enlace": "https://www.expansion.com/inmobiliario/mercado-inmobiliario/2026/10/24/madrid-escalada-desacelera-precio-sigue-maximos.html"
+      "fecha": "2026-10-26T01:05:25+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/10/25/6ade3949e5fdea3d1c8b4575.html"
     },
     {
       "titular": "Más de 3,6 millones de trabajadores tienen blindado el sueldo ante la escalada del IPC",
@@ -41,22 +41,13 @@
       "enlace": "https://www.expansion.com/economia/politica/2026/10/25/3-6-millones-trabajadores-blindado-sueldo-escalada-ipc.html"
     },
     {
-      "titular": "Los socios de Madrileña Red de Gas fichan a Goldman Sachs para su venta",
+      "titular": "El inversor apuesta por los cambios de uso para rentabilizar los inmuebles",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-26T00:02:23+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/10/25/6ade3190e5fdeabf608b4587.html"
-    },
-    {
-      "titular": "La fiscalidad de la vivienda para uso propio y alquiler",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-24T19:23:39+02:00",
-      "enlace": "https://www.expansion.com/inmobiliario/mercado-inmobiliario/2026/10/24/fiscalidad-vivienda-propio-alquiler.html"
+      "fecha": "2026-10-26T01:09:04+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/10/25/6ade85dde5fdeadf2c8b457f.html"
     },
     {
       "titular": "Sabadell y CaixaBank son los bancos que más condicionan el bonus; Bankinter, el que menos",
@@ -66,6 +57,15 @@
       "consenso": 1,
       "fecha": "2026-10-20T07:36:13+02:00",
       "enlace": "https://www.expansion.com/empresas/banca/2026/10/20/6a54c287468aebff568b45a6.html"
+    },
+    {
+      "titular": "¿Es posible que los planes de pensiones sean obligatorios?",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-26T01:07:50+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/10/25/6ade81c0468aeb067f8b4583.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 11,
+    "antiguedad_minima_min": 80,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 75,
+        "items": 69,
         "error": null,
-        "antiguedad_min": 11,
+        "antiguedad_min": 80,
         "descartados_por_gancho": 4
       },
       {

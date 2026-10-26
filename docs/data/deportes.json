@@ -2,8 +2,17 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-10-26T00:13:38+02:00",
+  "generado": "2026-10-26T02:31:00+02:00",
   "titulares": [
+    {
+      "titular": "El Madrid toma el Spotify Camp Nou y aprieta LaLiga",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-26T00:00:39+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261025/1004243128/cronica-classic.html"
+    },
     {
       "titular": "Histórico Yáñez, fiesta de Enzo, obra de arte de 'Caste', pleno y liderato",
       "medios": [
@@ -32,15 +41,6 @@
       "enlace": "https://www.marca.com/tiramillas/sucesos/2026/10/21/menor-16-anos-investigado-guardia-civil-arrojar-piedra-puente-ap-41-dejar-critico-conductor.html"
     },
     {
-      "titular": "Espart cae por lesión y examen mayúsculo para Balde",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-25T22:41:12+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261025/1004243150/espart-cae-lesion-examen-mayusculo-balde.html"
-    },
-    {
       "titular": "María Herrera, la reina de las motos: \"Quiero llevar el Mundial Femenino a MotoGP\"",
       "medios": [
         "Marca"
@@ -50,13 +50,13 @@
       "enlace": "https://www.marca.com/motor/mas-motor/2026/10/21/maria-herrera-reina-motos-quiero-llevar-mundial-femenino-motogp.html"
     },
     {
-      "titular": "El 1x1 del Barça ante el Madrid al descanso",
+      "titular": "El 1x1 del Barça ante el Real Madrid",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-25T22:50:37+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261025/1004243114/1x1-barca-madrid-descanso.html"
+      "fecha": "2026-10-26T00:10:40+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261025/1004243141/1x1-barca-real-madrid.html"
     },
     {
       "titular": "Mbappé, un 'hat-trick' con premio",
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 16,
+    "antiguedad_minima_min": 15,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 74,
         "error": null,
-        "antiguedad_min": 6126,
+        "antiguedad_min": 6263,
         "descartados_por_gancho": 5
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 135,
+        "items": 141,
         "error": null,
-        "antiguedad_min": 16,
-        "descartados_por_gancho": 7
+        "antiguedad_min": 15,
+        "descartados_por_gancho": 5
       },
       {
         "medio": "Sport",

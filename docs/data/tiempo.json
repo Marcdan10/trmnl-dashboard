@@ -1,23 +1,7 @@
 {
   "ciudad": "Barcelona",
-  "generado": "2026-10-25T22:13:42",
+  "generado": "2026-10-26T00:31:07",
   "horas": [
-    {
-      "hora": "23",
-      "temp": 17,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "luna"
-    },
-    {
-      "hora": "00",
-      "temp": 16,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "luna"
-    },
     {
       "hora": "01",
       "temp": 16,
@@ -40,7 +24,7 @@
       "prob": 0,
       "mm": 0,
       "mostrar_prob": false,
-      "icono": "nube"
+      "icono": "luna"
     },
     {
       "hora": "04",
@@ -80,7 +64,7 @@
       "prob": 0,
       "mm": 0,
       "mostrar_prob": false,
-      "icono": "nube"
+      "icono": "sol"
     },
     {
       "hora": "09",
@@ -97,19 +81,25 @@
       "mm": 0,
       "mostrar_prob": false,
       "icono": "nube"
-    }
-  ],
-  "dias": [
+    },
     {
-      "etiqueta": "lun 26",
-      "max": 21,
-      "min": 15,
+      "hora": "11",
+      "temp": 20,
       "prob": 0,
       "mm": 0,
       "mostrar_prob": false,
-      "destacar": false,
       "icono": "nube"
     },
+    {
+      "hora": "12",
+      "temp": 20,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "nube"
+    }
+  ],
+  "dias": [
     {
       "etiqueta": "mar 27",
       "max": 23,
@@ -163,10 +153,20 @@
     {
       "etiqueta": "dom 1",
       "max": 17,
-      "min": 10,
+      "min": 11,
       "prob": 3,
       "mm": 4.7,
       "mostrar_prob": false,
+      "destacar": false,
+      "icono": "lluvia"
+    },
+    {
+      "etiqueta": "lun 2",
+      "max": 17,
+      "min": 15,
+      "prob": 20,
+      "mm": 6.0,
+      "mostrar_prob": true,
       "destacar": false,
       "icono": "lluvia"
     }

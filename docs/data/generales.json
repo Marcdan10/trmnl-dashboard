@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-10-26T00:13:34+02:00",
+  "generado": "2026-10-26T02:30:55+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -23,22 +23,22 @@
       "enlace": "https://elpais.com/america/2026-10-25/resultados-de-las-elecciones-en-brasil-en-vivo.html"
     },
     {
-      "titular": "Grupos en redes promovieron que jóvenes y menores causaran los disturbios",
+      "titular": "Los Mossos investigan quién está detrás de los altercados en Barcelona",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-10-25T09:39:18+02:00",
-      "enlace": "https://www.lavanguardia.com/local/barcelona/20261025/11667600/quienes-como-organizaron-alborotadores-ayer-barcelona.html"
+      "fecha": "2026-10-26T01:05:00+02:00",
+      "enlace": "https://www.lavanguardia.com/local/barcelona/20261026/11667794/mossos-investigan-esta-detras-altercados-barcelona.html"
     },
     {
-      "titular": "El Real Madrid prolonga su invicto doméstico a costa del Lleida",
+      "titular": "Lula se impone a Bolsonaro y volverá a ser presidente de Brasil",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-10-25T23:59:02+02:00",
-      "enlace": "https://www.abc.es/deportes/baloncesto/real-madrid-prolonga-invicto-domestico-costa-lleida-20261024205819-nt.html"
+      "fecha": "2026-10-26T02:15:16+02:00",
+      "enlace": "https://www.abc.es/internacional/votos-lula-lidera-noche-larga-brasil-20261026011153-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -50,13 +50,13 @@
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
     },
     {
-      "titular": "La jornada electoral de Brasil, en imágenes",
+      "titular": "Lula, la épica de la izquierda mundial",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-25T17:55:45+02:00",
-      "enlace": "https://elpais.com/america/2026-10-25/la-jornada-electoral-de-brasil-en-imagenes.html"
+      "fecha": "2026-10-26T02:16:56+02:00",
+      "enlace": "https://elpais.com/america/2026-10-26/lula-la-epica-de-la-izquierda-mundial.html"
     },
     {
       "titular": "Trump culpa a la inmigración de los disturbios en Barcelona: “Son gente que odia a España“",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 5,
+    "antiguedad_minima_min": 13,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2302508,
+        "antiguedad_min": 2302645,
         "descartados_por_gancho": 0
       },
       {
@@ -97,19 +97,19 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 145,
+        "items": 147,
         "error": null,
-        "antiguedad_min": 5,
+        "antiguedad_min": 13,
         "descartados_por_gancho": 5
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 132,
+        "items": 140,
         "error": null,
-        "antiguedad_min": 69,
-        "descartados_por_gancho": 19
+        "antiguedad_min": 49,
+        "descartados_por_gancho": 15
       },
       {
         "medio": "ABC",
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 14,
+        "antiguedad_min": 15,
         "descartados_por_gancho": 0
       }
     ]
