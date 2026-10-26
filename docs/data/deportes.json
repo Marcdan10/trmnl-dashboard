@@ -1,17 +1,26 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "portadas",
-  "generado": "2026-10-26T07:41:38+02:00",
+  "modo": "ultimas",
+  "generado": "2026-10-26T14:04:19+02:00",
   "titulares": [
     {
-      "titular": "El Madrid toma el Spotify Camp Nou y aprieta LaLiga",
+      "titular": "Mourinho se mete a todo el madridismo en el bolsillo: así fue su llegada a Valdebebas",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-26T00:00:39+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261025/1004243128/cronica-classic.html"
+      "fecha": "2026-10-26T13:38:18+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20261026/1004243339/mourinho-mete-madridismo-bolsillo-asi-llegada-valdebebas-02-30-horas-madrugada.html"
+    },
+    {
+      "titular": "Bridget Fonda, irreconocible a día de hoy: de actriz popular en los 90 a retirarse con 38 años",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-26T13:31:48+02:00",
+      "enlace": "https://www.mundodeportivo.com/elotromundo/television/20261026/1004243303/asi-luce-hoy-bridget-fonda-actrices-populares-hollywood-90-retirarse-38-anos-desaparecer-galeria-dct.html"
     },
     {
       "titular": "Histórico Yáñez, fiesta de Enzo, obra de arte de 'Caste', pleno y liderato",
@@ -23,15 +32,6 @@
       "enlace": "https://www.marca.com/futbol/real-madrid/2026/10/21/historico-yanez-fiesta-enzo-obra-arte-caste-pleno-liderato.html"
     },
     {
-      "titular": "Flick: \"Quiero al equipo concentrado\"",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-25T21:28:03+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261025/1004243118/flick-quiero-equipo-concentrado.html"
-    },
-    {
       "titular": "Un menor, investigado por arrojar una piedra desde un puente y dejar en estado crítico a un conductor",
       "medios": [
         "Marca"
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/tiramillas/sucesos/2026/10/21/menor-16-anos-investigado-guardia-civil-arrojar-piedra-puente-ap-41-dejar-critico-conductor.html"
     },
     {
-      "titular": "María Herrera, la reina de las motos: \"Quiero llevar el Mundial Femenino a MotoGP\"",
-      "medios": [
-        "Marca"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-21T17:58:43+02:00",
-      "enlace": "https://www.marca.com/motor/mas-motor/2026/10/21/maria-herrera-reina-motos-quiero-llevar-mundial-femenino-motogp.html"
-    },
-    {
-      "titular": "El 1x1 del Barça ante el Real Madrid",
+      "titular": "Mensajes motivadores de Fermín y Gavi: \"Confiad en el equipo, todo vuelve\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-26T00:10:40+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261025/1004243141/1x1-barca-real-madrid.html"
+      "fecha": "2026-10-26T13:20:51+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261026/1004243326/mensajes-motivadores-fermin-gavi-confiad-equipo-vuelve.html"
     },
     {
-      "titular": "Mbappé, un 'hat-trick' con premio",
+      "titular": "El Clásico arrasa (21,8%) y deja atrás a 'Supervivientes' en Telecinco",
       "medios": [
-        "Marca"
+        "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-21T17:50:17+02:00",
-      "enlace": "https://www.marca.com/futbol/real-madrid/2026/10/21/mbappe-primer-asalto-100.html"
+      "fecha": "2026-10-26T13:20:45+02:00",
+      "enlace": "https://www.mundodeportivo.com/elotromundo/television/20261026/1004243330/audiencias-tv-ayer-25-octubre-clasico-barca-real-madrid-arrasa-21-8-deja-supervivientes-telecinco-dct.html"
+    },
+    {
+      "titular": "Alcaraz, Davidovich, Granollers, Martínez y Jódar, el equipo para la Final a 8 de Bolonia",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-26T13:17:32+02:00",
+      "enlace": "https://www.mundodeportivo.com/tenis/copa-davis/20261026/1004243327/alcaraz-davidovich-granollers-martinez-jodar-equipo-final-8-bolonia.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 326,
+    "antiguedad_minima_min": 26,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 74,
         "error": null,
-        "antiguedad_min": 6574,
+        "antiguedad_min": 6957,
         "descartados_por_gancho": 5
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 141,
+        "items": 144,
         "error": null,
-        "antiguedad_min": 326,
-        "descartados_por_gancho": 5
+        "antiguedad_min": 26,
+        "descartados_por_gancho": 4
       },
       {
         "medio": "Sport",

@@ -1,71 +1,71 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "portadas",
-  "generado": "2026-10-26T07:41:36+02:00",
+  "modo": "ultimas",
+  "generado": "2026-10-26T14:04:17+02:00",
   "titulares": [
     {
-      "titular": "Santander, BBVA y Sabadell relanzan la banca personal para frenar a los neobancos",
+      "titular": "Citi refuerza el negocio de operaciones en Bolsa en España con una nueva responsable",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-26T01:05:46+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/10/25/6adb9512468aeb852b8b4580.html"
+      "fecha": "2026-10-26T13:40:00+02:00",
+      "enlace": "https://www.expansion.com/empresas/banca/2026/10/26/6adb4643468aebe72b8b45a3.html"
     },
     {
-      "titular": "Los socios de Madrileña Red de Gas fichan a Goldman Sachs para su venta",
+      "titular": "Fotogalería | Las imágenes del EXPANSIÓN GreenWorld & Sustainability",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-26T01:07:06+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/10/25/6ade3190e5fdeabf608b4587.html"
+      "fecha": "2026-10-26T13:36:42+02:00",
+      "enlace": "https://www.expansion.com/sostenibilidad/greenworld/album/2026/10/26/6adf0f55468aeb9a368b4574.html"
     },
     {
-      "titular": "Seat negocia con Aggity fabricar drones en su planta de Martorell",
+      "titular": "Petróleo y oro: la geopolítica sigue poniendo el precio",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-26T01:05:25+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/10/25/6ade3949e5fdea3d1c8b4575.html"
+      "fecha": "2026-10-26T13:17:52+02:00",
+      "enlace": "https://www.expansion.com/opinion/2026/10/26/petroleo-oro-geopolitica-sigue-poniendo-precio.html"
     },
     {
-      "titular": "Más de 3,6 millones de trabajadores tienen blindado el sueldo ante la escalada del IPC",
+      "titular": "Los bancos centrales y las dudas del mercado",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-25T23:52:32+02:00",
-      "enlace": "https://www.expansion.com/economia/politica/2026/10/25/3-6-millones-trabajadores-blindado-sueldo-escalada-ipc.html"
+      "fecha": "2026-10-26T13:11:42+02:00",
+      "enlace": "https://www.expansion.com/opinion/2026/10/26/bancos-centrales-dudas-mercado.html"
     },
     {
-      "titular": "El inversor apuesta por los cambios de uso para rentabilizar los inmuebles",
+      "titular": "JPMorgan agrava las presiones sobre Telefónica en el Ibex",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-26T01:09:04+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/10/25/6ade85dde5fdeadf2c8b457f.html"
+      "fecha": "2026-10-26T13:01:29+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/10/26/6adf1802e5fdeaae278b4595.html"
     },
     {
-      "titular": "Sabadell y CaixaBank son los bancos que más condicionan el bonus; Bankinter, el que menos",
+      "titular": "El Ibex se descuelga de Europa por el 'efecto Brasil'",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-20T07:36:13+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/10/20/6a54c287468aebff568b45a6.html"
+      "fecha": "2026-10-26T13:00:45+02:00",
+      "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/10/26/6adef961e5fdeacc278b4574.html"
     },
     {
-      "titular": "¿Es posible que los planes de pensiones sean obligatorios?",
+      "titular": "Irán y Hamas marcan las elecciones en Israel",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-26T01:07:50+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/10/25/6ade81c0468aeb067f8b4583.html"
+      "fecha": "2026-10-26T12:55:32+02:00",
+      "enlace": "https://www.expansion.com/opinion/2026/10/26/iran-hamas-marcan-elecciones-israel.html"
     }
   ],
   "salud": {
@@ -78,16 +78,16 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 391,
+    "antiguedad_minima_min": 24,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 69,
+        "items": 78,
         "error": null,
-        "antiguedad_min": 391,
-        "descartados_por_gancho": 4
+        "antiguedad_min": 24,
+        "descartados_por_gancho": 2
       },
       {
         "medio": "Cinco Días",
