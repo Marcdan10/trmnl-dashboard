@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-10-26T02:30:55+02:00",
+  "generado": "2026-10-26T07:41:33+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -14,31 +14,31 @@
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
     },
     {
-      "titular": "Elecciones en Brasil, en vivo |Lula pide ampliar el horario de voto por problemas con el transporte: “No permitiremos que haya robo”",
+      "titular": "Lula logra una remontada histórica en Brasil y da la victoria a la izquierda frente al avance ultra de los Bolsonaro",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-25T21:58:52+02:00",
-      "enlace": "https://elpais.com/america/2026-10-25/resultados-de-las-elecciones-en-brasil-en-vivo.html"
+      "fecha": "2026-10-26T03:56:09+02:00",
+      "enlace": "https://elpais.com/america/2026-10-26/lula-logra-una-remontada-historica-en-brasil-y-da-la-victoria-a-la-izquierda-frente-al-avance-ultra-de-los-bolsonaro.html"
     },
     {
-      "titular": "Los Mossos investigan quién está detrás de los altercados en Barcelona",
+      "titular": "Victoria histórica para Lula en las elecciones presidenciales de Brasil",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-10-26T01:05:00+02:00",
-      "enlace": "https://www.lavanguardia.com/local/barcelona/20261026/11667794/mossos-investigan-esta-detras-altercados-barcelona.html"
+      "fecha": "2026-10-26T01:00:05+02:00",
+      "enlace": "https://www.lavanguardia.com/internacional/20261026/11667806/fuerte-recelo-recuento-brasileno.html"
     },
     {
-      "titular": "Lula se impone a Bolsonaro y volverá a ser presidente de Brasil",
+      "titular": "Deuda disparada, familias ahogadas, efectos de El Niño y violencia, los retos que sigue teniendo Lula",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-10-26T02:15:16+02:00",
-      "enlace": "https://www.abc.es/internacional/votos-lula-lidera-noche-larga-brasil-20261026011153-nt.html"
+      "fecha": "2026-10-26T07:26:13+02:00",
+      "enlace": "https://www.abc.es/internacional/deuda-disparada-familias-ahogadas-efectos-nino-violencia-20261024020200-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -50,22 +50,22 @@
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
     },
     {
-      "titular": "Lula, la épica de la izquierda mundial",
+      "titular": "Bolsonaro no reconoce el triunfo de Lula y pide la anulación de las elecciones",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-26T02:16:56+02:00",
-      "enlace": "https://elpais.com/america/2026-10-26/lula-la-epica-de-la-izquierda-mundial.html"
+      "fecha": "2026-10-26T05:58:29+02:00",
+      "enlace": "https://elpais.com/america/2026-10-26/bolsonaro-no-reconoce-el-triunfo-de-lula-y-pide-la-anulacion-de-las-elecciones.html"
     },
     {
-      "titular": "Trump culpa a la inmigración de los disturbios en Barcelona: “Son gente que odia a España“",
+      "titular": "Los Mossos investigan quién está detrás de los altercados en Barcelona",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-10-25T18:53:00+02:00",
-      "enlace": "https://www.lavanguardia.com/internacional/20261025/11667718/trump-culpa-inmigracion-disturbios-barcelona-son-gente-odia-espana.html"
+      "fecha": "2026-10-26T01:05:00+02:00",
+      "enlace": "https://www.lavanguardia.com/local/barcelona/20261026/11667794/mossos-investigan-esta-detras-altercados-barcelona.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 13,
+    "antiguedad_minima_min": 11,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2302645,
+        "antiguedad_min": 2302956,
         "descartados_por_gancho": 0
       },
       {
@@ -97,28 +97,28 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 147,
+        "items": 137,
         "error": null,
-        "antiguedad_min": 13,
-        "descartados_por_gancho": 5
+        "antiguedad_min": 11,
+        "descartados_por_gancho": 10
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 140,
+        "items": 134,
         "error": null,
-        "antiguedad_min": 49,
-        "descartados_por_gancho": 15
+        "antiguedad_min": 21,
+        "descartados_por_gancho": 14
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 25,
+        "items": 23,
         "error": null,
         "antiguedad_min": 15,
-        "descartados_por_gancho": 0
+        "descartados_por_gancho": 2
       }
     ]
   }
