@@ -2,70 +2,70 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-10-26T14:04:17+02:00",
+  "generado": "2026-10-26T20:46:04+02:00",
   "titulares": [
     {
-      "titular": "Citi refuerza el negocio de operaciones en Bolsa en España con una nueva responsable",
+      "titular": "Vivanta anuncia a sus empleados el cierre temporal de todas sus clínicas en España",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-26T13:40:00+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/10/26/6adb4643468aebe72b8b45a3.html"
+      "fecha": "2026-10-26T19:54:17+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/10/26/6adf93c5e5fdeaa5678b4595.html"
     },
     {
-      "titular": "Fotogalería | Las imágenes del EXPANSIÓN GreenWorld & Sustainability",
+      "titular": "Abordador Capital toma la mayoría de Clarel en mitad de su plan estratégico",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-26T13:36:42+02:00",
-      "enlace": "https://www.expansion.com/sostenibilidad/greenworld/album/2026/10/26/6adf0f55468aeb9a368b4574.html"
+      "fecha": "2026-10-26T19:41:32+02:00",
+      "enlace": "https://www.expansion.com/empresas/distribucion/2026/10/26/6adf9060468aeb200e8b459c.html"
     },
     {
-      "titular": "Petróleo y oro: la geopolítica sigue poniendo el precio",
+      "titular": "Pacto PP-Vox para amarrar la mayoría de la derecha en el Senado",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-26T13:17:52+02:00",
-      "enlace": "https://www.expansion.com/opinion/2026/10/26/petroleo-oro-geopolitica-sigue-poniendo-precio.html"
+      "fecha": "2026-10-26T19:35:20+02:00",
+      "enlace": "https://www.expansion.com/economia/politica/2026/10/26/pacto-pp-vox-amarrar-mayoria-derecha-senado.html"
     },
     {
-      "titular": "Los bancos centrales y las dudas del mercado",
+      "titular": "De Telefónica a Santander: los valores más expuestos a Brasil caen hasta un 6%",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-26T13:11:42+02:00",
-      "enlace": "https://www.expansion.com/opinion/2026/10/26/bancos-centrales-dudas-mercado.html"
+      "fecha": "2026-10-26T19:05:54+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/10/26/6adf08fe468aebd8488b4577.html"
     },
     {
-      "titular": "JPMorgan agrava las presiones sobre Telefónica en el Ibex",
+      "titular": "Microsoft lanza un plan de bajas voluntarias para 60.000 empleados",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-26T13:01:29+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/10/26/6adf1802e5fdeaae278b4595.html"
+      "fecha": "2026-10-26T18:56:58+02:00",
+      "enlace": "https://www.expansion.com/tecnologia/2026/10/26/microsoft-lanza-plan-bajas-voluntarias-60-000-empleados.html"
     },
     {
-      "titular": "El Ibex se descuelga de Europa por el 'efecto Brasil'",
+      "titular": "El Ibex se queda rezagado de Europa por el 'efecto Brasil', pero recupera los 19.000 puntos",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-26T13:00:45+02:00",
+      "fecha": "2026-10-26T18:38:18+02:00",
       "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/10/26/6adef961e5fdeacc278b4574.html"
     },
     {
-      "titular": "Irán y Hamas marcan las elecciones en Israel",
+      "titular": "Woodburn avisa del riesgo de diluir el mercado de carbono: \"Penalizará a las empresas pioneras\"",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-26T12:55:32+02:00",
-      "enlace": "https://www.expansion.com/opinion/2026/10/26/iran-hamas-marcan-elecciones-israel.html"
+      "fecha": "2026-10-26T18:22:41+02:00",
+      "enlace": "https://www.expansion.com/sostenibilidad/greenworld/2026/10/26/6adf7ddbe5fdeaa5678b458c.html"
     }
   ],
   "salud": {
@@ -78,16 +78,16 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 24,
+    "antiguedad_minima_min": 51,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 78,
+        "items": 88,
         "error": null,
-        "antiguedad_min": 24,
-        "descartados_por_gancho": 2
+        "antiguedad_min": 51,
+        "descartados_por_gancho": 1
       },
       {
         "medio": "Cinco Días",
@@ -118,7 +118,7 @@
         "url": "https://www.ine.es/dyngs/Prensa/rss.htm",
         "ok": false,
         "items": 0,
-        "error": "HTTP 404",
+        "error": "HTTP 503",
         "antiguedad_min": null
       },
       {

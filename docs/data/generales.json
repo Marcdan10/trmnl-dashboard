@@ -2,62 +2,61 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-10-26T14:04:14+02:00",
+  "generado": "2026-10-26T20:46:02+02:00",
   "titulares": [
     {
-      "titular": "Los auriculares inalámbricos de Soundcore que parecen de gama alta caen casi un 50% en Amazon",
+      "titular": "Balón de Oro 2026 en directo | Lamine, Rodri y Fabián entran entre los 10 nominados finales",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-26T13:54:00+02:00",
-      "enlace": "https://elpais.com/escaparate/ofertas-y-descuentos/auriculares-inalambricos-soundcore-en-oferta.html"
+      "fecha": "2026-10-26T20:40:53+02:00",
+      "enlace": "https://elpais.com/deportes/futbol/2026-10-26/premio-balon-de-oro-en-directo-la-gala-en-vivo.html"
     },
     {
-      "titular": "La Universidad de Deusto suspende su actividad en Bilbao por temor a incidentes en el acto de Vito Quiles",
-      "medios": [
-        "El País",
-        "ABC"
-      ],
-      "consenso": 2,
-      "fecha": "2026-10-26T13:53:44+02:00",
-      "enlace": "https://elpais.com/espana/2026-10-26/la-universidad-de-deusto-suspende-su-actividad-en-bilbao-por-temor-a-incidentes-en-el-acto-de-vito-quiles.html"
-    },
-    {
-      "titular": "Muere a los 30 años Komanche, un streamer salvadoreño muy famoso a nivel hispano",
+      "titular": "El inspector jefe de la frontera del Tarajal declara que quiso cerrar al ver «el río humano fluyendo a España» pero la Guardia Civil se lo impidió",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-10-26T13:52:55+02:00",
-      "enlace": "https://www.abc.es/gente/muere-anos-komanche-streamer-salvadoreno-reconocido-comunidad-20261026124841-nt.html"
+      "fecha": "2026-10-26T20:33:38+02:00",
+      "enlace": "https://www.abc.es/espana/inspector-jefe-frontera-tarajal-declara-quiso-cerrar-20261026145104-nt.html"
     },
     {
-      "titular": "Los nuevos coches de las marcas de lujo: de Jaguar a Porsche, Mercedes y Tesla",
+      "titular": "PP y Vox alcanzan un acuerdo en el Senado para hacer frente a la izquierda",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-10-26T13:50:34+02:00",
-      "enlace": "https://www.abc.es/summum/motor/nuevos-coches-marcas-lujo-jaguar-porsche-mercedes-20261026123304-nt.html"
+      "fecha": "2026-10-26T20:30:10+02:00",
+      "enlace": "https://www.abc.es/espana/miguel-tellado-comparece-ante-medios-dar-informacion-20261026132738-nt.html"
     },
     {
-      "titular": "Davidovich completa el equipo español de Copa Davis para la fase final en Bolonia",
+      "titular": "Matthew Jackson: “Las amistades de una persona tienen una enorme influencia en sus resultados económicos, más que los propios padres”",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-26T20:25:07+02:00",
+      "enlace": "https://elpais.com/espana/catalunya/2026-10-26/matthew-jackson-catedratico-de-stanford-las-amistades-de-una-persona-tienen-una-enorme-influencia-en-sus-resultados-economicos.html"
+    },
+    {
+      "titular": "El Gobierno culpa a la extrema derecha de los disturbios en Barcelona",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-10-26T13:15:54+02:00",
-      "enlace": "https://www.lavanguardia.com/deportes/tenis/20261026/11668238/davidovich-completa-equipo-espanol-copa-davis-fase-final-bolonia.html"
+      "fecha": "2026-10-26T19:30:35+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20261026/11668692/gobierno-culpa-extrema-derecha-disturbios-barcelona.html"
     },
     {
-      "titular": "Lula creó un ejército de diez millones de fieles en redes para ganar",
+      "titular": "Qué es y qué quiere la Lista Estudiantil, el movimiento que ha derrotado a Aleksandar Vucic",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-10-26T13:12:36+02:00",
-      "enlace": "https://www.lavanguardia.com/internacional/20261026/11668190/lula-creo-ejercito-diez-millones-fieles-redes-sociales-dar-vuelco-elecciones.html"
+      "fecha": "2026-10-26T19:27:54+02:00",
+      "enlace": "https://www.lavanguardia.com/internacional/20261026/11668689/que-que-quiere-lista-estudiantil-serbia-movimiento-protesta-derrotado-aleksandar-vucic.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -75,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 10,
+    "antiguedad_minima_min": 5,
     "detalle": [
       {
         "medio": "RTVE",
@@ -83,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2303339,
+        "antiguedad_min": 2303741,
         "descartados_por_gancho": 0
       },
       {
@@ -91,35 +90,35 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 403",
+        "error": "HTTP 500",
         "antiguedad_min": null
       },
       {
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 139,
+        "items": 138,
         "error": null,
-        "antiguedad_min": 10,
-        "descartados_por_gancho": 10
+        "antiguedad_min": 5,
+        "descartados_por_gancho": 8
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 130,
+        "items": 137,
         "error": null,
-        "antiguedad_min": 48,
-        "descartados_por_gancho": 17
+        "antiguedad_min": 75,
+        "descartados_por_gancho": 16
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 24,
+        "items": 25,
         "error": null,
-        "antiguedad_min": 11,
-        "descartados_por_gancho": 1
+        "antiguedad_min": 12,
+        "descartados_por_gancho": 0
       }
     ]
   }
