@@ -1,44 +1,17 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "ultimas",
-  "generado": "2026-10-27T20:50:49+02:00",
+  "modo": "portadas",
+  "generado": "2026-10-28T00:48:36+02:00",
   "titulares": [
     {
-      "titular": "Novartis y Cataluña evalúan la I+D biomédica y el acceso rápido a la innovación",
+      "titular": "Aeseg pide ante el 29N reformas legales que garanticen la viabilidad de los genéricos",
       "medios": [
         "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-10-27T20:34:56+02:00",
-      "enlace": "https://diariofarma.com/2026/10/27/novartis-y-cataluna-evaluan-la-id-biomedica-y-el-acceso-rapido-a-la-innovacion"
-    },
-    {
-      "titular": "Atención a síntomas y blindaje preventivo de los veterinarios frente a la 'nueva normalidad' del Shamonda",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-27T19:46:26+02:00",
-      "enlace": "https://www.redaccionmedica.com/salud-animal/20261027/atencion-sintomas-blindaje-preventivo-de-los-veterinarios-frente-la-nueva-normalidad-del-shamonda/363576_0.html"
-    },
-    {
-      "titular": "A los españoles no les da miedo envejecer, pero les aterra el deterioro cognitivo",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-27T19:17:40+02:00",
-      "enlace": "https://www.redaccionmedica.com/longevidad/20261027/los-espanoles-no-les-da-miedo-envejecer-pero-aterra-el-deterioro-cognitivo/363554_0.html"
-    },
-    {
-      "titular": "29N: La POP pide a los partidos reformar la política del medicamento y blindar tratamientos",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-27T18:49:44+02:00",
-      "enlace": "https://diariofarma.com/2026/10/27/29n-la-pop-pide-a-los-partidos-reformar-la-politica-del-medicamento-y-blindar-tratamientos"
+      "fecha": "2026-10-27T23:44:34+02:00",
+      "enlace": "https://diariofarma.com/2026/10/27/aeseg-pide-ante-el-29n-reformas-legales-que-garanticen-la-viabilidad-de-los-genericos"
     },
     {
       "titular": "Convenio de farmacia: un «acercamiento» salarial y una nueva fecha de reunión",
@@ -48,6 +21,24 @@
       "consenso": 1,
       "fecha": "2026-10-27T16:16:14+02:00",
       "enlace": "https://elglobalfarma.com/farmacia/convenio-farmacia-acercamiento-salarial-nueva-fecha/"
+    },
+    {
+      "titular": "Familia reclama criterios comunes para la 'baja por menopausia' y Ginecología cree que \"no cambia la práctica médica\"",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-27T19:01:25+02:00",
+      "enlace": "https://www.redaccionmedica.com/profesionales/medicina/20261027/familia-reclama-criterios-comunes-para-la-baja-por-menopausia-ginecologia-cree-que-no-cambia-practica-medica/363236_0.html"
+    },
+    {
+      "titular": "Novartis y Cataluña evalúan la I+D biomédica y el acceso rápido a la innovación",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-27T20:34:56+02:00",
+      "enlace": "https://diariofarma.com/2026/10/27/novartis-y-cataluna-evaluan-la-id-biomedica-y-el-acceso-rapido-a-la-innovacion"
     },
     {
       "titular": "FIR 2027: esto son los hospitales de referencia para elegir plaza",
@@ -66,6 +57,15 @@
       "consenso": 1,
       "fecha": "2026-10-27T19:16:12+02:00",
       "enlace": "https://www.redaccionmedica.com/opinion/20261027/la-lealtad-institucional-de-la-tecnologia-sanitaria-no-se-puede-ignorar/363560_14.html"
+    },
+    {
+      "titular": "29N: La POP pide a los partidos reformar la política del medicamento y blindar tratamientos",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-27T18:49:44+02:00",
+      "enlace": "https://diariofarma.com/2026/10/27/29n-la-pop-pide-a-los-partidos-reformar-la-politica-del-medicamento-y-blindar-tratamientos"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 15,
+    "antiguedad_minima_min": 63,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 15,
+        "antiguedad_min": 63,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 274,
+        "antiguedad_min": 512,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 64,
+        "antiguedad_min": 143,
         "descartados_por_gancho": 0
       },
       {

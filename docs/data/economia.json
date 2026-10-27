@@ -1,71 +1,71 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "ultimas",
-  "generado": "2026-10-27T20:50:43+02:00",
+  "modo": "portadas",
+  "generado": "2026-10-28T00:48:28+02:00",
   "titulares": [
     {
-      "titular": "Ence reduce casi un 70% sus pérdidas hasta septiembre y eleva sus ingresos a 571 millones",
+      "titular": "Ferrovial registra un beneficio operativo de 848 millones hasta septiembre, un 12 % menos",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-27T20:07:53+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/10/27/6ae0e7dee5fdea791f8b458e.html"
+      "fecha": "2026-10-27T23:30:44+02:00",
+      "enlace": "https://www.expansion.com/empresas/construccion-servicios/2026/10/27/6ae116d8468aebd4438b4593.html"
     },
     {
-      "titular": "El Gobierno libera 392 millones para comprar a Airbus 22 helicópteros",
+      "titular": "El Gobierno concede un préstamo de 2.200 millones a Navantia para tres programas militares",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-27T19:44:17+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/10/27/6ae0e297e5fdeae7238b45b5.html"
+      "fecha": "2026-10-27T22:33:50+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/10/27/6ae10a6ae5fdea03098b4577.html"
     },
     {
-      "titular": "Flávio Bolsonaro huye de Brasil y se dirige en avión a EEUU",
+      "titular": "Renfe encarga a Siemens su nueva generación de AVE por 1.800 millones",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-27T19:27:18+02:00",
-      "enlace": "https://www.expansion.com/economia/politica/2026/10/27/policia-brasilena-cancela-pasaportes-bolsonaro-paradero-desconocido.html"
+      "fecha": "2026-10-27T14:04:57+02:00",
+      "enlace": "https://www.expansion.com/empresas/transporte/2026/10/27/6ae07b6b468aeb55058b4574.html"
     },
     {
-      "titular": "Vivo presenta el X500 Pro Max, su móvil más caro en plena crisis del mercado",
+      "titular": "El Gobierno abre una excepción al decreto de centros de datos para excluir de sus exigencias la gigafactoría catalana de IA",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-27T18:52:27+02:00",
-      "enlace": "https://www.expansion.com/tecnologia/2026/10/27/vivo-presenta-x500-pro-max-movil-caro-plena-crisis-mercado.html"
+      "fecha": "2026-10-27T12:41:47+02:00",
+      "enlace": "https://www.expansion.com/empresas/telecomunicaciones/2026/10/27/6ae0775de5fdea0f238b4591.html"
     },
     {
-      "titular": "Ferrovial se dispara un 8,4% en Bolsa tras aclarar la financiación de la I-24",
+      "titular": "Los empresarios piden recuperar el despido por bajas reiteradas ante la escalada del absentismo laboral",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-27T18:45:32+02:00",
-      "enlace": "https://www.expansion.com/empresas/construccion-servicios/2026/10/27/6ae066fc468aebae628b4576.html"
+      "fecha": "2026-10-27T14:03:22+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/10/27/empresarios-piden-recuperar-despido-bajas-reiteradas-escalada-absentismo-laboral.html"
     },
     {
-      "titular": "Indra se adjudica las estaciones remotas del nuevo GPS europeo",
+      "titular": "Bank of America: \"La Bolsa europea caerá sobre un 10% y la española un 5% adicional\"",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-27T18:45:11+02:00",
-      "enlace": "https://www.expansion.com/catalunya/2026/10/27/indra-adjudica-estaciones-remotas-nuevo-gps-europeo.html"
+      "fecha": "2026-10-27T01:47:42+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/10/27/6adb494fe5fdead25c8b45ac.html"
     },
     {
-      "titular": "Cecotec logra 510.000 metros cuadrados en Almussafes para su gigafactoría, que producirá 6.000 viviendas anuales",
+      "titular": "Goldman Sachs da la bendición de Wall Street a un Gobierno de PP y Vox",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-27T18:41:50+02:00",
-      "enlace": "https://www.expansion.com/valencia/2026/10/27/cecotec-logra-510-000-metros-cuadrados-almussafes-gigafactoria-producira-6-000-viviendas-anuales.html"
+      "fecha": "2026-10-27T01:19:42+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/10/27/6adf7e7de5fdea1b788b457b.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 42,
+    "antiguedad_minima_min": 77,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 79,
+        "items": 80,
         "error": null,
-        "antiguedad_min": 42,
+        "antiguedad_min": 77,
         "descartados_por_gancho": 0
       },
       {
