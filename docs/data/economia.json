@@ -1,71 +1,71 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "portadas",
-  "generado": "2026-10-27T09:10:40+02:00",
+  "modo": "ultimas",
+  "generado": "2026-10-27T15:27:18+02:00",
   "titulares": [
     {
-      "titular": "El Gobierno suaviza las exigencias de renovables a los centros de datos",
+      "titular": "El Ibex vuelve a dudar al filo de los 19.000 puntos",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-27T00:01:05+02:00",
-      "enlace": "https://www.expansion.com/tecnologia/2026/10/26/gobierno-suaviza-exigencias-renovables-centros-datos.html"
+      "fecha": "2026-10-27T15:16:46+02:00",
+      "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/10/27/6ae04bd2e5fdea2c718b4596.html"
     },
     {
-      "titular": "Santander afronta más vencimientos de deuda en 2027 que BBVA, CaixaBank y Sabadell juntos",
+      "titular": "La guerra en Irán conduce a los turistas europeos hacia Sudamérica",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-27T01:12:56+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/10/27/6aa7d8f8468aeb6c048b4584.html"
+      "fecha": "2026-10-27T15:15:32+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/10/27/guerra-iran-conduce-turistas-europeos-sudamerica.html"
     },
     {
-      "titular": "ACS, Ferrovial y Sacyr entran en el plan privado de redes de Trump",
+      "titular": "Advent ataca España con 27.000 millones en dos nuevos fondos de capital riesgo",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-27T01:12:06+02:00",
-      "enlace": "https://www.expansion.com/empresas/construccion-servicios/2026/10/27/6adfd9a1e5fdea07608b4584.html"
+      "fecha": "2026-10-27T14:56:12+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/10/27/6ae09eae468aeb99348b457f.html"
     },
     {
-      "titular": "La Primera de Expansión sobre Ferrovial, Sacyr, Aagesen, Anthropic, Putellas, Mbappé, Israel y Lula",
+      "titular": "El gigante cripto Ripple lanza su propio banco",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-27T08:29:33+02:00",
-      "enlace": "https://www.expansion.com/podcasts/la-primera-de-expansion/2026/10/27/primera-expansion-sobre-ferrovial-sacyr-aagese-anthropic-putellas-mbappe-israel-lula.html"
+      "fecha": "2026-10-27T14:15:55+02:00",
+      "enlace": "https://www.expansion.com/mercados/criptomonedas/2026/10/27/6ae08999e5fdea0f238b459e.html"
     },
     {
-      "titular": "CaixaBank ficha a EY para que analice las cuentas de Cetelem",
+      "titular": "Cirsa pagó 28,5 millones por las ‘tragaperras’ de Comatel",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-27T01:19:08+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/10/27/6adf5217468aeb9a368b4586.html"
+      "fecha": "2026-10-27T14:12:04+02:00",
+      "enlace": "https://www.expansion.com/valencia/2026/10/27/cirsa-pago-28-5-millones-tragaperras-comatel.html"
     },
     {
-      "titular": "Goldman Sachs da la bendición de Wall Street a un Gobierno de PP y Vox",
+      "titular": "Renfe encarga a Siemens su nueva generación de AVE por 1.800 millones",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-27T01:19:42+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/10/27/6adf7e7de5fdea1b788b457b.html"
+      "fecha": "2026-10-27T14:04:57+02:00",
+      "enlace": "https://www.expansion.com/empresas/transporte/2026/10/27/6ae07b6b468aeb55058b4574.html"
     },
     {
-      "titular": "Bank of America: \"La Bolsa europea caerá sobre un 10% y la española un 5% adicional\"",
+      "titular": "Los empresarios piden recuperar el despido por bajas reiteradas ante la escalada del absentismo laboral",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-27T01:47:42+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/10/27/6adb494fe5fdead25c8b45ac.html"
+      "fecha": "2026-10-27T14:03:22+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/10/27/empresarios-piden-recuperar-despido-bajas-reiteradas-escalada-absentismo-laboral.html"
     }
   ],
   "salud": {
@@ -78,16 +78,16 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 8,
+    "antiguedad_minima_min": 10,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 76,
+        "items": 77,
         "error": null,
-        "antiguedad_min": 8,
-        "descartados_por_gancho": 1
+        "antiguedad_min": 10,
+        "descartados_por_gancho": 0
       },
       {
         "medio": "Cinco Días",
@@ -118,7 +118,7 @@
         "url": "https://www.ine.es/dyngs/Prensa/rss.htm",
         "ok": false,
         "items": 0,
-        "error": "TimeoutError: The read operation timed out",
+        "error": "HTTP 404",
         "antiguedad_min": null
       },
       {
