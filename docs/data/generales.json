@@ -2,61 +2,62 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-10-27T15:27:15+02:00",
+  "generado": "2026-10-27T20:50:41+02:00",
   "titulares": [
     {
-      "titular": "La televisión china suspende las emisiones de LaLiga tras la polémica con un meme y Mbappé, que se refirió a Mao Zedong como “dictador”",
+      "titular": "Elecciones en Israel 2026, en directo | La participación en varios bastiones de Netanyahu se sitúa por debajo de la media del país",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-27T15:20:32+02:00",
-      "enlace": "https://elpais.com/deportes/futbol/2026-10-27/la-television-estatal-china-suspende-las-emisiones-de-laliga-tras-la-polemica-con-mbappe-y-su-gobierno-destaca-que-ha-herido-los-sentimientos-nacionales.html"
+      "fecha": "2026-10-27T20:32:11+02:00",
+      "enlace": "https://elpais.com/internacional/2026-10-27/elecciones-en-israel-votaciones-escrutinio-y-resultados-en-directo.html"
     },
     {
-      "titular": "La red que convocó los disturbios de Barcelona tiene ramificaciones en 11 comunidades autónomas",
+      "titular": "Detenido un hombre por la muerte de Antoine de Massy, primo segundo de Alberto de Mónaco, a los 29 años",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-27T15:15:27+02:00",
-      "enlace": "https://elpais.com/espana/2026-10-27/la-red-que-convoco-los-disturbios-de-barcelona-tiene-ramificaciones-en-11-comunidades-autonomas.html"
+      "fecha": "2026-10-27T20:31:01+02:00",
+      "enlace": "https://elpais.com/gente/2026-10-27/detenido-un-hombre-por-la-muerte-de-antoine-de-massy-primo-segundo-de-alberto-de-monaco-a-los-29-anos.html"
     },
     {
-      "titular": "El juez descarta preguntar a Arabia Saudí por las joyas incautadas a Zapatero y pone en duda que fueran un regalo",
+      "titular": "Cecotec elige Almussafes para la gigafactoría que fabricará 6.000 casas al año",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-10-27T15:01:06+02:00",
-      "enlace": "https://www.abc.es/espana/juez-descarta-preguntar-arabia-saudi-joyas-incautas-20261027133055-nt.html"
+      "fecha": "2026-10-27T20:29:06+02:00",
+      "enlace": "https://www.abc.es/espana/comunidad-valenciana/cecotec-elige-almussafes-gigafactoria-fabricara-6000-casas-20261027190819-nt.html"
     },
     {
-      "titular": "El Supremo da 10 días al Gobierno para responder al recurso de Ceuta que le acusa de «inactividad» con las expulsiones",
+      "titular": "Las elecciones de Israel registran la participación más alta desde la guerra de Yom Kipur en 1973",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-10-27T14:58:58+02:00",
-      "enlace": "https://www.abc.es/espana/supremo-dias-gobierno-responder-recurso-ceuta-acusa-20261027125134-nt.html"
+      "fecha": "2026-10-27T20:28:32+02:00",
+      "enlace": "https://www.abc.es/internacional/elecciones-israel-comienzan-dato-alto-participacion-guerra-20261027132501-nt.html"
     },
     {
-      "titular": "El consejo de las matronas antes del embarazo: tomar ácido fólico para evitar la espina bífida",
+      "titular": "10 trucos para que tu pasillo largo y estrecho parezca más amplio sin recurrir a los espejos",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-10-27T14:39:34+02:00",
-      "enlace": "https://www.lavanguardia.com/vida/20261027/11669358/consejo-matronas-embarazo-tomar-acido-folico-evitar-espina-bifida.html"
+      "fecha": "2026-10-27T20:00:00+02:00",
+      "enlace": "https://www.lavanguardia.com/comprar/hogar-cocina/20261027/11669100/10-trucos-pasillo-estrecho-parezca-mas-amplio-recurrir-espejos.html"
     },
     {
-      "titular": "Feijóo acude mañana a Barcelona prometiendo una reforma penal para responder mejor a los disturbios",
+      "titular": "Enrique Vila-Matas, premio Nacional de las Letras: «Qué manía, yo no hago metaliteratura»",
       "medios": [
-        "La Vanguardia"
+        "La Vanguardia",
+        "ABC"
       ],
-      "consenso": 1,
-      "fecha": "2026-10-27T14:39:29+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20261027/11669359/feijoo-acude-manana-barcelona-prometiendo-reforma-penal-responder-mejor-disturbios.html"
+      "consenso": 2,
+      "fecha": "2026-10-27T19:49:56+02:00",
+      "enlace": "https://www.abc.es/cultura/enrique-vilamatas-premio-nacional-letras-espanolas-20261027141115-nt.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -74,7 +75,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 6,
+    "antiguedad_minima_min": 18,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +83,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2304862,
+        "antiguedad_min": 2305185,
         "descartados_por_gancho": 0
       },
       {
@@ -90,26 +91,26 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 403",
+        "error": "HTTP 429",
         "antiguedad_min": null
       },
       {
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 144,
+        "items": 148,
         "error": null,
-        "antiguedad_min": 6,
-        "descartados_por_gancho": 4
+        "antiguedad_min": 18,
+        "descartados_por_gancho": 2
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 123,
+        "items": 129,
         "error": null,
-        "antiguedad_min": 47,
-        "descartados_por_gancho": 23
+        "antiguedad_min": 50,
+        "descartados_por_gancho": 21
       },
       {
         "medio": "ABC",
@@ -117,7 +118,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 24,
+        "antiguedad_min": 21,
         "descartados_por_gancho": 0
       }
     ]

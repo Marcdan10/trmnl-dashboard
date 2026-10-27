@@ -2,70 +2,70 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-10-27T15:27:18+02:00",
+  "generado": "2026-10-27T20:50:43+02:00",
   "titulares": [
     {
-      "titular": "El Ibex vuelve a dudar al filo de los 19.000 puntos",
+      "titular": "Ence reduce casi un 70% sus pérdidas hasta septiembre y eleva sus ingresos a 571 millones",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-27T15:16:46+02:00",
-      "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/10/27/6ae04bd2e5fdea2c718b4596.html"
+      "fecha": "2026-10-27T20:07:53+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/10/27/6ae0e7dee5fdea791f8b458e.html"
     },
     {
-      "titular": "La guerra en Irán conduce a los turistas europeos hacia Sudamérica",
+      "titular": "El Gobierno libera 392 millones para comprar a Airbus 22 helicópteros",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-27T15:15:32+02:00",
-      "enlace": "https://www.expansion.com/economia/financial-times/2026/10/27/guerra-iran-conduce-turistas-europeos-sudamerica.html"
+      "fecha": "2026-10-27T19:44:17+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/10/27/6ae0e297e5fdeae7238b45b5.html"
     },
     {
-      "titular": "Advent ataca España con 27.000 millones en dos nuevos fondos de capital riesgo",
+      "titular": "Flávio Bolsonaro huye de Brasil y se dirige en avión a EEUU",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-27T14:56:12+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/10/27/6ae09eae468aeb99348b457f.html"
+      "fecha": "2026-10-27T19:27:18+02:00",
+      "enlace": "https://www.expansion.com/economia/politica/2026/10/27/policia-brasilena-cancela-pasaportes-bolsonaro-paradero-desconocido.html"
     },
     {
-      "titular": "El gigante cripto Ripple lanza su propio banco",
+      "titular": "Vivo presenta el X500 Pro Max, su móvil más caro en plena crisis del mercado",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-27T14:15:55+02:00",
-      "enlace": "https://www.expansion.com/mercados/criptomonedas/2026/10/27/6ae08999e5fdea0f238b459e.html"
+      "fecha": "2026-10-27T18:52:27+02:00",
+      "enlace": "https://www.expansion.com/tecnologia/2026/10/27/vivo-presenta-x500-pro-max-movil-caro-plena-crisis-mercado.html"
     },
     {
-      "titular": "Cirsa pagó 28,5 millones por las ‘tragaperras’ de Comatel",
+      "titular": "Ferrovial se dispara un 8,4% en Bolsa tras aclarar la financiación de la I-24",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-27T14:12:04+02:00",
-      "enlace": "https://www.expansion.com/valencia/2026/10/27/cirsa-pago-28-5-millones-tragaperras-comatel.html"
+      "fecha": "2026-10-27T18:45:32+02:00",
+      "enlace": "https://www.expansion.com/empresas/construccion-servicios/2026/10/27/6ae066fc468aebae628b4576.html"
     },
     {
-      "titular": "Renfe encarga a Siemens su nueva generación de AVE por 1.800 millones",
+      "titular": "Indra se adjudica las estaciones remotas del nuevo GPS europeo",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-27T14:04:57+02:00",
-      "enlace": "https://www.expansion.com/empresas/transporte/2026/10/27/6ae07b6b468aeb55058b4574.html"
+      "fecha": "2026-10-27T18:45:11+02:00",
+      "enlace": "https://www.expansion.com/catalunya/2026/10/27/indra-adjudica-estaciones-remotas-nuevo-gps-europeo.html"
     },
     {
-      "titular": "Los empresarios piden recuperar el despido por bajas reiteradas ante la escalada del absentismo laboral",
+      "titular": "Cecotec logra 510.000 metros cuadrados en Almussafes para su gigafactoría, que producirá 6.000 viviendas anuales",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-27T14:03:22+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/10/27/empresarios-piden-recuperar-despido-bajas-reiteradas-escalada-absentismo-laboral.html"
+      "fecha": "2026-10-27T18:41:50+02:00",
+      "enlace": "https://www.expansion.com/valencia/2026/10/27/cecotec-logra-510-000-metros-cuadrados-almussafes-gigafactoria-producira-6-000-viviendas-anuales.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 10,
+    "antiguedad_minima_min": 42,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 77,
+        "items": 79,
         "error": null,
-        "antiguedad_min": 10,
+        "antiguedad_min": 42,
         "descartados_por_gancho": 0
       },
       {

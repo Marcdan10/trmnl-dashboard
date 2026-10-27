@@ -2,43 +2,52 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "ultimas",
-  "generado": "2026-10-27T15:27:23+02:00",
+  "generado": "2026-10-27T20:50:49+02:00",
   "titulares": [
     {
-      "titular": "El Plan de Resistencia a Antibióticos presenta cuatro nuevas guías de manejo clínico en sanidad animal",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-27T15:22:20+02:00",
-      "enlace": "https://www.redaccionmedica.com/salud-animal/20261027/el-plan-de-resistencia-antibioticos-presenta-cuatro-nuevas-guias-manejo-clinico-en-sanidad-animal/363525_0.html"
-    },
-    {
-      "titular": "El PRAN presenta cuatro nuevas guías sobre uso prudente de antibióticos en animales",
+      "titular": "Novartis y Cataluña evalúan la I+D biomédica y el acceso rápido a la innovación",
       "medios": [
         "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-10-27T15:05:26+02:00",
-      "enlace": "https://diariofarma.com/2026/10/27/el-pran-presenta-cuatro-nuevas-guias-sobre-uso-prudente-de-antibioticos-en-animales"
+      "fecha": "2026-10-27T20:34:56+02:00",
+      "enlace": "https://diariofarma.com/2026/10/27/novartis-y-cataluna-evaluan-la-id-biomedica-y-el-acceso-rapido-a-la-innovacion"
     },
     {
-      "titular": "Enfermería de Urgencias se parte ante la creación de su anhelada especialidad: \"Hay que apostar por no dejar a nadie atrás\"",
+      "titular": "Atención a síntomas y blindaje preventivo de los veterinarios frente a la 'nueva normalidad' del Shamonda",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-10-27T14:58:49+02:00",
-      "enlace": "https://www.redaccionmedica.com/profesionales/enfermeria/20261027/enfermeria-de-urgencias-se-parte-ante-la-creacion-su-anhelada-especialidad-hay-que-apostar-por-no-dejar-nadie-atras/363419_0.html"
+      "fecha": "2026-10-27T19:46:26+02:00",
+      "enlace": "https://www.redaccionmedica.com/salud-animal/20261027/atencion-sintomas-blindaje-preventivo-de-los-veterinarios-frente-la-nueva-normalidad-del-shamonda/363576_0.html"
     },
     {
-      "titular": "29N: Farmaindustria pide a los partidos elevar un punto del PIB el gasto en sanidad pública",
+      "titular": "A los españoles no les da miedo envejecer, pero les aterra el deterioro cognitivo",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-27T19:17:40+02:00",
+      "enlace": "https://www.redaccionmedica.com/longevidad/20261027/los-espanoles-no-les-da-miedo-envejecer-pero-aterra-el-deterioro-cognitivo/363554_0.html"
+    },
+    {
+      "titular": "29N: La POP pide a los partidos reformar la política del medicamento y blindar tratamientos",
       "medios": [
         "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-10-27T13:38:29+02:00",
-      "enlace": "https://diariofarma.com/2026/10/27/29n-farmaindustria-pide-a-los-partidos-elevar-un-punto-del-pib-el-gasto-en-sanidad-publica"
+      "fecha": "2026-10-27T18:49:44+02:00",
+      "enlace": "https://diariofarma.com/2026/10/27/29n-la-pop-pide-a-los-partidos-reformar-la-politica-del-medicamento-y-blindar-tratamientos"
+    },
+    {
+      "titular": "Convenio de farmacia: un «acercamiento» salarial y una nueva fecha de reunión",
+      "medios": [
+        "El Global"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-27T16:16:14+02:00",
+      "enlace": "https://elglobalfarma.com/farmacia/convenio-farmacia-acercamiento-salarial-nueva-fecha/"
     },
     {
       "titular": "FIR 2027: esto son los hospitales de referencia para elegir plaza",
@@ -50,22 +59,13 @@
       "enlace": "https://elglobalfarma.com/farmacia/fir-2027-hospitales-referencia-elegir-plaza/"
     },
     {
-      "titular": "Las propuestas de Farmaindustria a los partidos políticos de cara al 29-N",
-      "medios": [
-        "El Global"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-27T12:29:51+02:00",
-      "enlace": "https://elglobalfarma.com/industria/propuestas-farmaindustria-partidos-politicos-29-n/"
-    },
-    {
-      "titular": "Ojo con lo que subes a la IA: Johns Hopkins Bayview reporta un incidente con datos clínicos de 3.182 pacientes",
+      "titular": "La lealtad institucional de la tecnología sanitaria no se puede ignorar",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-10-27T14:48:24+02:00",
-      "enlace": "https://www.redaccionmedica.com/innovacion/sanidad-digital/20261027/ojo-con-lo-que-subes-la-ia-johns-hopkins-bayview-reporta-un-incidente-datos-clinicos-de-pacientes/363496_0.html"
+      "fecha": "2026-10-27T19:16:12+02:00",
+      "enlace": "https://www.redaccionmedica.com/opinion/20261027/la-lealtad-institucional-de-la-tecnologia-sanitaria-no-se-puede-ignorar/363560_14.html"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 5,
+    "antiguedad_minima_min": 15,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 21,
+        "antiguedad_min": 15,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 168,
+        "antiguedad_min": 274,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 5,
+        "antiguedad_min": 64,
         "descartados_por_gancho": 0
       },
       {
