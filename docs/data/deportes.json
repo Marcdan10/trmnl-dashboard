@@ -2,8 +2,26 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-10-27T03:53:34+02:00",
+  "generado": "2026-10-27T09:10:41+02:00",
   "titulares": [
+    {
+      "titular": "Balón de Oro: Kane, Alexia y el Barça triunfan en Londres",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-27T03:38:24+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261027/1004243660/balon-oro-kane-alexia-barca-triunfan-londres.html"
+    },
+    {
+      "titular": "Neville tira de la manta en la crisis del United: \"Carrick sentirá asco y repugnancia por sus jugadores\"",
+      "medios": [
+        "Marca"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-26T09:47:43+02:00",
+      "enlace": "https://www.marca.com/futbol/premier-league/2026/10/26/neville-tira-manta-crisis-manchester-united-carrick-sentira-asco-repugnancia-jugadores.html"
+    },
     {
       "titular": "Kane se lleva el Balón de Oro por delante de Mbappé y Lamine",
       "medios": [
@@ -14,58 +32,41 @@
       "enlace": "https://www.mundodeportivo.com/futbol/balon-oro/20261026/1004243269/harry-kane-lleva-balon-oro-delante-lamine-yamal-mbappe.html"
     },
     {
-      "titular": "Histórico Yáñez, fiesta de Enzo, obra de arte de 'Caste', pleno y liderato",
+      "titular": "La razón que nadie cuenta por la que no debes esperar a fin de año si quieres un coche con 'etiqueta 0'",
       "medios": [
         "Marca"
       ],
       "consenso": 1,
-      "fecha": "2026-10-21T18:07:09+02:00",
-      "enlace": "https://www.marca.com/futbol/real-madrid/2026/10/21/historico-yanez-fiesta-enzo-obra-arte-caste-pleno-liderato.html"
+      "fecha": "2026-10-26T09:46:09+02:00",
+      "enlace": "https://www.marca.com/coches-y-motos/consejos/2026/10/26/razon-nadie-cuenta-debes-esperar-ano-quieres-coche-etiqueta-0.html"
     },
     {
-      "titular": "Alexia iguala a Aitana como triple Balón de Oro",
+      "titular": "Perfil: Un 'Hurricane' que arrasa en el área pero no hace ruido fuera del verde",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-27T00:35:08+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261026/1004241343/alexia-putellas-iguala-aitana-bonmati-triple-balon-oro.html"
+      "fecha": "2026-10-27T00:51:54+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/balon-oro/20261026/1004243602/hurricane-arrasa-area-no-ruido-fuera-verde.html"
     },
     {
-      "titular": "Un menor, investigado por arrojar una piedra desde un puente y dejar en estado crítico a un conductor",
+      "titular": "Lula da Silva se impone a Flávio Bolsonaro y es reelecto presidente de Brasil",
       "medios": [
         "Marca"
       ],
       "consenso": 1,
-      "fecha": "2026-10-21T18:00:10+02:00",
-      "enlace": "https://www.marca.com/tiramillas/sucesos/2026/10/21/menor-16-anos-investigado-guardia-civil-arrojar-piedra-puente-ap-41-dejar-critico-conductor.html"
+      "fecha": "2026-10-26T09:45:08+02:00",
+      "enlace": "https://www.marca.com/tiramillas/politica/2026/10/26/lula-da-silva-impone-flavio-bolsonaro-reelecto-presidente-brasil.html"
     },
     {
-      "titular": "Alexia: \"Si tienes un sueño, ves a por ello\"",
+      "titular": "Ya es oficial: el Dakar 2027 no se disputará en Arabia Saudí",
       "medios": [
+        "Marca",
         "Mundo Deportivo"
       ],
-      "consenso": 1,
-      "fecha": "2026-10-27T00:58:55+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261026/1004243536/alexia-balon-oro-ganadora-discurso.html"
-    },
-    {
-      "titular": "María Herrera, la reina de las motos: \"Quiero llevar el Mundial Femenino a MotoGP\"",
-      "medios": [
-        "Marca"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-21T17:58:43+02:00",
-      "enlace": "https://www.marca.com/motor/mas-motor/2026/10/21/maria-herrera-reina-motos-quiero-llevar-mundial-femenino-motogp.html"
-    },
-    {
-      "titular": "Mbappé, un 'hat-trick' con premio",
-      "medios": [
-        "Marca"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-21T17:50:17+02:00",
-      "enlace": "https://www.marca.com/futbol/real-madrid/2026/10/21/mbappe-primer-asalto-100.html"
+      "consenso": 2,
+      "fecha": "2026-10-25T21:13:44+02:00",
+      "enlace": "https://www.marca.com/motor/dakar/2026/10/25/oficial-dakar-2027-disputara-arabia-saudi.html"
     }
   ],
   "salud": {
@@ -75,16 +76,16 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 131,
+    "antiguedad_minima_min": 12,
     "detalle": [
       {
         "medio": "Marca",
         "url": "https://e00-marca.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 74,
+        "items": 69,
         "error": null,
-        "antiguedad_min": 7786,
-        "descartados_por_gancho": 5
+        "antiguedad_min": 1402,
+        "descartados_por_gancho": 6
       },
       {
         "medio": "AS",
@@ -99,10 +100,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 142,
+        "items": 146,
         "error": null,
-        "antiguedad_min": 131,
-        "descartados_por_gancho": 6
+        "antiguedad_min": 12,
+        "descartados_por_gancho": 4
       },
       {
         "medio": "Sport",

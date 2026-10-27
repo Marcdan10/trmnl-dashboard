@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-10-27T03:53:28+02:00",
+  "generado": "2026-10-27T09:10:19+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -23,22 +23,22 @@
       "enlace": "https://elpais.com/espana/elecciones-generales/2026-10-26/vox-impone-al-pp-candidatos-independientes-al-senado-muy-vinculados-al-partido-de-la-exjefa-de-prensa-de-ortega-smith-a-un-exconseller-de-mazon.html"
     },
     {
-      "titular": "Acuerdo de PP y Vox para retener el Senado: Feijóo renuncia a tres provincias y Abascal a seis",
+      "titular": "La jueza de menores riñe a los padres por los disturbios de Barcelona",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-10-26T14:49:30+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20261026/11668465/vox-renuncia-seis-provincias-espana-elecciones-29-n-senado.html"
+      "fecha": "2026-10-27T07:00:00+02:00",
+      "enlace": "https://www.lavanguardia.com/local/barcelona/20261027/11668735/jueza-menores-rine-padres-violencia-hijos.html"
     },
     {
-      "titular": "«Estamos recobrando las fuerzas»: las familias de presos políticos esperan la ayuda de Machado",
+      "titular": "Llega a RTVE la nueva serie de Rodolfo Sancho: un thriller policíaco sobre uno de los mayores criminales de España",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-10-27T03:37:24+02:00",
-      "enlace": "https://www.abc.es/internacional/recobrando-fuerzas-familias-presos-politicos-esperan-ayuda-20261027012440-nt.html"
+      "fecha": "2026-10-27T08:26:17+02:00",
+      "enlace": "https://www.abc.es/play/series/noticias/llega-rtve-nueva-serie-rodolfo-sancho-thriller-20261027070000-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -50,22 +50,22 @@
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
     },
     {
-      "titular": "Claves del acuerdo entre el PP y Vox para las listas del Senado: ¿dónde cede Abascal?, ¿en qué provincias se retira Feijóo?",
+      "titular": "Feijóo hace de los disturbios de Barcelona uno de los ejes de su campaña contra Sánchez",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-26T15:58:28+02:00",
-      "enlace": "https://elpais.com/espana/elecciones-generales/2026-10-26/claves-del-acuerdo-entre-el-pp-y-vox-para-las-listas-del-senado-donde-cede-abascalen-que-provincias-se-retira-feijoo.html"
+      "fecha": "2026-10-27T06:30:01+02:00",
+      "enlace": "https://elpais.com/espana/elecciones-generales/2026-10-27/feijoo-hace-de-los-disturbios-de-barcelona-uno-de-los-ejes-de-su-campana-contra-sanchez.html"
     },
     {
-      "titular": "El PSOE y el Frente Amplio pactan una candidatura única para el Senado",
+      "titular": "El Gobierno culpa a la extrema derecha de los disturbios en Barcelona",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-10-17T00:13:31+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20261017/11661132/psoe-frente-amplio-pactan-acuerdo-listas-conjuntas-senado.html"
+      "fecha": "2026-10-26T19:30:35+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20261026/11668692/gobierno-culpa-extrema-derecha-disturbios-barcelona.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 16,
+    "antiguedad_minima_min": 44,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2304168,
+        "antiguedad_min": 2304485,
         "descartados_por_gancho": 0
       },
       {
@@ -97,28 +97,28 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 145,
+        "items": 139,
         "error": null,
-        "antiguedad_min": 132,
-        "descartados_por_gancho": 8
+        "antiguedad_min": 70,
+        "descartados_por_gancho": 7
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 132,
+        "items": 109,
         "error": null,
-        "antiguedad_min": 138,
-        "descartados_por_gancho": 16
+        "antiguedad_min": 70,
+        "descartados_por_gancho": 21
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 23,
+        "items": 24,
         "error": null,
-        "antiguedad_min": 16,
-        "descartados_por_gancho": 2
+        "antiguedad_min": 44,
+        "descartados_por_gancho": 1
       }
     ]
   }

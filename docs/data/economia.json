@@ -2,7 +2,7 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "portadas",
-  "generado": "2026-10-27T03:53:32+02:00",
+  "generado": "2026-10-27T09:10:40+02:00",
   "titulares": [
     {
       "titular": "El Gobierno suaviza las exigencias de renovables a los centros de datos",
@@ -14,13 +14,13 @@
       "enlace": "https://www.expansion.com/tecnologia/2026/10/26/gobierno-suaviza-exigencias-renovables-centros-datos.html"
     },
     {
-      "titular": "El precio de las hipotecas escala al 3,08%, máximo desde enero de 2025",
+      "titular": "Santander afronta más vencimientos de deuda en 2027 que BBVA, CaixaBank y Sabadell juntos",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-27T03:02:48+02:00",
-      "enlace": "https://www.expansion.com/ahorro/2026/10/27/6adfce20e5fdea50638b4582.html"
+      "fecha": "2026-10-27T01:12:56+02:00",
+      "enlace": "https://www.expansion.com/empresas/banca/2026/10/27/6aa7d8f8468aeb6c048b4584.html"
     },
     {
       "titular": "ACS, Ferrovial y Sacyr entran en el plan privado de redes de Trump",
@@ -32,13 +32,13 @@
       "enlace": "https://www.expansion.com/empresas/construccion-servicios/2026/10/27/6adfd9a1e5fdea07608b4584.html"
     },
     {
-      "titular": "Santander afronta más vencimientos de deuda en 2027 que BBVA, CaixaBank y Sabadell juntos",
+      "titular": "La Primera de Expansión sobre Ferrovial, Sacyr, Aagesen, Anthropic, Putellas, Mbappé, Israel y Lula",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-27T01:12:56+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/10/27/6aa7d8f8468aeb6c048b4584.html"
+      "fecha": "2026-10-27T08:29:33+02:00",
+      "enlace": "https://www.expansion.com/podcasts/la-primera-de-expansion/2026/10/27/primera-expansion-sobre-ferrovial-sacyr-aagese-anthropic-putellas-mbappe-israel-lula.html"
     },
     {
       "titular": "CaixaBank ficha a EY para que analice las cuentas de Cetelem",
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 40,
+    "antiguedad_minima_min": 8,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 74,
+        "items": 76,
         "error": null,
-        "antiguedad_min": 40,
+        "antiguedad_min": 8,
         "descartados_por_gancho": 1
       },
       {
@@ -118,7 +118,7 @@
         "url": "https://www.ine.es/dyngs/Prensa/rss.htm",
         "ok": false,
         "items": 0,
-        "error": "HTTP 404",
+        "error": "TimeoutError: The read operation timed out",
         "antiguedad_min": null
       },
       {
