@@ -2,16 +2,16 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-10-27T00:59:01+02:00",
+  "generado": "2026-10-27T03:53:34+02:00",
   "titulares": [
     {
-      "titular": "¡Se vienen los premios gordos!",
+      "titular": "Kane se lleva el Balón de Oro por delante de Mbappé y Lamine",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-26T18:53:21+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/balon-oro/20261026/1004243285/balon-oro-2026-directo-gala-ganadores-votos-recciones-ultima-hora-sobre-lamine-yamal-mbappe-harry-kane-messi-vivo.html"
+      "fecha": "2026-10-27T00:50:40+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/balon-oro/20261026/1004243269/harry-kane-lleva-balon-oro-delante-lamine-yamal-mbappe.html"
     },
     {
       "titular": "Histórico Yáñez, fiesta de Enzo, obra de arte de 'Caste', pleno y liderato",
@@ -23,13 +23,13 @@
       "enlace": "https://www.marca.com/futbol/real-madrid/2026/10/21/historico-yanez-fiesta-enzo-obra-arte-caste-pleno-liderato.html"
     },
     {
-      "titular": "Lamine Yamal y su gente viajaron ayer a Londres en jet privado y Cubarsí se queda en casa",
+      "titular": "Alexia iguala a Aitana como triple Balón de Oro",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-26T12:06:14+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261026/1004243291/cubarsi-prioriza-descanso-no-viaja-gala-balon-oro-londres.html"
+      "fecha": "2026-10-27T00:35:08+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261026/1004241343/alexia-putellas-iguala-aitana-bonmati-triple-balon-oro.html"
     },
     {
       "titular": "Un menor, investigado por arrojar una piedra desde un puente y dejar en estado crítico a un conductor",
@@ -41,13 +41,13 @@
       "enlace": "https://www.marca.com/tiramillas/sucesos/2026/10/21/menor-16-anos-investigado-guardia-civil-arrojar-piedra-puente-ap-41-dejar-critico-conductor.html"
     },
     {
-      "titular": "El Barça femenino y el PSG masculino, mejores equipos del mundo",
+      "titular": "Alexia: \"Si tienes un sueño, ves a por ello\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-26T23:54:45+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261026/1004242811/barca-femenino-mejor-equipo-mundo-gala-balon-oro.html"
+      "fecha": "2026-10-27T00:58:55+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261026/1004243536/alexia-balon-oro-ganadora-discurso.html"
     },
     {
       "titular": "María Herrera, la reina de las motos: \"Quiero llevar el Mundial Femenino a MotoGP\"",
@@ -59,13 +59,13 @@
       "enlace": "https://www.marca.com/motor/mas-motor/2026/10/21/maria-herrera-reina-motos-quiero-llevar-mundial-femenino-motogp.html"
     },
     {
-      "titular": "Así queda la clasificación de LaLiga tras el Clásico",
+      "titular": "Mbappé, un 'hat-trick' con premio",
       "medios": [
-        "Mundo Deportivo"
+        "Marca"
       ],
       "consenso": 1,
-      "fecha": "2026-10-26T00:02:20+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261025/1004243111/asi-aprieta-clasificacion-laliga-derrota-barca.html"
+      "fecha": "2026-10-21T17:50:17+02:00",
+      "enlace": "https://www.marca.com/futbol/real-madrid/2026/10/21/mbappe-primer-asalto-100.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 35,
+    "antiguedad_minima_min": 131,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 74,
         "error": null,
-        "antiguedad_min": 7611,
+        "antiguedad_min": 7786,
         "descartados_por_gancho": 5
       },
       {
@@ -99,9 +99,9 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 143,
+        "items": 142,
         "error": null,
-        "antiguedad_min": 35,
+        "antiguedad_min": 131,
         "descartados_por_gancho": 6
       },
       {

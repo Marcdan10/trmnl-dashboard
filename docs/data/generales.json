@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-10-27T00:58:54+02:00",
+  "generado": "2026-10-27T03:53:28+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -32,13 +32,13 @@
       "enlace": "https://www.lavanguardia.com/politica/20261026/11668465/vox-renuncia-seis-provincias-espana-elecciones-29-n-senado.html"
     },
     {
-      "titular": "Ganador del Balón de Oro 2026, en directo: última hora de Harry Kane, premios por categoría, clasificación, puntos finales y reacciones hoy",
+      "titular": "«Estamos recobrando las fuerzas»: las familias de presos políticos esperan la ayuda de Machado",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-10-27T00:57:37+02:00",
-      "enlace": "https://www.abc.es/deportes/futbol/balon-oro-2026-directo-ganador-premios-categoria-20261026185757-di.html"
+      "fecha": "2026-10-27T03:37:24+02:00",
+      "enlace": "https://www.abc.es/internacional/recobrando-fuerzas-familias-presos-politicos-esperan-ayuda-20261027012440-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 1,
+    "antiguedad_minima_min": 16,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2303993,
+        "antiguedad_min": 2304168,
         "descartados_por_gancho": 0
       },
       {
@@ -97,28 +97,28 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 142,
+        "items": 145,
         "error": null,
-        "antiguedad_min": 2,
+        "antiguedad_min": 132,
         "descartados_por_gancho": 8
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 138,
+        "items": 132,
         "error": null,
-        "antiguedad_min": 19,
-        "descartados_por_gancho": 15
+        "antiguedad_min": 138,
+        "descartados_por_gancho": 16
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 24,
+        "items": 23,
         "error": null,
-        "antiguedad_min": 1,
-        "descartados_por_gancho": 1
+        "antiguedad_min": 16,
+        "descartados_por_gancho": 2
       }
     ]
   }
