@@ -2,8 +2,17 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "portadas",
-  "generado": "2026-10-28T03:57:55+02:00",
+  "generado": "2026-10-28T09:59:20+02:00",
   "titulares": [
+    {
+      "titular": "Endesa enfila los 2.400 millones de ganancias este año y prepara nuevo plan para febrero de 2027",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-28T09:12:59+02:00",
+      "enlace": "https://www.expansion.com/empresas/energia/2026/10/28/endesa-enfila-2-400-millones-ganancias-ano-prepara-nuevo-plan-febrero-2027.html"
+    },
     {
       "titular": "Markus Haupt (Anfac y Seat-Cupra): \"El automóvil europeo no ha tirado la toalla y está en una contraofensiva\"",
       "medios": [
@@ -14,31 +23,22 @@
       "enlace": "https://www.expansion.com/empresas/motor/2026/10/28/6ae105a5468aeb501d8b458e.html"
     },
     {
-      "titular": "Monzo ofrece un 4% por el ahorro para competir con la banca tradicional",
+      "titular": "Santander gana 12.405 millones, un 20% más, por la plusvalía de Polonia",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-28T01:47:35+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/10/28/6ae0ef29468aeb48358b4597.html"
+      "fecha": "2026-10-28T08:25:01+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/10/28/santander-gana-12-405-millones-20-plusvalia-polonia.html"
     },
     {
-      "titular": "Santander lanza 'Project Unity' para lograr beneficios extra en EEUU",
+      "titular": "La Primera de Expansión sobre Santander, Haupt, Azkoyen, Ambani, Inditex e Israel",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-28T01:47:36+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/10/28/6acf5fee468aebbb428b4579.html"
-    },
-    {
-      "titular": "El absentismo desbocado amenaza la supervivencia de pymes y autónomos",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-28T01:00:55+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/10/28/absentismo-desbocado-amenaza-supervivencia-pymes-autonomos.html"
+      "fecha": "2026-10-28T08:23:38+02:00",
+      "enlace": "https://www.expansion.com/podcasts/la-primera-de-expansion/2026/10/28/primera-expansion-sobre-santander-markus-haupt-azkoyen-ambani-inditex-e-israel.html"
     },
     {
       "titular": "Los nuevos jubilados cobran 1.863 euros, más que la mitad de los asalariados",
@@ -50,15 +50,6 @@
       "enlace": "https://www.expansion.com/economia/2026/10/28/nuevos-jubilados-cobran-1-863-euros-mitad-asalariados.html"
     },
     {
-      "titular": "Cuándo es mejor jubilarse: ¿a finales de 2026 o principios de 2027?",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-27T13:13:50+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/10/27/mejor-jubilarse-finales-2026-principios-2027.html"
-    },
-    {
       "titular": "Último día para cobrar los dividendos de Inditex y Santander",
       "medios": [
         "Expansión"
@@ -66,6 +57,15 @@
       "consenso": 1,
       "fecha": "2026-10-28T01:47:38+02:00",
       "enlace": "https://www.expansion.com/inversion/2026/10/28/6ae0d5d9468aeb7c388b4592.html"
+    },
+    {
+      "titular": "Por qué no debe molestarse en leer el folleto de la OPV de Anthropic",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-27T20:01:24+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/10/27/debe-molestarse-leer-folleto-opv-anthropic.html"
     }
   ],
   "salud": {
@@ -78,16 +78,16 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 129,
+    "antiguedad_minima_min": 14,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 70,
+        "items": 74,
         "error": null,
-        "antiguedad_min": 129,
-        "descartados_por_gancho": 0
+        "antiguedad_min": 14,
+        "descartados_por_gancho": 1
       },
       {
         "medio": "Cinco Días",

@@ -2,16 +2,16 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-10-28T03:57:56+02:00",
+  "generado": "2026-10-28T09:59:21+02:00",
   "titulares": [
     {
-      "titular": "El Espanyol no espera ni al miércoles: Manolo González, cesado",
+      "titular": "Sergio García se pone al mando del Espanyol",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-27T23:24:21+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/rcd-espanyol/20261027/1004244013/espanyol-cesa-manolo-gonzalez.html"
+      "fecha": "2026-10-28T08:00:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/rcd-espanyol/20261028/1004244077/sergio-garcia-pone-mando-espanyol.html"
     },
     {
       "titular": "Neville tira de la manta en la crisis del United: \"Carrick sentirá asco y repugnancia por sus jugadores\"",
@@ -41,13 +41,13 @@
       "enlace": "https://www.marca.com/coches-y-motos/consejos/2026/10/26/razon-nadie-cuenta-debes-esperar-ano-quieres-coche-etiqueta-0.html"
     },
     {
-      "titular": "Así han quedado todos los partidos de dieciseisavos de final",
+      "titular": "De Jong, un refuerzo que vuelve a tope para el Barça",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-27T19:01:46+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/copa-del-rey/20261027/1004243917/copa-del-rey-futbol-primera-ronda-hoy-en-directo-ext-pau.html"
+      "fecha": "2026-10-28T01:30:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261028/1004244015/jong-refuerzo-vuelve-tope-barca.html"
     },
     {
       "titular": "Lula da Silva se impone a Flávio Bolsonaro y es reelecto presidente de Brasil",
@@ -59,13 +59,13 @@
       "enlace": "https://www.marca.com/tiramillas/politica/2026/10/26/lula-da-silva-impone-flavio-bolsonaro-reelecto-presidente-brasil.html"
     },
     {
-      "titular": "De Jong, un refuerzo que vuelve a tope para el Barça",
+      "titular": "Roberto Gómez señala al gran triunfador del Clásico: \"¿Dónde está Mourinho cuestionado?\"",
       "medios": [
-        "Mundo Deportivo"
+        "Marca"
       ],
       "consenso": 1,
-      "fecha": "2026-10-28T01:30:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261028/1004244015/jong-refuerzo-vuelve-tope-barca.html"
+      "fecha": "2026-10-26T09:37:25+02:00",
+      "enlace": "https://www.marca.com/radio/2026/10/26/roberto-gomez-senala-gran-triunfador-clasico-mourinho-cuestionado.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 147,
+    "antiguedad_minima_min": 52,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 69,
         "error": null,
-        "antiguedad_min": 2530,
+        "antiguedad_min": 2891,
         "descartados_por_gancho": 6
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 145,
+        "items": 133,
         "error": null,
-        "antiguedad_min": 147,
-        "descartados_por_gancho": 5
+        "antiguedad_min": 52,
+        "descartados_por_gancho": 8
       },
       {
         "medio": "Sport",
