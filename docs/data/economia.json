@@ -1,71 +1,71 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "portadas",
-  "generado": "2026-10-28T09:59:20+02:00",
+  "modo": "ultimas",
+  "generado": "2026-10-28T16:58:13+02:00",
   "titulares": [
     {
-      "titular": "Endesa enfila los 2.400 millones de ganancias este año y prepara nuevo plan para febrero de 2027",
+      "titular": "Técnicas Reunidas y Amadeus, entre los favoritos de GVC Gaesco",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-28T09:12:59+02:00",
-      "enlace": "https://www.expansion.com/empresas/energia/2026/10/28/endesa-enfila-2-400-millones-ganancias-ano-prepara-nuevo-plan-febrero-2027.html"
+      "fecha": "2026-10-28T16:09:17+02:00",
+      "enlace": "https://www.expansion.com/inversion/2026/10/28/tecnicas-reunidas-amadeus-favoritos-gvc-gaesco.html"
     },
     {
-      "titular": "Markus Haupt (Anfac y Seat-Cupra): \"El automóvil europeo no ha tirado la toalla y está en una contraofensiva\"",
+      "titular": "Las principales empresas de consultoría aumentan los salarios de los nuevos empleados por primera vez desde 2022",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-28T01:47:34+02:00",
-      "enlace": "https://www.expansion.com/empresas/motor/2026/10/28/6ae105a5468aeb501d8b458e.html"
+      "fecha": "2026-10-28T15:49:12+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/10/28/principales-empresas-consultoria-aumentan-salarios-nuevos-empleados-primera-vez-2022.html"
     },
     {
-      "titular": "Santander gana 12.405 millones, un 20% más, por la plusvalía de Polonia",
+      "titular": "Santander estudiará ya el próximo año el reparto de su exceso de capital",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-28T08:25:01+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/10/28/santander-gana-12-405-millones-20-plusvalia-polonia.html"
+      "fecha": "2026-10-28T15:37:33+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/10/28/santander-estudiara-proximo-ano-reparto-exceso-capital.html"
     },
     {
-      "titular": "La Primera de Expansión sobre Santander, Haupt, Azkoyen, Ambani, Inditex e Israel",
+      "titular": "El Gobierno apunta a un fallo en el centro de control",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-28T08:23:38+02:00",
-      "enlace": "https://www.expansion.com/podcasts/la-primera-de-expansion/2026/10/28/primera-expansion-sobre-santander-markus-haupt-azkoyen-ambani-inditex-e-israel.html"
+      "fecha": "2026-10-28T15:31:07+02:00",
+      "enlace": "https://www.expansion.com/sociedad/2026/10/28/gobierno-apunta-fallo-centro-control-autorizo-marcha-normativa.html"
     },
     {
-      "titular": "Los nuevos jubilados cobran 1.863 euros, más que la mitad de los asalariados",
+      "titular": "El ‘Crackgate’ golpea a Apple por los problemas con la pantalla del iPhone Duo",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-28T01:01:17+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/10/28/nuevos-jubilados-cobran-1-863-euros-mitad-asalariados.html"
+      "fecha": "2026-10-28T15:19:45+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/10/28/crackgate-golpea-apple-problemas-pantalla-iphone-duo.html"
     },
     {
-      "titular": "Último día para cobrar los dividendos de Inditex y Santander",
+      "titular": "La UE exige un escudo climático para frenar una sangría de 50.000 millones al año",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-28T01:47:38+02:00",
-      "enlace": "https://www.expansion.com/inversion/2026/10/28/6ae0d5d9468aeb7c388b4592.html"
+      "fecha": "2026-10-28T15:09:23+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/10/28/ue-exige-escudo-climatico-frenar-sangria-50-000-millones-ano.html"
     },
     {
-      "titular": "Por qué no debe molestarse en leer el folleto de la OPV de Anthropic",
+      "titular": "Ebro triplica los ingresos hasta 310 millones y recorta las pérdidas un 56%",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-27T20:01:24+02:00",
-      "enlace": "https://www.expansion.com/economia/financial-times/2026/10/27/debe-molestarse-leer-folleto-opv-anthropic.html"
+      "fecha": "2026-10-28T14:54:25+02:00",
+      "enlace": "https://www.expansion.com/catalunya/2026/10/28/ebro-triplica-ingresos-310-millones-recorta-perdidas-56.html"
     }
   ],
   "salud": {
@@ -78,7 +78,7 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 14,
+    "antiguedad_minima_min": 48,
     "detalle": [
       {
         "medio": "Expansión",
@@ -86,8 +86,8 @@
         "ok": true,
         "items": 74,
         "error": null,
-        "antiguedad_min": 14,
-        "descartados_por_gancho": 1
+        "antiguedad_min": 48,
+        "descartados_por_gancho": 0
       },
       {
         "medio": "Cinco Días",
