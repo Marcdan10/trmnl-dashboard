@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-10-28T00:48:25+02:00",
+  "generado": "2026-10-28T03:57:53+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -14,16 +14,16 @@
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
     },
     {
-      "titular": "Elecciones en Israel 2026, en directo | Los sondeos a pie de urna dan un resultado muy ajustado entre Netanyahu y la oposición con un castigo al Gobierno",
+      "titular": "Netanyahu gana las elecciones en Israel, pero su coalición queda lejos de la mayoría",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-28T00:31:16+02:00",
-      "enlace": "https://elpais.com/internacional/2026-10-27/elecciones-en-israel-votaciones-escrutinio-y-resultados-en-directo.html"
+      "fecha": "2026-10-28T02:54:06+02:00",
+      "enlace": "https://elpais.com/internacional/2026-10-27/netanyahu-gana-las-elecciones-en-israel-pero-su-coalicion-queda-lejos-de-la-mayoria.html"
     },
     {
-      "titular": "Ninguno de los dos bloques tiene una clara mayoría en Israel, según sondeos a pie de urna",
+      "titular": "Los sondeos dan una ligera ventaja al bloque de la oposición en Israel",
       "medios": [
         "La Vanguardia"
       ],
@@ -32,13 +32,13 @@
       "enlace": "https://www.lavanguardia.com/internacional/20261027/11669639/ninguno-dos-bloques-clara-mayoria-israel-sondeos-pie-urna.html"
     },
     {
-      "titular": "El Espanyol despide a Manolo tras la debacle copera ante el Sestao",
+      "titular": "Netanyahu promete formar un nuevo gobierno de derecha «fuerte» y llama a acabar con la «amenaza» iraní",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-10-28T00:34:09+02:00",
-      "enlace": "https://www.abc.es/deportes/futbol/sestao-deja-espanyol-copa-manolo-sentenciado-20261027215957-nt.html"
+      "fecha": "2026-10-28T03:56:32+02:00",
+      "enlace": "https://www.abc.es/internacional/netanyahu-promete-formar-nuevo-gobierno-derecha-fuerte-20261028024608-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -50,13 +50,15 @@
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
     },
     {
-      "titular": "Los detractores de Netanyahu contienen su entusiasmo: “Ganó, aunque será difícil que siga siendo primer ministro”",
+      "titular": "Irán condena al cineasta Jafar Panahi, Palma de Oro en 2025, a cinco años de prisión",
       "medios": [
-        "El País"
+        "El País",
+        "La Vanguardia",
+        "ABC"
       ],
-      "consenso": 1,
-      "fecha": "2026-10-28T00:29:44+02:00",
-      "enlace": "https://elpais.com/internacional/2026-10-27/los-detractores-de-netanyahu-contienen-su-entusiasmo-gano-aunque-sera-dificil-que-siga-siendo-primer-ministro.html"
+      "consenso": 3,
+      "fecha": "2026-10-28T02:46:39+02:00",
+      "enlace": "https://www.abc.es/play/iran-condena-cineasta-jafar-panahi-palma-oro-20261027213523-nt.html"
     },
     {
       "titular": "Netanyahu denuncia que le quieren “robar las elecciones” entre una participación récord",
@@ -74,7 +76,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 14,
+    "antiguedad_minima_min": 1,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +84,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2305423,
+        "antiguedad_min": 2305612,
         "descartados_por_gancho": 0
       },
       {
@@ -97,19 +99,19 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 151,
+        "items": 150,
         "error": null,
-        "antiguedad_min": 17,
+        "antiguedad_min": 18,
         "descartados_por_gancho": 2
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 129,
+        "items": 131,
         "error": null,
-        "antiguedad_min": 61,
-        "descartados_por_gancho": 20
+        "antiguedad_min": 172,
+        "descartados_por_gancho": 13
       },
       {
         "medio": "ABC",
@@ -117,7 +119,7 @@
         "ok": true,
         "items": 24,
         "error": null,
-        "antiguedad_min": 14,
+        "antiguedad_min": 1,
         "descartados_por_gancho": 1
       }
     ]

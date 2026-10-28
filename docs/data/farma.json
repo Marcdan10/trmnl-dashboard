@@ -2,7 +2,7 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "portadas",
-  "generado": "2026-10-28T00:48:36+02:00",
+  "generado": "2026-10-28T03:58:01+02:00",
   "titulares": [
     {
       "titular": "Aeseg pide ante el 29N reformas legales que garanticen la viabilidad de los genéricos",
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 63,
+    "antiguedad_minima_min": 253,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 63,
+        "antiguedad_min": 253,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 512,
+        "antiguedad_min": 701,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 143,
+        "antiguedad_min": 332,
         "descartados_por_gancho": 0
       },
       {
