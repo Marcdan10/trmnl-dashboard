@@ -2,61 +2,62 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-10-29T15:27:47+02:00",
+  "generado": "2026-10-29T21:06:38+02:00",
   "titulares": [
     {
-      "titular": "Accidente de trenes en Toledo: última hora y reacciones en directo | Asciende a 69 el número de fallecidos en el accidente ferroviario de Urda",
+      "titular": "La abogada de Koldo dice que la editora de Okdiario le pagó 242.000 euros para defender al exasesor",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-29T20:54:10+02:00",
+      "enlace": "https://www.abc.es/espana/abogada-koldo-dice-editora-okdiario-pago-242000-20261029172618-nt.html"
+    },
+    {
+      "titular": "Netanyahu agita el fantasma del fraude tras quedar en minoría en el Parlamento",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-29T20:53:40+02:00",
+      "enlace": "https://www.abc.es/internacional/netanyahu-agita-fantasma-fraude-tras-quedar-minoria-20261029193917-nt.html"
+    },
+    {
+      "titular": "La Guardia Civil investiga en qué circunstancias se produjo el error humano del accidente de Urda",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-29T15:23:00+02:00",
+      "fecha": "2026-10-29T20:48:20+02:00",
+      "enlace": "https://elpais.com/espana/2026-10-29/la-guardia-civil-investiga-en-que-circunstancias-se-produjo-el-error-humano-del-accidente-de-urda.html"
+    },
+    {
+      "titular": "Accidente de trenes en Toledo: última hora y reacciones en directo | El PP pide la comparecencia de Sánchez en el Congreso y considera “insuficiente” la de Puente",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-29T20:36:31+02:00",
       "enlace": "https://elpais.com/espana/2026-10-29/ultima-hora-y-reacciones-tras-el-accidente-de-trenes-de-urda-toledo-en-directo.html"
     },
     {
-      "titular": "El juicio por el mayor brote de listeria de Europa se aplaza tres semanas más a la espera de los informes médicos de cinco afectados",
+      "titular": "Ouigo cancela todos sus trenes el 30 de octubre y el 2 de noviembre por la huelga de maquinistas",
       "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-29T15:20:54+02:00",
-      "enlace": "https://elpais.com/sociedad/2026-10-29/el-juicio-por-el-mayor-brote-de-listeria-de-europa-se-aplaza-tres-semanas-mas-a-la-espera-de-los-informes-medicos-de-cinco-afectados.html"
-    },
-    {
-      "titular": "Sánchez promete «esclarecer hasta el último detalle» la tragedia que suma ya 69 fallecidos",
-      "medios": [
+        "La Vanguardia",
         "ABC"
       ],
-      "consenso": 1,
-      "fecha": "2026-10-29T15:15:25+02:00",
-      "enlace": "https://www.abc.es/espana/castilla-la-mancha/toledo/sanchez-promete-esclarecer-ultimo-detalle-tragedia-ferroviaria-20261029111212-nt.html"
+      "consenso": 2,
+      "fecha": "2026-10-29T20:33:02+02:00",
+      "enlace": "https://www.abc.es/economia/ouigo-cancela-trenes-octubre-noviembre-huelga-maquinistas-20261029185355-nt.html"
     },
     {
-      "titular": "Feijóo: «Las responsabilidades políticas no son opcionales»",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-29T15:11:38+02:00",
-      "enlace": "https://www.abc.es/espana/castilla-la-mancha/feijoo-puente-dia-despues-accidente-responsabilidades-politicas-20261029134255-nt.html"
-    },
-    {
-      "titular": "Ingrid de Noruega rinde homenaje a Mette-Marit en su debut en solitario como heredera",
+      "titular": "La filtración de los audios del choque de Urda pone fin a la tregua política",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-10-29T13:11:16+02:00",
-      "enlace": "https://www.lavanguardia.com/gente/20261029/11671075/ingrid-noruega-rinde-homenaje-mette-marit-debut-solitario-heredera.html"
-    },
-    {
-      "titular": "Ascienden a 69 los muertos en el accidente de trenes en Toledo",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-29T13:08:11+02:00",
-      "enlace": "https://www.lavanguardia.com/vida/20261029/11670831/choque-de-trenes-toledo-iryo-toledo-ave-madrid-andalucia-ultima-hora-hoy-en-directo.html"
+      "fecha": "2026-10-29T20:29:15+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20261029/11671476/filtracion-audios-choque-urda-pone-tregua-politica.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -74,7 +75,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 4,
+    "antiguedad_minima_min": 12,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +83,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2307742,
+        "antiguedad_min": 2308081,
         "descartados_por_gancho": 0
       },
       {
@@ -97,28 +98,28 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 145,
+        "items": 147,
         "error": null,
-        "antiguedad_min": 4,
-        "descartados_por_gancho": 7
+        "antiguedad_min": 18,
+        "descartados_por_gancho": 5
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 138,
+        "items": 146,
         "error": null,
-        "antiguedad_min": 136,
+        "antiguedad_min": 37,
         "descartados_por_gancho": 12
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 24,
+        "items": 23,
         "error": null,
         "antiguedad_min": 12,
-        "descartados_por_gancho": 1
+        "descartados_por_gancho": 2
       }
     ]
   }
