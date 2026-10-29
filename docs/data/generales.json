@@ -1,54 +1,26 @@
 {
   "pantalla": "generales",
   "titulo": "Titulares",
-  "modo": "ultimas",
-  "generado": "2026-10-29T21:06:38+02:00",
+  "modo": "portadas",
+  "generado": "2026-10-30T01:27:48+02:00",
   "titulares": [
     {
-      "titular": "La abogada de Koldo dice que la editora de Okdiario le pagó 242.000 euros para defender al exasesor",
+      "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
       "medios": [
-        "ABC"
+        "RTVE"
       ],
       "consenso": 1,
-      "fecha": "2026-10-29T20:54:10+02:00",
-      "enlace": "https://www.abc.es/espana/abogada-koldo-dice-editora-okdiario-pago-242000-20261029172618-nt.html"
+      "fecha": "2022-06-10T01:05:00+02:00",
+      "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
     },
     {
-      "titular": "Netanyahu agita el fantasma del fraude tras quedar en minoría en el Parlamento",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-29T20:53:40+02:00",
-      "enlace": "https://www.abc.es/internacional/netanyahu-agita-fantasma-fraude-tras-quedar-minoria-20261029193917-nt.html"
-    },
-    {
-      "titular": "La Guardia Civil investiga en qué circunstancias se produjo el error humano del accidente de Urda",
+      "titular": "El primer informe técnico del accidente estima que el AVE circulaba de 160 a 200 kilómetros por hora cuando chocó",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-29T20:48:20+02:00",
-      "enlace": "https://elpais.com/espana/2026-10-29/la-guardia-civil-investiga-en-que-circunstancias-se-produjo-el-error-humano-del-accidente-de-urda.html"
-    },
-    {
-      "titular": "Accidente de trenes en Toledo: última hora y reacciones en directo | El PP pide la comparecencia de Sánchez en el Congreso y considera “insuficiente” la de Puente",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-29T20:36:31+02:00",
-      "enlace": "https://elpais.com/espana/2026-10-29/ultima-hora-y-reacciones-tras-el-accidente-de-trenes-de-urda-toledo-en-directo.html"
-    },
-    {
-      "titular": "Ouigo cancela todos sus trenes el 30 de octubre y el 2 de noviembre por la huelga de maquinistas",
-      "medios": [
-        "La Vanguardia",
-        "ABC"
-      ],
-      "consenso": 2,
-      "fecha": "2026-10-29T20:33:02+02:00",
-      "enlace": "https://www.abc.es/economia/ouigo-cancela-trenes-octubre-noviembre-huelga-maquinistas-20261029185355-nt.html"
+      "fecha": "2026-10-29T22:53:30+02:00",
+      "enlace": "https://elpais.com/espana/2026-10-29/el-primer-informe-tecnico-del-accidente-fija-en-160-a-200-kilometros-por-hora-la-velocidad-del-ave-que-choco-en-urda.html"
     },
     {
       "titular": "La filtración de los audios del choque de Urda pone fin a la tregua política",
@@ -60,13 +32,40 @@
       "enlace": "https://www.lavanguardia.com/politica/20261029/11671476/filtracion-audios-choque-urda-pone-tregua-politica.html"
     },
     {
-      "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
+      "titular": "El informe inicial apunta a una «cadena de averías e instrucciones» que no pudieron frenar la colisión",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-30T00:09:17+02:00",
+      "enlace": "https://www.abc.es/espana/primer-informe-urda-apunta-cadena-averias-instrucciones-20261029215855-nt.html"
+    },
+    {
+      "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
       "medios": [
         "RTVE"
       ],
       "consenso": 1,
-      "fecha": "2022-06-10T01:05:00+02:00",
-      "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
+      "fecha": "2022-06-10T00:03:00+02:00",
+      "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
+    },
+    {
+      "titular": "El consejero delegado de Iryo advirtió de los problemas del sistema LZB en sus trenes tres semanas antes del accidente de Urda",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-29T14:50:06+02:00",
+      "enlace": "https://elpais.com/economia/2026-10-29/el-consejero-delegado-de-iryo-advirtio-de-los-problemas-del-sistema-lzb-en-sus-trenes-tres-semanas-antes-del-accidente-de-urda.html"
+    },
+    {
+      "titular": "Cronología de una tragedia plagada de errores",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-29T14:52:08+02:00",
+      "enlace": "https://www.lavanguardia.com/vida/20261029/11671139/cronologia-tragedia-plagada-errores.html"
     }
   ],
   "salud": {
@@ -75,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 12,
+    "antiguedad_minima_min": 47,
     "detalle": [
       {
         "medio": "RTVE",
@@ -83,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2308081,
+        "antiguedad_min": 2308342,
         "descartados_por_gancho": 0
       },
       {
@@ -91,7 +90,7 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 403",
+        "error": "HTTP 500",
         "antiguedad_min": null
       },
       {
@@ -100,17 +99,17 @@
         "ok": true,
         "items": 147,
         "error": null,
-        "antiguedad_min": 18,
+        "antiguedad_min": 47,
         "descartados_por_gancho": 5
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 146,
+        "items": 145,
         "error": null,
-        "antiguedad_min": 37,
-        "descartados_por_gancho": 12
+        "antiguedad_min": 81,
+        "descartados_por_gancho": 11
       },
       {
         "medio": "ABC",
@@ -118,7 +117,7 @@
         "ok": true,
         "items": 23,
         "error": null,
-        "antiguedad_min": 12,
+        "antiguedad_min": 78,
         "descartados_por_gancho": 2
       }
     ]

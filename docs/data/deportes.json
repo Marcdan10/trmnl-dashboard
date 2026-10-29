@@ -1,9 +1,18 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "ultimas",
-  "generado": "2026-10-29T21:06:44+02:00",
+  "modo": "portadas",
+  "generado": "2026-10-30T01:27:53+02:00",
   "titulares": [
+    {
+      "titular": "0-8: Paseo del Barça en Dinamarca",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-29T23:52:27+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261029/1004244826/paseo-barca-dinamarca.html"
+    },
     {
       "titular": "Antonelli empieza enfermo el GP más importante de su vida",
       "medios": [
@@ -12,42 +21,6 @@
       "consenso": 1,
       "fecha": "2026-10-29T20:45:51+02:00",
       "enlace": "https://www.marca.com/motor/formula1/gp-mexico/2026/10/29/antonelli-empieza-enfermo-gp-importante-vida.html"
-    },
-    {
-      "titular": "La ley establece hasta 3.000 € de multa para quienes aún tengan el aire acondicionado en la fachada",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-29T20:44:55+02:00",
-      "enlace": "https://www.mundodeportivo.com/actualidad/20261029/1004244778/vigor-ley-establece-3-000-euros-multa-propietarios-aun-tengan-aire-acondicionado-fachada-edificio-dct.html"
-    },
-    {
-      "titular": "Los 5 nombres más comunes para llamar a tu perro en España: sorpresa con el tercero",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-29T20:42:12+02:00",
-      "enlace": "https://www.mundodeportivo.com/elotromundo/mascotas/20261029/1004244775/son-cinco-nombres-comunes-llamar-perro-espana-sorpresa-numero-tres-dct.html"
-    },
-    {
-      "titular": "Lorenzo Brown aún reclama el anillo de campeón de la NBA de 2019",
-      "medios": [
-        "Marca"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-29T20:40:54+02:00",
-      "enlace": "https://www.marca.com/baloncesto/nba/2026/10/29/lorenzo-brown-aun-reclama-anillo-campeon-nba-2019.html"
-    },
-    {
-      "titular": "Susana, propietaria de un piso alquilado: \"Nos lo encontramos destrozado y ahora no quiere pagar los 17.000 euros del peritaje de los daños\"",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-29T20:39:35+02:00",
-      "enlace": "https://www.mundodeportivo.com/tressesenta/20261029/1004244777/susana-propietaria-piso-alquilado-alquiler-humilde-no-llega-500-euros-encontramos-piso-destrozado-no-quiere-pagar-17-000-euros-peritaje-danos-dct.html"
     },
     {
       "titular": "Nuevo tour por el mundo para Raphinha con Brasil",
@@ -59,13 +32,40 @@
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261029/1004244773/nuevo-tour-mundo-raphinha-brasil.html"
     },
     {
-      "titular": "En Aston Martin alucinaron con Alonso: \"Fue impresionante\"",
+      "titular": "Lorenzo Brown aún reclama el anillo de campeón de la NBA de 2019",
+      "medios": [
+        "Marca"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-29T20:40:54+02:00",
+      "enlace": "https://www.marca.com/baloncesto/nba/2026/10/29/lorenzo-brown-aun-reclama-anillo-campeon-nba-2019.html"
+    },
+    {
+      "titular": "El Barça activa la 'operación central'",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-29T20:30:53+02:00",
-      "enlace": "https://www.mundodeportivo.com/motor/f1/20261029/1004244776/aston-martin-alucinaron-alonso-impresionante-capacidad-especial-compensar-limitaciones-coche-danado-veces-ocurre-piloto-coche-condiciones-deberian-impedirte-rodar-asi-aun-asi-logran-rendimiento-extraordinario.html"
+      "fecha": "2026-10-29T16:51:10+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261029/1004244678/barca-activa-operacion-central.html"
+    },
+    {
+      "titular": "Alfonso Cabello sigue imbatible: ¡campeón del mundo por octava vez!",
+      "medios": [
+        "Marca"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-29T20:21:41+02:00",
+      "enlace": "https://www.marca.com/paralimpicos/2026/10/29/alfonso-cabello-sigue-imbatible-campeon-mundo-octava-vez.html"
+    },
+    {
+      "titular": "Así han quedado todos los resultados de la jornada copera de este jueves",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-29T22:08:20+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/copa-del-rey/20261029/1004244713/copa-del-rey-futbol-ronda-1-hoy-en-directo-ext-pau.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 20,
+    "antiguedad_minima_min": 33,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 85,
         "error": null,
-        "antiguedad_min": 20,
+        "antiguedad_min": 282,
         "descartados_por_gancho": 5
       },
       {
@@ -99,9 +99,9 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 137,
+        "items": 138,
         "error": null,
-        "antiguedad_min": 21,
+        "antiguedad_min": 33,
         "descartados_por_gancho": 5
       },
       {
