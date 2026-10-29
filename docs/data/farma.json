@@ -1,8 +1,8 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "ultimas",
-  "generado": "2026-10-28T22:07:34+02:00",
+  "modo": "portadas",
+  "generado": "2026-10-29T02:08:51+02:00",
   "titulares": [
     {
       "titular": "El Consejo de Gobernanza de la ETS se reunirá por primera vez el 3 de noviembre",
@@ -14,22 +14,13 @@
       "enlace": "https://diariofarma.com/2026/10/28/el-consejo-de-gobernanza-de-la-ets-se-reunira-por-primera-vez-el-3-de-noviembre"
     },
     {
-      "titular": "La personalización de tratamientos marca el cambio de paradigma en alergias alimentarias",
+      "titular": "Convenio de farmacia: las puertas que abre el acercamiento salarial",
       "medios": [
-        "Diariofarma"
+        "El Global"
       ],
       "consenso": 1,
-      "fecha": "2026-10-28T21:21:06+02:00",
-      "enlace": "https://diariofarma.com/2026/10/28/la-personalizacion-de-tratamientos-marca-el-cambio-de-paradigma-en-alergias-alimentarias"
-    },
-    {
-      "titular": "El Summa 112 trabaja con los supervivientes del accidente: \"Hay más bloqueo que síntomas de ansiedad\"",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-28T20:05:42+02:00",
-      "enlace": "https://www.redaccionmedica.com/autonomias/madrid/20261028/el-summa-trabaja-con-los-supervivientes-del-accidente-hay-mas-bloqueo-que-sintomas-de-ansiedad/363672_0.html"
+      "fecha": "2026-10-28T17:58:37+02:00",
+      "enlace": "https://elglobalfarma.com/farmacia/convenio-farmacia-puertas-acercamiento-salarial/"
     },
     {
       "titular": "Las voces de los profesionales sanitarios en la zona cero del accidente de Toledo: \"La fase más delicada es la llegada de los familiares\"",
@@ -41,13 +32,13 @@
       "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20261028/las-voces-de-los-profesionales-sanitarios-en-la-zona-cero-del-accidente-toledo-la-fase-mas-delicada-es-llegada-familiares/363667_0.html"
     },
     {
-      "titular": "Convenio de farmacia: las puertas que abre el acercamiento salarial",
+      "titular": "La personalización de tratamientos marca el cambio de paradigma en alergias alimentarias",
       "medios": [
-        "El Global"
+        "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-10-28T17:58:37+02:00",
-      "enlace": "https://elglobalfarma.com/farmacia/convenio-farmacia-puertas-acercamiento-salarial/"
+      "fecha": "2026-10-28T21:21:06+02:00",
+      "enlace": "https://diariofarma.com/2026/10/28/la-personalizacion-de-tratamientos-marca-el-cambio-de-paradigma-en-alergias-alimentarias"
     },
     {
       "titular": "El COF de Toledo traslada sus condolencias por el accidente ferroviario de Urda y destaca la solidaridad de los vecinos",
@@ -59,7 +50,16 @@
       "enlace": "https://elglobalfarma.com/farmacia/cof-toledo-condolencias-accidente-tren-urda-solidaridad-vecinos/"
     },
     {
-      "titular": "Aelmhu entrega sus galardonesy reclama situar las EE.RR. en la agenda pública",
+      "titular": "El Summa 112 trabaja con los supervivientes del accidente: \"Hay más bloqueo que síntomas de ansiedad\"",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-28T20:05:42+02:00",
+      "enlace": "https://www.redaccionmedica.com/autonomias/madrid/20261028/el-summa-trabaja-con-los-supervivientes-del-accidente-hay-mas-bloqueo-que-sintomas-de-ansiedad/363672_0.html"
+    },
+    {
+      "titular": "Aelmhu entrega sus galardones y reclama situar las EE.RR. en la agenda pública",
       "medios": [
         "Diariofarma"
       ],
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 20,
+    "antiguedad_minima_min": 262,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 20,
+        "antiguedad_min": 262,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 248,
+        "antiguedad_min": 490,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 121,
+        "antiguedad_min": 363,
         "descartados_por_gancho": 0
       },
       {

@@ -1,26 +1,17 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "ultimas",
-  "generado": "2026-10-28T22:07:27+02:00",
+  "modo": "portadas",
+  "generado": "2026-10-29T02:08:44+02:00",
   "titulares": [
     {
-      "titular": "España refuerza sus lazos militares con EE.UU. tras la visita de Robles a West Point",
+      "titular": "Ferrero ya tiene jugador para 2027: \"Ese tipo de tenista con el que todo entrenador sueña\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-28T21:54:38+02:00",
-      "enlace": "https://www.mundodeportivo.com/actualidad/20261028/1004244394/oficial-espana-refuerza-lazos-militares-estados-unidos-visita-margarita-robles-west-point-dml-dct.html"
-    },
-    {
-      "titular": "Tensión entre Vezenkov y Bartzokas en pleno partido: saltan chispas en el banquillo",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-28T21:41:06+02:00",
-      "enlace": "https://www.mundodeportivo.com/baloncesto/euroliga/20261028/1004244396/tension-vezenkov-bartzokas-pleno-partido-saltan-chispas-banquillo.html"
+      "fecha": "2026-10-28T22:48:24+02:00",
+      "enlace": "https://www.mundodeportivo.com/tenis/20261028/1004244416/ferrero-jugador-2027-ese-tipo-tenista-entrenador-suena.html"
     },
     {
       "titular": "Neville tira de la manta en la crisis del United: \"Carrick sentirá asco y repugnancia por sus jugadores\"",
@@ -32,6 +23,15 @@
       "enlace": "https://www.marca.com/futbol/premier-league/2026/10/26/neville-tira-manta-crisis-manchester-united-carrick-sentira-asco-repugnancia-jugadores.html"
     },
     {
+      "titular": "Lamine se solidariza con las víctimas de la tragedia de Urda",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-28T23:03:28+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261028/1004244419/lamine-solidariza-victimas-tragedia-urda.html"
+    },
+    {
       "titular": "La razón que nadie cuenta por la que no debes esperar a fin de año si quieres un coche con 'etiqueta 0'",
       "medios": [
         "Marca"
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/coches-y-motos/consejos/2026/10/26/razon-nadie-cuenta-debes-esperar-ano-quieres-coche-etiqueta-0.html"
     },
     {
-      "titular": "El gesto de Valverde con los afectados de la tragedia de Urda",
+      "titular": "Ya es oficial: Eder Sarabia, nuevo entrenador del Espanyol",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-28T21:40:14+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20261028/1004244395/gesto-valverde-afectados-tragedia-urda.html"
+      "fecha": "2026-10-28T19:40:35+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/rcd-espanyol/20261028/1004244355/oficial-eder-sarabia-nuevo-entrenador-espanyol.html"
     },
     {
-      "titular": "El presidente del Athletic pone en valor a Unai Simón y a Lezama",
+      "titular": "Lula da Silva se impone a Flávio Bolsonaro y es reelecto presidente de Brasil",
       "medios": [
-        "Mundo Deportivo"
+        "Marca"
       ],
       "consenso": 1,
-      "fecha": "2026-10-28T21:38:17+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/athletic-bilbao/20261028/1004244393/presidente-athletic-pone-valor-unai-simon-lezama.html"
+      "fecha": "2026-10-26T09:45:08+02:00",
+      "enlace": "https://www.marca.com/tiramillas/politica/2026/10/26/lula-da-silva-impone-flavio-bolsonaro-reelecto-presidente-brasil.html"
     },
     {
-      "titular": "La psicología explica por qué algunas personas necesitan dormir con la luz apagada",
+      "titular": "6-1: El Barça vuelve a la Champions con una goleada",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-28T21:35:54+02:00",
-      "enlace": "https://www.mundodeportivo.com/pulso/20261028/1004244372/psicologia-dice-personas-necesitan-dormir-oscuridad-completa-no-son-mas-sensibles-necesitar-estimulos-ambientales-descansar-dct.html"
+      "fecha": "2026-10-28T19:17:09+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261028/1004244343/barca-vuelve-champions-goleada.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 12,
+    "antiguedad_minima_min": 57,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 69,
         "error": null,
-        "antiguedad_min": 3619,
+        "antiguedad_min": 3861,
         "descartados_por_gancho": 6
       },
       {
@@ -101,8 +101,8 @@
         "ok": true,
         "items": 137,
         "error": null,
-        "antiguedad_min": 12,
-        "descartados_por_gancho": 7
+        "antiguedad_min": 57,
+        "descartados_por_gancho": 6
       },
       {
         "medio": "Sport",

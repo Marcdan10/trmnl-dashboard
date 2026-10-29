@@ -1,63 +1,9 @@
 {
   "pantalla": "generales",
   "titulo": "Titulares",
-  "modo": "ultimas",
-  "generado": "2026-10-28T22:07:22+02:00",
+  "modo": "portadas",
+  "generado": "2026-10-29T02:08:39+02:00",
   "titulares": [
-    {
-      "titular": "Última hora del accidente de trenes en Toledo, en directo | Al menos 68 muertos en el choque de trenes de alta velocidad en Urda",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-28T22:04:18+02:00",
-      "enlace": "https://elpais.com/espana/2026-10-28/ultima-hora-del-choque-entre-dos-trenes-en-los-yebenes-toledo-en-directo.html"
-    },
-    {
-      "titular": "El controlador de Atocha, al maquinista del AVE: “Desconecte y vuelva a conectar y reanude con marcha normal”",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-28T22:00:05+02:00",
-      "enlace": "https://elpais.com/espana/2026-10-28/el-controlador-de-atocha-al-maquinista-del-ave-desconecte-y-vuelva-a-conectar-y-reanude-con-marcha-normal.html"
-    },
-    {
-      "titular": "Al menos 68 muertos en Toledo en el segundo accidente de AVE en menos de un año",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-28T21:58:24+02:00",
-      "enlace": "https://www.abc.es/espana/accidente-ave-sevilla-madrid-toledo-directo-heridos-20261028094604-di.html"
-    },
-    {
-      "titular": "Los testimonios desde dentro: «Mi hijo vio por dónde se metía la vía atravesando asientos del AVE»",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-28T21:56:58+02:00",
-      "enlace": "https://www.abc.es/espana/castilla-la-mancha/urda-moviliza-heridos-accidente-golpe-segundos-ves-20261028143856-nt.html"
-    },
-    {
-      "titular": "Respeto y dolor en la concentración de Madrid por las víctimas del siniestro en Toledo",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-28T21:34:35+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20261028/11670582/respeto-dolor-concentracion-madrid-victimas-accidente-toledo.html"
-    },
-    {
-      "titular": "El Gobierno decreta tres días de duelo y la precampaña queda en suspenso",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-28T21:27:54+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20261028/11670576/sanchez-decreta-tres-dias-duelo-siniestro-urda-precampana-queda-suspenso.html"
-    },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
       "medios": [
@@ -66,6 +12,60 @@
       "consenso": 1,
       "fecha": "2022-06-10T01:05:00+02:00",
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
+    },
+    {
+      "titular": "Los audios del accidente|El controlador de Atocha, al maquinista del AVE: “Desconecte y vuelva a conectar. Reanude con marcha normal”",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-28T22:00:05+02:00",
+      "enlace": "https://elpais.com/espana/2026-10-28/el-controlador-de-atocha-al-maquinista-del-ave-desconecte-y-vuelva-a-conectar-y-reanude-con-marcha-normal.html"
+    },
+    {
+      "titular": "El choque de dos trenes en Urda, otra tragedia insoportable",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-29T01:05:00+02:00",
+      "enlace": "https://www.lavanguardia.com/vida/20261029/11670595/choque-dos-trenes-urda-tragedia-insoportable.html"
+    },
+    {
+      "titular": "Iryo desmiente a Óscar Puente: su tren no reanudó la marcha porque esperaba instrucciones del centro de control",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-29T01:36:33+02:00",
+      "enlace": "https://www.abc.es/espana/castilla-la-mancha/tren-iryo-reanudo-marcha-esperaba-instrucciones-centro-20261028185441-nt.html"
+    },
+    {
+      "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
+      "medios": [
+        "RTVE"
+      ],
+      "consenso": 1,
+      "fecha": "2022-06-10T00:03:00+02:00",
+      "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
+    },
+    {
+      "titular": "Última hora del accidente de trenes en Toledo, en directo | Al menos 68 muertos en el choque de trenes de alta velocidad en Urda",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-29T00:56:01+02:00",
+      "enlace": "https://elpais.com/espana/2026-10-28/ultima-hora-del-choque-entre-dos-trenes-en-los-yebenes-toledo-en-directo.html"
+    },
+    {
+      "titular": "La caída del sistema de señalización dejó todo en manos del centro de control",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-29T01:05:00+02:00",
+      "enlace": "https://www.lavanguardia.com/vida/20261029/11670613/caida-sistema-senalizacion-dejo-manos-centro-control.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 3,
+    "antiguedad_minima_min": 32,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2306702,
+        "antiguedad_min": 2306943,
         "descartados_por_gancho": 0
       },
       {
@@ -90,7 +90,7 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 403",
+        "error": "HTTP 500",
         "antiguedad_min": null
       },
       {
@@ -99,17 +99,17 @@
         "ok": true,
         "items": 155,
         "error": null,
-        "antiguedad_min": 3,
-        "descartados_por_gancho": 4
+        "antiguedad_min": 71,
+        "descartados_por_gancho": 5
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 146,
+        "items": 145,
         "error": null,
-        "antiguedad_min": 32,
-        "descartados_por_gancho": 13
+        "antiguedad_min": 38,
+        "descartados_por_gancho": 10
       },
       {
         "medio": "ABC",
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 24,
         "error": null,
-        "antiguedad_min": 8,
+        "antiguedad_min": 32,
         "descartados_por_gancho": 1
       }
     ]
