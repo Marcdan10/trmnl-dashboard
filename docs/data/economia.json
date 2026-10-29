@@ -1,71 +1,71 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "portadas",
-  "generado": "2026-10-29T08:08:19+02:00",
+  "modo": "ultimas",
+  "generado": "2026-10-29T15:27:53+02:00",
   "titulares": [
     {
-      "titular": "El factor humano tapa la presión sobre Adif por los retrasos y el deterioro de la seguridad",
+      "titular": "Botín compra acciones de Santander por 3,1 millones de euros",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-29T01:36:34+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/10/29/factor-humano-tapa-presion-sobre-adif-retrasos-deterioro-seguridad.html"
+      "fecha": "2026-10-29T15:20:07+02:00",
+      "enlace": "https://www.expansion.com/empresas/banca/2026/10/29/botin-compra-acciones-santander-3-1-millones-euros.html"
     },
     {
-      "titular": "Un ministro que no garantiza la seguridad ferroviaria debe dimitir",
+      "titular": "El BCE deja los tipos en el 2,5% ante la presión del mercado de deuda",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-29T01:28:11+02:00",
-      "enlace": "https://www.expansion.com/opinion/2026/10/29/ministro-garantiza-seguridad-ferroviaria-debe-dimitir.html"
+      "fecha": "2026-10-29T15:17:14+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/10/29/bce-deja-tipos-2-5-presion-mercado-deuda.html"
     },
     {
-      "titular": "Nueva catástrofe en la alta velocidad con decenas de muertos y heridos",
+      "titular": "El PIB de EEUU acelera al 3,4% y la inflación repunta un 3,6%a las puertas de las 'midterm'",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-29T01:19:24+02:00",
-      "enlace": "https://www.expansion.com/sociedad/2026/10/29/nueva-catastrofe-alta-velocidad-decenas-muertos-heridos.html"
+      "fecha": "2026-10-29T15:00:20+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/10/29/pib-eeuu-acelera-3-4-inflacion-repunta-3-6-puertas-midterm.html"
     },
     {
-      "titular": "El LZB de Siemens, un sistema de señalización viejo a prueba de bombas",
+      "titular": "El beneficio de Kutxabank roza los 639 millones hasta septiembre, un 38,4%",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-29T01:41:02+02:00",
-      "enlace": "https://www.expansion.com/empresas/transporte/2026/10/29/lzb-siemens-sistema-senalizacion-viejo-prueba-bombas.html"
+      "fecha": "2026-10-29T14:12:03+02:00",
+      "enlace": "https://www.expansion.com/pais-vasco/2026/10/29/beneficio-kutxabank-roza-639-millones-septiembre-38-4.html"
     },
     {
-      "titular": "Repsol, Shell y Total arrancan a la UE un plan anticrisis para el petróleo",
+      "titular": "Fluidra gana 154 millones hasta septiembre, un 5,9% menos, y confía en cumplir previsiones",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-29T01:41:38+02:00",
-      "enlace": "https://www.expansion.com/empresas/energia/2026/10/29/repsol-shell-total-arrancan-ue-plan-anticrisis-petroleo.html"
+      "fecha": "2026-10-29T14:07:10+02:00",
+      "enlace": "https://www.expansion.com/catalunya/2026/10/29/fluidra-gana-154-millones-septiembre-5-9-confia-cumplir-previsiones.html"
     },
     {
-      "titular": "¿Habrá descalabro de la Bolsa si los demócratas barren a Trump?",
+      "titular": "Antolin vuelve a extender la negociación con los bonistas para sellar su reestructuración",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-29T02:36:27+02:00",
-      "enlace": "https://www.expansion.com/mercados/el-foco-del-dia/2026/10/29/habra-descalabro-bolsa-democratas-barren-trump.html"
+      "fecha": "2026-10-29T13:46:54+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/10/29/antolin-vuelve-extender-negociacion-bonistas-sellar-reestructuracion.html"
     },
     {
-      "titular": "ING lanza su banca privada con 6.000 clientes de altos patrimonios",
+      "titular": "Armengol (Sabadell): \"Estamos viendo una desaceleración notable en la demanda hipotecaria\"",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-29T01:41:51+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/10/29/ing-lanza-banca-privada-6-000-clientes-altos-patrimonios.html"
+      "fecha": "2026-10-29T13:40:05+02:00",
+      "enlace": "https://www.expansion.com/empresas/banca/2026/10/29/armengol-sabadell-viendo-desaceleracion-notable-demanda-hipotecaria.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 301,
+    "antiguedad_minima_min": 7,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 71,
+        "items": 77,
         "error": null,
-        "antiguedad_min": 301,
+        "antiguedad_min": 7,
         "descartados_por_gancho": 0
       },
       {

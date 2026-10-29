@@ -1,9 +1,63 @@
 {
   "pantalla": "generales",
   "titulo": "Titulares",
-  "modo": "portadas",
-  "generado": "2026-10-29T08:08:16+02:00",
+  "modo": "ultimas",
+  "generado": "2026-10-29T15:27:47+02:00",
   "titulares": [
+    {
+      "titular": "Accidente de trenes en Toledo: última hora y reacciones en directo | Asciende a 69 el número de fallecidos en el accidente ferroviario de Urda",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-29T15:23:00+02:00",
+      "enlace": "https://elpais.com/espana/2026-10-29/ultima-hora-y-reacciones-tras-el-accidente-de-trenes-de-urda-toledo-en-directo.html"
+    },
+    {
+      "titular": "El juicio por el mayor brote de listeria de Europa se aplaza tres semanas más a la espera de los informes médicos de cinco afectados",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-29T15:20:54+02:00",
+      "enlace": "https://elpais.com/sociedad/2026-10-29/el-juicio-por-el-mayor-brote-de-listeria-de-europa-se-aplaza-tres-semanas-mas-a-la-espera-de-los-informes-medicos-de-cinco-afectados.html"
+    },
+    {
+      "titular": "Sánchez promete «esclarecer hasta el último detalle» la tragedia que suma ya 69 fallecidos",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-29T15:15:25+02:00",
+      "enlace": "https://www.abc.es/espana/castilla-la-mancha/toledo/sanchez-promete-esclarecer-ultimo-detalle-tragedia-ferroviaria-20261029111212-nt.html"
+    },
+    {
+      "titular": "Feijóo: «Las responsabilidades políticas no son opcionales»",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-29T15:11:38+02:00",
+      "enlace": "https://www.abc.es/espana/castilla-la-mancha/feijoo-puente-dia-despues-accidente-responsabilidades-politicas-20261029134255-nt.html"
+    },
+    {
+      "titular": "Ingrid de Noruega rinde homenaje a Mette-Marit en su debut en solitario como heredera",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-29T13:11:16+02:00",
+      "enlace": "https://www.lavanguardia.com/gente/20261029/11671075/ingrid-noruega-rinde-homenaje-mette-marit-debut-solitario-heredera.html"
+    },
+    {
+      "titular": "Ascienden a 69 los muertos en el accidente de trenes en Toledo",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-29T13:08:11+02:00",
+      "enlace": "https://www.lavanguardia.com/vida/20261029/11670831/choque-de-trenes-toledo-iryo-toledo-ave-madrid-andalucia-ultima-hora-hoy-en-directo.html"
+    },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
       "medios": [
@@ -12,60 +66,6 @@
       "consenso": 1,
       "fecha": "2022-06-10T01:05:00+02:00",
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
-    },
-    {
-      "titular": "¿Por qué chocaron los trenes? Tres fallos catastróficos que han costado 68 vidas",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-29T06:30:01+02:00",
-      "enlace": "https://elpais.com/espana/2026-10-29/por-que-chocaron-los-trenes-tres-fallos-catastroficos-que-han-costado-68-vidas.html"
-    },
-    {
-      "titular": "El choque de dos trenes en Urda, otra tragedia insoportable",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-29T01:05:00+02:00",
-      "enlace": "https://www.lavanguardia.com/vida/20261029/11670595/choque-dos-trenes-urda-tragedia-insoportable.html"
-    },
-    {
-      "titular": "El accidente dinamita los planes de campaña del Gobierno para el 29N: «Es una catástrofe»",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-29T08:04:15+02:00",
-      "enlace": "https://www.abc.es/espana/accidente-urda-noquea-gobierno-catastrofe-20261029012840-nt.html"
-    },
-    {
-      "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
-      "medios": [
-        "RTVE"
-      ],
-      "consenso": 1,
-      "fecha": "2022-06-10T00:03:00+02:00",
-      "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
-    },
-    {
-      "titular": "Un error humano a las 8.36: la cadena de fallos y decisiones con las que el Gobierno explica la nueva tragedia en la línea Madrid-Sevilla",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-29T06:30:01+02:00",
-      "enlace": "https://elpais.com/espana/2026-10-29/un-error-humano-a-las-836-la-cadena-de-fallos-y-decisiones-con-las-que-el-gobierno-explica-la-nueva-tragedia-en-la-linea-madrid-sevilla.html"
-    },
-    {
-      "titular": "La caída del sistema de señalización dejó todo en manos del centro de control",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-29T01:05:00+02:00",
-      "enlace": "https://www.lavanguardia.com/vida/20261029/11670613/caida-sistema-senalizacion-dejo-manos-centro-control.html"
     }
   ],
   "salud": {
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2307303,
+        "antiguedad_min": 2307742,
         "descartados_por_gancho": 0
       },
       {
@@ -90,35 +90,35 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 500",
+        "error": "HTTP 403",
         "antiguedad_min": null
       },
       {
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 133,
+        "items": 145,
         "error": null,
-        "antiguedad_min": 8,
+        "antiguedad_min": 4,
         "descartados_por_gancho": 7
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 146,
+        "items": 138,
         "error": null,
-        "antiguedad_min": 56,
-        "descartados_por_gancho": 11
+        "antiguedad_min": 136,
+        "descartados_por_gancho": 12
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 23,
+        "items": 24,
         "error": null,
-        "antiguedad_min": 4,
-        "descartados_por_gancho": 2
+        "antiguedad_min": 12,
+        "descartados_por_gancho": 1
       }
     ]
   }
