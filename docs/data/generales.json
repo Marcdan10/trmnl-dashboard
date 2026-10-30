@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-10-30T04:47:21+02:00",
+  "generado": "2026-10-30T11:25:56+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -14,31 +14,31 @@
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
     },
     {
-      "titular": "El primer informe técnico del accidente estima que el AVE circulaba de 160 a 200 kilómetros por hora cuando chocó en Urda",
+      "titular": "Los controladores de Atocha ordenaron seguir el protocolo equivocado antes del choque entre el AVE y el Iryo: “Me estaba liando”",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-29T22:53:30+02:00",
-      "enlace": "https://elpais.com/espana/2026-10-29/el-primer-informe-tecnico-del-accidente-fija-en-160-a-200-kilometros-por-hora-la-velocidad-del-ave-que-choco-en-urda.html"
+      "fecha": "2026-10-30T06:30:01+02:00",
+      "enlace": "https://elpais.com/espana/2026-10-30/los-controladores-de-atocha-ordenaron-seguir-el-protocolo-equivocado-antes-del-choque-entre-el-ave-y-el-iryo-me-estaba-liando.html"
     },
     {
-      "titular": "La filtración de los audios del choque de Urda pone fin a la tregua política",
+      "titular": "Falta de personal, de experiencia y bajo más presión: así se trabaja en los centros de control de Adif",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-10-29T20:29:15+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20261029/11671476/filtracion-audios-choque-urda-pone-tregua-politica.html"
+      "fecha": "2026-10-30T07:00:00+02:00",
+      "enlace": "https://www.lavanguardia.com/vida/20261030/11671578/centros-control-adif-sufren-falta-personal-experiencia.html"
     },
     {
-      "titular": "María Corina Machado: «Venezuela necesita justicia y no impunidad»",
+      "titular": "Los Mossos detienen a un menor vinculado con los canales de Blocus relacionados con los saqueos en Barcelona",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-10-30T04:00:21+02:00",
-      "enlace": "https://www.abc.es/internacional/sigue-directo-rueda-prensa-maria-corina-machado-20261029164709-nt.html"
+      "fecha": "2026-10-30T11:04:47+02:00",
+      "enlace": "https://www.abc.es/espana/cataluna/mossos-detienen-menor-vinculado-canales-blocus-relacionados-20261030094117-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -50,22 +50,22 @@
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
     },
     {
-      "titular": "El consejero delegado de Iryo advirtió de los problemas del sistema LZB en sus trenes tres semanas antes del accidente de Urda",
+      "titular": "Las llamadas entre Atocha y los maquinistas antes del choque de Urda, explicadas frase a frase",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-29T14:50:06+02:00",
-      "enlace": "https://elpais.com/economia/2026-10-29/el-consejero-delegado-de-iryo-advirtio-de-los-problemas-del-sistema-lzb-en-sus-trenes-tres-semanas-antes-del-accidente-de-urda.html"
+      "fecha": "2026-10-30T06:30:00+02:00",
+      "enlace": "https://elpais.com/espana/2026-10-30/las-llamadas-entre-atocha-y-los-maquinistas-explicadas-paso-a-paso.html"
     },
     {
-      "titular": "Cronología de una tragedia plagada de errores",
+      "titular": "¿Quién controla la circulación de los trenes en España? Los requisitos, sueldo y la formación exigidos por Adif",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-10-29T14:52:08+02:00",
-      "enlace": "https://www.lavanguardia.com/vida/20261029/11671139/cronologia-tragedia-plagada-errores.html"
+      "fecha": "2026-10-29T14:23:23+02:00",
+      "enlace": "https://www.lavanguardia.com/vida/20261029/11671129/que-requisitos-piden-controladores-ferroviarios.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 47,
+    "antiguedad_minima_min": 20,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2308542,
+        "antiguedad_min": 2308940,
         "descartados_por_gancho": 0
       },
       {
@@ -97,28 +97,28 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 147,
+        "items": 144,
         "error": null,
-        "antiguedad_min": 150,
-        "descartados_por_gancho": 5
+        "antiguedad_min": 20,
+        "descartados_por_gancho": 9
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 144,
+        "items": 139,
         "error": null,
-        "antiguedad_min": 222,
-        "descartados_por_gancho": 14
+        "antiguedad_min": 46,
+        "descartados_por_gancho": 15
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 23,
+        "items": 24,
         "error": null,
-        "antiguedad_min": 47,
-        "descartados_por_gancho": 2
+        "antiguedad_min": 21,
+        "descartados_por_gancho": 1
       }
     ]
   }

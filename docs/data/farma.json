@@ -2,8 +2,35 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "portadas",
-  "generado": "2026-10-30T04:47:33+02:00",
+  "generado": "2026-10-30T11:26:06+02:00",
   "titulares": [
+    {
+      "titular": "29N: Diariofarma reúne a PP, PSOE, Vox y Frente Amplio para debatir sobre sanidad",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-30T10:40:21+02:00",
+      "enlace": "https://diariofarma.com/2026/10/30/29n-diariofarma-reune-a-pp-psoe-vox-y-frente-amplio-para-debatir-sobre-sanidad"
+    },
+    {
+      "titular": "Pey (anefp) reclama un marco común en Europa para facilitar el cambio de medicamentos con receta a medicamentos sin receta",
+      "medios": [
+        "El Global"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-30T09:54:24+02:00",
+      "enlace": "https://elglobalfarma.com/farmacia/autocuidado/pey-anefp-marco-comun-europa-facilitar-cambio-medicamentos-receta-medicamentos-receta/"
+    },
+    {
+      "titular": "Médicos, farmacéuticos y altos cargos de la sanidad autonómica protagonizan las listas del PP a las Cortes Generales",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-30T06:02:00+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/20261030/medicos-farmaceuticos-altos-cargos-de-la-sanidad-autonomica-protagonizan-las-listas-del-pp-cortes-generales/363635_0.html"
+    },
     {
       "titular": "La Comisión de Sanidad afronta un gran relevo: el 65% de sus integrantes no repetirá",
       "medios": [
@@ -14,58 +41,31 @@
       "enlace": "https://diariofarma.com/2026/10/29/la-comision-de-sanidad-afronta-un-gran-relevo-el-65-de-sus-integrantes-no-repetira"
     },
     {
-      "titular": "El Grupo PharmaMar presenta resultados financieros de los primeros nueve meses de 2026",
+      "titular": "Del mostrador al domicilio: la farmacia busca regular su atención a los pacientes vulnerables",
       "medios": [
         "El Global"
       ],
       "consenso": 1,
-      "fecha": "2026-10-29T19:06:09+02:00",
-      "enlace": "https://elglobalfarma.com/industria/pharmamar-resultados-financieros-nueve-meses-2026/"
+      "fecha": "2026-10-30T09:52:57+02:00",
+      "enlace": "https://elglobalfarma.com/farmacia/mostrador-domicilio-farmacia-regular-atencion-vulnerables/"
     },
     {
-      "titular": "Muere a los 59 años Fátima Báñez: la economista que fue ministra de Sanidad interina por unos meses",
+      "titular": "Cinco dosis y hasta 150.000 euros por paciente: las barreras para acceder a la terapia génica del síndrome CTNNB1",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-10-29T15:37:22+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/20261029/muere-los-anos-fatima-banez-la-huella-sanitaria-de-una-ministra-dialogante-que-defendio-el-estado-bienestar/363656_0.html"
+      "fecha": "2026-10-30T06:05:00+02:00",
+      "enlace": "https://www.redaccionmedica.com/innovacion/20261030/cinco-dosis-hasta-euros-por-paciente-las-barreras-para-acceder-la-terapia-genica-del-sindrome-ctnnb1/363615_0.html"
     },
     {
-      "titular": "La vacuna de rotavirus reduce un 75,8 % las muertes pero afronta inequidad global",
+      "titular": "La vacuna de rotavirus reduce un 75,8% las muertes pero afronta inequidad global",
       "medios": [
         "Diariofarma"
       ],
       "consenso": 1,
       "fecha": "2026-10-29T18:51:27+02:00",
       "enlace": "https://diariofarma.com/2026/10/29/la-vacuna-de-rotavirus-reduce-un-758-las-muertes-pero-afronta-inequidad-global"
-    },
-    {
-      "titular": "El sector farmacéutico despide a Fátima Báñez, exministra de Sanidad en funciones, fallecida en el accidente de tren de Toledo",
-      "medios": [
-        "El Global"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-29T17:17:19+02:00",
-      "enlace": "https://elglobalfarma.com/industria/sector-farmaceutico-despide-fatima-banez-fallecida-accidente-tren-toledo/"
-    },
-    {
-      "titular": "La salud en todas las políticas: una lección aún pendiente tras Urda",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-29T13:31:13+02:00",
-      "enlace": "https://www.redaccionmedica.com/opinion/20261029/la-salud-en-todas-las-politicas-una-leccion-aun-pendiente-tras-urda/363728_14.html"
-    },
-    {
-      "titular": "Sandoz alerta de que la amoxicilina puede quedar fuera de la lista europea de críticos",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-29T18:38:00+02:00",
-      "enlace": "https://diariofarma.com/2026/10/29/sandoz-alerta-de-que-la-amoxicilina-puede-quedar-fuera-de-la-lista-europea-de-criticos"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 491,
+    "antiguedad_minima_min": 12,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 491,
+        "antiguedad_min": 45,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 581,
+        "antiguedad_min": 91,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 558,
+        "antiguedad_min": 12,
         "descartados_por_gancho": 0
       },
       {

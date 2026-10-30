@@ -2,8 +2,17 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "portadas",
-  "generado": "2026-10-30T04:47:24+02:00",
+  "generado": "2026-10-30T11:25:59+02:00",
   "titulares": [
+    {
+      "titular": "La inflación se mantiene en el 4,9% en octubre pese al descenso del precio del combustible",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-30T10:21:49+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/10/30/inflacion-mantiene-4-9-octubre-descenso-precio-combustible.html"
+    },
     {
       "titular": "Adif y Renfe \"necesitan despolitizar y profesionalizar la gestión\"",
       "medios": [
@@ -14,22 +23,13 @@
       "enlace": "https://www.expansion.com/empresas/transporte/2026/10/30/adif-renfe-necesitan-despolitizar-profesionalizar-gestion.html"
     },
     {
-      "titular": "Críticas en tromba contra el relato del \"error humano\" del Gobierno",
+      "titular": "Los Cosmen y Asterion formalizan la opa sobre Mobico, valorada en 2.780 millones",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-29T22:27:03+02:00",
-      "enlace": "https://www.expansion.com/economia/politica/2026/10/29/criticas-tromba-relato-error-humano-gobierno.html"
-    },
-    {
-      "titular": "Los accidentes ferroviarios se disparan ante los recortes en el mantenimiento de la red",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-30T01:36:33+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/10/30/accidentes-ferroviarios-disparan-recortes-mantenimiento-red.html"
+      "fecha": "2026-10-30T10:47:23+02:00",
+      "enlace": "https://www.expansion.com/empresas/transporte/2026/10/30/cosmen-asterion-formalizan-opa-sobre-mobico-valorada-2-780-millones-euros.html"
     },
     {
       "titular": "Un desastre que sólo tiene una salida",
@@ -41,31 +41,31 @@
       "enlace": "https://www.expansion.com/opinion/2026/10/30/desastre-salida.html"
     },
     {
-      "titular": "Adiós a Fátima Báñez, la ministra que sentó las bases de la recuperación del empleo tras la Gran Crisis",
+      "titular": "Binance paraliza el intercambio de criptomonedas tras un hackeo de miles de millones de dólares",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-29T15:37:18+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/10/29/adios-fatima-banez-ministra-sento-bases-recuperacion-empleo-gran-crisis.html"
+      "fecha": "2026-10-30T05:11:47+02:00",
+      "enlace": "https://www.expansion.com/mercados/criptomonedas/2026/10/30/binance-paraliza-intercambio-criptomonedas-hackeo-miles-millones-dolares.html"
     },
     {
-      "titular": "Anthropic alerta: \"Ni toda el sector asegurador\" puede cubrir el riesgo de su IA",
+      "titular": "Intel y Amazon desatan otra oleada bajista en las tecnológicas",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-30T01:34:30+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/10/30/anthropic-alerta-toda-sector-asegurador-cubrir-riesgo-ia.html"
+      "fecha": "2026-10-30T09:58:44+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/10/30/intel-amazon-desatan-oleada-bajista-tecnologicas.html"
     },
     {
-      "titular": "De Cos, el favorito de los expertos para suceder a Lagarde",
+      "titular": "Los resultados debilitan al Ibex en medio de otra tormenta tecnológica",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-30T01:34:21+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/10/30/cos-favorito-expertos-suceder-lagarde.html"
+      "fecha": "2026-10-30T08:56:48+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/10/30/ibex-intenta-resistir-tormenta-tecnologica.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 145,
+    "antiguedad_minima_min": 8,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 69,
+        "items": 75,
         "error": null,
-        "antiguedad_min": 145,
+        "antiguedad_min": 8,
         "descartados_por_gancho": 1
       },
       {
@@ -118,7 +118,7 @@
         "url": "https://www.ine.es/dyngs/Prensa/rss.htm",
         "ok": false,
         "items": 0,
-        "error": "HTTP 404",
+        "error": "HTTP 503",
         "antiguedad_min": null
       },
       {

@@ -2,16 +2,16 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-10-30T04:47:26+02:00",
+  "generado": "2026-10-30T11:26:01+02:00",
   "titulares": [
     {
-      "titular": "0-8: Paseo del Barça en Dinamarca",
+      "titular": "Bastoni, abierto a escuchar al Barça",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-29T23:52:27+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261029/1004244826/paseo-barca-dinamarca.html"
+      "fecha": "2026-10-30T08:00:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261030/1004244721/bastoni-abierto-escuchar-barca.html"
     },
     {
       "titular": "Antonelli empieza enfermo el GP más importante de su vida",
@@ -23,13 +23,13 @@
       "enlace": "https://www.marca.com/motor/formula1/gp-mexico/2026/10/29/antonelli-empieza-enfermo-gp-importante-vida.html"
     },
     {
-      "titular": "Nuevo tour por el mundo para Raphinha con Brasil",
+      "titular": "El Barça activa la 'operación central'",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-29T20:30:59+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261029/1004244773/nuevo-tour-mundo-raphinha-brasil.html"
+      "fecha": "2026-10-30T08:00:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261030/1004244678/barca-activa-operacion-central.html"
     },
     {
       "titular": "Lorenzo Brown aún reclama el anillo de campeón de la NBA de 2019",
@@ -41,13 +41,13 @@
       "enlace": "https://www.marca.com/baloncesto/nba/2026/10/29/lorenzo-brown-aun-reclama-anillo-campeon-nba-2019.html"
     },
     {
-      "titular": "El Barça activa la 'operación central'",
+      "titular": "Márquez, inaccesible en el time attack, pese a una caída en Sepang; Martín se dosifica",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-29T16:51:10+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261029/1004244678/barca-activa-operacion-central.html"
+      "fecha": "2026-10-30T10:14:02+02:00",
+      "enlace": "https://www.mundodeportivo.com/motor/motogp/20261030/1004244906/marc-marquez-inaccesible-time-attack-pese-caida-sepang-martin-dosifica-abandona-tres-giros.html"
     },
     {
       "titular": "Alfonso Cabello sigue imbatible: ¡campeón del mundo por octava vez!",
@@ -59,13 +59,13 @@
       "enlace": "https://www.marca.com/paralimpicos/2026/10/29/alfonso-cabello-sigue-imbatible-campeon-mundo-octava-vez.html"
     },
     {
-      "titular": "Así han quedado todos los resultados de la jornada copera de este jueves",
+      "titular": "Hansi Flick se hace instagramer",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-29T22:08:20+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/copa-del-rey/20261029/1004244713/copa-del-rey-futbol-ronda-1-hoy-en-directo-ext-pau.html"
+      "fecha": "2026-10-30T08:00:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261030/1004244801/hansi-flick-instagramer.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 224,
+    "antiguedad_minima_min": 49,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 85,
         "error": null,
-        "antiguedad_min": 481,
+        "antiguedad_min": 880,
         "descartados_por_gancho": 5
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 139,
+        "items": 131,
         "error": null,
-        "antiguedad_min": 224,
-        "descartados_por_gancho": 5
+        "antiguedad_min": 49,
+        "descartados_por_gancho": 6
       },
       {
         "medio": "Sport",
