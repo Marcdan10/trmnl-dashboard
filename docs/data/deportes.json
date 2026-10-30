@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-10-30T18:07:53+02:00",
+  "generado": "2026-10-30T22:57:08+02:00",
   "titulares": [
     {
-      "titular": "Los Mossos blindarán el centro de BCN con controles y registros para evitar saqueos",
+      "titular": "Monchi vuelve a hablar sobre el despido de Manolo",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-30T17:48:30+02:00",
-      "enlace": "https://www.mundodeportivo.com/actualidad/20261030/1004245093/alerta-maxima-barcelona-mossos-blindaran-centro-ciudad-controles-registros-noche-sabado-evitar-saqueos-blocus-dct.html"
+      "fecha": "2026-10-30T22:16:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/rcd-espanyol/20261030/1004245184/monchi-cesar-entrenador-nunca-agradable-persona-valor-manolo-gonzalez.html"
     },
     {
-      "titular": "La Penya se refuerza con Nikola Radicevic",
+      "titular": "Se ha estrenado hoy en Netflix y promete arrasar: la nueva película española de acción con Luis Zahera",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-30T17:46:35+02:00",
-      "enlace": "https://www.mundodeportivo.com/baloncesto/acb/20261030/1004245096/penya-refuerza-nikola-radicevic.html"
+      "fecha": "2026-10-30T21:56:10+02:00",
+      "enlace": "https://www.mundodeportivo.com/elotromundo/television/20261030/1004245180/estrenado-hoy-netflix-promete-arrasar-semana-nuevo-estreno-espanol-accion-luis-zahera-tvp-dct.html"
     },
     {
       "titular": "Hansi Flick: \"Siempre buscaremos lo mejor para el equipo\"",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/copa-rey/2026/10/30/momento-historico-hijo-santi-cazorla-debuta-real-oviedo-copa-rey-video.html"
     },
     {
-      "titular": "Guillem Víctor, una década como culé y un sueño a punto de cumplirse",
+      "titular": "Hakimi lidera la remontada del PSG ante el colista con un 'hat-trick'",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-30T17:45:13+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261030/1004245075/guillem-victor-decada-cule-sueno-cumplir.html"
+      "fecha": "2026-10-30T21:54:08+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/ligue-1/20261030/1004245127/le-havre-psg.html"
     },
     {
-      "titular": "Oyarzabal recibe el premio de la Federación Guipuzcoana de Fútbol por ser campeón del mundo",
+      "titular": "Fernando Alonso empieza con buen pie en México; Leclerc lidera",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-30T17:44:23+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-sociedad/20261030/1004245095/oyarzabal-recibe-premio-federacion-guipuzcoana-futbol-campeon-mundo.html"
+      "fecha": "2026-10-30T21:44:28+02:00",
+      "enlace": "https://www.mundodeportivo.com/motor/f1/20261030/1004245179/fernando-alonso-empieza-buen-pie-mexico-leclerc-lidera.html"
     },
     {
-      "titular": "Alcaraz - Paul, cuartos de final, en directo",
+      "titular": "Desvelados los votos del Balón de Oro: Kane ganó a Mbappé por la mínima",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-30T17:43:26+02:00",
-      "enlace": "https://www.mundodeportivo.com/tenis/20261030/1004244824/alcaraz-paul-directo-atp-500-viena-2026-cuartos-final.html"
+      "fecha": "2026-10-30T21:42:43+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261030/1004245178/desvelados-votos-balon-oro-kane-gano-mbappe-minima.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 19,
+    "antiguedad_minima_min": 41,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 87,
         "error": null,
-        "antiguedad_min": 163,
+        "antiguedad_min": 452,
         "descartados_por_gancho": 8
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 136,
+        "items": 133,
         "error": null,
-        "antiguedad_min": 19,
-        "descartados_por_gancho": 6
+        "antiguedad_min": 41,
+        "descartados_por_gancho": 8
       },
       {
         "medio": "Sport",

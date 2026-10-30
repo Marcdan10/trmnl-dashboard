@@ -2,8 +2,53 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-10-30T18:07:51+02:00",
+  "generado": "2026-10-30T22:57:06+02:00",
   "titulares": [
+    {
+      "titular": "Anthropic podría no obtener el grado de inversión tras su OPV, según Blackstone",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-30T19:52:32+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/10/30/anthropic-podria-obtener-calificacion-grado-inversion-opv.html"
+    },
+    {
+      "titular": "Bankinter Investment lanza una oferta por la Socimi hotelera Atom por 510 millones",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-30T19:43:23+02:00",
+      "enlace": "https://www.expansion.com/inmobiliario/mercado-inmobiliario/2026/10/30/bankiter-lanza-oferta-comprar-socimi-hotelera-atom-fondo-inversion-libre.html"
+    },
+    {
+      "titular": "Iberia, Air Europa, Ryanair, Volotea y Vueling refuerzan sus rutas con Andalucía tras Urda",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-30T19:39:26+02:00",
+      "enlace": "https://www.expansion.com/empresas/transporte/2026/10/30/iberia-air-europa-ryanair-volotea-vueling-refuerzan-rutas-andalucia-urda.html"
+    },
+    {
+      "titular": "Los líderes de la UE debatirán en noviembre el sustituto de Lagarde al frente del BCE",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-30T18:26:55+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/10/30/lideres-ue-debatiran-noviembre-sustituto-lagarde-frente-bce.html"
+    },
+    {
+      "titular": "Las grandes petroleras duplican el beneficio global, hasta 118.860 millones de dólares",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-30T18:02:06+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/10/30/grandes-petroleras-duplican-beneficio-global-118-860-millones-dolares.html"
+    },
     {
       "titular": "¿Podrá Belén Garijo revitalizar la cartera de productos en desarrollo de Sanofi?",
       "medios": [
@@ -21,51 +66,6 @@
       "consenso": 1,
       "fecha": "2026-10-30T17:09:19+02:00",
       "enlace": "https://www.expansion.com/economia/financial-times/2026/10/30/gadi-eisenkot-exjefe-ejercito-israeli-desafia-netanyahu.html"
-    },
-    {
-      "titular": "Acusan a Corea del Norte de estar detrás del hackeo a Binance",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-30T15:56:42+02:00",
-      "enlace": "https://www.expansion.com/mercados/criptomonedas/2026/10/30/acusan-corea-norte-detras-hackeo-binance.html"
-    },
-    {
-      "titular": "El déficit público alcanza los 31.183 millones entre enero y agosto, un 7% más",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-30T15:55:00+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/10/30/deficit-publico-alcanza-31-183-millones-enero-agosto-7.html"
-    },
-    {
-      "titular": "Amper cierra la compra de Teltronic y concreta la entrada de Nazca en su capital",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-30T15:51:23+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/10/30/amper-cierra-compra-teltronic-concreta-entrada-nazca-capital.html"
-    },
-    {
-      "titular": "Spotify prevé lanzar un servicio de remezcla de música mediante IA a principios del próximo año",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-30T15:42:16+02:00",
-      "enlace": "https://www.expansion.com/economia/financial-times/2026/10/30/spotify-preve-lanzar-servicio-remezcla-musica-mediante-ia-principios-proximo-ano.html"
-    },
-    {
-      "titular": "El Gobierno se plantea cortar el servicio para renovar la línea del tren Madrid-Barcelona",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-30T14:32:57+02:00",
-      "enlace": "https://www.expansion.com/empresas/transporte/2026/10/30/gobierno-plantea-cortar-servicio-renovar-linea-ave-madrid-barcelona.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 33,
+    "antiguedad_minima_min": 184,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 81,
+        "items": 82,
         "error": null,
-        "antiguedad_min": 33,
+        "antiguedad_min": 184,
         "descartados_por_gancho": 2
       },
       {

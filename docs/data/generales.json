@@ -2,61 +2,61 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-10-30T18:07:47+02:00",
+  "generado": "2026-10-30T22:57:01+02:00",
   "titulares": [
     {
-      "titular": "Imputado el agente del ICE que atropelló a un inmigrante mexicano en Houston mientras buscaba a un hombre fallecido",
+      "titular": "El cruce de vetos entre Rusia y EE UU deja en el aire la misión de la ONU en el Sáhara",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-30T17:56:02+02:00",
-      "enlace": "https://elpais.com/us/migracion/2026-10-30/imputado-el-agente-del-ice-que-atropello-a-un-inmigrante-mexicano-en-houston-mientras-buscaba-a-un-hombre-fallecido.html"
+      "fecha": "2026-10-30T22:49:16+02:00",
+      "enlace": "https://elpais.com/internacional/2026-10-30/el-cruce-de-vetos-entre-rusia-y-ee-uu-deja-en-el-aire-la-mision-de-la-onu-en-el-sahara.html"
     },
     {
-      "titular": "Tommy Paul - Carlos Alcaraz en el Torneo de Viena, en directo | El murciano cobra ventaja en el encuentro de cuartos",
+      "titular": "Intel sufre su mayor caída en Bolsa desde 1973: se hunde un 28,58% quemando 130.000 millones de dólares de capitalización",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-30T17:52:20+02:00",
-      "enlace": "https://elpais.com/deportes/tenis/2026-10-30/carlos-alcaraz-tommy-paul-en-el-torneo-de-viena-en-directo.html"
+      "fecha": "2026-10-30T22:37:47+02:00",
+      "enlace": "https://cincodias.elpais.com/companias/2026-10-30/intel-pierde-su-magia-se-desploma-un-25-en-bolsa-tras-lanzar-previsiones-decepcionantes.html"
     },
     {
-      "titular": "Puente ve normales hasta 170 caídas del sistema LZB en 2026 y 13 incidencias en el tramo accidentado de Urda",
+      "titular": "Doloroso adiós a Fátima Báñez en una Huelva herida por las tragedias del tren",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-10-30T17:47:19+02:00",
-      "enlace": "https://www.abc.es/espana/puente-admite-170-caidas-sistema-lzb-2026-20261030162040-nt.html"
+      "fecha": "2026-10-30T22:36:56+02:00",
+      "enlace": "https://www.abc.es/espana/andalucia/huelva/doloroso-adios-fatima-banez-huelva-herida-tragedias-20261030205823-nts.html"
     },
     {
-      "titular": "Feijóo apunta al Gobierno por el accidente de Urda: «Si no dimiten ellos, les dimitiremos en las urnas»",
+      "titular": "Desvelan los votos del Balón de Oro 2026: solo 28 puntos entre Kane y Mbappé",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-10-30T17:45:13+02:00",
-      "enlace": "https://www.abc.es/espana/feijoo-apunta-gobierno-accidente-urda-dimiten-dimitiremos-20261030133340-nt.html"
+      "fecha": "2026-10-30T22:24:18+02:00",
+      "enlace": "https://www.abc.es/deportes/futbol/desvelan-votos-balon-oro-2026-solo-puntos-20261030205918-nt.html"
     },
     {
-      "titular": "Intel se desploma un 30%, su peor caída desde 1974, por sus malos resultados",
+      "titular": "Desmantelada una plantación de marihuana en una casa de Gavà frente a una escuela",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-10-30T17:11:18+02:00",
-      "enlace": "https://www.lavanguardia.com/economia/20261030/11672278/intel-desploma-30-peor-caida-1974-malos-resultados.html"
+      "fecha": "2026-10-30T20:38:33+02:00",
+      "enlace": "https://www.lavanguardia.com/local/baix-llobregat/20261030/11672399/desmantelada-plantacion-marihuana-casa-gava-frente-escuela.html"
     },
     {
-      "titular": "Detenida por practicar una liposucción integral sin titulación en un piso de l'Hospitalet",
+      "titular": "El Gobierno sopesa cortar la línea Madrid-Barcelona hasta dos años por las obras de mejora",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-10-30T17:01:34+02:00",
-      "enlace": "https://www.lavanguardia.com/local/baix-llobregat/20261030/11672271/detenida-practicar-liposuccion-integral-titulacion-piso-l-hospitalet.html"
+      "fecha": "2026-10-30T20:38:03+02:00",
+      "enlace": "https://www.lavanguardia.com/vida/20261030/11672402/gobierno-sopesa-cortar-linea-madrid-barcelona-dos-anos-obras-mejora.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 11,
+    "antiguedad_minima_min": 7,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2309342,
+        "antiguedad_min": 2309631,
         "descartados_por_gancho": 0
       },
       {
@@ -90,7 +90,7 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 403",
+        "error": "HTTP 500",
         "antiguedad_min": null
       },
       {
@@ -99,17 +99,17 @@
         "ok": true,
         "items": 147,
         "error": null,
-        "antiguedad_min": 11,
+        "antiguedad_min": 7,
         "descartados_por_gancho": 4
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 146,
+        "items": 148,
         "error": null,
-        "antiguedad_min": 56,
-        "descartados_por_gancho": 16
+        "antiguedad_min": 138,
+        "descartados_por_gancho": 15
       },
       {
         "medio": "ABC",
