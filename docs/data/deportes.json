@@ -2,7 +2,7 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-10-30T01:27:53+02:00",
+  "generado": "2026-10-30T04:47:26+02:00",
   "titulares": [
     {
       "titular": "0-8: Paseo del Barça en Dinamarca",
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 33,
+    "antiguedad_minima_min": 224,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 85,
         "error": null,
-        "antiguedad_min": 282,
+        "antiguedad_min": 481,
         "descartados_por_gancho": 5
       },
       {
@@ -99,9 +99,9 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 138,
+        "items": 139,
         "error": null,
-        "antiguedad_min": 33,
+        "antiguedad_min": 224,
         "descartados_por_gancho": 5
       },
       {

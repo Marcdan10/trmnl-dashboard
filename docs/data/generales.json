@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-10-30T01:27:48+02:00",
+  "generado": "2026-10-30T04:47:21+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -14,7 +14,7 @@
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
     },
     {
-      "titular": "El primer informe técnico del accidente estima que el AVE circulaba de 160 a 200 kilómetros por hora cuando chocó",
+      "titular": "El primer informe técnico del accidente estima que el AVE circulaba de 160 a 200 kilómetros por hora cuando chocó en Urda",
       "medios": [
         "El País"
       ],
@@ -32,13 +32,13 @@
       "enlace": "https://www.lavanguardia.com/politica/20261029/11671476/filtracion-audios-choque-urda-pone-tregua-politica.html"
     },
     {
-      "titular": "El informe inicial apunta a una «cadena de averías e instrucciones» que no pudieron frenar la colisión",
+      "titular": "María Corina Machado: «Venezuela necesita justicia y no impunidad»",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-10-30T00:09:17+02:00",
-      "enlace": "https://www.abc.es/espana/primer-informe-urda-apunta-cadena-averias-instrucciones-20261029215855-nt.html"
+      "fecha": "2026-10-30T04:00:21+02:00",
+      "enlace": "https://www.abc.es/internacional/sigue-directo-rueda-prensa-maria-corina-machado-20261029164709-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2308342,
+        "antiguedad_min": 2308542,
         "descartados_por_gancho": 0
       },
       {
@@ -99,17 +99,17 @@
         "ok": true,
         "items": 147,
         "error": null,
-        "antiguedad_min": 47,
+        "antiguedad_min": 150,
         "descartados_por_gancho": 5
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 145,
+        "items": 144,
         "error": null,
-        "antiguedad_min": 81,
-        "descartados_por_gancho": 11
+        "antiguedad_min": 222,
+        "descartados_por_gancho": 14
       },
       {
         "medio": "ABC",
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 23,
         "error": null,
-        "antiguedad_min": 78,
+        "antiguedad_min": 47,
         "descartados_por_gancho": 2
       }
     ]
