@@ -1,71 +1,71 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "portadas",
-  "generado": "2026-10-30T11:25:59+02:00",
+  "modo": "ultimas",
+  "generado": "2026-10-30T18:07:51+02:00",
   "titulares": [
     {
-      "titular": "La inflación se mantiene en el 4,9% en octubre pese al descenso del precio del combustible",
+      "titular": "¿Podrá Belén Garijo revitalizar la cartera de productos en desarrollo de Sanofi?",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-30T10:21:49+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/10/30/inflacion-mantiene-4-9-octubre-descenso-precio-combustible.html"
+      "fecha": "2026-10-30T17:34:09+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/10/30/podra-belen-garijo-revitalizar-cartera-productos-desarrollo-sanofi.html"
     },
     {
-      "titular": "Adif y Renfe \"necesitan despolitizar y profesionalizar la gestión\"",
+      "titular": "Gadi Eisenkot, el exjefe del ejército israelí que desafía a Netanyahu",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-30T01:34:37+02:00",
-      "enlace": "https://www.expansion.com/empresas/transporte/2026/10/30/adif-renfe-necesitan-despolitizar-profesionalizar-gestion.html"
+      "fecha": "2026-10-30T17:09:19+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/10/30/gadi-eisenkot-exjefe-ejercito-israeli-desafia-netanyahu.html"
     },
     {
-      "titular": "Los Cosmen y Asterion formalizan la opa sobre Mobico, valorada en 2.780 millones",
+      "titular": "Acusan a Corea del Norte de estar detrás del hackeo a Binance",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-30T10:47:23+02:00",
-      "enlace": "https://www.expansion.com/empresas/transporte/2026/10/30/cosmen-asterion-formalizan-opa-sobre-mobico-valorada-2-780-millones-euros.html"
+      "fecha": "2026-10-30T15:56:42+02:00",
+      "enlace": "https://www.expansion.com/mercados/criptomonedas/2026/10/30/acusan-corea-norte-detras-hackeo-binance.html"
     },
     {
-      "titular": "Un desastre que sólo tiene una salida",
+      "titular": "El déficit público alcanza los 31.183 millones entre enero y agosto, un 7% más",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-30T01:07:35+02:00",
-      "enlace": "https://www.expansion.com/opinion/2026/10/30/desastre-salida.html"
+      "fecha": "2026-10-30T15:55:00+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/10/30/deficit-publico-alcanza-31-183-millones-enero-agosto-7.html"
     },
     {
-      "titular": "Binance paraliza el intercambio de criptomonedas tras un hackeo de miles de millones de dólares",
+      "titular": "Amper cierra la compra de Teltronic y concreta la entrada de Nazca en su capital",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-30T05:11:47+02:00",
-      "enlace": "https://www.expansion.com/mercados/criptomonedas/2026/10/30/binance-paraliza-intercambio-criptomonedas-hackeo-miles-millones-dolares.html"
+      "fecha": "2026-10-30T15:51:23+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/10/30/amper-cierra-compra-teltronic-concreta-entrada-nazca-capital.html"
     },
     {
-      "titular": "Intel y Amazon desatan otra oleada bajista en las tecnológicas",
+      "titular": "Spotify prevé lanzar un servicio de remezcla de música mediante IA a principios del próximo año",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-30T09:58:44+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/10/30/intel-amazon-desatan-oleada-bajista-tecnologicas.html"
+      "fecha": "2026-10-30T15:42:16+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/10/30/spotify-preve-lanzar-servicio-remezcla-musica-mediante-ia-principios-proximo-ano.html"
     },
     {
-      "titular": "Los resultados debilitan al Ibex en medio de otra tormenta tecnológica",
+      "titular": "El Gobierno se plantea cortar el servicio para renovar la línea del tren Madrid-Barcelona",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-30T08:56:48+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/10/30/ibex-intenta-resistir-tormenta-tecnologica.html"
+      "fecha": "2026-10-30T14:32:57+02:00",
+      "enlace": "https://www.expansion.com/empresas/transporte/2026/10/30/gobierno-plantea-cortar-servicio-renovar-linea-ave-madrid-barcelona.html"
     }
   ],
   "salud": {
@@ -78,16 +78,16 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 8,
+    "antiguedad_minima_min": 33,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 75,
+        "items": 81,
         "error": null,
-        "antiguedad_min": 8,
-        "descartados_por_gancho": 1
+        "antiguedad_min": 33,
+        "descartados_por_gancho": 2
       },
       {
         "medio": "Cinco Días",
@@ -118,7 +118,7 @@
         "url": "https://www.ine.es/dyngs/Prensa/rss.htm",
         "ok": false,
         "items": 0,
-        "error": "HTTP 503",
+        "error": "HTTP 404",
         "antiguedad_min": null
       },
       {
