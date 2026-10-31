@@ -2,8 +2,26 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "ultimas",
-  "generado": "2026-10-31T14:54:24+02:00",
+  "generado": "2026-10-31T19:28:31+02:00",
   "titulares": [
+    {
+      "titular": "Se confirman los peores pronósticos para la bióloga Tamara González, fallecida en el accidente de Urda",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-31T19:16:21+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20261031/se-confirman-los-peores-pronosticos-para-la-biologa-tamara-gonzalez-fallecida-en-el-accidente-de-urda/363966_0.html"
+    },
+    {
+      "titular": "La enfermera escolar que busca plaza en el EIR 2027 entre el trabajo y la maternidad: \"Tengo que intentarlo\"",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-31T18:07:09+02:00",
+      "enlace": "https://www.redaccionmedica.com/formacion/estudiantes/20261031/la-enfermera-escolar-que-busca-plaza-en-el-eir-entre-trabajo-la-maternidad-tengo-intentarlo/362463_0.html"
+    },
     {
       "titular": "Ruleta clínica: los expertos advierten sobre las ‘apuestas’ en ensayos farmacológicos",
       "medios": [
@@ -12,24 +30,6 @@
       "consenso": 1,
       "fecha": "2026-10-31T13:15:59+02:00",
       "enlace": "https://diariofarma.com/2026/10/31/ruleta-clinica-los-expertos-advierten-sobre-las-apuestas-en-ensayos-farmacologicos"
-    },
-    {
-      "titular": "El negocio detrás del mercado del pelo: \"Una app dice que te vas a quedar calvo en un 98% y la gente hace locuras\"",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-31T13:01:51+02:00",
-      "enlace": "https://www.redaccionmedica.com/profesionales/medicina/20261031/el-negocio-detras-del-mercado-pelo-una-app-dice-que-te-vas-quedar-calvo-en-un-la-gente-hace-locuras/362520_0.html"
-    },
-    {
-      "titular": "En teoría el riesgo cero es inverosímil, pero ¿qué sucede en la práctica?",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-31T13:01:12+02:00",
-      "enlace": "https://www.redaccionmedica.com/opinion/20261031/en-teoria-el-riesgo-cero-es-inverosimil-pero-que-sucede-en-la-practica/363934_12.html"
     },
     {
       "titular": "El Hospital Balmis impulsa un plan para reducir la huella de carbono de los inhaladores",
@@ -59,13 +59,13 @@
       "enlace": "https://elglobalfarma.com/farmacia/fir-2027-diferencias-especialidades/"
     },
     {
-      "titular": "\"Que un ciberataque tenga éxito no implica que el sistema de salud lo haya hecho mal\"",
+      "titular": "Un psiquiatra de referencia en el hospital: la iniciativa de los MIR para agilizar el apoyo en salud mental a los residentes",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-10-31T12:59:10+02:00",
-      "enlace": "https://www.redaccionmedica.com/innovacion/sanidad-digital/20261031/que-un-ciberataque-tenga-exito-no-implica-que-el-sistema-de-salud-lo-haya-hecho-mal/363956_0.html"
+      "fecha": "2026-10-31T18:06:09+02:00",
+      "enlace": "https://www.redaccionmedica.com/formacion/mir/20261031/un-psiquiatra-de-referencia-en-el-hospital-la-iniciativa-los-mir-para-agilizar-apoyo-salud-mental-residentes/363743_0.html"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 98,
+    "antiguedad_minima_min": 12,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 98,
+        "antiguedad_min": 372,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 9,
         "error": null,
-        "antiguedad_min": 1489,
+        "antiguedad_min": 1763,
         "descartados_por_gancho": 1
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 112,
+        "antiguedad_min": 12,
         "descartados_por_gancho": 0
       },
       {

@@ -2,62 +2,62 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-10-31T14:54:13+02:00",
+  "generado": "2026-10-31T19:28:19+02:00",
   "titulares": [
     {
-      "titular": "Un inspector de Hacienda, una arquitecta, una atleta, un reportero... Las vidas que se perdieron en Urda",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-31T14:49:16+02:00",
-      "enlace": "https://www.abc.es/sociedad/antonio-jose-manuel-ana-historias-detras-tragedia-20261029012927-nt.html"
-    },
-    {
-      "titular": "Accidente de trenes en Toledo: última hora y reacciones en directo | Page llama a los españoles a “unirse en torno al dolor” por el accidente de Urda",
+      "titular": "Última hora de las manifestaciones de Blocus en España, en directo | Madrid, Barcelona, Valencia y San Sebastián, entre otras ciudades, se blindan ante posibles disturbios",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-31T14:36:27+02:00",
-      "enlace": "https://elpais.com/espana/2026-10-31/ultima-hora-y-reacciones-tras-el-accidente-de-trenes-de-urda-toledo-en-directo.html"
+      "fecha": "2026-10-31T19:14:02+02:00",
+      "enlace": "https://elpais.com/espana/2026-10-31/ultima-hora-de-las-manifestaciones-de-blocus-en-espana.html"
     },
     {
-      "titular": "Virgin Media O2, participada por Telefónica, prepara hasta 4.000 despidos en Reino Unido",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-31T14:33:41+02:00",
-      "enlace": "https://cincodias.elpais.com/companias/2026-10-31/virgin-media-o2-participada-por-telefonica-prepara-hasta-4000-despidos-en-reino-unido.html"
-    },
-    {
-      "titular": "De cómo conoció la noticia del crimen a su primer encuentro en prisión con Daniel Sancho",
+      "titular": "Los acampados de Sol comienzan a retirarse y permanecen los indigentes",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-10-31T14:28:59+02:00",
-      "enlace": "https://www.abc.es/gente/silvia-bronchalo-personal-conocio-noticia-crimen-primer-20261031085410-nt.html"
+      "fecha": "2026-10-31T19:01:04+02:00",
+      "enlace": "https://www.abc.es/espana/madrid/acampados-sol-comienzan-retirarse-permanecen-indigentes-20261031175252-nt.html"
     },
     {
-      "titular": "Muere la compositora Marisa Manchado en el accidente de tren de Urda",
+      "titular": "Glen E. Friedman, el fotógrafo del punk: «No eran violentos, eran gente muy cariñosa e inteligente»",
       "medios": [
-        "La Vanguardia",
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-31T19:00:04+02:00",
+      "enlace": "https://www.abc.es/cultura/glen-friedman-fotografo-punk-violentos-gente-carinosa-20261029180004-nt.html"
+    },
+    {
+      "titular": "Alcaraz se expande ante Medvedev y alcanza la final de Viena",
+      "medios": [
+        "El País",
         "ABC"
       ],
       "consenso": 2,
-      "fecha": "2026-10-31T13:49:07+02:00",
-      "enlace": "https://www.abc.es/cultura/muere-compositora-marisa-manchado-accidente-tren-urda-20261031124419-nt.html"
+      "fecha": "2026-10-31T18:39:48+02:00",
+      "enlace": "https://elpais.com/deportes/tenis/2026-10-31/alcaraz-se-expande-ante-medvedev-y-alcanza-la-final-de-viena.html"
     },
     {
-      "titular": "¡Más madera que (quizá) es la guerra!",
+      "titular": "Presencia policial y comercios cerrados en el centro de València por la amenaza de disturbios",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-10-31T13:26:27+02:00",
-      "enlace": "https://www.lavanguardia.com/local/barcelona/20261031/11672771/mas-madera-quizas-guerra.html"
+      "fecha": "2026-10-31T18:32:40+02:00",
+      "enlace": "https://www.lavanguardia.com/local/valencia/20261031/11672916/presencia-policial-comercios-cerrados-centro-valencia-amenaza-disturbios.html"
+    },
+    {
+      "titular": "La mayoría de los acampados en Sol anuncia que se retira porque ve sus objetivos cumplidos",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-31T18:31:34+02:00",
+      "enlace": "https://www.lavanguardia.com/local/madrid/20261031/11672909/mayoria-acampados-sol-anuncia-retira-ve-objetivos-cumplidos.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -75,7 +75,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 4,
+    "antiguedad_minima_min": 14,
     "detalle": [
       {
         "medio": "RTVE",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2310589,
+        "antiguedad_min": 2310863,
         "descartados_por_gancho": 0
       },
       {
@@ -98,28 +98,28 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 142,
+        "items": 143,
         "error": null,
-        "antiguedad_min": 17,
-        "descartados_por_gancho": 7
+        "antiguedad_min": 14,
+        "descartados_por_gancho": 5
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 140,
+        "items": 128,
         "error": null,
-        "antiguedad_min": 87,
-        "descartados_por_gancho": 16
+        "antiguedad_min": 55,
+        "descartados_por_gancho": 17
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 24,
+        "items": 23,
         "error": null,
-        "antiguedad_min": 4,
-        "descartados_por_gancho": 1
+        "antiguedad_min": 27,
+        "descartados_por_gancho": 2
       }
     ]
   }

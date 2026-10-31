@@ -2,8 +2,35 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-10-31T14:54:16+02:00",
+  "generado": "2026-10-31T19:28:22+02:00",
   "titulares": [
+    {
+      "titular": "España resiste en una eurozona con sus tres mayores economías en declive",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-31T16:59:38+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/10/31/espana-resiste-eurozona-tres-mayores-economias-declive.html"
+    },
+    {
+      "titular": "La Gran Manzana se disfraza de calabaza por Halloween",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-31T16:46:05+02:00",
+      "enlace": "https://www.expansion.com/estilo-vida/2026/10/31/gran-manzana-disfraza-calabaza-halloween.html"
+    },
+    {
+      "titular": "El PP critica que Puente \"busque una cabeza de turco\" en el accidente de Urda",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-31T15:47:16+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/10/31/pp-critica-puente-busque-cabeza-turco-accidente-urda.html"
+    },
     {
       "titular": "La UE empieza a cobrar una tasa de dos euros a los paquetes de fuera de la UE",
       "medios": [
@@ -39,33 +66,6 @@
       "consenso": 1,
       "fecha": "2026-10-31T13:28:28+02:00",
       "enlace": "https://www.expansion.com/sociedad/2026/10/31/costes-asociados-fallecimiento-superar-5-600-euros.html"
-    },
-    {
-      "titular": "Los consumidores que celebren Halloween gastarán una media de 93 euros",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-31T13:04:51+02:00",
-      "enlace": "https://www.expansion.com/sociedad/2026/10/31/consumidores-celebren-halloween-gastaran-media-93-euros.html"
-    },
-    {
-      "titular": "La OPEP+ evalúa este domingo si modifica su producción petrolera en diciembre",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-31T12:51:23+02:00",
-      "enlace": "https://www.expansion.com/empresas/energia/2026/10/31/opep-evalua-domingo-modifica-produccion-petrolera-diciembre.html"
-    },
-    {
-      "titular": "La crisis más grave del tren en España",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-31T12:37:05+02:00",
-      "enlace": "https://www.expansion.com/opinion/2026/10/31/crisis-grave-tren-espana.html"
     }
   ],
   "salud": {
@@ -78,7 +78,7 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 15,
+    "antiguedad_minima_min": 148,
     "detalle": [
       {
         "medio": "Expansión",
@@ -86,7 +86,7 @@
         "ok": true,
         "items": 72,
         "error": null,
-        "antiguedad_min": 15,
+        "antiguedad_min": 148,
         "descartados_por_gancho": 1
       },
       {
