@@ -1,26 +1,35 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "ultimas",
-  "generado": "2026-10-30T22:57:08+02:00",
+  "modo": "portadas",
+  "generado": "2026-10-31T02:23:46+02:00",
   "titulares": [
     {
-      "titular": "Monchi vuelve a hablar sobre el despido de Manolo",
+      "titular": "Desvelados los votos del Balón de Oro: Kane ganó a Mbappé por la mínima",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-30T22:16:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/rcd-espanyol/20261030/1004245184/monchi-cesar-entrenador-nunca-agradable-persona-valor-manolo-gonzalez.html"
+      "fecha": "2026-10-30T23:06:28+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261030/1004245178/desvelados-votos-balon-oro-kane-gano-mbappe-minima.html"
     },
     {
-      "titular": "Se ha estrenado hoy en Netflix y promete arrasar: la nueva película española de acción con Luis Zahera",
+      "titular": "La gran final del Mundial Sub-15, en directo",
+      "medios": [
+        "Marca"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-30T15:31:56+02:00",
+      "enlace": "https://www.marca.com/futbol/seleccion/2026/10/30/6ae49b2a020dbf8b21b1dec8-directo.html"
+    },
+    {
+      "titular": "98-94: Justin Robinson, rey del Palau, vuelve a decidir la victoria",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-30T21:56:10+02:00",
-      "enlace": "https://www.mundodeportivo.com/elotromundo/television/20261030/1004245180/estrenado-hoy-netflix-promete-arrasar-semana-nuevo-estreno-espanol-accion-luis-zahera-tvp-dct.html"
+      "fecha": "2026-10-30T23:45:27+02:00",
+      "enlace": "https://www.mundodeportivo.com/baloncesto/euroliga/20261030/1004245183/valencia.html"
     },
     {
       "titular": "Hansi Flick: \"Siempre buscaremos lo mejor para el equipo\"",
@@ -32,6 +41,15 @@
       "enlace": "https://www.marca.com/futbol/barcelona/2026/10/30/hansi-flick-siempre-buscaremos-mejor-equip-video.html"
     },
     {
+      "titular": "0-1: Triunfazo del Espanyol en La Cerámica",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-31T00:01:52+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/laliga/20261030/1004245203/espanyol-villarreal.html"
+    },
+    {
       "titular": "¡Momento histórico! Hijo de Santi Cazorla debuta con el Real Oviedo en Copa del Rey",
       "medios": [
         "Marca"
@@ -41,31 +59,13 @@
       "enlace": "https://www.marca.com/futbol/copa-rey/2026/10/30/momento-historico-hijo-santi-cazorla-debuta-real-oviedo-copa-rey-video.html"
     },
     {
-      "titular": "Hakimi lidera la remontada del PSG ante el colista con un 'hat-trick'",
+      "titular": "Fernando Alonso firma su mejor viernes del año y Leclerc sigue al frente",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-30T21:54:08+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/ligue-1/20261030/1004245127/le-havre-psg.html"
-    },
-    {
-      "titular": "Fernando Alonso empieza con buen pie en México; Leclerc lidera",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-30T21:44:28+02:00",
-      "enlace": "https://www.mundodeportivo.com/motor/f1/20261030/1004245179/fernando-alonso-empieza-buen-pie-mexico-leclerc-lidera.html"
-    },
-    {
-      "titular": "Desvelados los votos del Balón de Oro: Kane ganó a Mbappé por la mínima",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-30T21:42:43+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261030/1004245178/desvelados-votos-balon-oro-kane-gano-mbappe-minima.html"
+      "fecha": "2026-10-31T01:27:31+02:00",
+      "enlace": "https://www.mundodeportivo.com/motor/f1/20261031/1004245261/fernando-alonso-firma-mejor-viernes-ano-leclerc-sigue-frente.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 41,
+    "antiguedad_minima_min": 37,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 87,
         "error": null,
-        "antiguedad_min": 452,
+        "antiguedad_min": 651,
         "descartados_por_gancho": 8
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 133,
+        "items": 136,
         "error": null,
-        "antiguedad_min": 41,
-        "descartados_por_gancho": 8
+        "antiguedad_min": 37,
+        "descartados_por_gancho": 7
       },
       {
         "medio": "Sport",

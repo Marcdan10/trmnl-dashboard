@@ -1,53 +1,62 @@
 {
   "pantalla": "generales",
   "titulo": "Titulares",
-  "modo": "ultimas",
-  "generado": "2026-10-30T22:57:01+02:00",
+  "modo": "portadas",
+  "generado": "2026-10-31T02:23:44+02:00",
   "titulares": [
     {
-      "titular": "El cruce de vetos entre Rusia y EE UU deja en el aire la misión de la ONU en el Sáhara",
+      "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
+      "medios": [
+        "RTVE"
+      ],
+      "consenso": 1,
+      "fecha": "2022-06-10T01:05:00+02:00",
+      "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
+    },
+    {
+      "titular": "Óscar Puente descarta dimitir: “Mi forma de ser responsable es dar la cara”",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-30T22:49:16+02:00",
-      "enlace": "https://elpais.com/internacional/2026-10-30/el-cruce-de-vetos-entre-rusia-y-ee-uu-deja-en-el-aire-la-mision-de-la-onu-en-el-sahara.html"
+      "fecha": "2026-10-30T16:57:58+02:00",
+      "enlace": "https://elpais.com/economia/2026-10-30/oscar-puente-comparece-para-hablar-del-accidente-de-urda-dos-dias-despues-de-la-tragedia.html"
     },
     {
-      "titular": "Intel sufre su mayor caída en Bolsa desde 1973: se hunde un 28,58% quemando 130.000 millones de dólares de capitalización",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-30T22:37:47+02:00",
-      "enlace": "https://cincodias.elpais.com/companias/2026-10-30/intel-pierde-su-magia-se-desploma-un-25-en-bolsa-tras-lanzar-previsiones-decepcionantes.html"
-    },
-    {
-      "titular": "Doloroso adiós a Fátima Báñez en una Huelva herida por las tragedias del tren",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-30T22:36:56+02:00",
-      "enlace": "https://www.abc.es/espana/andalucia/huelva/doloroso-adios-fatima-banez-huelva-herida-tragedias-20261030205823-nts.html"
-    },
-    {
-      "titular": "Desvelan los votos del Balón de Oro 2026: solo 28 puntos entre Kane y Mbappé",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-30T22:24:18+02:00",
-      "enlace": "https://www.abc.es/deportes/futbol/desvelan-votos-balon-oro-2026-solo-puntos-20261030205918-nt.html"
-    },
-    {
-      "titular": "Desmantelada una plantación de marihuana en una casa de Gavà frente a una escuela",
+      "titular": "Puente rechaza dimitir pese a la presión: “Mi obligación es resolver el problema”",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-10-30T20:38:33+02:00",
-      "enlace": "https://www.lavanguardia.com/local/baix-llobregat/20261030/11672399/desmantelada-plantacion-marihuana-casa-gava-frente-escuela.html"
+      "fecha": "2026-10-30T13:34:45+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20261030/11672052/puente-rechaza-dimitir-presion-grande-mi-obligacion-resolver-problema.html"
+    },
+    {
+      "titular": "La Policía rodea el Constitucional de Polonia al enfrentarse el primer ministro y el presidente por sus jueces",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-31T01:52:21+02:00",
+      "enlace": "https://www.abc.es/internacional/policia-rodea-constitucional-polonia-enfrentarse-primer-ministro-20261030212104-nt.html"
+    },
+    {
+      "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
+      "medios": [
+        "RTVE"
+      ],
+      "consenso": 1,
+      "fecha": "2022-06-10T00:03:00+02:00",
+      "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
+    },
+    {
+      "titular": "El Gobierno se plantea parar el tráfico en la línea de alta velocidad Madrid-Barcelona durante las obras de remodelación",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-30T14:24:12+02:00",
+      "enlace": "https://elpais.com/economia/2026-10-30/puente-valora-parar-la-linea-de-ave-madrid-barcelona-durante-las-obras-de-remodelacion.html"
     },
     {
       "titular": "El Gobierno sopesa cortar la línea Madrid-Barcelona hasta dos años por las obras de mejora",
@@ -57,15 +66,6 @@
       "consenso": 1,
       "fecha": "2026-10-30T20:38:03+02:00",
       "enlace": "https://www.lavanguardia.com/vida/20261030/11672402/gobierno-sopesa-cortar-linea-madrid-barcelona-dos-anos-obras-mejora.html"
-    },
-    {
-      "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
-      "medios": [
-        "RTVE"
-      ],
-      "consenso": 1,
-      "fecha": "2022-06-10T01:05:00+02:00",
-      "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 7,
+    "antiguedad_minima_min": 2,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2309631,
+        "antiguedad_min": 2309838,
         "descartados_por_gancho": 0
       },
       {
@@ -97,18 +97,18 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 147,
+        "items": 148,
         "error": null,
-        "antiguedad_min": 7,
+        "antiguedad_min": 2,
         "descartados_por_gancho": 4
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 148,
+        "items": 147,
         "error": null,
-        "antiguedad_min": 138,
+        "antiguedad_min": 113,
         "descartados_por_gancho": 15
       },
       {
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 20,
+        "antiguedad_min": 31,
         "descartados_por_gancho": 0
       }
     ]

@@ -1,27 +1,9 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "ultimas",
-  "generado": "2026-10-30T22:57:16+02:00",
+  "modo": "portadas",
+  "generado": "2026-10-31T02:23:50+02:00",
   "titulares": [
-    {
-      "titular": "EH Bildu refuerza sus listas para el 29N con perfiles de peso en sanidad, biomedicina y servicios sociales",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-30T21:23:55+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/20261030/eh-bildu-refuerza-sus-listas-para-el-con-perfiles-de-peso-en-sanidad-biomedicina-servicios-sociales/363557_0.html"
-    },
-    {
-      "titular": "La bióloga Marta Shahbazi Alonso, entre los desaparecidos del accidente ferroviario de Urda",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-30T20:42:25+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20261030/la-biologa-marta-shahbazi-alonso-entre-los-desaparecidos-del-accidente-ferroviario-de-urda/363953_0.html"
-    },
     {
       "titular": "Madrid incluye el centro de biofarmacia de Tres Cantos dentro de sus cuentas para 2027",
       "medios": [
@@ -30,6 +12,24 @@
       "consenso": 1,
       "fecha": "2026-10-30T18:07:38+02:00",
       "enlace": "https://diariofarma.com/2026/10/30/madrid-incluye-el-centro-de-biofarmacia-de-tres-cantos-dentro-de-sus-cuentas-para-2027"
+    },
+    {
+      "titular": "Convenio de farmacia: que el acercamiento no se quede en un gesto",
+      "medios": [
+        "El Global"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-30T14:04:29+02:00",
+      "enlace": "https://elglobalfarma.com/opinion/editorial/convenio-farmacia-acercamiento-no-quede-gesto/"
+    },
+    {
+      "titular": "España, motor de los ensayos clínicos en Europa: el desafío de mantener el liderazgo sin saturar el sistema",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-30T19:58:13+02:00",
+      "enlace": "https://www.redaccionmedica.com/empresas/industria-farmaceutica/20261030/espana-motor-de-los-ensayos-clinicos-en-europa-el-desafio-mantener-liderazgo-sin-saturar-sistema/363121_0.html"
     },
     {
       "titular": "La EMA abre la revisión de un fármaco para ansiedad y depresión por efectos secundarios graves",
@@ -42,13 +42,13 @@
       "enlace": "https://diariofarma.com/2026/10/30/la-ema-abre-la-revision-de-un-farmaco-para-ansiedad-y-depresion-por-efectos-secundarios-graves"
     },
     {
-      "titular": "Convenio de farmacia: que el acercamiento no se quede en un gesto",
+      "titular": "\"Desde la SEHH estamos definiendo criterios para acreditar Unidades de linfoma y mieloma en 2028\"",
       "medios": [
-        "El Global"
+        "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-10-30T14:04:29+02:00",
-      "enlace": "https://elglobalfarma.com/opinion/editorial/convenio-farmacia-acercamiento-no-quede-gesto/"
+      "fecha": "2026-10-30T17:09:42+02:00",
+      "enlace": "https://www.redaccionmedica.com/profesionales/sociedades-cientificas/20261030/desde-la-sehh-estamos-definiendo-criterios-para-acreditar-unidades-de-linfoma-mieloma-en/363926_0.html"
     },
     {
       "titular": "FIR 2027: qué diferencias hay entre las seis especialidades",
@@ -60,24 +60,25 @@
       "enlace": "https://elglobalfarma.com/farmacia/fir-2027-diferencias-especialidades/"
     },
     {
-      "titular": "España, motor de los ensayos clínicos en Europa: el desafío de mantener el liderazgo sin saturar el sistema",
+      "titular": "El suministro de estradiol transdérmico iniciará su restablecimiento a mediados de mes, según la Aemps",
       "medios": [
-        "Redacción Médica"
+        "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-10-30T19:58:13+02:00",
-      "enlace": "https://www.redaccionmedica.com/empresas/industria-farmaceutica/20261030/espana-motor-de-los-ensayos-clinicos-en-europa-el-desafio-mantener-liderazgo-sin-saturar-sistema/363121_0.html"
+      "fecha": "2026-10-30T17:42:49+02:00",
+      "enlace": "https://diariofarma.com/2026/10/30/el-suministro-de-estradiol-transdermico-iniciara-su-restablecimiento-a-mediados-de-mes-segun-la-aemps"
     }
   ],
   "salud": {
     "feeds_totales": 7,
-    "feeds_ok": 4,
+    "feeds_ok": 3,
     "feeds_caidos": [
       "PMFarma",
       "AEMPS",
-      "EMA"
+      "EMA",
+      "FiercePharma"
     ],
-    "antiguedad_minima_min": 93,
+    "antiguedad_minima_min": 299,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -85,7 +86,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 289,
+        "antiguedad_min": 496,
         "descartados_por_gancho": 0
       },
       {
@@ -94,7 +95,7 @@
         "ok": true,
         "items": 9,
         "error": null,
-        "antiguedad_min": 532,
+        "antiguedad_min": 739,
         "descartados_por_gancho": 1
       },
       {
@@ -103,7 +104,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 93,
+        "antiguedad_min": 299,
         "descartados_por_gancho": 0
       },
       {
@@ -133,11 +134,10 @@
       {
         "medio": "FiercePharma",
         "url": "https://www.fiercepharma.com/rss/xml",
-        "ok": true,
+        "ok": false,
         "items": 0,
-        "error": null,
-        "antiguedad_min": null,
-        "descartados_por_gancho": 0
+        "error": "HTTP 403",
+        "antiguedad_min": null
       }
     ]
   }

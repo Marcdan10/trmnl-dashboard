@@ -1,39 +1,7 @@
 {
   "ciudad": "Barcelona",
-  "generado": "2026-10-30T20:57:17",
+  "generado": "2026-10-31T00:23:50",
   "horas": [
-    {
-      "hora": "21",
-      "temp": 18,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "nube"
-    },
-    {
-      "hora": "22",
-      "temp": 18,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "nube"
-    },
-    {
-      "hora": "23",
-      "temp": 18,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "nube"
-    },
-    {
-      "hora": "00",
-      "temp": 17,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "nube"
-    },
     {
       "hora": "01",
       "temp": 17,
@@ -44,7 +12,7 @@
     },
     {
       "hora": "02",
-      "temp": 16,
+      "temp": 17,
       "prob": 0,
       "mm": 0,
       "mostrar_prob": false,
@@ -52,7 +20,7 @@
     },
     {
       "hora": "03",
-      "temp": 16,
+      "temp": 17,
       "prob": 0,
       "mm": 0,
       "mostrar_prob": false,
@@ -97,12 +65,44 @@
       "mm": 0,
       "mostrar_prob": false,
       "icono": "sol"
+    },
+    {
+      "hora": "09",
+      "temp": 16,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "sol"
+    },
+    {
+      "hora": "10",
+      "temp": 17,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "sol"
+    },
+    {
+      "hora": "11",
+      "temp": 19,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "sol"
+    },
+    {
+      "hora": "12",
+      "temp": 19,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "sol"
     }
   ],
   "dias": [
     {
-      "etiqueta": "sáb 31",
-      "max": 20,
+      "etiqueta": "dom 1",
+      "max": 22,
       "min": 15,
       "prob": 0,
       "mm": 0,
@@ -111,20 +111,10 @@
       "icono": "nube"
     },
     {
-      "etiqueta": "dom 1",
-      "max": 21,
-      "min": 15,
-      "prob": 2,
-      "mm": 0,
-      "mostrar_prob": false,
-      "destacar": false,
-      "icono": "nube"
-    },
-    {
       "etiqueta": "lun 2",
-      "max": 17,
+      "max": 16,
       "min": 14,
-      "prob": 5,
+      "prob": 2,
       "mm": 0,
       "mostrar_prob": false,
       "destacar": false,
@@ -133,9 +123,9 @@
     {
       "etiqueta": "mar 3",
       "max": 16,
-      "min": 13,
-      "prob": 58,
-      "mm": 6.9,
+      "min": 14,
+      "prob": 76,
+      "mm": 4.3,
       "mostrar_prob": true,
       "destacar": true,
       "icono": "lluvia"
@@ -144,8 +134,8 @@
       "etiqueta": "mié 4",
       "max": 18,
       "min": 10,
-      "prob": 34,
-      "mm": 0,
+      "prob": 55,
+      "mm": 0.6,
       "mostrar_prob": true,
       "destacar": false,
       "icono": "nube"
@@ -169,12 +159,22 @@
       "mostrar_prob": true,
       "destacar": false,
       "icono": "sol"
+    },
+    {
+      "etiqueta": "sáb 7",
+      "max": 16,
+      "min": 8,
+      "prob": 27,
+      "mm": 0,
+      "mostrar_prob": true,
+      "destacar": false,
+      "icono": "sol"
     }
   ],
   "aviso": {
     "activo": true,
     "alcance": "semana",
-    "texto": "Lluvia prevista el mar 3 · 58%"
+    "texto": "Lluvia prevista el mar 3 · 76%"
   },
   "atribucion": "Open-Meteo (CC BY 4.0)"
 }

@@ -1,26 +1,44 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "ultimas",
-  "generado": "2026-10-30T22:57:06+02:00",
+  "modo": "portadas",
+  "generado": "2026-10-31T02:23:46+02:00",
   "titulares": [
     {
-      "titular": "Anthropic podría no obtener el grado de inversión tras su OPV, según Blackstone",
+      "titular": "La sangría de caja de las tecnológicas por el gasto en IA pone a prueba la paciencia de Wall Street",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-30T19:52:32+02:00",
-      "enlace": "https://www.expansion.com/economia/financial-times/2026/10/30/anthropic-podria-obtener-calificacion-grado-inversion-opv.html"
+      "fecha": "2026-10-31T00:57:56+02:00",
+      "enlace": "https://www.expansion.com/tecnologia/2026/10/30/sangria-caja-tecnologicas-gasto-ia-pone-prueba-paciencia-wall-street.html"
     },
     {
-      "titular": "Bankinter Investment lanza una oferta por la Socimi hotelera Atom por 510 millones",
+      "titular": "El Nasdaq cae un 5,3% en su peor mes desde marzo de 2025",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-30T19:43:23+02:00",
-      "enlace": "https://www.expansion.com/inmobiliario/mercado-inmobiliario/2026/10/30/bankiter-lanza-oferta-comprar-socimi-hotelera-atom-fondo-inversion-libre.html"
+      "fecha": "2026-10-30T09:58:44+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/10/30/intel-amazon-desatan-oleada-bajista-tecnologicas.html"
+    },
+    {
+      "titular": "Veinte valores fuertes que suben a contracorriente en octubre",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-31T01:08:48+02:00",
+      "enlace": "https://www.expansion.com/inversion/2026/10/31/veinte-valores-fuertes-suben-contracorriente-octubre.html"
+    },
+    {
+      "titular": "La banca dispara el atractivo de los depósitos a 3 y 6 meses",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-31T00:58:30+02:00",
+      "enlace": "https://www.expansion.com/ahorro/2026/10/30/banca-dispara-atractivo-depositos-3-6-meses.html"
     },
     {
       "titular": "Iberia, Air Europa, Ryanair, Volotea y Vueling refuerzan sus rutas con Andalucía tras Urda",
@@ -32,40 +50,22 @@
       "enlace": "https://www.expansion.com/empresas/transporte/2026/10/30/iberia-air-europa-ryanair-volotea-vueling-refuerzan-rutas-andalucia-urda.html"
     },
     {
-      "titular": "Los líderes de la UE debatirán en noviembre el sustituto de Lagarde al frente del BCE",
+      "titular": "El Gobierno se plantea cortar el servicio para renovar la línea del tren Madrid-Barcelona",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-30T18:26:55+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/10/30/lideres-ue-debatiran-noviembre-sustituto-lagarde-frente-bce.html"
+      "fecha": "2026-10-30T14:32:57+02:00",
+      "enlace": "https://www.expansion.com/empresas/transporte/2026/10/30/gobierno-plantea-cortar-servicio-renovar-linea-ave-madrid-barcelona.html"
     },
     {
-      "titular": "Las grandes petroleras duplican el beneficio global, hasta 118.860 millones de dólares",
+      "titular": "Puente: la caída del sistema de seguridad LZB es \"habitual\" y se ha dado en 170 ocasiones este año",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-30T18:02:06+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/10/30/grandes-petroleras-duplican-beneficio-global-118-860-millones-dolares.html"
-    },
-    {
-      "titular": "¿Podrá Belén Garijo revitalizar la cartera de productos en desarrollo de Sanofi?",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-30T17:34:09+02:00",
-      "enlace": "https://www.expansion.com/economia/financial-times/2026/10/30/podra-belen-garijo-revitalizar-cartera-productos-desarrollo-sanofi.html"
-    },
-    {
-      "titular": "Gadi Eisenkot, el exjefe del ejército israelí que desafía a Netanyahu",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-30T17:09:19+02:00",
-      "enlace": "https://www.expansion.com/economia/financial-times/2026/10/30/gadi-eisenkot-exjefe-ejercito-israeli-desafia-netanyahu.html"
+      "fecha": "2026-10-30T11:57:29+02:00",
+      "enlace": "https://www.expansion.com/empresas/transporte/2026/10/30/puente-comparecera-11-30-horas-hablar-accidente-urda-toledo.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 184,
+    "antiguedad_minima_min": 74,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 82,
+        "items": 81,
         "error": null,
-        "antiguedad_min": 184,
+        "antiguedad_min": 74,
         "descartados_por_gancho": 2
       },
       {
