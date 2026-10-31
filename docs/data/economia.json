@@ -1,71 +1,71 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "portadas",
-  "generado": "2026-10-31T08:03:54+02:00",
+  "modo": "ultimas",
+  "generado": "2026-10-31T14:54:16+02:00",
   "titulares": [
     {
-      "titular": "La sangría de caja de las tecnológicas por el gasto en IA pone a prueba la paciencia de Wall Street",
+      "titular": "La UE empieza a cobrar una tasa de dos euros a los paquetes de fuera de la UE",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-31T00:57:56+02:00",
-      "enlace": "https://www.expansion.com/tecnologia/2026/10/30/sangria-caja-tecnologicas-gasto-ia-pone-prueba-paciencia-wall-street.html"
+      "fecha": "2026-10-31T14:38:28+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/10/31/ue-empieza-cobrar-tasa-dos-euros-paquetes-fuera-ue.html"
     },
     {
-      "titular": "El Nasdaq cae un 5,3% en su peor mes desde marzo de 2025",
+      "titular": "VMO2 prepara miles de despidos para ahorrar costes",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-30T09:58:44+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/10/30/intel-amazon-desatan-oleada-bajista-tecnologicas.html"
+      "fecha": "2026-10-31T14:01:40+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/10/31/vmo2-prepara-miles-despidos-ahorrar-costes.html"
     },
     {
-      "titular": "Veinte valores fuertes que suben a contracorriente en octubre",
+      "titular": "Madrid blinda su 'milla de oro' ante posibles disturbios por la convocatoria de Blocus",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-31T01:08:48+02:00",
-      "enlace": "https://www.expansion.com/inversion/2026/10/31/veinte-valores-fuertes-suben-contracorriente-octubre.html"
+      "fecha": "2026-10-31T13:59:04+02:00",
+      "enlace": "https://www.expansion.com/sociedad/2026/10/31/madrid-blinda-milla-oro-posibles-disturbios-convocatoria-blocus.html"
     },
     {
-      "titular": "La banca dispara el atractivo de los depósitos a 3 y 6 meses",
+      "titular": "Los costes asociados a un fallecimiento pueden superar los 5.600 euros",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-31T00:58:30+02:00",
-      "enlace": "https://www.expansion.com/ahorro/2026/10/30/banca-dispara-atractivo-depositos-3-6-meses.html"
+      "fecha": "2026-10-31T13:28:28+02:00",
+      "enlace": "https://www.expansion.com/sociedad/2026/10/31/costes-asociados-fallecimiento-superar-5-600-euros.html"
     },
     {
-      "titular": "Guerra mundial por los ricos: quién gana en el éxodo fiscal",
+      "titular": "Los consumidores que celebren Halloween gastarán una media de 93 euros",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-31T01:38:11+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/10/31/guerra-mundial-ricos-gana-exodo-fiscal.html"
+      "fecha": "2026-10-31T13:04:51+02:00",
+      "enlace": "https://www.expansion.com/sociedad/2026/10/31/consumidores-celebren-halloween-gastaran-media-93-euros.html"
     },
     {
-      "titular": "El robo a Binance dispara la alarma sobre la seguridad 'cripto'",
+      "titular": "La OPEP+ evalúa este domingo si modifica su producción petrolera en diciembre",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-31T01:52:03+02:00",
-      "enlace": "https://www.expansion.com/mercados/criptomonedas/2026/10/31/robo-binance-dispara-alarma-sobre-seguridad-cripto.html"
+      "fecha": "2026-10-31T12:51:23+02:00",
+      "enlace": "https://www.expansion.com/empresas/energia/2026/10/31/opep-evalua-domingo-modifica-produccion-petrolera-diciembre.html"
     },
     {
-      "titular": "Trump afronta unas elecciones marcadas por la inflación y el déficit",
+      "titular": "La crisis más grave del tren en España",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-31T01:53:31+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/10/31/trump-afronta-elecciones-marcadas-inflacion-deficit.html"
+      "fecha": "2026-10-31T12:37:05+02:00",
+      "enlace": "https://www.expansion.com/opinion/2026/10/31/crisis-grave-tren-espana.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 273,
+    "antiguedad_minima_min": 15,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 81,
+        "items": 72,
         "error": null,
-        "antiguedad_min": 273,
+        "antiguedad_min": 15,
         "descartados_por_gancho": 1
       },
       {

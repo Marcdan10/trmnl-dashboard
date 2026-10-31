@@ -1,17 +1,26 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "portadas",
-  "generado": "2026-10-31T08:03:56+02:00",
+  "modo": "ultimas",
+  "generado": "2026-10-31T14:54:18+02:00",
   "titulares": [
     {
-      "titular": "Festival de los hermanos Márquez en la lucha por la pole de Sepang",
+      "titular": "Flick tira de cantera para recibir al Alavés",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-31T05:49:57+02:00",
-      "enlace": "https://www.mundodeportivo.com/motor/motogp/20261031/1004245265/festival-hermanos-marquez-lucha-pole-sepang-alex-pole-marc-2o-ausencia-martin.html"
+      "fecha": "2026-10-31T14:22:42+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261031/1004245339/flick-tira-cantera-recibir-alaves.html"
+    },
+    {
+      "titular": "Los mecánicos coinciden y desmienten el mito: \"El consumo no varía a 16 o 25 grados; lo que hace que gaste es el compresor\"",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-31T14:21:31+02:00",
+      "enlace": "https://www.mundodeportivo.com/actualidad/20261031/1004245359/mecanicos-coinciden-desmienten-mito-consumo-no-varia-16-25-grados-coche-gaste-compresor-cmt-dct.html"
     },
     {
       "titular": "Hansi Flick: \"Siempre buscaremos lo mejor para el equipo\"",
@@ -23,15 +32,6 @@
       "enlace": "https://www.marca.com/futbol/barcelona/2026/10/30/hansi-flick-siempre-buscaremos-mejor-equip-video.html"
     },
     {
-      "titular": "Jorge Martín no seguirá en el GP de Malasia por culpa del dolor y hay vuelco en MotoGP",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-31T05:12:32+02:00",
-      "enlace": "https://www.mundodeportivo.com/motor/motogp/20261031/1004245264/jorge-martin-no-seguira-gp-malasia-culpa-dolor-supone-titulo.html"
-    },
-    {
       "titular": "¡Momento histórico! Hijo de Santi Cazorla debuta con el Real Oviedo en Copa del Rey",
       "medios": [
         "Marca"
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/copa-rey/2026/10/30/momento-historico-hijo-santi-cazorla-debuta-real-oviedo-copa-rey-video.html"
     },
     {
-      "titular": "0-1: Triunfazo del Espanyol en La Cerámica",
+      "titular": "Sócrates, filósofo: \"El amor no consiste en buscar la felicidad en otra persona\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-31T00:01:52+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/laliga/20261030/1004245203/espanyol-villarreal.html"
+      "fecha": "2026-10-31T14:15:15+02:00",
+      "enlace": "https://www.mundodeportivo.com/pulso/20261031/1004245360/socrates-filosofo-griego-sobre-amor-no-consiste-buscar-felicidad-persona-construir-felicidad-podamos-compartir-dct.html"
     },
     {
-      "titular": "¡Ladrando al campo equivocado! Un perro irrumpe en un partido de la Premier League egipcia.",
-      "medios": [
-        "Marca"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-30T15:15:18+02:00",
-      "enlace": "https://www.marca.com/futbol/2026/10/30/ladrando-campo-equivocado-perro-irrumpe-partido-premier-league-egipcia-video.html"
-    },
-    {
-      "titular": "98-94: Justin Robinson, rey del Palau, vuelve a decidir la victoria",
+      "titular": "Los Golden Retriever que han conquistado a las redes intentando pasar desapercibidos",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-30T23:45:27+02:00",
-      "enlace": "https://www.mundodeportivo.com/baloncesto/euroliga/20261030/1004245183/valencia.html"
+      "fecha": "2026-10-31T14:09:56+02:00",
+      "enlace": "https://www.mundodeportivo.com/elotromundo/mascotas/20261031/1004245352/golden-retriever-han-conquistado-redes-intentando-pasar-desapercibidos-perros-instinto-supervivencia-donut-canela-dct.html"
+    },
+    {
+      "titular": "Pacheta elogia al Eldense de Messi",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-31T14:08:49+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/granada/20261031/1004245358/pacheta-elogia-eldense-messi.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 19,
+    "antiguedad_minima_min": 31,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 87,
         "error": null,
-        "antiguedad_min": 999,
+        "antiguedad_min": 1409,
         "descartados_por_gancho": 8
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 136,
+        "items": 130,
         "error": null,
-        "antiguedad_min": 19,
-        "descartados_por_gancho": 7
+        "antiguedad_min": 31,
+        "descartados_por_gancho": 11
       },
       {
         "medio": "Sport",
