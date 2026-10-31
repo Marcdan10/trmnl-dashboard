@@ -2,8 +2,62 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-10-31T19:28:22+02:00",
+  "generado": "2026-10-31T22:36:39+02:00",
   "titulares": [
+    {
+      "titular": "El doctor Andreu, el farmacéutico que creó un barrio de lujo en Barcelona hace 125 años",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-31T21:27:35+02:00",
+      "enlace": "https://www.expansion.com/estilo-vida/2026/10/30/doctor-andreu-farmaceutico-creo-barrio-lujo-barcelona-125-anos.html"
+    },
+    {
+      "titular": "Quiénes deciden hoy la gastronomía",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-31T21:25:09+02:00",
+      "enlace": "https://www.expansion.com/estilo-vida/rincones-gastronomicos/2026/10/31/quienes-deciden-hoy-gastronomia.html"
+    },
+    {
+      "titular": "Así es la fórmula de éxito de las cuentas de inversión en Europa",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-31T21:14:31+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/10/31/asi-formula-exito-cuentas-inversion-europa.html"
+    },
+    {
+      "titular": "Vivienda: Qué falla en el inmobiliario y cómo solucionarlo",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-31T21:14:15+02:00",
+      "enlace": "https://www.expansion.com/inmobiliario/2026/10/31/vivienda-falla-inmobiliario-solucionarlo.html"
+    },
+    {
+      "titular": "La IA amenaza con romper las claves de la seguridad digital",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-31T21:14:09+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/10/31/ia-amenaza-romper-claves-seguridad-digital.html"
+    },
+    {
+      "titular": "Las grandes petroleras europeas disparan sus ganancias a más de 68.000 millones hasta septiembre",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-31T21:09:43+02:00",
+      "enlace": "https://www.expansion.com/empresas/energia/2026/10/31/grandes-petroleras-europeas-disparan-ganancias-68-000-millones-septiembre.html"
+    },
     {
       "titular": "España resiste en una eurozona con sus tres mayores economías en declive",
       "medios": [
@@ -12,60 +66,6 @@
       "consenso": 1,
       "fecha": "2026-10-31T16:59:38+02:00",
       "enlace": "https://www.expansion.com/economia/2026/10/31/espana-resiste-eurozona-tres-mayores-economias-declive.html"
-    },
-    {
-      "titular": "La Gran Manzana se disfraza de calabaza por Halloween",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-31T16:46:05+02:00",
-      "enlace": "https://www.expansion.com/estilo-vida/2026/10/31/gran-manzana-disfraza-calabaza-halloween.html"
-    },
-    {
-      "titular": "El PP critica que Puente \"busque una cabeza de turco\" en el accidente de Urda",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-31T15:47:16+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/10/31/pp-critica-puente-busque-cabeza-turco-accidente-urda.html"
-    },
-    {
-      "titular": "La UE empieza a cobrar una tasa de dos euros a los paquetes de fuera de la UE",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-31T14:38:28+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/10/31/ue-empieza-cobrar-tasa-dos-euros-paquetes-fuera-ue.html"
-    },
-    {
-      "titular": "VMO2 prepara miles de despidos para ahorrar costes",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-31T14:01:40+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/10/31/vmo2-prepara-miles-despidos-ahorrar-costes.html"
-    },
-    {
-      "titular": "Madrid blinda su 'milla de oro' ante posibles disturbios por la convocatoria de Blocus",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-31T13:59:04+02:00",
-      "enlace": "https://www.expansion.com/sociedad/2026/10/31/madrid-blinda-milla-oro-posibles-disturbios-convocatoria-blocus.html"
-    },
-    {
-      "titular": "Los costes asociados a un fallecimiento pueden superar los 5.600 euros",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-31T13:28:28+02:00",
-      "enlace": "https://www.expansion.com/sociedad/2026/10/31/costes-asociados-fallecimiento-superar-5-600-euros.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 148,
+    "antiguedad_minima_min": 69,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 72,
+        "items": 68,
         "error": null,
-        "antiguedad_min": 148,
+        "antiguedad_min": 69,
         "descartados_por_gancho": 1
       },
       {

@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-10-31T19:28:25+02:00",
+  "generado": "2026-10-31T22:36:41+02:00",
   "titulares": [
     {
-      "titular": "Barça Atlètic - Arnedo, en directo",
+      "titular": "¡Fermín anota el segundo a pase de Lamine!",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-31T18:58:26+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261031/1004245117/barca-atletic-arnedo-directo-segunda-federacion-futbol.html"
+      "fecha": "2026-10-31T22:26:52+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261031/1004243616/barcelona-alaves-directo-laliga-ea-sports-futbol-primera-division-futbol.html"
     },
     {
-      "titular": "0-1: El Brighton se venga del Manchester City y logra un triunfo histórico en el Etihad",
+      "titular": "Raphinha abre la lata otra vez y solo tarda 8 minutos",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-31T18:56:56+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/premier-league/20261031/1004245455/brighton.html"
+      "fecha": "2026-10-31T22:19:20+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261031/1004245542/raphinha-abre-lata-vez-tarda-8-minutos.html"
     },
     {
       "titular": "Hansi Flick: \"Siempre buscaremos lo mejor para el equipo\"",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/copa-rey/2026/10/30/momento-historico-hijo-santi-cazorla-debuta-real-oviedo-copa-rey-video.html"
     },
     {
-      "titular": "Lucenec - Barça, en directo: Champions League",
+      "titular": "Minuto de silencio por el accidente de tren y sin Grada d'Animació",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-31T18:50:12+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261031/1004245111/lucenec-barca-directo-champions-league-futbol-sala.html"
+      "fecha": "2026-10-31T22:04:53+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261031/1004245517/minuto-silencio-accidente-tren-grada-d-animacio.html"
     },
     {
-      "titular": "El Madrid termina de preparar el duelo ante el Racing sin novedades",
+      "titular": "Pelea en una reunión, despido y posible fichaje por Aston Martin: Ocon suena como reserva de Alonso",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-31T18:35:09+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20261031/1004245432/madrid-termina-preparar-duelo-racing-novedades.html"
+      "fecha": "2026-10-31T22:04:24+02:00",
+      "enlace": "https://www.mundodeportivo.com/motor/f1/20261031/1004245539/pelea-reunion-despido-posible-fichaje-aston-martin-ocon-suena-reserva-alonso-stroll.html"
     },
     {
-      "titular": "La respuesta de Carrick sobre su futuro tras el nuevo batacazo del Manchester United",
+      "titular": "2-2: El Córdoba resiste en inferioridad ante el Celta Fortuna",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-10-31T18:23:16+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/premier-league/20261031/1004245444/carrick.html"
+      "fecha": "2026-10-31T21:58:54+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/liga-segunda-division/20261031/1004245538/cordoba-resiste-inferioridad-celta-fortuna.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 29,
+    "antiguedad_minima_min": 9,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 87,
         "error": null,
-        "antiguedad_min": 1683,
+        "antiguedad_min": 1872,
         "descartados_por_gancho": 8
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 133,
+        "items": 135,
         "error": null,
-        "antiguedad_min": 29,
-        "descartados_por_gancho": 10
+        "antiguedad_min": 9,
+        "descartados_por_gancho": 7
       },
       {
         "medio": "Sport",
