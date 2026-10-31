@@ -2,7 +2,7 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "portadas",
-  "generado": "2026-10-31T02:23:46+02:00",
+  "generado": "2026-10-31T08:03:54+02:00",
   "titulares": [
     {
       "titular": "La sangría de caja de las tecnológicas por el gasto en IA pone a prueba la paciencia de Wall Street",
@@ -41,31 +41,31 @@
       "enlace": "https://www.expansion.com/ahorro/2026/10/30/banca-dispara-atractivo-depositos-3-6-meses.html"
     },
     {
-      "titular": "Iberia, Air Europa, Ryanair, Volotea y Vueling refuerzan sus rutas con Andalucía tras Urda",
+      "titular": "Guerra mundial por los ricos: quién gana en el éxodo fiscal",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-30T19:39:26+02:00",
-      "enlace": "https://www.expansion.com/empresas/transporte/2026/10/30/iberia-air-europa-ryanair-volotea-vueling-refuerzan-rutas-andalucia-urda.html"
+      "fecha": "2026-10-31T01:38:11+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/10/31/guerra-mundial-ricos-gana-exodo-fiscal.html"
     },
     {
-      "titular": "El Gobierno se plantea cortar el servicio para renovar la línea del tren Madrid-Barcelona",
+      "titular": "El robo a Binance dispara la alarma sobre la seguridad 'cripto'",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-30T14:32:57+02:00",
-      "enlace": "https://www.expansion.com/empresas/transporte/2026/10/30/gobierno-plantea-cortar-servicio-renovar-linea-ave-madrid-barcelona.html"
+      "fecha": "2026-10-31T01:52:03+02:00",
+      "enlace": "https://www.expansion.com/mercados/criptomonedas/2026/10/31/robo-binance-dispara-alarma-sobre-seguridad-cripto.html"
     },
     {
-      "titular": "Puente: la caída del sistema de seguridad LZB es \"habitual\" y se ha dado en 170 ocasiones este año",
+      "titular": "Trump afronta unas elecciones marcadas por la inflación y el déficit",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-30T11:57:29+02:00",
-      "enlace": "https://www.expansion.com/empresas/transporte/2026/10/30/puente-comparecera-11-30-horas-hablar-accidente-urda-toledo.html"
+      "fecha": "2026-10-31T01:53:31+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/10/31/trump-afronta-elecciones-marcadas-inflacion-deficit.html"
     }
   ],
   "salud": {
@@ -78,7 +78,7 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 74,
+    "antiguedad_minima_min": 273,
     "detalle": [
       {
         "medio": "Expansión",
@@ -86,8 +86,8 @@
         "ok": true,
         "items": 81,
         "error": null,
-        "antiguedad_min": 74,
-        "descartados_por_gancho": 2
+        "antiguedad_min": 273,
+        "descartados_por_gancho": 1
       },
       {
         "medio": "Cinco Días",

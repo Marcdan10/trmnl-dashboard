@@ -2,7 +2,7 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "portadas",
-  "generado": "2026-10-31T02:23:50+02:00",
+  "generado": "2026-10-31T08:04:02+02:00",
   "titulares": [
     {
       "titular": "Madrid incluye el centro de biofarmacia de Tres Cantos dentro de sus cuentas para 2027",
@@ -71,14 +71,13 @@
   ],
   "salud": {
     "feeds_totales": 7,
-    "feeds_ok": 3,
+    "feeds_ok": 4,
     "feeds_caidos": [
       "PMFarma",
       "AEMPS",
-      "EMA",
-      "FiercePharma"
+      "EMA"
     ],
-    "antiguedad_minima_min": 299,
+    "antiguedad_minima_min": 640,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -86,7 +85,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 496,
+        "antiguedad_min": 836,
         "descartados_por_gancho": 0
       },
       {
@@ -95,7 +94,7 @@
         "ok": true,
         "items": 9,
         "error": null,
-        "antiguedad_min": 739,
+        "antiguedad_min": 1079,
         "descartados_por_gancho": 1
       },
       {
@@ -104,7 +103,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 299,
+        "antiguedad_min": 640,
         "descartados_por_gancho": 0
       },
       {
@@ -134,10 +133,11 @@
       {
         "medio": "FiercePharma",
         "url": "https://www.fiercepharma.com/rss/xml",
-        "ok": false,
+        "ok": true,
         "items": 0,
-        "error": "HTTP 403",
-        "antiguedad_min": null
+        "error": null,
+        "antiguedad_min": null,
+        "descartados_por_gancho": 0
       }
     ]
   }

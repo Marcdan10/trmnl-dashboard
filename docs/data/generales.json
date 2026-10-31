@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-10-31T02:23:44+02:00",
+  "generado": "2026-10-31T08:03:50+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -14,22 +14,22 @@
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
     },
     {
-      "titular": "Óscar Puente descarta dimitir: “Mi forma de ser responsable es dar la cara”",
+      "titular": "Radiografía del sistema de seguridad que dejó de funcionar antes del accidente de Urda: casi una caída cada dos días",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-30T16:57:58+02:00",
-      "enlace": "https://elpais.com/economia/2026-10-30/oscar-puente-comparece-para-hablar-del-accidente-de-urda-dos-dias-despues-de-la-tragedia.html"
+      "fecha": "2026-10-31T06:30:01+02:00",
+      "enlace": "https://elpais.com/espana/2026-10-31/radiografia-del-sistema-de-seguridad-que-dejo-de-funcionar-antes-del-accidente-de-urda-casi-una-caida-cada-dos-dias.html"
     },
     {
-      "titular": "Puente rechaza dimitir pese a la presión: “Mi obligación es resolver el problema”",
+      "titular": "Puente admite que puso su cargo a disposición de Sánchez, que consideró “injusto” su cese",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-10-30T13:34:45+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20261030/11672052/puente-rechaza-dimitir-presion-grande-mi-obligacion-resolver-problema.html"
+      "fecha": "2026-10-31T01:05:00+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20261031/11672405/puente-admite-puso-cargo-disposicion-sanchez-considero-injusto-cesarle.html"
     },
     {
       "titular": "La Policía rodea el Constitucional de Polonia al enfrentarse el primer ministro y el presidente por sus jueces",
@@ -37,7 +37,7 @@
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-10-31T01:52:21+02:00",
+      "fecha": "2026-10-31T03:51:10+02:00",
       "enlace": "https://www.abc.es/internacional/policia-rodea-constitucional-polonia-enfrentarse-primer-ministro-20261030212104-nt.html"
     },
     {
@@ -50,22 +50,22 @@
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
     },
     {
-      "titular": "El Gobierno se plantea parar el tráfico en la línea de alta velocidad Madrid-Barcelona durante las obras de remodelación",
+      "titular": "69 autopsias en tres días: la carrera forense para identificar a las víctimas",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-10-30T14:24:12+02:00",
-      "enlace": "https://elpais.com/economia/2026-10-30/puente-valora-parar-la-linea-de-ave-madrid-barcelona-durante-las-obras-de-remodelacion.html"
+      "fecha": "2026-10-31T06:30:01+02:00",
+      "enlace": "https://elpais.com/espana/2026-10-31/65-autopsias-en-tres-dias-la-carrera-forense-para-identificar-a-las-victimas.html"
     },
     {
-      "titular": "El Gobierno sopesa cortar la línea Madrid-Barcelona hasta dos años por las obras de mejora",
+      "titular": "¿Cómo se controla la seguridad entre trenes y qué pasó en Urda?",
       "medios": [
-        "La Vanguardia"
+        "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-10-30T20:38:03+02:00",
-      "enlace": "https://www.lavanguardia.com/vida/20261030/11672402/gobierno-sopesa-cortar-linea-madrid-barcelona-dos-anos-obras-mejora.html"
+      "fecha": "2026-10-31T03:39:20+02:00",
+      "enlace": "https://www.abc.es/economia/controla-seguridad-trenes-paso-urda-20261031203454-nt.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 2,
+    "antiguedad_minima_min": 18,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2309838,
+        "antiguedad_min": 2310178,
         "descartados_por_gancho": 0
       },
       {
@@ -97,19 +97,19 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 148,
+        "items": 141,
         "error": null,
-        "antiguedad_min": 2,
-        "descartados_por_gancho": 4
+        "antiguedad_min": 18,
+        "descartados_por_gancho": 7
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 147,
+        "items": 143,
         "error": null,
-        "antiguedad_min": 113,
-        "descartados_por_gancho": 15
+        "antiguedad_min": 63,
+        "descartados_por_gancho": 13
       },
       {
         "medio": "ABC",
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 31,
+        "antiguedad_min": 252,
         "descartados_por_gancho": 0
       }
     ]
