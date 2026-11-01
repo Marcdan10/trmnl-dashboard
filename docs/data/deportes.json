@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-11-01T19:00:34+02:00",
+  "generado": "2026-11-01T23:18:05+02:00",
   "titulares": [
     {
-      "titular": "El VAR anula un penalti por mano de Tchouaméni",
+      "titular": "Así queda la clasificación de la Liga Asobal tras el triunfo del Barça en el derbi catalán",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-01T18:59:47+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20261101/1004244043/racing-santander-real-madrid-directo-laliga-ea-sports-primera-division-ext-pau.html"
+      "fecha": "2026-11-01T22:53:08+02:00",
+      "enlace": "https://www.mundodeportivo.com/balonmano/20261101/1004245966/asi-queda-clasificacion-liga-asobal-triunfo-barca-derbi-catalan.html"
     },
     {
-      "titular": "Vacherot remonta ante Lehecka en la final de Basilea para sumar su segundo título ATP",
+      "titular": "Anselmi: \"Buscamos el partido, pero nos vamos con las manos vacías\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-01T18:50:47+02:00",
-      "enlace": "https://www.mundodeportivo.com/tenis/20261101/1004245868/vacherot-remonta-lehecka-final-basilea-sumar-segundo-titulo-atp.html"
+      "fecha": "2026-11-01T22:52:27+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/elche-cf/20261101/1004245965/anselmi-buscamos-partido-manos-vacias.html"
     },
     {
       "titular": "Hansi Flick: \"Siempre buscaremos lo mejor para el equipo\"",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/copa-rey/2026/10/30/momento-historico-hijo-santi-cazorla-debuta-real-oviedo-copa-rey-video.html"
     },
     {
-      "titular": "La fea acción de Gema Climent en el Valencia-Eibar que le costó la roja",
+      "titular": "Aguirre, entre risas y sin filtros: \"Casi nos vacunan en el 97, me voy a c… en sus muertos\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-01T18:47:53+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/femenino/liga-f/20261101/1004245869/fea-accion-gema-climent-valencia-eibar-le-costo-roja.html"
+      "fecha": "2026-11-01T22:44:40+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/valencia/20261101/1004245958/aguirre-risas-filtros-vacunan-97-me-c-muertos.html"
     },
     {
-      "titular": "La surrealista amarilla a un jugador de Segunda RFEF por utilizar el spray del árbitro",
+      "titular": "Así queda la clasificación de la Liga Endesa tras las victorias de Madrid y Barça",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-01T18:46:19+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/segunda-rfef/20261101/1004245870/surrealista-amarilla-jugador-segunda-rfef-utilizar-spray-arbitro.html"
+      "fecha": "2026-11-01T22:43:51+02:00",
+      "enlace": "https://www.mundodeportivo.com/baloncesto/acb/20261101/1004245956/asi-queda-clasificacion-liga-endesa-victorias-madrid-barca.html"
     },
     {
-      "titular": "Almgren firma una victoria colosal en su estreno maratoniano en Nueva York",
+      "titular": "La queja que tiene Iraola tras el 0-1 ante Arteta",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-01T18:35:04+02:00",
-      "enlace": "https://www.mundodeportivo.com/running/20261101/1004245865/almgren-firma-victoria-colosal-estreno-maratoniano-nueva-york.html"
+      "fecha": "2026-11-01T22:31:39+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/premier-league/20261101/1004245952/queja-iraola-0-1-arteta.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 0,
+    "antiguedad_minima_min": 24,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 87,
         "error": null,
-        "antiguedad_min": 3095,
+        "antiguedad_min": 3353,
         "descartados_por_gancho": 8
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 140,
+        "items": 133,
         "error": null,
-        "antiguedad_min": 0,
-        "descartados_por_gancho": 6
+        "antiguedad_min": 24,
+        "descartados_por_gancho": 9
       },
       {
         "medio": "Sport",

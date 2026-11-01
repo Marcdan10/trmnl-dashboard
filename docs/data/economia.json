@@ -2,8 +2,44 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-11-01T19:00:33+02:00",
+  "generado": "2026-11-01T23:18:05+02:00",
   "titulares": [
+    {
+      "titular": "Portugal analiza subir en Galp tras el fin a la fusión con Moeve",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-01T22:47:54+02:00",
+      "enlace": "https://www.expansion.com/empresas/energia/2026/11/01/portugal-analiza-subir-galp-fusion-moeve.html"
+    },
+    {
+      "titular": "Ebro apunta a 40.000 coches en 2027 y negocia más financiación",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-01T22:11:26+02:00",
+      "enlace": "https://www.expansion.com/catalunya/2026/11/01/ebro-apunta-40-000-coches-2027-negocia-financiacion.html"
+    },
+    {
+      "titular": "Entra en vigor nueva la tasa europea de dos euros a los pequeños envíos",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-01T21:33:53+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/11/01/entra-vigor-nueva-tasa-europea-dos-euros-pequenos-envios.html"
+    },
+    {
+      "titular": "Los usuarios de Binance retiran más de 3.600 millones de la plataforma tras el robo",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-01T20:39:49+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/11/01/usuarios-binance-retiran-3-600-millones-plataforma-robo.html"
+    },
     {
       "titular": "Irán continúa las negociaciones indirectas con EEUU para reabrir el estrecho de Ormuz en dos días",
       "medios": [
@@ -30,42 +66,6 @@
       "consenso": 1,
       "fecha": "2026-11-01T15:58:56+02:00",
       "enlace": "https://www.expansion.com/mercados/2026/11/01/santander-abona-manana-dividendo-12-7-centimos-accion.html"
-    },
-    {
-      "titular": "La OPEP+ decide mantener congelada su oferta de petróleo en diciembre",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-01T15:29:49+02:00",
-      "enlace": "https://www.expansion.com/empresas/energia/2026/11/01/opep-decide-mantener-congelada-oferta-petroleo-diciembre.html"
-    },
-    {
-      "titular": "PP y Vox se personarán en la causa por el accidente de Urda y exigen al Gobierno que asuma responsabilidades",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-01T14:48:46+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/11/01/pp-vox-personaran-causa-accidente-urda-exigen-gobierno-asuma-responsabilidades.html"
-    },
-    {
-      "titular": "El Tesoro volverá esta semana a los mercados con una subasta de Letras y otra de Obligaciones",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-01T14:30:28+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/11/01/tesoro-volvera-semana-mercados-subasta-letras-obligaciones.html"
-    },
-    {
-      "titular": "Amancio Ortega cobrará 1.617 millones de euros en dividendos de Inditex este lunes",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-01T13:45:24+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/11/01/amancio-ortega-cobrara-1-617-millones-euros-dividendos-inditex-lunes.html"
     }
   ],
   "salud": {
@@ -78,7 +78,7 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 123,
+    "antiguedad_minima_min": 30,
     "detalle": [
       {
         "medio": "Expansión",
@@ -86,7 +86,7 @@
         "ok": true,
         "items": 69,
         "error": null,
-        "antiguedad_min": 123,
+        "antiguedad_min": 30,
         "descartados_por_gancho": 0
       },
       {

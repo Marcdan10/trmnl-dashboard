@@ -2,62 +2,61 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-11-01T19:00:29+02:00",
+  "generado": "2026-11-01T23:18:02+02:00",
   "titulares": [
     {
-      "titular": "Racing - Real Madrid en directo | El Madrid aguanta la renta ante el empuje del Racing",
+      "titular": "GP de México en directo | Un accidente de Bottas provoca una bandera roja",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-11-01T18:55:29+02:00",
-      "enlace": "https://elpais.com/deportes/futbol/2026-11-01/racing-real-madrid-en-directo-el-partido-de-la-liga-en-vivo.html"
+      "fecha": "2026-11-01T23:11:26+02:00",
+      "enlace": "https://elpais.com/deportes/formula-1/2026-11-02/gp-de-mexico-en-directo-la-carrera-de-f1-en-vivo.html"
     },
     {
-      "titular": "Una madre que viajaba a la boda de su hija, un nazareno, una brillante científica... Las vidas que se perdieron en Urda",
+      "titular": "Hamilton pone lustre a la coronación de Antonelli en el GP de México",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-01T23:11:25+02:00",
+      "enlace": "https://elpais.com/deportes/formula-1/2026-10-31/hamilton-pone-lustre-a-la-coronacion-de-antonelli-en-el-gp-de-mexico.html"
+    },
+    {
+      "titular": "Mueren cuatro miembros de una familia, entre ellos dos niños de 2 y 3 años, en un accidente en Malva",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-11-01T18:34:41+02:00",
-      "enlace": "https://www.abc.es/sociedad/antonio-jose-manuel-ana-historias-detras-tragedia-20261029012927-nt.html"
-    },
-    {
-      "titular": "Cuatro fallecidos, entre ellos dos menores, en un accidente de tráfico en Malva (Zamora)",
-      "medios": [
-        "La Vanguardia",
-        "ABC"
-      ],
-      "consenso": 2,
-      "fecha": "2026-11-01T18:32:14+02:00",
+      "fecha": "2026-11-01T22:49:02+02:00",
       "enlace": "https://www.abc.es/espana/castilla-leon/mueren-cuatro-personas-dos-menores-accidente-trafico-20261101155827-nt.html"
     },
     {
-      "titular": "Alcaraz ya está donde quería: ritmo, nivel, sonrisa y título en Viena",
+      "titular": "Almgren, el científico de datos que dejó su trabajo en 2025 y gana el Maratón de Nueva York en su debut",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-11-01T18:14:37+02:00",
-      "enlace": "https://www.abc.es/deportes/tenis/alcaraz-queria-ritmo-nivel-rodaje-titulo-viena-20261101155148-nt.html"
+      "fecha": "2026-11-01T22:24:17+02:00",
+      "enlace": "https://www.abc.es/deportes/almgren-cientifico-datos-dejo-trabajo-2025-busca-20261030151045-nt.html"
     },
     {
-      "titular": "Mueren dos adultos y dos niños al salirse de la vía el coche en el que viajaban en Zamora",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-01T18:04:01+02:00",
-      "enlace": "https://elpais.com/espana/2026-11-01/mueren-dos-adultos-y-dos-ninos-al-salirse-de-la-via-el-coche-en-el-que-viajaban-en-zamora.html"
-    },
-    {
-      "titular": "El zafiro de los Romanov que sobrevivió al último gran baile de los zares sale a subasta",
+      "titular": "El Barça acaba dibujando una sonrisa en Málaga después de un partidazo",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-11-01T17:27:31+02:00",
-      "enlace": "https://www.lavanguardia.com/gente/20261101/11673375/zafiro-romanov-sobrevivio-ultimo-gran-baile-zares-sale-subasta.html"
+      "fecha": "2026-11-01T21:59:10+02:00",
+      "enlace": "https://www.lavanguardia.com/deportes/baloncesto/20261101/11673526/unicaja-barca-liga-endesa.html"
+    },
+    {
+      "titular": "Prisión comunicada y sin fianza para el presunto autor del apuñalamiento mortal en Tordehumos (Valladolid)",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-01T21:20:44+02:00",
+      "enlace": "https://www.lavanguardia.com/local/castilla-leon/20261101/11673524/prision-comunicada-fianza-presunto-autor-apunalamiento-mortal-tordehumos-valladolid.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -75,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 4,
+    "antiguedad_minima_min": 6,
     "detalle": [
       {
         "medio": "RTVE",
@@ -83,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2312275,
+        "antiguedad_min": 2312533,
         "descartados_por_gancho": 0
       },
       {
@@ -98,28 +97,28 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 139,
+        "items": 129,
         "error": null,
-        "antiguedad_min": 4,
-        "descartados_por_gancho": 8
+        "antiguedad_min": 6,
+        "descartados_por_gancho": 7
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 129,
+        "items": 136,
         "error": null,
-        "antiguedad_min": 92,
-        "descartados_por_gancho": 23
+        "antiguedad_min": 78,
+        "descartados_por_gancho": 20
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 24,
+        "items": 25,
         "error": null,
-        "antiguedad_min": 25,
-        "descartados_por_gancho": 1
+        "antiguedad_min": 29,
+        "descartados_por_gancho": 0
       }
     ]
   }

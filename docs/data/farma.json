@@ -2,8 +2,26 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "ultimas",
-  "generado": "2026-11-01T19:00:41+02:00",
+  "generado": "2026-11-01T23:18:10+02:00",
   "titulares": [
+    {
+      "titular": "Fundación IDIS inicia la fase de cocreación de su proyecto NEXO IA con 50 entidades",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-01T19:29:18+02:00",
+      "enlace": "https://diariofarma.com/2026/11/01/fundacion-idis-inicia-la-fase-de-cocreacion-de-su-proyecto-nexo-ia-con-50-entidades"
+    },
+    {
+      "titular": "Genética se implanta a dos velocidades en el SNS con siete autonomías 'adelantadas' a los planes de Sanidad: \"No esperaremos\"",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-01T18:57:45+02:00",
+      "enlace": "https://www.redaccionmedica.com/actualidad/20261101/genetica-se-implanta-dos-velocidades-en-el-sns-con-siete-autonomias-adelantadas-los-planes-de-sanidad-no-esperaremos/363734_0.html"
+    },
     {
       "titular": "Neurología alerta del impacto de la obesidad en la salud cerebral: \"Crea una inflamación que afecta a la microglía del cerebro\"",
       "medios": [
@@ -12,15 +30,6 @@
       "consenso": 1,
       "fecha": "2026-11-01T18:49:23+02:00",
       "enlace": "https://www.redaccionmedica.com/innovacion/20261101/neurologia-alerta-del-impacto-de-la-obesidad-en-salud-cerebral-crea-una-inflamacion-que-afecta-microglia-cerebro/363541_0.html"
-    },
-    {
-      "titular": "El big data de la sanidad privada se aproxima a su siguiente fase con miras a 2027",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-01T18:22:09+02:00",
-      "enlace": "https://www.redaccionmedica.com/empresas/sanidad-privada/20261101/el-big-data-de-la-sanidad-privada-se-aproxima-su-siguiente-fase-con-miras/363115_0.html"
     },
     {
       "titular": "Duelo en la AEMPS por el fallecimiento de Cristina Ferris en el accidente ferroviario de Toledo",
@@ -41,15 +50,6 @@
       "enlace": "https://diariofarma.com/2026/10/31/ruleta-clinica-los-expertos-advierten-sobre-las-apuestas-en-ensayos-farmacologicos"
     },
     {
-      "titular": "El Hospital Balmis impulsa un plan para reducir la huella de carbono de los inhaladores",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-31T12:37:16+02:00",
-      "enlace": "https://diariofarma.com/2026/10/31/el-hospital-balmis-impulsa-un-plan-para-reducir-la-huella-de-carbono-de-los-inhaladores"
-    },
-    {
       "titular": "Convenio de farmacia: que el acercamiento no se quede en un gesto",
       "medios": [
         "El Global"
@@ -59,13 +59,13 @@
       "enlace": "https://elglobalfarma.com/opinion/editorial/convenio-farmacia-acercamiento-no-quede-gesto/"
     },
     {
-      "titular": "Aarón, el estudiante que dejó Enfermería para entrar a Medicina: \"Hice una FP online en tan solo un año\"",
+      "titular": "El big data de la sanidad privada se aproxima a su siguiente fase con miras a 2027",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-11-01T17:32:04+02:00",
-      "enlace": "https://www.redaccionmedica.com/formacion/estudiantes/20261101/aaron-el-estudiante-que-dejo-enfermeria-para-entrar-medicina-hice-una-fp-online-en-tan-solo-un-ano/363379_0.html"
+      "fecha": "2026-11-01T18:22:09+02:00",
+      "enlace": "https://www.redaccionmedica.com/empresas/sanidad-privada/20261101/el-big-data-de-la-sanidad-privada-se-aproxima-su-siguiente-fase-con-miras/363115_0.html"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 11,
+    "antiguedad_minima_min": 228,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 1784,
+        "antiguedad_min": 228,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 9,
         "error": null,
-        "antiguedad_min": 207,
+        "antiguedad_min": 465,
         "descartados_por_gancho": 1
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 11,
+        "antiguedad_min": 260,
         "descartados_por_gancho": 0
       },
       {
