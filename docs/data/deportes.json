@@ -2,16 +2,16 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-11-01T01:54:00+02:00",
+  "generado": "2026-11-01T05:47:35+02:00",
   "titulares": [
     {
-      "titular": "6-1: La trituradora blaugrana vuelve a ponerse en marcha",
+      "titular": "La gran final del Mundial Sub-15, en directo",
       "medios": [
-        "Mundo Deportivo"
+        "Marca"
       ],
       "consenso": 1,
-      "fecha": "2026-10-31T23:58:22+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261031/1004245506/cronica-barcelona-alaves.html"
+      "fecha": "2026-10-30T15:31:56+02:00",
+      "enlace": "https://www.marca.com/futbol/seleccion/2026/10/30/6ae49b2a020dbf8b21b1dec8-directo.html"
     },
     {
       "titular": "Hansi Flick: \"Siempre buscaremos lo mejor para el equipo\"",
@@ -23,15 +23,6 @@
       "enlace": "https://www.marca.com/futbol/barcelona/2026/10/30/hansi-flick-siempre-buscaremos-mejor-equip-video.html"
     },
     {
-      "titular": "Así queda la clasificación de LaLiga tras la goleada del líder Barça",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-01T00:00:51+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261031/1004245563/asi-queda-clasificacion-laliga-goleada-lider-barca.html"
-    },
-    {
       "titular": "¡Momento histórico! Hijo de Santi Cazorla debuta con el Real Oviedo en Copa del Rey",
       "medios": [
         "Marca"
@@ -39,15 +30,6 @@
       "consenso": 1,
       "fecha": "2026-10-30T15:22:02+02:00",
       "enlace": "https://www.marca.com/futbol/copa-rey/2026/10/30/momento-historico-hijo-santi-cazorla-debuta-real-oviedo-copa-rey-video.html"
-    },
-    {
-      "titular": "Fermín, MVP: \"Nos hemos reencontrado\"",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-01T00:25:06+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261031/1004245575/fermin-mvp-hemos-reencontrado.html"
     },
     {
       "titular": "¡Ladrando al campo equivocado! Un perro irrumpe en un partido de la Premier League egipcia.",
@@ -59,23 +41,42 @@
       "enlace": "https://www.marca.com/futbol/2026/10/30/ladrando-campo-equivocado-perro-irrumpe-partido-premier-league-egipcia-video.html"
     },
     {
-      "titular": "Raphinha y Lamine: dobletes para cicatrizar heridas",
+      "titular": "El anti Infantino cobra fuerza",
       "medios": [
-        "Mundo Deportivo"
+        "Marca"
       ],
       "consenso": 1,
-      "fecha": "2026-11-01T01:15:42+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261101/1004245644/raphinha-lamine-dobletes-cicatrizar-heridas.html"
+      "fecha": "2026-10-30T14:53:04+02:00",
+      "enlace": "https://www.marca.com/futbol/2026/10/30/final-wenger-candidato-anti-infantino.html"
+    },
+    {
+      "titular": "Flick, preocupado por Raphinha: \"No es la mejor situación\"",
+      "medios": [
+        "Marca"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-30T14:46:30+02:00",
+      "enlace": "https://www.marca.com/futbol/barcelona/2026/10/30/flick-agradezco-apoyo-junta-dos-derrotas-seguiremos-nuestra-idea-final.html"
+    },
+    {
+      "titular": "La roca española que sostiene el liderato del Feyenoord: \"Mejora al equipo desde el primer momento\"",
+      "medios": [
+        "Marca"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-30T14:18:31+02:00",
+      "enlace": "https://www.marca.com/futbol/2026/10/30/mika-marmol-roca-sostiene-liderato-feyenoord-mejora-equipo-primer-momento.html"
     }
   ],
   "salud": {
     "feeds_totales": 5,
-    "feeds_ok": 3,
+    "feeds_ok": 2,
     "feeds_caidos": [
+      "Mundo Deportivo",
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 27,
+    "antiguedad_minima_min": 2295,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +84,7 @@
         "ok": true,
         "items": 87,
         "error": null,
-        "antiguedad_min": 2069,
+        "antiguedad_min": 2295,
         "descartados_por_gancho": 8
       },
       {
@@ -98,11 +99,10 @@
       {
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
-        "ok": true,
-        "items": 139,
-        "error": null,
-        "antiguedad_min": 27,
-        "descartados_por_gancho": 8
+        "ok": false,
+        "items": 0,
+        "error": "IncompleteRead: IncompleteRead(326499 bytes read)",
+        "antiguedad_min": null
       },
       {
         "medio": "Sport",
