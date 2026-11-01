@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-11-01T12:57:39+02:00",
+  "generado": "2026-11-01T19:00:34+02:00",
   "titulares": [
     {
-      "titular": "Lozano vuelve con gol, Galaxy arrasa y Cincinnati regresa a los 'playoffs'",
+      "titular": "El VAR anula un penalti por mano de Tchouaméni",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-01T12:26:43+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/internacional/major-league-soccer/20261101/1004245740/lozano-vuelve-gol-galaxy-arrasa-cincinnati-regresa-playoffs.html"
+      "fecha": "2026-11-01T18:59:47+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20261101/1004244043/racing-santander-real-madrid-directo-laliga-ea-sports-primera-division-ext-pau.html"
     },
     {
-      "titular": "Dudas en el Aston Villa antes de medirse al Barça",
+      "titular": "Vacherot remonta ante Lehecka en la final de Basilea para sumar su segundo título ATP",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-01T12:15:53+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261101/1004245738/dudas-aston-villa-medirse-barca.html"
+      "fecha": "2026-11-01T18:50:47+02:00",
+      "enlace": "https://www.mundodeportivo.com/tenis/20261101/1004245868/vacherot-remonta-lehecka-final-basilea-sumar-segundo-titulo-atp.html"
     },
     {
       "titular": "Hansi Flick: \"Siempre buscaremos lo mejor para el equipo\"",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/copa-rey/2026/10/30/momento-historico-hijo-santi-cazorla-debuta-real-oviedo-copa-rey-video.html"
     },
     {
-      "titular": "\"Intentaron convencerme de que votara en contra de Achraf Hakimi\"",
+      "titular": "La fea acción de Gema Climent en el Valencia-Eibar que le costó la roja",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-01T12:09:58+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/balon-oro/20261101/1004245739/intentaron-convencerme-votara-achraf-hakimi.html"
+      "fecha": "2026-11-01T18:47:53+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/femenino/liga-f/20261101/1004245869/fea-accion-gema-climent-valencia-eibar-le-costo-roja.html"
     },
     {
-      "titular": "\"Vale, suficiente, voy a anular el gol y voy a sancionar la falta\"",
+      "titular": "La surrealista amarilla a un jugador de Segunda RFEF por utilizar el spray del árbitro",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-01T11:56:10+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/rcd-espanyol/20261101/1004245734/vale-suficiente-anular-gol-sancionar-falta.html"
+      "fecha": "2026-11-01T18:46:19+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/segunda-rfef/20261101/1004245870/surrealista-amarilla-jugador-segunda-rfef-utilizar-spray-arbitro.html"
     },
     {
-      "titular": "\"El Atleti le roba el corazón a todos los futbolistas, nos convertimos en hinchas\"",
+      "titular": "Almgren firma una victoria colosal en su estreno maratoniano en Nueva York",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-01T11:43:59+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20261101/1004245730/atleti-le-roba-corazon-todos-futbolistas-convertimos-hinchas.html"
+      "fecha": "2026-11-01T18:35:04+02:00",
+      "enlace": "https://www.mundodeportivo.com/running/20261101/1004245865/almgren-firma-victoria-colosal-estreno-maratoniano-nueva-york.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 30,
+    "antiguedad_minima_min": 0,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 87,
         "error": null,
-        "antiguedad_min": 2732,
+        "antiguedad_min": 3095,
         "descartados_por_gancho": 8
       },
       {
@@ -99,9 +99,9 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 133,
+        "items": 140,
         "error": null,
-        "antiguedad_min": 30,
+        "antiguedad_min": 0,
         "descartados_por_gancho": 6
       },
       {

@@ -2,62 +2,62 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-11-01T12:57:36+02:00",
+  "generado": "2026-11-01T19:00:29+02:00",
   "titulares": [
     {
-      "titular": "Crisis del Constitucional en Polonia: «Soy el presidente de este tribunal, por favor déjenme entrar»",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-01T12:44:05+02:00",
-      "enlace": "https://www.abc.es/internacional/crisis-constitucional-polonia-presidente-tribunal-favor-dejenme-20261101110145-nt.html"
-    },
-    {
-      "titular": "Ya está disponible en Netflix la nueva película de Luis Zahera y es un éxito: un thriller de Daniel Sánchez Arévalo",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-01T12:43:52+02:00",
-      "enlace": "https://www.abc.es/play/cine/noticias/disponible-netflix-nueva-pelicula-luis-zahera-exito-20261101113000-nt.html"
-    },
-    {
-      "titular": "De Paris Hilton como Morticia Addams a Harry Styles como en su audición de ‘The X Factor’: los mejores disfraces de los famosos en Halloween",
+      "titular": "Racing - Real Madrid en directo | El Madrid aguanta la renta ante el empuje del Racing",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-11-01T12:34:32+02:00",
-      "enlace": "https://elpais.com/gente/2026-11-01/de-paris-hilton-como-morticia-addams-a-harry-styles-como-en-su-audicon-de-the-x-factor-los-mejores-disfraces-de-los-famosos-en-halloween.html"
+      "fecha": "2026-11-01T18:55:29+02:00",
+      "enlace": "https://elpais.com/deportes/futbol/2026-11-01/racing-real-madrid-en-directo-el-partido-de-la-liga-en-vivo.html"
     },
     {
-      "titular": "Aria Vega: “Aprendí que uno no firma con una discográfica y se vuelve Beyoncé al día siguiente, que es lo que pensaba que iba a suceder”",
+      "titular": "Una madre que viajaba a la boda de su hija, un nazareno, una brillante científica... Las vidas que se perdieron en Urda",
       "medios": [
-        "El País"
+        "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-11-01T11:59:39+02:00",
-      "enlace": "https://elpais.com/smoda/placeres/2026-11-01/aria-vega-aprendi-que-uno-no-firma-con-una-discografica-y-se-vuelve-beyonce-al-dia-siguiente-que-es-lo-que-pensaba-que-iba-a-suceder.html"
+      "fecha": "2026-11-01T18:34:41+02:00",
+      "enlace": "https://www.abc.es/sociedad/antonio-jose-manuel-ana-historias-detras-tragedia-20261029012927-nt.html"
     },
     {
-      "titular": "El FBI acusa a Corea del Norte de robar 6.000 millones de dólares en criptomonedas a Binance",
+      "titular": "Cuatro fallecidos, entre ellos dos menores, en un accidente de tráfico en Malva (Zamora)",
       "medios": [
         "La Vanguardia",
         "ABC"
       ],
       "consenso": 2,
-      "fecha": "2026-11-01T11:26:06+02:00",
-      "enlace": "https://www.abc.es/economia/fbi-acusa-corea-norte-robar-6000-millones-20261101101136-nt.html"
+      "fecha": "2026-11-01T18:32:14+02:00",
+      "enlace": "https://www.abc.es/espana/castilla-leon/mueren-cuatro-personas-dos-menores-accidente-trafico-20261101155827-nt.html"
     },
     {
-      "titular": "La historia del metro de Madrid se cuenta en 14 vagones",
+      "titular": "Alcaraz ya está donde quería: ritmo, nivel, sonrisa y título en Viena",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-01T18:14:37+02:00",
+      "enlace": "https://www.abc.es/deportes/tenis/alcaraz-queria-ritmo-nivel-rodaje-titulo-viena-20261101155148-nt.html"
+    },
+    {
+      "titular": "Mueren dos adultos y dos niños al salirse de la vía el coche en el que viajaban en Zamora",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-01T18:04:01+02:00",
+      "enlace": "https://elpais.com/espana/2026-11-01/mueren-dos-adultos-y-dos-ninos-al-salirse-de-la-via-el-coche-en-el-que-viajaban-en-zamora.html"
+    },
+    {
+      "titular": "El zafiro de los Romanov que sobrevivió al último gran baile de los zares sale a subasta",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-11-01T11:05:35+02:00",
-      "enlace": "https://www.lavanguardia.com/local/madrid/20261101/11673293/historia-metro-madrid-14-vagones.html"
+      "fecha": "2026-11-01T17:27:31+02:00",
+      "enlace": "https://www.lavanguardia.com/gente/20261101/11673375/zafiro-romanov-sobrevivio-ultimo-gran-baile-zares-sale-subasta.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -75,7 +75,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 13,
+    "antiguedad_minima_min": 4,
     "detalle": [
       {
         "medio": "RTVE",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2311912,
+        "antiguedad_min": 2312275,
         "descartados_por_gancho": 0
       },
       {
@@ -98,28 +98,28 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 134,
+        "items": 139,
         "error": null,
-        "antiguedad_min": 23,
+        "antiguedad_min": 4,
         "descartados_por_gancho": 8
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 135,
+        "items": 129,
         "error": null,
-        "antiguedad_min": 112,
-        "descartados_por_gancho": 24
+        "antiguedad_min": 92,
+        "descartados_por_gancho": 23
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 25,
+        "items": 24,
         "error": null,
-        "antiguedad_min": 13,
-        "descartados_por_gancho": 0
+        "antiguedad_min": 25,
+        "descartados_por_gancho": 1
       }
     ]
   }

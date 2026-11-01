@@ -2,25 +2,34 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "ultimas",
-  "generado": "2026-11-01T12:57:44+02:00",
+  "generado": "2026-11-01T19:00:41+02:00",
   "titulares": [
     {
-      "titular": "La depresión eleva un 81% la mortalidad por cualquier causa y un 101% por enfermedad cardiovascular",
+      "titular": "Neurología alerta del impacto de la obesidad en la salud cerebral: \"Crea una inflamación que afecta a la microglía del cerebro\"",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-11-01T12:14:27+02:00",
-      "enlace": "https://www.redaccionmedica.com/innovacion/avances/20261101/la-depresion-eleva-un-la-mortalidad-por-cualquier-causa-enfermedad-cardiovascular/363912_0.html"
+      "fecha": "2026-11-01T18:49:23+02:00",
+      "enlace": "https://www.redaccionmedica.com/innovacion/20261101/neurologia-alerta-del-impacto-de-la-obesidad-en-salud-cerebral-crea-una-inflamacion-que-afecta-microglia-cerebro/363541_0.html"
     },
     {
-      "titular": "Las condiciones laborales ahuyentan al futuro de la Veterinaria: \"Entré con la idea de irme de España\"",
+      "titular": "El big data de la sanidad privada se aproxima a su siguiente fase con miras a 2027",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-11-01T11:02:53+02:00",
-      "enlace": "https://www.redaccionmedica.com/salud-animal/20261101/las-condiciones-laborales-ahuyentan-al-futuro-de-la-veterinaria-entre-con-idea-irme-espana/363519_0.html"
+      "fecha": "2026-11-01T18:22:09+02:00",
+      "enlace": "https://www.redaccionmedica.com/empresas/sanidad-privada/20261101/el-big-data-de-la-sanidad-privada-se-aproxima-su-siguiente-fase-con-miras/363115_0.html"
+    },
+    {
+      "titular": "Duelo en la AEMPS por el fallecimiento de Cristina Ferris en el accidente ferroviario de Toledo",
+      "medios": [
+        "El Global"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-01T15:32:40+02:00",
+      "enlace": "https://elglobalfarma.com/politica/accidente-tren-toledo-aemps-duelo-fallecida/"
     },
     {
       "titular": "Ruleta clínica: los expertos advierten sobre las ‘apuestas’ en ensayos farmacológicos",
@@ -50,22 +59,13 @@
       "enlace": "https://elglobalfarma.com/opinion/editorial/convenio-farmacia-acercamiento-no-quede-gesto/"
     },
     {
-      "titular": "FIR 2027: qué diferencias hay entre las seis especialidades",
-      "medios": [
-        "El Global"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-30T13:13:32+02:00",
-      "enlace": "https://elglobalfarma.com/farmacia/fir-2027-diferencias-especialidades/"
-    },
-    {
-      "titular": "Entonces... ¿quién protege nuestra salud?",
+      "titular": "Aarón, el estudiante que dejó Enfermería para entrar a Medicina: \"Hice una FP online en tan solo un año\"",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-11-01T10:36:09+02:00",
-      "enlace": "https://www.redaccionmedica.com/opinion/20261101/entonces-quien-protege-nuestra-salud/363970_12.html"
+      "fecha": "2026-11-01T17:32:04+02:00",
+      "enlace": "https://www.redaccionmedica.com/formacion/estudiantes/20261101/aaron-el-estudiante-que-dejo-enfermeria-para-entrar-medicina-hice-una-fp-online-en-tan-solo-un-ano/363379_0.html"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 43,
+    "antiguedad_minima_min": 11,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 1421,
+        "antiguedad_min": 1784,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 9,
         "error": null,
-        "antiguedad_min": 2813,
+        "antiguedad_min": 207,
         "descartados_por_gancho": 1
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 43,
+        "antiguedad_min": 11,
         "descartados_por_gancho": 0
       },
       {

@@ -2,70 +2,70 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "ultimas",
-  "generado": "2026-11-01T12:57:38+02:00",
+  "generado": "2026-11-01T19:00:33+02:00",
   "titulares": [
     {
-      "titular": "La mayoría de los acampados de Sol comienza a abandonar la plaza para trasladar el movimiento \"a los barrios\"",
+      "titular": "Irán continúa las negociaciones indirectas con EEUU para reabrir el estrecho de Ormuz en dos días",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-11-01T12:18:26+02:00",
-      "enlace": "https://www.expansion.com/sociedad/2026/11/01/mayoria-acampados-sol-comienza-abandonar-plaza-trasladar-movimiento-barrios.html"
+      "fecha": "2026-11-01T16:57:12+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/11/01/iran-continua-negociaciones-indirectas-eeuu-reabrir-estrecho-ormuz-dos-dias.html"
     },
     {
-      "titular": "La Bolsa abre mañana pese a trasladarse el festivo del Día de Todos los Santos",
+      "titular": "China investiga por corrupción al expresidente de Sinopec y CNOOC, dos de las mayores petroleras estatales",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-11-01T11:58:14+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/11/01/bolsa-abre-manana-pese-trasladarse-festivo-dia-todos-santos.html"
+      "fecha": "2026-11-01T16:29:29+02:00",
+      "enlace": "https://www.expansion.com/empresas/energia/2026/11/01/china-investiga-corrupcion-expresidente-sinopec-cnooc-dos-mayores-petroleras-estatales.html"
     },
     {
-      "titular": "El doctor Andreu, el farmacéutico que creó un barrio de lujo en Barcelona hace 125 años",
+      "titular": "Santander abona mañana un dividendo de 12,7 céntimos por acción",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-31T21:27:35+02:00",
-      "enlace": "https://www.expansion.com/estilo-vida/2026/10/30/doctor-andreu-farmaceutico-creo-barrio-lujo-barcelona-125-anos.html"
+      "fecha": "2026-11-01T15:58:56+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/11/01/santander-abona-manana-dividendo-12-7-centimos-accion.html"
     },
     {
-      "titular": "Quiénes deciden hoy la gastronomía",
+      "titular": "La OPEP+ decide mantener congelada su oferta de petróleo en diciembre",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-31T21:25:09+02:00",
-      "enlace": "https://www.expansion.com/estilo-vida/rincones-gastronomicos/2026/10/31/quienes-deciden-hoy-gastronomia.html"
+      "fecha": "2026-11-01T15:29:49+02:00",
+      "enlace": "https://www.expansion.com/empresas/energia/2026/11/01/opep-decide-mantener-congelada-oferta-petroleo-diciembre.html"
     },
     {
-      "titular": "Así es la fórmula de éxito de las cuentas de inversión en Europa",
+      "titular": "PP y Vox se personarán en la causa por el accidente de Urda y exigen al Gobierno que asuma responsabilidades",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-31T21:14:31+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/10/31/asi-formula-exito-cuentas-inversion-europa.html"
+      "fecha": "2026-11-01T14:48:46+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/11/01/pp-vox-personaran-causa-accidente-urda-exigen-gobierno-asuma-responsabilidades.html"
     },
     {
-      "titular": "Vivienda: Qué falla en el inmobiliario y cómo solucionarlo",
+      "titular": "El Tesoro volverá esta semana a los mercados con una subasta de Letras y otra de Obligaciones",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-31T21:14:15+02:00",
-      "enlace": "https://www.expansion.com/inmobiliario/2026/10/31/vivienda-falla-inmobiliario-solucionarlo.html"
+      "fecha": "2026-11-01T14:30:28+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/11/01/tesoro-volvera-semana-mercados-subasta-letras-obligaciones.html"
     },
     {
-      "titular": "La IA amenaza con romper las claves de la seguridad digital",
+      "titular": "Amancio Ortega cobrará 1.617 millones de euros en dividendos de Inditex este lunes",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-31T21:14:09+02:00",
-      "enlace": "https://www.expansion.com/economia/financial-times/2026/10/31/ia-amenaza-romper-claves-seguridad-digital.html"
+      "fecha": "2026-11-01T13:45:24+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/11/01/amancio-ortega-cobrara-1-617-millones-euros-dividendos-inditex-lunes.html"
     }
   ],
   "salud": {
@@ -78,16 +78,16 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 39,
+    "antiguedad_minima_min": 123,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 68,
+        "items": 69,
         "error": null,
-        "antiguedad_min": 39,
-        "descartados_por_gancho": 1
+        "antiguedad_min": 123,
+        "descartados_por_gancho": 0
       },
       {
         "medio": "Cinco Días",
