@@ -1,9 +1,64 @@
 {
   "pantalla": "generales",
   "titulo": "Titulares",
-  "modo": "portadas",
-  "generado": "2026-11-01T05:47:29+02:00",
+  "modo": "ultimas",
+  "generado": "2026-11-01T12:57:36+02:00",
   "titulares": [
+    {
+      "titular": "Crisis del Constitucional en Polonia: «Soy el presidente de este tribunal, por favor déjenme entrar»",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-01T12:44:05+02:00",
+      "enlace": "https://www.abc.es/internacional/crisis-constitucional-polonia-presidente-tribunal-favor-dejenme-20261101110145-nt.html"
+    },
+    {
+      "titular": "Ya está disponible en Netflix la nueva película de Luis Zahera y es un éxito: un thriller de Daniel Sánchez Arévalo",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-01T12:43:52+02:00",
+      "enlace": "https://www.abc.es/play/cine/noticias/disponible-netflix-nueva-pelicula-luis-zahera-exito-20261101113000-nt.html"
+    },
+    {
+      "titular": "De Paris Hilton como Morticia Addams a Harry Styles como en su audición de ‘The X Factor’: los mejores disfraces de los famosos en Halloween",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-01T12:34:32+02:00",
+      "enlace": "https://elpais.com/gente/2026-11-01/de-paris-hilton-como-morticia-addams-a-harry-styles-como-en-su-audicon-de-the-x-factor-los-mejores-disfraces-de-los-famosos-en-halloween.html"
+    },
+    {
+      "titular": "Aria Vega: “Aprendí que uno no firma con una discográfica y se vuelve Beyoncé al día siguiente, que es lo que pensaba que iba a suceder”",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-01T11:59:39+02:00",
+      "enlace": "https://elpais.com/smoda/placeres/2026-11-01/aria-vega-aprendi-que-uno-no-firma-con-una-discografica-y-se-vuelve-beyonce-al-dia-siguiente-que-es-lo-que-pensaba-que-iba-a-suceder.html"
+    },
+    {
+      "titular": "El FBI acusa a Corea del Norte de robar 6.000 millones de dólares en criptomonedas a Binance",
+      "medios": [
+        "La Vanguardia",
+        "ABC"
+      ],
+      "consenso": 2,
+      "fecha": "2026-11-01T11:26:06+02:00",
+      "enlace": "https://www.abc.es/economia/fbi-acusa-corea-norte-robar-6000-millones-20261101101136-nt.html"
+    },
+    {
+      "titular": "La historia del metro de Madrid se cuenta en 14 vagones",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-01T11:05:35+02:00",
+      "enlace": "https://www.lavanguardia.com/local/madrid/20261101/11673293/historia-metro-madrid-14-vagones.html"
+    },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
       "medios": [
@@ -12,60 +67,6 @@
       "consenso": 1,
       "fecha": "2022-06-10T01:05:00+02:00",
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
-    },
-    {
-      "titular": "Renfe elevará sus condiciones de seguridad en la línea Madrid-Sevilla para evitar nuevos siniestros",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-31T22:47:13+02:00",
-      "enlace": "https://elpais.com/espana/2026-10-31/renfe-eleva-sus-condiciones-de-seguridad-en-la-linea-madrid-sevilla-para-evitar-nuevos-siniestros.html"
-    },
-    {
-      "titular": "Un despliegue policial sin precedentes disuade a los vándalos en el centro de Barcelona",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-01T01:10:21+02:00",
-      "enlace": "https://www.lavanguardia.com/local/barcelona/20261101/11673063/despliegue-policial-precedentes-disuade-vandalos.html"
-    },
-    {
-      "titular": "Los Mossos frustran una nueva convocatoria de disturbios de Blocus",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-01T04:06:22+02:00",
-      "enlace": "https://www.abc.es/espana/cataluna/mossos-frustran-nueva-convocatoria-disturbios-blocus-20261031211920-nt.html"
-    },
-    {
-      "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
-      "medios": [
-        "RTVE"
-      ],
-      "consenso": 1,
-      "fecha": "2022-06-10T00:03:00+02:00",
-      "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
-    },
-    {
-      "titular": "Una cadena de fallos técnicos tumbó el sistema de seguridad ferroviaria LZB en Urda",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-31T13:59:36+02:00",
-      "enlace": "https://elpais.com/espana/2026-10-31/una-cadena-de-fallos-tecnicos-tumbo-el-sistema-de-seguridad-ferroviaria-lzb-en-urda.html"
-    },
-    {
-      "titular": "Prisión provisional sin fianza para el considerado como “fundador e impulsor” de Blocus España",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-31T12:44:22+02:00",
-      "enlace": "https://www.lavanguardia.com/local/valencia/20261031/11672793/impulsor-blocus-espana-detenido-pasan-sabado-disposicion-judicial.html"
     }
   ],
   "salud": {
@@ -74,7 +75,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 101,
+    "antiguedad_minima_min": 13,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +83,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2311482,
+        "antiguedad_min": 2311912,
         "descartados_por_gancho": 0
       },
       {
@@ -97,28 +98,28 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 144,
+        "items": 134,
         "error": null,
-        "antiguedad_min": 206,
-        "descartados_por_gancho": 5
+        "antiguedad_min": 23,
+        "descartados_por_gancho": 8
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 132,
+        "items": 135,
         "error": null,
-        "antiguedad_min": 209,
-        "descartados_por_gancho": 17
+        "antiguedad_min": 112,
+        "descartados_por_gancho": 24
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 22,
+        "items": 25,
         "error": null,
-        "antiguedad_min": 101,
-        "descartados_por_gancho": 3
+        "antiguedad_min": 13,
+        "descartados_por_gancho": 0
       }
     ]
   }

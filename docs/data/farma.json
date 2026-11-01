@@ -1,9 +1,27 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "portadas",
-  "generado": "2026-11-01T05:47:40+02:00",
+  "modo": "ultimas",
+  "generado": "2026-11-01T12:57:44+02:00",
   "titulares": [
+    {
+      "titular": "La depresión eleva un 81% la mortalidad por cualquier causa y un 101% por enfermedad cardiovascular",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-01T12:14:27+02:00",
+      "enlace": "https://www.redaccionmedica.com/innovacion/avances/20261101/la-depresion-eleva-un-la-mortalidad-por-cualquier-causa-enfermedad-cardiovascular/363912_0.html"
+    },
+    {
+      "titular": "Las condiciones laborales ahuyentan al futuro de la Veterinaria: \"Entré con la idea de irme de España\"",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-01T11:02:53+02:00",
+      "enlace": "https://www.redaccionmedica.com/salud-animal/20261101/las-condiciones-laborales-ahuyentan-al-futuro-de-la-veterinaria-entre-con-idea-irme-espana/363519_0.html"
+    },
     {
       "titular": "Ruleta clínica: los expertos advierten sobre las ‘apuestas’ en ensayos farmacológicos",
       "medios": [
@@ -12,24 +30,6 @@
       "consenso": 1,
       "fecha": "2026-10-31T13:15:59+02:00",
       "enlace": "https://diariofarma.com/2026/10/31/ruleta-clinica-los-expertos-advierten-sobre-las-apuestas-en-ensayos-farmacologicos"
-    },
-    {
-      "titular": "Convenio de farmacia: que el acercamiento no se quede en un gesto",
-      "medios": [
-        "El Global"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-30T14:04:29+02:00",
-      "enlace": "https://elglobalfarma.com/opinion/editorial/convenio-farmacia-acercamiento-no-quede-gesto/"
-    },
-    {
-      "titular": "Dos años de la crisis que marcó un punto de inflexión en Muface: \"La incertidumbre continúa, queda mucho por mejorar\"",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-31T19:17:32+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/muface/20261031/dos-anos-de-la-crisis-que-marco-un-punto-inflexion-en-muface-la-incertidumbre-continua-queda-mucho-por-mejorar/363337_0.html"
     },
     {
       "titular": "El Hospital Balmis impulsa un plan para reducir la huella de carbono de los inhaladores",
@@ -41,13 +41,13 @@
       "enlace": "https://diariofarma.com/2026/10/31/el-hospital-balmis-impulsa-un-plan-para-reducir-la-huella-de-carbono-de-los-inhaladores"
     },
     {
-      "titular": "Un psiquiatra de referencia en el hospital: la iniciativa de los MIR para agilizar el apoyo en salud mental a los residentes",
+      "titular": "Convenio de farmacia: que el acercamiento no se quede en un gesto",
       "medios": [
-        "Redacción Médica"
+        "El Global"
       ],
       "consenso": 1,
-      "fecha": "2026-10-31T18:06:09+02:00",
-      "enlace": "https://www.redaccionmedica.com/formacion/mir/20261031/un-psiquiatra-de-referencia-en-el-hospital-la-iniciativa-los-mir-para-agilizar-apoyo-salud-mental-residentes/363743_0.html"
+      "fecha": "2026-10-30T14:04:29+02:00",
+      "enlace": "https://elglobalfarma.com/opinion/editorial/convenio-farmacia-acercamiento-no-quede-gesto/"
     },
     {
       "titular": "FIR 2027: qué diferencias hay entre las seis especialidades",
@@ -59,13 +59,13 @@
       "enlace": "https://elglobalfarma.com/farmacia/fir-2027-diferencias-especialidades/"
     },
     {
-      "titular": "Madrid incluye el centro de biofarmacia de Tres Cantos dentro de sus cuentas para 2027",
+      "titular": "Entonces... ¿quién protege nuestra salud?",
       "medios": [
-        "Diariofarma"
+        "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-10-30T18:07:38+02:00",
-      "enlace": "https://diariofarma.com/2026/10/30/madrid-incluye-el-centro-de-biofarmacia-de-tres-cantos-dentro-de-sus-cuentas-para-2027"
+      "fecha": "2026-11-01T10:36:09+02:00",
+      "enlace": "https://www.redaccionmedica.com/opinion/20261101/entonces-quien-protege-nuestra-salud/363970_12.html"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 466,
+    "antiguedad_minima_min": 43,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 991,
+        "antiguedad_min": 1421,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 9,
         "error": null,
-        "antiguedad_min": 2383,
+        "antiguedad_min": 2813,
         "descartados_por_gancho": 1
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 466,
+        "antiguedad_min": 43,
         "descartados_por_gancho": 0
       },
       {

@@ -1,26 +1,44 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "portadas",
-  "generado": "2026-11-01T05:47:33+02:00",
+  "modo": "ultimas",
+  "generado": "2026-11-01T12:57:38+02:00",
   "titulares": [
     {
-      "titular": "Vivienda: Qué falla en el inmobiliario y cómo solucionarlo",
+      "titular": "La mayoría de los acampados de Sol comienza a abandonar la plaza para trasladar el movimiento \"a los barrios\"",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-31T21:14:15+02:00",
-      "enlace": "https://www.expansion.com/inmobiliario/2026/10/31/vivienda-falla-inmobiliario-solucionarlo.html"
+      "fecha": "2026-11-01T12:18:26+02:00",
+      "enlace": "https://www.expansion.com/sociedad/2026/11/01/mayoria-acampados-sol-comienza-abandonar-plaza-trasladar-movimiento-barrios.html"
     },
     {
-      "titular": "Iberia, Air Europa, Ryanair, Volotea y Vueling refuerzan sus rutas con Andalucía tras Urda",
+      "titular": "La Bolsa abre mañana pese a trasladarse el festivo del Día de Todos los Santos",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-30T19:39:26+02:00",
-      "enlace": "https://www.expansion.com/empresas/transporte/2026/10/30/iberia-air-europa-ryanair-volotea-vueling-refuerzan-rutas-andalucia-urda.html"
+      "fecha": "2026-11-01T11:58:14+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/11/01/bolsa-abre-manana-pese-trasladarse-festivo-dia-todos-santos.html"
+    },
+    {
+      "titular": "El doctor Andreu, el farmacéutico que creó un barrio de lujo en Barcelona hace 125 años",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-31T21:27:35+02:00",
+      "enlace": "https://www.expansion.com/estilo-vida/2026/10/30/doctor-andreu-farmaceutico-creo-barrio-lujo-barcelona-125-anos.html"
+    },
+    {
+      "titular": "Quiénes deciden hoy la gastronomía",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-31T21:25:09+02:00",
+      "enlace": "https://www.expansion.com/estilo-vida/rincones-gastronomicos/2026/10/31/quienes-deciden-hoy-gastronomia.html"
     },
     {
       "titular": "Así es la fórmula de éxito de las cuentas de inversión en Europa",
@@ -32,40 +50,22 @@
       "enlace": "https://www.expansion.com/mercados/2026/10/31/asi-formula-exito-cuentas-inversion-europa.html"
     },
     {
-      "titular": "Veinte valores fuertes que suben a contracorriente en octubre",
+      "titular": "Vivienda: Qué falla en el inmobiliario y cómo solucionarlo",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-31T01:08:48+02:00",
-      "enlace": "https://www.expansion.com/inversion/2026/10/31/veinte-valores-fuertes-suben-contracorriente-octubre.html"
+      "fecha": "2026-10-31T21:14:15+02:00",
+      "enlace": "https://www.expansion.com/inmobiliario/2026/10/31/vivienda-falla-inmobiliario-solucionarlo.html"
     },
     {
-      "titular": "Guerra mundial por los ricos: quién gana en el éxodo fiscal",
+      "titular": "La IA amenaza con romper las claves de la seguridad digital",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-10-31T01:38:11+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/10/31/guerra-mundial-ricos-gana-exodo-fiscal.html"
-    },
-    {
-      "titular": "La sangría de caja de las tecnológicas por el gasto en IA pone a prueba la paciencia de Wall Street",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-31T00:57:56+02:00",
-      "enlace": "https://www.expansion.com/tecnologia/2026/10/30/sangria-caja-tecnologicas-gasto-ia-pone-prueba-paciencia-wall-street.html"
-    },
-    {
-      "titular": "Rafael Cabello (Fundador de Tonelería del Sur): “La inteligencia artificial no es el enemigo”",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-31T03:17:22+02:00",
-      "enlace": "https://www.expansion.com/estilo-vida/tendencias/2026/10/31/rafael-cabello-fundador-toneleria-sur-inteligencia-artificial-enemigo.html"
+      "fecha": "2026-10-31T21:14:09+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/10/31/ia-amenaza-romper-claves-seguridad-digital.html"
     }
   ],
   "salud": {
@@ -78,7 +78,7 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 499,
+    "antiguedad_minima_min": 39,
     "detalle": [
       {
         "medio": "Expansión",
@@ -86,7 +86,7 @@
         "ok": true,
         "items": 68,
         "error": null,
-        "antiguedad_min": 499,
+        "antiguedad_min": 39,
         "descartados_por_gancho": 1
       },
       {
