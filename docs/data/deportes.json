@@ -1,26 +1,26 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "ultimas",
-  "generado": "2026-11-01T23:18:05+02:00",
+  "modo": "portadas",
+  "generado": "2026-11-02T02:56:18+02:00",
   "titulares": [
     {
-      "titular": "Así queda la clasificación de la Liga Asobal tras el triunfo del Barça en el derbi catalán",
+      "titular": "Balde, abierto a salir en enero: las claves de su situación",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-01T22:53:08+02:00",
-      "enlace": "https://www.mundodeportivo.com/balonmano/20261101/1004245966/asi-queda-clasificacion-liga-asobal-triunfo-barca-derbi-catalan.html"
+      "fecha": "2026-11-01T23:57:58+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261101/1004245979/balde-abierto-salir-enero.html"
     },
     {
-      "titular": "Anselmi: \"Buscamos el partido, pero nos vamos con las manos vacías\"",
+      "titular": "La gran final del Mundial Sub-15, en directo",
       "medios": [
-        "Mundo Deportivo"
+        "Marca"
       ],
       "consenso": 1,
-      "fecha": "2026-11-01T22:52:27+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/elche-cf/20261101/1004245965/anselmi-buscamos-partido-manos-vacias.html"
+      "fecha": "2026-10-30T15:31:56+02:00",
+      "enlace": "https://www.marca.com/futbol/seleccion/2026/10/30/6ae49b2a020dbf8b21b1dec8-directo.html"
     },
     {
       "titular": "Hansi Flick: \"Siempre buscaremos lo mejor para el equipo\"",
@@ -32,6 +32,15 @@
       "enlace": "https://www.marca.com/futbol/barcelona/2026/10/30/hansi-flick-siempre-buscaremos-mejor-equip-video.html"
     },
     {
+      "titular": "Kimi Antonelli es el campeón más joven de la historia de la F1 tras GP México; Verstappen triunfa en el caos",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-02T00:25:15+02:00",
+      "enlace": "https://www.mundodeportivo.com/motor/f1/20261101/1004245929/kimi-antonelli-campeon-joven-historia-f1.html"
+    },
+    {
       "titular": "¡Momento histórico! Hijo de Santi Cazorla debuta con el Real Oviedo en Copa del Rey",
       "medios": [
         "Marca"
@@ -41,31 +50,22 @@
       "enlace": "https://www.marca.com/futbol/copa-rey/2026/10/30/momento-historico-hijo-santi-cazorla-debuta-real-oviedo-copa-rey-video.html"
     },
     {
-      "titular": "Aguirre, entre risas y sin filtros: \"Casi nos vacunan en el 97, me voy a c… en sus muertos\"",
+      "titular": "89-92: El Barça amplía su racha con otra victoria ajustada en el Carpena",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-01T22:44:40+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/valencia/20261101/1004245958/aguirre-risas-filtros-vacunan-97-me-c-muertos.html"
+      "fecha": "2026-11-01T22:07:54+02:00",
+      "enlace": "https://www.mundodeportivo.com/baloncesto/acb/20261101/1004245936/89-92.html"
     },
     {
-      "titular": "Así queda la clasificación de la Liga Endesa tras las victorias de Madrid y Barça",
+      "titular": "¡Ladrando al campo equivocado! Un perro irrumpe en un partido de la Premier League egipcia.",
       "medios": [
-        "Mundo Deportivo"
+        "Marca"
       ],
       "consenso": 1,
-      "fecha": "2026-11-01T22:43:51+02:00",
-      "enlace": "https://www.mundodeportivo.com/baloncesto/acb/20261101/1004245956/asi-queda-clasificacion-liga-endesa-victorias-madrid-barca.html"
-    },
-    {
-      "titular": "La queja que tiene Iraola tras el 0-1 ante Arteta",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-01T22:31:39+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/premier-league/20261101/1004245952/queja-iraola-0-1-arteta.html"
+      "fecha": "2026-10-30T15:15:18+02:00",
+      "enlace": "https://www.marca.com/futbol/2026/10/30/ladrando-campo-equivocado-perro-irrumpe-partido-premier-league-egipcia-video.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 24,
+    "antiguedad_minima_min": 72,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 87,
         "error": null,
-        "antiguedad_min": 3353,
+        "antiguedad_min": 3564,
         "descartados_por_gancho": 8
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 133,
+        "items": 137,
         "error": null,
-        "antiguedad_min": 24,
-        "descartados_por_gancho": 9
+        "antiguedad_min": 72,
+        "descartados_por_gancho": 7
       },
       {
         "medio": "Sport",

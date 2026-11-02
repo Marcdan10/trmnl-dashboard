@@ -1,71 +1,71 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "ultimas",
-  "generado": "2026-11-01T23:18:05+02:00",
+  "modo": "portadas",
+  "generado": "2026-11-02T02:56:17+02:00",
   "titulares": [
     {
-      "titular": "Portugal analiza subir en Galp tras el fin a la fusión con Moeve",
+      "titular": "Juan Bravo: \"El PP derogará toda la intervención del Gobierno sobre la vivienda\"",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-11-01T22:47:54+02:00",
-      "enlace": "https://www.expansion.com/empresas/energia/2026/11/01/portugal-analiza-subir-galp-fusion-moeve.html"
+      "fecha": "2026-11-02T01:01:19+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/11/02/juan-bravo-pp-derogara-toda-intervencion-gobierno-sobre-vivienda.html"
     },
     {
-      "titular": "Ebro apunta a 40.000 coches en 2027 y negocia más financiación",
+      "titular": "Sabadell negocia con Sanitas la renovación de su alianza en salud",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-11-01T22:11:26+02:00",
-      "enlace": "https://www.expansion.com/catalunya/2026/11/01/ebro-apunta-40-000-coches-2027-negocia-financiacion.html"
+      "fecha": "2026-11-02T01:02:36+02:00",
+      "enlace": "https://www.expansion.com/empresas/banca/2026/11/02/sabadell-negocia-sanitas-renovacion-alianza-salud.html"
     },
     {
-      "titular": "Entra en vigor nueva la tasa europea de dos euros a los pequeños envíos",
+      "titular": "Los hedge fund dueños de Codere analizan vender el grupo por partes",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-11-01T21:33:53+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/11/01/entra-vigor-nueva-tasa-europea-dos-euros-pequenos-envios.html"
+      "fecha": "2026-11-02T01:02:17+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/11/02/hedge-fund-duenos-codere-analizan-vender-grupo-partes.html"
     },
     {
-      "titular": "Los usuarios de Binance retiran más de 3.600 millones de la plataforma tras el robo",
+      "titular": "JPMorgan y Santander lideran el mejor año del M&A desde 2006",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-11-01T20:39:49+02:00",
-      "enlace": "https://www.expansion.com/economia/financial-times/2026/11/01/usuarios-binance-retiran-3-600-millones-plataforma-robo.html"
+      "fecha": "2026-11-02T01:09:58+02:00",
+      "enlace": "https://www.expansion.com/empresas/banca/2026/11/02/jpmorgan-santander-lideran-mejor-ano-m-2006.html"
     },
     {
-      "titular": "Irán continúa las negociaciones indirectas con EEUU para reabrir el estrecho de Ormuz en dos días",
+      "titular": "De Texas a Michigan: los estados clave que decidirán las 'midterm'",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-11-01T16:57:12+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/11/01/iran-continua-negociaciones-indirectas-eeuu-reabrir-estrecho-ormuz-dos-dias.html"
+      "fecha": "2026-11-02T01:13:07+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/11/01/texas-michigan-estados-clave-decidiran-midterm.html"
     },
     {
-      "titular": "China investiga por corrupción al expresidente de Sinopec y CNOOC, dos de las mayores petroleras estatales",
+      "titular": "Los fondos cazaopas logran vía libre para invertir fuera del radar en España",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-11-01T16:29:29+02:00",
-      "enlace": "https://www.expansion.com/empresas/energia/2026/11/01/china-investiga-corrupcion-expresidente-sinopec-cnooc-dos-mayores-petroleras-estatales.html"
+      "fecha": "2026-11-02T01:22:42+02:00",
+      "enlace": "https://www.expansion.com/empresas/fusiones-y-adquisiciones/2026/11/02/fondos-cazaopas-logran-via-libre-invertir-fuera-radar-espana.html"
     },
     {
-      "titular": "Santander abona mañana un dividendo de 12,7 céntimos por acción",
+      "titular": "McKinsey: \"España debe encontrar su propia definición del lujo\"",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-11-01T15:58:56+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/11/01/santander-abona-manana-dividendo-12-7-centimos-accion.html"
+      "fecha": "2026-11-02T01:01:41+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/11/02/mckinsey-espana-debe-encontrar-propia-definicion-lujo.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 30,
+    "antiguedad_minima_min": 75,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 69,
+        "items": 68,
         "error": null,
-        "antiguedad_min": 30,
+        "antiguedad_min": 75,
         "descartados_por_gancho": 0
       },
       {

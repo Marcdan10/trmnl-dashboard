@@ -1,63 +1,9 @@
 {
   "pantalla": "generales",
   "titulo": "Titulares",
-  "modo": "ultimas",
-  "generado": "2026-11-01T23:18:02+02:00",
+  "modo": "portadas",
+  "generado": "2026-11-02T02:56:15+02:00",
   "titulares": [
-    {
-      "titular": "GP de México en directo | Un accidente de Bottas provoca una bandera roja",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-01T23:11:26+02:00",
-      "enlace": "https://elpais.com/deportes/formula-1/2026-11-02/gp-de-mexico-en-directo-la-carrera-de-f1-en-vivo.html"
-    },
-    {
-      "titular": "Hamilton pone lustre a la coronación de Antonelli en el GP de México",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-01T23:11:25+02:00",
-      "enlace": "https://elpais.com/deportes/formula-1/2026-10-31/hamilton-pone-lustre-a-la-coronacion-de-antonelli-en-el-gp-de-mexico.html"
-    },
-    {
-      "titular": "Mueren cuatro miembros de una familia, entre ellos dos niños de 2 y 3 años, en un accidente en Malva",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-01T22:49:02+02:00",
-      "enlace": "https://www.abc.es/espana/castilla-leon/mueren-cuatro-personas-dos-menores-accidente-trafico-20261101155827-nt.html"
-    },
-    {
-      "titular": "Almgren, el científico de datos que dejó su trabajo en 2025 y gana el Maratón de Nueva York en su debut",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-01T22:24:17+02:00",
-      "enlace": "https://www.abc.es/deportes/almgren-cientifico-datos-dejo-trabajo-2025-busca-20261030151045-nt.html"
-    },
-    {
-      "titular": "El Barça acaba dibujando una sonrisa en Málaga después de un partidazo",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-01T21:59:10+02:00",
-      "enlace": "https://www.lavanguardia.com/deportes/baloncesto/20261101/11673526/unicaja-barca-liga-endesa.html"
-    },
-    {
-      "titular": "Prisión comunicada y sin fianza para el presunto autor del apuñalamiento mortal en Tordehumos (Valladolid)",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-01T21:20:44+02:00",
-      "enlace": "https://www.lavanguardia.com/local/castilla-leon/20261101/11673524/prision-comunicada-fianza-presunto-autor-apunalamiento-mortal-tordehumos-valladolid.html"
-    },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
       "medios": [
@@ -66,6 +12,60 @@
       "consenso": 1,
       "fecha": "2022-06-10T01:05:00+02:00",
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
+    },
+    {
+      "titular": "António Guterres: “Una competición entre EE UU y China para crear armas con IA podría tener consecuencias devastadoras”",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-01T20:19:28+02:00",
+      "enlace": "https://elpais.com/internacional/2026-11-01/antonio-guterres-una-competicion-entre-ee-uu-y-china-para-crear-armas-con-ia-podria-tener-consecuencias-devastadoras.html"
+    },
+    {
+      "titular": "La jueza urge a tener operarios en las grúas de forma ininterrumpida y trabajar toda la jornada",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-01T15:58:50+02:00",
+      "enlace": "https://www.lavanguardia.com/vida/20261101/11673410/jueza-accidente-urda-urge-gruas-operarios-forma-ininterrumpida.html"
+    },
+    {
+      "titular": "Mueren cuatro miembros de una familia, entre ellos dos niños de 2 y 3 años, en un accidente en Malva (Zamora)",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-02T01:22:48+02:00",
+      "enlace": "https://www.abc.es/espana/castilla-leon/mueren-cuatro-personas-dos-menores-accidente-trafico-20261101155827-nt.html"
+    },
+    {
+      "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
+      "medios": [
+        "RTVE"
+      ],
+      "consenso": 1,
+      "fecha": "2022-06-10T00:03:00+02:00",
+      "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
+    },
+    {
+      "titular": "¿Qué causó el accidente? La secuencia paso a paso de una cadena de fallos que el sistema no detuvo",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-01T06:30:01+02:00",
+      "enlace": "https://elpais.com/espana/2026-11-01/que-causo-el-accidente-la-secuencia-paso-a-paso-de-una-cadena-de-fallos-que-el-sistema-no-detuvo.html"
+    },
+    {
+      "titular": "El modelo ferroviario de España se agrieta en una crisis de difícil solución",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-01T07:00:00+02:00",
+      "enlace": "https://www.lavanguardia.com/vida/20261101/11672958/modelo-ferroviario-espana-agrieta-crisis-dificil-solucion.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 6,
+    "antiguedad_minima_min": 62,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2312533,
+        "antiguedad_min": 2312751,
         "descartados_por_gancho": 0
       },
       {
@@ -97,19 +97,19 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 129,
+        "items": 128,
         "error": null,
-        "antiguedad_min": 6,
+        "antiguedad_min": 62,
         "descartados_por_gancho": 7
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 136,
+        "items": 133,
         "error": null,
-        "antiguedad_min": 78,
-        "descartados_por_gancho": 20
+        "antiguedad_min": 86,
+        "descartados_por_gancho": 19
       },
       {
         "medio": "ABC",
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 29,
+        "antiguedad_min": 93,
         "descartados_por_gancho": 0
       }
     ]

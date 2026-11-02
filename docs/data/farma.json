@@ -1,8 +1,8 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "ultimas",
-  "generado": "2026-11-01T23:18:10+02:00",
+  "modo": "portadas",
+  "generado": "2026-11-02T02:56:22+02:00",
   "titulares": [
     {
       "titular": "Fundación IDIS inicia la fase de cocreación de su proyecto NEXO IA con 50 entidades",
@@ -14,24 +14,6 @@
       "enlace": "https://diariofarma.com/2026/11/01/fundacion-idis-inicia-la-fase-de-cocreacion-de-su-proyecto-nexo-ia-con-50-entidades"
     },
     {
-      "titular": "Genética se implanta a dos velocidades en el SNS con siete autonomías 'adelantadas' a los planes de Sanidad: \"No esperaremos\"",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-01T18:57:45+02:00",
-      "enlace": "https://www.redaccionmedica.com/actualidad/20261101/genetica-se-implanta-dos-velocidades-en-el-sns-con-siete-autonomias-adelantadas-los-planes-de-sanidad-no-esperaremos/363734_0.html"
-    },
-    {
-      "titular": "Neurología alerta del impacto de la obesidad en la salud cerebral: \"Crea una inflamación que afecta a la microglía del cerebro\"",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-01T18:49:23+02:00",
-      "enlace": "https://www.redaccionmedica.com/innovacion/20261101/neurologia-alerta-del-impacto-de-la-obesidad-en-salud-cerebral-crea-una-inflamacion-que-afecta-microglia-cerebro/363541_0.html"
-    },
-    {
       "titular": "Duelo en la AEMPS por el fallecimiento de Cristina Ferris en el accidente ferroviario de Toledo",
       "medios": [
         "El Global"
@@ -39,6 +21,15 @@
       "consenso": 1,
       "fecha": "2026-11-01T15:32:40+02:00",
       "enlace": "https://elglobalfarma.com/politica/accidente-tren-toledo-aemps-duelo-fallecida/"
+    },
+    {
+      "titular": "Genética se implanta a dos velocidades en el SNS con siete autonomías 'adelantadas' a los planes de Sanidad: \"No esperaremos\"",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-01T18:57:45+02:00",
+      "enlace": "https://www.redaccionmedica.com/actualidad/20261101/genetica-se-implanta-dos-velocidades-en-el-sns-con-siete-autonomias-adelantadas-los-planes-de-sanidad-no-esperaremos/363734_0.html"
     },
     {
       "titular": "Ruleta clínica: los expertos advierten sobre las ‘apuestas’ en ensayos farmacológicos",
@@ -66,6 +57,15 @@
       "consenso": 1,
       "fecha": "2026-11-01T18:22:09+02:00",
       "enlace": "https://www.redaccionmedica.com/empresas/sanidad-privada/20261101/el-big-data-de-la-sanidad-privada-se-aproxima-su-siguiente-fase-con-miras/363115_0.html"
+    },
+    {
+      "titular": "El Hospital Balmis impulsa un plan para reducir la huella de carbono en inhaladores",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-31T12:37:16+02:00",
+      "enlace": "https://diariofarma.com/2026/10/31/el-hospital-balmis-impulsa-un-plan-para-reducir-la-huella-de-carbono-de-los-inhaladores"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 228,
+    "antiguedad_minima_min": 447,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 228,
+        "antiguedad_min": 447,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 9,
         "error": null,
-        "antiguedad_min": 465,
+        "antiguedad_min": 683,
         "descartados_por_gancho": 1
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 260,
+        "antiguedad_min": 478,
         "descartados_por_gancho": 0
       },
       {
