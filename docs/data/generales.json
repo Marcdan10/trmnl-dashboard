@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-11-02T02:56:15+02:00",
+  "generado": "2026-11-02T09:10:59+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -14,31 +14,31 @@
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
     },
     {
-      "titular": "António Guterres: “Una competición entre EE UU y China para crear armas con IA podría tener consecuencias devastadoras”",
+      "titular": "La investigación del siniestro de Urda analiza si Adif usó el protocolo erróneo más veces",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-11-01T20:19:28+02:00",
-      "enlace": "https://elpais.com/internacional/2026-11-01/antonio-guterres-una-competicion-entre-ee-uu-y-china-para-crear-armas-con-ia-podria-tener-consecuencias-devastadoras.html"
+      "fecha": "2026-11-02T06:30:01+02:00",
+      "enlace": "https://elpais.com/espana/2026-11-02/la-investigacion-del-siniestro-de-urda-analiza-si-adif-uso-el-protocolo-erroneo-mas-veces.html"
     },
     {
-      "titular": "La jueza urge a tener operarios en las grúas de forma ininterrumpida y trabajar toda la jornada",
+      "titular": "Las empresas reducen el uso de la alta velocidad Barcelona - Madrid",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-11-01T15:58:50+02:00",
-      "enlace": "https://www.lavanguardia.com/vida/20261101/11673410/jueza-accidente-urda-urge-gruas-operarios-forma-ininterrumpida.html"
+      "fecha": "2026-11-02T07:00:00+02:00",
+      "enlace": "https://www.lavanguardia.com/economia/20261102/11673495/me-fio-ave-trabajar-empresas-reducen-tren-crisis.html"
     },
     {
-      "titular": "Mueren cuatro miembros de una familia, entre ellos dos niños de 2 y 3 años, en un accidente en Malva (Zamora)",
+      "titular": "La Policía portuguesa no da tregua a las acampadas por la vivienda en Lisboa y Oporto",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-11-02T01:22:48+02:00",
-      "enlace": "https://www.abc.es/espana/castilla-leon/mueren-cuatro-personas-dos-menores-accidente-trafico-20261101155827-nt.html"
+      "fecha": "2026-11-02T09:03:03+02:00",
+      "enlace": "https://www.abc.es/internacional/policia-portuguesa-tregua-acampadas-vivienda-lisboa-oporto-20261101103547-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -50,22 +50,22 @@
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
     },
     {
-      "titular": "¿Qué causó el accidente? La secuencia paso a paso de una cadena de fallos que el sistema no detuvo",
+      "titular": "La tragedia de Urda encara un largo camino ante la justicia",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-11-01T06:30:01+02:00",
-      "enlace": "https://elpais.com/espana/2026-11-01/que-causo-el-accidente-la-secuencia-paso-a-paso-de-una-cadena-de-fallos-que-el-sistema-no-detuvo.html"
+      "fecha": "2026-11-02T06:30:01+02:00",
+      "enlace": "https://elpais.com/espana/2026-11-02/la-tragedia-de-urda-encara-un-largo-camino-ante-la-justicia.html"
     },
     {
-      "titular": "El modelo ferroviario de España se agrieta en una crisis de difícil solución",
+      "titular": "Renfe prepara nuevas instrucciones de velocidad máxima si falla el sistema LZB",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-11-01T07:00:00+02:00",
-      "enlace": "https://www.lavanguardia.com/vida/20261101/11672958/modelo-ferroviario-espana-agrieta-crisis-dificil-solucion.html"
+      "fecha": "2026-11-02T07:24:23+02:00",
+      "enlace": "https://www.lavanguardia.com/vida/20261102/11673609/renfe-prepara-nuevas-instrucciones-velocidad-maxima-falla-sistema-lzb.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 62,
+    "antiguedad_minima_min": 7,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2312751,
+        "antiguedad_min": 2313125,
         "descartados_por_gancho": 0
       },
       {
@@ -99,17 +99,17 @@
         "ok": true,
         "items": 128,
         "error": null,
-        "antiguedad_min": 62,
-        "descartados_por_gancho": 7
+        "antiguedad_min": 50,
+        "descartados_por_gancho": 10
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 133,
+        "items": 120,
         "error": null,
-        "antiguedad_min": 86,
-        "descartados_por_gancho": 19
+        "antiguedad_min": 67,
+        "descartados_por_gancho": 16
       },
       {
         "medio": "ABC",
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 93,
+        "antiguedad_min": 7,
         "descartados_por_gancho": 0
       }
     ]

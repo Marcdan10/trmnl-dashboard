@@ -1,63 +1,7 @@
 {
   "ciudad": "Barcelona",
-  "generado": "2026-11-02T00:56:23",
+  "generado": "2026-11-02T07:11:06",
   "horas": [
-    {
-      "hora": "01",
-      "temp": 16,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "nube"
-    },
-    {
-      "hora": "02",
-      "temp": 15,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "nube"
-    },
-    {
-      "hora": "03",
-      "temp": 15,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "nube"
-    },
-    {
-      "hora": "04",
-      "temp": 15,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "nube"
-    },
-    {
-      "hora": "05",
-      "temp": 15,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "nube"
-    },
-    {
-      "hora": "06",
-      "temp": 15,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "nube"
-    },
-    {
-      "hora": "07",
-      "temp": 15,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "nube"
-    },
     {
       "hora": "08",
       "temp": 15,
@@ -97,15 +41,71 @@
       "mm": 0,
       "mostrar_prob": false,
       "icono": "nube"
+    },
+    {
+      "hora": "13",
+      "temp": 17,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "nube"
+    },
+    {
+      "hora": "14",
+      "temp": 17,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "nube"
+    },
+    {
+      "hora": "15",
+      "temp": 17,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "nube"
+    },
+    {
+      "hora": "16",
+      "temp": 17,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "nube"
+    },
+    {
+      "hora": "17",
+      "temp": 17,
+      "prob": 3,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "nube"
+    },
+    {
+      "hora": "18",
+      "temp": 17,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "nube"
+    },
+    {
+      "hora": "19",
+      "temp": 16,
+      "prob": 3,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "nube"
     }
   ],
   "dias": [
     {
       "etiqueta": "mar 3",
       "max": 16,
-      "min": 13,
-      "prob": 83,
-      "mm": 15.6,
+      "min": 12,
+      "prob": 88,
+      "mm": 11.2,
       "mostrar_prob": true,
       "destacar": true,
       "icono": "lluvia"
@@ -114,7 +114,7 @@
       "etiqueta": "mié 4",
       "max": 17,
       "min": 12,
-      "prob": 40,
+      "prob": 35,
       "mm": 0,
       "mostrar_prob": true,
       "destacar": false,
@@ -122,9 +122,9 @@
     },
     {
       "etiqueta": "jue 5",
-      "max": 20,
+      "max": 18,
       "min": 12,
-      "prob": 20,
+      "prob": 25,
       "mm": 0,
       "mostrar_prob": true,
       "destacar": false,
@@ -132,8 +132,8 @@
     },
     {
       "etiqueta": "vie 6",
-      "max": 19,
-      "min": 13,
+      "max": 21,
+      "min": 14,
       "prob": 10,
       "mm": 0,
       "mostrar_prob": true,
@@ -142,20 +142,20 @@
     },
     {
       "etiqueta": "sáb 7",
-      "max": 18,
-      "min": 10,
-      "prob": 12,
-      "mm": 0.1,
-      "mostrar_prob": true,
+      "max": 16,
+      "min": 11,
+      "prob": 8,
+      "mm": 3.0,
+      "mostrar_prob": false,
       "destacar": false,
-      "icono": "nube"
+      "icono": "lluvia"
     },
     {
       "etiqueta": "dom 8",
-      "max": 22,
-      "min": 15,
-      "prob": 16,
-      "mm": 1.5,
+      "max": 18,
+      "min": 14,
+      "prob": 35,
+      "mm": 8.4,
       "mostrar_prob": true,
       "destacar": false,
       "icono": "lluvia"
@@ -163,9 +163,9 @@
     {
       "etiqueta": "lun 9",
       "max": 21,
-      "min": 12,
-      "prob": 18,
-      "mm": 0.4,
+      "min": 15,
+      "prob": 39,
+      "mm": 4.8,
       "mostrar_prob": true,
       "destacar": false,
       "icono": "lluvia"
@@ -174,7 +174,7 @@
   "aviso": {
     "activo": true,
     "alcance": "semana",
-    "texto": "Lluvia prevista el mar 3 · 83%"
+    "texto": "Lluvia prevista el mar 3 · 88%"
   },
   "atribucion": "Open-Meteo (CC BY 4.0)"
 }

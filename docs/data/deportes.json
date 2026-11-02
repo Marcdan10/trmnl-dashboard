@@ -2,7 +2,7 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-11-02T02:56:18+02:00",
+  "generado": "2026-11-02T09:11:02+02:00",
   "titulares": [
     {
       "titular": "Balde, abierto a salir en enero: las claves de su situación",
@@ -14,15 +14,6 @@
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261101/1004245979/balde-abierto-salir-enero.html"
     },
     {
-      "titular": "La gran final del Mundial Sub-15, en directo",
-      "medios": [
-        "Marca"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-30T15:31:56+02:00",
-      "enlace": "https://www.marca.com/futbol/seleccion/2026/10/30/6ae49b2a020dbf8b21b1dec8-directo.html"
-    },
-    {
       "titular": "Hansi Flick: \"Siempre buscaremos lo mejor para el equipo\"",
       "medios": [
         "Marca"
@@ -30,15 +21,6 @@
       "consenso": 1,
       "fecha": "2026-10-30T15:24:40+02:00",
       "enlace": "https://www.marca.com/futbol/barcelona/2026/10/30/hansi-flick-siempre-buscaremos-mejor-equip-video.html"
-    },
-    {
-      "titular": "Kimi Antonelli es el campeón más joven de la historia de la F1 tras GP México; Verstappen triunfa en el caos",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-02T00:25:15+02:00",
-      "enlace": "https://www.mundodeportivo.com/motor/f1/20261101/1004245929/kimi-antonelli-campeon-joven-historia-f1.html"
     },
     {
       "titular": "¡Momento histórico! Hijo de Santi Cazorla debuta con el Real Oviedo en Copa del Rey",
@@ -50,13 +32,13 @@
       "enlace": "https://www.marca.com/futbol/copa-rey/2026/10/30/momento-historico-hijo-santi-cazorla-debuta-real-oviedo-copa-rey-video.html"
     },
     {
-      "titular": "89-92: El Barça amplía su racha con otra victoria ajustada en el Carpena",
+      "titular": "Kimi Antonelli es el campeón más joven de la historia de la F1 tras GP México; Verstappen triunfa en el caos",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-01T22:07:54+02:00",
-      "enlace": "https://www.mundodeportivo.com/baloncesto/acb/20261101/1004245936/89-92.html"
+      "fecha": "2026-11-02T00:25:15+02:00",
+      "enlace": "https://www.mundodeportivo.com/motor/f1/20261101/1004245929/kimi-antonelli-campeon-joven-historia-f1.html"
     },
     {
       "titular": "¡Ladrando al campo equivocado! Un perro irrumpe en un partido de la Premier League egipcia.",
@@ -66,6 +48,24 @@
       "consenso": 1,
       "fecha": "2026-10-30T15:15:18+02:00",
       "enlace": "https://www.marca.com/futbol/2026/10/30/ladrando-campo-equivocado-perro-irrumpe-partido-premier-league-egipcia-video.html"
+    },
+    {
+      "titular": "89-92: El Barça amplía su racha con otra victoria ajustada en el Carpena",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-01T22:07:54+02:00",
+      "enlace": "https://www.mundodeportivo.com/baloncesto/acb/20261101/1004245936/89-92.html"
+    },
+    {
+      "titular": "El anti Infantino cobra fuerza",
+      "medios": [
+        "Marca"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-30T14:53:04+02:00",
+      "enlace": "https://www.marca.com/futbol/2026/10/30/final-wenger-candidato-anti-infantino.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 72,
+    "antiguedad_minima_min": 18,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 87,
         "error": null,
-        "antiguedad_min": 3564,
+        "antiguedad_min": 3946,
         "descartados_por_gancho": 8
       },
       {
@@ -99,9 +99,9 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 137,
+        "items": 138,
         "error": null,
-        "antiguedad_min": 72,
+        "antiguedad_min": 18,
         "descartados_por_gancho": 7
       },
       {
