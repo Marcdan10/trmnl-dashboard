@@ -1,63 +1,9 @@
 {
   "pantalla": "generales",
   "titulo": "Titulares",
-  "modo": "ultimas",
-  "generado": "2026-11-02T19:17:32+02:00",
+  "modo": "portadas",
+  "generado": "2026-11-03T01:57:37+02:00",
   "titulares": [
-    {
-      "titular": "Foro World in Progress 2026 de Barcelona, en directo | Arcadi España afirma que “hay una estrategia deliberada de potencias mundiales” que buscan “disolver” la UE",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-02T19:13:13+02:00",
-      "enlace": "https://elpais.com/internacional/2026-11-02/foro-world-in-progress-de-barcelona-en-directo.html"
-    },
-    {
-      "titular": "Un nuevo ciberataque altera los sistemas de refrigeración de supermercados de varios países europeos",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-02T19:11:27+02:00",
-      "enlace": "https://www.abc.es/tecnologia/nuevo-ciberataque-altera-sistemas-refrigeracion-supermercados-suecia-20261102114132-nt.html"
-    },
-    {
-      "titular": "Medio centenar de sintecho se constituyen en asociación y toman el relevo en la acampada de Sol",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-02T19:11:24+02:00",
-      "enlace": "https://www.abc.es/espana/madrid/medio-centenar-sintecho-constituyen-asociacion-toman-relevo-20261101014702-nt.html"
-    },
-    {
-      "titular": "‘Júlia – 15 anys més tard’ al Teatre Lliure: El temps passa i tot segueix igual",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-02T18:56:00+02:00",
-      "enlace": "https://elpais.com/quadern/teatre/2026-11-02/julia-15-anys-mes-tard-al-teatre-lliure-el-temps-passa-i-tot-segueix-igual.html"
-    },
-    {
-      "titular": "Daneses gigantes y tensión en las calles, en las imágenes del día",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-02T18:42:01+02:00",
-      "enlace": "https://www.lavanguardia.com/fotos/20261102/11674269/daneses-gigantes-tension-calles-imagenes-dia.html"
-    },
-    {
-      "titular": "Comparativa de suplementos de ácido fólico: qué tener en cuenta",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-02T18:10:25+02:00",
-      "enlace": "https://www.lavanguardia.com/comprar/mas-valorados/20260730/11604523/mejores-suplementos-acido-folico-comparativa-mkt-eo.html"
-    },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
       "medios": [
@@ -66,6 +12,60 @@
       "consenso": 1,
       "fecha": "2022-06-10T01:05:00+02:00",
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
+    },
+    {
+      "titular": "Sánchez anuncia ayudas específicas y el adelanto de las indemnizaciones para las víctimas del accidente de Urda",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-02T12:55:00+02:00",
+      "enlace": "https://elpais.com/internacional/2026-11-02/sanchez-debemos-recuperar-la-confianza-en-la-alta-velocidad-cuanto-antes-y-cueste-lo-que-cueste.html"
+    },
+    {
+      "titular": "Trump cierra su campaña para las legislativas: “Son las más importantes de nuestras vidas”",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-02T22:03:55+02:00",
+      "enlace": "https://www.lavanguardia.com/internacional/20261102/11674481/trump-cierra-campana-legislativas-son-mas-importantes-vidas.html"
+    },
+    {
+      "titular": "Tortitas de calabacín, paso a paso",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-03T01:51:34+02:00",
+      "enlace": "https://www.abc.es/recetasderechupete/tortitas-de-calabacin-paso-a-paso-una-receta-rapida-y-sencilla/95298/"
+    },
+    {
+      "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
+      "medios": [
+        "RTVE"
+      ],
+      "consenso": 1,
+      "fecha": "2022-06-10T00:03:00+02:00",
+      "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
+    },
+    {
+      "titular": "Máxima presión para el cese del presidente de Adif a horas de la comparecencia de Puente en el Congreso",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-02T14:06:54+02:00",
+      "enlace": "https://elpais.com/espana/2026-11-02/maxima-presion-para-el-cese-del-presidente-de-adif-a-horas-de-la-comparecencia-de-puente-en-el-congreso.html"
+    },
+    {
+      "titular": "¿Cómo funcionan las 'midterm' y por qué son cruciales para Trump?",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-02T14:41:09+02:00",
+      "enlace": "https://www.lavanguardia.com/internacional/20261102/11673996/como-funcionan-midterm-elecciones-eeuu-trump.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 4,
+    "antiguedad_minima_min": 6,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2313732,
+        "antiguedad_min": 2314132,
         "descartados_por_gancho": 0
       },
       {
@@ -90,26 +90,26 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 500",
+        "error": "HTTP 429",
         "antiguedad_min": null
       },
       {
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 141,
+        "items": 148,
         "error": null,
-        "antiguedad_min": 4,
+        "antiguedad_min": 36,
         "descartados_por_gancho": 7
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 130,
+        "items": 131,
         "error": null,
-        "antiguedad_min": 35,
-        "descartados_por_gancho": 16
+        "antiguedad_min": 52,
+        "descartados_por_gancho": 15
       },
       {
         "medio": "ABC",

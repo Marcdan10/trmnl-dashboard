@@ -1,38 +1,20 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "ultimas",
-  "generado": "2026-11-02T19:17:36+02:00",
+  "modo": "portadas",
+  "generado": "2026-11-03T01:57:40+02:00",
   "titulares": [
     {
-      "titular": "Marvell compra Lumentum por más de 103.000 millones para crecer en IA",
+      "titular": "El Ibex cierra a las puertas del 19.000 tras firmar su mejor sesión desde julio",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-11-02T18:11:55+02:00",
-      "enlace": "https://www.expansion.com/empresas/fusiones-y-adquisiciones/2026/11/02/marvell-compra-lumentum-103-000-millones-crecer-ia.html"
+      "fecha": "2026-11-02T08:54:52+02:00",
+      "enlace": "https://www.expansion.com/mercados/cronica-bolsa/2026/11/02/ibex-estrena-mes-alivio-petroleo.html"
     },
     {
-      "titular": "La fiebre de la IA no puede sobrevivir a unos tipos de interés más altos",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-02T17:59:01+02:00",
-      "enlace": "https://www.expansion.com/economia/financial-times/2026/11/02/fiebre-ia-sobrevivir-tipos-interes-altos.html"
-    },
-    {
-      "titular": "Anthropic factura 15.000 millones en el tercer trimestre, según el folleto actualizado de su OPV",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-02T17:28:44+02:00",
-      "enlace": "https://www.expansion.com/tecnologia/2026/11/02/anthropic-factura-15-000-millones-tercer-trimestre-folleto-actualizado-opv.html"
-    },
-    {
-      "titular": "El petróleo cae un 7% por los avances en las negociaciones con Irán para acabar con la guerra",
+      "titular": "El petróleo cae un 7,6% por los avances en las negociaciones con Irán para acabar con la guerra",
       "medios": [
         "Expansión"
       ],
@@ -41,31 +23,49 @@
       "enlace": "https://www.expansion.com/mercados/materias-primas/2026/11/02/petroleo-cae-6-posible-acuerdo-iran-acabar-guerra.html"
     },
     {
-      "titular": "Hello Kitty se ve atrapada en una disputa entre Japón y China",
+      "titular": "Apple gana un 12% más en el primer trimestre de Ternus",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-11-02T16:28:33+02:00",
-      "enlace": "https://www.expansion.com/economia/financial-times/2026/11/02/hello-kitty-ve-atrapada-disputa-japon-china.html"
+      "fecha": "2026-11-03T00:10:55+02:00",
+      "enlace": "https://www.expansion.com/tecnologia/2026/11/02/apple-gana-12-primer-tirmestre-ternus.html"
     },
     {
-      "titular": "Illa pide mantener la alta velocidad entre Madrid y Barcelona pese a las obras",
+      "titular": "Juan Bravo: \"El PP derogará toda la intervención del Gobierno sobre la vivienda\"",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-11-02T16:22:32+02:00",
-      "enlace": "https://www.expansion.com/catalunya/2026/11/02/illa-pide-mantener-alta-velocidad-madrid-barcelona-pese-obras.html"
+      "fecha": "2026-11-02T01:01:19+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/11/02/juan-bravo-pp-derogara-toda-intervencion-gobierno-sobre-vivienda.html"
     },
     {
-      "titular": "El significado de las elecciones de mitad de mandato",
+      "titular": "Diez valores de la Bolsa española disparan su contratación",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-11-02T16:15:44+02:00",
-      "enlace": "https://www.expansion.com/economia/financial-times/2026/11/02/significado-elecciones-mitad-mandato.html"
+      "fecha": "2026-11-02T00:57:38+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/11/01/diez-valores-bolsa-espanola-disparan-contratacion.html"
+    },
+    {
+      "titular": "Las tres fechas clave en noviembre que afronta Telefónica",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-02T10:23:49+02:00",
+      "enlace": "https://www.expansion.com/mercados/2026/11/02/tres-fechas-clave-noviembre-afronta-telefonica-1.html"
+    },
+    {
+      "titular": "La debacle de los bonos basura provoca una ‘masacre’ entre los inversores en crédito",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-02T11:02:04+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/11/02/debacle-bonos-basura-provoca-masacre-inversores-credito.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 65,
+    "antiguedad_minima_min": 106,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 76,
+        "items": 78,
         "error": null,
-        "antiguedad_min": 65,
+        "antiguedad_min": 106,
         "descartados_por_gancho": 0
       },
       {
