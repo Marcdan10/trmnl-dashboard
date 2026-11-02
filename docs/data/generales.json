@@ -1,9 +1,63 @@
 {
   "pantalla": "generales",
   "titulo": "Titulares",
-  "modo": "portadas",
-  "generado": "2026-11-02T09:10:59+02:00",
+  "modo": "ultimas",
+  "generado": "2026-11-02T19:17:32+02:00",
   "titulares": [
+    {
+      "titular": "Foro World in Progress 2026 de Barcelona, en directo | Arcadi España afirma que “hay una estrategia deliberada de potencias mundiales” que buscan “disolver” la UE",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-02T19:13:13+02:00",
+      "enlace": "https://elpais.com/internacional/2026-11-02/foro-world-in-progress-de-barcelona-en-directo.html"
+    },
+    {
+      "titular": "Un nuevo ciberataque altera los sistemas de refrigeración de supermercados de varios países europeos",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-02T19:11:27+02:00",
+      "enlace": "https://www.abc.es/tecnologia/nuevo-ciberataque-altera-sistemas-refrigeracion-supermercados-suecia-20261102114132-nt.html"
+    },
+    {
+      "titular": "Medio centenar de sintecho se constituyen en asociación y toman el relevo en la acampada de Sol",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-02T19:11:24+02:00",
+      "enlace": "https://www.abc.es/espana/madrid/medio-centenar-sintecho-constituyen-asociacion-toman-relevo-20261101014702-nt.html"
+    },
+    {
+      "titular": "‘Júlia – 15 anys més tard’ al Teatre Lliure: El temps passa i tot segueix igual",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-02T18:56:00+02:00",
+      "enlace": "https://elpais.com/quadern/teatre/2026-11-02/julia-15-anys-mes-tard-al-teatre-lliure-el-temps-passa-i-tot-segueix-igual.html"
+    },
+    {
+      "titular": "Daneses gigantes y tensión en las calles, en las imágenes del día",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-02T18:42:01+02:00",
+      "enlace": "https://www.lavanguardia.com/fotos/20261102/11674269/daneses-gigantes-tension-calles-imagenes-dia.html"
+    },
+    {
+      "titular": "Comparativa de suplementos de ácido fólico: qué tener en cuenta",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-02T18:10:25+02:00",
+      "enlace": "https://www.lavanguardia.com/comprar/mas-valorados/20260730/11604523/mejores-suplementos-acido-folico-comparativa-mkt-eo.html"
+    },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
       "medios": [
@@ -12,60 +66,6 @@
       "consenso": 1,
       "fecha": "2022-06-10T01:05:00+02:00",
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
-    },
-    {
-      "titular": "La investigación del siniestro de Urda analiza si Adif usó el protocolo erróneo más veces",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-02T06:30:01+02:00",
-      "enlace": "https://elpais.com/espana/2026-11-02/la-investigacion-del-siniestro-de-urda-analiza-si-adif-uso-el-protocolo-erroneo-mas-veces.html"
-    },
-    {
-      "titular": "Las empresas reducen el uso de la alta velocidad Barcelona - Madrid",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-02T07:00:00+02:00",
-      "enlace": "https://www.lavanguardia.com/economia/20261102/11673495/me-fio-ave-trabajar-empresas-reducen-tren-crisis.html"
-    },
-    {
-      "titular": "La Policía portuguesa no da tregua a las acampadas por la vivienda en Lisboa y Oporto",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-02T09:03:03+02:00",
-      "enlace": "https://www.abc.es/internacional/policia-portuguesa-tregua-acampadas-vivienda-lisboa-oporto-20261101103547-nt.html"
-    },
-    {
-      "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
-      "medios": [
-        "RTVE"
-      ],
-      "consenso": 1,
-      "fecha": "2022-06-10T00:03:00+02:00",
-      "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
-    },
-    {
-      "titular": "La tragedia de Urda encara un largo camino ante la justicia",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-02T06:30:01+02:00",
-      "enlace": "https://elpais.com/espana/2026-11-02/la-tragedia-de-urda-encara-un-largo-camino-ante-la-justicia.html"
-    },
-    {
-      "titular": "Renfe prepara nuevas instrucciones de velocidad máxima si falla el sistema LZB",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-02T07:24:23+02:00",
-      "enlace": "https://www.lavanguardia.com/vida/20261102/11673609/renfe-prepara-nuevas-instrucciones-velocidad-maxima-falla-sistema-lzb.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 7,
+    "antiguedad_minima_min": 4,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2313125,
+        "antiguedad_min": 2313732,
         "descartados_por_gancho": 0
       },
       {
@@ -97,28 +97,28 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 128,
+        "items": 141,
         "error": null,
-        "antiguedad_min": 50,
-        "descartados_por_gancho": 10
+        "antiguedad_min": 4,
+        "descartados_por_gancho": 7
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 120,
+        "items": 130,
         "error": null,
-        "antiguedad_min": 67,
+        "antiguedad_min": 35,
         "descartados_por_gancho": 16
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 25,
+        "items": 24,
         "error": null,
-        "antiguedad_min": 7,
-        "descartados_por_gancho": 0
+        "antiguedad_min": 6,
+        "descartados_por_gancho": 1
       }
     ]
   }

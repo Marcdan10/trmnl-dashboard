@@ -1,17 +1,44 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "portadas",
-  "generado": "2026-11-02T09:11:06+02:00",
+  "modo": "ultimas",
+  "generado": "2026-11-02T19:17:47+02:00",
   "titulares": [
     {
-      "titular": "Fundación IDIS inicia la fase de cocreación de su proyecto NEXO IA con 50 entidades",
+      "titular": "Investigadores andaluces diseñan nanopartículas sostenibles contra bacterias comunes",
       "medios": [
         "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-11-01T19:29:18+02:00",
-      "enlace": "https://diariofarma.com/2026/11/01/fundacion-idis-inicia-la-fase-de-cocreacion-de-su-proyecto-nexo-ia-con-50-entidades"
+      "fecha": "2026-11-02T18:44:02+02:00",
+      "enlace": "https://diariofarma.com/2026/11/02/investigadores-andaluces-disenan-nanoparticulas-sostenibles-contra-bacterias-comunes"
+    },
+    {
+      "titular": "La crisis del ébola supera la barrera de los 5.100 muertos con una letalidad del 49% en la República del Congo",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-02T18:13:26+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/internacional/20261102/la-crisis-del-ebola-supera-la-barrera-de-los-muertos-con-una-letalidad-en-republica-congo/364008_0.html"
+    },
+    {
+      "titular": "El Virgen del Rocío invierte las reglas del juego de las CAR-T para tratar enfermedades inflamatorias intestinales",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-02T17:00:08+02:00",
+      "enlace": "https://www.redaccionmedica.com/innovacion/20261102/el-virgen-del-rocio-invierte-las-reglas-juego-de-car-t-para-tratar-enfermedades-inflamatorias-intestinales/363394_0.html"
+    },
+    {
+      "titular": "Las diferencias de HTA crean demandas de evidencia propias: España exigirá impacto",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-02T13:34:00+02:00",
+      "enlace": "https://diariofarma.com/2026/11/02/las-diferencias-de-hta-crean-demandas-de-evidencia-propias-espana-exigira-impacto"
     },
     {
       "titular": "Duelo en la AEMPS por el fallecimiento de Cristina Ferris en el accidente ferroviario de Toledo",
@@ -23,24 +50,6 @@
       "enlace": "https://elglobalfarma.com/politica/accidente-tren-toledo-aemps-duelo-fallecida/"
     },
     {
-      "titular": "Genética se implanta a dos velocidades en el SNS con siete autonomías 'adelantadas' a los planes de Sanidad: \"No esperaremos\"",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-01T18:57:45+02:00",
-      "enlace": "https://www.redaccionmedica.com/actualidad/20261101/genetica-se-implanta-dos-velocidades-en-el-sns-con-siete-autonomias-adelantadas-los-planes-de-sanidad-no-esperaremos/363734_0.html"
-    },
-    {
-      "titular": "Ruleta clínica: los expertos advierten sobre las ‘apuestas’ en ensayos farmacológicos",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-31T13:15:59+02:00",
-      "enlace": "https://diariofarma.com/2026/10/31/ruleta-clinica-los-expertos-advierten-sobre-las-apuestas-en-ensayos-farmacologicos"
-    },
-    {
       "titular": "Convenio de farmacia: que el acercamiento no se quede en un gesto",
       "medios": [
         "El Global"
@@ -50,22 +59,13 @@
       "enlace": "https://elglobalfarma.com/opinion/editorial/convenio-farmacia-acercamiento-no-quede-gesto/"
     },
     {
-      "titular": "El big data de la sanidad privada se aproxima a su siguiente fase con miras a 2027",
+      "titular": "Redes internacionales de datos, el camino para abrir paso a más ensayos en desarrollo sexual diverso",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-11-01T18:22:09+02:00",
-      "enlace": "https://www.redaccionmedica.com/empresas/sanidad-privada/20261101/el-big-data-de-la-sanidad-privada-se-aproxima-su-siguiente-fase-con-miras/363115_0.html"
-    },
-    {
-      "titular": "El Hospital Balmis impulsa un plan para reducir la huella de carbono en inhaladores",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-31T12:37:16+02:00",
-      "enlace": "https://diariofarma.com/2026/10/31/el-hospital-balmis-impulsa-un-plan-para-reducir-la-huella-de-carbono-de-los-inhaladores"
+      "fecha": "2026-11-02T16:23:47+02:00",
+      "enlace": "https://www.redaccionmedica.com/autonomias/catalunya/20261102/redes-internacionales-de-datos-el-camino-para-abrir-paso-mas-ensayos-en-desarrollo-sexual-diverso/363275_0.html"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 821,
+    "antiguedad_minima_min": 33,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 821,
+        "antiguedad_min": 33,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 9,
         "error": null,
-        "antiguedad_min": 1058,
+        "antiguedad_min": 1665,
         "descartados_por_gancho": 1
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 853,
+        "antiguedad_min": 64,
         "descartados_por_gancho": 0
       },
       {

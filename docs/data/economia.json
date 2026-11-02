@@ -1,71 +1,71 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "portadas",
-  "generado": "2026-11-02T09:11:01+02:00",
+  "modo": "ultimas",
+  "generado": "2026-11-02T19:17:36+02:00",
   "titulares": [
     {
-      "titular": "Juan Bravo: \"El PP derogará toda la intervención del Gobierno sobre la vivienda\"",
+      "titular": "Marvell compra Lumentum por más de 103.000 millones para crecer en IA",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-11-02T01:01:19+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/11/02/juan-bravo-pp-derogara-toda-intervencion-gobierno-sobre-vivienda.html"
+      "fecha": "2026-11-02T18:11:55+02:00",
+      "enlace": "https://www.expansion.com/empresas/fusiones-y-adquisiciones/2026/11/02/marvell-compra-lumentum-103-000-millones-crecer-ia.html"
     },
     {
-      "titular": "Sabadell negocia con Sanitas la renovación de su alianza en salud",
+      "titular": "La fiebre de la IA no puede sobrevivir a unos tipos de interés más altos",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-11-02T01:02:36+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/11/02/sabadell-negocia-sanitas-renovacion-alianza-salud.html"
+      "fecha": "2026-11-02T17:59:01+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/11/02/fiebre-ia-sobrevivir-tipos-interes-altos.html"
     },
     {
-      "titular": "Los hedge fund dueños de Codere analizan vender el grupo por partes",
+      "titular": "Anthropic factura 15.000 millones en el tercer trimestre, según el folleto actualizado de su OPV",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-11-02T01:02:17+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/11/02/hedge-fund-duenos-codere-analizan-vender-grupo-partes.html"
+      "fecha": "2026-11-02T17:28:44+02:00",
+      "enlace": "https://www.expansion.com/tecnologia/2026/11/02/anthropic-factura-15-000-millones-tercer-trimestre-folleto-actualizado-opv.html"
     },
     {
-      "titular": "JPMorgan y Santander lideran el mejor año del M&A desde 2006",
+      "titular": "El petróleo cae un 7% por los avances en las negociaciones con Irán para acabar con la guerra",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-11-02T01:09:58+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/11/02/jpmorgan-santander-lideran-mejor-ano-m-2006.html"
+      "fecha": "2026-11-02T16:59:01+02:00",
+      "enlace": "https://www.expansion.com/mercados/materias-primas/2026/11/02/petroleo-cae-6-posible-acuerdo-iran-acabar-guerra.html"
     },
     {
-      "titular": "De Texas a Michigan: los estados clave que decidirán las 'midterm'",
+      "titular": "Hello Kitty se ve atrapada en una disputa entre Japón y China",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-11-02T01:13:07+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/11/01/texas-michigan-estados-clave-decidiran-midterm.html"
+      "fecha": "2026-11-02T16:28:33+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/11/02/hello-kitty-ve-atrapada-disputa-japon-china.html"
     },
     {
-      "titular": "Diez valores de la Bolsa española disparan su contratación",
+      "titular": "Illa pide mantener la alta velocidad entre Madrid y Barcelona pese a las obras",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-11-02T00:57:38+02:00",
-      "enlace": "https://www.expansion.com/mercados/2026/11/01/diez-valores-bolsa-espanola-disparan-contratacion.html"
+      "fecha": "2026-11-02T16:22:32+02:00",
+      "enlace": "https://www.expansion.com/catalunya/2026/11/02/illa-pide-mantener-alta-velocidad-madrid-barcelona-pese-obras.html"
     },
     {
-      "titular": "McKinsey: \"España debe encontrar su propia definición del lujo\"",
+      "titular": "El significado de las elecciones de mitad de mandato",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-11-02T01:01:41+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/11/02/mckinsey-espana-debe-encontrar-propia-definicion-lujo.html"
+      "fecha": "2026-11-02T16:15:44+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/11/02/significado-elecciones-mitad-mandato.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 16,
+    "antiguedad_minima_min": 65,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 68,
+        "items": 76,
         "error": null,
-        "antiguedad_min": 16,
+        "antiguedad_min": 65,
         "descartados_por_gancho": 0
       },
       {
