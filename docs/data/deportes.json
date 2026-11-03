@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-11-03T15:26:41+02:00",
+  "generado": "2026-11-03T22:12:30+02:00",
   "titulares": [
     {
-      "titular": "Duro golpe para Carmen Porter: incumplió el deber de contrastar la información en Cuatro",
+      "titular": "Juanjo, mecánico: \"Solo me he quedado tirado cuatro veces y fueron siempre con estos dos motores\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-03T14:56:04+02:00",
-      "enlace": "https://www.mundodeportivo.com/elotromundo/television/20261103/1004246680/duro-golpe-carmen-porter-determinan-incumplio-deber-contrastar-informacion-horizonte-dct.html"
+      "fecha": "2026-11-03T21:45:55+02:00",
+      "enlace": "https://www.mundodeportivo.com/actualidad/20261103/1004246877/juan-jose-ebenezer-mecanico-me-he-quedado-tirado-cuatro-veces-mi-vida-siempre-coches-dos-motores-cmt-dct.html"
     },
     {
-      "titular": "España ya conoce el camino hacia la tercera corona de la Nations League",
+      "titular": "71-73: El Valencia Basket logra un triunfo histórico en Estambul",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-03T14:55:06+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/femenino/20261103/1004246682/espana-conoce-camino-tercera-corona.html"
+      "fecha": "2026-11-03T21:40:31+02:00",
+      "enlace": "https://www.mundodeportivo.com/baloncesto/20261103/1004246874/71-73-valencia-basket-logra-triunfo-historico-estambul.html"
     },
     {
       "titular": "La gran final del Mundial Sub-15, en directo",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/barcelona/2026/10/30/hansi-flick-siempre-buscaremos-mejor-equip-video.html"
     },
     {
-      "titular": "Plata y bronce para España en remo de mar en los Juegos Olímpicos de la Juventud",
+      "titular": "2-0: Batrakov lidera al Galatasaray y baja de la nube al Stuttgart",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-03T14:48:55+02:00",
-      "enlace": "https://www.mundodeportivo.com/otros-deportes/20261103/1004246678/plata-bronce-espana-remo-mar-juegos-olimpicos-juventud.html"
+      "fecha": "2026-11-03T21:40:16+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/champions-league/20261103/1004246823/galatasaray-stuttgart.html"
     },
     {
-      "titular": "En Málaga recuerdan la muerte del portero José Antonio Gallardo en un lance similar",
+      "titular": "Jódar - Ruud, en directo: segunda ronda del Masters de París",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-03T14:42:04+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/20261103/1004246673/malaga-recuerdan-muerte-portero-jose-antonio-gallardo-lance-similar-jesus-miguel.html"
+      "fecha": "2026-11-03T21:32:26+02:00",
+      "enlace": "https://www.mundodeportivo.com/tenis/20261103/1004246875/jodar-ruud-directo-segunda-ronda-masters-1000-paris-vivo.html"
     },
     {
-      "titular": "Abascal cierra su entrevista más esperada en RTVE: será en este programa y este día",
+      "titular": "Villarreal - Paris Saint-Germain, en directo",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-03T14:37:58+02:00",
-      "enlace": "https://www.mundodeportivo.com/elotromundo/television/20261103/1004246674/santiago-abascal-cierra-entrevista-mas-esperada-rtve-sera-programa-dia-dct.html"
+      "fecha": "2026-11-03T21:30:35+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/champions-league/20261103/1004244871/villarreal-paris-saint-germain-directo-champions-league.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 30,
+    "antiguedad_minima_min": 26,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 87,
         "error": null,
-        "antiguedad_min": 5754,
+        "antiguedad_min": 6160,
         "descartados_por_gancho": 8
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 149,
+        "items": 143,
         "error": null,
-        "antiguedad_min": 30,
-        "descartados_por_gancho": 4
+        "antiguedad_min": 26,
+        "descartados_por_gancho": 6
       },
       {
         "medio": "Sport",
