@@ -1,17 +1,35 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "portadas",
-  "generado": "2026-11-03T07:38:23+02:00",
+  "modo": "ultimas",
+  "generado": "2026-11-03T15:26:41+02:00",
   "titulares": [
     {
-      "titular": "Estudian presentar candidatura para la final de la Champions femenina 2031",
+      "titular": "Duro golpe para Carmen Porter: incumplió el deber de contrastar la información en Cuatro",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-02T22:33:01+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261102/1004246392/barca-generalitat-estudian-presentar-candidatura-final-champions-femenina-2031.html"
+      "fecha": "2026-11-03T14:56:04+02:00",
+      "enlace": "https://www.mundodeportivo.com/elotromundo/television/20261103/1004246680/duro-golpe-carmen-porter-determinan-incumplio-deber-contrastar-informacion-horizonte-dct.html"
+    },
+    {
+      "titular": "España ya conoce el camino hacia la tercera corona de la Nations League",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-03T14:55:06+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/femenino/20261103/1004246682/espana-conoce-camino-tercera-corona.html"
+    },
+    {
+      "titular": "La gran final del Mundial Sub-15, en directo",
+      "medios": [
+        "Marca"
+      ],
+      "consenso": 1,
+      "fecha": "2026-10-30T15:31:56+02:00",
+      "enlace": "https://www.marca.com/futbol/seleccion/2026/10/30/6ae49b2a020dbf8b21b1dec8-directo.html"
     },
     {
       "titular": "Hansi Flick: \"Siempre buscaremos lo mejor para el equipo\"",
@@ -23,49 +41,31 @@
       "enlace": "https://www.marca.com/futbol/barcelona/2026/10/30/hansi-flick-siempre-buscaremos-mejor-equip-video.html"
     },
     {
-      "titular": "2-1: El Deportivo vuelve a la senda del triunfo en el regreso de Aubameyang",
+      "titular": "Plata y bronce para España en remo de mar en los Juegos Olímpicos de la Juventud",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-03T00:07:12+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/deportivo-coruna/20261102/1004246420/deportivo-vuelve-senda-triunfo-regreso-aubameyang.html"
+      "fecha": "2026-11-03T14:48:55+02:00",
+      "enlace": "https://www.mundodeportivo.com/otros-deportes/20261103/1004246678/plata-bronce-espana-remo-mar-juegos-olimpicos-juventud.html"
     },
     {
-      "titular": "¡Momento histórico! Hijo de Santi Cazorla debuta con el Real Oviedo en Copa del Rey",
-      "medios": [
-        "Marca"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-30T15:22:02+02:00",
-      "enlace": "https://www.marca.com/futbol/copa-rey/2026/10/30/momento-historico-hijo-santi-cazorla-debuta-real-oviedo-copa-rey-video.html"
-    },
-    {
-      "titular": "Gran éxito de la VI Gala Femenina del Fútbol Europeo",
+      "titular": "En Málaga recuerdan la muerte del portero José Antonio Gallardo en un lance similar",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-02T22:24:37+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/femenino/20261102/1004246395/gran-exito-vi-gala-femenina-futbol-europeo.html"
+      "fecha": "2026-11-03T14:42:04+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/20261103/1004246673/malaga-recuerdan-muerte-portero-jose-antonio-gallardo-lance-similar-jesus-miguel.html"
     },
     {
-      "titular": "¡Ladrando al campo equivocado! Un perro irrumpe en un partido de la Premier League egipcia.",
-      "medios": [
-        "Marca"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-30T15:15:18+02:00",
-      "enlace": "https://www.marca.com/futbol/2026/10/30/ladrando-campo-equivocado-perro-irrumpe-partido-premier-league-egipcia-video.html"
-    },
-    {
-      "titular": "Conmoción en el Tenerife-Andorra: Jesús de Miguel, estable tras sufrir una parada cardiorespiratoria",
+      "titular": "Abascal cierra su entrevista más esperada en RTVE: será en este programa y este día",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-02T18:05:45+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/liga-segunda-division/20261102/1004246292/suspendido-tenerife-andorra-caer-desplomado-miguel-choque-brutal-owono.html"
+      "fecha": "2026-11-03T14:37:58+02:00",
+      "enlace": "https://www.mundodeportivo.com/elotromundo/television/20261103/1004246674/santiago-abascal-cierra-entrevista-mas-esperada-rtve-sera-programa-dia-dct.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 384,
+    "antiguedad_minima_min": 30,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 87,
         "error": null,
-        "antiguedad_min": 5293,
+        "antiguedad_min": 5754,
         "descartados_por_gancho": 8
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 146,
+        "items": 149,
         "error": null,
-        "antiguedad_min": 384,
-        "descartados_por_gancho": 3
+        "antiguedad_min": 30,
+        "descartados_por_gancho": 4
       },
       {
         "medio": "Sport",

@@ -1,71 +1,71 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "portadas",
-  "generado": "2026-11-03T07:38:21+02:00",
+  "modo": "ultimas",
+  "generado": "2026-11-03T15:26:40+02:00",
   "titulares": [
     {
-      "titular": "Naturgy, Nortegas y MRG abren sus redes a socios",
+      "titular": "Petronor, Linde y 360 Gases invierten 30 millones en una nueva empresa industrial",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-11-03T02:12:45+02:00",
-      "enlace": "https://www.expansion.com/empresas/energia/2026/11/03/naturgy-nortegas-mrg-abren-redes-socios.html"
+      "fecha": "2026-11-03T14:50:27+02:00",
+      "enlace": "https://www.expansion.com/pais-vasco/2026/11/03/petronor-linde-360-gases-invierten-30-millones-nueva-empresa-industrial.html"
     },
     {
-      "titular": "Renfe sigue adelante con la compra de 30 AVE de 350 km/hora",
+      "titular": "Tata e Iveco crean un gigante mundial de vehículos industriales con 21.000 millones en ingresos",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-11-03T01:24:10+02:00",
-      "enlace": "https://www.expansion.com/empresas/transporte/2026/11/03/renfe-sigue-adelante-compra-30-ave-350-km-hora.html"
+      "fecha": "2026-11-03T14:27:14+02:00",
+      "enlace": "https://www.expansion.com/empresas/motor/2026/11/03/tata-e-iveco-crean-gigante-mundial-vehiculos-industriales-21-000-millones-ingresos.html"
     },
     {
-      "titular": "Santander recibe 620 millones de AXA por su pleito en Reino Unido",
+      "titular": "Botín pide liberar los colchones de capital bancario para crecer más",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-11-03T02:18:04+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/11/03/santander-recibe-620-millones-axa-pleito-reino-unido.html"
+      "fecha": "2026-11-03T14:20:45+02:00",
+      "enlace": "https://www.expansion.com/empresas/banca/2026/11/03/botin-pide-liberar-colchones-capital-bancario-crecer.html"
     },
     {
-      "titular": "EEUU se juega en las urnas el poder con el que Trump agotará su mandato",
+      "titular": "Pinchazo en la Cumbre Iberoamericana: Lula y Sheinbaum dejan solo a Sánchez",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-11-03T02:20:29+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/11/03/eeuu-juega-urnas-trump-agotara-mandato.html"
+      "fecha": "2026-11-03T14:13:56+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/11/03/pinchazo-cumbre-iberoamericana-lula-shainbaum-dejan-sanchez.html"
     },
     {
-      "titular": "PwC cerrará el año con el fichaje de más de 1.300 profesionales",
+      "titular": "Así será la subida de las pensiones en 2027 tras conocerse el IPC de octubre",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-11-03T02:13:46+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/11/03/pwc-cerrara-ano-fichaje-1-300-profesionales.html"
+      "fecha": "2026-11-03T14:01:21+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/11/03/asi-sera-subida-pensiones-2027-conocerse-ipc-octubre.html"
     },
     {
-      "titular": "ING busca atraer grandes fortunas internacionales a España",
+      "titular": "El Ejecutivo reducirá las frecuencias en la línea Madrid-Sevilla hasta que se cambie el sistema de seguridad",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-11-03T02:13:10+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/11/03/ing-busca-atraer-grandes-fortunas-internacionales-espana.html"
+      "fecha": "2026-11-03T14:00:02+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/11/03/gobierno-reducira-frecuencias-linea-madrid-sevilla-cambie-sistema-seguridad.html"
     },
     {
-      "titular": "Claves para ganar en Bolsa en un noviembre de alto voltaje",
+      "titular": "El proveedor de chicles de Mercadona dispara un 30% su beneficio",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-11-03T02:26:01+02:00",
-      "enlace": "https://www.expansion.com/inversion/2026/11/03/claves-ganar-bolsa-noviembre-alto-voltaje.html"
+      "fecha": "2026-11-03T13:40:59+02:00",
+      "enlace": "https://www.expansion.com/empresas/distribucion/2026/11/03/proveedor-chicles-mercadona-dispara-30-beneficio.html"
     }
   ],
   "salud": {
@@ -78,16 +78,16 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 295,
+    "antiguedad_minima_min": 36,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 74,
+        "items": 78,
         "error": null,
-        "antiguedad_min": 295,
-        "descartados_por_gancho": 0
+        "antiguedad_min": 36,
+        "descartados_por_gancho": 1
       },
       {
         "medio": "Cinco Días",
