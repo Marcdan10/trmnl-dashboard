@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-11-03T01:57:37+02:00",
+  "generado": "2026-11-03T07:38:18+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -14,13 +14,13 @@
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
     },
     {
-      "titular": "Sánchez anuncia ayudas específicas y el adelanto de las indemnizaciones para las víctimas del accidente de Urda",
+      "titular": "Puente se enfrenta a su comparecencia clave con un plan de medidas para reforzar la seguridad de los trenes",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-11-02T12:55:00+02:00",
-      "enlace": "https://elpais.com/internacional/2026-11-02/sanchez-debemos-recuperar-la-confianza-en-la-alta-velocidad-cuanto-antes-y-cueste-lo-que-cueste.html"
+      "fecha": "2026-11-03T06:30:01+02:00",
+      "enlace": "https://elpais.com/espana/2026-11-03/puente-se-enfrenta-a-su-comparecencia-clave-con-un-plan-de-medidas-para-reforzar-la-seguridad-de-los-trenes.html"
     },
     {
       "titular": "Trump cierra su campaña para las legislativas: “Son las más importantes de nuestras vidas”",
@@ -32,13 +32,13 @@
       "enlace": "https://www.lavanguardia.com/internacional/20261102/11674481/trump-cierra-campana-legislativas-son-mas-importantes-vidas.html"
     },
     {
-      "titular": "Tortitas de calabacín, paso a paso",
+      "titular": "¿Tsunami demócrata o espejismo? Trump, ante el plebiscito de medio mandato",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-11-03T01:51:34+02:00",
-      "enlace": "https://www.abc.es/recetasderechupete/tortitas-de-calabacin-paso-a-paso-una-receta-rapida-y-sencilla/95298/"
+      "fecha": "2026-11-03T03:48:47+02:00",
+      "enlace": "https://www.abc.es/internacional/tsunami-democrata-espejismo-trump-ante-veredicto-final-20261102011136-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -50,13 +50,13 @@
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
     },
     {
-      "titular": "Máxima presión para el cese del presidente de Adif a horas de la comparecencia de Puente en el Congreso",
+      "titular": "Las centrales sindicales del ferrocarril se plantean una fuerte movilización para acelerar refuerzos en la seguridad",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-11-02T14:06:54+02:00",
-      "enlace": "https://elpais.com/espana/2026-11-02/maxima-presion-para-el-cese-del-presidente-de-adif-a-horas-de-la-comparecencia-de-puente-en-el-congreso.html"
+      "fecha": "2026-11-03T06:30:01+02:00",
+      "enlace": "https://elpais.com/espana/2026-11-03/las-centrales-sindicales-del-ferrocarril-se-plantean-una-fuerte-movilizacion-para-acelerar-refuerzos-en-la-seguridad.html"
     },
     {
       "titular": "¿Cómo funcionan las 'midterm' y por qué son cruciales para Trump?",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 6,
+    "antiguedad_minima_min": 8,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2314132,
+        "antiguedad_min": 2314473,
         "descartados_por_gancho": 0
       },
       {
@@ -90,35 +90,35 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 429",
+        "error": "HTTP 500",
         "antiguedad_min": null
       },
       {
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 148,
+        "items": 139,
         "error": null,
-        "antiguedad_min": 36,
+        "antiguedad_min": 8,
         "descartados_por_gancho": 7
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 131,
+        "items": 133,
         "error": null,
-        "antiguedad_min": 52,
-        "descartados_por_gancho": 15
+        "antiguedad_min": 368,
+        "descartados_por_gancho": 8
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 24,
+        "items": 25,
         "error": null,
-        "antiguedad_min": 6,
-        "descartados_por_gancho": 1
+        "antiguedad_min": 229,
+        "descartados_por_gancho": 0
       }
     ]
   }
