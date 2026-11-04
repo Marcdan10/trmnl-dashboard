@@ -1,27 +1,9 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "ultimas",
-  "generado": "2026-11-03T22:12:37+02:00",
+  "modo": "portadas",
+  "generado": "2026-11-04T02:44:47+02:00",
   "titulares": [
-    {
-      "titular": "China apuesta por pruebas prácticas para obtener el doctorado de Medicina Clínica",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-03T20:43:21+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/internacional/20261103/china-apuesta-por-pruebas-practicas-para-obtener-el-doctorado-de-medicina-clinica/364197_0.html"
-    },
-    {
-      "titular": "\"Certera convence, pero hay que ver cómo se transforma en terapias que lleguen al mercado\"",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-03T19:22:51+02:00",
-      "enlace": "https://www.redaccionmedica.com/autonomias/catalunya/20261103/certera-convence-pero-hay-que-ver-como-se-transforma-en-terapias-lleguen-al-mercado/364078_0.html"
-    },
     {
       "titular": "País Vasco: Martínez reúne a una veintena de compañías para avanzar en ‘horizon scanning’",
       "medios": [
@@ -30,15 +12,6 @@
       "consenso": 1,
       "fecha": "2026-11-03T19:10:54+02:00",
       "enlace": "https://diariofarma.com/2026/11/03/pais-vasco-martinez-reune-a-una-veintena-de-companias-para-avanzar-en-horizon-scanning"
-    },
-    {
-      "titular": "Novo introduce Wegovy oral en España con receta médica y sin financiación del SNS",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-03T18:55:50+02:00",
-      "enlace": "https://diariofarma.com/2026/11/03/novo-introduce-wegovy-oral-en-espana-con-receta-medica-y-sin-financiacion-del-sns"
     },
     {
       "titular": "Hefame presenta la cooperativa y sus retos a una delegación internacional de Economía Social",
@@ -50,6 +23,24 @@
       "enlace": "https://elglobalfarma.com/farmacia/hefame-cooperativa-retos-delegacion-internacional-economia-social/"
     },
     {
+      "titular": "\"Certera convence, pero hay que ver cómo se transforma en terapias que lleguen al mercado\"",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-03T19:22:51+02:00",
+      "enlace": "https://www.redaccionmedica.com/autonomias/catalunya/20261103/certera-convence-pero-hay-que-ver-como-se-transforma-en-terapias-lleguen-al-mercado/364078_0.html"
+    },
+    {
+      "titular": "Novo introduce Wegovy oral en España con receta médica y sin financiación del SNS",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-03T18:55:50+02:00",
+      "enlace": "https://diariofarma.com/2026/11/03/novo-introduce-wegovy-oral-en-espana-con-receta-medica-y-sin-financiacion-del-sns"
+    },
+    {
       "titular": "FIR 2027: las listas provisionales de admitidos ya tienen fecha",
       "medios": [
         "El Global"
@@ -59,13 +50,22 @@
       "enlace": "https://elglobalfarma.com/farmacia/fir-2027-listas-admitidos-fecha/"
     },
     {
-      "titular": "La reforma de la titulación de los técnicos en emergencias requiere de más asistencia y menos ambulancia",
+      "titular": "La nueva norma MIR se recibe entre alegría y rechazo: de \"avance histórico\" a pedir su derogación",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-11-03T19:11:33+02:00",
-      "enlace": "https://www.redaccionmedica.com/formacion/formacion-profesional/20261103/la-reforma-de-la-titulacion-los-tecnicos-en-emergencias-requiere-mas-asistencia-menos-ambulancia/364064_0.html"
+      "fecha": "2026-11-03T17:34:10+02:00",
+      "enlace": "https://www.redaccionmedica.com/formacion/mir/20261103/la-nueva-norma-mir-se-recibe-entre-alegria-rechazo-de-avance-historico-pedir-su-derogacion/364107_0.html"
+    },
+    {
+      "titular": "Sanidad fija en 17 horas las guardias de los residentes y aprueba mejoras retributivas",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-03T18:42:19+02:00",
+      "enlace": "https://diariofarma.com/2026/11/03/sanidad-fija-en-17-horas-las-guardias-de-los-residentes-y-aprueba-mejoras-retributivas"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 89,
+    "antiguedad_minima_min": 274,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 181,
+        "antiguedad_min": 453,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 228,
+        "antiguedad_min": 500,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 89,
+        "antiguedad_min": 274,
         "descartados_por_gancho": 0
       },
       {
