@@ -2,34 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-11-04T02:44:40+02:00",
+  "generado": "2026-11-04T09:09:19+02:00",
   "titulares": [
     {
-      "titular": "La gran final del Mundial Sub-15, en directo",
+      "titular": "El Giro más brutal busca estrellas: Evenepoel, Seixas y el sueño de reunir a los mejores",
       "medios": [
         "Marca"
       ],
       "consenso": 1,
-      "fecha": "2026-10-30T15:31:56+02:00",
-      "enlace": "https://www.marca.com/futbol/seleccion/2026/10/30/6ae49b2a020dbf8b21b1dec8-directo.html"
+      "fecha": "2026-11-04T08:42:54+02:00",
+      "enlace": "https://www.marca.com/ciclismo/giro-italia/2026/11/04/giro-brutal-busca-estrellas-evenepoel-seixas-sueno-reunir-mejores.html"
     },
     {
-      "titular": "El mundo del fútbol llora la muerte de Jesús de Miguel",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-03T11:03:05+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/20261103/1004246534/reacciones-muerte-jesus-miguel-directo-ultima-hora-fallecimiento-jugador-tenerife.html"
-    },
-    {
-      "titular": "Hansi Flick: \"Siempre buscaremos lo mejor para el equipo\"",
+      "titular": "Pepo Clavet: \"La pista de tenis es como un tablero de ajedrez\"",
       "medios": [
         "Marca"
       ],
       "consenso": 1,
-      "fecha": "2026-10-30T15:24:40+02:00",
-      "enlace": "https://www.marca.com/futbol/barcelona/2026/10/30/hansi-flick-siempre-buscaremos-mejor-equip-video.html"
+      "fecha": "2026-11-04T08:38:00+02:00",
+      "enlace": "https://www.marca.com/tenis/masters-1000-paris/2026/11/04/pepo-clavet-pista-tenis-tablero-ajedrez.html"
     },
     {
       "titular": "0-2: El Bayern somete al Atlético",
@@ -41,15 +32,6 @@
       "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20261103/1004246920/0-2-bayern-somete-atletico.html"
     },
     {
-      "titular": "¡Momento histórico! Hijo de Santi Cazorla debuta con el Real Oviedo en Copa del Rey",
-      "medios": [
-        "Marca"
-      ],
-      "consenso": 1,
-      "fecha": "2026-10-30T15:22:02+02:00",
-      "enlace": "https://www.marca.com/futbol/copa-rey/2026/10/30/momento-historico-hijo-santi-cazorla-debuta-real-oviedo-copa-rey-video.html"
-    },
-    {
       "titular": "0-6: El PSG arrasa a un temeroso Villarreal con un arranque imparable",
       "medios": [
         "Mundo Deportivo"
@@ -59,13 +41,31 @@
       "enlace": "https://www.mundodeportivo.com/futbol/champions-league/20261103/1004246903/psg-arrasa-ceramica.html"
     },
     {
-      "titular": "¡Ladrando al campo equivocado! Un perro irrumpe en un partido de la Premier League egipcia.",
+      "titular": "Detienen a un adolescente de 14 años por burlarse de un niño que murió de cáncer en un partido de fútbol",
       "medios": [
         "Marca"
       ],
       "consenso": 1,
-      "fecha": "2026-10-30T15:15:18+02:00",
-      "enlace": "https://www.marca.com/futbol/2026/10/30/ladrando-campo-equivocado-perro-irrumpe-partido-premier-league-egipcia-video.html"
+      "fecha": "2026-11-04T08:35:06+02:00",
+      "enlace": "https://www.marca.com/tiramillas/sucesos/2026/11/04/detienen-adolescente-14-anos-burlarse-nino-murio-cancer-partido-futbol-video.html"
+    },
+    {
+      "titular": "Duro revés a Donald Trump en las urnas: Estados Unidos vota por un cambio de rumbo",
+      "medios": [
+        "Marca"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-04T08:35:04+02:00",
+      "enlace": "https://www.marca.com/tiramillas/politica/2026/11/04/primera-gran-derrota-trump-midterms-estados-unidos-democratas-ganan-senado-logran-congreso.html"
+    },
+    {
+      "titular": "Rodri, sustituido por molestias en los isquiotibiales",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-04T00:23:02+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261103/1004246929/rodri-sustituido-molestias-isquiotibial-derecho.html"
     }
   ],
   "salud": {
@@ -75,16 +75,16 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 76,
+    "antiguedad_minima_min": 15,
     "detalle": [
       {
         "medio": "Marca",
         "url": "https://e00-marca.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 87,
+        "items": 79,
         "error": null,
-        "antiguedad_min": 6432,
-        "descartados_por_gancho": 8
+        "antiguedad_min": 26,
+        "descartados_por_gancho": 9
       },
       {
         "medio": "AS",
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 151,
+        "items": 147,
         "error": null,
-        "antiguedad_min": 76,
-        "descartados_por_gancho": 7
+        "antiguedad_min": 15,
+        "descartados_por_gancho": 9
       },
       {
         "medio": "Sport",

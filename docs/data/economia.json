@@ -2,16 +2,52 @@
   "pantalla": "economia",
   "titulo": "Economía",
   "modo": "portadas",
-  "generado": "2026-11-04T02:44:38+02:00",
+  "generado": "2026-11-04T09:09:17+02:00",
   "titulares": [
     {
-      "titular": "Puente, el ministro que sonaba como sustituto de Sánchez al frente del PSOE",
+      "titular": "Trump dice que aceptará los resultados pero vetará las iniciativas demócratas",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-11-03T23:09:50+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/11/03/oscar-puente-sustituto-abalos-sonaba-relevo-sanchez-frente-psoe.html"
+      "fecha": "2026-11-04T07:39:36+02:00",
+      "enlace": "https://www.expansion.com/economia/politica/2026/11/04/trump-dice-aceptara-resultados-vetara-iniciativas-democratas.html"
+    },
+    {
+      "titular": "La Primera de Expansión sobre EEUU, Óscar Puente, trenes, Binance, Oracle y Google",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-04T08:38:44+02:00",
+      "enlace": "https://www.expansion.com/podcasts/la-primera-de-expansion/2026/11/04/primera-expansion-sobre-eeuu-oscar-puente-trenes-binance-oracle-google.html"
+    },
+    {
+      "titular": "Viraje político en EEUU: los demócratas logran el control total del Congreso y ponen coto al poder de Trump",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-04T06:39:53+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/11/04/democratas-reconquistan-senado-eeuu-restringen-trump.html"
+    },
+    {
+      "titular": "Óscar Puente dimite como ministro de Transportes y renuncia a las listas del 29-N",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-03T22:20:30+02:00",
+      "enlace": "https://www.expansion.com/economia/2026/11/03/puente-comparece-diputacion-permanente-responder-accidente-urda.html"
+    },
+    {
+      "titular": "El tercer ministro socialista que dimite con Sánchez",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-03T22:56:23+02:00",
+      "enlace": "https://www.expansion.com/economia/politica/2026/11/03/puente-tercer-ministro-socialista-dimite-sanchez-huerta-monton.html"
     },
     {
       "titular": "ACS, Ferrovial e Indra afrontan pérdida de negocio ferroviario",
@@ -23,49 +59,13 @@
       "enlace": "https://www.expansion.com/empresas/2026/11/04/acs-ferrovial-e-indra-afrontan-perdida-negocio-ferroviario.html"
     },
     {
-      "titular": "Óscar Puente dimite como ministro de Transportes y renuncia a las listas del 29-N tras el accidente de Urda",
+      "titular": "La victoria demócrata puede dar un vuelco a la Bolsa",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-11-03T22:20:30+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/11/03/puente-comparece-diputacion-permanente-responder-accidente-urda.html"
-    },
-    {
-      "titular": "El PP dice que la dimisión de Puente \"llega 116 muertes tarde\" y Rufián afirma que ha sido \"un gran ministro\"",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-03T23:01:07+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/11/03/pp-dice-dimision-puente-llega-116-muertes-tarde-rufian-afirma-sido-gran-ministro.html"
-    },
-    {
-      "titular": "El tercer ministro socialista que dimite con Sánchez, tras Huerta y Montón",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-03T22:56:23+02:00",
-      "enlace": "https://www.expansion.com/economia/politica/2026/11/03/puente-tercer-ministro-socialista-dimite-sanchez-huerta-monton.html"
-    },
-    {
-      "titular": "Hospitalizado un maquinista tras chocar tres vagones contra su tren en Martorell",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-03T22:23:09+02:00",
-      "enlace": "https://www.expansion.com/sociedad/2026/11/03/hospitalizado-maquinista-chocar-tres-vagones-tren-martorell.html"
-    },
-    {
-      "titular": "‘Midterms’: EEUU vota dividido tras la campaña más cara de la historia",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-03T23:53:38+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/11/03/midterms-eeuu-vota-dividido-campana-cara-historia.html"
+      "fecha": "2026-11-03T23:58:51+02:00",
+      "enlace": "https://www.expansion.com/mercados/el-foco-del-dia/2026/11/03/resultados-midterms-dar-vuelco-bolsa.html"
     }
   ],
   "salud": {
@@ -78,16 +78,16 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 40,
+    "antiguedad_minima_min": 30,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 86,
+        "items": 69,
         "error": null,
-        "antiguedad_min": 40,
-        "descartados_por_gancho": 0
+        "antiguedad_min": 30,
+        "descartados_por_gancho": 1
       },
       {
         "medio": "Cinco Días",

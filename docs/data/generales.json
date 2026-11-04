@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-11-04T02:44:34+02:00",
+  "generado": "2026-11-04T09:09:14+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -14,22 +14,22 @@
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
     },
     {
-      "titular": "Las ‘midterms’ 2026, en vivo | Empieza el recuento de los votos para decidir el control del Congreso de Estados Unidos",
+      "titular": "Las ‘midterms’ 2026, en vivo | Vuelco político en Estados Unidos: los demócratas logran el control total del Congreso en un duro castigo a Trump",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-11-04T02:39:05+02:00",
+      "fecha": "2026-11-04T08:55:03+02:00",
       "enlace": "https://elpais.com/us/2026-11-03/las-midterms-2026-en-vivo.html"
     },
     {
-      "titular": "Puente anuncia su dimisión como ministro tras una tormentosa sesión en el Congreso",
+      "titular": "EE.UU. suspende a Trump: los demócratas ganan la Cámara de Representantes y el Senado",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-11-04T01:05:00+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20261104/11675380/puente-anuncia-dimision-ministro-tormentosa-sesion-congreso.html"
+      "fecha": "2026-11-04T03:42:28+02:00",
+      "enlace": "https://www.lavanguardia.com/internacional/20261104/11675604/escrutinio-ee-uu-da-senales-optimismo-democratas-encaminados-recuperar-congreso.html"
     },
     {
       "titular": "Ruud echa a Jódar de Francia sin despeinarse",
@@ -37,7 +37,7 @@
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-11-04T02:33:10+02:00",
+      "fecha": "2026-11-04T08:43:01+02:00",
       "enlace": "https://www.abc.es/deportes/tenis/ruud-echa-jodar-francia-despeinarse-20261103223841-nt.html"
     },
     {
@@ -50,24 +50,22 @@
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
     },
     {
-      "titular": "Carlos Alsina, 'Yakarta', Rosalía o Leiva, entre los ganadores de los Premios Ondas 2026",
+      "titular": "Los resultados de las ‘midterms’ de 2026 en Estados Unidos, en vivo",
       "medios": [
-        "El País",
-        "La Vanguardia",
-        "ABC"
+        "El País"
       ],
-      "consenso": 3,
-      "fecha": "2026-11-04T02:24:28+02:00",
-      "enlace": "https://www.abc.es/play/television/noticias/carlos-alsina-yakarta-rosalia-leiva-ganadores-premios-20261103183358-nt.html"
+      "consenso": 1,
+      "fecha": "2026-11-04T08:56:59+02:00",
+      "enlace": "https://elpais.com/us/2026-11-03/los-resultados-de-las-midterms-de-2026-en-estados-unidos-en-vivo.html"
     },
     {
-      "titular": "Los trabajadores de Adif responden a Puente con la convocatoria de una huelga el 17 de noviembre",
+      "titular": "Elecciones EE.UU., última hora de las 'midterm' en directo: los demócratas logran el control total del Congreso y castigan a Trump",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-11-03T17:29:19+02:00",
-      "enlace": "https://www.lavanguardia.com/vida/20261103/11675170/trabajadores-adif-responden-puente-convocatoria-huelga-17-noviembre.html"
+      "fecha": "2026-11-04T07:59:23+02:00",
+      "enlace": "https://www.lavanguardia.com/internacional/20261103/11674703/elecciones-estados-unidos-midterm-encuestas-campana-electoral-donald-trump-ultima-hora-en-directo.html"
     }
   ],
   "salud": {
@@ -76,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 5,
+    "antiguedad_minima_min": 4,
     "detalle": [
       {
         "medio": "RTVE",
@@ -84,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2315619,
+        "antiguedad_min": 2316004,
         "descartados_por_gancho": 0
       },
       {
@@ -99,28 +97,28 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 154,
+        "items": 147,
         "error": null,
-        "antiguedad_min": 5,
-        "descartados_por_gancho": 6
+        "antiguedad_min": 4,
+        "descartados_por_gancho": 4
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 140,
+        "items": 137,
         "error": null,
-        "antiguedad_min": 99,
-        "descartados_por_gancho": 10
+        "antiguedad_min": 67,
+        "descartados_por_gancho": 14
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 25,
+        "items": 24,
         "error": null,
-        "antiguedad_min": 11,
-        "descartados_por_gancho": 0
+        "antiguedad_min": 26,
+        "descartados_por_gancho": 1
       }
     ]
   }
