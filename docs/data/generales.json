@@ -1,9 +1,64 @@
 {
   "pantalla": "generales",
   "titulo": "Titulares",
-  "modo": "portadas",
-  "generado": "2026-11-04T09:09:14+02:00",
+  "modo": "ultimas",
+  "generado": "2026-11-04T17:37:59+02:00",
   "titulares": [
+    {
+      "titular": "Las ‘midterms’ 2026, en vivo | Comienzan los reproches republicanos tras la ola azul que le arrebató el control del Congreso y repudió a Trump",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-04T17:33:38+02:00",
+      "enlace": "https://elpais.com/us/2026-11-04/las-midterms-2026-en-vivo.html"
+    },
+    {
+      "titular": "Mueren tres trabajadores al quedar atrapados en una fosa de purines en una granja en Pitillas (Navarra)",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-04T17:32:38+02:00",
+      "enlace": "https://www.abc.es/espana/navarra/mueren-tres-trabajadores-accidente-instalacion-ganadera-pitillas-20261104160752-nt.html"
+    },
+    {
+      "titular": "Isabel Allende: «Mientras pueda escribir me encontrarán en mi cuchitril, rodeada de espíritus»",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-04T17:29:36+02:00",
+      "enlace": "https://www.abc.es/cultura/isabel-allende-pueda-escribir-encontraran-cuchitril-rodeada-20261104124124-nt.html"
+    },
+    {
+      "titular": "Miles de profesores de todas las etapas educativas madrileñas marchan desde la sede del PSOE hasta la del PP entre aplausos y cláxones",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-04T17:17:05+02:00",
+      "enlace": "https://elpais.com/educacion/2026-11-04/miles-de-profesores-de-todas-las-etapas-educativas-madrilenas-marchan-desde-la-sede-del-psoe-hasta-la-del-pp-entre-aplausos-y-claxones.html"
+    },
+    {
+      "titular": "Los Reyes asistirán al funeral que se celebrará en la Catedral de Toledo por las víctimas",
+      "medios": [
+        "La Vanguardia",
+        "ABC"
+      ],
+      "consenso": 2,
+      "fecha": "2026-11-04T16:45:07+02:00",
+      "enlace": "https://www.abc.es/espana/casa-real/reyes-asistiran-funeral-celebrara-catedral-toledo-victimas-20261104124550-nt.html"
+    },
+    {
+      "titular": "Midterms 2026, hoy en directo los resultados de las elecciones en EE.UU. | Última hora de Trump y de la victoria demócrata en Estados Unidos",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-04T16:36:05+02:00",
+      "enlace": "https://www.lavanguardia.com/internacional/20261104/11675624/elecciones-eeuu-midterms-2026-resultados-ganador-democratas-ultima-hora-trump-en-directo.html"
+    },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
       "medios": [
@@ -12,60 +67,6 @@
       "consenso": 1,
       "fecha": "2022-06-10T01:05:00+02:00",
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
-    },
-    {
-      "titular": "Las ‘midterms’ 2026, en vivo | Vuelco político en Estados Unidos: los demócratas logran el control total del Congreso en un duro castigo a Trump",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-04T08:55:03+02:00",
-      "enlace": "https://elpais.com/us/2026-11-03/las-midterms-2026-en-vivo.html"
-    },
-    {
-      "titular": "EE.UU. suspende a Trump: los demócratas ganan la Cámara de Representantes y el Senado",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-04T03:42:28+02:00",
-      "enlace": "https://www.lavanguardia.com/internacional/20261104/11675604/escrutinio-ee-uu-da-senales-optimismo-democratas-encaminados-recuperar-congreso.html"
-    },
-    {
-      "titular": "Ruud echa a Jódar de Francia sin despeinarse",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-04T08:43:01+02:00",
-      "enlace": "https://www.abc.es/deportes/tenis/ruud-echa-jodar-francia-despeinarse-20261103223841-nt.html"
-    },
-    {
-      "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
-      "medios": [
-        "RTVE"
-      ],
-      "consenso": 1,
-      "fecha": "2022-06-10T00:03:00+02:00",
-      "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
-    },
-    {
-      "titular": "Los resultados de las ‘midterms’ de 2026 en Estados Unidos, en vivo",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-04T08:56:59+02:00",
-      "enlace": "https://elpais.com/us/2026-11-03/los-resultados-de-las-midterms-de-2026-en-estados-unidos-en-vivo.html"
-    },
-    {
-      "titular": "Elecciones EE.UU., última hora de las 'midterm' en directo: los demócratas logran el control total del Congreso y castigan a Trump",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-04T07:59:23+02:00",
-      "enlace": "https://www.lavanguardia.com/internacional/20261103/11674703/elecciones-estados-unidos-midterm-encuestas-campana-electoral-donald-trump-ultima-hora-en-directo.html"
     }
   ],
   "salud": {
@@ -82,7 +83,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2316004,
+        "antiguedad_min": 2316512,
         "descartados_por_gancho": 0
       },
       {
@@ -97,19 +98,19 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 147,
+        "items": 156,
         "error": null,
         "antiguedad_min": 4,
-        "descartados_por_gancho": 4
+        "descartados_por_gancho": 2
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 137,
+        "items": 145,
         "error": null,
-        "antiguedad_min": 67,
-        "descartados_por_gancho": 14
+        "antiguedad_min": 61,
+        "descartados_por_gancho": 16
       },
       {
         "medio": "ABC",
@@ -117,7 +118,7 @@
         "ok": true,
         "items": 24,
         "error": null,
-        "antiguedad_min": 26,
+        "antiguedad_min": 5,
         "descartados_por_gancho": 1
       }
     ]

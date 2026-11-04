@@ -1,71 +1,71 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "portadas",
-  "generado": "2026-11-04T09:09:17+02:00",
+  "modo": "ultimas",
+  "generado": "2026-11-04T17:38:03+02:00",
   "titulares": [
     {
-      "titular": "Trump dice que aceptará los resultados pero vetará las iniciativas demócratas",
+      "titular": "Revolut eleva su valoración a 115.000 millones de dólares tras la última ronda",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-11-04T07:39:36+02:00",
-      "enlace": "https://www.expansion.com/economia/politica/2026/11/04/trump-dice-aceptara-resultados-vetara-iniciativas-democratas.html"
+      "fecha": "2026-11-04T16:12:21+02:00",
+      "enlace": "https://www.expansion.com/empresas/banca/2026/11/04/revolut-eleva-valoracion-115-000-millones-dolares-ultima-ronda.html"
     },
     {
-      "titular": "La Primera de Expansión sobre EEUU, Óscar Puente, trenes, Binance, Oracle y Google",
+      "titular": "Botín invierte otros dos millones de euros en acciones de Santander y supera los 50 millones en su presidencia",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-11-04T08:38:44+02:00",
-      "enlace": "https://www.expansion.com/podcasts/la-primera-de-expansion/2026/11/04/primera-expansion-sobre-eeuu-oscar-puente-trenes-binance-oracle-google.html"
+      "fecha": "2026-11-04T15:53:14+02:00",
+      "enlace": "https://www.expansion.com/empresas/banca/2026/11/04/botin-invierte-otros-dos-millones-euros-acciones-santander-supera-50-millones-presidencia.html"
     },
     {
-      "titular": "Viraje político en EEUU: los demócratas logran el control total del Congreso y ponen coto al poder de Trump",
+      "titular": "Cinco conclusiones de las elecciones de medio mandato",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-11-04T06:39:53+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/11/04/democratas-reconquistan-senado-eeuu-restringen-trump.html"
+      "fecha": "2026-11-04T15:43:22+02:00",
+      "enlace": "https://www.expansion.com/economia/financial-times/2026/11/04/cinco-conclusiones-elecciones-medio-mandato.html"
     },
     {
-      "titular": "Óscar Puente dimite como ministro de Transportes y renuncia a las listas del 29-N",
+      "titular": "El ‘efecto OCDE’ golpea las cuentas de Apple: su tasa impositiva efectiva escala al 17%",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-11-03T22:20:30+02:00",
-      "enlace": "https://www.expansion.com/economia/2026/11/03/puente-comparece-diputacion-permanente-responder-accidente-urda.html"
+      "fecha": "2026-11-04T15:12:07+02:00",
+      "enlace": "https://www.expansion.com/fiscal/2026/11/04/efecto-ocde-golpea-cuentas-apple-tasa-impositiva-efectiva-escala-17.html"
     },
     {
-      "titular": "El tercer ministro socialista que dimite con Sánchez",
+      "titular": "Airbus modernizará y mantendrá los aviones C295 y A330 MRTT del Ejército por 1.400 millones",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-11-03T22:56:23+02:00",
-      "enlace": "https://www.expansion.com/economia/politica/2026/11/03/puente-tercer-ministro-socialista-dimite-sanchez-huerta-monton.html"
+      "fecha": "2026-11-04T15:07:15+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/11/04/airbus-modernizara-mantendra-aviones-c295-a330-mrtt-ejercito-1-400-millones.html"
     },
     {
-      "titular": "ACS, Ferrovial e Indra afrontan pérdida de negocio ferroviario",
+      "titular": "Rafa Nadal, a un paso de entrar en la Junta Directiva del Real Madrid",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-11-04T01:46:08+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/11/04/acs-ferrovial-e-indra-afrontan-perdida-negocio-ferroviario.html"
+      "fecha": "2026-11-04T14:54:27+02:00",
+      "enlace": "https://www.expansion.com/deporte-negocio/2026/11/04/rafa-nadal-paso-entrar-junta-directiva-real-madrid.html"
     },
     {
-      "titular": "La victoria demócrata puede dar un vuelco a la Bolsa",
+      "titular": "Hacienda cobra este jueves 5 de noviembre el segundo pago de IRPF si la declaración de la Renta le salió a ingresar",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-11-03T23:58:51+02:00",
-      "enlace": "https://www.expansion.com/mercados/el-foco-del-dia/2026/11/03/resultados-midterms-dar-vuelco-bolsa.html"
+      "fecha": "2026-11-04T14:35:54+02:00",
+      "enlace": "https://www.expansion.com/economia/declaracion-renta/2026/11/04/hacienda-cobra-jueves-5-noviembre-segundo-pago-irpf-declaracion-renta-le-salio-ingresar.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 30,
+    "antiguedad_minima_min": 85,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 69,
+        "items": 75,
         "error": null,
-        "antiguedad_min": 30,
+        "antiguedad_min": 85,
         "descartados_por_gancho": 1
       },
       {
