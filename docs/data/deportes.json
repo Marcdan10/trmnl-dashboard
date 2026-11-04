@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-11-04T17:38:04+02:00",
+  "generado": "2026-11-04T23:40:03+02:00",
   "titulares": [
     {
-      "titular": "1-4: El Real Madrid sigue de dulce en Europa y doblega al AEK",
+      "titular": "Mou: \"¿El penaltito de Santander? En otros partidos hubo decisiones que afectaron al resultado\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-04T17:18:33+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20261104/1004247223/1-4-real-madrid-sigue-dulce-europa-doblega-aek.html"
+      "fecha": "2026-11-04T23:01:41+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20261104/1004247359/mou-penaltito-santander-otros-partidos-hubo-decisiones-afectaron-resultado.html"
     },
     {
-      "titular": "Así es Sahra Şaş, la actriz que da vida a Nare en 'En tierra lejana', la serie de Antena 3",
+      "titular": "Los números que ilustran el abismo entre el Atlético y el Bayern",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-04T17:17:36+02:00",
-      "enlace": "https://www.mundodeportivo.com/elotromundo/television/20261104/1004247204/asi-sahra-sas-actriz-da-vida-nare-tierra-lejana-exitosa-serie-turca-antena-3-galeria-dct.html"
+      "fecha": "2026-11-04T22:58:48+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20261104/1004247354/numeros-ilustran-abismo-atletico-bayern.html"
     },
     {
       "titular": "El Giro más brutal busca estrellas: Evenepoel, Seixas y el sueño de reunir a los mejores",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/tenis/masters-1000-paris/2026/11/04/pepo-clavet-pista-tenis-tablero-ajedrez.html"
     },
     {
-      "titular": "Sorpresón en París que salva de rebote a Rafa Jódar",
+      "titular": "URIBOU, el japonés de Barcelona que conecta Hiroshima con los productos del territorio",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-04T17:16:40+02:00",
-      "enlace": "https://www.mundodeportivo.com/tenis/20261104/1004247226/sorpreson-paris-salva-rebote-rafa-jodar.html"
+      "fecha": "2026-11-04T22:58:24+02:00",
+      "enlace": "https://www.mundodeportivo.com/foodie/barcelona/restaurantes/20261104/1004247353/uribou-restaurante-japones-barcelona-conecta-hiroshima-productos-territorio-dct.html"
     },
     {
-      "titular": "Dorhmann da la sorpresa en la Titan Forest Patagonia",
+      "titular": "Oficial: el Sporting de Portugal anuncia al criticado Fonseca",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-04T17:16:32+02:00",
-      "enlace": "https://www.mundodeportivo.com/solobici/20261104/1004247225/dorhmann-da-sorpresa-titan-forest-patagonia.html"
+      "fecha": "2026-11-04T22:56:20+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/oficial/20261104/1004247352/oficial-sporting-portugal-anuncia-criticado-fonseca.html"
     },
     {
-      "titular": "¿Puede ser Rafa Nadal el relevo de Florentino Pérez?",
+      "titular": "Alcaraz, sobre Nadal directivo del Real Madrid: \"Es una locura, la verdad\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-04T17:11:30+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20261104/1004247221/rafa-nadal-relevo-florentino-perez.html"
+      "fecha": "2026-11-04T22:42:48+02:00",
+      "enlace": "https://www.mundodeportivo.com/tenis/20261104/1004247347/alcaraz-sobre-nadal-directivo-real-madrid-locura-verdad.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 19,
+    "antiguedad_minima_min": 38,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 79,
         "error": null,
-        "antiguedad_min": 535,
+        "antiguedad_min": 897,
         "descartados_por_gancho": 9
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 138,
+        "items": 147,
         "error": null,
-        "antiguedad_min": 19,
-        "descartados_por_gancho": 10
+        "antiguedad_min": 38,
+        "descartados_por_gancho": 7
       },
       {
         "medio": "Sport",

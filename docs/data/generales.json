@@ -2,62 +2,61 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-11-04T17:37:59+02:00",
+  "generado": "2026-11-04T23:39:59+02:00",
   "titulares": [
     {
-      "titular": "Las ‘midterms’ 2026, en vivo | Comienzan los reproches republicanos tras la ola azul que le arrebató el control del Congreso y repudió a Trump",
+      "titular": "Las ‘midterms’ 2026, en vivo | Trump admite que la guerra en Irán influyó en la derrota, pero que “lo haría de nuevo”",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-11-04T17:33:38+02:00",
+      "fecha": "2026-11-04T23:33:01+02:00",
       "enlace": "https://elpais.com/us/2026-11-04/las-midterms-2026-en-vivo.html"
     },
     {
-      "titular": "Mueren tres trabajadores al quedar atrapados en una fosa de purines en una granja en Pitillas (Navarra)",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-04T17:32:38+02:00",
-      "enlace": "https://www.abc.es/espana/navarra/mueren-tres-trabajadores-accidente-instalacion-ganadera-pitillas-20261104160752-nt.html"
-    },
-    {
-      "titular": "Isabel Allende: «Mientras pueda escribir me encontrarán en mi cuchitril, rodeada de espíritus»",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-04T17:29:36+02:00",
-      "enlace": "https://www.abc.es/cultura/isabel-allende-pueda-escribir-encontraran-cuchitril-rodeada-20261104124124-nt.html"
-    },
-    {
-      "titular": "Miles de profesores de todas las etapas educativas madrileñas marchan desde la sede del PSOE hasta la del PP entre aplausos y cláxones",
+      "titular": "65 autores plantean soluciones para los desafíos de Colombia",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-11-04T17:17:05+02:00",
-      "enlace": "https://elpais.com/educacion/2026-11-04/miles-de-profesores-de-todas-las-etapas-educativas-madrilenas-marchan-desde-la-sede-del-psoe-hasta-la-del-pp-entre-aplausos-y-claxones.html"
+      "fecha": "2026-11-04T23:15:36+02:00",
+      "enlace": "https://elpais.com/internacional/2026-11-04/65-autores-plantean-soluciones-para-los-desafios-de-colombia.html"
     },
     {
-      "titular": "Los Reyes asistirán al funeral que se celebrará en la Catedral de Toledo por las víctimas",
+      "titular": "Un reo encarcelado injustamente tarda diez años en cobrar 109.000 euros de indemnización por un error en su nombre",
       "medios": [
-        "La Vanguardia",
         "ABC"
       ],
-      "consenso": 2,
-      "fecha": "2026-11-04T16:45:07+02:00",
-      "enlace": "https://www.abc.es/espana/casa-real/reyes-asistiran-funeral-celebrara-catedral-toledo-victimas-20261104124550-nt.html"
+      "consenso": 1,
+      "fecha": "2026-11-04T23:15:09+02:00",
+      "enlace": "https://www.abc.es/internacional/reo-encarcelado-injustamente-tarda-diez-anos-cobrar-20261104221430-nt.html"
     },
     {
-      "titular": "Midterms 2026, hoy en directo los resultados de las elecciones en EE.UU. | Última hora de Trump y de la victoria demócrata en Estados Unidos",
+      "titular": "El ramalazo trumpista de Abdul el Sayed con un periodista británico: «¿Tú votas en Míchigan?»",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-04T23:14:06+02:00",
+      "enlace": "https://www.abc.es/internacional/ramalazo-trumpista-abdul-sayed-periodista-britanico-votas-20261104220125-nt.html"
+    },
+    {
+      "titular": "Mourinho: “Sin el penalti a Mbappé habríamos ganado igual al Racing por tres, cuatro o cinco goles”",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-11-04T16:36:05+02:00",
-      "enlace": "https://www.lavanguardia.com/internacional/20261104/11675624/elecciones-eeuu-midterms-2026-resultados-ganador-democratas-ultima-hora-trump-en-directo.html"
+      "fecha": "2026-11-04T22:35:33+02:00",
+      "enlace": "https://www.lavanguardia.com/deportes/real-madrid/20261104/11676304/mourinho-penalti-mbappe-habriamos-ganado-igual-racing-tres-cuatro-cinco-goles.html"
+    },
+    {
+      "titular": "Jordi Juan: “Nunca como ahora es tan necesaria la figura del periodista”",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-04T22:26:45+02:00",
+      "enlace": "https://www.lavanguardia.com/vida/20261104/11676295/jordi-juan-nunca-necesaria-figura-periodista.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -75,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 4,
+    "antiguedad_minima_min": 6,
     "detalle": [
       {
         "medio": "RTVE",
@@ -83,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2316512,
+        "antiguedad_min": 2316874,
         "descartados_por_gancho": 0
       },
       {
@@ -98,10 +97,10 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 156,
+        "items": 154,
         "error": null,
-        "antiguedad_min": 4,
-        "descartados_por_gancho": 2
+        "antiguedad_min": 6,
+        "descartados_por_gancho": 3
       },
       {
         "medio": "La Vanguardia",
@@ -109,7 +108,7 @@
         "ok": true,
         "items": 145,
         "error": null,
-        "antiguedad_min": 61,
+        "antiguedad_min": 64,
         "descartados_por_gancho": 16
       },
       {
@@ -118,7 +117,7 @@
         "ok": true,
         "items": 24,
         "error": null,
-        "antiguedad_min": 5,
+        "antiguedad_min": 24,
         "descartados_por_gancho": 1
       }
     ]
