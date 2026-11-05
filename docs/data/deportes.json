@@ -1,26 +1,17 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "ultimas",
-  "generado": "2026-11-04T23:40:03+02:00",
+  "modo": "portadas",
+  "generado": "2026-11-05T03:56:39+02:00",
   "titulares": [
     {
-      "titular": "Mou: \"¿El penaltito de Santander? En otros partidos hubo decisiones que afectaron al resultado\"",
+      "titular": "¡Brutal baño histórico del Como al Lens!",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-04T23:01:41+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20261104/1004247359/mou-penaltito-santander-otros-partidos-hubo-decisiones-afectaron-resultado.html"
-    },
-    {
-      "titular": "Los números que ilustran el abismo entre el Atlético y el Bayern",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-04T22:58:48+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20261104/1004247354/numeros-ilustran-abismo-atletico-bayern.html"
+      "fecha": "2026-11-05T00:05:44+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/champions-league/20261104/1004247367/brutal-festival-lens-goleada-historica.html"
     },
     {
       "titular": "El Giro más brutal busca estrellas: Evenepoel, Seixas y el sueño de reunir a los mejores",
@@ -32,6 +23,15 @@
       "enlace": "https://www.marca.com/ciclismo/giro-italia/2026/11/04/giro-brutal-busca-estrellas-evenepoel-seixas-sueno-reunir-mejores.html"
     },
     {
+      "titular": "El juez de competición da por concluido el Tenerife-Andorra",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-04T18:47:57+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/20261104/1004247252/juez-competicion-da-concluido-tenerife-andorra.html"
+    },
+    {
       "titular": "Pepo Clavet: \"La pista de tenis es como un tablero de ajedrez\"",
       "medios": [
         "Marca"
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/tenis/masters-1000-paris/2026/11/04/pepo-clavet-pista-tenis-tablero-ajedrez.html"
     },
     {
-      "titular": "URIBOU, el japonés de Barcelona que conecta Hiroshima con los productos del territorio",
+      "titular": "Así queda la clasificación tras llegar al ecuador de la fase liga",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-04T22:58:24+02:00",
-      "enlace": "https://www.mundodeportivo.com/foodie/barcelona/restaurantes/20261104/1004247353/uribou-restaurante-japones-barcelona-conecta-hiroshima-productos-territorio-dct.html"
+      "fecha": "2026-11-05T00:34:08+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/champions-league/20261104/1004247386/asi-queda-clasificacion-champions-triunfo-barca-aston-villa.html"
     },
     {
-      "titular": "Oficial: el Sporting de Portugal anuncia al criticado Fonseca",
+      "titular": "Detienen a un adolescente de 14 años por burlarse de un niño que murió de cáncer en un partido de fútbol",
       "medios": [
-        "Mundo Deportivo"
+        "Marca"
       ],
       "consenso": 1,
-      "fecha": "2026-11-04T22:56:20+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fichajes/oficial/20261104/1004247352/oficial-sporting-portugal-anuncia-criticado-fonseca.html"
+      "fecha": "2026-11-04T08:35:06+02:00",
+      "enlace": "https://www.marca.com/tiramillas/sucesos/2026/11/04/detienen-adolescente-14-anos-burlarse-nino-murio-cancer-partido-futbol-video.html"
     },
     {
-      "titular": "Alcaraz, sobre Nadal directivo del Real Madrid: \"Es una locura, la verdad\"",
+      "titular": "2-1: El Betis cae con la cabeza alta en una noche grande de Champions",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-04T22:42:48+02:00",
-      "enlace": "https://www.mundodeportivo.com/tenis/20261104/1004247347/alcaraz-sobre-nadal-directivo-real-madrid-locura-verdad.html"
+      "fecha": "2026-11-05T00:22:24+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/betis/20261104/1004247381/betis-cae-cabeza-alta-noche-grande-champions.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 38,
+    "antiguedad_minima_min": 158,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 79,
         "error": null,
-        "antiguedad_min": 897,
+        "antiguedad_min": 1153,
         "descartados_por_gancho": 9
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 147,
+        "items": 151,
         "error": null,
-        "antiguedad_min": 38,
-        "descartados_por_gancho": 7
+        "antiguedad_min": 158,
+        "descartados_por_gancho": 5
       },
       {
         "medio": "Sport",

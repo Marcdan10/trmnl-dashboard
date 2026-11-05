@@ -1,71 +1,71 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "ultimas",
-  "generado": "2026-11-04T23:40:02+02:00",
+  "modo": "portadas",
+  "generado": "2026-11-05T03:56:37+02:00",
   "titulares": [
     {
-      "titular": "El MWC de 2027 suma a SoftBank y Chery y tendrá espacios de salud, aviación y motor",
+      "titular": "La inversión hotelera enfila un año récord gracias al capital español",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-11-04T22:34:03+02:00",
-      "enlace": "https://www.expansion.com/catalunya/2026/11/04/mwc-2027-suma-softbank-chery-tendra-espacios-salud-aviacion-motor.html"
+      "fecha": "2026-11-05T01:01:32+02:00",
+      "enlace": "https://www.expansion.com/empresas/transporte/2026/11/05/inversion-hotelera-enfila-ano-record-gracias-capital-espanol.html"
     },
     {
-      "titular": "Titan OS capta 41 millones y firma una línea de crédito con BlackRock",
+      "titular": "ACS negocia construir la sede mundial de Oracle por 4.000 millones",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-11-04T21:31:45+02:00",
-      "enlace": "https://www.expansion.com/catalunya/2026/11/04/titan-capta-41-millones-firma-linea-credito-blackrock.html"
+      "fecha": "2026-11-05T01:00:41+02:00",
+      "enlace": "https://www.expansion.com/empresas/construccion-servicios/2026/11/05/acs-negocia-construir-sede-mundial-oracle-4-000-millones.html"
     },
     {
-      "titular": "Navantia y Fincantieri tientan a la francesa Naval Group para incluirla en su 'joint venture'",
+      "titular": "Acesur y Dcoop ganan la puja por Deoleo, el dueño de Carbonell",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-11-04T21:18:13+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/11/04/navantia-fincantieri-tientan-francesa-naval-group-incluirla-joint-venture.html"
+      "fecha": "2026-11-05T01:33:24+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/11/05/acesur-dcoop-ganan-puja-deoleo-dueno-carbonell.html"
     },
     {
-      "titular": "Cofides invierte 49 millones de euros en Europastry de la mano de MCH",
+      "titular": "Santander posiciona su gestora ante la nueva cuenta de inversión",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-11-04T21:16:31+02:00",
-      "enlace": "https://www.expansion.com/catalunya/2026/11/04/cofides-invierte-49-millones-euros-europastry-mano-mch.html"
+      "fecha": "2026-11-05T01:01:47+02:00",
+      "enlace": "https://www.expansion.com/empresas/banca/2026/11/05/santander-posiciona-gestora-nueva-cuenta-inversion.html"
     },
     {
-      "titular": "Mónaco convence con 'mano dura': las multas a UBS y Julius Baer sacan al Principado del radar internacional antiblanqueo",
+      "titular": "Unicaja ficha a Spencer Stuart para que busque al sucesor de Sevilla",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-11-04T20:46:40+02:00",
-      "enlace": "https://www.expansion.com/fiscal/2026/11/04/monaco-convence-mano-dura-multas-ubs-julius-baer-sacan-principado-radar-internacional-antiblanqueo.html"
+      "fecha": "2026-11-05T01:00:53+02:00",
+      "enlace": "https://www.expansion.com/empresas/banca/2026/11/05/unicaja-ficha-spencer-stuart-busque-sucesor-sevilla.html"
     },
     {
-      "titular": "Gestamp gana 141 millones hasta septiembre, un 35,5% más, impulsada por las divisas",
+      "titular": "Las 'midterms' revolucionan el mapa de ganadores y perdedores en Bolsa de la IA",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-11-04T20:40:41+02:00",
-      "enlace": "https://www.expansion.com/empresas/2026/11/04/gestamp-gana-141-millones-septiembre-35-5-impulsada-divisas.html"
+      "fecha": "2026-11-05T01:15:16+02:00",
+      "enlace": "https://www.expansion.com/mercados/el-foco-del-dia/2026/11/05/midterms-revolucionan-mapa-ganadores-perdedores-bolsa-ia.html"
     },
     {
-      "titular": "Cuerpo se estrena en Transportes con la salida del presidente de Adif",
+      "titular": "El tsunami demócrata acota el poder de Trump: de control del Capitolio al 'impeachment'",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-11-04T20:33:58+02:00",
-      "enlace": "https://www.expansion.com/empresas/transporte/2026/11/04/cuerpo-estrena-transportes-salida-presidente-adif.html"
+      "fecha": "2026-11-05T01:06:23+02:00",
+      "enlace": "https://www.expansion.com/elecciones/elecciones-estados-unidos/2026/11/05/tsunami-democrata-acota-trump-control-capitolio-impeachment.html"
     }
   ],
   "salud": {
@@ -78,15 +78,15 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 65,
+    "antiguedad_minima_min": 143,
     "detalle": [
       {
         "medio": "Expansión",
         "url": "https://e00-expansion.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 82,
+        "items": 71,
         "error": null,
-        "antiguedad_min": 65,
+        "antiguedad_min": 143,
         "descartados_por_gancho": 1
       },
       {
