@@ -1,35 +1,17 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "ultimas",
-  "generado": "2026-11-05T19:05:57+02:00",
+  "modo": "portadas",
+  "generado": "2026-11-06T00:44:44+02:00",
   "titulares": [
     {
-      "titular": "El TFG de Medicina evoluciona hacia el valor práctico para evitar el efecto plagio con la IA",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-05T19:01:52+02:00",
-      "enlace": "https://www.redaccionmedica.com/formacion/estudiantes/20261105/el-tfg-de-medicina-evoluciona-hacia-el-valor-practico-para-evitar-efecto-plagio-con-la-ia/364372_0.html"
-    },
-    {
-      "titular": "Alemania mantiene las exigencias de evaluación nacional tras la primera JCA",
+      "titular": "Neira: “Necesitamos una OMS fuerte, con valores, respetada y que genere confianza”",
       "medios": [
         "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-11-05T18:36:18+02:00",
-      "enlace": "https://diariofarma.com/2026/11/05/alemania-mantiene-tras-la-primera-jca-las-exigencias-de-evaluacion-nacional"
-    },
-    {
-      "titular": "Diagnóstico molecular, ensayos y fármacos especiales: el plan del SAS contra uno de los tumores pediátricos más agresivos",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-05T18:30:11+02:00",
-      "enlace": "https://www.redaccionmedica.com/autonomias/andalucia/20261105/diagnostico-molecular-ensayos-farmacos-especiales-el-plan-del-sas-contra-uno-de-los-tumores-pediatricos-mas-agresivos/364448_0.html"
+      "fecha": "2026-11-05T20:51:27+02:00",
+      "enlace": "https://diariofarma.com/2026/11/05/neira-necesitamos-una-oms-fuerte-con-valores-respetada-y-que-genere-confianza"
     },
     {
       "titular": "FIR: Laboratorio Clínico, una nueva vía de especialización para los farmacéuticos",
@@ -41,6 +23,24 @@
       "enlace": "https://elglobalfarma.com/farmacia/fir-laboratorio-clinico-nueva-especializacion-farmaceuticos/"
     },
     {
+      "titular": "El TFG de Medicina evoluciona hacia el valor práctico para evitar el efecto plagio con la IA",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-05T19:01:52+02:00",
+      "enlace": "https://www.redaccionmedica.com/formacion/estudiantes/20261105/el-tfg-de-medicina-evoluciona-hacia-el-valor-practico-para-evitar-efecto-plagio-con-la-ia/364372_0.html"
+    },
+    {
+      "titular": "Sanidad endurece las condiciones de uso de la toxina botulínica con fines estéticos",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-05T20:38:09+02:00",
+      "enlace": "https://diariofarma.com/2026/11/05/sanidad-endurece-las-condiciones-de-uso-de-la-toxina-botulinica-con-fines-esteticos"
+    },
+    {
       "titular": "Los expertos apuestan por combinar fármacos y cirugía frente a la obesidad: «Debe plantearse como una estrategia coordinada»",
       "medios": [
         "El Global"
@@ -50,22 +50,22 @@
       "enlace": "https://elglobalfarma.com/industria/expertos-combinar-farmacos-cirugia-obesidad/"
     },
     {
-      "titular": "La competencia en medicamentos genéricos reduce sus precios de forma directa, según la FDA",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-05T18:13:01+02:00",
-      "enlace": "https://diariofarma.com/2026/11/05/la-competencia-en-medicamentos-genericos-reduce-sus-precios-de-forma-directa-segun-la-fda"
-    },
-    {
-      "titular": "España triplica el precio de un medicamento para la gota y eleva un 28% otro para la colitis ulcerosa",
+      "titular": "Premios Minerva, seis meses después, del propósito al reconocimiento",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-11-05T18:28:47+02:00",
-      "enlace": "https://www.redaccionmedica.com/empresas/industria-farmaceutica/20261105/espana-triplica-el-precio-de-un-medicamento-para-la-gota-eleva-otro-colitis-ulcerosa/364433_0.html"
+      "fecha": "2026-11-05T18:00:15+02:00",
+      "enlace": "https://www.redaccionmedica.com/opinion/20261105/premios-minerva-seis-meses-despues-del-proposito-al-reconocimiento/364345_12.html"
+    },
+    {
+      "titular": "Los FAP constatan que el 70% de usuarios de benzodiacepinas busca dejar o bajar su dosis",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-05T20:02:42+02:00",
+      "enlace": "https://diariofarma.com/2026/11/05/los-fap-constatan-que-el-70-de-usuarios-de-benzodiacepinas-busca-dejar-o-bajar-su-dosis"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 4,
+    "antiguedad_minima_min": 233,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 29,
+        "antiguedad_min": 233,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 47,
+        "antiguedad_min": 386,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 4,
+        "antiguedad_min": 273,
         "descartados_por_gancho": 0
       },
       {

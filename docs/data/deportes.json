@@ -1,26 +1,17 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "ultimas",
-  "generado": "2026-11-05T19:05:50+02:00",
+  "modo": "portadas",
+  "generado": "2026-11-06T00:44:39+02:00",
   "titulares": [
     {
-      "titular": "La cronología del culebrón del verano",
+      "titular": "90-93: La 'Mamba Vasca' aniquila al Hapoel en Sofía",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-05T18:46:28+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20261105/1004247635/cronologia-culebron-verano.html"
-    },
-    {
-      "titular": "Dureza para el Barça en Champions: cinco rivales en el top-10",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-05T18:44:17+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261105/1004247624/dureza-barca-champions-cinco-rivales-top-10.html"
+      "fecha": "2026-11-05T23:01:20+02:00",
+      "enlace": "https://www.mundodeportivo.com/baloncesto/euroliga/20261105/1004247733/90-93-mamba-vasca-aniquila-hapoel-sofia.html"
     },
     {
       "titular": "El Giro más brutal busca estrellas: Evenepoel, Seixas y el sueño de reunir a los mejores",
@@ -32,6 +23,15 @@
       "enlace": "https://www.marca.com/ciclismo/giro-italia/2026/11/04/giro-brutal-busca-estrellas-evenepoel-seixas-sueno-reunir-mejores.html"
     },
     {
+      "titular": "El 1x1 del Barça ante el Hapoel",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-05T23:13:22+02:00",
+      "enlace": "https://www.mundodeportivo.com/baloncesto/euroliga/20261105/1004247736/1x1-barca-hapoel.html"
+    },
+    {
       "titular": "Pepo Clavet: \"La pista de tenis es como un tablero de ajedrez\"",
       "medios": [
         "Marca"
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/tenis/masters-1000-paris/2026/11/04/pepo-clavet-pista-tenis-tablero-ajedrez.html"
     },
     {
-      "titular": "Los 'niños' reinan en la Champions League",
+      "titular": "Así queda la clasificación de la Euroliga tras los triunfos de Barça y Valencia",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-05T18:42:27+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/champions-league/20261105/1004247630/ninos-reinan-champions-league.html"
+      "fecha": "2026-11-06T00:08:58+02:00",
+      "enlace": "https://www.mundodeportivo.com/baloncesto/euroliga/20261105/1004247755/asi-queda-clasificacion-euroliga-triunfos-barca-valencia-baskonia-colista.html"
     },
     {
-      "titular": "La sanción a Owono se retrasa hasta la próxima semana",
+      "titular": "Detienen a un adolescente de 14 años por burlarse de un niño que murió de cáncer en un partido de fútbol",
       "medios": [
-        "Mundo Deportivo"
+        "Marca"
       ],
       "consenso": 1,
-      "fecha": "2026-11-05T18:39:47+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/liga-segunda-division/20261105/1004247633/sancion-owono-retrasa-proxima-semana.html"
+      "fecha": "2026-11-04T08:35:06+02:00",
+      "enlace": "https://www.marca.com/tiramillas/sucesos/2026/11/04/detienen-adolescente-14-anos-burlarse-nino-murio-cancer-partido-futbol-video.html"
     },
     {
-      "titular": "Llega mañana a Prime Video la miniserie de seis capítulos basada en un 'best seller'",
+      "titular": "Sekulic: \"Esta es una gran victoria\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-05T18:29:34+02:00",
-      "enlace": "https://www.mundodeportivo.com/elotromundo/television/20261105/1004247609/llega-manana-6-noviembre-prime-video-miniserie-seis-capitulos-basada-best-seller-perfecta-ver-tarde-tvp-dct.html"
+      "fecha": "2026-11-05T23:47:53+02:00",
+      "enlace": "https://www.mundodeportivo.com/baloncesto/euroliga/20261105/1004247751/sekulic-gran-victoria.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 19,
+    "antiguedad_minima_min": 25,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 79,
         "error": null,
-        "antiguedad_min": 2062,
+        "antiguedad_min": 2401,
         "descartados_por_gancho": 9
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 145,
+        "items": 150,
         "error": null,
-        "antiguedad_min": 19,
-        "descartados_por_gancho": 5
+        "antiguedad_min": 25,
+        "descartados_por_gancho": 3
       },
       {
         "medio": "Sport",
