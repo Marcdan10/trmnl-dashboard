@@ -2,16 +2,16 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-11-05T03:56:39+02:00",
+  "generado": "2026-11-05T10:56:44+02:00",
   "titulares": [
     {
-      "titular": "¡Brutal baño histórico del Como al Lens!",
+      "titular": "Las cuentas pendientes del Barça con el Atlético",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-05T00:05:44+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/champions-league/20261104/1004247367/brutal-festival-lens-goleada-historica.html"
+      "fecha": "2026-11-05T07:30:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261105/1004247365/cuentas-pendientes-barca-atletico.html"
     },
     {
       "titular": "El Giro más brutal busca estrellas: Evenepoel, Seixas y el sueño de reunir a los mejores",
@@ -23,13 +23,13 @@
       "enlace": "https://www.marca.com/ciclismo/giro-italia/2026/11/04/giro-brutal-busca-estrellas-evenepoel-seixas-sueno-reunir-mejores.html"
     },
     {
-      "titular": "El juez de competición da por concluido el Tenerife-Andorra",
+      "titular": "Aday Mara, titular y fiesta de tapones para humillar a otra estrella: como si matara moscas",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-04T18:47:57+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/20261104/1004247252/juez-competicion-da-concluido-tenerife-andorra.html"
+      "fecha": "2026-11-05T07:26:34+02:00",
+      "enlace": "https://www.mundodeportivo.com/baloncesto/nba/20261105/1004247413/aday-mara-titular-fiesta-tapones-humillar-estrella-matara-moscas.html"
     },
     {
       "titular": "Pepo Clavet: \"La pista de tenis es como un tablero de ajedrez\"",
@@ -41,15 +41,6 @@
       "enlace": "https://www.marca.com/tenis/masters-1000-paris/2026/11/04/pepo-clavet-pista-tenis-tablero-ajedrez.html"
     },
     {
-      "titular": "Así queda la clasificación tras llegar al ecuador de la fase liga",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-05T00:34:08+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/champions-league/20261104/1004247386/asi-queda-clasificacion-champions-triunfo-barca-aston-villa.html"
-    },
-    {
       "titular": "Detienen a un adolescente de 14 años por burlarse de un niño que murió de cáncer en un partido de fútbol",
       "medios": [
         "Marca"
@@ -59,13 +50,22 @@
       "enlace": "https://www.marca.com/tiramillas/sucesos/2026/11/04/detienen-adolescente-14-anos-burlarse-nino-murio-cancer-partido-futbol-video.html"
     },
     {
-      "titular": "2-1: El Betis cae con la cabeza alta en una noche grande de Champions",
+      "titular": "Duro revés a Donald Trump en las urnas: Estados Unidos vota por un cambio de rumbo",
+      "medios": [
+        "Marca"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-04T08:35:04+02:00",
+      "enlace": "https://www.marca.com/tiramillas/politica/2026/11/04/primera-gran-derrota-trump-midterms-estados-unidos-democratas-ganan-senado-logran-congreso.html"
+    },
+    {
+      "titular": "Raphinha firmará hoy hasta 2030",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-05T00:22:24+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/betis/20261104/1004247381/betis-cae-cabeza-alta-noche-grande-champions.html"
+      "fecha": "2026-11-04T17:53:49+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261104/1004247239/oficial-raphinha-firmara-manana-2030.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 158,
+    "antiguedad_minima_min": 29,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 79,
         "error": null,
-        "antiguedad_min": 1153,
+        "antiguedad_min": 1573,
         "descartados_por_gancho": 9
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 151,
+        "items": 145,
         "error": null,
-        "antiguedad_min": 158,
-        "descartados_por_gancho": 5
+        "antiguedad_min": 29,
+        "descartados_por_gancho": 4
       },
       {
         "medio": "Sport",

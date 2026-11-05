@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-11-05T03:56:34+02:00",
+  "generado": "2026-11-05T10:56:39+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -14,31 +14,41 @@
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
     },
     {
-      "titular": "El presidente de Adif presenta su dimisión a Cuerpo tras explicar el suceso de Urda",
+      "titular": "Las vidas que se pararon para siempre en Urda",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-11-04T18:06:35+02:00",
-      "enlace": "https://elpais.com/espana/2026-11-04/el-presidente-de-adif-se-reune-con-cuerpo-para-explicar-el-suceso-de-urda-y-poner-el-cargo-a-disposicion.html"
+      "fecha": "2026-11-05T06:30:01+02:00",
+      "enlace": "https://elpais.com/espana/2026-11-05/las-vidas-que-se-pararon-para-siempre-en-urda.html"
     },
     {
-      "titular": "Trump culpa a la guerra de la humillación histórica en las elecciones 'midterm'",
+      "titular": "Madrid acoge la Cumbre Iberoamericana",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-11-04T18:32:07+02:00",
-      "enlace": "https://www.lavanguardia.com/internacional/20261104/11676158/trumpismo-sufre-humillacion-historica-elecciones-medio-mandato.html"
+      "fecha": "2026-11-05T10:09:57+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20261105/11676613/sanchez-mantiene-encuentro-diferentes-lideres-cumbre-iberoamericana.html"
     },
     {
-      "titular": "Adif utiliza trenes con pasajeros para detectar fallos de «repercusión débil» en las vías",
+      "titular": "Dcoop y Acesur compran Deoleo tras imponerse a Coricelli y Migasa",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-11-05T02:48:25+02:00",
-      "enlace": "https://www.abc.es/espana/adif-utiliza-trenes-pasajeros-detectar-fallos-repercusion-20261105014113-nt.html"
+      "fecha": "2026-11-05T10:42:52+02:00",
+      "enlace": "https://www.abc.es/sevilla/economia/dcoop-acesur-compran-gigante-deoleo-tras-imponerse-20261105080159-nts.html"
+    },
+    {
+      "titular": "Yolanda Díaz subirá el salario mínimo un 5,3%, por encima de la recomendación de los expertos, hasta los 1.286 euros al mes",
+      "medios": [
+        "El País",
+        "ABC"
+      ],
+      "consenso": 2,
+      "fecha": "2026-11-05T09:46:51+02:00",
+      "enlace": "https://www.abc.es/economia/yolanda-diaz-subira-salario-minimo-encima-recomendacion-20261105083045-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -50,22 +60,13 @@
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
     },
     {
-      "titular": "Una crisis ferroviaria y aplacar a un sector constructor en contra, los desafíos de Cuerpo tras la ‘era Puente’",
+      "titular": "Milei planta al Rey en el arranque de la Cumbre Iberoamericana y se reúne con Abascal",
       "medios": [
-        "El País"
+        "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-11-04T12:51:17+02:00",
-      "enlace": "https://elpais.com/espana/2026-11-04/una-crisis-ferroviaria-y-aplacar-a-un-sector-constructor-de-unas-los-desafios-de-cuerpo-tras-la-era-puente.html"
-    },
-    {
-      "titular": "El cardiólogo Aurelio Rojas confirma qué pasa cuando tomas café por las mañanas: «Tienen más esperanza de vida»",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-05T02:36:34+02:00",
-      "enlace": "https://www.abc.es/bienestar/alimentacion/cardiologo-aurelio-rojas-confirma-pasa-tomas-cafe-20261102171506-nt.html"
+      "fecha": "2026-11-04T18:51:51+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20261104/11676184/milei-planta-rey-arranque-cumbre-iberoamericana-reune-abascal.html"
     }
   ],
   "salud": {
@@ -74,7 +75,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 39,
+    "antiguedad_minima_min": 5,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +83,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2317131,
+        "antiguedad_min": 2317551,
         "descartados_por_gancho": 0
       },
       {
@@ -90,26 +91,26 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 500",
+        "error": "HTTP 429",
         "antiguedad_min": null
       },
       {
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 154,
+        "items": 143,
         "error": null,
-        "antiguedad_min": 39,
-        "descartados_por_gancho": 3
+        "antiguedad_min": 5,
+        "descartados_por_gancho": 9
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 143,
+        "items": 132,
         "error": null,
-        "antiguedad_min": 120,
-        "descartados_por_gancho": 12
+        "antiguedad_min": 39,
+        "descartados_por_gancho": 13
       },
       {
         "medio": "ABC",
@@ -117,7 +118,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 68,
+        "antiguedad_min": 13,
         "descartados_por_gancho": 0
       }
     ]
