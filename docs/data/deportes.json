@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-11-06T13:16:11+02:00",
+  "generado": "2026-11-06T20:10:59+02:00",
   "titulares": [
     {
-      "titular": "Sitúan a Pol Planas fuera del Juvenil A del Barça rumbo al Dinamo Zagreb",
+      "titular": "Así es la rutina de El Gran Wyoming a sus 71 años: \"Lo hago por obligación\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-06T12:55:40+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261106/1004247849/pol-planas-deja-juvenil-barca-rumbo-dinamo-zagreb.html"
+      "fecha": "2026-11-06T19:53:18+02:00",
+      "enlace": "https://www.mundodeportivo.com/running/20261106/1004247740/gran-wyoming-71-anos-me-levanto-mananas-no-suelo-hambre-desayuno-obligacion-zumo-naranja-tostada-aceite-oliva-virgen-dsy-dct.html"
     },
     {
-      "titular": "El juez de competiciones profesionales inadmite la petición de AFE",
+      "titular": "Dembélé y PSG, cada vez más cerca de un acuerdo",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-06T12:51:29+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/liga-segunda-division/20261106/1004247862/juez-competiciones-profesionales-inadmite-peticion-afe.html"
+      "fecha": "2026-11-06T19:49:35+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/internacional/20261106/1004248037/dembele-psg-vez-cerca-acuerdo.html"
     },
     {
       "titular": "España no se deja intimidar por Argentina en el Mundial de pádel: \"No hay un favorito claro\"",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/liga-italiana/2026/11/06/gustavo-varela-jugar-padre-pichichi-serie-sustituto-cristiano-portugal.html"
     },
     {
-      "titular": "Los dos Bellingham, contra España",
+      "titular": "La NBA publica su primera clasificación de favoritos al MVP 26/27",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-06T12:45:28+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/uefa-nations-league/20261106/1004247863/dos-bellingham-espana.html"
+      "fecha": "2026-11-06T19:34:51+02:00",
+      "enlace": "https://www.mundodeportivo.com/baloncesto/nba/20261106/1004248030/nba-publica-primera-clasificacion-favoritos-mvp-26-27.html"
     },
     {
-      "titular": "Vinicius, ausente en el entrenamiento antes de visitar al Valencia",
+      "titular": "Cristiano Ronaldo y un último 'last dance' con Portugal",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-06T12:37:38+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20261106/1004247858/vinicius-ausente-entrenamiento-visitar-valencia.html"
+      "fecha": "2026-11-06T19:29:29+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/internacional/20261106/1004248019/cristiano-ronaldo-ultimo-last-dance-portugal.html"
     },
     {
-      "titular": "La convocatoria de Luis de la Fuente: tres estrenos y cuatro porteros",
+      "titular": "Daniel Sánchez Arévalo, sobre 'Colisión': \"Hay personajes atrapados por sus circunstancias que intentan hacerlo lo mejor que pueden\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-06T12:33:18+02:00",
-      "enlace": "https://www.mundodeportivo.com/seleccion-espanola/20261106/1004247855/convocatoria-luis-fuente-cuatro-estrenos-cuatro-porteros.html"
+      "fecha": "2026-11-06T19:28:47+02:00",
+      "enlace": "https://www.mundodeportivo.com/elotromundo/television/20261106/1004248010/daniel-sanchez-arevalo-sobre-colision-hay-personajes-atrapados-circunstancias-intentan-hacerlo-mejor-robar-banco-sea-moralmente-cuestionable.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 20,
+    "antiguedad_minima_min": 17,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 66,
         "error": null,
-        "antiguedad_min": 147,
+        "antiguedad_min": 562,
         "descartados_por_gancho": 5
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 143,
+        "items": 145,
         "error": null,
-        "antiguedad_min": 20,
-        "descartados_por_gancho": 7
+        "antiguedad_min": 17,
+        "descartados_por_gancho": 5
       },
       {
         "medio": "Sport",
