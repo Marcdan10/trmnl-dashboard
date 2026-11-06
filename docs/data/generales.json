@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-11-06T00:44:35+02:00",
+  "generado": "2026-11-06T05:01:55+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -23,13 +23,13 @@
       "enlace": "https://elpais.com/internacional/2026-11-05/cinco-aviones-con-destino-a-ciudades-europeas-realizan-aterrizajes-de-emergencia-tras-recibir-amenazas-de-bomba.html"
     },
     {
-      "titular": "Una tumba de Siberia revela el uso del cannabis hace casi 3.000 años",
+      "titular": "El futuro de Marco Rubio agita una Casa Blanca que ya piensa en la sucesión de Trump",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-11-05T23:49:16+02:00",
-      "enlace": "https://www.abc.es/ciencia/marihuana-consumia-colocarse-2800-anos-prueba-cabello-20261105200000-nt.html"
+      "fecha": "2026-11-06T03:38:27+02:00",
+      "enlace": "https://www.abc.es/internacional/futuro-marco-rubio-agita-casa-blanca-piensa-20261104235434-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -59,13 +59,13 @@
       "enlace": "https://www.lavanguardia.com/politica/20261105/11676780/koldo-garcia-carcel-condena-firme-busca-resarcirse-psoe.html"
     },
     {
-      "titular": "Feijóo irrumpe en la Cumbre Iberoamericana apoyando a María Corina y se acerca a Kast y Zelenski",
+      "titular": "Los brindis al sol de la izquierda: impuesto a ultrarricos y 1.800 euros de salario mínimo",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-11-05T23:44:56+02:00",
-      "enlace": "https://www.abc.es/espana/feijoo-irrumpe-cumbre-iberoamericana-apoyando-maria-corina-20261105142203-nt.html"
+      "fecha": "2026-11-06T02:42:45+02:00",
+      "enlace": "https://www.abc.es/espana/brindis-sol-izquierda-impuestos-ultrarricos-1800-smi-20261106011852-nt.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 24,
+    "antiguedad_minima_min": 83,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2318379,
+        "antiguedad_min": 2318636,
         "descartados_por_gancho": 0
       },
       {
@@ -90,7 +90,7 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 429",
+        "error": "HTTP 500",
         "antiguedad_min": null
       },
       {
@@ -99,26 +99,26 @@
         "ok": true,
         "items": 143,
         "error": null,
-        "antiguedad_min": 24,
+        "antiguedad_min": 102,
         "descartados_por_gancho": 9
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 143,
+        "items": 141,
         "error": null,
-        "antiguedad_min": 62,
-        "descartados_por_gancho": 13
+        "antiguedad_min": 211,
+        "descartados_por_gancho": 11
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 25,
+        "items": 24,
         "error": null,
-        "antiguedad_min": 55,
-        "descartados_por_gancho": 0
+        "antiguedad_min": 83,
+        "descartados_por_gancho": 1
       }
     ]
   }

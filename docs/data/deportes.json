@@ -2,7 +2,7 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-11-06T00:44:39+02:00",
+  "generado": "2026-11-06T05:02:00+02:00",
   "titulares": [
     {
       "titular": "90-93: La 'Mamba Vasca' aniquila al Hapoel en Sofía",
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 25,
+    "antiguedad_minima_min": 227,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 79,
         "error": null,
-        "antiguedad_min": 2401,
+        "antiguedad_min": 2659,
         "descartados_por_gancho": 9
       },
       {
@@ -99,9 +99,9 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 150,
+        "items": 151,
         "error": null,
-        "antiguedad_min": 25,
+        "antiguedad_min": 227,
         "descartados_por_gancho": 3
       },
       {
