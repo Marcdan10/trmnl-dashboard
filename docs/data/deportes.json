@@ -1,26 +1,17 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "ultimas",
-  "generado": "2026-11-06T20:10:59+02:00",
+  "modo": "portadas",
+  "generado": "2026-11-07T01:21:47+02:00",
   "titulares": [
     {
-      "titular": "Así es la rutina de El Gran Wyoming a sus 71 años: \"Lo hago por obligación\"",
+      "titular": "Fermín: \"Nunca lo he tenido fácil\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-06T19:53:18+02:00",
-      "enlace": "https://www.mundodeportivo.com/running/20261106/1004247740/gran-wyoming-71-anos-me-levanto-mananas-no-suelo-hambre-desayuno-obligacion-zumo-naranja-tostada-aceite-oliva-virgen-dsy-dct.html"
-    },
-    {
-      "titular": "Dembélé y PSG, cada vez más cerca de un acuerdo",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-06T19:49:35+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/internacional/20261106/1004248037/dembele-psg-vez-cerca-acuerdo.html"
+      "fecha": "2026-11-06T22:50:24+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261106/1004248095/fermin-nunca-he-tenido-facil.html"
     },
     {
       "titular": "España no se deja intimidar por Argentina en el Mundial de pádel: \"No hay un favorito claro\"",
@@ -32,6 +23,15 @@
       "enlace": "https://www.marca.com/padel/2026/11/06/espana-deja-intimidar-argentina-mundial-padel-hay-favorito-claro.html"
     },
     {
+      "titular": "Fermín: \"El Atlético nos hizo daño la pasada temporada y debemos controlar los detalles\"",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-06T23:13:40+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261106/1004248096/fermin-atletico-hizo-dano-pasada-temporada-debemos-controlar-detalles.html"
+    },
+    {
       "titular": "Gustavo Varela: de jugar contra su padre a 'Pichichi' de la Serie A... ¿y sustituto de Cristiano en Portugal?",
       "medios": [
         "Marca"
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/liga-italiana/2026/11/06/gustavo-varela-jugar-padre-pichichi-serie-sustituto-cristiano-portugal.html"
     },
     {
-      "titular": "La NBA publica su primera clasificación de favoritos al MVP 26/27",
+      "titular": "Salvajada para el recuerdo de Alcaraz en París",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-06T19:34:51+02:00",
-      "enlace": "https://www.mundodeportivo.com/baloncesto/nba/20261106/1004248030/nba-publica-primera-clasificacion-favoritos-mvp-26-27.html"
+      "fecha": "2026-11-06T23:50:05+02:00",
+      "enlace": "https://www.mundodeportivo.com/tenis/20261106/1004248121/salvajada-recuerdo-alcaraz-paris.html"
     },
     {
-      "titular": "Cristiano Ronaldo y un último 'last dance' con Portugal",
+      "titular": "0-0: El Sevilla no pasa de un triste empate en casa ante el Alavés",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-06T19:29:29+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/internacional/20261106/1004248019/cristiano-ronaldo-ultimo-last-dance-portugal.html"
+      "fecha": "2026-11-07T00:47:23+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/laliga/20261106/1004248117/sevilla-vs-alaves.html"
     },
     {
-      "titular": "Daniel Sánchez Arévalo, sobre 'Colisión': \"Hay personajes atrapados por sus circunstancias que intentan hacerlo lo mejor que pueden\"",
+      "titular": "A España se le empieza a poner muy cuesta arriba la plaza extra de Champions",
       "medios": [
-        "Mundo Deportivo"
+        "Marca"
       ],
       "consenso": 1,
-      "fecha": "2026-11-06T19:28:47+02:00",
-      "enlace": "https://www.mundodeportivo.com/elotromundo/television/20261106/1004248010/daniel-sanchez-arevalo-sobre-colision-hay-personajes-atrapados-circunstancias-intentan-hacerlo-mejor-robar-banco-sea-moralmente-cuestionable.html"
+      "fecha": "2026-11-06T10:21:50+02:00",
+      "enlace": "https://www.marca.com/futbol/champions-league/2026/11/06/espana-le-empieza-poner-cuesta-plaza-extra-champions.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 17,
+    "antiguedad_minima_min": 34,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 66,
         "error": null,
-        "antiguedad_min": 562,
+        "antiguedad_min": 873,
         "descartados_por_gancho": 5
       },
       {
@@ -99,9 +99,9 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 145,
+        "items": 143,
         "error": null,
-        "antiguedad_min": 17,
+        "antiguedad_min": 34,
         "descartados_por_gancho": 5
       },
       {

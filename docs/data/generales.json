@@ -1,63 +1,9 @@
 {
   "pantalla": "generales",
   "titulo": "Titulares",
-  "modo": "ultimas",
-  "generado": "2026-11-06T20:10:53+02:00",
+  "modo": "portadas",
+  "generado": "2026-11-07T01:21:40+02:00",
   "titulares": [
-    {
-      "titular": "Carlos Alcaraz-Taylor Fritz, el partido de cuartos de final del Masters ATP de París en vivo",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-06T20:09:04+02:00",
-      "enlace": "https://elpais.com/deportes/2026-11-06/carlos-alcaraz-taylor-fritz-el-partido-de-cuartos-de-final-del-masters-atp-de-paris-en-vivo.html"
-    },
-    {
-      "titular": "Última hora de la actualidad política, en directo | Sánchez participa en el primer mitin tras el accidente ferroviario de Urda",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-06T20:06:50+02:00",
-      "enlace": "https://elpais.com/espana/2026-11-06/ultima-hora-de-la-actualidad-politica-en-directo.html"
-    },
-    {
-      "titular": "El presidente de Burger King se alía con la familia Galán y otros inversores para comprar la compañía",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-06T19:53:56+02:00",
-      "enlace": "https://www.abc.es/economia/familia-galan-varios-inversores-burger-king-2300-20261106181339-nt.html"
-    },
-    {
-      "titular": "El 'virus FIFA' amenaza al Barça: indignación en Barcelona por la marcha de Raphinha con Brasil",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-06T19:39:46+02:00",
-      "enlace": "https://www.abc.es/deportes/futbol/virus-fifa-amenaza-barca-indignacion-barcelona-marcha-20261106183946-nt.html"
-    },
-    {
-      "titular": "¿Por qué el Gobierno interviene el mercado del aceite de oliva cuando los precios están bajos?",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-06T18:08:16+02:00",
-      "enlace": "https://www.lavanguardia.com/economia/20261106/11678178/gobierno-interviene-primera-vez-mercado-aceite-oliva-precios-bajos.html"
-    },
-    {
-      "titular": "Ocupan menos que una torre: estos son los mini PC más avanzados y compactos que se harán un hueco en tu escritorio",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-06T18:00:00+02:00",
-      "enlace": "https://www.lavanguardia.com/comprar/tecnologia/20261106/11676577/ocupan-torre-son-mini-pc-mas-avanzados-compactos-haran-hueco-escritorio-mkt-alie.html"
-    },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
       "medios": [
@@ -66,6 +12,62 @@
       "consenso": 1,
       "fecha": "2022-06-10T01:05:00+02:00",
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
+    },
+    {
+      "titular": "Pedro Sánchez llama a la movilización en su retorno a la precampaña: “Si se pudo en Brasil y EE UU, en España también”",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-06T22:27:08+02:00",
+      "enlace": "https://elpais.com/espana/comunidad-valenciana/2026-11-06/pedro-sanchez-llama-a-la-movilizacion-en-su-retorno-a-la-precampana-si-se-pudo-en-brasil-y-ee-uu-en-espana-tambien.html"
+    },
+    {
+      "titular": "Operación de la Fiscalía Europea por “posible fraude” en los contratos del AVE Madrid-Sevilla",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-06T11:16:26+02:00",
+      "enlace": "https://www.lavanguardia.com/vida/20261106/11677722/fiscalia-europea-lanza-operacion-uco-contratos-adif-accidente-urda.html"
+    },
+    {
+      "titular": "María Corina Machado visita a las familias de presos políticos a las puertas de la cárcel de El Rodeo",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-07T00:20:44+02:00",
+      "enlace": "https://www.abc.es/internacional/maria-corina-machado-visita-familias-presos-politicos-20261106203007-nt.html"
+    },
+    {
+      "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
+      "medios": [
+        "RTVE"
+      ],
+      "consenso": 1,
+      "fecha": "2022-06-10T00:03:00+02:00",
+      "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
+    },
+    {
+      "titular": "Muere a los 52 años el director chileno Sebastián Lelio, ganador del Oscar",
+      "medios": [
+        "El País",
+        "La Vanguardia",
+        "ABC"
+      ],
+      "consenso": 3,
+      "fecha": "2026-11-06T22:43:14+02:00",
+      "enlace": "https://www.abc.es/play/cine/noticias/muere-anos-director-chileno-sebastian-lelio-ganador-20261106190223-nt.html"
+    },
+    {
+      "titular": "La AESF alertó antes de Urda de “prácticas inadecuadas” en la comunicación de emergencias",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-06T13:06:45+02:00",
+      "enlace": "https://www.lavanguardia.com/vida/20261106/11677838/aesf-alerto-urda-practicas-inadecuadas-comunicacion-emergencias.html"
     }
   ],
   "salud": {
@@ -74,7 +76,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 1,
+    "antiguedad_minima_min": 45,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +84,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2319545,
+        "antiguedad_min": 2319856,
         "descartados_por_gancho": 0
       },
       {
@@ -90,17 +92,17 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 429",
+        "error": "HTTP 500",
         "antiguedad_min": null
       },
       {
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 140,
+        "items": 141,
         "error": null,
-        "antiguedad_min": 1,
-        "descartados_por_gancho": 7
+        "antiguedad_min": 45,
+        "descartados_por_gancho": 6
       },
       {
         "medio": "La Vanguardia",
@@ -108,8 +110,8 @@
         "ok": true,
         "items": 137,
         "error": null,
-        "antiguedad_min": 122,
-        "descartados_por_gancho": 15
+        "antiguedad_min": 85,
+        "descartados_por_gancho": 14
       },
       {
         "medio": "ABC",
@@ -117,7 +119,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 16,
+        "antiguedad_min": 60,
         "descartados_por_gancho": 0
       }
     ]
