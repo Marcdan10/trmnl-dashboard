@@ -1,65 +1,9 @@
 {
   "pantalla": "generales",
   "titulo": "Titulares",
-  "modo": "ultimas",
-  "generado": "2026-11-07T22:22:14+02:00",
+  "modo": "portadas",
+  "generado": "2026-11-08T01:45:31+02:00",
   "titulares": [
-    {
-      "titular": "Valencia - Real Madrid en directo | Comienza el partido en Mestalla",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-07T22:17:31+02:00",
-      "enlace": "https://elpais.com/deportes/futbol/2026-11-07/valencia-real-madrid-en-directo-el-partido-de-la-liga-en-vivo.html"
-    },
-    {
-      "titular": "Al menos seis muertos y unos quince heridos en un tiroteo en la ciudad polaca de Cracovia",
-      "medios": [
-        "La Vanguardia",
-        "ABC"
-      ],
-      "consenso": 2,
-      "fecha": "2026-11-07T21:51:58+02:00",
-      "enlace": "https://www.abc.es/internacional/cinco-muertos-varios-heridos-tiroteo-ciudad-polaca-20261107162839-nt.html"
-    },
-    {
-      "titular": "El presidente de Israel encarga formar Gobierno al líder opositor Gadi Eisenkot",
-      "medios": [
-        "El País",
-        "ABC"
-      ],
-      "consenso": 2,
-      "fecha": "2026-11-07T21:50:59+02:00",
-      "enlace": "https://elpais.com/internacional/2026-11-07/el-presidente-de-israel-encarga-formar-gobierno-al-lider-opositor-gadi-eisenkot.html"
-    },
-    {
-      "titular": "Tenerife y el fútbol español homenajean a Jesús de Miguel",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-07T21:39:26+02:00",
-      "enlace": "https://www.abc.es/deportes/futbol/tenerife-futbol-espanol-homenajean-jesus-miguel-emotiva-20261107203715-nt.html"
-    },
-    {
-      "titular": "Muere Richard Lloyd, guitarrista de Television y referente del post-punk",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-07T21:38:02+02:00",
-      "enlace": "https://www.abc.es/cultura/musica/muere-richard-lloyd-guitarrista-television-referente-postpunk-20261107193753-nt.html"
-    },
-    {
-      "titular": "El último homenaje del Tenerife a Jesús de Miguel: “Todos sabrán quién fuiste”",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-07T21:17:06+02:00",
-      "enlace": "https://www.lavanguardia.com/deportes/futbol/20261107/11678843/ultimo-homenaje-tenerife-jesus-miguel-todos-sabran-fuiste-heliodoro-estadio.html"
-    },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
       "medios": [
@@ -68,6 +12,63 @@
       "consenso": 1,
       "fecha": "2022-06-10T01:05:00+02:00",
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
+    },
+    {
+      "titular": "Golpe en la mesa de un gran Madrid en Mestalla",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-08T01:14:13+02:00",
+      "enlace": "https://www.abc.es/deportes/real-madrid/golpe-mesa-gran-madrid-mestalla-20261107225738-nt.html"
+    },
+    {
+      "titular": "El presidente de Israel encarga al líder opositor Gadi Eisenkot la formación de Gobierno",
+      "medios": [
+        "El País",
+        "La Vanguardia",
+        "ABC"
+      ],
+      "consenso": 3,
+      "fecha": "2026-11-08T00:33:10+02:00",
+      "enlace": "https://www.abc.es/internacional/presidente-israel-encarga-gadi-eisenkot-formacion-gobierno-20261107205024-nt.html"
+    },
+    {
+      "titular": "Al menos seis muertos y unos quince heridos en un tiroteo en la ciudad polaca de Cracovia",
+      "medios": [
+        "La Vanguardia",
+        "ABC"
+      ],
+      "consenso": 2,
+      "fecha": "2026-11-08T00:55:53+02:00",
+      "enlace": "https://www.abc.es/internacional/cinco-muertos-varios-heridos-tiroteo-ciudad-polaca-20261107162839-nt.html"
+    },
+    {
+      "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
+      "medios": [
+        "RTVE"
+      ],
+      "consenso": 1,
+      "fecha": "2022-06-10T00:03:00+02:00",
+      "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
+    },
+    {
+      "titular": "Yusef Yabarín, líder de la principal lista árabe de Israel: “Al apoyar a Eisenkot, hemos elegido lo menos malo”",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-07T11:56:40+02:00",
+      "enlace": "https://elpais.com/internacional/2026-11-07/yusef-yabarin-lider-de-la-principal-lista-arabe-de-israel-al-apoyar-a-eisenkot-hemos-elegido-lo-menos-malo.html"
+    },
+    {
+      "titular": "Un joven fascinado por la extrema derecha: así define el Gobierno polaco al pistolero de Cracovia",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-07T23:46:34+02:00",
+      "enlace": "https://www.lavanguardia.com/internacional/20261107/11678909/joven-fascinado-extrema-derecha-asi-define-gobierno-polaco-pistolero-cracovia.html"
     }
   ],
   "salud": {
@@ -76,7 +77,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 4,
+    "antiguedad_minima_min": 31,
     "detalle": [
       {
         "medio": "RTVE",
@@ -84,7 +85,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2321117,
+        "antiguedad_min": 2321320,
         "descartados_por_gancho": 0
       },
       {
@@ -99,18 +100,18 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 138,
+        "items": 137,
         "error": null,
-        "antiguedad_min": 4,
+        "antiguedad_min": 75,
         "descartados_por_gancho": 4
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 130,
+        "items": 126,
         "error": null,
-        "antiguedad_min": 65,
+        "antiguedad_min": 99,
         "descartados_por_gancho": 12
       },
       {
@@ -119,7 +120,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 30,
+        "antiguedad_min": 31,
         "descartados_por_gancho": 0
       }
     ]
