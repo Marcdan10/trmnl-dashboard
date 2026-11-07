@@ -1,9 +1,36 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "portadas",
-  "generado": "2026-11-07T11:46:23+02:00",
+  "modo": "ultimas",
+  "generado": "2026-11-07T18:01:01+02:00",
   "titulares": [
+    {
+      "titular": "Lidia, la médica que prepara el MIR 2027 sin renunciar a sus pasiones: \"No te define ni como persona ni como profesional\"",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-07T15:31:22+02:00",
+      "enlace": "https://www.redaccionmedica.com/formacion/mir/20261107/lidia-la-medica-que-prepara-el-mir-sin-renunciar-sus-pasiones-no-te-define-ni-como-persona-profesional/363032_0.html"
+    },
+    {
+      "titular": "Villalón (Atlético de Madrid): “La IA es una ayuda, pero el ‘jefe’ es el médico y su equipo de trabajo”",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-07T14:45:20+02:00",
+      "enlace": "https://www.redaccionmedica.com/innovacion/avances/20261107/villalon-atletico-de-madrid-la-ia-es-una-ayuda-pero-el-jefe-medico-su-equipo-trabajo/364570_0.html"
+    },
+    {
+      "titular": "Huelga general: el COFM defiende la apertura de las farmacias por su carácter “esencial”",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-07T13:36:31+02:00",
+      "enlace": "https://diariofarma.com/2026/11/07/huelga-general-el-cofm-defiende-la-apertura-de-las-farmacias-por-su-caracter-esencial"
+    },
     {
       "titular": "El Cacof renueva su curso de SPD para habilitar y reciclar a los farmacéuticos andaluces",
       "medios": [
@@ -23,24 +50,6 @@
       "enlace": "https://elglobalfarma.com/politica/parlamento-europeo-votacion-paquete-farmaceutico-noviembre/"
     },
     {
-      "titular": "Las físicas médicas pierden poder directivo: de ser \"pioneras\" en la especialidad a copar solo el 18% de jefaturas",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-07T06:03:00+02:00",
-      "enlace": "https://www.redaccionmedica.com/profesionales/20261107/las-fisicas-medicas-pierden-poder-directivo-de-ser-pioneras-en-la-especialidad-copar-solo-el-jefaturas/364348_0.html"
-    },
-    {
-      "titular": "La evaluación clínica conjunta de la UE arranca con un fármaco para cáncer de mama",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-06T18:17:25+02:00",
-      "enlace": "https://diariofarma.com/2026/11/06/la-evaluacion-clinica-conjunta-de-la-ue-arranca-con-un-farmaco-para-cancer-de-mama"
-    },
-    {
       "titular": "Fúnez promete reformar la Ley de los Medicamentos y acelerar el acceso a la innovación si gobierna el PP",
       "medios": [
         "El Global"
@@ -50,22 +59,13 @@
       "enlace": "https://elglobalfarma.com/politica/funez-reforma-ley-medicamento-innovacion-29n/"
     },
     {
-      "titular": "El residente no se alimenta del aire",
+      "titular": "Sánchez reivindica el legado de Ernest Lluch en Tarragona en una defensa cerrada de la sanidad pública",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-11-07T11:27:11+02:00",
-      "enlace": "https://www.redaccionmedica.com/opinion/20261107/el-residente-no-se-alimenta-del-aire/364592_12.html"
-    },
-    {
-      "titular": "29N: el PP afrontará la Ley del Medicamento “con rigor y de la mano de los agentes”",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-06T15:13:44+02:00",
-      "enlace": "https://diariofarma.com/2026/11/06/29n-el-pp-afrontara-la-ley-del-medicamento-con-rigor-y-de-la-mano-de-los-agentes"
+      "fecha": "2026-11-07T14:43:33+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/20261107/sanchez-reivindica-el-legado-de-ernest-lluch-en-tarragona-una-defensa-cerrada-la-sanidad-publica/364555_0.html"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 19,
+    "antiguedad_minima_min": 149,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 1035,
+        "antiguedad_min": 264,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 1276,
+        "antiguedad_min": 1651,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 19,
+        "antiguedad_min": 149,
         "descartados_por_gancho": 0
       },
       {

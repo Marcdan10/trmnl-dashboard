@@ -1,9 +1,63 @@
 {
   "pantalla": "generales",
   "titulo": "Titulares",
-  "modo": "portadas",
-  "generado": "2026-11-07T11:46:11+02:00",
+  "modo": "ultimas",
+  "generado": "2026-11-07T18:00:53+02:00",
   "titulares": [
+    {
+      "titular": "Al menos cinco muertos y más de 10 heridos en un atentado en la plaza mayor de Cracovia",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-07T17:54:31+02:00",
+      "enlace": "https://elpais.com/internacional/2026-11-07/varios-muertos-y-heridos-en-un-atentado-en-la-plaza-mayor-de-cracovia.html"
+    },
+    {
+      "titular": "Al menos cinco muertos y decenas heridos en un tiroteo en la ciudad polaca de Cracovia",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-07T17:41:31+02:00",
+      "enlace": "https://www.abc.es/internacional/cinco-muertos-varios-heridos-tiroteo-ciudad-polaca-20261107162839-nt.html"
+    },
+    {
+      "titular": "Un tiroteo en Cracovia deja al menos cinco personas muertas",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-07T17:39:39+02:00",
+      "enlace": "https://www.lavanguardia.com/internacional/20261107/11678781/tiroteo-cracovia-deja-cinco-personas-muertas.html"
+    },
+    {
+      "titular": "Feijóo se compromete a «bajar el telón del espectáculo lamentable» del Gobierno de Sánchez y a «levantar las alfombras»",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-07T17:25:49+02:00",
+      "enlace": "https://www.abc.es/espana/castilla-leon/feijoo-compromete-bajar-telon-espectaculo-lamentable-gobierno-20261107135442-nt.html"
+    },
+    {
+      "titular": "Cómo actúan los pilotos ante las amenazas de bomba en los aviones: “Hay que tomar las decisiones para no romper la cadena de seguridad”",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-07T17:10:38+02:00",
+      "enlace": "https://elpais.com/videos/2026-11-07/como-actuan-los-pilotos-ante-las-amenazas-de-bomba-en-los-aviones-hay-que-tomar-las-decisiones-para-no-romper-la-cadena-de-seguridad.html"
+    },
+    {
+      "titular": "Funcionarios de prisiones denuncian “graves incidentes” en la cárcel de Navalcarnero",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-07T17:00:31+02:00",
+      "enlace": "https://www.lavanguardia.com/local/madrid/20261107/11678771/funcionarios-prisiones-denuncian-graves-incidentes-carcel-navalcarnero.html"
+    },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
       "medios": [
@@ -12,60 +66,6 @@
       "consenso": 1,
       "fecha": "2022-06-10T01:05:00+02:00",
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
-    },
-    {
-      "titular": "¿Se mueven las encuestas? Desde la convocatoria y tras el accidente de tren",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-07T06:30:01+02:00",
-      "enlace": "https://elpais.com/espana/2026-11-07/se-mueven-las-encuestas-que-ha-cambiado-desde-la-convocatoria-y-tras-el-accidente-de-tren.html"
-    },
-    {
-      "titular": "La sombra rusa planea sobre las amenazas contra aviones y canales de televisión en Europa",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-07T01:05:00+02:00",
-      "enlace": "https://www.lavanguardia.com/internacional/20261107/11678310/sombra-rusa-planea-sobre-amenazas-aviones-canales-television-europa.html"
-    },
-    {
-      "titular": "María Corina Machado visita a las familias de presos políticos a las puertas de la cárcel de El Rodeo",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-07T11:25:10+02:00",
-      "enlace": "https://www.abc.es/internacional/maria-corina-machado-visita-familias-presos-politicos-20261106203007-nt.html"
-    },
-    {
-      "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
-      "medios": [
-        "RTVE"
-      ],
-      "consenso": 1,
-      "fecha": "2022-06-10T00:03:00+02:00",
-      "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
-    },
-    {
-      "titular": "La inflación diluye el impacto electoral de los buenos datos macroeconómicos y el ‘efecto Cuerpo’",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-07T06:30:01+02:00",
-      "enlace": "https://elpais.com/espana/2026-11-07/la-inflacion-diluye-el-impacto-electoral-de-los-buenos-datos-macroeconomicos-y-el-efecto-cuerpo.html"
-    },
-    {
-      "titular": "La OTAN crea un catálogo online de sistemas antidrones para neutralizar ataques rusos",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-07T07:00:00+02:00",
-      "enlace": "https://www.lavanguardia.com/internacional/20261107/11678311/otan-crea-catalogo-online-sistemas-antidrones-neutralizar-ataques-rusos.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 16,
+    "antiguedad_minima_min": 6,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2320481,
+        "antiguedad_min": 2320855,
         "descartados_por_gancho": 0
       },
       {
@@ -90,35 +90,35 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 500",
+        "error": "HTTP 429",
         "antiguedad_min": null
       },
       {
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 136,
+        "items": 139,
         "error": null,
-        "antiguedad_min": 16,
-        "descartados_por_gancho": 5
+        "antiguedad_min": 6,
+        "descartados_por_gancho": 4
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 121,
+        "items": 127,
         "error": null,
-        "antiguedad_min": 139,
+        "antiguedad_min": 21,
         "descartados_por_gancho": 12
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 24,
+        "items": 25,
         "error": null,
-        "antiguedad_min": 21,
-        "descartados_por_gancho": 1
+        "antiguedad_min": 19,
+        "descartados_por_gancho": 0
       }
     ]
   }
