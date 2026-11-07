@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-11-07T18:00:56+02:00",
+  "generado": "2026-11-07T22:22:17+02:00",
   "titulares": [
     {
-      "titular": "1-2: El Racing hunde al colista Málaga con Agirrezabala como héroe",
+      "titular": "¡Alonso y Sainz brillan sobre mojado! Ambos en Q2",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-07T17:16:18+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/laliga/20261107/1004248303/malaga-racing.html"
+      "fecha": "2026-11-07T21:59:42+02:00",
+      "enlace": "https://www.mundodeportivo.com/motor/f1/20261107/1004247938/libres-3-clasificacion-f1-gp-brasil-directo-formula-1-circuito-interlagos-alonso-sainz.html"
     },
     {
-      "titular": "Libres 3 y Clasificación de F1 del GP Brasil, en directo",
+      "titular": "1-3 : El Albacete saca provecho de un Leganés tibio en defensa",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-07T17:01:06+02:00",
-      "enlace": "https://www.mundodeportivo.com/motor/f1/20261107/1004247938/libres-3-clasificacion-f1-gp-brasil-directo-formula-1-circuito-interlagos-alonso-sainz.html"
+      "fecha": "2026-11-07T21:50:58+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/leganes/20261107/1004248404/albacete-saca-provecho-leganes-tibio-defensa.html"
     },
     {
       "titular": "¡Locura en Valencia con la llegada del Madrid!",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/atletico/2026/11/07/simeone-simpatico-cruce-palabras-periodista-video.html"
     },
     {
-      "titular": "Realme rompe las reglas de la batería: los 3 móviles que desafían a la gama alta por menos de 400 euros",
+      "titular": "28-31: Campanada de Israel ante una de las grandes selecciones europeas",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-07T17:00:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/elrecomendador/ofertas/20261107/1004246939/realme-hecho-reves-bateria-grande-gama-va-movil-barato-tres-bajan-400-euros-mkt-alie.html"
+      "fecha": "2026-11-07T21:48:16+02:00",
+      "enlace": "https://www.mundodeportivo.com/balonmano/20261107/1004248403/28-31-campanada-israel-grandes-selecciones-europeas.html"
     },
     {
-      "titular": "La previsión del tiempo para la Behobia-San Sebastián 2026",
+      "titular": "Las WTA Finals se quedan sin su campeona y número uno mundial: \"Lo siento, mi cuerpo no está preparado\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-07T16:55:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/running/20261107/1004247247/prevision-behobia-san-sebastian-2026-21-grados-temperatura-posibilidad-lluvia-no-romper-tradicion-domingo-8-noviembre-crs.html"
+      "fecha": "2026-11-07T21:44:13+02:00",
+      "enlace": "https://www.mundodeportivo.com/tenis/20261107/1004248402/wta-finals-quedan-campeona-numero-mundial-siento-mi-cuerpo-no-preparado.html"
     },
     {
-      "titular": "Doble alivio para Belletti: Bisiwu y Catovic se quedan",
+      "titular": "Valencia - Real Madrid, en directo",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-07T16:54:16+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261107/1004248230/doble-alivio-belletti-bisiwu-catovic-quedan.html"
+      "fecha": "2026-11-07T21:40:17+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20261107/1004246448/valencia-real-madrid-directo-sigue-partido-laliga-ea-sports-mestalla-hoy.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 44,
+    "antiguedad_minima_min": 22,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 64,
         "error": null,
-        "antiguedad_min": 120,
+        "antiguedad_min": 382,
         "descartados_por_gancho": 3
       },
       {
@@ -99,9 +99,9 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 139,
+        "items": 143,
         "error": null,
-        "antiguedad_min": 44,
+        "antiguedad_min": 22,
         "descartados_por_gancho": 7
       },
       {

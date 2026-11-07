@@ -2,61 +2,63 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-11-07T18:00:53+02:00",
+  "generado": "2026-11-07T22:22:14+02:00",
   "titulares": [
     {
-      "titular": "Al menos cinco muertos y más de 10 heridos en un atentado en la plaza mayor de Cracovia",
+      "titular": "Valencia - Real Madrid en directo | Comienza el partido en Mestalla",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-11-07T17:54:31+02:00",
-      "enlace": "https://elpais.com/internacional/2026-11-07/varios-muertos-y-heridos-en-un-atentado-en-la-plaza-mayor-de-cracovia.html"
+      "fecha": "2026-11-07T22:17:31+02:00",
+      "enlace": "https://elpais.com/deportes/futbol/2026-11-07/valencia-real-madrid-en-directo-el-partido-de-la-liga-en-vivo.html"
     },
     {
-      "titular": "Al menos cinco muertos y decenas heridos en un tiroteo en la ciudad polaca de Cracovia",
+      "titular": "Al menos seis muertos y unos quince heridos en un tiroteo en la ciudad polaca de Cracovia",
       "medios": [
+        "La Vanguardia",
         "ABC"
       ],
-      "consenso": 1,
-      "fecha": "2026-11-07T17:41:31+02:00",
+      "consenso": 2,
+      "fecha": "2026-11-07T21:51:58+02:00",
       "enlace": "https://www.abc.es/internacional/cinco-muertos-varios-heridos-tiroteo-ciudad-polaca-20261107162839-nt.html"
     },
     {
-      "titular": "Un tiroteo en Cracovia deja al menos cinco personas muertas",
+      "titular": "El presidente de Israel encarga formar Gobierno al líder opositor Gadi Eisenkot",
       "medios": [
-        "La Vanguardia"
+        "El País",
+        "ABC"
       ],
-      "consenso": 1,
-      "fecha": "2026-11-07T17:39:39+02:00",
-      "enlace": "https://www.lavanguardia.com/internacional/20261107/11678781/tiroteo-cracovia-deja-cinco-personas-muertas.html"
+      "consenso": 2,
+      "fecha": "2026-11-07T21:50:59+02:00",
+      "enlace": "https://elpais.com/internacional/2026-11-07/el-presidente-de-israel-encarga-formar-gobierno-al-lider-opositor-gadi-eisenkot.html"
     },
     {
-      "titular": "Feijóo se compromete a «bajar el telón del espectáculo lamentable» del Gobierno de Sánchez y a «levantar las alfombras»",
+      "titular": "Tenerife y el fútbol español homenajean a Jesús de Miguel",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-11-07T17:25:49+02:00",
-      "enlace": "https://www.abc.es/espana/castilla-leon/feijoo-compromete-bajar-telon-espectaculo-lamentable-gobierno-20261107135442-nt.html"
+      "fecha": "2026-11-07T21:39:26+02:00",
+      "enlace": "https://www.abc.es/deportes/futbol/tenerife-futbol-espanol-homenajean-jesus-miguel-emotiva-20261107203715-nt.html"
     },
     {
-      "titular": "Cómo actúan los pilotos ante las amenazas de bomba en los aviones: “Hay que tomar las decisiones para no romper la cadena de seguridad”",
+      "titular": "Muere Richard Lloyd, guitarrista de Television y referente del post-punk",
       "medios": [
-        "El País"
+        "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-11-07T17:10:38+02:00",
-      "enlace": "https://elpais.com/videos/2026-11-07/como-actuan-los-pilotos-ante-las-amenazas-de-bomba-en-los-aviones-hay-que-tomar-las-decisiones-para-no-romper-la-cadena-de-seguridad.html"
+      "fecha": "2026-11-07T21:38:02+02:00",
+      "enlace": "https://www.abc.es/cultura/musica/muere-richard-lloyd-guitarrista-television-referente-postpunk-20261107193753-nt.html"
     },
     {
-      "titular": "Funcionarios de prisiones denuncian “graves incidentes” en la cárcel de Navalcarnero",
+      "titular": "El último homenaje del Tenerife a Jesús de Miguel: “Todos sabrán quién fuiste”",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-11-07T17:00:31+02:00",
-      "enlace": "https://www.lavanguardia.com/local/madrid/20261107/11678771/funcionarios-prisiones-denuncian-graves-incidentes-carcel-navalcarnero.html"
+      "fecha": "2026-11-07T21:17:06+02:00",
+      "enlace": "https://www.lavanguardia.com/deportes/futbol/20261107/11678843/ultimo-homenaje-tenerife-jesus-miguel-todos-sabran-fuiste-heliodoro-estadio.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -74,7 +76,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 6,
+    "antiguedad_minima_min": 4,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +84,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2320855,
+        "antiguedad_min": 2321117,
         "descartados_por_gancho": 0
       },
       {
@@ -90,25 +92,25 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 429",
+        "error": "HTTP 500",
         "antiguedad_min": null
       },
       {
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 139,
+        "items": 138,
         "error": null,
-        "antiguedad_min": 6,
+        "antiguedad_min": 4,
         "descartados_por_gancho": 4
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 127,
+        "items": 130,
         "error": null,
-        "antiguedad_min": 21,
+        "antiguedad_min": 65,
         "descartados_por_gancho": 12
       },
       {
@@ -117,7 +119,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 19,
+        "antiguedad_min": 30,
         "descartados_por_gancho": 0
       }
     ]
