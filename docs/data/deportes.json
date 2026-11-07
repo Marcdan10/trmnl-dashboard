@@ -2,16 +2,16 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-11-07T04:58:52+02:00",
+  "generado": "2026-11-07T11:46:16+02:00",
   "titulares": [
     {
-      "titular": "Fermín: \"Nunca lo he tenido fácil\"",
+      "titular": "Fermín: \"Mi juego es pura pasión\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-06T22:50:24+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261106/1004248095/fermin-nunca-he-tenido-facil.html"
+      "fecha": "2026-11-07T07:50:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261107/1004248102/fermin-mi-juego-pura-pasion.html"
     },
     {
       "titular": "España no se deja intimidar por Argentina en el Mundial de pádel: \"No hay un favorito claro\"",
@@ -23,13 +23,13 @@
       "enlace": "https://www.marca.com/padel/2026/11/06/espana-deja-intimidar-argentina-mundial-padel-hay-favorito-claro.html"
     },
     {
-      "titular": "Fermín: \"El Atlético nos hizo daño la pasada temporada y debemos controlar los detalles\"",
+      "titular": "La Liga que la Federación borró de la historia: la verdad sobre el título del Barça de 1947",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-06T23:13:40+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261106/1004248096/fermin-atletico-hizo-dano-pasada-temporada-debemos-controlar-detalles.html"
+      "fecha": "2026-11-07T08:15:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/baloncesto/basket-feb/20261107/1004241973/liga-federacion-borro-historia-verdad-sobre-titulo-barca-1947.html"
     },
     {
       "titular": "Gustavo Varela: de jugar contra su padre a 'Pichichi' de la Serie A... ¿y sustituto de Cristiano en Portugal?",
@@ -41,22 +41,13 @@
       "enlace": "https://www.marca.com/futbol/liga-italiana/2026/11/06/gustavo-varela-jugar-padre-pichichi-serie-sustituto-cristiano-portugal.html"
     },
     {
-      "titular": "Salvajada para el recuerdo de Alcaraz en París",
+      "titular": "Fermín valora haber igualado los goles de Maradona y explica su conexión con Lamine",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-06T23:50:05+02:00",
-      "enlace": "https://www.mundodeportivo.com/tenis/20261106/1004248121/salvajada-recuerdo-alcaraz-paris.html"
-    },
-    {
-      "titular": "\"Alexia está revolucionando la WSL, tiene seis veces más seguidores que la Liga\"",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-07T01:06:52+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261107/1004248137/alexia-revolucionando-wsl-seis-veces-seguidores-liga.html"
+      "fecha": "2026-11-07T07:55:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261107/1004248118/fermin-valora-haber-igualado-goles-maradona-explica-conexion-lamine.html"
     },
     {
       "titular": "A España se le empieza a poner muy cuesta arriba la plaza extra de Champions",
@@ -66,6 +57,15 @@
       "consenso": 1,
       "fecha": "2026-11-06T10:21:50+02:00",
       "enlace": "https://www.marca.com/futbol/champions-league/2026/11/06/espana-le-empieza-poner-cuesta-plaza-extra-champions.html"
+    },
+    {
+      "titular": "Zasca colosal a Ter Stegen: \"No merece ser el portero titular de Alemania\"",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-07T10:25:19+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/uefa-nations-league/20261107/1004248177/zasca-colosal-ter-stegen-no-merece-portero-titular-alemania.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 192,
+    "antiguedad_minima_min": 32,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 66,
         "error": null,
-        "antiguedad_min": 1090,
+        "antiguedad_min": 1497,
         "descartados_por_gancho": 5
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 142,
+        "items": 137,
         "error": null,
-        "antiguedad_min": 192,
-        "descartados_por_gancho": 5
+        "antiguedad_min": 32,
+        "descartados_por_gancho": 6
       },
       {
         "medio": "Sport",

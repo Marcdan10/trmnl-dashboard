@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-11-07T04:58:46+02:00",
+  "generado": "2026-11-07T11:46:11+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -14,31 +14,31 @@
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
     },
     {
-      "titular": "Pedro Sánchez llama a la movilización en su retorno a la precampaña: “Si se pudo en Brasil y EE UU, en España también”",
+      "titular": "¿Se mueven las encuestas? Desde la convocatoria y tras el accidente de tren",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-11-06T22:27:08+02:00",
-      "enlace": "https://elpais.com/espana/comunidad-valenciana/2026-11-06/pedro-sanchez-llama-a-la-movilizacion-en-su-retorno-a-la-precampana-si-se-pudo-en-brasil-y-ee-uu-en-espana-tambien.html"
+      "fecha": "2026-11-07T06:30:01+02:00",
+      "enlace": "https://elpais.com/espana/2026-11-07/se-mueven-las-encuestas-que-ha-cambiado-desde-la-convocatoria-y-tras-el-accidente-de-tren.html"
     },
     {
-      "titular": "Operación de la Fiscalía Europea por “posible fraude” en los contratos del AVE Madrid-Sevilla",
+      "titular": "La sombra rusa planea sobre las amenazas contra aviones y canales de televisión en Europa",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-11-06T11:16:26+02:00",
-      "enlace": "https://www.lavanguardia.com/vida/20261106/11677722/fiscalia-europea-lanza-operacion-uco-contratos-adif-accidente-urda.html"
+      "fecha": "2026-11-07T01:05:00+02:00",
+      "enlace": "https://www.lavanguardia.com/internacional/20261107/11678310/sombra-rusa-planea-sobre-amenazas-aviones-canales-television-europa.html"
     },
     {
-      "titular": "Detenido un inmigrante venezolano armado cerca de la Casa Blanca que quería matar a Trump",
+      "titular": "María Corina Machado visita a las familias de presos políticos a las puertas de la cárcel de El Rodeo",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-11-07T03:03:23+02:00",
-      "enlace": "https://www.abc.es/internacional/detenido-inmigrante-venezolano-armado-cerca-casa-blanca-20261107020114-nt.html"
+      "fecha": "2026-11-07T11:25:10+02:00",
+      "enlace": "https://www.abc.es/internacional/maria-corina-machado-visita-familias-presos-politicos-20261106203007-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -50,23 +50,22 @@
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
     },
     {
-      "titular": "Trump nombra al arquitecto de su política migratoria, Stephen Miller, como nuevo jefe de Gabinete de la Casa Blanca",
+      "titular": "La inflación diluye el impacto electoral de los buenos datos macroeconómicos y el ‘efecto Cuerpo’",
       "medios": [
-        "El País",
-        "La Vanguardia"
+        "El País"
       ],
-      "consenso": 2,
-      "fecha": "2026-11-06T22:04:49+02:00",
-      "enlace": "https://elpais.com/us/2026-11-06/trump-nombra-al-arquitecto-de-su-politica-migratoria-stephen-miller-como-nuevo-jefe-de-gabinete-de-la-casa-blanca.html"
+      "consenso": 1,
+      "fecha": "2026-11-07T06:30:01+02:00",
+      "enlace": "https://elpais.com/espana/2026-11-07/la-inflacion-diluye-el-impacto-electoral-de-los-buenos-datos-macroeconomicos-y-el-efecto-cuerpo.html"
     },
     {
-      "titular": "La AESF alertó antes de Urda de “prácticas inadecuadas” en la comunicación de emergencias",
+      "titular": "La OTAN crea un catálogo online de sistemas antidrones para neutralizar ataques rusos",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-11-06T13:06:45+02:00",
-      "enlace": "https://www.lavanguardia.com/vida/20261106/11677838/aesf-alerto-urda-practicas-inadecuadas-comunicacion-emergencias.html"
+      "fecha": "2026-11-07T07:00:00+02:00",
+      "enlace": "https://www.lavanguardia.com/internacional/20261107/11678311/otan-crea-catalogo-online-sistemas-antidrones-neutralizar-ataques-rusos.html"
     }
   ],
   "salud": {
@@ -75,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 115,
+    "antiguedad_minima_min": 16,
     "detalle": [
       {
         "medio": "RTVE",
@@ -83,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2320073,
+        "antiguedad_min": 2320481,
         "descartados_por_gancho": 0
       },
       {
@@ -98,19 +97,19 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 141,
+        "items": 136,
         "error": null,
-        "antiguedad_min": 123,
-        "descartados_por_gancho": 6
+        "antiguedad_min": 16,
+        "descartados_por_gancho": 5
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 132,
+        "items": 121,
         "error": null,
-        "antiguedad_min": 208,
-        "descartados_por_gancho": 11
+        "antiguedad_min": 139,
+        "descartados_por_gancho": 12
       },
       {
         "medio": "ABC",
@@ -118,7 +117,7 @@
         "ok": true,
         "items": 24,
         "error": null,
-        "antiguedad_min": 115,
+        "antiguedad_min": 21,
         "descartados_por_gancho": 1
       }
     ]
