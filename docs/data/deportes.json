@@ -2,7 +2,7 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-11-07T01:21:47+02:00",
+  "generado": "2026-11-07T04:58:52+02:00",
   "titulares": [
     {
       "titular": "Fermín: \"Nunca lo he tenido fácil\"",
@@ -50,13 +50,13 @@
       "enlace": "https://www.mundodeportivo.com/tenis/20261106/1004248121/salvajada-recuerdo-alcaraz-paris.html"
     },
     {
-      "titular": "0-0: El Sevilla no pasa de un triste empate en casa ante el Alavés",
+      "titular": "\"Alexia está revolucionando la WSL, tiene seis veces más seguidores que la Liga\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-07T00:47:23+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/laliga/20261106/1004248117/sevilla-vs-alaves.html"
+      "fecha": "2026-11-07T01:06:52+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261107/1004248137/alexia-revolucionando-wsl-seis-veces-seguidores-liga.html"
     },
     {
       "titular": "A España se le empieza a poner muy cuesta arriba la plaza extra de Champions",
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 34,
+    "antiguedad_minima_min": 192,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 66,
         "error": null,
-        "antiguedad_min": 873,
+        "antiguedad_min": 1090,
         "descartados_por_gancho": 5
       },
       {
@@ -99,9 +99,9 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 143,
+        "items": 142,
         "error": null,
-        "antiguedad_min": 34,
+        "antiguedad_min": 192,
         "descartados_por_gancho": 5
       },
       {

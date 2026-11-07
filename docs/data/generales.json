@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-11-07T01:21:40+02:00",
+  "generado": "2026-11-07T04:58:46+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -32,13 +32,13 @@
       "enlace": "https://www.lavanguardia.com/vida/20261106/11677722/fiscalia-europea-lanza-operacion-uco-contratos-adif-accidente-urda.html"
     },
     {
-      "titular": "María Corina Machado visita a las familias de presos políticos a las puertas de la cárcel de El Rodeo",
+      "titular": "Detenido un inmigrante venezolano armado cerca de la Casa Blanca que quería matar a Trump",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-11-07T00:20:44+02:00",
-      "enlace": "https://www.abc.es/internacional/maria-corina-machado-visita-familias-presos-politicos-20261106203007-nt.html"
+      "fecha": "2026-11-07T03:03:23+02:00",
+      "enlace": "https://www.abc.es/internacional/detenido-inmigrante-venezolano-armado-cerca-casa-blanca-20261107020114-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -50,15 +50,14 @@
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
     },
     {
-      "titular": "Muere a los 52 años el director chileno Sebastián Lelio, ganador del Oscar",
+      "titular": "Trump nombra al arquitecto de su política migratoria, Stephen Miller, como nuevo jefe de Gabinete de la Casa Blanca",
       "medios": [
         "El País",
-        "La Vanguardia",
-        "ABC"
+        "La Vanguardia"
       ],
-      "consenso": 3,
-      "fecha": "2026-11-06T22:43:14+02:00",
-      "enlace": "https://www.abc.es/play/cine/noticias/muere-anos-director-chileno-sebastian-lelio-ganador-20261106190223-nt.html"
+      "consenso": 2,
+      "fecha": "2026-11-06T22:04:49+02:00",
+      "enlace": "https://elpais.com/us/2026-11-06/trump-nombra-al-arquitecto-de-su-politica-migratoria-stephen-miller-como-nuevo-jefe-de-gabinete-de-la-casa-blanca.html"
     },
     {
       "titular": "La AESF alertó antes de Urda de “prácticas inadecuadas” en la comunicación de emergencias",
@@ -76,7 +75,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 45,
+    "antiguedad_minima_min": 115,
     "detalle": [
       {
         "medio": "RTVE",
@@ -84,7 +83,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2319856,
+        "antiguedad_min": 2320073,
         "descartados_por_gancho": 0
       },
       {
@@ -101,26 +100,26 @@
         "ok": true,
         "items": 141,
         "error": null,
-        "antiguedad_min": 45,
+        "antiguedad_min": 123,
         "descartados_por_gancho": 6
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 137,
+        "items": 132,
         "error": null,
-        "antiguedad_min": 85,
-        "descartados_por_gancho": 14
+        "antiguedad_min": 208,
+        "descartados_por_gancho": 11
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 25,
+        "items": 24,
         "error": null,
-        "antiguedad_min": 60,
-        "descartados_por_gancho": 0
+        "antiguedad_min": 115,
+        "descartados_por_gancho": 1
       }
     ]
   }
