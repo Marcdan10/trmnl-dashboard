@@ -2,25 +2,25 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "ultimas",
-  "generado": "2026-11-08T18:56:39+02:00",
+  "generado": "2026-11-08T22:57:09+02:00",
   "titulares": [
     {
-      "titular": "El ejercicio de fuerza, la “fórmula” para envejecer mejor según el médico de Alcaraz: “Ha demostrado que mejora la densidad del hueso”",
+      "titular": "Las \"limitaciones\" del fondo de compensación sanitaria dejan su \"revisión estructural\" como cuenta pendiente",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-11-08T17:21:33+02:00",
-      "enlace": "https://www.redaccionmedica.com/longevidad/20261108/el-ejercicio-de-fuerza-la-formula-para-envejecer-mejor-segun-el-medico-alcaraz-ha-demostrado-que-mejora-densidad-del-hueso/364411_0.html"
+      "fecha": "2026-11-08T19:49:18+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/ministerio-sanidad/20261108/las-limitaciones-del-fondo-de-compensacion-sanitaria-dejan-su-revision-estructural-como-cuenta-pendiente/364486_0.html"
     },
     {
-      "titular": "¿Qué tal se le da a la IA recomendar fármacos? Le falta ‘calle’ clínica (y se fía en exceso de la notoriedad digital)",
+      "titular": "Preparar el FIR 2027 sin vivirlo como un \"todo o nada\": \"El desgaste mental es el mayor rival\"",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-11-08T17:12:59+02:00",
-      "enlace": "https://www.redaccionmedica.com/innovacion/20261108/que-tal-se-le-da-la-ia-recomendar-farmacos-le-falta-calle-clinica-fia-en-exceso-de-notoriedad-digital/364252_0.html"
+      "fecha": "2026-11-08T19:00:49+02:00",
+      "enlace": "https://www.redaccionmedica.com/formacion/fse/20261108/preparar-el-fir-sin-vivirlo-como-un-todo-nada-el-desgaste-mental-es-mayor-rival/363407_0.html"
     },
     {
       "titular": "Castilla-La Mancha integrará prevención e inteligencia artificial en su Plan de Salud",
@@ -59,13 +59,13 @@
       "enlace": "https://elglobalfarma.com/politica/funez-reforma-ley-medicamento-innovacion-29n/"
     },
     {
-      "titular": "Los sindicatos anuncian movilizaciones para exigir mejoras salariales en todas las categorías de la sanidad aragonesa",
+      "titular": "En Sanidad no basta con prometer más",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-11-08T16:33:06+02:00",
-      "enlace": "https://www.redaccionmedica.com/autonomias/20261108/los-sindicatos-anuncian-movilizaciones-para-exigir-mejoras-salariales-en-todas-las-categorias-de-la-sanidad-aragonesa/364623_0.html"
+      "fecha": "2026-11-08T19:00:37+02:00",
+      "enlace": "https://www.redaccionmedica.com/opinion/20261108/en-sanidad-no-basta-con-prometer-mas/364627_14.html"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 95,
+    "antiguedad_minima_min": 187,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 338,
+        "antiguedad_min": 578,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 3146,
+        "antiguedad_min": 3387,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 95,
+        "antiguedad_min": 187,
         "descartados_por_gancho": 0
       },
       {

@@ -1,52 +1,20 @@
 {
   "ciudad": "Barcelona",
-  "generado": "2026-11-08T16:56:39",
+  "generado": "2026-11-08T20:57:10",
   "horas": [
-    {
-      "hora": "17",
-      "temp": 19,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "nube"
-    },
-    {
-      "hora": "18",
-      "temp": 19,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "nube"
-    },
-    {
-      "hora": "19",
-      "temp": 19,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "nube"
-    },
-    {
-      "hora": "20",
-      "temp": 18,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "nube"
-    },
     {
       "hora": "21",
       "temp": 18,
       "prob": 3,
-      "mm": 0.1,
+      "mm": 0,
       "mostrar_prob": false,
       "icono": "nube"
     },
     {
       "hora": "22",
-      "temp": 18,
+      "temp": 17,
       "prob": 3,
-      "mm": 0.1,
+      "mm": 0,
       "mostrar_prob": false,
       "icono": "nube"
     },
@@ -84,7 +52,7 @@
     },
     {
       "hora": "03",
-      "temp": 16,
+      "temp": 17,
       "prob": 0,
       "mm": 0,
       "mostrar_prob": false,
@@ -92,6 +60,38 @@
     },
     {
       "hora": "04",
+      "temp": 16,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "nube"
+    },
+    {
+      "hora": "05",
+      "temp": 16,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "nube"
+    },
+    {
+      "hora": "06",
+      "temp": 16,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "nube"
+    },
+    {
+      "hora": "07",
+      "temp": 16,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "nube"
+    },
+    {
+      "hora": "08",
       "temp": 16,
       "prob": 0,
       "mm": 0,
@@ -105,7 +105,7 @@
       "max": 20,
       "min": 16,
       "prob": 45,
-      "mm": 0.2,
+      "mm": 0.1,
       "mostrar_prob": true,
       "destacar": false,
       "icono": "lluvia"

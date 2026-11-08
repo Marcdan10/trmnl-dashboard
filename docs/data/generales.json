@@ -2,61 +2,61 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-11-08T18:56:28+02:00",
+  "generado": "2026-11-08T22:56:57+02:00",
   "titulares": [
     {
-      "titular": "Un heroico Martín complica el alirón de Márquez, que gana la ‘sprint’ del GP de Qatar tras un polémico toque con Bezzecchi",
+      "titular": "Sueldazo de la ONCE: comprobar sorteo del domingo 8 de noviembre",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-11-08T18:45:44+02:00",
-      "enlace": "https://elpais.com/deportes/motociclismo/2026-11-07/un-heroico-martin-complica-el-aliron-de-marquez-que-gana-la-sprint-del-gp-de-qatar-tras-un-polemico-toque-con-bezzecchi.html"
+      "fecha": "2026-11-08T22:30:58+02:00",
+      "enlace": "https://elpais.com/sorteos/2026-11-08/sueldazo-de-la-once-comprobar-sorteo-del-domingo-8-de-noviembre.html"
     },
     {
-      "titular": "Norris emerge en el aguacero del GP de Brasil",
+      "titular": "El Papa despolarizador llega a Argentina y se reúne con el libertario Milei",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-08T22:28:37+02:00",
+      "enlace": "https://www.abc.es/internacional/papa-despolarizador-llega-argentina-reune-libertario-milei-20261108210257-nt.html"
+    },
+    {
+      "titular": "Giuliano Simeone adelanta al Atlético",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-08T22:26:52+02:00",
+      "enlace": "https://www.abc.es/deportes/futbol/atletico-barcelona-directo-resultado-ganador-goles-partido-20261108203428-di.html"
+    },
+    {
+      "titular": "El Madrid sigue invicto en la ACB tras siete jornadas",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-11-08T18:44:25+02:00",
-      "enlace": "https://elpais.com/deportes/formula-1/2026-11-07/norris-emerge-en-el-aguacero-del-gp-de-brasil.html"
+      "fecha": "2026-11-08T22:06:06+02:00",
+      "enlace": "https://elpais.com/deportes/baloncesto/2026-11-08/el-madrid-sigue-invicto-en-la-acb-tras-siete-jornadas.html"
     },
     {
-      "titular": "Alcaraz tacha otro reto: campeón en París y ya tiene siete de nueve Masters 1.000",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-08T18:41:05+02:00",
-      "enlace": "https://www.abc.es/deportes/tenis/alcaraz-tacha-reto-campeon-paris-siete-nueve-20261108172146-nt.html"
-    },
-    {
-      "titular": "Mar Flores, contra Ana Obregón: «Me gustaría que sintiera la misma empatía por todas las mujeres»",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-08T18:37:13+02:00",
-      "enlace": "https://www.abc.es/gente/mar-flores-ana-obregon-gustaria-sintiera-empatia-20261108170003-nt.html"
-    },
-    {
-      "titular": "Alcaraz se amolda a lo que le echen: se corona sobre la superficie rápida de París",
+      "titular": "Eisenkot recibe en encargo de formar gobierno: “Israel se acerca a un punto de no retorno”",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-11-08T18:33:39+02:00",
-      "enlace": "https://www.lavanguardia.com/deportes/tenis/20261108/11679286/alcaraz-amolda-le-echen-corona-sobre-superficie-rapida-paris.html"
+      "fecha": "2026-11-08T21:58:20+02:00",
+      "enlace": "https://www.lavanguardia.com/internacional/20261108/11679349/eisenkot-recibe-encargo-formar-gobierno-israel-acerca-punto-retorno.html"
     },
     {
-      "titular": "El Festival 42 cierra su sexta edición en Barcelona con más de 8.100 asistentes",
+      "titular": "León XIV llega a Argentina en la primera visita de un papa al país en casi 40 años",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-11-08T18:28:46+02:00",
-      "enlace": "https://www.lavanguardia.com/cultura/20261108/11679307/festival-42-cierra-sexta-edicion-barcelona-mas-8-100-asistentes.html"
+      "fecha": "2026-11-08T21:57:17+02:00",
+      "enlace": "https://www.lavanguardia.com/internacional/20261108/11679369/leon-xiv-llega-argentina-primera-visita-papa-pais-40-anos.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 10,
+    "antiguedad_minima_min": 25,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2322351,
+        "antiguedad_min": 2322591,
         "descartados_por_gancho": 0
       },
       {
@@ -97,28 +97,28 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 142,
+        "items": 135,
         "error": null,
-        "antiguedad_min": 10,
-        "descartados_por_gancho": 6
+        "antiguedad_min": 25,
+        "descartados_por_gancho": 8
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 130,
+        "items": 128,
         "error": null,
-        "antiguedad_min": 22,
+        "antiguedad_min": 58,
         "descartados_por_gancho": 21
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 23,
+        "items": 24,
         "error": null,
-        "antiguedad_min": 15,
-        "descartados_por_gancho": 2
+        "antiguedad_min": 28,
+        "descartados_por_gancho": 1
       }
     ]
   }
