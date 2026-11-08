@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-11-08T01:45:31+02:00",
+  "generado": "2026-11-08T05:51:20+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -14,34 +14,32 @@
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
     },
     {
-      "titular": "Golpe en la mesa de un gran Madrid en Mestalla",
+      "titular": "El presidente de Israel encarga formar Gobierno al líder opositor Gadi Eisenkot",
+      "medios": [
+        "El País",
+        "La Vanguardia"
+      ],
+      "consenso": 2,
+      "fecha": "2026-11-07T23:21:48+02:00",
+      "enlace": "https://elpais.com/internacional/2026-11-07/el-presidente-de-israel-encarga-formar-gobierno-al-lider-opositor-gadi-eisenkot.html"
+    },
+    {
+      "titular": "Un tiroteo en el centro turístico de Cracovia deja al menos seis muertos y 16 heridos",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-07T17:39:39+02:00",
+      "enlace": "https://www.lavanguardia.com/internacional/20261107/11678781/tiroteo-cracovia-deja-cinco-personas-muertas.html"
+    },
+    {
+      "titular": "Génova baja al barro del algoritmo y se centra en las redes sociales",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-11-08T01:14:13+02:00",
-      "enlace": "https://www.abc.es/deportes/real-madrid/golpe-mesa-gran-madrid-mestalla-20261107225738-nt.html"
-    },
-    {
-      "titular": "El presidente de Israel encarga al líder opositor Gadi Eisenkot la formación de Gobierno",
-      "medios": [
-        "El País",
-        "La Vanguardia",
-        "ABC"
-      ],
-      "consenso": 3,
-      "fecha": "2026-11-08T00:33:10+02:00",
-      "enlace": "https://www.abc.es/internacional/presidente-israel-encarga-gadi-eisenkot-formacion-gobierno-20261107205024-nt.html"
-    },
-    {
-      "titular": "Al menos seis muertos y unos quince heridos en un tiroteo en la ciudad polaca de Cracovia",
-      "medios": [
-        "La Vanguardia",
-        "ABC"
-      ],
-      "consenso": 2,
-      "fecha": "2026-11-08T00:55:53+02:00",
-      "enlace": "https://www.abc.es/internacional/cinco-muertos-varios-heridos-tiroteo-ciudad-polaca-20261107162839-nt.html"
+      "fecha": "2026-11-08T02:58:44+02:00",
+      "enlace": "https://www.abc.es/espana/genova-baja-barro-algoritmo-centra-redes-sociales-20261027011946-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -77,7 +75,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 31,
+    "antiguedad_minima_min": 172,
     "detalle": [
       {
         "medio": "RTVE",
@@ -85,7 +83,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2321320,
+        "antiguedad_min": 2321566,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +91,7 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 500",
+        "error": "HTTP 429",
         "antiguedad_min": null
       },
       {
@@ -102,26 +100,26 @@
         "ok": true,
         "items": 137,
         "error": null,
-        "antiguedad_min": 75,
+        "antiguedad_min": 321,
         "descartados_por_gancho": 4
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 126,
+        "items": 129,
         "error": null,
-        "antiguedad_min": 99,
-        "descartados_por_gancho": 12
+        "antiguedad_min": 261,
+        "descartados_por_gancho": 13
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 25,
+        "items": 24,
         "error": null,
-        "antiguedad_min": 31,
-        "descartados_por_gancho": 0
+        "antiguedad_min": 172,
+        "descartados_por_gancho": 1
       }
     ]
   }

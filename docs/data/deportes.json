@@ -2,7 +2,7 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-11-08T01:45:35+02:00",
+  "generado": "2026-11-08T05:51:23+02:00",
   "titulares": [
     {
       "titular": "España no se deja intimidar por Argentina en el Mundial de pádel: \"No hay un favorito claro\"",
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 17,
+    "antiguedad_minima_min": 250,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 66,
         "error": null,
-        "antiguedad_min": 2337,
+        "antiguedad_min": 2582,
         "descartados_por_gancho": 5
       },
       {
@@ -99,9 +99,9 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 143,
+        "items": 142,
         "error": null,
-        "antiguedad_min": 17,
+        "antiguedad_min": 250,
         "descartados_por_gancho": 6
       },
       {
