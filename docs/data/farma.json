@@ -2,25 +2,34 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "ultimas",
-  "generado": "2026-11-08T12:58:30+02:00",
+  "generado": "2026-11-08T18:56:39+02:00",
   "titulares": [
     {
-      "titular": "La librería médica se resiste a desaparecer pese a la caída de ventas: \"Se acabarán convirtiendo en artículos de lujo\"",
+      "titular": "El ejercicio de fuerza, la “fórmula” para envejecer mejor según el médico de Alcaraz: “Ha demostrado que mejora la densidad del hueso”",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-11-08T11:40:53+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20261108/la-libreria-medica-se-resiste-desaparecer-pese-la-caida-de-ventas-se-acabaran-convirtiendo-en-articulos-lujo/364359_0.html"
+      "fecha": "2026-11-08T17:21:33+02:00",
+      "enlace": "https://www.redaccionmedica.com/longevidad/20261108/el-ejercicio-de-fuerza-la-formula-para-envejecer-mejor-segun-el-medico-alcaraz-ha-demostrado-que-mejora-densidad-del-hueso/364411_0.html"
     },
     {
-      "titular": "Las oscuras, desconocidas y olvidadas zonas de nuestro genoma",
+      "titular": "¿Qué tal se le da a la IA recomendar fármacos? Le falta ‘calle’ clínica (y se fía en exceso de la notoriedad digital)",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-11-08T10:31:00+02:00",
-      "enlace": "https://www.redaccionmedica.com/opinion/20261108/las-oscuras-desconocidas-olvidadas-zonas-de-nuestro-genoma/364603_12.html"
+      "fecha": "2026-11-08T17:12:59+02:00",
+      "enlace": "https://www.redaccionmedica.com/innovacion/20261108/que-tal-se-le-da-la-ia-recomendar-farmacos-le-falta-calle-clinica-fia-en-exceso-de-notoriedad-digital/364252_0.html"
+    },
+    {
+      "titular": "Castilla-La Mancha integrará prevención e inteligencia artificial en su Plan de Salud",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-08T13:18:13+02:00",
+      "enlace": "https://diariofarma.com/2026/11/08/castilla-la-mancha-integrara-prevencion-e-inteligencia-artificial-en-su-plan-de-salud"
     },
     {
       "titular": "Zamora ensaya un modelo de participación comunitaria a través de la farmacia rural",
@@ -30,15 +39,6 @@
       "consenso": 1,
       "fecha": "2026-11-07T23:25:25+02:00",
       "enlace": "https://diariofarma.com/2026/11/07/zamora-ensaya-un-modelo-de-participacion-comunitaria-a-traves-de-la-farmacia-rural"
-    },
-    {
-      "titular": "Huelga general: el COFM defiende la apertura de las farmacias por su carácter “esencial”",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-07T13:36:31+02:00",
-      "enlace": "https://diariofarma.com/2026/11/07/huelga-general-el-cofm-defiende-la-apertura-de-las-farmacias-por-su-caracter-esencial"
     },
     {
       "titular": "La Eurocámara votará el paquete farmacéutico europeo el 10 de noviembre",
@@ -59,13 +59,13 @@
       "enlace": "https://elglobalfarma.com/politica/funez-reforma-ley-medicamento-innovacion-29n/"
     },
     {
-      "titular": "Oferta infinita, insostenibilidad sanitaria",
+      "titular": "Los sindicatos anuncian movilizaciones para exigir mejoras salariales en todas las categorías de la sanidad aragonesa",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-11-08T10:27:00+02:00",
-      "enlace": "https://www.redaccionmedica.com/opinion/20261108/oferta-infinita-insostenibilidad-sanitaria/364561_12.html"
+      "fecha": "2026-11-08T16:33:06+02:00",
+      "enlace": "https://www.redaccionmedica.com/autonomias/20261108/los-sindicatos-anuncian-movilizaciones-para-exigir-mejoras-salariales-en-todas-las-categorias-de-la-sanidad-aragonesa/364623_0.html"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 77,
+    "antiguedad_minima_min": 95,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 812,
+        "antiguedad_min": 338,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 2788,
+        "antiguedad_min": 3146,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 77,
+        "antiguedad_min": 95,
         "descartados_por_gancho": 0
       },
       {

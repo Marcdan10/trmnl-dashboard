@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-11-08T12:58:24+02:00",
+  "generado": "2026-11-08T18:56:33+02:00",
   "titulares": [
     {
-      "titular": "\"¿Y ahora qué hacemos con Vinicius?\"",
+      "titular": "Isco, MVP en Elche: \"Hemos sufrido, pero hemos conseguido los tres puntos\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-08T12:28:05+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20261108/1004248577/vinicius.html"
+      "fecha": "2026-11-08T18:26:46+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/betis/20261108/1004248697/isco-mvp-elche-hemos-sufrido-hemos-conseguido-tres-puntos.html"
     },
     {
-      "titular": "\"¿El Balón de Oro? No sé por qué, pero pensaba que iba a ganarlo Patri\"",
+      "titular": "1-2: El Bournemouth coge carrerilla a costa del Ipswich",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-08T12:27:05+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/femenino/20261108/1004248581/balon-oro-no-pensaba-iba-ganarlo-patri.html"
+      "fecha": "2026-11-08T18:25:34+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/premier-league/20261108/1004248696/bournemouth-coge-carrerila-costa-ipswich.html"
     },
     {
       "titular": "Iker Casillas se enfada y saca a sus hijos de la cantera del Real Madrid",
@@ -42,31 +42,31 @@
       "enlace": "https://www.marca.com/futbol/real-madrid/2026/11/07/locura-valencia-llegada-madr-video.html"
     },
     {
-      "titular": "Salta la sorpresa en Hong Kong: Eala se queda sin título tras un severo correctivo",
+      "titular": "2-0: El sorprendente Brighton suma y sigue",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-08T12:15:31+02:00",
-      "enlace": "https://www.mundodeportivo.com/tenis/20261108/1004248576/salta-sorpresa-hong-kong-eala-queda-titulo-severo-correctivo.html"
+      "fecha": "2026-11-08T18:20:48+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/premier-league/20261108/1004248692/sorprendente-brighton-suma-sigue.html"
     },
     {
-      "titular": "Un autogol de Lucy Bronze hace líder al Manchester City",
+      "titular": "\"Tenía un diablo en la oreja diciéndome que atacara\": el día que Contador enloqueció a La Vuelta a España",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-08T12:12:12+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/femenino/20261108/1004248575/autogol-lucy-bronze-lider-manchester-city.html"
+      "fecha": "2026-11-08T18:20:29+02:00",
+      "enlace": "https://www.mundodeportivo.com/solobici/20261108/1004248691/tenia-diablo-oreja-diciendome-atacara-dia-contador-enloquecio-vuelta-espana.html"
     },
     {
-      "titular": "La psicología revela por qué algunas personas no se fuerzan a ser amables",
+      "titular": "Coronación histórica de Alcaraz, nuevo rey de París",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-08T12:11:09+02:00",
-      "enlace": "https://www.mundodeportivo.com/pulso/20261108/1004248564/psicologia-dice-personas-no-son-amables-quienes-no-les-caen-quienes-les-han-hecho-dano-no-son-maleducadas-respetan-dct.html"
+      "fecha": "2026-11-08T18:18:38+02:00",
+      "enlace": "https://www.mundodeportivo.com/tenis/20261108/1004248685/coronacion-historica-alcaraz-nuevo-rey-paris.html"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 30,
+    "antiguedad_minima_min": 29,
     "detalle": [
       {
         "medio": "Marca",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 64,
         "error": null,
-        "antiguedad_min": 1258,
+        "antiguedad_min": 1616,
         "descartados_por_gancho": 3
       },
       {
@@ -100,10 +100,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 142,
+        "items": 140,
         "error": null,
-        "antiguedad_min": 30,
-        "descartados_por_gancho": 5
+        "antiguedad_min": 29,
+        "descartados_por_gancho": 6
       },
       {
         "medio": "Sport",

@@ -2,62 +2,61 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-11-08T12:58:19+02:00",
+  "generado": "2026-11-08T18:56:28+02:00",
   "titulares": [
     {
-      "titular": "El atacante de Cracovia mató a sus padres y su hermana antes del tiroteo que dejó seis muertos y 16 heridos",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-08T12:52:22+02:00",
-      "enlace": "https://www.abc.es/internacional/atacante-cracovia-mato-padres-hermana-tiroteo-dejo-20261108113654-nt.html"
-    },
-    {
-      "titular": "Muere un militar durante un ejercicio de instrucción en el campo de maniobras de San Gregorio (Zaragoza)",
-      "medios": [
-        "El País",
-        "ABC"
-      ],
-      "consenso": 2,
-      "fecha": "2026-11-08T12:12:59+02:00",
-      "enlace": "https://www.abc.es/espana/aragon/muere-militar-ejercicio-instruccion-campo-maniobras-san-20261108092912-nt.html"
-    },
-    {
-      "titular": "Seis de cada diez españoles creen que los trenes no son seguros",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-08T12:02:57+02:00",
-      "enlace": "https://www.abc.es/espana/espanoles-poco-seguro-tren-tras-accidente-urda-20261107013158-nt.html"
-    },
-    {
-      "titular": "Vivienne Marcheline Jolie desvela que estuvo ingresada a principios de año por un trastorno alimentario: “Estaba enfadada, enferma y muy sola”",
+      "titular": "Un heroico Martín complica el alirón de Márquez, que gana la ‘sprint’ del GP de Qatar tras un polémico toque con Bezzecchi",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-11-08T11:56:57+02:00",
-      "enlace": "https://elpais.com/gente/2026-11-08/vivienne-marcheline-jolie-desvela-que-estuvo-ingresada-a-principios-de-ano-por-un-trastorno-alimentario-estaba-enfadada-enferma-y-muy-sola.html"
+      "fecha": "2026-11-08T18:45:44+02:00",
+      "enlace": "https://elpais.com/deportes/motociclismo/2026-11-07/un-heroico-martin-complica-el-aliron-de-marquez-que-gana-la-sprint-del-gp-de-qatar-tras-un-polemico-toque-con-bezzecchi.html"
     },
     {
-      "titular": "Condena de 14 años de prisión por violar a su sobrina, una menor tutelada por la DGAIA",
+      "titular": "Norris emerge en el aguacero del GP de Brasil",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-08T18:44:25+02:00",
+      "enlace": "https://elpais.com/deportes/formula-1/2026-11-07/norris-emerge-en-el-aguacero-del-gp-de-brasil.html"
+    },
+    {
+      "titular": "Alcaraz tacha otro reto: campeón en París y ya tiene siete de nueve Masters 1.000",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-08T18:41:05+02:00",
+      "enlace": "https://www.abc.es/deportes/tenis/alcaraz-tacha-reto-campeon-paris-siete-nueve-20261108172146-nt.html"
+    },
+    {
+      "titular": "Mar Flores, contra Ana Obregón: «Me gustaría que sintiera la misma empatía por todas las mujeres»",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-08T18:37:13+02:00",
+      "enlace": "https://www.abc.es/gente/mar-flores-ana-obregon-gustaria-sintiera-empatia-20261108170003-nt.html"
+    },
+    {
+      "titular": "Alcaraz se amolda a lo que le echen: se corona sobre la superficie rápida de París",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-11-08T11:26:31+02:00",
-      "enlace": "https://www.lavanguardia.com/sucesos/20261108/11679169/condena-14-anos-prision-violar-sobrina-menor-tutelada-dgaia.html"
+      "fecha": "2026-11-08T18:33:39+02:00",
+      "enlace": "https://www.lavanguardia.com/deportes/tenis/20261108/11679286/alcaraz-amolda-le-echen-corona-sobre-superficie-rapida-paris.html"
     },
     {
-      "titular": "De Kim Kardashian a Nicole Kidman: los mejores looks de la gala LACMA Art + Film 2026",
+      "titular": "El Festival 42 cierra su sexta edición en Barcelona con más de 8.100 asistentes",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-11-08T11:16:02+02:00",
-      "enlace": "https://www.lavanguardia.com/gente/20261108/11679163/kim-kardashian-nicole-kidman-mejores-looks-gala-lacma-art-film-2026.html"
+      "fecha": "2026-11-08T18:28:46+02:00",
+      "enlace": "https://www.lavanguardia.com/cultura/20261108/11679307/festival-42-cierra-sexta-edicion-barcelona-mas-8-100-asistentes.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -75,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 5,
+    "antiguedad_minima_min": 10,
     "detalle": [
       {
         "medio": "RTVE",
@@ -83,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2321993,
+        "antiguedad_min": 2322351,
         "descartados_por_gancho": 0
       },
       {
@@ -98,28 +97,28 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 140,
+        "items": 142,
         "error": null,
-        "antiguedad_min": 61,
-        "descartados_por_gancho": 9
+        "antiguedad_min": 10,
+        "descartados_por_gancho": 6
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 129,
+        "items": 130,
         "error": null,
-        "antiguedad_min": 91,
+        "antiguedad_min": 22,
         "descartados_por_gancho": 21
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 25,
+        "items": 23,
         "error": null,
-        "antiguedad_min": 5,
-        "descartados_por_gancho": 0
+        "antiguedad_min": 15,
+        "descartados_por_gancho": 2
       }
     ]
   }
