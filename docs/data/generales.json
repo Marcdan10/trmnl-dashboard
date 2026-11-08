@@ -1,9 +1,64 @@
 {
   "pantalla": "generales",
   "titulo": "Titulares",
-  "modo": "portadas",
-  "generado": "2026-11-08T05:51:20+02:00",
+  "modo": "ultimas",
+  "generado": "2026-11-08T12:58:19+02:00",
   "titulares": [
+    {
+      "titular": "El atacante de Cracovia mató a sus padres y su hermana antes del tiroteo que dejó seis muertos y 16 heridos",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-08T12:52:22+02:00",
+      "enlace": "https://www.abc.es/internacional/atacante-cracovia-mato-padres-hermana-tiroteo-dejo-20261108113654-nt.html"
+    },
+    {
+      "titular": "Muere un militar durante un ejercicio de instrucción en el campo de maniobras de San Gregorio (Zaragoza)",
+      "medios": [
+        "El País",
+        "ABC"
+      ],
+      "consenso": 2,
+      "fecha": "2026-11-08T12:12:59+02:00",
+      "enlace": "https://www.abc.es/espana/aragon/muere-militar-ejercicio-instruccion-campo-maniobras-san-20261108092912-nt.html"
+    },
+    {
+      "titular": "Seis de cada diez españoles creen que los trenes no son seguros",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-08T12:02:57+02:00",
+      "enlace": "https://www.abc.es/espana/espanoles-poco-seguro-tren-tras-accidente-urda-20261107013158-nt.html"
+    },
+    {
+      "titular": "Vivienne Marcheline Jolie desvela que estuvo ingresada a principios de año por un trastorno alimentario: “Estaba enfadada, enferma y muy sola”",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-08T11:56:57+02:00",
+      "enlace": "https://elpais.com/gente/2026-11-08/vivienne-marcheline-jolie-desvela-que-estuvo-ingresada-a-principios-de-ano-por-un-trastorno-alimentario-estaba-enfadada-enferma-y-muy-sola.html"
+    },
+    {
+      "titular": "Condena de 14 años de prisión por violar a su sobrina, una menor tutelada por la DGAIA",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-08T11:26:31+02:00",
+      "enlace": "https://www.lavanguardia.com/sucesos/20261108/11679169/condena-14-anos-prision-violar-sobrina-menor-tutelada-dgaia.html"
+    },
+    {
+      "titular": "De Kim Kardashian a Nicole Kidman: los mejores looks de la gala LACMA Art + Film 2026",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-08T11:16:02+02:00",
+      "enlace": "https://www.lavanguardia.com/gente/20261108/11679163/kim-kardashian-nicole-kidman-mejores-looks-gala-lacma-art-film-2026.html"
+    },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
       "medios": [
@@ -12,61 +67,6 @@
       "consenso": 1,
       "fecha": "2022-06-10T01:05:00+02:00",
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
-    },
-    {
-      "titular": "El presidente de Israel encarga formar Gobierno al líder opositor Gadi Eisenkot",
-      "medios": [
-        "El País",
-        "La Vanguardia"
-      ],
-      "consenso": 2,
-      "fecha": "2026-11-07T23:21:48+02:00",
-      "enlace": "https://elpais.com/internacional/2026-11-07/el-presidente-de-israel-encarga-formar-gobierno-al-lider-opositor-gadi-eisenkot.html"
-    },
-    {
-      "titular": "Un tiroteo en el centro turístico de Cracovia deja al menos seis muertos y 16 heridos",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-07T17:39:39+02:00",
-      "enlace": "https://www.lavanguardia.com/internacional/20261107/11678781/tiroteo-cracovia-deja-cinco-personas-muertas.html"
-    },
-    {
-      "titular": "Génova baja al barro del algoritmo y se centra en las redes sociales",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-08T02:58:44+02:00",
-      "enlace": "https://www.abc.es/espana/genova-baja-barro-algoritmo-centra-redes-sociales-20261027011946-nt.html"
-    },
-    {
-      "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
-      "medios": [
-        "RTVE"
-      ],
-      "consenso": 1,
-      "fecha": "2022-06-10T00:03:00+02:00",
-      "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
-    },
-    {
-      "titular": "Yusef Yabarín, líder de la principal lista árabe de Israel: “Al apoyar a Eisenkot, hemos elegido lo menos malo”",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-07T11:56:40+02:00",
-      "enlace": "https://elpais.com/internacional/2026-11-07/yusef-yabarin-lider-de-la-principal-lista-arabe-de-israel-al-apoyar-a-eisenkot-hemos-elegido-lo-menos-malo.html"
-    },
-    {
-      "titular": "Un joven fascinado por la extrema derecha: así define el Gobierno polaco al pistolero de Cracovia",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-07T23:46:34+02:00",
-      "enlace": "https://www.lavanguardia.com/internacional/20261107/11678909/joven-fascinado-extrema-derecha-asi-define-gobierno-polaco-pistolero-cracovia.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 172,
+    "antiguedad_minima_min": 5,
     "detalle": [
       {
         "medio": "RTVE",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2321566,
+        "antiguedad_min": 2321993,
         "descartados_por_gancho": 0
       },
       {
@@ -91,17 +91,17 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 429",
+        "error": "HTTP 500",
         "antiguedad_min": null
       },
       {
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 137,
+        "items": 140,
         "error": null,
-        "antiguedad_min": 321,
-        "descartados_por_gancho": 4
+        "antiguedad_min": 61,
+        "descartados_por_gancho": 9
       },
       {
         "medio": "La Vanguardia",
@@ -109,17 +109,17 @@
         "ok": true,
         "items": 129,
         "error": null,
-        "antiguedad_min": 261,
-        "descartados_por_gancho": 13
+        "antiguedad_min": 91,
+        "descartados_por_gancho": 21
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 24,
+        "items": 25,
         "error": null,
-        "antiguedad_min": 172,
-        "descartados_por_gancho": 1
+        "antiguedad_min": 5,
+        "descartados_por_gancho": 0
       }
     ]
   }

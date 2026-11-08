@@ -1,9 +1,27 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "portadas",
-  "generado": "2026-11-08T05:51:27+02:00",
+  "modo": "ultimas",
+  "generado": "2026-11-08T12:58:30+02:00",
   "titulares": [
+    {
+      "titular": "La librería médica se resiste a desaparecer pese a la caída de ventas: \"Se acabarán convirtiendo en artículos de lujo\"",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-08T11:40:53+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20261108/la-libreria-medica-se-resiste-desaparecer-pese-la-caida-de-ventas-se-acabaran-convirtiendo-en-articulos-lujo/364359_0.html"
+    },
+    {
+      "titular": "Las oscuras, desconocidas y olvidadas zonas de nuestro genoma",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-08T10:31:00+02:00",
+      "enlace": "https://www.redaccionmedica.com/opinion/20261108/las-oscuras-desconocidas-olvidadas-zonas-de-nuestro-genoma/364603_12.html"
+    },
     {
       "titular": "Zamora ensaya un modelo de participación comunitaria a través de la farmacia rural",
       "medios": [
@@ -12,24 +30,6 @@
       "consenso": 1,
       "fecha": "2026-11-07T23:25:25+02:00",
       "enlace": "https://diariofarma.com/2026/11/07/zamora-ensaya-un-modelo-de-participacion-comunitaria-a-traves-de-la-farmacia-rural"
-    },
-    {
-      "titular": "La Eurocámara votará el paquete farmacéutico europeo el 10 de noviembre",
-      "medios": [
-        "El Global"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-06T14:29:41+02:00",
-      "enlace": "https://elglobalfarma.com/politica/parlamento-europeo-votacion-paquete-farmaceutico-noviembre/"
-    },
-    {
-      "titular": "El burnout sanitario resiste como el gran 'punto ciego' de las reformas laborales en Europa",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-07T19:17:46+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/internacional/20261107/el-burnout-sanitario-resiste-como-el-gran-punto-ciego-de-las-reformas-laborales-en-europa/364239_0.html"
     },
     {
       "titular": "Huelga general: el COFM defiende la apertura de las farmacias por su carácter “esencial”",
@@ -41,6 +41,15 @@
       "enlace": "https://diariofarma.com/2026/11/07/huelga-general-el-cofm-defiende-la-apertura-de-las-farmacias-por-su-caracter-esencial"
     },
     {
+      "titular": "La Eurocámara votará el paquete farmacéutico europeo el 10 de noviembre",
+      "medios": [
+        "El Global"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-06T14:29:41+02:00",
+      "enlace": "https://elglobalfarma.com/politica/parlamento-europeo-votacion-paquete-farmaceutico-noviembre/"
+    },
+    {
       "titular": "Fúnez promete reformar la Ley de los Medicamentos y acelerar el acceso a la innovación si gobierna el PP",
       "medios": [
         "El Global"
@@ -50,22 +59,13 @@
       "enlace": "https://elglobalfarma.com/politica/funez-reforma-ley-medicamento-innovacion-29n/"
     },
     {
-      "titular": "El residente no se alimenta del aire",
+      "titular": "Oferta infinita, insostenibilidad sanitaria",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-11-07T11:27:11+02:00",
-      "enlace": "https://www.redaccionmedica.com/opinion/20261107/el-residente-no-se-alimenta-del-aire/364592_12.html"
-    },
-    {
-      "titular": "El Cacof renueva su curso de SPD para habilitar y reciclar a los farmacéuticos andaluces",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-06T18:31:08+02:00",
-      "enlace": "https://diariofarma.com/2026/11/06/el-cacof-renueva-su-curso-de-spd-para-habilitar-y-reciclar-a-los-farmaceuticos-andaluces"
+      "fecha": "2026-11-08T10:27:00+02:00",
+      "enlace": "https://www.redaccionmedica.com/opinion/20261108/oferta-infinita-insostenibilidad-sanitaria/364561_12.html"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 385,
+    "antiguedad_minima_min": 77,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 385,
+        "antiguedad_min": 812,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 2361,
+        "antiguedad_min": 2788,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 632,
+        "antiguedad_min": 77,
         "descartados_por_gancho": 0
       },
       {
