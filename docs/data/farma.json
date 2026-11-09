@@ -1,27 +1,9 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "ultimas",
-  "generado": "2026-11-08T22:57:09+02:00",
+  "modo": "portadas",
+  "generado": "2026-11-09T02:33:25+02:00",
   "titulares": [
-    {
-      "titular": "Las \"limitaciones\" del fondo de compensación sanitaria dejan su \"revisión estructural\" como cuenta pendiente",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-08T19:49:18+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/ministerio-sanidad/20261108/las-limitaciones-del-fondo-de-compensacion-sanitaria-dejan-su-revision-estructural-como-cuenta-pendiente/364486_0.html"
-    },
-    {
-      "titular": "Preparar el FIR 2027 sin vivirlo como un \"todo o nada\": \"El desgaste mental es el mayor rival\"",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-08T19:00:49+02:00",
-      "enlace": "https://www.redaccionmedica.com/formacion/fse/20261108/preparar-el-fir-sin-vivirlo-como-un-todo-nada-el-desgaste-mental-es-mayor-rival/363407_0.html"
-    },
     {
       "titular": "Castilla-La Mancha integrará prevención e inteligencia artificial en su Plan de Salud",
       "medios": [
@@ -32,15 +14,6 @@
       "enlace": "https://diariofarma.com/2026/11/08/castilla-la-mancha-integrara-prevencion-e-inteligencia-artificial-en-su-plan-de-salud"
     },
     {
-      "titular": "Zamora ensaya un modelo de participación comunitaria a través de la farmacia rural",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-07T23:25:25+02:00",
-      "enlace": "https://diariofarma.com/2026/11/07/zamora-ensaya-un-modelo-de-participacion-comunitaria-a-traves-de-la-farmacia-rural"
-    },
-    {
       "titular": "La Eurocámara votará el paquete farmacéutico europeo el 10 de noviembre",
       "medios": [
         "El Global"
@@ -48,6 +21,24 @@
       "consenso": 1,
       "fecha": "2026-11-06T14:29:41+02:00",
       "enlace": "https://elglobalfarma.com/politica/parlamento-europeo-votacion-paquete-farmaceutico-noviembre/"
+    },
+    {
+      "titular": "Las \"limitaciones\" del fondo de compensación sanitaria dejan su \"revisión estructural\" como cuenta pendiente",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-08T19:49:18+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/ministerio-sanidad/20261108/las-limitaciones-del-fondo-de-compensacion-sanitaria-dejan-su-revision-estructural-como-cuenta-pendiente/364486_0.html"
+    },
+    {
+      "titular": "Zamora ensaya un modelo de participación comunitaria a través de la farmacia rural",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-07T23:25:25+02:00",
+      "enlace": "https://diariofarma.com/2026/11/07/zamora-ensaya-un-modelo-de-participacion-comunitaria-a-traves-de-la-farmacia-rural"
     },
     {
       "titular": "Fúnez promete reformar la Ley de los Medicamentos y acelerar el acceso a la innovación si gobierna el PP",
@@ -66,6 +57,15 @@
       "consenso": 1,
       "fecha": "2026-11-08T19:00:37+02:00",
       "enlace": "https://www.redaccionmedica.com/opinion/20261108/en-sanidad-no-basta-con-prometer-mas/364627_14.html"
+    },
+    {
+      "titular": "Huelga general: el COFM defiende la apertura de las farmacias por su carácter “esencial”",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-07T13:36:31+02:00",
+      "enlace": "https://diariofarma.com/2026/11/07/huelga-general-el-cofm-defiende-la-apertura-de-las-farmacias-por-su-caracter-esencial"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 187,
+    "antiguedad_minima_min": 404,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 578,
+        "antiguedad_min": 795,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 3387,
+        "antiguedad_min": 3603,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 187,
+        "antiguedad_min": 404,
         "descartados_por_gancho": 0
       },
       {

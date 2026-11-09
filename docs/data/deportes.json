@@ -1,26 +1,17 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "ultimas",
-  "generado": "2026-11-08T22:57:03+02:00",
+  "modo": "portadas",
+  "generado": "2026-11-09T02:33:19+02:00",
   "titulares": [
     {
-      "titular": "El Valladolid gana en El Molinón a un Sporting sin puntería",
+      "titular": "Fermín conquista el Metropolitano y el Barça llega líder al parón",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-08T22:20:29+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/sporting-gijon/20261108/1004248787/valladolid-gana-molinon-sporting-punteria.html"
-    },
-    {
-      "titular": "90-71: Las bajas no merman la eficacia del Real Madrid",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-08T22:07:02+02:00",
-      "enlace": "https://www.mundodeportivo.com/baloncesto/acb/20261108/1004248783/90-71-bajas-no-merman-eficacia-real-madrid.html"
+      "fecha": "2026-11-08T23:58:26+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261108/1004248754/metropolitano.html"
     },
     {
       "titular": "España no se deja intimidar por Argentina en el Mundial de pádel: \"No hay un favorito claro\"",
@@ -32,6 +23,15 @@
       "enlace": "https://www.marca.com/padel/2026/11/06/espana-deja-intimidar-argentina-mundial-padel-hay-favorito-claro.html"
     },
     {
+      "titular": "Ya hay once del Atlético para medirse al Barça",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-08T20:53:20+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20261108/1004248742/hay-once-atletico-medirse-barca.html"
+    },
+    {
       "titular": "Gustavo Varela: de jugar contra su padre a 'Pichichi' de la Serie A... ¿y sustituto de Cristiano en Portugal?",
       "medios": [
         "Marca"
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/liga-italiana/2026/11/06/gustavo-varela-jugar-padre-pichichi-serie-sustituto-cristiano-portugal.html"
     },
     {
-      "titular": "Toni Bou se da un homenaje en Barcelona",
+      "titular": "Así queda la clasificación de LaLiga tras el triunfo del Barça en el Metropolitano",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-08T22:05:50+02:00",
-      "enlace": "https://www.mundodeportivo.com/motor/motociclismo/20261108/1004248758/toni-bou-da-homenaje-barcelona.html"
+      "fecha": "2026-11-09T00:02:41+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261108/1004248760/asi-queda-clasificacion-laliga-triunfo-barca-metropolitano.html"
     },
     {
-      "titular": "Llega a Lidl el complemento que hará más elegante y cómodo a tu coche: por menos de 7 euros",
+      "titular": "A España se le empieza a poner muy cuesta arriba la plaza extra de Champions",
       "medios": [
-        "Mundo Deportivo"
+        "Marca"
       ],
       "consenso": 1,
-      "fecha": "2026-11-08T22:05:32+02:00",
-      "enlace": "https://www.mundodeportivo.com/actualidad/20261108/1004248735/llega-lidl-complemento-hara-elegante-comodo-coche-imprescindible-7-euros-smd.html"
+      "fecha": "2026-11-06T10:21:50+02:00",
+      "enlace": "https://www.marca.com/futbol/champions-league/2026/11/06/espana-le-empieza-poner-cuesta-plaza-extra-champions.html"
     },
     {
-      "titular": "0-3: El líder liquida al Manresa por la vía rápida",
+      "titular": "Sí, Fermín es pura pasión: un centenario de leyenda",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-08T21:57:02+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261108/1004248781/0-3-lider-liquida-manresa-rapida.html"
+      "fecha": "2026-11-09T01:03:05+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261109/1004248856/fermin-pura-pasion-centenario-leyenda.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 36,
+    "antiguedad_minima_min": 42,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 66,
         "error": null,
-        "antiguedad_min": 3608,
+        "antiguedad_min": 3824,
         "descartados_por_gancho": 5
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 141,
+        "items": 144,
         "error": null,
-        "antiguedad_min": 36,
-        "descartados_por_gancho": 7
+        "antiguedad_min": 42,
+        "descartados_por_gancho": 3
       },
       {
         "medio": "Sport",
