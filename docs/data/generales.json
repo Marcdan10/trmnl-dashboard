@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-11-09T02:33:15+02:00",
+  "generado": "2026-11-09T09:31:16+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -14,31 +14,31 @@
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
     },
     {
-      "titular": "Alberto Núñez Feijóo: “Hacer una coalición de Gobierno con Vox no depende de mí”",
+      "titular": "El bloque de la derecha mantiene su ventaja pero el PSOE se acerca al PP",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-11-08T06:30:01+02:00",
-      "enlace": "https://elpais.com/espana/2026-11-08/alberto-nunez-feijoo-hacer-una-coalicion-de-gobierno-con-vox-no-depende-de-mi.html"
+      "fecha": "2026-11-09T06:30:01+02:00",
+      "enlace": "https://elpais.com/espana/elecciones-generales/2026-11-09/el-bloque-de-la-derecha-mantiene-su-ventaja-pero-el-psoe-se-acerca-al-pp.html"
     },
     {
-      "titular": "Pedro Sánchez: “El partido lo vamos a ganar, pero aún no está ganado”",
+      "titular": "La victoria demócrata en las 'midterm' impulsa las candidaturas de Shapiro, Ocasio-Cortez y Ossoff",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-11-08T07:00:00+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20261108/11678804/pedro-sanchez-partido-ganar-aun-esta-ganado.html"
+      "fecha": "2026-11-09T07:00:00+02:00",
+      "enlace": "https://www.lavanguardia.com/internacional/20261109/11679376/democratas-miran-2028.html"
     },
     {
-      "titular": "El PP se compromete a aumentar la presencia militar en Ceuta y Melilla",
+      "titular": "Doctora de la Puerta: «Hay tres alimentos a los que la microbiota le gusta especialmente»",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-11-09T02:21:02+02:00",
-      "enlace": "https://www.abc.es/espana/pp-compromete-aumentar-presencia-militar-ceuta-melilla-20261110012024-nt.html"
+      "fecha": "2026-11-09T09:24:59+02:00",
+      "enlace": "https://www.abc.es/bienestar/alimentacion/doctora-puerta-experta-microbiota-tres-alimentos-microbiota-20261109063000-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -50,22 +50,22 @@
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
     },
     {
-      "titular": "Eisenkot apela a un Gobierno de “emergencia nacional” ante la “necesidad urgente de un nuevo liderazgo” en Israel",
+      "titular": "La huelga divide a los españoles y más de la mitad rechaza las acampadas",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-11-08T21:32:05+02:00",
-      "enlace": "https://elpais.com/internacional/2026-11-08/eisenkot-apela-a-un-gobierno-de-emergencia-nacional-ante-la-necesidad-urgente-de-un-nuevo-liderazgo-en-israel.html"
+      "fecha": "2026-11-09T06:30:01+02:00",
+      "enlace": "https://elpais.com/espana/elecciones-generales/2026-11-09/la-huelga-divide-a-los-espanoles-y-mas-de-la-mitad-rechaza-las-acampadas.html"
     },
     {
-      "titular": "Sánchez advierte que si PP y Vox gobiernan se plegarán a Trump: “Estos tragan con todo”",
+      "titular": "El demócrata Scott Colom, ¿primer senador negro de Misisipi en 145 años?",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-11-08T14:42:45+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20261108/11679248/sanchez-advierte-pp-vox-gobiernan-plegaran-trump-tragan.html"
+      "fecha": "2026-11-09T07:00:00+02:00",
+      "enlace": "https://www.lavanguardia.com/internacional/20261109/11679377/candidato-mas-inesperado.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 12,
+    "antiguedad_minima_min": 6,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2322808,
+        "antiguedad_min": 2323226,
         "descartados_por_gancho": 0
       },
       {
@@ -90,35 +90,35 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 500",
+        "error": "HTTP 429",
         "antiguedad_min": null
       },
       {
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 136,
+        "items": 133,
         "error": null,
-        "antiguedad_min": 104,
-        "descartados_por_gancho": 8
+        "antiguedad_min": 91,
+        "descartados_por_gancho": 7
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 123,
+        "items": 128,
         "error": null,
-        "antiguedad_min": 63,
-        "descartados_por_gancho": 22
+        "antiguedad_min": 32,
+        "descartados_por_gancho": 19
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 24,
+        "items": 25,
         "error": null,
-        "antiguedad_min": 12,
-        "descartados_por_gancho": 1
+        "antiguedad_min": 6,
+        "descartados_por_gancho": 0
       }
     ]
   }

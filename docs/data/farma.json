@@ -2,7 +2,7 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "portadas",
-  "generado": "2026-11-09T02:33:25+02:00",
+  "generado": "2026-11-09T09:31:27+02:00",
   "titulares": [
     {
       "titular": "Castilla-La Mancha integrará prevención e inteligencia artificial en su Plan de Salud",
@@ -23,13 +23,13 @@
       "enlace": "https://elglobalfarma.com/politica/parlamento-europeo-votacion-paquete-farmaceutico-noviembre/"
     },
     {
-      "titular": "Las \"limitaciones\" del fondo de compensación sanitaria dejan su \"revisión estructural\" como cuenta pendiente",
+      "titular": "Vall d’Hebron contará en 2028 con un polo de radiofármacos y PET-TAC de cuerpo completo único en el sur de Europa",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-11-08T19:49:18+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/ministerio-sanidad/20261108/las-limitaciones-del-fondo-de-compensacion-sanitaria-dejan-su-revision-estructural-como-cuenta-pendiente/364486_0.html"
+      "fecha": "2026-11-09T06:04:00+02:00",
+      "enlace": "https://www.redaccionmedica.com/autonomias/catalunya/20261109/vall-dhebron-contara-en-con-un-polo-de-radiofarmacos-pet-tac-cuerpo-completo-unico-el-sur-europa/364535_0.html"
     },
     {
       "titular": "Zamora ensaya un modelo de participación comunitaria a través de la farmacia rural",
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 404,
+    "antiguedad_minima_min": 204,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 795,
+        "antiguedad_min": 1213,
         "descartados_por_gancho": 0
       },
       {
@@ -93,17 +93,17 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 3603,
+        "antiguedad_min": 4021,
         "descartados_por_gancho": 0
       },
       {
         "medio": "Redacción Médica",
         "url": "https://www.redaccionmedica.com/rss/",
         "ok": true,
-        "items": 30,
+        "items": 29,
         "error": null,
-        "antiguedad_min": 404,
-        "descartados_por_gancho": 0
+        "antiguedad_min": 204,
+        "descartados_por_gancho": 1
       },
       {
         "medio": "PMFarma",
