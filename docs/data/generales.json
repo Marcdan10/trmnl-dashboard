@@ -1,9 +1,65 @@
 {
   "pantalla": "generales",
   "titulo": "Titulares",
-  "modo": "portadas",
-  "generado": "2026-11-09T09:31:16+02:00",
+  "modo": "ultimas",
+  "generado": "2026-11-09T20:07:17+02:00",
   "titulares": [
+    {
+      "titular": "El actor Russell Brand, condenado a diez años y seis meses por la violación de una mujer y agresiones sexuales a otras tres",
+      "medios": [
+        "El País",
+        "ABC"
+      ],
+      "consenso": 2,
+      "fecha": "2026-11-09T20:01:26+02:00",
+      "enlace": "https://elpais.com/sociedad/2026-11-09/el-actor-russell-brand-condenado-a-diez-anos-y-seis-meses-por-la-violacion-de-una-mujer-y-agresiones-sexuales-a-otras-tres.html"
+    },
+    {
+      "titular": "Alice Huang, la espía china de pasado misterioso que llegó hasta el consejero delegado de Nvidia",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-09T19:53:12+02:00",
+      "enlace": "https://elpais.com/internacional/2026-11-09/alice-huang-la-espia-china-de-pasado-misterioso-que-llego-hasta-el-consejero-delegado-de-nvidia.html"
+    },
+    {
+      "titular": "Canarias pedirá a Moncloa perseguir penalmente a las mafias",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-09T19:49:58+02:00",
+      "enlace": "https://www.abc.es/espana/canarias/canarias-pedira-moncloa-perseguir-penalmente-mafias-20261109123601-nt.html"
+    },
+    {
+      "titular": "Los maestros y profesores deberán acreditar el nivel C2 de catalán antes de opositar",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-09T19:43:29+02:00",
+      "enlace": "https://www.lavanguardia.com/vida/20261109/11680240/maestros-profesores-deberan-acreditar-nivel-c2-catalan-opositar.html"
+    },
+    {
+      "titular": "Cubarsí gana el Golden Boy 2026",
+      "medios": [
+        "La Vanguardia",
+        "ABC"
+      ],
+      "consenso": 2,
+      "fecha": "2026-11-09T19:37:44+02:00",
+      "enlace": "https://www.abc.es/deportes/futbol/cubarsi-gana-golden-boy-2026-20261109182455-nt.html"
+    },
+    {
+      "titular": "Francia acusa a Irán de los ciberataques contra cámaras frigoríficas",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-09T19:31:39+02:00",
+      "enlace": "https://www.abc.es/internacional/francia-acusa-iran-ciberataques-camaras-frigorificas-20261109173503-nt.html"
+    },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
       "medios": [
@@ -12,60 +68,6 @@
       "consenso": 1,
       "fecha": "2022-06-10T01:05:00+02:00",
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
-    },
-    {
-      "titular": "El bloque de la derecha mantiene su ventaja pero el PSOE se acerca al PP",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-09T06:30:01+02:00",
-      "enlace": "https://elpais.com/espana/elecciones-generales/2026-11-09/el-bloque-de-la-derecha-mantiene-su-ventaja-pero-el-psoe-se-acerca-al-pp.html"
-    },
-    {
-      "titular": "La victoria demócrata en las 'midterm' impulsa las candidaturas de Shapiro, Ocasio-Cortez y Ossoff",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-09T07:00:00+02:00",
-      "enlace": "https://www.lavanguardia.com/internacional/20261109/11679376/democratas-miran-2028.html"
-    },
-    {
-      "titular": "Doctora de la Puerta: «Hay tres alimentos a los que la microbiota le gusta especialmente»",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-09T09:24:59+02:00",
-      "enlace": "https://www.abc.es/bienestar/alimentacion/doctora-puerta-experta-microbiota-tres-alimentos-microbiota-20261109063000-nt.html"
-    },
-    {
-      "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
-      "medios": [
-        "RTVE"
-      ],
-      "consenso": 1,
-      "fecha": "2022-06-10T00:03:00+02:00",
-      "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
-    },
-    {
-      "titular": "La huelga divide a los españoles y más de la mitad rechaza las acampadas",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-09T06:30:01+02:00",
-      "enlace": "https://elpais.com/espana/elecciones-generales/2026-11-09/la-huelga-divide-a-los-espanoles-y-mas-de-la-mitad-rechaza-las-acampadas.html"
-    },
-    {
-      "titular": "El demócrata Scott Colom, ¿primer senador negro de Misisipi en 145 años?",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-09T07:00:00+02:00",
-      "enlace": "https://www.lavanguardia.com/internacional/20261109/11679377/candidato-mas-inesperado.html"
     }
   ],
   "salud": {
@@ -74,7 +76,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 6,
+    "antiguedad_minima_min": 5,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +84,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2323226,
+        "antiguedad_min": 2323862,
         "descartados_por_gancho": 0
       },
       {
@@ -97,19 +99,19 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 133,
+        "items": 138,
         "error": null,
-        "antiguedad_min": 91,
-        "descartados_por_gancho": 7
+        "antiguedad_min": 5,
+        "descartados_por_gancho": 4
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 128,
+        "items": 140,
         "error": null,
-        "antiguedad_min": 32,
-        "descartados_por_gancho": 19
+        "antiguedad_min": 23,
+        "descartados_por_gancho": 16
       },
       {
         "medio": "ABC",
@@ -117,7 +119,7 @@
         "ok": true,
         "items": 25,
         "error": null,
-        "antiguedad_min": 6,
+        "antiguedad_min": 17,
         "descartados_por_gancho": 0
       }
     ]

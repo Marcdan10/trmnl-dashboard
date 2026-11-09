@@ -1,17 +1,26 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "portadas",
-  "generado": "2026-11-09T09:31:22+02:00",
+  "modo": "ultimas",
+  "generado": "2026-11-09T20:07:23+02:00",
   "titulares": [
     {
-      "titular": "El gran partido del 'MVP' Fermín, en números",
+      "titular": "España vive uno de los domingos más multitudinarios del año para el 'running': más de 75 carreras en 39 provincias este 8 de noviembre",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-09T09:20:11+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261109/1004248922/fermin.html"
+      "fecha": "2026-11-09T19:58:11+02:00",
+      "enlace": "https://www.mundodeportivo.com/running/20261109/1004249102/espana-vive-domingos-multitudinarios-ano-running-75-carreras-39-provincias-8-noviembre-crs.html"
+    },
+    {
+      "titular": "Kierstan Bell, tricampeona WNBA, refuerza al SPAR Girona",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-09T19:50:23+02:00",
+      "enlace": "https://www.mundodeportivo.com/baloncesto/liga-femenina/20261109/1004249168/kierstan-bell-tricampeona-wnba-refuerza-spar-girona.html"
     },
     {
       "titular": "¡Locura en Valencia con la llegada del Madrid!",
@@ -23,15 +32,6 @@
       "enlace": "https://www.marca.com/futbol/real-madrid/2026/11/07/locura-valencia-llegada-madr-video.html"
     },
     {
-      "titular": "1-2: Fermín conquista el Metropolitano y el Barça llega líder al parón",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-08T23:58:26+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261108/1004248754/metropolitano.html"
-    },
-    {
       "titular": "Simeone y el simpático cruce de palabras con un periodista",
       "medios": [
         "Marca"
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/atletico/2026/11/07/simeone-simpatico-cruce-palabras-periodista-video.html"
     },
     {
-      "titular": "Ya hay once del Atlético para medirse al Barça",
+      "titular": "El Barça arrasa en el palmarés de los premios Golden Boy: 5 jugadores lo han ganado desde su creación en 2003",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-08T20:53:20+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20261108/1004248742/hay-once-atletico-medirse-barca.html"
+      "fecha": "2026-11-09T19:35:24+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261109/1004249157/barca-arrasa-palmares-premios-golden-boy.html"
     },
     {
-      "titular": "La curiosa paradoja que nos deja el regreso de la NFL",
+      "titular": "Roberto Fernández ya sonríe con la selección española",
       "medios": [
-        "Marca"
+        "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-07T15:37:48+02:00",
-      "enlace": "https://www.marca.com/nfl/2026/11/07/curiosa-paradoja-deja-regreso-nfl.html"
+      "fecha": "2026-11-09T19:34:16+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/rcd-espanyol/20261109/1004249162/roberto-fernandez-sonrie-seleccion-espanola.html"
     },
     {
-      "titular": "Un fan le dio a firmar a Messi ¡todas las camisetas de su carrera!",
+      "titular": "Aquilani, sexto entrenador destituido en Italia en once jornadas",
       "medios": [
-        "Marca"
+        "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-07T15:24:32+02:00",
-      "enlace": "https://www.marca.com/futbol/2026/11/07/fan-le-dio-firmar-messi-todas-camisetas-carrera-video.html"
+      "fecha": "2026-11-09T19:33:01+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/serie-a/20261109/1004249145/sassuolo.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 11,
+    "antiguedad_minima_min": 9,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 64,
         "error": null,
-        "antiguedad_min": 2491,
+        "antiguedad_min": 3127,
         "descartados_por_gancho": 3
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 143,
+        "items": 142,
         "error": null,
-        "antiguedad_min": 11,
-        "descartados_por_gancho": 2
+        "antiguedad_min": 9,
+        "descartados_por_gancho": 4
       },
       {
         "medio": "Sport",
