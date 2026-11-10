@@ -2,16 +2,16 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-11-10T03:41:36+02:00",
+  "generado": "2026-11-10T11:04:05+02:00",
   "titulares": [
     {
-      "titular": "¡Locura en Valencia con la llegada del Madrid!",
+      "titular": "La dueña de una cafetería desvela que 470 euros al día para cubrir gastos",
       "medios": [
         "Marca"
       ],
       "consenso": 1,
-      "fecha": "2026-11-07T16:00:02+02:00",
-      "enlace": "https://www.marca.com/futbol/real-madrid/2026/11/07/locura-valencia-llegada-madr-video.html"
+      "fecha": "2026-11-10T09:52:57+02:00",
+      "enlace": "https://www.marca.com/tiramillas/economia/2026/11/10/lorena-duena-cafeteria-sobre-rentabilidad-cafeteria-necesita-facturar-470-euros-dia-cubrir-gastos-parte-dulce-negocio-saldria.html"
     },
     {
       "titular": "Fermín exhibió en Madrid las virtudes que destacó en Mundo Deportivo",
@@ -23,49 +23,50 @@
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261109/1004249131/fermin-exhibio-madrid-virtudes-destaco-mundo-deportivo.html"
     },
     {
-      "titular": "Simeone y el simpático cruce de palabras con un periodista",
+      "titular": "Grave accidente doméstico de Maria Shurochkina: la famosa nadadora sufrió importantes quemaduras",
       "medios": [
         "Marca"
       ],
       "consenso": 1,
-      "fecha": "2026-11-07T15:55:16+02:00",
-      "enlace": "https://www.marca.com/futbol/atletico/2026/11/07/simeone-simpatico-cruce-palabras-periodista-video.html"
+      "fecha": "2026-11-10T09:51:24+02:00",
+      "enlace": "https://www.marca.com/natacion/2026/11/10/grave-accidente-domestico-maria-shurochkina-famosa-nadadora-sufrio-importantes-quemaduras.html"
     },
     {
-      "titular": "Oyarzabal, baja ante Chequia por enfermedad y duda contra Inglaterra",
+      "titular": "Marc Cucurella, sobre cuál es el mejor equipo de Europa: \"Ahora mismo, sí\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-09T13:10:44+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-sociedad/20261109/1004249001/oyarzabal-baja-temporal-perdera-minimo-partido-chequia-duda-inglaterra.html"
+      "fecha": "2026-11-10T09:02:10+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20261110/1004249304/marc-cucurella-sobre-mejor-equipo-europa.html"
     },
     {
-      "titular": "La curiosa paradoja que nos deja el regreso de la NFL",
+      "titular": "Declan Rice, tras los crueles ataques de gordofobia a su pareja: \"Las redes pueden arruinarte el día entero\"",
       "medios": [
         "Marca"
       ],
       "consenso": 1,
-      "fecha": "2026-11-07T15:37:48+02:00",
-      "enlace": "https://www.marca.com/nfl/2026/11/07/curiosa-paradoja-deja-regreso-nfl.html"
+      "fecha": "2026-11-10T09:43:01+02:00",
+      "enlace": "https://www.marca.com/futbol/premier-league/2026/11/10/declan-rice-crueles-ataques-gordofobia-pareja-redes-arruinarte-dia-entero.html"
     },
     {
-      "titular": "Luis de la Fuente llama de emergencia a otro jugador",
+      "titular": "Pau Cubarsí ganador del Golden Boy 2026",
       "medios": [
+        "Marca",
         "Mundo Deportivo"
       ],
-      "consenso": 1,
-      "fecha": "2026-11-09T15:01:31+02:00",
-      "enlace": "https://www.mundodeportivo.com/seleccion-espanola/20261109/1004249056/luis-fuente-llama-emergencia-jugador.html"
+      "consenso": 2,
+      "fecha": "2026-11-09T19:00:58+02:00",
+      "enlace": "https://www.marca.com/futbol/barcelona/2026/11/09/pau-cubarsi-ganador-golden-boy-2026-video.html"
     },
     {
-      "titular": "Un fan le dio a firmar a Messi ¡todas las camisetas de su carrera!",
+      "titular": "Curry sigue escalando en la historia de la NBA",
       "medios": [
         "Marca"
       ],
       "consenso": 1,
-      "fecha": "2026-11-07T15:24:32+02:00",
-      "enlace": "https://www.marca.com/futbol/2026/11/07/fan-le-dio-firmar-messi-todas-camisetas-carrera-video.html"
+      "fecha": "2026-11-10T09:38:02+02:00",
+      "enlace": "https://www.marca.com/baloncesto/nba/2026/11/10/curry-sigue-escalando-historia-nba.html"
     }
   ],
   "salud": {
@@ -75,16 +76,16 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 127,
+    "antiguedad_minima_min": 17,
     "detalle": [
       {
         "medio": "Marca",
         "url": "https://e00-marca.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 64,
+        "items": 75,
         "error": null,
-        "antiguedad_min": 3581,
-        "descartados_por_gancho": 3
+        "antiguedad_min": 71,
+        "descartados_por_gancho": 9
       },
       {
         "medio": "AS",
@@ -99,10 +100,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 142,
+        "items": 137,
         "error": null,
-        "antiguedad_min": 127,
-        "descartados_por_gancho": 5
+        "antiguedad_min": 17,
+        "descartados_por_gancho": 7
       },
       {
         "medio": "Sport",

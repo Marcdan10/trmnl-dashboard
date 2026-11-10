@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-11-10T03:41:31+02:00",
+  "generado": "2026-11-10T11:04:01+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -14,22 +14,22 @@
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
     },
     {
-      "titular": "Acuerdo entre PSOE y PP para celebrar los debates electorales en la Academia de Televisión",
+      "titular": "Militantes de Núcleo Nacional recibieron formación paramilitar en Ucrania con fusiles",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-11-09T19:16:52+02:00",
-      "enlace": "https://elpais.com/espana/elecciones-generales/2026-11-09/el-rechazo-del-pp-a-rtve-complica-el-acuerdo-sobre-los-debates-electorales.html"
+      "fecha": "2026-11-10T06:30:01+02:00",
+      "enlace": "https://elpais.com/espana/2026-11-10/militantes-de-nucleo-nacional-recibieron-formacion-paramilitar-en-ucrania-con-fusiles.html"
     },
     {
-      "titular": "Broncano se estrella en la entrevista a Abascal en La Revuelta",
+      "titular": "Colapso en la movilidad en Catalunya: los maquinistas incumplen los servicios mínimos",
       "medios": [
-        "ABC"
+        "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-11-10T03:34:47+02:00",
-      "enlace": "https://www.abc.es/espana/broncano-estrella-abascal-20261109005520-nt.html"
+      "fecha": "2026-11-10T09:34:52+02:00",
+      "enlace": "https://www.lavanguardia.com/local/catalunya/20261110/11680068/trafico-carreteras-cortes-huelga-renfe-maquinistas-trenes-rodalies-accesos-barcelona-cataluna-lunes-10-noviembre-en-directo.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -41,31 +41,32 @@
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
     },
     {
-      "titular": "Pedro Sánchez anuncia consejos de ministros extraordinarios antes del 29-N con medidas sociales: “Hay temas que se nos han quedado pendientes”",
+      "titular": "La huelga de maquinistas siembra el caos en Cercanías y Rodalies por el incumplimiento de los servicios mínimos",
       "medios": [
-        "El País"
+        "El País",
+        "ABC"
       ],
-      "consenso": 1,
-      "fecha": "2026-11-10T00:36:16+02:00",
-      "enlace": "https://elpais.com/espana/elecciones-generales/2026-11-09/pedro-sanchez-anuncia-consejos-de-ministros-extraordinarios-antes-de-las-elecciones-con-medidas-sociales-hay-temas-que-se-nos-han-quedado-pendientes.html"
+      "consenso": 2,
+      "fecha": "2026-11-10T10:24:54+02:00",
+      "enlace": "https://www.abc.es/economia/huelga-maquinistas-siembra-caos-cercanias-rodalies-incumplimiento-20261110085944-nt.html"
     },
     {
-      "titular": "Una revuelta a medida para Abascal",
+      "titular": "Una cadena de huelgas vaticina una semana caótica para la movilidad",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-11-10T01:10:23+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20261110/11680342/revuelta-medida.html"
+      "fecha": "2026-11-09T21:10:18+02:00",
+      "enlace": "https://www.lavanguardia.com/local/barcelona/20261109/11680292/rodalies-acomoda-caos-insta-viajero-buscar-alternativas-semana-dificil.html"
     },
     {
-      "titular": "Broncano, lo tuyo es la comedia: el bochornazo de entrevista a Abascal",
+      "titular": "HONOR rebaja seis equipos por debajo de 400 euros: del Magic8 Lite a un reloj de 31,50€",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-11-10T03:34:47+02:00",
-      "enlace": "https://www.abc.es/play/television/broncano-tuyo-comedia-bochornazo-entrevista-abascal-20261110020245-ntp.html"
+      "fecha": "2026-11-10T10:29:32+02:00",
+      "enlace": "https://www.abc.es/favorito/honor-rebaja-seis-equipos-por-debajo-de-400-euros-del-magic8-lite-a-un-reloj-de-31-50-20261105061000-nt.html"
     }
   ],
   "salud": {
@@ -74,7 +75,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 6,
+    "antiguedad_minima_min": 7,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +83,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2324316,
+        "antiguedad_min": 2324759,
         "descartados_por_gancho": 0
       },
       {
@@ -97,19 +98,19 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 144,
+        "items": 139,
         "error": null,
-        "antiguedad_min": 98,
-        "descartados_por_gancho": 4
+        "antiguedad_min": 7,
+        "descartados_por_gancho": 6
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 138,
+        "items": 121,
         "error": null,
-        "antiguedad_min": 101,
-        "descartados_por_gancho": 5
+        "antiguedad_min": 83,
+        "descartados_por_gancho": 14
       },
       {
         "medio": "ABC",
@@ -117,7 +118,7 @@
         "ok": true,
         "items": 24,
         "error": null,
-        "antiguedad_min": 6,
+        "antiguedad_min": 18,
         "descartados_por_gancho": 1
       }
     ]
