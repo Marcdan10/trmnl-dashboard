@@ -1,44 +1,17 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "ultimas",
-  "generado": "2026-11-09T20:07:29+02:00",
+  "modo": "portadas",
+  "generado": "2026-11-10T03:41:42+02:00",
   "titulares": [
     {
-      "titular": "Muere a los 64 años Mateo Silvente, gerente del Área Sanitaria Norte de Almería",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-09T19:41:34+02:00",
-      "enlace": "https://www.redaccionmedica.com/autonomias/andalucia/20261109/muere-los-anos-mateo-silvente-gerente-del-area-sanitaria-norte-de-almeria/364649_0.html"
-    },
-    {
-      "titular": "La farmacia de hospital europea impulsa la formación en biosimilares para ganar acceso",
+      "titular": "Los partidos divergen sobre cómo reformar los precios y el acceso a los medicamentos",
       "medios": [
         "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-11-09T19:41:25+02:00",
-      "enlace": "https://diariofarma.com/2026/11/09/la-farmacia-de-hospital-europea-impulsa-la-formacion-en-biosimilares-para-ganar-acceso"
-    },
-    {
-      "titular": "La jornada de 35 horas en la sanidad catalana se enquista por bloqueo, fragmentación sindical y huelga",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-09T19:19:02+02:00",
-      "enlace": "https://www.redaccionmedica.com/autonomias/catalunya/20261109/la-jornada-de-horas-en-la-sanidad-catalana-se-enquista-por-bloqueo-fragmentacion-sindical-huelga/364241_0.html"
-    },
-    {
-      "titular": "La Xunta traslada Farmacia a la Gerencia del Sergas y reorganiza sus tres servicios",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-09T19:18:52+02:00",
-      "enlace": "https://diariofarma.com/2026/11/09/la-xunta-traslada-farmacia-a-la-gerencia-del-sergas-y-reorganiza-sus-tres-servicios"
+      "fecha": "2026-11-09T22:02:12+02:00",
+      "enlace": "https://diariofarma.com/2026/11/09/los-partidos-divergen-sobre-como-reformar-los-precios-y-el-acceso-a-los-medicamentos"
     },
     {
       "titular": "El MICOF da por cerrado el conflicto electoral tras rechazar el recurso contra Sergio Marco",
@@ -50,6 +23,24 @@
       "enlace": "https://elglobalfarma.com/farmacia/micof-cerrado-proceso-electoral-rechazar-recurso-sergio-marco/"
     },
     {
+      "titular": "La jornada de 35 horas en la sanidad catalana se enquista por bloqueo, fragmentación sindical y huelga",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-09T19:19:02+02:00",
+      "enlace": "https://www.redaccionmedica.com/autonomias/catalunya/20261109/la-jornada-de-horas-en-la-sanidad-catalana-se-enquista-por-bloqueo-fragmentacion-sindical-huelga/364241_0.html"
+    },
+    {
+      "titular": "PP, PSOE, Vox y Frente Amplio confrontan modelos de gobierno y financiación del SNS",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-09T22:01:48+02:00",
+      "enlace": "https://diariofarma.com/2026/11/09/pp-psoe-vox-y-frente-amplio-confrontan-modelos-de-gobierno-y-financiacion-del-sns"
+    },
+    {
       "titular": "Jornada, guardias y salario: así cambia el nuevo real decreto las condiciones de los FIR",
       "medios": [
         "El Global"
@@ -59,13 +50,22 @@
       "enlace": "https://elglobalfarma.com/farmacia/jornada-guardias-salario-nuevo-real-decreto-fir/"
     },
     {
-      "titular": "El Sergas reordena sus competencias farmacéuticas y eleva su rango orgánico",
+      "titular": "En Sanidad no basta con prometer más",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-08T19:00:37+02:00",
+      "enlace": "https://www.redaccionmedica.com/opinion/20261108/en-sanidad-no-basta-con-prometer-mas/364627_14.html"
+    },
+    {
+      "titular": "La farmacia de hospital europea impulsa la formación en biosimilares para ganar acceso",
       "medios": [
         "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-11-09T18:39:58+02:00",
-      "enlace": "https://diariofarma.com/2026/11/09/el-sergas-reordena-sus-competencias-farmaceuticas-y-eleva-su-rango-organico"
+      "fecha": "2026-11-09T19:41:25+02:00",
+      "enlace": "https://diariofarma.com/2026/11/09/la-farmacia-de-hospital-europea-impulsa-la-formacion-en-biosimilares-para-ganar-acceso"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 25,
+    "antiguedad_minima_min": 339,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 25,
+        "antiguedad_min": 339,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 199,
+        "antiguedad_min": 653,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 29,
         "error": null,
-        "antiguedad_min": 25,
+        "antiguedad_min": 480,
         "descartados_por_gancho": 1
       },
       {

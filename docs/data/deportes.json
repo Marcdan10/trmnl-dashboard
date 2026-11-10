@@ -1,27 +1,9 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "ultimas",
-  "generado": "2026-11-09T20:07:23+02:00",
+  "modo": "portadas",
+  "generado": "2026-11-10T03:41:36+02:00",
   "titulares": [
-    {
-      "titular": "España vive uno de los domingos más multitudinarios del año para el 'running': más de 75 carreras en 39 provincias este 8 de noviembre",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-09T19:58:11+02:00",
-      "enlace": "https://www.mundodeportivo.com/running/20261109/1004249102/espana-vive-domingos-multitudinarios-ano-running-75-carreras-39-provincias-8-noviembre-crs.html"
-    },
-    {
-      "titular": "Kierstan Bell, tricampeona WNBA, refuerza al SPAR Girona",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-09T19:50:23+02:00",
-      "enlace": "https://www.mundodeportivo.com/baloncesto/liga-femenina/20261109/1004249168/kierstan-bell-tricampeona-wnba-refuerza-spar-girona.html"
-    },
     {
       "titular": "¡Locura en Valencia con la llegada del Madrid!",
       "medios": [
@@ -30,6 +12,15 @@
       "consenso": 1,
       "fecha": "2026-11-07T16:00:02+02:00",
       "enlace": "https://www.marca.com/futbol/real-madrid/2026/11/07/locura-valencia-llegada-madr-video.html"
+    },
+    {
+      "titular": "Fermín exhibió en Madrid las virtudes que destacó en Mundo Deportivo",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-09T19:11:15+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261109/1004249131/fermin-exhibio-madrid-virtudes-destaco-mundo-deportivo.html"
     },
     {
       "titular": "Simeone y el simpático cruce de palabras con un periodista",
@@ -41,31 +32,40 @@
       "enlace": "https://www.marca.com/futbol/atletico/2026/11/07/simeone-simpatico-cruce-palabras-periodista-video.html"
     },
     {
-      "titular": "El Barça arrasa en el palmarés de los premios Golden Boy: 5 jugadores lo han ganado desde su creación en 2003",
+      "titular": "Oyarzabal, baja ante Chequia por enfermedad y duda contra Inglaterra",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-09T19:35:24+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261109/1004249157/barca-arrasa-palmares-premios-golden-boy.html"
+      "fecha": "2026-11-09T13:10:44+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-sociedad/20261109/1004249001/oyarzabal-baja-temporal-perdera-minimo-partido-chequia-duda-inglaterra.html"
     },
     {
-      "titular": "Roberto Fernández ya sonríe con la selección española",
+      "titular": "La curiosa paradoja que nos deja el regreso de la NFL",
       "medios": [
-        "Mundo Deportivo"
+        "Marca"
       ],
       "consenso": 1,
-      "fecha": "2026-11-09T19:34:16+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/rcd-espanyol/20261109/1004249162/roberto-fernandez-sonrie-seleccion-espanola.html"
+      "fecha": "2026-11-07T15:37:48+02:00",
+      "enlace": "https://www.marca.com/nfl/2026/11/07/curiosa-paradoja-deja-regreso-nfl.html"
     },
     {
-      "titular": "Aquilani, sexto entrenador destituido en Italia en once jornadas",
+      "titular": "Luis de la Fuente llama de emergencia a otro jugador",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-09T19:33:01+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/serie-a/20261109/1004249145/sassuolo.html"
+      "fecha": "2026-11-09T15:01:31+02:00",
+      "enlace": "https://www.mundodeportivo.com/seleccion-espanola/20261109/1004249056/luis-fuente-llama-emergencia-jugador.html"
+    },
+    {
+      "titular": "Un fan le dio a firmar a Messi ¡todas las camisetas de su carrera!",
+      "medios": [
+        "Marca"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-07T15:24:32+02:00",
+      "enlace": "https://www.marca.com/futbol/2026/11/07/fan-le-dio-firmar-messi-todas-camisetas-carrera-video.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 9,
+    "antiguedad_minima_min": 127,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 64,
         "error": null,
-        "antiguedad_min": 3127,
+        "antiguedad_min": 3581,
         "descartados_por_gancho": 3
       },
       {
@@ -101,8 +101,8 @@
         "ok": true,
         "items": 142,
         "error": null,
-        "antiguedad_min": 9,
-        "descartados_por_gancho": 4
+        "antiguedad_min": 127,
+        "descartados_por_gancho": 5
       },
       {
         "medio": "Sport",
