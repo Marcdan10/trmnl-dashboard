@@ -1,26 +1,17 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "ultimas",
-  "generado": "2026-11-10T19:10:47+02:00",
+  "modo": "portadas",
+  "generado": "2026-11-11T00:26:44+02:00",
   "titulares": [
     {
-      "titular": "Primeras palabras de Ocon tras ser fulminado por Haas",
+      "titular": "Joan Garcia: \"Nuestro estilo conlleva un riesgo grande, pero se ha demostrado que vale la pena\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-10T18:43:58+02:00",
-      "enlace": "https://www.mundodeportivo.com/motor/f1/20261110/1004249559/primeras-palabras-ocon-fulminado-haas-gracias-corazon-vuestros-mensajes-mi-amor-deporte-sigue-siendo-fuerte-siempre.html"
-    },
-    {
-      "titular": "Gerard Martín: \"Sé que cuando no sea una época buena se va a poner en duda la posición del central\"",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-10T18:37:38+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261110/1004249533/gerard-martin.html"
+      "fecha": "2026-11-10T15:29:01+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261110/1004249465/joan-garcia-nuestro-estilo-conlleva-riesgo-grande-demostrado-vale-pena.html"
     },
     {
       "titular": "El Langui cierra una temporada inolvidable con una plata en Sao Paulo",
@@ -32,6 +23,15 @@
       "enlace": "https://www.marca.com/paralimpicos/2026/11/10/langui-cierra-temporada-inolvidable-primer-podio-copa-mundo.html"
     },
     {
+      "titular": "El Barça pide el aplazamiento del partido del filial ante el Girona B por falta de efectivos",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-10T20:26:37+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261110/1004249602/barca-pide-aplazamiento-partido-filial-girona-b-falta-efectivos.html"
+    },
+    {
       "titular": "El megacontrato que ofrece Al Nassr a Joao Félix para evitar su vuelta a Europa",
       "medios": [
         "Marca"
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/liga-arabia-saudi/2026/11/10/megacontrato-ofrece-nassr-joao-felix-evitar-vuelta-europa.html"
     },
     {
-      "titular": "Tienes 6 episodios y está basada en hechos reales: Netflix anuncia el estreno de la serie sobre Ferran Adrià y El Bulli",
+      "titular": "34-18: El Barça recupera el liderato de la Liga en el festival de Novakovic, de 18 años",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-10T18:36:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/elotromundo/television/20261110/1004249556/tienes-seis-episodios-esta-basada-hechos-reales-netflix-anuncia-estreno-serie-sobre-revolucion-gastronomica-ferran-adria-bulli-20-noviembre-tvp-dct.html"
+      "fecha": "2026-11-10T21:39:51+02:00",
+      "enlace": "https://www.mundodeportivo.com/balonmano/20261110/1004249609/barca.html"
     },
     {
-      "titular": "El Barça está atento al mercado y abierto a fichar",
+      "titular": "De Panathinaikos a Hapoel: ¿Por qué se disparan los presupuestos de la Euroliga?",
       "medios": [
-        "Mundo Deportivo"
+        "Marca"
       ],
       "consenso": 1,
-      "fecha": "2026-11-10T18:32:26+02:00",
-      "enlace": "https://www.mundodeportivo.com/baloncesto/euroliga/20261110/1004249554/barca-atento-mercado-abierto-fichar.html"
+      "fecha": "2026-11-10T11:14:09+02:00",
+      "enlace": "https://www.marca.com/sport-business/2playbook/2026/11/10/panathinaikos-hapoel-disparan-presupuestos-euroliga.html"
     },
     {
-      "titular": "Militao, listo para dar guerra",
+      "titular": "De la Fuente se pronuncia sobre el estado físico de Lamine Yamal",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-10T18:30:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20261110/1004249522/militao-listo-dar-guerra.html"
+      "fecha": "2026-11-10T15:26:36+02:00",
+      "enlace": "https://www.mundodeportivo.com/seleccion-espanola/20261110/1004249471/fuente-ve-apto-lamine-yamal-inglaterra-no-merecia-pena-asumir-riesgo.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 26,
+    "antiguedad_minima_min": 32,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 76,
         "error": null,
-        "antiguedad_min": 470,
+        "antiguedad_min": 786,
         "descartados_por_gancho": 8
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 136,
+        "items": 137,
         "error": null,
-        "antiguedad_min": 26,
-        "descartados_por_gancho": 4
+        "antiguedad_min": 32,
+        "descartados_por_gancho": 5
       },
       {
         "medio": "Sport",
