@@ -1,9 +1,36 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "ultimas",
-  "generado": "2026-11-11T19:37:47+02:00",
+  "modo": "portadas",
+  "generado": "2026-11-12T01:56:11+02:00",
   "titulares": [
+    {
+      "titular": "JURI ve base legal para convertir el Plan de Enfermedades Raras en reglamento",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-11T20:15:00+02:00",
+      "enlace": "https://diariofarma.com/2026/11/11/juri-ve-base-legal-para-convertir-el-plan-de-enfermedades-raras-en-reglamento"
+    },
+    {
+      "titular": "Así está siendo la jornada de huelga general en las Farmacias: los servicios mínimos garantizan la atención",
+      "medios": [
+        "El Global"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-11T15:04:49+02:00",
+      "enlace": "https://elglobalfarma.com/farmacia/huelga-general-farmacias-servicios-minimos-garantizan-atencion/"
+    },
+    {
+      "titular": "Fúnez (PP): \"Toda medida sanitaria que aprobemos llevará una memoria económica y una previsión presupuestaria\"",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-11T17:53:44+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/20261111/funez-pp-toda-medida-sanitaria-que-aprobemos-llevara-acompanada-una-memoria-economica-prevision-presupuestaria/364843_0.html"
+    },
     {
       "titular": "La sanidad capea la huelga entre mínimos estrictos y disparidad de datos de seguimiento",
       "medios": [
@@ -12,6 +39,15 @@
       "consenso": 1,
       "fecha": "2026-11-11T19:07:17+02:00",
       "enlace": "https://diariofarma.com/2026/11/11/la-sanidad-capea-la-huelga-entre-minimos-estrictos-y-disparidad-de-datos-de-seguimiento"
+    },
+    {
+      "titular": "La industria farmacéutica europea reduce un 43% la intensidad de sus emisiones de carbono entre 2019 y 2024",
+      "medios": [
+        "El Global"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-11T14:10:10+02:00",
+      "enlace": "https://elglobalfarma.com/industria/industria-farmaceutica-europea-reduce-intensidad-emisiones-carbono-2019-2024/"
     },
     {
       "titular": "La “avalancha” de inscritos al examen MIR 2027 obliga a Sanidad a implantar un “plan de contingencia”",
@@ -30,42 +66,6 @@
       "consenso": 1,
       "fecha": "2026-11-11T18:44:13+02:00",
       "enlace": "https://diariofarma.com/2026/11/11/c-valenciana-implanta-un-sistema-robotizado-de-medicamentos-en-farmacia-sociosanitaria"
-    },
-    {
-      "titular": "PSOE y PP respaldan la reforma farmacéutica europea con más innovación y garantías para los genéricos",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-11T18:33:44+02:00",
-      "enlace": "https://www.redaccionmedica.com/empresas/industria-farmaceutica/20261111/psoe-pp-respaldan-la-reforma-farmaceutica-europea-con-mas-innovacion-garantias-para-los-genericos/364827_0.html"
-    },
-    {
-      "titular": "Así está siendo la jornada de huelga general en las Farmacias: los servicios mínimos garantizan la atención",
-      "medios": [
-        "El Global"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-11T15:04:49+02:00",
-      "enlace": "https://elglobalfarma.com/farmacia/huelga-general-farmacias-servicios-minimos-garantizan-atencion/"
-    },
-    {
-      "titular": "La industria farmacéutica europea reduce un 43% la intensidad de sus emisiones de carbono entre 2019 y 2024",
-      "medios": [
-        "El Global"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-11T14:10:10+02:00",
-      "enlace": "https://elglobalfarma.com/industria/industria-farmaceutica-europea-reduce-intensidad-emisiones-carbono-2019-2024/"
-    },
-    {
-      "titular": "El Consejo aborda la propuesta española de acceso y mantiene el año adicional de CCP",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-11T18:26:00+02:00",
-      "enlace": "https://diariofarma.com/2026/11/11/el-consejo-aborda-la-propuesta-espanola-de-acceso-y-negocia-un-ano-adicional-de-ccp"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 30,
+    "antiguedad_minima_min": 341,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 30,
+        "antiguedad_min": 341,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 272,
+        "antiguedad_min": 651,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 36,
+        "antiguedad_min": 369,
         "descartados_por_gancho": 0
       },
       {
