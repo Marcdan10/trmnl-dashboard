@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-11-11T00:26:37+02:00",
+  "generado": "2026-11-11T04:03:38+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -14,13 +14,13 @@
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
     },
     {
-      "titular": "Broncano rectifica y vuelve al humor en ‘La revuelta’: “Soy la única persona que ha decepcionado a la izquierda más que Rufián”",
+      "titular": "Los sindicatos llaman a España a una huelga general por primera vez en 14 años",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-11-10T23:26:00+02:00",
-      "enlace": "https://elpais.com/television/2026-11-10/broncano-rectifica-y-vuelve-al-humor-en-la-revuelta-soy-la-persona-que-mas-ha-decepcionado-a-la-izquierda-despues-de-gabriel-rufian.html"
+      "fecha": "2026-11-11T00:29:36+02:00",
+      "enlace": "https://elpais.com/economia/2026-11-10/los-sindicatos-llaman-a-espana-a-una-huelga-general-por-primera-vez-en-14-anos.html"
     },
     {
       "titular": "Los maquinistas aplazan la huelga del jueves tras la aprobación de un decreto que reabre la negociación",
@@ -32,23 +32,13 @@
       "enlace": "https://www.lavanguardia.com/local/barcelona/20261110/11681091/maquinistas-aplazan-huelga-jueves-aprobacion-decreto-margen-negociacion.html"
     },
     {
-      "titular": "Detienen de nuevo al padre de Meghan Markle por quitarse el brazalete electrónico",
+      "titular": "Los piquetes en Mercamadrid obligan a la Policía a usar gas lacrimógeno en las primeras horas de huelga general",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-11-10T23:38:19+02:00",
-      "enlace": "https://www.abc.es/gente/detienen-nuevo-padre-meghan-markle-quitarse-brazalete-20261110215053-nt.html"
-    },
-    {
-      "titular": "El Sindicato de Inquilinas monta un piquete dentro de la sede de Alquiler Seguro en Madrid",
-      "medios": [
-        "El País",
-        "ABC"
-      ],
-      "consenso": 2,
-      "fecha": "2026-11-10T22:59:27+02:00",
-      "enlace": "https://www.abc.es/espana/madrid/sindicato-inquilinas-monta-piquete-dentro-sede-alquiler-20261110204234-nt.html"
+      "fecha": "2026-11-11T03:56:28+02:00",
+      "enlace": "https://www.abc.es/economia/huelga-general-noviembre-espana-directo-situacion-cercanias-20261111234148-di.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -58,6 +48,15 @@
       "consenso": 1,
       "fecha": "2022-06-10T00:03:00+02:00",
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
+    },
+    {
+      "titular": "El Gobierno y sus socios relacionan la huelga del 11-N con avances sociales y la derecha ataca a los sindicatos",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-11T00:29:43+02:00",
+      "enlace": "https://elpais.com/espana/2026-11-10/el-gobierno-y-sus-socios-relacionan-la-huelga-del-11-n-con-avances-sociales-y-la-derecha-ataca-a-los-sindicatos.html"
     },
     {
       "titular": "Huelga de maquinistas de Renfe: última hora del estado de Rodalies y los trenes en Barcelona hoy, en directo",
@@ -75,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 18,
+    "antiguedad_minima_min": 7,
     "detalle": [
       {
         "medio": "RTVE",
@@ -83,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2325561,
+        "antiguedad_min": 2325778,
         "descartados_por_gancho": 0
       },
       {
@@ -100,26 +99,26 @@
         "ok": true,
         "items": 148,
         "error": null,
-        "antiguedad_min": 18,
+        "antiguedad_min": 48,
         "descartados_por_gancho": 5
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 141,
+        "items": 139,
         "error": null,
-        "antiguedad_min": 57,
+        "antiguedad_min": 130,
         "descartados_por_gancho": 12
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 22,
+        "items": 23,
         "error": null,
-        "antiguedad_min": 48,
-        "descartados_por_gancho": 3
+        "antiguedad_min": 7,
+        "descartados_por_gancho": 2
       }
     ]
   }
