@@ -2,16 +2,16 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "portadas",
-  "generado": "2026-11-11T04:03:50+02:00",
+  "generado": "2026-11-11T11:40:52+02:00",
   "titulares": [
     {
-      "titular": "El Estatuto Marco y la escasez de especialistas enfrentan las propuestas de los partidos",
+      "titular": "Consenso político para blindar el modelo de farmacia y potenciar su labor asistencial",
       "medios": [
         "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-11-10T20:53:27+02:00",
-      "enlace": "https://diariofarma.com/2026/11/10/el-estatuto-marco-y-la-escasez-de-especialistas-enfrentan-las-propuestas-de-los-partidos"
+      "fecha": "2026-11-11T10:47:14+02:00",
+      "enlace": "https://diariofarma.com/2026/11/11/consenso-politico-para-blindar-el-modelo-de-farmacia-y-potenciar-su-labor-asistencial"
     },
     {
       "titular": "Cribado y prevención: las farmacias buscan detectar el riesgo de diabetes antes de que aparezca",
@@ -23,22 +23,22 @@
       "enlace": "https://elglobalfarma.com/farmacia/autocuidado/farmacias-detectar-riesgo-diabetes-antes-aparezca/"
     },
     {
-      "titular": "Fátima Matute: \"La jornada de 35 horas en el Sermas es transversal y significa una reorganización\"",
+      "titular": "La paradoja de las 30.000 homologaciones: España amplía el censo médico sin rastreo ni plan a largo plazo",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-11-10T18:02:53+02:00",
-      "enlace": "https://www.redaccionmedica.com/autonomias/madrid/20261110/fatima-matute-la-jornada-de-horas-en-el-sermas-es-transversal-significa-una-reorganizacion/364655_0.html"
+      "fecha": "2026-11-11T06:05:00+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20261111/la-paradoja-de-las-homologaciones-espana-amplia-el-censo-medico-sin-rastreo-ni-plan-largo-plazo/364695_0.html"
     },
     {
-      "titular": "Los partidos divergen sobre la regulación europea y el acceso temprano a fármacos",
+      "titular": "El Estatuto Marco y la escasez de especialistas enfrentan las propuestas de los partidos",
       "medios": [
         "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-11-10T20:51:15+02:00",
-      "enlace": "https://diariofarma.com/2026/11/10/los-partidos-divergen-sobre-la-regulacion-europea-y-el-acceso-temprano-a-medicamentos"
+      "fecha": "2026-11-10T20:53:27+02:00",
+      "enlace": "https://diariofarma.com/2026/11/10/el-estatuto-marco-y-la-escasez-de-especialistas-enfrentan-las-propuestas-de-los-partidos"
     },
     {
       "titular": "Huelga general del 11N: ¿cómo afecta a las farmacias?",
@@ -50,22 +50,22 @@
       "enlace": "https://elglobalfarma.com/farmacia/huelga-general-11n-como-afecta-farmacias/"
     },
     {
-      "titular": "\"Reduciremos los contratos menores del Sermas de forma residual a un 10 o 20 por ciento del total\"",
+      "titular": "Más allá de los problemas laborales del programa MIR",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-11-10T18:01:24+02:00",
-      "enlace": "https://www.redaccionmedica.com/autonomias/madrid/20261110/reduciremos-los-contratos-menores-del-sermas-de-forma-residual-un-por-ciento-total/364667_0.html"
+      "fecha": "2026-11-11T06:06:00+02:00",
+      "enlace": "https://www.redaccionmedica.com/opinion/20261111/mas-alla-de-los-problemas-laborales-del-programa-mir/364743_12.html"
     },
     {
-      "titular": "La CNMC ve proporcionales las exigencias a las farmacias por los precios notificados",
+      "titular": "Los partidos divergen sobre la regulación europea y el acceso temprano a fármacos",
       "medios": [
         "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-11-10T20:22:00+02:00",
-      "enlace": "https://diariofarma.com/2026/11/10/la-cnmc-ve-proporcionales-las-exigencias-a-las-farmacias-por-los-precios-notificados"
+      "fecha": "2026-11-10T20:51:15+02:00",
+      "enlace": "https://diariofarma.com/2026/11/10/los-partidos-divergen-sobre-la-regulacion-europea-y-el-acceso-temprano-a-medicamentos"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 298,
+    "antiguedad_minima_min": 38,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 430,
+        "antiguedad_min": 53,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 499,
+        "antiguedad_min": 956,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 29,
         "error": null,
-        "antiguedad_min": 298,
+        "antiguedad_min": 38,
         "descartados_por_gancho": 1
       },
       {

@@ -2,7 +2,7 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-11-11T04:03:43+02:00",
+  "generado": "2026-11-11T11:40:47+02:00",
   "titulares": [
     {
       "titular": "Joan Garcia: \"La fuerza de nuestro equipo es mantener el balón\"",
@@ -23,13 +23,13 @@
       "enlace": "https://www.marca.com/paralimpicos/2026/11/10/langui-cierra-temporada-inolvidable-primer-podio-copa-mundo.html"
     },
     {
-      "titular": "Joan Garcia: \"La Champions es un objetivo, no debe ser una obsesión\"",
+      "titular": "Aday Mara, doble-doble, mates a pares y un hito: iguala a Michael Jordan",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-11T00:55:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261110/1004249643/joan-garcia-champions-objetivo-no-debe-obsesion.html"
+      "fecha": "2026-11-11T08:47:54+02:00",
+      "enlace": "https://www.mundodeportivo.com/baloncesto/nba/20261111/1004249747/aday-mara-doble-doble-mates-pares-hito-iguala-michael-jordan.html"
     },
     {
       "titular": "El megacontrato que ofrece Al Nassr a Joao Félix para evitar su vuelta a Europa",
@@ -41,13 +41,13 @@
       "enlace": "https://www.marca.com/futbol/liga-arabia-saudi/2026/11/10/megacontrato-ofrece-nassr-joao-felix-evitar-vuelta-europa.html"
     },
     {
-      "titular": "La fórmula de Joan Garcia ante el ruido de que pueda llegar desde el Madrid de Mourinho",
+      "titular": "Joan Garcia: \"La Champions es un objetivo, no debe ser una obsesión\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
       "fecha": "2026-11-11T00:55:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261110/1004249651/formula-joan-garcia-ruido-pueda-llegar-madrid-mourinho.html"
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261110/1004249643/joan-garcia-champions-objetivo-no-debe-obsesion.html"
     },
     {
       "titular": "De Panathinaikos a Hapoel: ¿Por qué se disparan los presupuestos de la Euroliga?",
@@ -59,13 +59,14 @@
       "enlace": "https://www.marca.com/sport-business/2playbook/2026/11/10/panathinaikos-hapoel-disparan-presupuestos-euroliga.html"
     },
     {
-      "titular": "El Barça pide el aplazamiento del partido del filial ante el Girona B por falta de efectivos",
+      "titular": "El boxeador Canelo Álvarez buscará revanchas con Bivol y Crawford",
       "medios": [
+        "Marca",
         "Mundo Deportivo"
       ],
-      "consenso": 1,
-      "fecha": "2026-11-10T20:26:37+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261110/1004249602/barca-pide-aplazamiento-partido-filial-girona-b-falta-efectivos.html"
+      "consenso": 2,
+      "fecha": "2026-11-10T22:29:27+02:00",
+      "enlace": "https://www.mundodeportivo.com/boxeo/20261110/1004249653/boxeador-canelo-alvarez-buscara-revanchas-bivol-crawford.html"
     }
   ],
   "salud": {
@@ -75,7 +76,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 141,
+    "antiguedad_minima_min": 17,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +84,7 @@
         "ok": true,
         "items": 76,
         "error": null,
-        "antiguedad_min": 1003,
+        "antiguedad_min": 1460,
         "descartados_por_gancho": 8
       },
       {
@@ -99,9 +100,9 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 138,
+        "items": 137,
         "error": null,
-        "antiguedad_min": 141,
+        "antiguedad_min": 17,
         "descartados_por_gancho": 5
       },
       {
