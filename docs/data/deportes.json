@@ -1,17 +1,26 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "portadas",
-  "generado": "2026-11-12T07:35:38+02:00",
+  "modo": "ultimas",
+  "generado": "2026-11-12T16:28:06+02:00",
   "titulares": [
     {
-      "titular": "El Barça, rey absoluto del gol en las Ligas europeas",
+      "titular": "Oyarzabal, a Barrenetxea: \"Te estaremos esperando, volveremos a celebrar, siempre contigo pequeñín\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-12T01:30:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261112/1004249446/barca-rey-absoluto-gol-ligas-europeas.html"
+      "fecha": "2026-11-12T15:43:35+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-sociedad/20261112/1004250245/oyarzabal-barrenetxea-te-estaremos-esperando-volveremos-celebrar-siempre-contigo-pequenin.html"
+    },
+    {
+      "titular": "Pere Pons: \"Lo bueno que tiene este equipo es la unión que hay\"",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-12T15:28:13+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/sabadell/20261112/1004250243/pere-pons-bueno-equipo-union-hay-gran-nivel-jugadores-competencia-sana.html"
     },
     {
       "titular": "El Langui cierra una temporada inolvidable con una plata en Sao Paulo",
@@ -23,15 +32,6 @@
       "enlace": "https://www.marca.com/paralimpicos/2026/11/10/langui-cierra-temporada-inolvidable-primer-podio-copa-mundo.html"
     },
     {
-      "titular": "Merino: \"Los que terminan los partidos son los que ganan campeonatos\"",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-11T20:18:37+02:00",
-      "enlace": "https://www.mundodeportivo.com/seleccion-espanola/20261111/1004249980/merino-terminan-partidos-son-ganan-campeonatos.html"
-    },
-    {
       "titular": "El megacontrato que ofrece Al Nassr a Joao Félix para evitar su vuelta a Europa",
       "medios": [
         "Marca"
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/liga-arabia-saudi/2026/11/10/megacontrato-ofrece-nassr-joao-felix-evitar-vuelta-europa.html"
     },
     {
-      "titular": "De Panathinaikos a Hapoel: ¿Por qué se disparan los presupuestos de la Euroliga?",
-      "medios": [
-        "Marca"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-10T11:14:09+02:00",
-      "enlace": "https://www.marca.com/sport-business/2playbook/2026/11/10/panathinaikos-hapoel-disparan-presupuestos-euroliga.html"
-    },
-    {
-      "titular": "Zidane confirma la baja de Mbappé contra Italia",
+      "titular": "Ducati anuncia la fecha de la presentación de la súper dupla Marc Márquez-Pedro Acosta",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-11T21:46:36+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/uefa-nations-league/20261111/1004250016/zidane-confirma-baja-mbappe-italia.html"
+      "fecha": "2026-11-12T15:27:26+02:00",
+      "enlace": "https://www.mundodeportivo.com/motor/motogp/20261112/1004250242/ducati-anuncia-fecha-presentacion-super-dupla-marc-marquez-pedro-acosta.html"
     },
     {
-      "titular": "Pedro Porro y su nuevo vino: \"Es un proyecto para mi familia, para mi mujer\"",
+      "titular": "El Crystal Palace fulmina a Pierre Sage y todo su 'staff', pero le podría salir bien",
       "medios": [
-        "Marca"
+        "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-10T11:09:47+02:00",
-      "enlace": "https://www.marca.com/futbol/2026/11/10/pedro-porro-nuevo-vino-proyecto-mi-familia-mi-mujer-video.html"
+      "fecha": "2026-11-12T15:25:20+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/premier-league/20261112/1004250238/crystal-palace-fulmina-pierre-sage-staff-les-salir.html"
+    },
+    {
+      "titular": "Crítica unánime sobre la miniserie de ocho episodios que lleva una semana en el Top 1 de España",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-12T15:09:42+02:00",
+      "enlace": "https://www.mundodeportivo.com/elotromundo/television/20261112/1004250239/criticos-coinciden-critica-unanime-sobre-miniserie-ocho-episodios-lleva-semana-top-1-espana-tvp-dct.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 15,
+    "antiguedad_minima_min": 44,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 76,
         "error": null,
-        "antiguedad_min": 2655,
+        "antiguedad_min": 3187,
         "descartados_por_gancho": 8
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 142,
+        "items": 134,
         "error": null,
-        "antiguedad_min": 15,
-        "descartados_por_gancho": 6
+        "antiguedad_min": 44,
+        "descartados_por_gancho": 4
       },
       {
         "medio": "Sport",

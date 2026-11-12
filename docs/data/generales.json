@@ -1,9 +1,65 @@
 {
   "pantalla": "generales",
   "titulo": "Titulares",
-  "modo": "portadas",
-  "generado": "2026-11-12T07:35:34+02:00",
+  "modo": "ultimas",
+  "generado": "2026-11-12T16:28:02+02:00",
   "titulares": [
+    {
+      "titular": "La borrasca no detiene la llegada de cayucos a El Hierro: casi 400 personas rescatadas en mitad de la tormenta",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-12T16:15:39+02:00",
+      "enlace": "https://elpais.com/espana/2026-11-12/la-borrasca-no-detiene-la-llegada-de-cayucos-a-el-hierro-mas-de-300-personas-rescatadas-en-mitad-de-la-tormenta.html"
+    },
+    {
+      "titular": "Dimite Jensen Huang, el CEO de Nvidia, tras el escándalo de su romance con una espía y una ejecutiva",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-12T16:07:55+02:00",
+      "enlace": "https://www.abc.es/economia/dimite-jensen-huang-ceo-nvidia-tras-escandalo-20261112150216-nt.html"
+    },
+    {
+      "titular": "Al menos ocho muertos y 17 heridos tras derrumbarse un edificio en Nueva York",
+      "medios": [
+        "El País",
+        "ABC"
+      ],
+      "consenso": 2,
+      "fecha": "2026-11-12T16:07:19+02:00",
+      "enlace": "https://www.abc.es/internacional/dos-muertos-heridos-tras-derrumbarse-edificio-nueva-20261112071830-nt.html"
+    },
+    {
+      "titular": "La búsqueda del asesino fugado de la mochila bomba de Oviedo se traslada al campo",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-12T15:52:35+02:00",
+      "enlace": "https://www.abc.es/espana/esconde-ruso-busqueda-asesino-mochila-bomba-oviedo-20261111190234-nt.html"
+    },
+    {
+      "titular": "La UCO requiere más información al Tribunal de Cuentas sobre la financiación del PSOE",
+      "medios": [
+        "La Vanguardia",
+        "ABC"
+      ],
+      "consenso": 2,
+      "fecha": "2026-11-12T15:41:05+02:00",
+      "enlace": "https://www.abc.es/espana/uco-requiere-informacion-tribunal-cuentas-sobre-pieza-20261112115444-nt.html"
+    },
+    {
+      "titular": "La Generalitat convoca 1.100 plazas de profesor a los que exigirá el requisito del C2 de catalán",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-12T15:31:35+02:00",
+      "enlace": "https://www.lavanguardia.com/vida/20261112/11682588/generalitat-convoca-1-100-plazas-profesor-exigira-requisito-c2-catalan.html"
+    },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
       "medios": [
@@ -12,60 +68,6 @@
       "consenso": 1,
       "fecha": "2022-06-10T01:05:00+02:00",
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
-    },
-    {
-      "titular": "El mapa electoral: ¿Qué dicen las encuestas en cada provincia?",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-12T06:30:01+02:00",
-      "enlace": "https://elpais.com/espana/elecciones-generales/2026-11-12/el-mapa-electoral-los-escanos-en-juego-en-cada-provincia-segun-las-encuestas.html"
-    },
-    {
-      "titular": "Impacto desigual de la huelga pero con notable movilización",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-12T01:05:00+02:00",
-      "enlace": "https://www.lavanguardia.com/economia/20261112/11681919/huelga-tuvo-impacto-limitado-centros-trabajo-gran-movilizacion-calle.html"
-    },
-    {
-      "titular": "Jensen Huang, el CEO de Nvidia, al borde del despido: además de la espía china, tuvo un segundo romance",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-12T07:13:55+02:00",
-      "enlace": "https://www.abc.es/internacional/jensen-huang-ceo-nvidia-punto-despido-ademas-20261112010319-nt.html"
-    },
-    {
-      "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
-      "medios": [
-        "RTVE"
-      ],
-      "consenso": 1,
-      "fecha": "2022-06-10T00:03:00+02:00",
-      "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
-    },
-    {
-      "titular": "¿Puede ganar el PSOE? Lo que dicen las encuestas",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-12T06:45:01+02:00",
-      "enlace": "https://elpais.com/podcasts/2026-11-12/puede-ganar-el-psoe-lo-que-dicen-las-encuestas.html"
-    },
-    {
-      "titular": "Tres millones de personas salen a las calles de Lima para recibir al Papa",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-12T05:29:23+02:00",
-      "enlace": "https://www.abc.es/internacional/tres-millones-personas-salen-calles-lima-recibir-20261112014733-nt.html"
     }
   ],
   "salud": {
@@ -74,7 +76,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 5,
+    "antiguedad_minima_min": 12,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +84,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2327430,
+        "antiguedad_min": 2327962,
         "descartados_por_gancho": 0
       },
       {
@@ -90,35 +92,35 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 403",
+        "error": "HTTP 500",
         "antiguedad_min": null
       },
       {
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 131,
+        "items": 144,
         "error": null,
-        "antiguedad_min": 5,
-        "descartados_por_gancho": 3
+        "antiguedad_min": 12,
+        "descartados_por_gancho": 4
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 130,
+        "items": 139,
         "error": null,
-        "antiguedad_min": 35,
-        "descartados_por_gancho": 13
+        "antiguedad_min": 56,
+        "descartados_por_gancho": 14
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 23,
+        "items": 25,
         "error": null,
-        "antiguedad_min": 21,
-        "descartados_por_gancho": 2
+        "antiguedad_min": 20,
+        "descartados_por_gancho": 0
       }
     ]
   }
