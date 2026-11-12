@@ -2,16 +2,16 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-11-12T01:56:05+02:00",
+  "generado": "2026-11-12T07:35:38+02:00",
   "titulares": [
     {
-      "titular": "De la Fuente da la cara por Lamine: \"No tiene ningún privilegio\"",
+      "titular": "El Barça, rey absoluto del gol en las Ligas europeas",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-11T19:50:12+02:00",
-      "enlace": "https://www.mundodeportivo.com/seleccion-espanola/20261111/1004249974/fuente-da-cara-lamine-no-privilegio.html"
+      "fecha": "2026-11-12T01:30:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261112/1004249446/barca-rey-absoluto-gol-ligas-europeas.html"
     },
     {
       "titular": "El Langui cierra una temporada inolvidable con una plata en Sao Paulo",
@@ -41,15 +41,6 @@
       "enlace": "https://www.marca.com/futbol/liga-arabia-saudi/2026/11/10/megacontrato-ofrece-nassr-joao-felix-evitar-vuelta-europa.html"
     },
     {
-      "titular": "Zidane confirma la baja de Mbappé contra Italia",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-11T21:46:36+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/uefa-nations-league/20261111/1004250016/zidane-confirma-baja-mbappe-italia.html"
-    },
-    {
       "titular": "De Panathinaikos a Hapoel: ¿Por qué se disparan los presupuestos de la Euroliga?",
       "medios": [
         "Marca"
@@ -59,13 +50,22 @@
       "enlace": "https://www.marca.com/sport-business/2playbook/2026/11/10/panathinaikos-hapoel-disparan-presupuestos-euroliga.html"
     },
     {
-      "titular": "Scholes se moja con el futuro de Haaland: \"Irá al Barça\"",
+      "titular": "Zidane confirma la baja de Mbappé contra Italia",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-11T13:25:42+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261111/1004249822/scholes-moja-futuro-haaland-ira-barca.html"
+      "fecha": "2026-11-11T21:46:36+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/uefa-nations-league/20261111/1004250016/zidane-confirma-baja-mbappe-italia.html"
+    },
+    {
+      "titular": "Pedro Porro y su nuevo vino: \"Es un proyecto para mi familia, para mi mujer\"",
+      "medios": [
+        "Marca"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-10T11:09:47+02:00",
+      "enlace": "https://www.marca.com/futbol/2026/11/10/pedro-porro-nuevo-vino-proyecto-mi-familia-mi-mujer-video.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 53,
+    "antiguedad_minima_min": 15,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 76,
         "error": null,
-        "antiguedad_min": 2315,
+        "antiguedad_min": 2655,
         "descartados_por_gancho": 8
       },
       {
@@ -101,7 +101,7 @@
         "ok": true,
         "items": 142,
         "error": null,
-        "antiguedad_min": 53,
+        "antiguedad_min": 15,
         "descartados_por_gancho": 6
       },
       {

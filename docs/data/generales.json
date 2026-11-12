@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-11-12T01:56:00+02:00",
+  "generado": "2026-11-12T07:35:34+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -14,31 +14,31 @@
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
     },
     {
-      "titular": "La huelga general culmina con un seguimiento desigual y grandes protestas en la calle",
+      "titular": "El mapa electoral: ¿Qué dicen las encuestas en cada provincia?",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-11-11T23:00:51+02:00",
-      "enlace": "https://elpais.com/economia/2026-11-11/la-huelga-general-culmina-con-un-seguimiento-desigual-y-grandes-protestas-en-la-calle.html"
+      "fecha": "2026-11-12T06:30:01+02:00",
+      "enlace": "https://elpais.com/espana/elecciones-generales/2026-11-12/el-mapa-electoral-los-escanos-en-juego-en-cada-provincia-segun-las-encuestas.html"
     },
     {
-      "titular": "Las manifestaciones masivas en Madrid y Barcelona dan paso a altercados de grupos violentos",
+      "titular": "Impacto desigual de la huelga pero con notable movilización",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-11-11T19:48:15+02:00",
-      "enlace": "https://www.lavanguardia.com/vida/20261111/11681344/huelga-general-espana-11n-movilizaciones-sindicatos-manifestaciones-ultima-hora-hoy-en-directo.html"
+      "fecha": "2026-11-12T01:05:00+02:00",
+      "enlace": "https://www.lavanguardia.com/economia/20261112/11681919/huelga-tuvo-impacto-limitado-centros-trabajo-gran-movilizacion-calle.html"
     },
     {
-      "titular": "Episodio 1: ¿Ha llegado el principio del fin de la era Trump?",
+      "titular": "Jensen Huang, el CEO de Nvidia, al borde del despido: además de la espía china, tuvo un segundo romance",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-11-12T01:43:17+02:00",
-      "enlace": "https://www.abc.es/podcast/episodio-outsider-irrumpio-casa-blanca-siempre-ataque-20261111192239-aud.html"
+      "fecha": "2026-11-12T07:13:55+02:00",
+      "enlace": "https://www.abc.es/internacional/jensen-huang-ceo-nvidia-punto-despido-ademas-20261112010319-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -50,22 +50,22 @@
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
     },
     {
-      "titular": "Decenas de miles de personas claman por la vivienda bajo la lluvia en toda España",
+      "titular": "¿Puede ganar el PSOE? Lo que dicen las encuestas",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-11-11T22:57:29+02:00",
-      "enlace": "https://elpais.com/espana/2026-11-11/decenas-de-miles-de-personas-claman-por-la-vivienda-bajo-la-lluvia-en-toda-espana.html"
+      "fecha": "2026-11-12T06:45:01+02:00",
+      "enlace": "https://elpais.com/podcasts/2026-11-12/puede-ganar-el-psoe-lo-que-dicen-las-encuestas.html"
     },
     {
-      "titular": "La huelga general, en imágenes",
+      "titular": "Tres millones de personas salen a las calles de Lima para recibir al Papa",
       "medios": [
-        "La Vanguardia"
+        "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-11-11T10:05:13+02:00",
-      "enlace": "https://www.lavanguardia.com/vida/20261111/11681386/huelga-general-imagenes.html"
+      "fecha": "2026-11-12T05:29:23+02:00",
+      "enlace": "https://www.abc.es/internacional/tres-millones-personas-salen-calles-lima-recibir-20261112014733-nt.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 12,
+    "antiguedad_minima_min": 5,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2327090,
+        "antiguedad_min": 2327430,
         "descartados_por_gancho": 0
       },
       {
@@ -90,26 +90,26 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 500",
+        "error": "HTTP 403",
         "antiguedad_min": null
       },
       {
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 138,
+        "items": 131,
         "error": null,
-        "antiguedad_min": 20,
-        "descartados_por_gancho": 4
+        "antiguedad_min": 5,
+        "descartados_por_gancho": 3
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 146,
+        "items": 130,
         "error": null,
-        "antiguedad_min": 129,
-        "descartados_por_gancho": 12
+        "antiguedad_min": 35,
+        "descartados_por_gancho": 13
       },
       {
         "medio": "ABC",
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 23,
         "error": null,
-        "antiguedad_min": 12,
+        "antiguedad_min": 21,
         "descartados_por_gancho": 2
       }
     ]
