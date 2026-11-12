@@ -2,46 +2,46 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "ultimas",
-  "generado": "2026-11-12T16:28:12+02:00",
+  "generado": "2026-11-12T23:31:49+02:00",
   "titulares": [
     {
-      "titular": "Facme pide un dictamen único para agilizar la evaluación ética de los estudios clínicos",
+      "titular": "‘¿A qué estás esperando?’, nueva campaña en el Día Mundial de la Neumonía ante la ENI",
       "medios": [
         "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-11-12T16:26:44+02:00",
-      "enlace": "https://diariofarma.com/2026/11/12/facme-pide-un-dictamen-unico-para-agilizar-la-evaluacion-etica-de-los-estudios-clinicos"
+      "fecha": "2026-11-12T20:59:53+02:00",
+      "enlace": "https://diariofarma.com/2026/11/12/a-que-estas-esperando-nueva-campana-en-el-dia-mundial-de-la-neumonia-ante-la-eni"
     },
     {
-      "titular": "Teresa Graham, CEO global de Roche Farma: “Hay que romper los silos presupuestarios”",
+      "titular": "Bruselas flexibiliza una prohibición ambiental para proteger equipos médicos vitales",
       "medios": [
         "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-11-12T16:15:07+02:00",
-      "enlace": "https://diariofarma.com/2026/11/12/teresa-graham-ceo-global-de-roche-farma-hay-que-romper-los-silos-presupuestarios"
+      "fecha": "2026-11-12T19:51:46+02:00",
+      "enlace": "https://diariofarma.com/2026/11/12/bruselas-flexibiliza-una-prohibicion-ambiental-para-proteger-equipos-medicos-vitales"
     },
     {
-      "titular": "La Justicia obliga a las comunidades a abonar las pagas extra íntegras a los MIR",
+      "titular": "Vox propone una tarjeta sanitaria única, más colaboración público-privada y poner fin al turismo sanitario",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-11-12T16:12:48+02:00",
-      "enlace": "https://www.redaccionmedica.com/autonomias/20261112/la-justicia-obliga-las-comunidades-abonar-pagas-extra-integras-los-mir/364937_0.html"
+      "fecha": "2026-11-12T19:50:58+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/20261112/vox-propone-una-tarjeta-sanitaria-unica-mas-colaboracion-publico-privada-poner-fin-al-turismo-sanitario/365019_0.html"
     },
     {
-      "titular": "La contratación de médicos sin MIR enfrenta a los grupos en la Comisión de Sanidad gallega",
+      "titular": "\"Los pacientes necesitan estar seguros de que sus datos se utilizan con garantía de confidencialidad en investigación\"",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-11-12T16:11:00+02:00",
-      "enlace": "https://www.redaccionmedica.com/autonomias/galicia/20261112/la-contratacion-de-medicos-sin-mir-enfrenta-los-grupos-en-la-comision-sanidad-gallega/364942_0.html"
+      "fecha": "2026-11-12T19:29:19+02:00",
+      "enlace": "https://www.redaccionmedica.com/profesionales/sociedades-cientificas/20261112/los-pacientes-necesitan-estar-seguros-de-que-sus-datos-se-utilizan-con-garantia-confidencialidad-en-investigacion/365038_0.html"
     },
     {
-      "titular": "La servicios de Farmacia también brillan en los Premios BIC 2026",
+      "titular": "Los servicios de Farmacia también brillan en los Premios BIC 2026",
       "medios": [
         "El Global"
       ],
@@ -59,13 +59,13 @@
       "enlace": "https://elglobalfarma.com/farmacia/fir-2027-otras-especialidades-farmacia-hospitalaria/"
     },
     {
-      "titular": "La oposición en Madrid cuestiona los 12.178 millones en Sanidad para 2027: \"Está por debajo del gasto real\"",
+      "titular": "El PE reclama 2.500 millones para cáncer y medir el acceso a fármacos innovadores",
       "medios": [
-        "Redacción Médica"
+        "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-11-12T15:48:01+02:00",
-      "enlace": "https://www.redaccionmedica.com/autonomias/madrid/20261112/la-oposicion-en-madrid-cuestiona-los-millones-sanidad-para-esta-por-debajo-del-gasto-real/364978_0.html"
+      "fecha": "2026-11-12T19:42:49+02:00",
+      "enlace": "https://diariofarma.com/2026/11/12/el-pe-reclama-2-500-millones-para-cancer-y-medir-el-acceso-a-farmacos-innovadores"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 1,
+    "antiguedad_minima_min": 151,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 1,
+        "antiguedad_min": 151,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 184,
+        "antiguedad_min": 274,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 15,
+        "antiguedad_min": 220,
         "descartados_por_gancho": 0
       },
       {

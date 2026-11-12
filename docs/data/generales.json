@@ -2,63 +2,61 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-11-12T16:28:02+02:00",
+  "generado": "2026-11-12T23:31:38+02:00",
   "titulares": [
     {
-      "titular": "La borrasca no detiene la llegada de cayucos a El Hierro: casi 400 personas rescatadas en mitad de la tormenta",
+      "titular": "República Checa - España en directo | La selección checa se queda con un jugador menos tras la expulsión de Krejci",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-11-12T16:15:39+02:00",
-      "enlace": "https://elpais.com/espana/2026-11-12/la-borrasca-no-detiene-la-llegada-de-cayucos-a-el-hierro-mas-de-300-personas-rescatadas-en-mitad-de-la-tormenta.html"
+      "fecha": "2026-11-12T23:30:09+02:00",
+      "enlace": "https://elpais.com/deportes/futbol/2026-11-12/republica-checa-espana-en-directo-el-partido-de-la-nations-league-en-vivo.html"
     },
     {
-      "titular": "Dimite Jensen Huang, el CEO de Nvidia, tras el escándalo de su romance con una espía y una ejecutiva",
+      "titular": "Feijóo se presenta como “gestor” para “resolver los problemas” frente al “saqueo” de Sánchez",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-12T23:26:10+02:00",
+      "enlace": "https://elpais.com/espana/2026-11-12/feijoo-se-presenta-como-gestor-para-resolver-los-problemas-frente-al-saqueo-de-sanchez.html"
+    },
+    {
+      "titular": "Chequia se queda con diez tras la expulsión de Krejcl",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-11-12T16:07:55+02:00",
-      "enlace": "https://www.abc.es/economia/dimite-jensen-huang-ceo-nvidia-tras-escandalo-20261112150216-nt.html"
+      "fecha": "2026-11-12T23:16:54+02:00",
+      "enlace": "https://www.abc.es/deportes/futbol/republica-checa-espana-directo-resultado-ganador-goles-20261111152015-di.html"
     },
     {
-      "titular": "Al menos ocho muertos y 17 heridos tras derrumbarse un edificio en Nueva York",
-      "medios": [
-        "El País",
-        "ABC"
-      ],
-      "consenso": 2,
-      "fecha": "2026-11-12T16:07:19+02:00",
-      "enlace": "https://www.abc.es/internacional/dos-muertos-heridos-tras-derrumbarse-edificio-nueva-20261112071830-nt.html"
-    },
-    {
-      "titular": "La búsqueda del asesino fugado de la mochila bomba de Oviedo se traslada al campo",
+      "titular": "«Lo mejor de la huelga es que se redujo el absentismo laboral»",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-11-12T15:52:35+02:00",
-      "enlace": "https://www.abc.es/espana/esconde-ruso-busqueda-asesino-mochila-bomba-oviedo-20261111190234-nt.html"
+      "fecha": "2026-11-12T22:51:39+02:00",
+      "enlace": "https://www.abc.es/espana/mejor-huelga-redujo-absentismo-laboral-20261112202602-nt.html"
     },
     {
-      "titular": "La UCO requiere más información al Tribunal de Cuentas sobre la financiación del PSOE",
-      "medios": [
-        "La Vanguardia",
-        "ABC"
-      ],
-      "consenso": 2,
-      "fecha": "2026-11-12T15:41:05+02:00",
-      "enlace": "https://www.abc.es/espana/uco-requiere-informacion-tribunal-cuentas-sobre-pieza-20261112115444-nt.html"
-    },
-    {
-      "titular": "La Generalitat convoca 1.100 plazas de profesor a los que exigirá el requisito del C2 de catalán",
+      "titular": "Feijóo abre su campaña en Catalunya, clave en la ruta para llegar a la Moncloa",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-11-12T15:31:35+02:00",
-      "enlace": "https://www.lavanguardia.com/vida/20261112/11682588/generalitat-convoca-1-100-plazas-profesor-exigira-requisito-c2-catalan.html"
+      "fecha": "2026-11-12T22:25:51+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20261112/11682913/feijoo-abre-campana-catalunya-clave-ruta-llegar-moncloa.html"
+    },
+    {
+      "titular": "Abascal carga contra la intervención de Begoña Gómez en campaña: “No tienen vergüenza”",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-12T22:23:52+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20261112/11682914/abascal-carga-intervencion-begona-gomez-campana-vergueenza.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -76,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 12,
+    "antiguedad_minima_min": 1,
     "detalle": [
       {
         "medio": "RTVE",
@@ -84,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2327962,
+        "antiguedad_min": 2328386,
         "descartados_por_gancho": 0
       },
       {
@@ -92,35 +90,35 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 500",
+        "error": "HTTP 403",
         "antiguedad_min": null
       },
       {
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 144,
+        "items": 150,
         "error": null,
-        "antiguedad_min": 12,
+        "antiguedad_min": 1,
         "descartados_por_gancho": 4
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 139,
+        "items": 137,
         "error": null,
-        "antiguedad_min": 56,
-        "descartados_por_gancho": 14
+        "antiguedad_min": 65,
+        "descartados_por_gancho": 12
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 25,
+        "items": 24,
         "error": null,
-        "antiguedad_min": 20,
-        "descartados_por_gancho": 0
+        "antiguedad_min": 14,
+        "descartados_por_gancho": 1
       }
     ]
   }

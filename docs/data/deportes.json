@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-11-12T16:28:06+02:00",
+  "generado": "2026-11-12T23:31:43+02:00",
   "titulares": [
     {
-      "titular": "Oyarzabal, a Barrenetxea: \"Te estaremos esperando, volveremos a celebrar, siempre contigo pequeñín\"",
+      "titular": "Histórico: Terrassa volverá a ser sede de la Volta 52 años después",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-12T15:43:35+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-sociedad/20261112/1004250245/oyarzabal-barrenetxea-te-estaremos-esperando-volveremos-celebrar-siempre-contigo-pequenin.html"
+      "fecha": "2026-11-12T23:00:51+02:00",
+      "enlace": "https://www.mundodeportivo.com/ciclismo/volta-a-cataluna/20261112/1004250390/historico-terrassa-volvera-sede-volta-52-anos.html"
     },
     {
-      "titular": "Pere Pons: \"Lo bueno que tiene este equipo es la unión que hay\"",
+      "titular": "España reduce de seis a tres meses el plazo máximo para reconocer las ayudas por dependencia",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-12T15:28:13+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/sabadell/20261112/1004250243/pere-pons-bueno-equipo-union-hay-gran-nivel-jugadores-competencia-sana.html"
+      "fecha": "2026-11-12T22:53:50+02:00",
+      "enlace": "https://www.mundodeportivo.com/actualidad/20261112/1004250378/entra-vigor-12-noviembre-espana-cambia-normas-reduce-seis-tres-meses-plazo-maximo-reconocer-ayudas-dependencia-finanzas-dct.html"
     },
     {
       "titular": "El Langui cierra una temporada inolvidable con una plata en Sao Paulo",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/liga-arabia-saudi/2026/11/10/megacontrato-ofrece-nassr-joao-felix-evitar-vuelta-europa.html"
     },
     {
-      "titular": "Ducati anuncia la fecha de la presentación de la súper dupla Marc Márquez-Pedro Acosta",
+      "titular": "Sonora pitada a Ona Batlle en su vuelta al Spotify Camp Nou",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-12T15:27:26+02:00",
-      "enlace": "https://www.mundodeportivo.com/motor/motogp/20261112/1004250242/ducati-anuncia-fecha-presentacion-super-dupla-marc-marquez-pedro-acosta.html"
+      "fecha": "2026-11-12T22:42:52+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261112/1004250382/sonora-pitada-ona-batlle-vuelta-spotify-camp-nou.html"
     },
     {
-      "titular": "El Crystal Palace fulmina a Pierre Sage y todo su 'staff', pero le podría salir bien",
+      "titular": "Graham: \"Firmo que no haya entrado hoy y marquemos en toda la temporada\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-12T15:25:20+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/premier-league/20261112/1004250238/crystal-palace-fulmina-pierre-sage-staff-les-salir.html"
+      "fecha": "2026-11-12T22:17:28+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261112/1004250373/graham-firmo-no-haya-entrado-hoy-marquemos-toda-temporada.html"
     },
     {
-      "titular": "Crítica unánime sobre la miniserie de ocho episodios que lleva una semana en el Top 1 de España",
+      "titular": "Manuel Arroyo, trabajador del metal: \"Cobramos 1.250 euros. No es normal que en el año 2003 yo cobrara 100 euros menos que ahora\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-12T15:09:42+02:00",
-      "enlace": "https://www.mundodeportivo.com/elotromundo/television/20261112/1004250239/criticos-coinciden-critica-unanime-sobre-miniserie-ocho-episodios-lleva-semana-top-1-espana-tvp-dct.html"
+      "fecha": "2026-11-12T22:08:50+02:00",
+      "enlace": "https://www.mundodeportivo.com/tressesenta/20261112/1004250374/manuel-arroyo-trabajador-metal-cobramos-1-250-euros-no-normal-ano-2003-cobrara-100-euros-hay-dias-corres-peligro-tragas-porqueria-no-estas-pagado-dct.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 44,
+    "antiguedad_minima_min": 30,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 76,
         "error": null,
-        "antiguedad_min": 3187,
+        "antiguedad_min": 3611,
         "descartados_por_gancho": 8
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 134,
+        "items": 130,
         "error": null,
-        "antiguedad_min": 44,
-        "descartados_por_gancho": 4
+        "antiguedad_min": 30,
+        "descartados_por_gancho": 9
       },
       {
         "medio": "Sport",
