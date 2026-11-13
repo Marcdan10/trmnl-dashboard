@@ -1,27 +1,9 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "ultimas",
-  "generado": "2026-11-13T19:27:26+02:00",
+  "modo": "portadas",
+  "generado": "2026-11-14T00:46:11+02:00",
   "titulares": [
-    {
-      "titular": "La patronal veterinaria inicia la nueva fase del plan para tumbar la norma de medicamentos: \"No nos dejaremos ningunear\"",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-13T18:28:16+02:00",
-      "enlace": "https://www.redaccionmedica.com/salud-animal/20261113/la-patronal-veterinaria-inicia-la-nueva-fase-del-plan-para-tumbar-norma-de-medicamentos-no-nos-dejaremos-ningunear/365116_0.html"
-    },
-    {
-      "titular": "El Clínico San Carlos iniciará en 2027 un ensayo pionero con células madre para regenerar el hígado en cáncer de colon",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-13T18:26:07+02:00",
-      "enlace": "https://www.redaccionmedica.com/autonomias/20261113/el-clinico-san-carlos-iniciara-en-un-ensayo-pionero-con-celulas-madre-para-regenerar-el-higado-cancer-de-colon/365115_0.html"
-    },
     {
       "titular": "El papel del farmacéutico en la UCI, clave para frenar errores graves en la medicación",
       "medios": [
@@ -30,15 +12,6 @@
       "consenso": 1,
       "fecha": "2026-11-13T15:26:28+02:00",
       "enlace": "https://diariofarma.com/2026/11/13/el-papel-del-farmaceutico-en-la-uci-clave-para-frenar-errores-graves-en-la-medicacion"
-    },
-    {
-      "titular": "Eurordis reclama objetivos y financiación para el plan europeo de enfermedades raras",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-13T14:56:00+02:00",
-      "enlace": "https://diariofarma.com/2026/11/13/eurordis-reclama-objetivos-y-financiacion-para-el-plan-europeo-de-enfermedades-raras"
     },
     {
       "titular": "El valor de la Farmacia Hospitalaria",
@@ -50,6 +23,24 @@
       "enlace": "https://elglobalfarma.com/opinion/editorial/premios-bic-2026-valor-farmacia-hospitalaria/"
     },
     {
+      "titular": "Los médicos extranjeros del examen MIR 2027 superan por primera vez a los españoles tras el récord de homologaciones",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-13T14:36:10+02:00",
+      "enlace": "https://www.redaccionmedica.com/formacion/mir/20261113/los-medicos-extranjeros-del-examen-mir-superan-por-primera-vez-los-espanoles-tras-el-record-de-homologaciones/365127_0.html"
+    },
+    {
+      "titular": "Eurordis reclama objetivos y financiación para el plan europeo de enfermedades raras",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-13T14:56:00+02:00",
+      "enlace": "https://diariofarma.com/2026/11/13/eurordis-reclama-objetivos-y-financiacion-para-el-plan-europeo-de-enfermedades-raras"
+    },
+    {
       "titular": "El CHMP recomienda la aprobación de siete medicamentos en noviembre",
       "medios": [
         "El Global"
@@ -59,13 +50,22 @@
       "enlace": "https://elglobalfarma.com/industria/chmp-recomienda-aprobacion-siete-medicamentos-noviembre/"
     },
     {
-      "titular": "José Viña: “El hueso en ejercicio es una nueva diana de longevidad”",
+      "titular": "Sanidad no prevé \"problemas\" en el MIR por las homologaciones, pero advierte: \"El riesgo es la contratación sin especialidad\"",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-11-13T18:25:06+02:00",
-      "enlace": "https://www.redaccionmedica.com/longevidad/20261113/jose-vina-el-hueso-en-ejercicio-es-una-nueva-diana-de-longevidad/365013_0.html"
+      "fecha": "2026-11-13T12:52:00+02:00",
+      "enlace": "https://www.redaccionmedica.com/formacion/mir/20261113/sanidad-no-preve-problemas-en-el-mir-por-las-homologaciones-pero-advierte-el-riesgo-es-la-contratacion-sin-especialidad/365079_0.html"
+    },
+    {
+      "titular": "Sanidad inicia la elaboración de las guías de evaluación económica o participación en ETS",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-13T13:43:41+02:00",
+      "enlace": "https://diariofarma.com/2026/11/13/sanidad-inicia-la-elaboracion-de-las-guias-de-evaluacion-economica-o-participacion-en-ets"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 59,
+    "antiguedad_minima_min": 252,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 240,
+        "antiguedad_min": 559,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 283,
+        "antiguedad_min": 601,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 59,
+        "antiguedad_min": 252,
         "descartados_por_gancho": 0
       },
       {
