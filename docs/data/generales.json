@@ -1,63 +1,9 @@
 {
   "pantalla": "generales",
   "titulo": "Titulares",
-  "modo": "ultimas",
-  "generado": "2026-11-12T23:31:38+02:00",
+  "modo": "portadas",
+  "generado": "2026-11-13T04:19:17+02:00",
   "titulares": [
-    {
-      "titular": "República Checa - España en directo | La selección checa se queda con un jugador menos tras la expulsión de Krejci",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-12T23:30:09+02:00",
-      "enlace": "https://elpais.com/deportes/futbol/2026-11-12/republica-checa-espana-en-directo-el-partido-de-la-nations-league-en-vivo.html"
-    },
-    {
-      "titular": "Feijóo se presenta como “gestor” para “resolver los problemas” frente al “saqueo” de Sánchez",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-12T23:26:10+02:00",
-      "enlace": "https://elpais.com/espana/2026-11-12/feijoo-se-presenta-como-gestor-para-resolver-los-problemas-frente-al-saqueo-de-sanchez.html"
-    },
-    {
-      "titular": "Chequia se queda con diez tras la expulsión de Krejcl",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-12T23:16:54+02:00",
-      "enlace": "https://www.abc.es/deportes/futbol/republica-checa-espana-directo-resultado-ganador-goles-20261111152015-di.html"
-    },
-    {
-      "titular": "«Lo mejor de la huelga es que se redujo el absentismo laboral»",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-12T22:51:39+02:00",
-      "enlace": "https://www.abc.es/espana/mejor-huelga-redujo-absentismo-laboral-20261112202602-nt.html"
-    },
-    {
-      "titular": "Feijóo abre su campaña en Catalunya, clave en la ruta para llegar a la Moncloa",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-12T22:25:51+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20261112/11682913/feijoo-abre-campana-catalunya-clave-ruta-llegar-moncloa.html"
-    },
-    {
-      "titular": "Abascal carga contra la intervención de Begoña Gómez en campaña: “No tienen vergüenza”",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-12T22:23:52+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20261112/11682914/abascal-carga-intervencion-begona-gomez-campana-vergueenza.html"
-    },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
       "medios": [
@@ -66,6 +12,60 @@
       "consenso": 1,
       "fecha": "2022-06-10T01:05:00+02:00",
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
+    },
+    {
+      "titular": "Begoña Gómez se estrena en un mitin del PSOE para captar el voto de las mujeres",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-12T22:44:45+02:00",
+      "enlace": "https://elpais.com/espana/elecciones-generales/2026-11-12/begona-gomez-se-estrena-en-un-mitin-del-psoe-para-captar-el-voto-de-las-mujeres.html"
+    },
+    {
+      "titular": "Sánchez o Feijóo: última oportunidad",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-13T01:05:00+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20261113/11682906/sanchez-feijoo-ultima-oportunidad.html"
+    },
+    {
+      "titular": "Los mitos sobre la alimentación y la diabetes que hay que desterrar",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-13T04:00:51+02:00",
+      "enlace": "https://www.abc.es/bienestar/adios-chocolate-fruta-mitos-sobre-alimentacion-diabetes-20261110023654-nt.html"
+    },
+    {
+      "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
+      "medios": [
+        "RTVE"
+      ],
+      "consenso": 1,
+      "fecha": "2022-06-10T00:03:00+02:00",
+      "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
+    },
+    {
+      "titular": "Y el marido de Begoña Gómez visitó a Manu Sánchez: perros al cuadrado (y en todas partes)",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-13T01:09:17+02:00",
+      "enlace": "https://elpais.com/espana/elecciones-generales/2026-11-12/y-el-marido-de-begona-gomez-visito-a-manu-sanchez-perros-al-cuadrado-y-en-todas-partes.html"
+    },
+    {
+      "titular": "Elecciones generales del 29N, hoy en directo: última hora de los decretos de la vivienda y la precampaña electoral",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-12T19:15:30+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20261112/11682180/elecciones-generales-29n-ultima-hora-precampana-electoral-feijoo-sanchez-abascal-resto-candidatos-hoy-jueves-12-noviembre-en-directo.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 1,
+    "antiguedad_minima_min": 5,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2328386,
+        "antiguedad_min": 2328674,
         "descartados_por_gancho": 0
       },
       {
@@ -97,28 +97,28 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 150,
+        "items": 152,
         "error": null,
-        "antiguedad_min": 1,
+        "antiguedad_min": 5,
         "descartados_por_gancho": 4
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 137,
+        "items": 136,
         "error": null,
-        "antiguedad_min": 65,
-        "descartados_por_gancho": 12
+        "antiguedad_min": 115,
+        "descartados_por_gancho": 14
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 24,
+        "items": 23,
         "error": null,
-        "antiguedad_min": 14,
-        "descartados_por_gancho": 1
+        "antiguedad_min": 18,
+        "descartados_por_gancho": 2
       }
     ]
   }
