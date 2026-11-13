@@ -2,16 +2,16 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-11-13T04:19:21+02:00",
+  "generado": "2026-11-13T11:49:16+02:00",
   "titulares": [
     {
-      "titular": "España cumple el trámite en Praga",
+      "titular": "Lamine se incorpora hoy a la selección",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-12T23:47:32+02:00",
-      "enlace": "https://www.mundodeportivo.com/seleccion-espanola/20261112/1004250404/espana-cumple-tramite-praga.html"
+      "fecha": "2026-11-13T09:56:21+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261113/1004250500/lamine-incorpora-hoy-seleccion.html"
     },
     {
       "titular": "El Langui cierra una temporada inolvidable con una plata en Sao Paulo",
@@ -23,13 +23,13 @@
       "enlace": "https://www.marca.com/paralimpicos/2026/11/10/langui-cierra-temporada-inolvidable-primer-podio-copa-mundo.html"
     },
     {
-      "titular": "Raphinha casi lidera la Bota de Oro: así va la clasificación",
+      "titular": "Raphinha: \"Quiero estar disponible para Brasil y para el Barça\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-12T07:35:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261112/1004250020/raphinha-lidera-bota-oro-asi-clasificacion.html"
+      "fecha": "2026-11-13T09:36:34+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261113/1004250493/raphinha-quiero-disponible-brasil-barca.html"
     },
     {
       "titular": "El megacontrato que ofrece Al Nassr a Joao Félix para evitar su vuelta a Europa",
@@ -41,15 +41,6 @@
       "enlace": "https://www.marca.com/futbol/liga-arabia-saudi/2026/11/10/megacontrato-ofrece-nassr-joao-felix-evitar-vuelta-europa.html"
     },
     {
-      "titular": "1-1: Un Arsenal combativo deja al Barça sin revancha",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-12T21:46:22+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261112/1004250370/1-1-arsenal-combativo-deja-barca-revancha.html"
-    },
-    {
       "titular": "De Panathinaikos a Hapoel: ¿Por qué se disparan los presupuestos de la Euroliga?",
       "medios": [
         "Marca"
@@ -59,13 +50,22 @@
       "enlace": "https://www.marca.com/sport-business/2playbook/2026/11/10/panathinaikos-hapoel-disparan-presupuestos-euroliga.html"
     },
     {
-      "titular": "El Barça, una pesadilla casi centenaria para Misa Rodríguez",
+      "titular": "0-2: España cumple el trámite en Praga",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-12T07:00:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261112/1004250017/barca-pesadilla-centenaria-misa-rodriguez.html"
+      "fecha": "2026-11-12T23:47:32+02:00",
+      "enlace": "https://www.mundodeportivo.com/seleccion-espanola/20261112/1004250404/espana-cumple-tramite-praga.html"
+    },
+    {
+      "titular": "Pedro Porro y su nuevo vino: \"Es un proyecto para mi familia, para mi mujer\"",
+      "medios": [
+        "Marca"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-10T11:09:47+02:00",
+      "enlace": "https://www.marca.com/futbol/2026/11/10/pedro-porro-nuevo-vino-proyecto-mi-familia-mi-mujer-video.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 140,
+    "antiguedad_minima_min": 28,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 76,
         "error": null,
-        "antiguedad_min": 3898,
+        "antiguedad_min": 4348,
         "descartados_por_gancho": 8
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 135,
+        "items": 132,
         "error": null,
-        "antiguedad_min": 140,
-        "descartados_por_gancho": 8
+        "antiguedad_min": 28,
+        "descartados_por_gancho": 6
       },
       {
         "medio": "Sport",

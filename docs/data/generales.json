@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-11-13T04:19:17+02:00",
+  "generado": "2026-11-13T11:49:10+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -14,13 +14,13 @@
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
     },
     {
-      "titular": "Begoña Gómez se estrena en un mitin del PSOE para captar el voto de las mujeres",
+      "titular": "La campaña arranca con la derecha en el horizonte de los 190 escaños",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-11-12T22:44:45+02:00",
-      "enlace": "https://elpais.com/espana/elecciones-generales/2026-11-12/begona-gomez-se-estrena-en-un-mitin-del-psoe-para-captar-el-voto-de-las-mujeres.html"
+      "fecha": "2026-11-13T06:30:01+02:00",
+      "enlace": "https://elpais.com/espana/elecciones-generales/2026-11-13/la-campana-arranca-con-la-derecha-en-el-horizonte-de-los-190-escanos.html"
     },
     {
       "titular": "Sánchez o Feijóo: última oportunidad",
@@ -32,13 +32,13 @@
       "enlace": "https://www.lavanguardia.com/politica/20261113/11682906/sanchez-feijoo-ultima-oportunidad.html"
     },
     {
-      "titular": "Los mitos sobre la alimentación y la diabetes que hay que desterrar",
+      "titular": "Rosalía hace historia en los Latin Grammy es la primera mujer que gana Álbum del Año 3 veces seguidas",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-11-13T04:00:51+02:00",
-      "enlace": "https://www.abc.es/bienestar/adios-chocolate-fruta-mitos-sobre-alimentacion-diabetes-20261110023654-nt.html"
+      "fecha": "2026-11-13T11:32:50+02:00",
+      "enlace": "https://www.abc.es/cultura/musica/rosalia-triunfa-grammy-mejor-album-lux-cancion-20261113063953-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -50,22 +50,22 @@
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
     },
     {
-      "titular": "Y el marido de Begoña Gómez visitó a Manu Sánchez: perros al cuadrado (y en todas partes)",
+      "titular": "Arranca la campaña con el plantón de Abascal a Jordi Wild: “Todo el efecto positivo que había conseguido con Broncano se ha diluido”",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-11-13T01:09:17+02:00",
-      "enlace": "https://elpais.com/espana/elecciones-generales/2026-11-12/y-el-marido-de-begona-gomez-visito-a-manu-sanchez-perros-al-cuadrado-y-en-todas-partes.html"
+      "fecha": "2026-11-13T06:45:01+02:00",
+      "enlace": "https://elpais.com/podcasts/hoy-en-el-pais/2026-11-13/arranca-la-campana-con-el-planton-de-abascal-a-jordi-wild-todo-el-efecto-positivo-que-habia-conseguido-con-broncano-se-ha-diluido.html"
     },
     {
-      "titular": "Elecciones generales del 29N, hoy en directo: última hora de los decretos de la vivienda y la precampaña electoral",
+      "titular": "Elecciones generales del 29N, en directo: comienza la campaña electoral con los primeros mítines de Sánchez, Feijóo y otros candidatos",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-11-12T19:15:30+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20261112/11682180/elecciones-generales-29n-ultima-hora-precampana-electoral-feijoo-sanchez-abascal-resto-candidatos-hoy-jueves-12-noviembre-en-directo.html"
+      "fecha": "2026-11-13T11:01:16+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20261113/11682241/elecciones-generales-campana-electoral-candidatos-ultima-hora-en-directo.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 5,
+    "antiguedad_minima_min": 16,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2328674,
+        "antiguedad_min": 2329124,
         "descartados_por_gancho": 0
       },
       {
@@ -90,35 +90,35 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 403",
+        "error": "HTTP 500",
         "antiguedad_min": null
       },
       {
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 152,
+        "items": 143,
         "error": null,
-        "antiguedad_min": 5,
+        "antiguedad_min": 19,
         "descartados_por_gancho": 4
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 136,
+        "items": 132,
         "error": null,
-        "antiguedad_min": 115,
-        "descartados_por_gancho": 14
+        "antiguedad_min": 28,
+        "descartados_por_gancho": 16
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 23,
+        "items": 24,
         "error": null,
-        "antiguedad_min": 18,
-        "descartados_por_gancho": 2
+        "antiguedad_min": 16,
+        "descartados_por_gancho": 1
       }
     ]
   }

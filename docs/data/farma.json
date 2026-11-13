@@ -2,18 +2,8 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "portadas",
-  "generado": "2026-11-13T04:19:26+02:00",
+  "generado": "2026-11-13T11:49:21+02:00",
   "titulares": [
-    {
-      "titular": "Las 15 propuestas de Cofares a los partidos políticos para fortalecer la autonomía estratégica en salud durante la próxima legislatura",
-      "medios": [
-        "Diariofarma",
-        "El Global"
-      ],
-      "consenso": 2,
-      "fecha": "2026-11-12T18:57:11+02:00",
-      "enlace": "https://elglobalfarma.com/farmacia/cofares-autonomia-estrategia-medidas-politicos/"
-    },
     {
       "titular": "‘¿A qué estás esperando?’, nueva campaña en el Día Mundial de la Neumonía ante la ENI",
       "medios": [
@@ -24,40 +14,22 @@
       "enlace": "https://diariofarma.com/2026/11/12/a-que-estas-esperando-nueva-campana-en-el-dia-mundial-de-la-neumonia-ante-la-eni"
     },
     {
-      "titular": "\"No existe un seguimiento integral del paciente con cáncer y mucho menos cuando pasamos a ser supervivientes\"",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-12T19:06:24+02:00",
-      "enlace": "https://www.redaccionmedica.com/profesionales/sociedades-cientificas/20261112/no-existe-un-seguimiento-integral-del-paciente-con-cancer-mucho-menos-cuando-pasamos-ser-supervivientes/364414_0.html"
-    },
-    {
-      "titular": "Los servicios de Farmacia también brillan en los Premios BIC 2026",
+      "titular": "El COF Granada crea el Club Senior para unir a distintas generaciones de farmacéuticos",
       "medios": [
         "El Global"
       ],
       "consenso": 1,
-      "fecha": "2026-11-12T13:23:11+02:00",
-      "enlace": "https://elglobalfarma.com/farmacia/farmacia-brillan-premios-bic-2026/"
+      "fecha": "2026-11-13T11:30:55+02:00",
+      "enlace": "https://elglobalfarma.com/farmacia/cof-granada-club-senior-unir-distintas-generaciones-farmaceuticos/"
     },
     {
-      "titular": "El deber de no hacer y el valor de decir \"no lo sé\"",
+      "titular": "El examen MIR 2027 inscribe un total de 21.668 personas, la cifra más alta de su historia",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-11-12T06:05:00+02:00",
-      "enlace": "https://www.redaccionmedica.com/opinion/20261112/el-deber-de-no-hacer-el-valor-decir-lo-se/364890_12.html"
-    },
-    {
-      "titular": "FIR 2027: las otras especialidades más allá de Farmacia Hospitalaria",
-      "medios": [
-        "El Global"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-12T10:07:59+02:00",
-      "enlace": "https://elglobalfarma.com/farmacia/fir-2027-otras-especialidades-farmacia-hospitalaria/"
+      "fecha": "2026-11-13T11:34:46+02:00",
+      "enlace": "https://www.redaccionmedica.com/formacion/mir/20261113/el-examen-mir-inscribe-un-total-de-personas-la-cifra-mas-alta-su-historia/365083_0.html"
     },
     {
       "titular": "Bruselas flexibiliza una prohibición ambiental para proteger equipos médicos vitales",
@@ -67,6 +39,34 @@
       "consenso": 1,
       "fecha": "2026-11-12T19:51:46+02:00",
       "enlace": "https://diariofarma.com/2026/11/12/bruselas-flexibiliza-una-prohibicion-ambiental-para-proteger-equipos-medicos-vitales"
+    },
+    {
+      "titular": "El MICOF reúne a los farmacéuticos valencianos para abordar los últimos avances en salud capilar",
+      "medios": [
+        "El Global"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-13T11:22:08+02:00",
+      "enlace": "https://elglobalfarma.com/farmacia/micof-farmaceuticos-valencianos-ultimos-avances-salud-capilar/"
+    },
+    {
+      "titular": "Sanidad retrasa la publicación del baremo del MIR hasta que se conozca la nota del examen",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-13T11:36:46+02:00",
+      "enlace": "https://www.redaccionmedica.com/formacion/mir/20261113/sanidad-retrasa-la-publicacion-del-baremo-mir-hasta-que-se-conozca-nota-examen/365096_0.html"
+    },
+    {
+      "titular": "Las 15 propuestas de Cofares a los partidos políticos para fortalecer la autonomía estratégica en salud durante la próxima legislatura",
+      "medios": [
+        "Diariofarma",
+        "El Global"
+      ],
+      "consenso": 2,
+      "fecha": "2026-11-12T18:57:11+02:00",
+      "enlace": "https://elglobalfarma.com/farmacia/cofares-autonomia-estrategia-medidas-politicos/"
     }
   ],
   "salud": {
@@ -77,7 +77,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 439,
+    "antiguedad_minima_min": 12,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -85,7 +85,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 439,
+        "antiguedad_min": 889,
         "descartados_por_gancho": 0
       },
       {
@@ -94,7 +94,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 562,
+        "antiguedad_min": 18,
         "descartados_por_gancho": 0
       },
       {
@@ -103,7 +103,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 508,
+        "antiguedad_min": 12,
         "descartados_por_gancho": 0
       },
       {
