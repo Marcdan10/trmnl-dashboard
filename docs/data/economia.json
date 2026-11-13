@@ -1,26 +1,17 @@
 {
   "pantalla": "economia",
   "titulo": "Economía",
-  "modo": "portadas",
-  "generado": "2026-11-13T11:49:14+02:00",
+  "modo": "ultimas",
+  "generado": "2026-11-13T19:27:19+02:00",
   "titulares": [
     {
-      "titular": "La inversión hotelera enfila un año récord gracias al capital español",
+      "titular": "Etxebarri, mejor restaurante del mundo en 2026",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-11-05T01:01:32+02:00",
-      "enlace": "https://www.expansion.com/empresas/transporte/2026/11/05/inversion-hotelera-enfila-ano-record-gracias-capital-espanol.html"
-    },
-    {
-      "titular": "ACS negocia construir la sede mundial de Oracle por 4.000 millones",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-05T01:00:41+02:00",
-      "enlace": "https://www.expansion.com/empresas/construccion-servicios/2026/11/05/acs-negocia-construir-sede-mundial-oracle-4-000-millones.html"
+      "fecha": "2026-11-05T05:51:47+02:00",
+      "enlace": "https://www.expansion.com/estilo-vida/rincones-gastronomicos/2026/11/05/etxebarri-mejor-restaurante-mundo-2026.html"
     },
     {
       "titular": "Acesur y Dcoop ganan la puja por Deoleo, el dueño de Carbonell",
@@ -32,22 +23,40 @@
       "enlace": "https://www.expansion.com/empresas/2026/11/05/acesur-dcoop-ganan-puja-deoleo-dueno-carbonell.html"
     },
     {
-      "titular": "Santander posiciona su gestora ante la nueva cuenta de inversión",
+      "titular": "La 'fintech' de pagos Monei incorpora el servicio de pagos en iPhone de Apple",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-11-05T01:01:47+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/11/05/santander-posiciona-gestora-nueva-cuenta-inversion.html"
+      "fecha": "2026-11-05T01:33:15+02:00",
+      "enlace": "https://www.expansion.com/empresas/banca/2026/11/05/fintech-pagos-monei-incorpora-servicio-pagos-iphone-apple.html"
     },
     {
-      "titular": "Unicaja ficha a Spencer Stuart para que busque al sucesor de Sevilla",
+      "titular": "La nueva batalla entre OpenAI y Anthropic: atraer empresas con la IA más barata",
       "medios": [
         "Expansión"
       ],
       "consenso": 1,
-      "fecha": "2026-11-05T01:00:53+02:00",
-      "enlace": "https://www.expansion.com/empresas/banca/2026/11/05/unicaja-ficha-spencer-stuart-busque-sucesor-sevilla.html"
+      "fecha": "2026-11-05T01:26:32+02:00",
+      "enlace": "https://www.expansion.com/tecnologia/2026/11/05/nueva-batalla-openai-anthropic-atraer-empresas-ia-barata.html"
+    },
+    {
+      "titular": "Eos X Space capta otros 110 millones para crecer en EEUU",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-05T01:23:58+02:00",
+      "enlace": "https://www.expansion.com/empresas/2026/11/05/eos-x-space-capta-otros-110-millones-crecer-eeuu.html"
+    },
+    {
+      "titular": "Vodafone es la única ‘teleco’ que crece en móvil prepago y supera a Digi",
+      "medios": [
+        "Expansión"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-05T01:23:27+02:00",
+      "enlace": "https://www.expansion.com/empresas/telecomunicaciones/2026/11/05/vodafone-unica-teleco-crece-movil-prepago-supera-digi.html"
     },
     {
       "titular": "Las 'midterms' revolucionan el mapa de ganadores y perdedores en Bolsa de la IA",
@@ -57,15 +66,6 @@
       "consenso": 1,
       "fecha": "2026-11-05T01:15:16+02:00",
       "enlace": "https://www.expansion.com/mercados/el-foco-del-dia/2026/11/05/midterms-revolucionan-mapa-ganadores-perdedores-bolsa-ia.html"
-    },
-    {
-      "titular": "El tsunami demócrata acota el poder de Trump: de control del Capitolio al 'impeachment'",
-      "medios": [
-        "Expansión"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-05T01:06:23+02:00",
-      "enlace": "https://www.expansion.com/elecciones/elecciones-estados-unidos/2026/11/05/tsunami-democrata-acota-trump-control-capitolio-impeachment.html"
     }
   ],
   "salud": {
@@ -78,7 +78,7 @@
       "INE",
       "Banco de España"
     ],
-    "antiguedad_minima_min": 11877,
+    "antiguedad_minima_min": 12335,
     "detalle": [
       {
         "medio": "Expansión",
@@ -86,7 +86,7 @@
         "ok": true,
         "items": 71,
         "error": null,
-        "antiguedad_min": 11877,
+        "antiguedad_min": 12335,
         "descartados_por_gancho": 1
       },
       {
