@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-11-14T18:18:13+02:00",
+  "generado": "2026-11-14T22:51:03+02:00",
   "titulares": [
     {
-      "titular": "Se confirma el despliegue de unidades de artillería para reforzar la seguridad del estrecho de Gibraltar",
+      "titular": "El Andorra reacciona tarde ante el líder",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-14T17:45:13+02:00",
-      "enlace": "https://www.mundodeportivo.com/actualidad/20261114/1004250974/oficial-ministerio-defensa-confirma-despliegue-unidades-artilleria-reforzar-seguridad-estrecho-gibraltar-dml-dct.html"
+      "fecha": "2026-11-14T22:23:59+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/andorra/20261114/1004251080/andorra-reacciona-tarde-lider.html"
     },
     {
-      "titular": "El Barça, con \"piernas frescas\" a Riazor",
+      "titular": "Once Ronaldos en homenaje al ídolo",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-14T17:37:01+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261114/1004250978/barca-piernas-frescas-riazor.html"
+      "fecha": "2026-11-14T22:19:51+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/uefa-nations-league/20261114/1004251077/cristiano.html"
     },
     {
       "titular": "El Langui cierra una temporada inolvidable con una plata en Sao Paulo",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/liga-arabia-saudi/2026/11/10/megacontrato-ofrece-nassr-joao-felix-evitar-vuelta-europa.html"
     },
     {
-      "titular": "El Castellón dedica el mejor triunfo posible a 'Demi' en Zorrilla",
+      "titular": "Belletti explota: \"Espero que ningún entrenador más tenga que pasar por esto\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-14T17:36:28+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/liga-segunda-division/20261114/1004250981/castellon-dedica-mejor-triunfo-posible-demi-zorrilla.html"
+      "fecha": "2026-11-14T22:12:43+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261114/1004251078/belletti-explota-espero-entrenador-tenga-pasar-esto.html"
     },
     {
-      "titular": "Ronaldinho, antes de su debut: \"Van a decir que es IA\"",
+      "titular": "Un cambio de normativa de octubre, argumento del juez para que jugase el filial",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-14T17:35:46+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/internacional/20261114/1004250979/locura-ronaldinho-entrenamiento-previo-reaparicion.html"
+      "fecha": "2026-11-14T22:07:48+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261114/1004251068/cambio-normativa-octubre-argumento-juez-jugase-filial.html"
     },
     {
-      "titular": "La Federación Madrileña de Fútbol podría gestionar el Estadio de Vallecas",
+      "titular": "0-2: El derbi es para el Sant Andreu",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-14T17:30:47+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/rayo-vallecano/20261114/1004250980/federacion-madrilena-futbol-gestionar-estadio-vallecas.html"
+      "fecha": "2026-11-14T22:00:43+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/futbol-catala/20261114/1004251073/derbi-sant-andreu.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 33,
+    "antiguedad_minima_min": 27,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 76,
         "error": null,
-        "antiguedad_min": 6177,
+        "antiguedad_min": 6450,
         "descartados_por_gancho": 8
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 134,
+        "items": 137,
         "error": null,
-        "antiguedad_min": 33,
-        "descartados_por_gancho": 8
+        "antiguedad_min": 27,
+        "descartados_por_gancho": 6
       },
       {
         "medio": "Sport",

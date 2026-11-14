@@ -2,61 +2,63 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-11-14T18:18:08+02:00",
+  "generado": "2026-11-14T22:50:58+02:00",
   "titulares": [
     {
-      "titular": "Esta huelga no podía ser como la de 1988. Tampoco es despreciable. ¿Qué anticipa la dura reacción del PP?",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-14T18:09:39+02:00",
-      "enlace": "https://cincodias.elpais.com/opinion/2026-11-14/esta-huelga-no-podia-ser-como-la-de-1988-tampoco-es-despreciable-que-anticipa-la-dura-reaccion-del-pp.html"
-    },
-    {
-      "titular": "Filipinas gana la primera edición de Eurovisión Asia",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-14T18:06:32+02:00",
-      "enlace": "https://elpais.com/television/2026-11-14/filipinas-gana-la-primera-edicion-de-eurovision-asia.html"
-    },
-    {
-      "titular": "Sánchez llama a la movilización ante más de 3.000 personas: «Vamos a seguir gobernando»",
+      "titular": "La Policía acordona la madrileña Puerta del Sol por una posible amenaza de bomba",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-11-14T17:58:23+02:00",
-      "enlace": "https://www.abc.es/espana/baleares/sanchez-llama-movilizacion-masiva-ante-3000-personas-20261114132503-nt.html"
+      "fecha": "2026-11-14T22:15:38+02:00",
+      "enlace": "https://www.abc.es/espana/madrid/policia-acordona-madrilena-puerta-sol-amenaza-bomba-20261114203148-nt.html"
     },
     {
-      "titular": "Abascal pide el voto para Vox, pero también para el PP a quienes discrepen de sus propuestas: «Hay que echar a Sánchez»",
+      "titular": "De la Fuente: «En España no hay racismo, se lo puedes decir a Tuchel»",
+      "medios": [
+        "La Vanguardia",
+        "ABC"
+      ],
+      "consenso": 2,
+      "fecha": "2026-11-14T22:13:08+02:00",
+      "enlace": "https://www.abc.es/deportes/futbol/fuente-espana-racismo-puedes-decir-tuchel-20261114194743-nt.html"
+    },
+    {
+      "titular": "El PP cancela su ruta por Guipúzcoa después de que Jon Echeverría sea apedreado en Hernani",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-11-14T17:56:36+02:00",
-      "enlace": "https://www.abc.es/espana/andalucia/almeria/abascal-pide-voto-vox-ofrece-pp-discrepen-20261114143347-nts.html"
+      "fecha": "2026-11-14T21:29:25+02:00",
+      "enlace": "https://www.abc.es/espana/pais-vasco/pp-cancela-ruta-campana-guipuzcoa-despues-jon-20261114140347-nt.html"
     },
     {
-      "titular": "Realme compensa a quienes están cansados de los iPhone: ocho móviles de gama media que son un regalazo al precio más competitivo",
+      "titular": "España derrota a Bulgaria en una nueva exhibición de Iyana Martín",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-14T21:28:35+02:00",
+      "enlace": "https://elpais.com/deportes/baloncesto/2026-11-14/espana-derrota-a-bulgaria-en-una-nueva-exhibicion-de-iyana-martin.html"
+    },
+    {
+      "titular": "Filipinas gana Eurovisión en Asia con Carmelle",
+      "medios": [
+        "El País",
+        "La Vanguardia"
+      ],
+      "consenso": 2,
+      "fecha": "2026-11-14T20:55:38+02:00",
+      "enlace": "https://www.lavanguardia.com/television/20261114/11684341/filipinas-gana-eurovision-asia-carmelle.html"
+    },
+    {
+      "titular": "Política, globos, un barco hundido y más imágenes del día",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-11-14T15:30:00+02:00",
-      "enlace": "https://www.lavanguardia.com/comprar/tecnologia/20261114/11683300/realme-ocho-moviles-gama-media-regalazo-precio-competitivo-mkt-alie.html"
-    },
-    {
-      "titular": "Italia multa a Meta con 805 millones de euros por acceder sin permiso a fotos de usuarios",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-14T15:21:06+02:00",
-      "enlace": "https://www.lavanguardia.com/economia/20261114/11684293/italia-multa-meta-805-millones-euros-acceder-permiso-fotos-usuarios.html"
+      "fecha": "2026-11-14T20:27:51+02:00",
+      "enlace": "https://www.lavanguardia.com/fotos/20261114/11684369/politica-globos-barco-hundido-mas-imagenes-dia.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -74,7 +76,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 8,
+    "antiguedad_minima_min": 35,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +84,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2330953,
+        "antiguedad_min": 2331225,
         "descartados_por_gancho": 0
       },
       {
@@ -90,26 +92,26 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 429",
+        "error": "HTTP 500",
         "antiguedad_min": null
       },
       {
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 134,
+        "items": 133,
         "error": null,
-        "antiguedad_min": 8,
-        "descartados_por_gancho": 8
+        "antiguedad_min": 82,
+        "descartados_por_gancho": 7
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 136,
+        "items": 137,
         "error": null,
-        "antiguedad_min": 168,
-        "descartados_por_gancho": 19
+        "antiguedad_min": 115,
+        "descartados_por_gancho": 17
       },
       {
         "medio": "ABC",
@@ -117,7 +119,7 @@
         "ok": true,
         "items": 24,
         "error": null,
-        "antiguedad_min": 19,
+        "antiguedad_min": 35,
         "descartados_por_gancho": 1
       }
     ]
