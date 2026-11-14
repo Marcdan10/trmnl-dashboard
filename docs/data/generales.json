@@ -1,9 +1,63 @@
 {
   "pantalla": "generales",
   "titulo": "Titulares",
-  "modo": "portadas",
-  "generado": "2026-11-14T11:43:28+02:00",
+  "modo": "ultimas",
+  "generado": "2026-11-14T18:18:08+02:00",
   "titulares": [
+    {
+      "titular": "Esta huelga no podía ser como la de 1988. Tampoco es despreciable. ¿Qué anticipa la dura reacción del PP?",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-14T18:09:39+02:00",
+      "enlace": "https://cincodias.elpais.com/opinion/2026-11-14/esta-huelga-no-podia-ser-como-la-de-1988-tampoco-es-despreciable-que-anticipa-la-dura-reaccion-del-pp.html"
+    },
+    {
+      "titular": "Filipinas gana la primera edición de Eurovisión Asia",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-14T18:06:32+02:00",
+      "enlace": "https://elpais.com/television/2026-11-14/filipinas-gana-la-primera-edicion-de-eurovision-asia.html"
+    },
+    {
+      "titular": "Sánchez llama a la movilización ante más de 3.000 personas: «Vamos a seguir gobernando»",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-14T17:58:23+02:00",
+      "enlace": "https://www.abc.es/espana/baleares/sanchez-llama-movilizacion-masiva-ante-3000-personas-20261114132503-nt.html"
+    },
+    {
+      "titular": "Abascal pide el voto para Vox, pero también para el PP a quienes discrepen de sus propuestas: «Hay que echar a Sánchez»",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-14T17:56:36+02:00",
+      "enlace": "https://www.abc.es/espana/andalucia/almeria/abascal-pide-voto-vox-ofrece-pp-discrepen-20261114143347-nts.html"
+    },
+    {
+      "titular": "Realme compensa a quienes están cansados de los iPhone: ocho móviles de gama media que son un regalazo al precio más competitivo",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-14T15:30:00+02:00",
+      "enlace": "https://www.lavanguardia.com/comprar/tecnologia/20261114/11683300/realme-ocho-moviles-gama-media-regalazo-precio-competitivo-mkt-alie.html"
+    },
+    {
+      "titular": "Italia multa a Meta con 805 millones de euros por acceder sin permiso a fotos de usuarios",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-14T15:21:06+02:00",
+      "enlace": "https://www.lavanguardia.com/economia/20261114/11684293/italia-multa-meta-805-millones-euros-acceder-permiso-fotos-usuarios.html"
+    },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
       "medios": [
@@ -12,60 +66,6 @@
       "consenso": 1,
       "fecha": "2022-06-10T01:05:00+02:00",
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
-    },
-    {
-      "titular": "Estados Unidos reanuda el tráfico aéreo después de un parón de más de cuatro horas y 6.000 vuelos cancelados",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-14T05:29:07+02:00",
-      "enlace": "https://elpais.com/us/2026-11-14/estados-unidos-reanuda-el-trafico-aereo-despues-de-un-paron-de-mas-de-cuatro-horas-y-6000-vuelos-cancelados.html"
-    },
-    {
-      "titular": "Caos y más de 10.000 vuelos afectados en EE.UU. por el cierre de operaciones durante cuatro horas",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-13T23:33:19+02:00",
-      "enlace": "https://www.lavanguardia.com/internacional/20261113/11683874/estados-unidos-suspende-operaciones-aereas-caida-sistemas-comunicacion.html"
-    },
-    {
-      "titular": "Caos aéreo en EE.UU.: todos los vuelos cancelados durante más de cuatro horas por la saturación del sistema de control",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-14T10:57:29+02:00",
-      "enlace": "https://www.abc.es/internacional/suspendidos-vuelos-eeuu-debido-circunstancias-extraordinarias-motivos-20261113222039-nt.html"
-    },
-    {
-      "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
-      "medios": [
-        "RTVE"
-      ],
-      "consenso": 1,
-      "fecha": "2022-06-10T00:03:00+02:00",
-      "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
-    },
-    {
-      "titular": "“Los parches no funcionan”: el Gobierno de EE UU culpa al “anticuado” sistema de control aéreo por la suspensión de vuelos",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-14T05:54:05+02:00",
-      "enlace": "https://elpais.com/us/2026-11-14/los-parches-no-funcionan-el-gobierno-de-ee-uu-culpa-al-anticuado-sistema-de-control-aereo-por-la-suspension-de-vuelos.html"
-    },
-    {
-      "titular": "Las imágenes del caos: aviones en tierra, pasajeros desconcertados y equipajes perdidos",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-14T01:41:04+02:00",
-      "enlace": "https://www.lavanguardia.com/internacional/20261114/11684110/imagenes-interrupcion-trafico-aereo-estados-unidos.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 42,
+    "antiguedad_minima_min": 8,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2330558,
+        "antiguedad_min": 2330953,
         "descartados_por_gancho": 0
       },
       {
@@ -90,35 +90,35 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 500",
+        "error": "HTTP 429",
         "antiguedad_min": null
       },
       {
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 135,
+        "items": 134,
         "error": null,
-        "antiguedad_min": 81,
+        "antiguedad_min": 8,
         "descartados_por_gancho": 8
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 127,
+        "items": 136,
         "error": null,
-        "antiguedad_min": 42,
+        "antiguedad_min": 168,
         "descartados_por_gancho": 19
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 23,
+        "items": 24,
         "error": null,
-        "antiguedad_min": 45,
-        "descartados_por_gancho": 2
+        "antiguedad_min": 19,
+        "descartados_por_gancho": 1
       }
     ]
   }

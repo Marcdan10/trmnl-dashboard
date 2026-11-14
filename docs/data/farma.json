@@ -1,17 +1,44 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "portadas",
-  "generado": "2026-11-14T11:43:39+02:00",
+  "modo": "ultimas",
+  "generado": "2026-11-14T18:18:18+02:00",
   "titulares": [
     {
-      "titular": "El papel del farmacéutico en la UCI, clave para frenar errores graves en la medicación",
+      "titular": "Victoria, la enfermera que sufrió ansiedad en España y emigrará a Florida: \"El sistema maltrata al profesional\"",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-14T16:24:25+02:00",
+      "enlace": "https://www.redaccionmedica.com/profesionales/enfermeria/20261114/victoria-la-enfermera-que-sufrio-ansiedad-en-espana-emigrara-florida-el-sistema-maltrata-al-profesional/363368_0.html"
+    },
+    {
+      "titular": "De anticuerpos conjugados a células tumorales: la nueva terapia contra el cáncer colorrectal que prevé su llegada en \"dos o tres años\"",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-14T16:23:14+02:00",
+      "enlace": "https://www.redaccionmedica.com/innovacion/20261114/de-anticuerpos-conjugados-celulas-tumorales-la-nueva-terapia-contra-el-cancer-colorrectal-que-preve-su-llegada-en-dos-tres-anos/364826_0.html"
+    },
+    {
+      "titular": "Frente Amplio propone controlar precios de fármacos y ampliar la cartera del SNS",
       "medios": [
         "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-11-13T15:26:28+02:00",
-      "enlace": "https://diariofarma.com/2026/11/13/el-papel-del-farmaceutico-en-la-uci-clave-para-frenar-errores-graves-en-la-medicacion"
+      "fecha": "2026-11-14T16:17:26+02:00",
+      "enlace": "https://diariofarma.com/2026/11/14/frente-amplio-propone-controlar-precios-de-farmacos-y-ampliar-la-cartera-del-sns"
+    },
+    {
+      "titular": "La EMA avala siete fármacos inéditos y 11 nuevas indicaciones en su reunión mensual",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-14T11:58:32+02:00",
+      "enlace": "https://diariofarma.com/2026/11/14/la-ema-avala-siete-farmacos-ineditos-y-11-nuevas-indicaciones-en-su-reunion-mensual"
     },
     {
       "titular": "El valor de la Farmacia Hospitalaria",
@@ -23,24 +50,6 @@
       "enlace": "https://elglobalfarma.com/opinion/editorial/premios-bic-2026-valor-farmacia-hospitalaria/"
     },
     {
-      "titular": "Los médicos extranjeros del examen MIR 2027 superan por primera vez a los españoles tras el récord de homologaciones",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-13T14:36:10+02:00",
-      "enlace": "https://www.redaccionmedica.com/formacion/mir/20261113/los-medicos-extranjeros-del-examen-mir-superan-por-primera-vez-los-espanoles-tras-el-record-de-homologaciones/365127_0.html"
-    },
-    {
-      "titular": "Eurordis reclama objetivos y financiación para el plan europeo de enfermedades raras",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-13T14:56:00+02:00",
-      "enlace": "https://diariofarma.com/2026/11/13/eurordis-reclama-objetivos-y-financiacion-para-el-plan-europeo-de-enfermedades-raras"
-    },
-    {
       "titular": "El CHMP recomienda la aprobación de siete medicamentos en noviembre",
       "medios": [
         "El Global"
@@ -50,22 +59,13 @@
       "enlace": "https://elglobalfarma.com/industria/chmp-recomienda-aprobacion-siete-medicamentos-noviembre/"
     },
     {
-      "titular": "Sanidad no prevé \"problemas\" en el MIR por las homologaciones, pero advierte: \"El riesgo es la contratación sin especialidad\"",
+      "titular": "La digitalización y el cambio normativo impulsan la homologación de médicos extranjeros un 750% en el último lustro",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-11-13T12:52:00+02:00",
-      "enlace": "https://www.redaccionmedica.com/formacion/mir/20261113/sanidad-no-preve-problemas-en-el-mir-por-las-homologaciones-pero-advierte-el-riesgo-es-la-contratacion-sin-especialidad/365079_0.html"
-    },
-    {
-      "titular": "Sanidad inicia la elaboración de las guías de evaluación económica o participación en ETS",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-13T13:43:41+02:00",
-      "enlace": "https://diariofarma.com/2026/11/13/sanidad-inicia-la-elaboracion-de-las-guias-de-evaluacion-economica-o-participacion-en-ets"
+      "fecha": "2026-11-14T16:01:48+02:00",
+      "enlace": "https://www.redaccionmedica.com/profesionales/medicina/20261114/la-digitalizacion-el-cambio-normativo-impulsan-la-homologacion-de-medicos-extranjeros-un-en-ultimo-lustro/365181_0.html"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 118,
+    "antiguedad_minima_min": 113,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 1217,
+        "antiguedad_min": 120,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 1259,
+        "antiguedad_min": 1654,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 118,
+        "antiguedad_min": 113,
         "descartados_por_gancho": 0
       },
       {
