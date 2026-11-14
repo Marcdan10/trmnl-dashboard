@@ -2,16 +2,16 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-11-14T04:51:18+02:00",
+  "generado": "2026-11-14T11:43:33+02:00",
   "titulares": [
     {
-      "titular": "74-76: Triunfo colosal de un Barça resistente en el OAKA",
+      "titular": "Los datos confirman el doble rasero arbitral entre Barça y Madrid",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-13T23:40:29+02:00",
-      "enlace": "https://www.mundodeportivo.com/baloncesto/euroliga/20261113/1004250789/74-76-triunfo-colosal-barca-resistente-oaka.html"
+      "fecha": "2026-11-14T08:00:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261114/1004250682/datos-confirman-doble-rasero-arbitral-barca-madrid.html"
     },
     {
       "titular": "Detenido un exentrenador nipón por presunto abuso sexual a nadadoras menores de 10 años",
@@ -23,6 +23,15 @@
       "enlace": "https://www.marca.com/natacion/2026/11/11/detenido-exentrenador-nipon-presunto-abuso-sexual-nadadoras-menores-10-anos.html"
     },
     {
+      "titular": "El crack ya está aquí: así vivió Lamine Yamal los días antes de incorporarse a la selección",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-14T08:00:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/seleccion-espanola/20261114/1004250798/crack-esta-asi-vivio-lamine-yamal-dias-incorporarse-seleccion.html"
+    },
+    {
       "titular": "El 'nuevo Diomande': \"Nuestra forma de jugar se parece bastante\"",
       "medios": [
         "Marca"
@@ -30,15 +39,6 @@
       "consenso": 1,
       "fecha": "2026-11-11T13:58:02+02:00",
       "enlace": "https://www.marca.com/futbol/bundesliga/2026/11/11/nusa-viste-diomande-nuestra-forma-jugar-parece.html"
-    },
-    {
-      "titular": "Sekulic: \"Estoy orgulloso del equipo\"",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-14T00:25:10+02:00",
-      "enlace": "https://www.mundodeportivo.com/baloncesto/euroliga/20261113/1004250809/sekulic-orgulloso-les-dije-chicos-no-habiamos-anotado-suficientes-puntos-siguieran-confiando-hacian-buscaran-tiros-abiertos.html"
     },
     {
       "titular": "España quiere aprovecharse del ciclón Fermín",
@@ -50,13 +50,13 @@
       "enlace": "https://www.marca.com/futbol/seleccion/2026/11/11/espana-quiere-aprovecharse-ciclon-fermin.html"
     },
     {
-      "titular": "Oficial: la RFEF impone a Owono la sanción máxima por la acción sobre Jesús de Miguel",
+      "titular": "Xavi habla de molestias en la espalda de De Jong pero no de lesión",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-13T22:36:21+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/liga-segunda-division/20261113/1004250779/rfef-impone-owono-sancion-maxima-accion-sobre-jesus-miguel.html"
+      "fecha": "2026-11-14T10:23:31+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261114/1004250841/xavi-habla-molestias-espalda-jong-no-lesion.html"
     },
     {
       "titular": "La denuncia del atleta paralímpico Alberto Ávila: \"Un acosador amenaza con reventarme y asesinar a mi madre\"",
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 182,
+    "antiguedad_minima_min": 23,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 78,
         "error": null,
-        "antiguedad_min": 3761,
+        "antiguedad_min": 4174,
         "descartados_por_gancho": 6
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 140,
+        "items": 133,
         "error": null,
-        "antiguedad_min": 182,
-        "descartados_por_gancho": 5
+        "antiguedad_min": 23,
+        "descartados_por_gancho": 8
       },
       {
         "medio": "Sport",

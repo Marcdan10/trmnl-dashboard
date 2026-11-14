@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-11-14T04:51:12+02:00",
+  "generado": "2026-11-14T11:43:28+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -14,16 +14,16 @@
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
     },
     {
-      "titular": "La cancelación de vuelos en Estados Unidos, en vivo | Estados Unidos levanta la suspensión de vuelos tras más de cuatro horas de paro total",
+      "titular": "Estados Unidos reanuda el tráfico aéreo después de un parón de más de cuatro horas y 6.000 vuelos cancelados",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-11-14T04:18:47+02:00",
-      "enlace": "https://elpais.com/us/2026-11-13/la-suspension-de-vuelos-en-estados-unidos-en-vivo.html"
+      "fecha": "2026-11-14T05:29:07+02:00",
+      "enlace": "https://elpais.com/us/2026-11-14/estados-unidos-reanuda-el-trafico-aereo-despues-de-un-paron-de-mas-de-cuatro-horas-y-6000-vuelos-cancelados.html"
     },
     {
-      "titular": "Estados Unidos suspende las operaciones aéreas por la caída de los sistemas de comunicación",
+      "titular": "Caos y más de 10.000 vuelos afectados en EE.UU. por el cierre de operaciones durante cuatro horas",
       "medios": [
         "La Vanguardia"
       ],
@@ -32,13 +32,13 @@
       "enlace": "https://www.lavanguardia.com/internacional/20261113/11683874/estados-unidos-suspende-operaciones-aereas-caida-sistemas-comunicacion.html"
     },
     {
-      "titular": "Elon Musk renuncia a recuperar la primera etapa del Starship y lo jugará todo a la parte más difícil: atrapar la nave a su vuelta",
+      "titular": "Caos aéreo en EE.UU.: todos los vuelos cancelados durante más de cuatro horas por la saturación del sistema de control",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-11-14T04:10:08+02:00",
-      "enlace": "https://www.abc.es/ciencia/previa-starship-vuelo-20261113182525-nt.html"
+      "fecha": "2026-11-14T10:57:29+02:00",
+      "enlace": "https://www.abc.es/internacional/suspendidos-vuelos-eeuu-debido-circunstancias-extraordinarias-motivos-20261113222039-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -50,16 +50,16 @@
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
     },
     {
-      "titular": "Así se vació el cielo de Estados Unidos tras la suspensión de los vuelos",
+      "titular": "“Los parches no funcionan”: el Gobierno de EE UU culpa al “anticuado” sistema de control aéreo por la suspensión de vuelos",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-11-14T01:55:00+02:00",
-      "enlace": "https://elpais.com/us/2026-11-13/asi-se-vacio-el-cielo-de-estados-unidos-tras-la-suspension-de-los-vuelos.html"
+      "fecha": "2026-11-14T05:54:05+02:00",
+      "enlace": "https://elpais.com/us/2026-11-14/los-parches-no-funcionan-el-gobierno-de-ee-uu-culpa-al-anticuado-sistema-de-control-aereo-por-la-suspension-de-vuelos.html"
     },
     {
-      "titular": "Las imágenes de la interrupción del tráfico aéreo en Estados Unidos",
+      "titular": "Las imágenes del caos: aviones en tierra, pasajeros desconcertados y equipajes perdidos",
       "medios": [
         "La Vanguardia"
       ],
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 32,
+    "antiguedad_minima_min": 42,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2330146,
+        "antiguedad_min": 2330558,
         "descartados_por_gancho": 0
       },
       {
@@ -90,26 +90,26 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 403",
+        "error": "HTTP 500",
         "antiguedad_min": null
       },
       {
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 150,
+        "items": 135,
         "error": null,
-        "antiguedad_min": 32,
-        "descartados_por_gancho": 4
+        "antiguedad_min": 81,
+        "descartados_por_gancho": 8
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 132,
+        "items": 127,
         "error": null,
-        "antiguedad_min": 125,
-        "descartados_por_gancho": 13
+        "antiguedad_min": 42,
+        "descartados_por_gancho": 19
       },
       {
         "medio": "ABC",
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 23,
         "error": null,
-        "antiguedad_min": 41,
+        "antiguedad_min": 45,
         "descartados_por_gancho": 2
       }
     ]
