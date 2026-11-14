@@ -2,7 +2,7 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-11-14T00:46:06+02:00",
+  "generado": "2026-11-14T04:51:18+02:00",
   "titulares": [
     {
       "titular": "74-76: Triunfo colosal de un Barça resistente en el OAKA",
@@ -14,22 +14,40 @@
       "enlace": "https://www.mundodeportivo.com/baloncesto/euroliga/20261113/1004250789/74-76-triunfo-colosal-barca-resistente-oaka.html"
     },
     {
-      "titular": "El Langui cierra una temporada inolvidable con una plata en Sao Paulo",
+      "titular": "Detenido un exentrenador nipón por presunto abuso sexual a nadadoras menores de 10 años",
       "medios": [
         "Marca"
       ],
       "consenso": 1,
-      "fecha": "2026-11-10T11:20:37+02:00",
-      "enlace": "https://www.marca.com/paralimpicos/2026/11/10/langui-cierra-temporada-inolvidable-primer-podio-copa-mundo.html"
+      "fecha": "2026-11-11T14:09:19+02:00",
+      "enlace": "https://www.marca.com/natacion/2026/11/11/detenido-exentrenador-nipon-presunto-abuso-sexual-nadadoras-menores-10-anos.html"
     },
     {
-      "titular": "El megacontrato que ofrece Al Nassr a Joao Félix para evitar su vuelta a Europa",
+      "titular": "El 'nuevo Diomande': \"Nuestra forma de jugar se parece bastante\"",
       "medios": [
         "Marca"
       ],
       "consenso": 1,
-      "fecha": "2026-11-10T11:15:25+02:00",
-      "enlace": "https://www.marca.com/futbol/liga-arabia-saudi/2026/11/10/megacontrato-ofrece-nassr-joao-felix-evitar-vuelta-europa.html"
+      "fecha": "2026-11-11T13:58:02+02:00",
+      "enlace": "https://www.marca.com/futbol/bundesliga/2026/11/11/nusa-viste-diomande-nuestra-forma-jugar-parece.html"
+    },
+    {
+      "titular": "Sekulic: \"Estoy orgulloso del equipo\"",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-14T00:25:10+02:00",
+      "enlace": "https://www.mundodeportivo.com/baloncesto/euroliga/20261113/1004250809/sekulic-orgulloso-les-dije-chicos-no-habiamos-anotado-suficientes-puntos-siguieran-confiando-hacian-buscaran-tiros-abiertos.html"
+    },
+    {
+      "titular": "España quiere aprovecharse del ciclón Fermín",
+      "medios": [
+        "Marca"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-11T13:53:06+02:00",
+      "enlace": "https://www.marca.com/futbol/seleccion/2026/11/11/espana-quiere-aprovecharse-ciclon-fermin.html"
     },
     {
       "titular": "Oficial: la RFEF impone a Owono la sanción máxima por la acción sobre Jesús de Miguel",
@@ -41,31 +59,13 @@
       "enlace": "https://www.mundodeportivo.com/futbol/liga-segunda-division/20261113/1004250779/rfef-impone-owono-sancion-maxima-accion-sobre-jesus-miguel.html"
     },
     {
-      "titular": "De Panathinaikos a Hapoel: ¿Por qué se disparan los presupuestos de la Euroliga?",
+      "titular": "La denuncia del atleta paralímpico Alberto Ávila: \"Un acosador amenaza con reventarme y asesinar a mi madre\"",
       "medios": [
         "Marca"
       ],
       "consenso": 1,
-      "fecha": "2026-11-10T11:14:09+02:00",
-      "enlace": "https://www.marca.com/sport-business/2playbook/2026/11/10/panathinaikos-hapoel-disparan-presupuestos-euroliga.html"
-    },
-    {
-      "titular": "Sugieren en Brasil ver a otros delanteros por Raphinha",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-13T11:20:19+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261113/1004250520/sugieren-brasil-ver-otros-delanteros-raphinha.html"
-    },
-    {
-      "titular": "Pedro Porro y su nuevo vino: \"Es un proyecto para mi familia, para mi mujer\"",
-      "medios": [
-        "Marca"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-10T11:09:47+02:00",
-      "enlace": "https://www.marca.com/futbol/2026/11/10/pedro-porro-nuevo-vino-proyecto-mi-familia-mi-mujer-video.html"
+      "fecha": "2026-11-11T13:47:09+02:00",
+      "enlace": "https://www.marca.com/paralimpicos/2026/11/11/denuncia-atleta-paralimpico-alberto-avila-acosador-amenaza-reventarme-asesinar-mi-madre.html"
     }
   ],
   "salud": {
@@ -75,16 +75,16 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 52,
+    "antiguedad_minima_min": 182,
     "detalle": [
       {
         "medio": "Marca",
         "url": "https://e00-marca.uecdn.es/rss/portada.xml",
         "ok": true,
-        "items": 76,
+        "items": 78,
         "error": null,
-        "antiguedad_min": 5125,
-        "descartados_por_gancho": 8
+        "antiguedad_min": 3761,
+        "descartados_por_gancho": 6
       },
       {
         "medio": "AS",
@@ -99,9 +99,9 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 139,
+        "items": 140,
         "error": null,
-        "antiguedad_min": 52,
+        "antiguedad_min": 182,
         "descartados_por_gancho": 5
       },
       {
