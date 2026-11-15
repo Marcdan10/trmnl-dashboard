@@ -1,27 +1,9 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "ultimas",
-  "generado": "2026-11-14T22:51:09+02:00",
+  "modo": "portadas",
+  "generado": "2026-11-15T02:36:49+02:00",
   "titulares": [
-    {
-      "titular": "Farmacia avanza hacia la ampliación del mapa de especialización a través de dos rutas formativas",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-14T19:51:49+02:00",
-      "enlace": "https://www.redaccionmedica.com/profesionales/farmacia/20261114/farmacia-avanza-hacia-la-ampliacion-del-mapa-de-especializacion-traves-dos-rutas-formativas/364940_0.html"
-    },
-    {
-      "titular": "Frente Amplio propone la ampliación de la cobertura dental, visual y auditiva en la sanidad pública",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-14T18:45:23+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/20261114/frente-amplio-propone-la-ampliacion-de-cobertura-dental-visual-auditiva-en-sanidad-publica/365182_0.html"
-    },
     {
       "titular": "Frente Amplio propone controlar precios de fármacos y ampliar la cartera del SNS",
       "medios": [
@@ -30,15 +12,6 @@
       "consenso": 1,
       "fecha": "2026-11-14T16:17:26+02:00",
       "enlace": "https://diariofarma.com/2026/11/14/frente-amplio-propone-controlar-precios-de-farmacos-y-ampliar-la-cartera-del-sns"
-    },
-    {
-      "titular": "La EMA avala siete fármacos inéditos y 11 nuevas indicaciones en su reunión mensual",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-14T11:58:32+02:00",
-      "enlace": "https://diariofarma.com/2026/11/14/la-ema-avala-siete-farmacos-ineditos-y-11-nuevas-indicaciones-en-su-reunion-mensual"
     },
     {
       "titular": "El valor de la Farmacia Hospitalaria",
@@ -50,6 +23,24 @@
       "enlace": "https://elglobalfarma.com/opinion/editorial/premios-bic-2026-valor-farmacia-hospitalaria/"
     },
     {
+      "titular": "Farmacia avanza hacia la ampliación del mapa de especialización a través de dos rutas formativas",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-14T19:51:49+02:00",
+      "enlace": "https://www.redaccionmedica.com/profesionales/farmacia/20261114/farmacia-avanza-hacia-la-ampliacion-del-mapa-de-especializacion-traves-dos-rutas-formativas/364940_0.html"
+    },
+    {
+      "titular": "La EMA avala siete fármacos inéditos y 11 nuevas indicaciones en su reunión mensual",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-14T11:58:32+02:00",
+      "enlace": "https://diariofarma.com/2026/11/14/la-ema-avala-siete-farmacos-ineditos-y-11-nuevas-indicaciones-en-su-reunion-mensual"
+    },
+    {
       "titular": "El CHMP recomienda la aprobación de siete medicamentos en noviembre",
       "medios": [
         "El Global"
@@ -59,13 +50,22 @@
       "enlace": "https://elglobalfarma.com/industria/chmp-recomienda-aprobacion-siete-medicamentos-noviembre/"
     },
     {
-      "titular": "El Vall d’Hebron, el hospital con más especialidades en el MIR 2027 de España: así se reparten sus 111 plazas",
+      "titular": "Alquilar quirófanos vacíos a mutuas o reconocer el A1 a Enfermería, entre las propuestas de democracia21 para el 29N",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-11-14T18:44:57+02:00",
-      "enlace": "https://www.redaccionmedica.com/formacion/mir/20261114/el-vall-dhebron-el-hospital-con-mas-especialidades-en-mir-de-espana-asi-se-reparten-sus-plazas/364512_0.html"
+      "fecha": "2026-11-14T18:43:28+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/20261114/alquilar-quirofanos-vacios-mutuas-reconocer-el-a1-enfermeria-entre-las-propuestas-de-democracia21-para/364971_0.html"
+    },
+    {
+      "titular": "El papel del farmacéutico en la UCI, clave para frenar errores graves en la medicación",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-13T15:26:28+02:00",
+      "enlace": "https://diariofarma.com/2026/11/13/el-papel-del-farmaceutico-en-la-uci-clave-para-frenar-errores-graves-en-la-medicacion"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 179,
+    "antiguedad_minima_min": 404,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 393,
+        "antiguedad_min": 619,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 1926,
+        "antiguedad_min": 2152,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 179,
+        "antiguedad_min": 404,
         "descartados_por_gancho": 0
       },
       {

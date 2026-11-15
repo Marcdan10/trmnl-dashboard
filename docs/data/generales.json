@@ -1,65 +1,9 @@
 {
   "pantalla": "generales",
   "titulo": "Titulares",
-  "modo": "ultimas",
-  "generado": "2026-11-14T22:50:58+02:00",
+  "modo": "portadas",
+  "generado": "2026-11-15T02:36:38+02:00",
   "titulares": [
-    {
-      "titular": "La Policía acordona la madrileña Puerta del Sol por una posible amenaza de bomba",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-14T22:15:38+02:00",
-      "enlace": "https://www.abc.es/espana/madrid/policia-acordona-madrilena-puerta-sol-amenaza-bomba-20261114203148-nt.html"
-    },
-    {
-      "titular": "De la Fuente: «En España no hay racismo, se lo puedes decir a Tuchel»",
-      "medios": [
-        "La Vanguardia",
-        "ABC"
-      ],
-      "consenso": 2,
-      "fecha": "2026-11-14T22:13:08+02:00",
-      "enlace": "https://www.abc.es/deportes/futbol/fuente-espana-racismo-puedes-decir-tuchel-20261114194743-nt.html"
-    },
-    {
-      "titular": "El PP cancela su ruta por Guipúzcoa después de que Jon Echeverría sea apedreado en Hernani",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-14T21:29:25+02:00",
-      "enlace": "https://www.abc.es/espana/pais-vasco/pp-cancela-ruta-campana-guipuzcoa-despues-jon-20261114140347-nt.html"
-    },
-    {
-      "titular": "España derrota a Bulgaria en una nueva exhibición de Iyana Martín",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-14T21:28:35+02:00",
-      "enlace": "https://elpais.com/deportes/baloncesto/2026-11-14/espana-derrota-a-bulgaria-en-una-nueva-exhibicion-de-iyana-martin.html"
-    },
-    {
-      "titular": "Filipinas gana Eurovisión en Asia con Carmelle",
-      "medios": [
-        "El País",
-        "La Vanguardia"
-      ],
-      "consenso": 2,
-      "fecha": "2026-11-14T20:55:38+02:00",
-      "enlace": "https://www.lavanguardia.com/television/20261114/11684341/filipinas-gana-eurovision-asia-carmelle.html"
-    },
-    {
-      "titular": "Política, globos, un barco hundido y más imágenes del día",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-14T20:27:51+02:00",
-      "enlace": "https://www.lavanguardia.com/fotos/20261114/11684369/politica-globos-barco-hundido-mas-imagenes-dia.html"
-    },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
       "medios": [
@@ -68,6 +12,60 @@
       "consenso": 1,
       "fecha": "2022-06-10T01:05:00+02:00",
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
+    },
+    {
+      "titular": "Sánchez pide “el voto europeísta” para frenar a Abascal",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-14T19:23:22+02:00",
+      "enlace": "https://elpais.com/espana/elecciones-generales/2026-11-14/sanchez-pide-el-voto-europeista-para-frenar-a-abascal.html"
+    },
+    {
+      "titular": "La Casa Blanca atribuye el caos aéreo a un sistema “obsoleto” y señala a un contratista",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-14T18:29:47+02:00",
+      "enlace": "https://www.lavanguardia.com/internacional/20261114/11684337/casa-blanca-atribuye-caos-aereo-sistema-obsoleto-contratista-estuvo-altura.html"
+    },
+    {
+      "titular": "Un menor de 12 años apuñala a otro de 14 a la salida de un instituto de Aluche al grito de «¡baja patria!»",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-15T02:20:35+02:00",
+      "enlace": "https://www.abc.es/espana/madrid/adolescente-apunala-puertas-instituto-aluche-20261114193417-nt.html"
+    },
+    {
+      "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
+      "medios": [
+        "RTVE"
+      ],
+      "consenso": 1,
+      "fecha": "2022-06-10T00:03:00+02:00",
+      "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
+    },
+    {
+      "titular": "Feijóo reclama en Galicia el impulso para llegar a La Moncloa: “Sigo siendo el mismo”",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-14T16:00:43+02:00",
+      "enlace": "https://elpais.com/espana/elecciones-generales/2026-11-14/feijoo-reclama-en-galicia-el-impulso-para-llegar-a-la-moncloa-sigo-siendo-el-mismo.html"
+    },
+    {
+      "titular": "La crisis destapa la falta de inversión y un sistema de cable de cobre de los 80",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-14T19:28:03+02:00",
+      "enlace": "https://www.lavanguardia.com/internacional/20261114/11684355/crisis-destapa-falta-inversion-sistema-cable-cobre-80.html"
     }
   ],
   "salud": {
@@ -76,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 35,
+    "antiguedad_minima_min": 16,
     "detalle": [
       {
         "medio": "RTVE",
@@ -84,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2331225,
+        "antiguedad_min": 2331451,
         "descartados_por_gancho": 0
       },
       {
@@ -101,7 +99,7 @@
         "ok": true,
         "items": 133,
         "error": null,
-        "antiguedad_min": 82,
+        "antiguedad_min": 112,
         "descartados_por_gancho": 7
       },
       {
@@ -110,8 +108,8 @@
         "ok": true,
         "items": 137,
         "error": null,
-        "antiguedad_min": 115,
-        "descartados_por_gancho": 17
+        "antiguedad_min": 91,
+        "descartados_por_gancho": 20
       },
       {
         "medio": "ABC",
@@ -119,7 +117,7 @@
         "ok": true,
         "items": 24,
         "error": null,
-        "antiguedad_min": 35,
+        "antiguedad_min": 16,
         "descartados_por_gancho": 1
       }
     ]

@@ -1,26 +1,17 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "ultimas",
-  "generado": "2026-11-14T22:51:03+02:00",
+  "modo": "portadas",
+  "generado": "2026-11-15T02:36:43+02:00",
   "titulares": [
     {
-      "titular": "El Andorra reacciona tarde ante el líder",
+      "titular": "De la Fuente zanja la polémica con Lamine: \"Está fantástico\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-14T22:23:59+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/andorra/20261114/1004251080/andorra-reacciona-tarde-lider.html"
-    },
-    {
-      "titular": "Once Ronaldos en homenaje al ídolo",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-14T22:19:51+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/uefa-nations-league/20261114/1004251077/cristiano.html"
+      "fecha": "2026-11-14T19:41:20+02:00",
+      "enlace": "https://www.mundodeportivo.com/seleccion-espanola/20261114/1004251021/fuente-zanja-polemica-lamine-fantastico-volveriamos.html"
     },
     {
       "titular": "El Langui cierra una temporada inolvidable con una plata en Sao Paulo",
@@ -32,6 +23,15 @@
       "enlace": "https://www.marca.com/paralimpicos/2026/11/10/langui-cierra-temporada-inolvidable-primer-podio-copa-mundo.html"
     },
     {
+      "titular": "De la Fuente, tajante con Tuchel: \"Decidle que en España no hay racismo\"",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-14T20:59:34+02:00",
+      "enlace": "https://www.mundodeportivo.com/seleccion-espanola/20261114/1004251050/fuente-tajante-tuchel-decidle-espana-no-hay-racismo.html"
+    },
+    {
       "titular": "El megacontrato que ofrece Al Nassr a Joao Félix para evitar su vuelta a Europa",
       "medios": [
         "Marca"
@@ -41,6 +41,24 @@
       "enlace": "https://www.marca.com/futbol/liga-arabia-saudi/2026/11/10/megacontrato-ofrece-nassr-joao-felix-evitar-vuelta-europa.html"
     },
     {
+      "titular": "0-1: El Barça Atlètic, con 23 bajas, sucumbe ante el Girona B",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-14T21:07:10+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261114/1004251012/barca-atletic.html"
+    },
+    {
+      "titular": "De Panathinaikos a Hapoel: ¿Por qué se disparan los presupuestos de la Euroliga?",
+      "medios": [
+        "Marca"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-10T11:14:09+02:00",
+      "enlace": "https://www.marca.com/sport-business/2playbook/2026/11/10/panathinaikos-hapoel-disparan-presupuestos-euroliga.html"
+    },
+    {
       "titular": "Belletti explota: \"Espero que ningún entrenador más tenga que pasar por esto\"",
       "medios": [
         "Mundo Deportivo"
@@ -48,24 +66,6 @@
       "consenso": 1,
       "fecha": "2026-11-14T22:12:43+02:00",
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261114/1004251078/belletti-explota-espero-entrenador-tenga-pasar-esto.html"
-    },
-    {
-      "titular": "Un cambio de normativa de octubre, argumento del juez para que jugase el filial",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-14T22:07:48+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261114/1004251068/cambio-normativa-octubre-argumento-juez-jugase-filial.html"
-    },
-    {
-      "titular": "0-2: El derbi es para el Sant Andreu",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-14T22:00:43+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/futbol-catala/20261114/1004251073/derbi-sant-andreu.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 27,
+    "antiguedad_minima_min": 65,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 76,
         "error": null,
-        "antiguedad_min": 6450,
+        "antiguedad_min": 6676,
         "descartados_por_gancho": 8
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 137,
+        "items": 135,
         "error": null,
-        "antiguedad_min": 27,
-        "descartados_por_gancho": 6
+        "antiguedad_min": 65,
+        "descartados_por_gancho": 5
       },
       {
         "medio": "Sport",
