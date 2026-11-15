@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-11-15T16:54:21+02:00",
+  "generado": "2026-11-15T22:05:16+02:00",
   "titulares": [
     {
-      "titular": "7-1. El Fraga arrasa al Benfica y es el primer campeón de la Copa Continental",
+      "titular": "Juan Lebrón y Leo Augsburger dan un paso al frente en el Dubai P1 y conquistan su segundo título del curso",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-15T16:24:17+02:00",
-      "enlace": "https://www.mundodeportivo.com/hockey-patines/20261115/1004251263/7-1-fraga-arrasa-benfica-primer-campeon-copa-continental.html"
+      "fecha": "2026-11-15T21:43:04+02:00",
+      "enlace": "https://www.mundodeportivo.com/padel/premier-padel/20261115/1004251360/juan-lebron-leo-augsburger-dan-paso-frente-dubai-p1-conquistan-segundo-titulo-curso.html"
     },
     {
-      "titular": "Imposible no emocionarse: Gil contiene las lágrimas al celebrar el primer gol del Tenerife sin Demi",
+      "titular": "1-1: Resaca europea y empate agónico del Barça en Riazor",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-15T16:23:05+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/tenerife/20261115/1004251264/imposible-no-emocionarse-nacho-gil-contiene-lagrimas-celebrar-primer-gol-tenerife-miguel.html"
+      "fecha": "2026-11-15T21:37:10+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261115/1004251370/1-1-resaca-europea-empate-agonico-barca-riazor.html"
     },
     {
       "titular": "El Langui cierra una temporada inolvidable con una plata en Sao Paulo",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/liga-arabia-saudi/2026/11/10/megacontrato-ofrece-nassr-joao-felix-evitar-vuelta-europa.html"
     },
     {
-      "titular": "Barcelona, preparada para la llegada de las lluvias a partir de esta fecha",
+      "titular": "Ni Ibiza ni Marbella: el refugio de Mikel Oyarzabal en el Pirineo aragonés donde regresa para desconectar",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-15T16:02:26+02:00",
-      "enlace": "https://www.mundodeportivo.com/actualidad/20261115/1004251250/meteorologos-coinciden-barcelona-preparada-llegada-lluvias-partir-fecha-meteocat-dct.html"
+      "fecha": "2026-11-15T21:36:02+02:00",
+      "enlace": "https://www.mundodeportivo.com/vaya-mundo/20261115/1004251368/ibiza-marbella-refugio-mikel-oyarzabal-pirineo-aragones-regresa-desconectar-dct.html"
     },
     {
-      "titular": "82-70. El Unicaja reacciona y remonta al FIATC Girona",
+      "titular": "2-0: Noche para olvidar del Sabadell en el Pepico Amat",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-15T15:50:22+02:00",
-      "enlace": "https://www.mundodeportivo.com/baloncesto/acb/20261115/1004251247/82-70-unicaja-reacciona-remonta-fiatc-girona.html"
+      "fecha": "2026-11-15T21:35:16+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/sabadell/20261115/1004251369/noche-olvidar-sabadell-pepico-amat.html"
     },
     {
-      "titular": "\"Ha tenido ofertas muy importantes, mejores económicamente que la del Espanyol\"",
+      "titular": "76-84: El UCAM Murcia se encomienda a Forrest para soñar con la Copa",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-15T15:42:45+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/rcd-espanyol/20261115/1004251228/tenido-ofertas-importantes-mejores-economicamente-espanyol.html"
+      "fecha": "2026-11-15T21:28:27+02:00",
+      "enlace": "https://www.mundodeportivo.com/baloncesto/acb/20261115/1004251366/76-84-murcia-encomienda-forrest-sonar-copa.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 30,
+    "antiguedad_minima_min": 22,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 76,
         "error": null,
-        "antiguedad_min": 7533,
+        "antiguedad_min": 7844,
         "descartados_por_gancho": 8
       },
       {
@@ -99,9 +99,9 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 130,
+        "items": 138,
         "error": null,
-        "antiguedad_min": 30,
+        "antiguedad_min": 22,
         "descartados_por_gancho": 5
       },
       {

@@ -2,25 +2,34 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "ultimas",
-  "generado": "2026-11-15T16:54:25+02:00",
+  "generado": "2026-11-15T22:05:22+02:00",
   "titulares": [
     {
-      "titular": "José Antonio, el profesor de Ciencias Sociales que entró en Medicina con 30 años: \"Uno nunca puede huir de lo que es\"",
+      "titular": "Santiago abre la era de la protonterapia pública: ¿cómo resolvió los desafíos técnicos para ser pionero?",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-11-15T16:13:24+02:00",
-      "enlace": "https://www.redaccionmedica.com/formacion/estudiantes/20261115/jose-antonio-el-profesor-de-ciencias-sociales-que-entro-en-medicina-con-anos-uno-nunca-puede-huir-lo-es/364981_0.html"
+      "fecha": "2026-11-15T19:25:14+02:00",
+      "enlace": "https://www.redaccionmedica.com/autonomias/galicia/20261115/santiago-abre-la-era-de-protonterapia-publica-como-resolvio-los-desafios-tecnicos-para-ser-pionero/364901_0.html"
     },
     {
-      "titular": "El peligro del 'estudio ansiolítico' en la recta final del examen MIR: \"El repaso por ansiedad es inútil\"",
+      "titular": "Los expertos piden flexibilizar los acuerdos de financiación y evaluar el proceso completo",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-15T18:26:00+02:00",
+      "enlace": "https://diariofarma.com/2026/11/15/los-expertos-piden-flexibilizar-los-acuerdos-de-financiacion-y-evaluar-el-proceso-completo"
+    },
+    {
+      "titular": "Los nuevos fármacos orales contra la obesidad amplían opciones, pero no eluden el seguimiento: \"No son más inocuos\"",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-11-15T16:12:31+02:00",
-      "enlace": "https://www.redaccionmedica.com/profesionales/20261115/el-peligro-del-estudio-ansiolitico-en-la-recta-final-examen-mir-repaso-por-ansiedad-es-inutil/364866_0.html"
+      "fecha": "2026-11-15T17:56:43+02:00",
+      "enlace": "https://www.redaccionmedica.com/profesionales/medicina/20261115/los-nuevos-farmacos-orales-contra-la-obesidad-amplian-opciones-pero-no-eluden-el-seguimiento-no-son-mas-inocuos/364704_0.html"
     },
     {
       "titular": "Frente Amplio propone controlar precios de fármacos y ampliar la cartera del SNS",
@@ -30,15 +39,6 @@
       "consenso": 1,
       "fecha": "2026-11-14T16:17:26+02:00",
       "enlace": "https://diariofarma.com/2026/11/14/frente-amplio-propone-controlar-precios-de-farmacos-y-ampliar-la-cartera-del-sns"
-    },
-    {
-      "titular": "La EMA avala siete fármacos inéditos y 11 nuevas indicaciones en su reunión mensual",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-14T11:58:32+02:00",
-      "enlace": "https://diariofarma.com/2026/11/14/la-ema-avala-siete-farmacos-ineditos-y-11-nuevas-indicaciones-en-su-reunion-mensual"
     },
     {
       "titular": "El valor de la Farmacia Hospitalaria",
@@ -59,13 +59,13 @@
       "enlace": "https://elglobalfarma.com/industria/chmp-recomienda-aprobacion-siete-medicamentos-noviembre/"
     },
     {
-      "titular": "Sánchez propone la “Unión de Amistad” para acceder a prestaciones por cuidados y amplía las ayudas para familias con menores de 8 años",
+      "titular": "Varela y su \"lucha\" por los cribados de cáncer de mama llega hasta Sanidad: \"Algo tenemos que hacer\"",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-11-15T16:09:30+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/20261115/sanchez-propone-la-union-de-amistad-para-acceder-prestaciones-por-cuidados-amplia-las-ayudas-familias-con-menores-anos/365189_0.html"
+      "fecha": "2026-11-15T17:54:17+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20261115/varela-su-lucha-por-los-cribados-de-cancer-mama-llega-hasta-sanidad-algo-tenemos-que-hacer/364992_0.html"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 40,
+    "antiguedad_minima_min": 160,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 1476,
+        "antiguedad_min": 219,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 3010,
+        "antiguedad_min": 3321,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 40,
+        "antiguedad_min": 160,
         "descartados_por_gancho": 0
       },
       {
