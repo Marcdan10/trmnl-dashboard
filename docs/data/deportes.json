@@ -2,16 +2,16 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-11-15T02:36:43+02:00",
+  "generado": "2026-11-15T09:26:05+02:00",
   "titulares": [
     {
-      "titular": "De la Fuente zanja la polémica con Lamine: \"Está fantástico\"",
+      "titular": "España recibe a Inglaterra en una 'final' por el liderato",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-14T19:41:20+02:00",
-      "enlace": "https://www.mundodeportivo.com/seleccion-espanola/20261114/1004251021/fuente-zanja-polemica-lamine-fantastico-volveriamos.html"
+      "fecha": "2026-11-15T08:00:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/seleccion-espanola/20261115/1004251093/espana-recibe-inglaterra-final-primeros.html"
     },
     {
       "titular": "El Langui cierra una temporada inolvidable con una plata en Sao Paulo",
@@ -23,13 +23,13 @@
       "enlace": "https://www.marca.com/paralimpicos/2026/11/10/langui-cierra-temporada-inolvidable-primer-podio-copa-mundo.html"
     },
     {
-      "titular": "De la Fuente, tajante con Tuchel: \"Decidle que en España no hay racismo\"",
+      "titular": "Horario y dónde ver por TV el España - Inglaterra de la UEFA Nations League",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-14T20:59:34+02:00",
-      "enlace": "https://www.mundodeportivo.com/seleccion-espanola/20261114/1004251050/fuente-tajante-tuchel-decidle-espana-no-hay-racismo.html"
+      "fecha": "2026-11-14T22:31:19+02:00",
+      "enlace": "https://www.mundodeportivo.com/horarios/futbol/20261114/1004251003/horario-canal-ver-tv-espana-inglaterra-uefa-nations-league.html"
     },
     {
       "titular": "El megacontrato que ofrece Al Nassr a Joao Félix para evitar su vuelta a Europa",
@@ -41,13 +41,13 @@
       "enlace": "https://www.marca.com/futbol/liga-arabia-saudi/2026/11/10/megacontrato-ofrece-nassr-joao-felix-evitar-vuelta-europa.html"
     },
     {
-      "titular": "0-1: El Barça Atlètic, con 23 bajas, sucumbe ante el Girona B",
+      "titular": "Pendientes de Frenkie y sus molestias en el pubis",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-14T21:07:10+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261114/1004251012/barca-atletic.html"
+      "fecha": "2026-11-15T07:00:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261115/1004251127/pendientes-frenkie-molestias-pubis.html"
     },
     {
       "titular": "De Panathinaikos a Hapoel: ¿Por qué se disparan los presupuestos de la Euroliga?",
@@ -59,13 +59,13 @@
       "enlace": "https://www.marca.com/sport-business/2playbook/2026/11/10/panathinaikos-hapoel-disparan-presupuestos-euroliga.html"
     },
     {
-      "titular": "Belletti explota: \"Espero que ningún entrenador más tenga que pasar por esto\"",
+      "titular": "Pedro Porro y su nuevo vino: \"Es un proyecto para mi familia, para mi mujer\"",
       "medios": [
-        "Mundo Deportivo"
+        "Marca"
       ],
       "consenso": 1,
-      "fecha": "2026-11-14T22:12:43+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261114/1004251078/belletti-explota-espero-entrenador-tenga-pasar-esto.html"
+      "fecha": "2026-11-10T11:09:47+02:00",
+      "enlace": "https://www.marca.com/futbol/2026/11/10/pedro-porro-nuevo-vino-proyecto-mi-familia-mi-mujer-video.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 65,
+    "antiguedad_minima_min": 26,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 76,
         "error": null,
-        "antiguedad_min": 6676,
+        "antiguedad_min": 7085,
         "descartados_por_gancho": 8
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 135,
+        "items": 130,
         "error": null,
-        "antiguedad_min": 65,
-        "descartados_por_gancho": 5
+        "antiguedad_min": 26,
+        "descartados_por_gancho": 4
       },
       {
         "medio": "Sport",

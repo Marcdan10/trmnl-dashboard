@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-11-15T02:36:38+02:00",
+  "generado": "2026-11-15T09:26:00+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -14,31 +14,31 @@
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
     },
     {
-      "titular": "Sánchez pide “el voto europeísta” para frenar a Abascal",
+      "titular": "PSOE y PP recrudecen la pelea por el primer puesto en la recta final hacia el 29-N",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-11-14T19:23:22+02:00",
-      "enlace": "https://elpais.com/espana/elecciones-generales/2026-11-14/sanchez-pide-el-voto-europeista-para-frenar-a-abascal.html"
+      "fecha": "2026-11-15T06:30:01+02:00",
+      "enlace": "https://elpais.com/espana/elecciones-generales/2026-11-15/psoe-y-pp-recrudecen-la-pelea-por-el-primer-puesto-en-la-recta-final-hacia-el-29-n.html"
     },
     {
-      "titular": "La Casa Blanca atribuye el caos aéreo a un sistema “obsoleto” y señala a un contratista",
+      "titular": "PSOE y PP se amenazan mutuamente con el escándalo, pero aún pactan en Europa",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-11-14T18:29:47+02:00",
-      "enlace": "https://www.lavanguardia.com/internacional/20261114/11684337/casa-blanca-atribuye-caos-aereo-sistema-obsoleto-contratista-estuvo-altura.html"
+      "fecha": "2026-11-15T07:00:00+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20261115/11684467/boton-rojo-boton-azul.html"
     },
     {
-      "titular": "Un menor de 12 años apuñala a otro de 14 a la salida de un instituto de Aluche al grito de «¡baja patria!»",
+      "titular": "La jubilación en el rock&roll: ¿dejarlo en lo más alto o morir con las botas puestas?",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-11-15T02:20:35+02:00",
-      "enlace": "https://www.abc.es/espana/madrid/adolescente-apunala-puertas-instituto-aluche-20261114193417-nt.html"
+      "fecha": "2026-11-15T09:10:27+02:00",
+      "enlace": "https://www.abc.es/cultura/musica/jubilacion-rock-dejarlo-alto-morir-botas-puestas-20261115012001-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -50,22 +50,22 @@
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
     },
     {
-      "titular": "Feijóo reclama en Galicia el impulso para llegar a La Moncloa: “Sigo siendo el mismo”",
+      "titular": "El PSOE gana por la izquierda lo que pierde por la derecha, según el tercer ‘tracking’ de la campaña",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-11-14T16:00:43+02:00",
-      "enlace": "https://elpais.com/espana/elecciones-generales/2026-11-14/feijoo-reclama-en-galicia-el-impulso-para-llegar-a-la-moncloa-sigo-siendo-el-mismo.html"
+      "fecha": "2026-11-15T06:30:01+02:00",
+      "enlace": "https://elpais.com/espana/elecciones-generales/2026-11-15/el-psoe-gana-por-la-izquierda-lo-que-pierde-por-la-derecha-segun-el-tercer-tracking-de-la-campana.html"
     },
     {
-      "titular": "La crisis destapa la falta de inversión y un sistema de cable de cobre de los 80",
+      "titular": "Prestar el coche a tu hijo menor de 25 años sin avisar al seguro: el error que puede costarte miles de euros",
       "medios": [
-        "La Vanguardia"
+        "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-11-14T19:28:03+02:00",
-      "enlace": "https://www.lavanguardia.com/internacional/20261114/11684355/crisis-destapa-falta-inversion-sistema-cable-cobre-80.html"
+      "fecha": "2026-11-15T08:57:12+02:00",
+      "enlace": "https://www.abc.es/economia/cuentas-corrientes/prestar-coche-hijo-menor-anos-avisar-seguro-20261109075712-nt.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 16,
+    "antiguedad_minima_min": 15,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2331451,
+        "antiguedad_min": 2331860,
         "descartados_por_gancho": 0
       },
       {
@@ -97,19 +97,19 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 133,
+        "items": 129,
         "error": null,
-        "antiguedad_min": 112,
-        "descartados_por_gancho": 7
+        "antiguedad_min": 85,
+        "descartados_por_gancho": 8
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 137,
+        "items": 130,
         "error": null,
-        "antiguedad_min": 91,
-        "descartados_por_gancho": 20
+        "antiguedad_min": 77,
+        "descartados_por_gancho": 21
       },
       {
         "medio": "ABC",
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 24,
         "error": null,
-        "antiguedad_min": 16,
+        "antiguedad_min": 15,
         "descartados_por_gancho": 1
       }
     ]
