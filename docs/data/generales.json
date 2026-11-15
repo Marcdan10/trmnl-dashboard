@@ -1,9 +1,63 @@
 {
   "pantalla": "generales",
   "titulo": "Titulares",
-  "modo": "portadas",
-  "generado": "2026-11-15T09:26:00+02:00",
+  "modo": "ultimas",
+  "generado": "2026-11-15T16:54:17+02:00",
   "titulares": [
+    {
+      "titular": "Rafa Jódar-Alexander Zverev, el partido de las ATP Finals en vivo| Zverev se lleva el primer set",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-15T16:52:45+02:00",
+      "enlace": "https://elpais.com/deportes/tenis/2026-11-15/rafa-jodar-alexander-zverev-el-partido-de-las-atp-finals-en-vivo.html"
+    },
+    {
+      "titular": "Feijóo anuncia un acto en Guipúzcoa con Jon Echeverría: «Son el ejemplo de la libertad y de un partido democrático»",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-15T16:26:48+02:00",
+      "enlace": "https://www.abc.es/espana/pais-vasco/feijoo-anuncia-acto-guipuzcoa-jon-echeverria-ejemplo-20261115134405-nt.html"
+    },
+    {
+      "titular": "Los Ohio de España: «Haber acertado quién ganará 16 veces no garantiza hacerlo la 17»",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-15T16:24:31+02:00",
+      "enlace": "https://www.abc.es/espana/ohio-espana-29n-haber-acertado-veces-aragon-20261115020056-nt.html"
+    },
+    {
+      "titular": "Abascal apela en Cornellà a la “reconquista de la identidad” en unas “elecciones existenciales”",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-15T16:22:23+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20261115/11684813/abascal-apela-cornella-reconquista-identidad-elecciones-existenciales.html"
+    },
+    {
+      "titular": "Rufián censura la “equidistancia” de Junts: “Cuando alguien está en medio hay que apartarlo”",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-15T16:21:18+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20261115/11684829/rufian-censura-equidistancia-junts-alguien-esta-medio-hay-apartarlo.html"
+    },
+    {
+      "titular": "Abascal vincula inmigración y delincuencia con datos falsos sobre la población extranjera de Cornellà",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-15T16:10:56+02:00",
+      "enlace": "https://elpais.com/espana/elecciones-generales/2026-11-15/abascal-vincula-inmigracion-y-delincuencia-con-datos-falsos-sobre-la-poblacion-extranjera-de-cornella.html"
+    },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
       "medios": [
@@ -12,60 +66,6 @@
       "consenso": 1,
       "fecha": "2022-06-10T01:05:00+02:00",
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
-    },
-    {
-      "titular": "PSOE y PP recrudecen la pelea por el primer puesto en la recta final hacia el 29-N",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-15T06:30:01+02:00",
-      "enlace": "https://elpais.com/espana/elecciones-generales/2026-11-15/psoe-y-pp-recrudecen-la-pelea-por-el-primer-puesto-en-la-recta-final-hacia-el-29-n.html"
-    },
-    {
-      "titular": "PSOE y PP se amenazan mutuamente con el escándalo, pero aún pactan en Europa",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-15T07:00:00+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20261115/11684467/boton-rojo-boton-azul.html"
-    },
-    {
-      "titular": "La jubilación en el rock&roll: ¿dejarlo en lo más alto o morir con las botas puestas?",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-15T09:10:27+02:00",
-      "enlace": "https://www.abc.es/cultura/musica/jubilacion-rock-dejarlo-alto-morir-botas-puestas-20261115012001-nt.html"
-    },
-    {
-      "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
-      "medios": [
-        "RTVE"
-      ],
-      "consenso": 1,
-      "fecha": "2022-06-10T00:03:00+02:00",
-      "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
-    },
-    {
-      "titular": "El PSOE gana por la izquierda lo que pierde por la derecha, según el tercer ‘tracking’ de la campaña",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-15T06:30:01+02:00",
-      "enlace": "https://elpais.com/espana/elecciones-generales/2026-11-15/el-psoe-gana-por-la-izquierda-lo-que-pierde-por-la-derecha-segun-el-tercer-tracking-de-la-campana.html"
-    },
-    {
-      "titular": "Prestar el coche a tu hijo menor de 25 años sin avisar al seguro: el error que puede costarte miles de euros",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-15T08:57:12+02:00",
-      "enlace": "https://www.abc.es/economia/cuentas-corrientes/prestar-coche-hijo-menor-anos-avisar-seguro-20261109075712-nt.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 15,
+    "antiguedad_minima_min": 1,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2331860,
+        "antiguedad_min": 2332309,
         "descartados_por_gancho": 0
       },
       {
@@ -97,28 +97,28 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 129,
+        "items": 135,
         "error": null,
-        "antiguedad_min": 85,
-        "descartados_por_gancho": 8
+        "antiguedad_min": 1,
+        "descartados_por_gancho": 6
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 130,
+        "items": 139,
         "error": null,
-        "antiguedad_min": 77,
-        "descartados_por_gancho": 21
+        "antiguedad_min": 31,
+        "descartados_por_gancho": 22
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 24,
+        "items": 25,
         "error": null,
-        "antiguedad_min": 15,
-        "descartados_por_gancho": 1
+        "antiguedad_min": 27,
+        "descartados_por_gancho": 0
       }
     ]
   }

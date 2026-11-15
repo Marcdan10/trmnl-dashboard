@@ -1,17 +1,26 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "portadas",
-  "generado": "2026-11-15T09:26:05+02:00",
+  "modo": "ultimas",
+  "generado": "2026-11-15T16:54:21+02:00",
   "titulares": [
     {
-      "titular": "España recibe a Inglaterra en una 'final' por el liderato",
+      "titular": "7-1. El Fraga arrasa al Benfica y es el primer campeón de la Copa Continental",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-15T08:00:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/seleccion-espanola/20261115/1004251093/espana-recibe-inglaterra-final-primeros.html"
+      "fecha": "2026-11-15T16:24:17+02:00",
+      "enlace": "https://www.mundodeportivo.com/hockey-patines/20261115/1004251263/7-1-fraga-arrasa-benfica-primer-campeon-copa-continental.html"
+    },
+    {
+      "titular": "Imposible no emocionarse: Gil contiene las lágrimas al celebrar el primer gol del Tenerife sin Demi",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-15T16:23:05+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/tenerife/20261115/1004251264/imposible-no-emocionarse-nacho-gil-contiene-lagrimas-celebrar-primer-gol-tenerife-miguel.html"
     },
     {
       "titular": "El Langui cierra una temporada inolvidable con una plata en Sao Paulo",
@@ -23,15 +32,6 @@
       "enlace": "https://www.marca.com/paralimpicos/2026/11/10/langui-cierra-temporada-inolvidable-primer-podio-copa-mundo.html"
     },
     {
-      "titular": "Horario y dónde ver por TV el España - Inglaterra de la UEFA Nations League",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-14T22:31:19+02:00",
-      "enlace": "https://www.mundodeportivo.com/horarios/futbol/20261114/1004251003/horario-canal-ver-tv-espana-inglaterra-uefa-nations-league.html"
-    },
-    {
       "titular": "El megacontrato que ofrece Al Nassr a Joao Félix para evitar su vuelta a Europa",
       "medios": [
         "Marca"
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/liga-arabia-saudi/2026/11/10/megacontrato-ofrece-nassr-joao-felix-evitar-vuelta-europa.html"
     },
     {
-      "titular": "Pendientes de Frenkie y sus molestias en el pubis",
+      "titular": "Barcelona, preparada para la llegada de las lluvias a partir de esta fecha",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-15T07:00:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261115/1004251127/pendientes-frenkie-molestias-pubis.html"
+      "fecha": "2026-11-15T16:02:26+02:00",
+      "enlace": "https://www.mundodeportivo.com/actualidad/20261115/1004251250/meteorologos-coinciden-barcelona-preparada-llegada-lluvias-partir-fecha-meteocat-dct.html"
     },
     {
-      "titular": "De Panathinaikos a Hapoel: ¿Por qué se disparan los presupuestos de la Euroliga?",
+      "titular": "82-70. El Unicaja reacciona y remonta al FIATC Girona",
       "medios": [
-        "Marca"
+        "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-10T11:14:09+02:00",
-      "enlace": "https://www.marca.com/sport-business/2playbook/2026/11/10/panathinaikos-hapoel-disparan-presupuestos-euroliga.html"
+      "fecha": "2026-11-15T15:50:22+02:00",
+      "enlace": "https://www.mundodeportivo.com/baloncesto/acb/20261115/1004251247/82-70-unicaja-reacciona-remonta-fiatc-girona.html"
     },
     {
-      "titular": "Pedro Porro y su nuevo vino: \"Es un proyecto para mi familia, para mi mujer\"",
+      "titular": "\"Ha tenido ofertas muy importantes, mejores económicamente que la del Espanyol\"",
       "medios": [
-        "Marca"
+        "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-10T11:09:47+02:00",
-      "enlace": "https://www.marca.com/futbol/2026/11/10/pedro-porro-nuevo-vino-proyecto-mi-familia-mi-mujer-video.html"
+      "fecha": "2026-11-15T15:42:45+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/rcd-espanyol/20261115/1004251228/tenido-ofertas-importantes-mejores-economicamente-espanyol.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 26,
+    "antiguedad_minima_min": 30,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 76,
         "error": null,
-        "antiguedad_min": 7085,
+        "antiguedad_min": 7533,
         "descartados_por_gancho": 8
       },
       {
@@ -101,8 +101,8 @@
         "ok": true,
         "items": 130,
         "error": null,
-        "antiguedad_min": 26,
-        "descartados_por_gancho": 4
+        "antiguedad_min": 30,
+        "descartados_por_gancho": 5
       },
       {
         "medio": "Sport",

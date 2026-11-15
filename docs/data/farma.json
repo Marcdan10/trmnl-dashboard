@@ -1,9 +1,27 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "portadas",
-  "generado": "2026-11-15T09:26:11+02:00",
+  "modo": "ultimas",
+  "generado": "2026-11-15T16:54:25+02:00",
   "titulares": [
+    {
+      "titular": "José Antonio, el profesor de Ciencias Sociales que entró en Medicina con 30 años: \"Uno nunca puede huir de lo que es\"",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-15T16:13:24+02:00",
+      "enlace": "https://www.redaccionmedica.com/formacion/estudiantes/20261115/jose-antonio-el-profesor-de-ciencias-sociales-que-entro-en-medicina-con-anos-uno-nunca-puede-huir-lo-es/364981_0.html"
+    },
+    {
+      "titular": "El peligro del 'estudio ansiolítico' en la recta final del examen MIR: \"El repaso por ansiedad es inútil\"",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-15T16:12:31+02:00",
+      "enlace": "https://www.redaccionmedica.com/profesionales/20261115/el-peligro-del-estudio-ansiolitico-en-la-recta-final-examen-mir-repaso-por-ansiedad-es-inutil/364866_0.html"
+    },
     {
       "titular": "Frente Amplio propone controlar precios de fármacos y ampliar la cartera del SNS",
       "medios": [
@@ -12,24 +30,6 @@
       "consenso": 1,
       "fecha": "2026-11-14T16:17:26+02:00",
       "enlace": "https://diariofarma.com/2026/11/14/frente-amplio-propone-controlar-precios-de-farmacos-y-ampliar-la-cartera-del-sns"
-    },
-    {
-      "titular": "El valor de la Farmacia Hospitalaria",
-      "medios": [
-        "El Global"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-13T14:44:14+02:00",
-      "enlace": "https://elglobalfarma.com/opinion/editorial/premios-bic-2026-valor-farmacia-hospitalaria/"
-    },
-    {
-      "titular": "Farmacia avanza hacia la ampliación del mapa de especialización a través de dos rutas formativas",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-14T19:51:49+02:00",
-      "enlace": "https://www.redaccionmedica.com/profesionales/farmacia/20261114/farmacia-avanza-hacia-la-ampliacion-del-mapa-de-especializacion-traves-dos-rutas-formativas/364940_0.html"
     },
     {
       "titular": "La EMA avala siete fármacos inéditos y 11 nuevas indicaciones en su reunión mensual",
@@ -41,6 +41,15 @@
       "enlace": "https://diariofarma.com/2026/11/14/la-ema-avala-siete-farmacos-ineditos-y-11-nuevas-indicaciones-en-su-reunion-mensual"
     },
     {
+      "titular": "El valor de la Farmacia Hospitalaria",
+      "medios": [
+        "El Global"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-13T14:44:14+02:00",
+      "enlace": "https://elglobalfarma.com/opinion/editorial/premios-bic-2026-valor-farmacia-hospitalaria/"
+    },
+    {
       "titular": "El CHMP recomienda la aprobación de siete medicamentos en noviembre",
       "medios": [
         "El Global"
@@ -50,22 +59,13 @@
       "enlace": "https://elglobalfarma.com/industria/chmp-recomienda-aprobacion-siete-medicamentos-noviembre/"
     },
     {
-      "titular": "Alquilar quirófanos vacíos a mutuas o reconocer el A1 a Enfermería, entre las propuestas de democracia21 para el 29N",
+      "titular": "Sánchez propone la “Unión de Amistad” para acceder a prestaciones por cuidados y amplía las ayudas para familias con menores de 8 años",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-11-14T18:43:28+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/20261114/alquilar-quirofanos-vacios-mutuas-reconocer-el-a1-enfermeria-entre-las-propuestas-de-democracia21-para/364971_0.html"
-    },
-    {
-      "titular": "El papel del farmacéutico en la UCI, clave para frenar errores graves en la medicación",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-13T15:26:28+02:00",
-      "enlace": "https://diariofarma.com/2026/11/13/el-papel-del-farmaceutico-en-la-uci-clave-para-frenar-errores-graves-en-la-medicacion"
+      "fecha": "2026-11-15T16:09:30+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/20261115/sanchez-propone-la-union-de-amistad-para-acceder-prestaciones-por-cuidados-amplia-las-ayudas-familias-con-menores-anos/365189_0.html"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 814,
+    "antiguedad_minima_min": 40,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 1028,
+        "antiguedad_min": 1476,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 2561,
+        "antiguedad_min": 3010,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 814,
+        "antiguedad_min": 40,
         "descartados_por_gancho": 0
       },
       {
