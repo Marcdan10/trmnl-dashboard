@@ -1,18 +1,9 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "ultimas",
-  "generado": "2026-11-15T22:05:22+02:00",
+  "modo": "portadas",
+  "generado": "2026-11-16T02:07:41+02:00",
   "titulares": [
-    {
-      "titular": "Santiago abre la era de la protonterapia pública: ¿cómo resolvió los desafíos técnicos para ser pionero?",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-15T19:25:14+02:00",
-      "enlace": "https://www.redaccionmedica.com/autonomias/galicia/20261115/santiago-abre-la-era-de-protonterapia-publica-como-resolvio-los-desafios-tecnicos-para-ser-pionero/364901_0.html"
-    },
     {
       "titular": "Los expertos piden flexibilizar los acuerdos de financiación y evaluar el proceso completo",
       "medios": [
@@ -21,24 +12,6 @@
       "consenso": 1,
       "fecha": "2026-11-15T18:26:00+02:00",
       "enlace": "https://diariofarma.com/2026/11/15/los-expertos-piden-flexibilizar-los-acuerdos-de-financiacion-y-evaluar-el-proceso-completo"
-    },
-    {
-      "titular": "Los nuevos fármacos orales contra la obesidad amplían opciones, pero no eluden el seguimiento: \"No son más inocuos\"",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-15T17:56:43+02:00",
-      "enlace": "https://www.redaccionmedica.com/profesionales/medicina/20261115/los-nuevos-farmacos-orales-contra-la-obesidad-amplian-opciones-pero-no-eluden-el-seguimiento-no-son-mas-inocuos/364704_0.html"
-    },
-    {
-      "titular": "Frente Amplio propone controlar precios de fármacos y ampliar la cartera del SNS",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-14T16:17:26+02:00",
-      "enlace": "https://diariofarma.com/2026/11/14/frente-amplio-propone-controlar-precios-de-farmacos-y-ampliar-la-cartera-del-sns"
     },
     {
       "titular": "El valor de la Farmacia Hospitalaria",
@@ -50,6 +23,24 @@
       "enlace": "https://elglobalfarma.com/opinion/editorial/premios-bic-2026-valor-farmacia-hospitalaria/"
     },
     {
+      "titular": "Santiago abre la era de la protonterapia pública: ¿cómo resolvió los desafíos técnicos para ser pionero?",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-15T19:25:14+02:00",
+      "enlace": "https://www.redaccionmedica.com/autonomias/galicia/20261115/santiago-abre-la-era-de-protonterapia-publica-como-resolvio-los-desafios-tecnicos-para-ser-pionero/364901_0.html"
+    },
+    {
+      "titular": "Frente Amplio propone controlar precios de fármacos y ampliar la cartera del SNS",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-14T16:17:26+02:00",
+      "enlace": "https://diariofarma.com/2026/11/14/frente-amplio-propone-controlar-precios-de-farmacos-y-ampliar-la-cartera-del-sns"
+    },
+    {
       "titular": "El CHMP recomienda la aprobación de siete medicamentos en noviembre",
       "medios": [
         "El Global"
@@ -59,13 +50,22 @@
       "enlace": "https://elglobalfarma.com/industria/chmp-recomienda-aprobacion-siete-medicamentos-noviembre/"
     },
     {
-      "titular": "Varela y su \"lucha\" por los cribados de cáncer de mama llega hasta Sanidad: \"Algo tenemos que hacer\"",
+      "titular": "La neuroprotección y neurodesarrollo del prematuro también reposa sobre la familia",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-11-15T17:54:17+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20261115/varela-su-lucha-por-los-cribados-de-cancer-mama-llega-hasta-sanidad-algo-tenemos-que-hacer/364992_0.html"
+      "fecha": "2026-11-15T09:00:00+02:00",
+      "enlace": "https://www.redaccionmedica.com/opinion/20261115/la-neuroproteccion-neurodesarrollo-del-prematuro-tambien-reposa-sobre-la-familia/365010_12.html"
+    },
+    {
+      "titular": "La EMA avala siete fármacos inéditos y 11 nuevas indicaciones en su reunión mensual",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-14T11:58:32+02:00",
+      "enlace": "https://diariofarma.com/2026/11/14/la-ema-avala-siete-farmacos-ineditos-y-11-nuevas-indicaciones-en-su-reunion-mensual"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 160,
+    "antiguedad_minima_min": 402,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 219,
+        "antiguedad_min": 461,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 3321,
+        "antiguedad_min": 3563,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 160,
+        "antiguedad_min": 402,
         "descartados_por_gancho": 0
       },
       {

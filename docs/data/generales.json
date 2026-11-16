@@ -1,64 +1,9 @@
 {
   "pantalla": "generales",
   "titulo": "Titulares",
-  "modo": "ultimas",
-  "generado": "2026-11-15T22:05:11+02:00",
+  "modo": "portadas",
+  "generado": "2026-11-16T02:07:32+02:00",
   "titulares": [
-    {
-      "titular": "España-Inglaterra, en directo, la UEFA Nations League en vivo|Inglaterra somete a España al comienzo del partido",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-15T22:01:58+02:00",
-      "enlace": "https://elpais.com/deportes/futbol/2026-11-15/espana-inglaterra-en-directo-la-uefa-nations-league-en-vivo.html"
-    },
-    {
-      "titular": "Sánchez y Chelo García Cortés para las campanadas de La Séptima o ‘La Peter’ en ‘Fuera de Control’",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-15T21:56:07+02:00",
-      "enlace": "https://elpais.com/espana/elecciones-generales/2026-11-15/sanchez-y-chelo-garcia-cortes-para-las-campanadas-de-la-septima-o-la-peter-en-fuera-de-control.html"
-    },
-    {
-      "titular": "Inicio arrollador de Inglaterra",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-15T21:55:29+02:00",
-      "enlace": "https://www.abc.es/deportes/futbol/espana-inglaterra-directo-resultado-ganador-goles-partido-20261115201802-di.html"
-    },
-    {
-      "titular": "Pedro Sánchez: «Abascal es una persona racista que habla mucho de los árabes, pero él tiene sus genes... se le ve en la cara»",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-15T21:42:39+02:00",
-      "enlace": "https://www.abc.es/gente/pedro-sanchez-abascal-persona-racista-habla-arabes-20261115183149-nt.html"
-    },
-    {
-      "titular": "Sergio Ramírez ingresa en la RAE con un homenaje a Vargas Llosa",
-      "medios": [
-        "La Vanguardia",
-        "ABC"
-      ],
-      "consenso": 2,
-      "fecha": "2026-11-15T21:30:01+02:00",
-      "enlace": "https://www.abc.es/cultura/sergio-ramirez-ingresa-rae-homenaje-vargas-llosa-20261115203000-nt.html"
-    },
-    {
-      "titular": "El Barça evita la tragedia en Riazor con un gol polémico en el 102",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-15T21:15:05+02:00",
-      "enlace": "https://www.lavanguardia.com/deportes/futbol-femenino/20261115/11684906/barca-evita-tragedia-riazor-gol-polemico-106.html"
-    },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
       "medios": [
@@ -67,6 +12,61 @@
       "consenso": 1,
       "fecha": "2022-06-10T01:05:00+02:00",
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
+    },
+    {
+      "titular": "Sergio Ramírez ingresa en la RAE con un homenaje a Vargas Llosa",
+      "medios": [
+        "La Vanguardia",
+        "ABC"
+      ],
+      "consenso": 2,
+      "fecha": "2026-11-16T01:51:37+02:00",
+      "enlace": "https://www.abc.es/cultura/sergio-ramirez-ingresa-rae-homenaje-vargas-llosa-20261115203000-nt.html"
+    },
+    {
+      "titular": "El PSOE propone destinar el 1% del PIB a vivienda social y crear una prestación estatal por crianza",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-15T21:30:47+02:00",
+      "enlace": "https://elpais.com/espana/elecciones-generales/2026-11-15/el-psoe-propone-destinar-el-1-del-pib-a-vivienda-social-y-crear-una-prestacion-estatal-por-crianza.html"
+    },
+    {
+      "titular": "La Guardia Urbana desaloja de madrugada la acampada de la plaza Catalunya",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-16T01:18:13+02:00",
+      "enlace": "https://www.lavanguardia.com/local/barcelona/20261116/11684926/policia-desaloja-madrugada-acampada-plaza-catalunya.html"
+    },
+    {
+      "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
+      "medios": [
+        "RTVE"
+      ],
+      "consenso": 1,
+      "fecha": "2022-06-10T00:03:00+02:00",
+      "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
+    },
+    {
+      "titular": "Claves | De un nuevo impuesto a los grandes empresarios a la “unión de la amistad”: el programa del PSOE para el 29-N",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-15T18:48:47+02:00",
+      "enlace": "https://elpais.com/espana/elecciones-generales/2026-11-15/claves-de-un-nuevo-impuesto-a-los-grandes-empresarios-a-la-union-de-la-amistad-el-programa-del-psoe-para-el-29-n.html"
+    },
+    {
+      "titular": "Inglaterra despluma al campeón del mundo",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-16T01:14:57+02:00",
+      "enlace": "https://www.abc.es/deportes/futbol/inglaterra-despluma-campeon-mundo-20261115225207-nt.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 3,
+    "antiguedad_minima_min": 15,
     "detalle": [
       {
         "medio": "RTVE",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2332620,
+        "antiguedad_min": 2332862,
         "descartados_por_gancho": 0
       },
       {
@@ -91,7 +91,7 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 403",
+        "error": "HTTP 500",
         "antiguedad_min": null
       },
       {
@@ -100,26 +100,26 @@
         "ok": true,
         "items": 133,
         "error": null,
-        "antiguedad_min": 3,
+        "antiguedad_min": 107,
         "descartados_por_gancho": 5
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 141,
+        "items": 138,
         "error": null,
         "antiguedad_min": 49,
-        "descartados_por_gancho": 22
+        "descartados_por_gancho": 20
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 25,
+        "items": 24,
         "error": null,
-        "antiguedad_min": 9,
-        "descartados_por_gancho": 0
+        "antiguedad_min": 15,
+        "descartados_por_gancho": 1
       }
     ]
   }
