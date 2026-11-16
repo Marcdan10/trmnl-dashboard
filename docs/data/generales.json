@@ -1,9 +1,65 @@
 {
   "pantalla": "generales",
   "titulo": "Titulares",
-  "modo": "portadas",
-  "generado": "2026-11-16T08:58:40+02:00",
+  "modo": "ultimas",
+  "generado": "2026-11-16T18:50:51+02:00",
   "titulares": [
+    {
+      "titular": "Ceuta, Canarias... El efecto llamada que vuelve a colapsar las costas españolas",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-16T18:43:40+02:00",
+      "enlace": "https://www.abc.es/espana/ceuta-canarias-efecto-llamada-vuelva-colapsar-costas-20261116132639-nt.html"
+    },
+    {
+      "titular": "Condenados el actor Luis Lorenzo y su expareja a 5 y 9 años de cárcel por detención ilegal y trato denigrante contra la tía de ella",
+      "medios": [
+        "El País",
+        "ABC"
+      ],
+      "consenso": 2,
+      "fecha": "2026-11-16T18:42:19+02:00",
+      "enlace": "https://www.abc.es/gente/condenados-luis-lorenzo-expareja-anos-carcel-delitos-20261116142025-nt.html"
+    },
+    {
+      "titular": "Señalan la fecha para el nuevo juicio contra Lindsay Clancy, la mujer acusada de matar a sus tres hijos en EE.UU.",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-16T18:35:25+02:00",
+      "enlace": "https://www.abc.es/internacional/senalan-fecha-nuevo-juicio-lindsay-clancy-mujer-20261116165153-nt.html"
+    },
+    {
+      "titular": "'El Ruso' no viajaba en los trenes de Rodalies que han registrado Mossos y Guardia Civil",
+      "medios": [
+        "La Vanguardia",
+        "ABC"
+      ],
+      "consenso": 2,
+      "fecha": "2026-11-16T18:20:15+02:00",
+      "enlace": "https://www.abc.es/espana/cataluna/despliegue-policial-ante-posible-avistamiento-ruso-barcelona-20261116131115-nt.html"
+    },
+    {
+      "titular": "El Gobierno británico investigará los comentarios “atroces” de Russell Brand desde prisión, en los que niega su culpabilidad",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-16T18:15:39+02:00",
+      "enlace": "https://elpais.com/gente/2026-11-16/el-gobierno-britanico-investigara-los-comentarios-atroces-de-russell-brand-desde-prision-en-los-que-niega-su-culpabilidad.html"
+    },
+    {
+      "titular": "Las ciudades turísticas reivindican su papel de motor cultural",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-16T18:10:19+02:00",
+      "enlace": "https://www.lavanguardia.com/local/barcelona/20261116/11685616/ciudades-turisticas-reivindican-papel-motor-cultural.html"
+    },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
       "medios": [
@@ -12,62 +68,6 @@
       "consenso": 1,
       "fecha": "2022-06-10T01:05:00+02:00",
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
-    },
-    {
-      "titular": "El PSOE remonta pero no altera la mayoría de la derecha",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-16T06:30:01+02:00",
-      "enlace": "https://elpais.com/espana/elecciones-generales/2026-11-16/el-psoe-remonta-pero-no-altera-la-mayoria-de-la-derecha.html"
-    },
-    {
-      "titular": "El criterio de la Seguridad Social para cobrar dos pensiones de jubilación activa",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-16T08:48:11+02:00",
-      "enlace": "https://www.abc.es/economia/cuentas-corrientes/truco-seguridad-social-cobrar-dos-pensiones-jubilacion-20261113091940-nt.html"
-    },
-    {
-      "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
-      "medios": [
-        "RTVE"
-      ],
-      "consenso": 1,
-      "fecha": "2022-06-10T00:03:00+02:00",
-      "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
-    },
-    {
-      "titular": "Mossos y Guardia Urbana desalojan de madrugada la acampada de la plaza de Cataluña de Barcelona",
-      "medios": [
-        "El País",
-        "La Vanguardia",
-        "ABC"
-      ],
-      "consenso": 3,
-      "fecha": "2026-11-16T07:54:05+02:00",
-      "enlace": "https://www.abc.es/espana/cataluna/mossos-guardia-urbana-desalojan-madrugada-acampada-vivienda-20261116065404-nt.html"
-    },
-    {
-      "titular": "Así fue el desalojo de la plaza Catalunya",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-16T02:12:56+02:00",
-      "enlace": "https://www.lavanguardia.com/local/barcelona/20261116/11684942/asi-desalojo-plaza-catalunya.html"
-    },
-    {
-      "titular": "Mejores hipotecas para funcionarios en noviembre de 2026: el tipo y lo que pide cada banco",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-16T08:31:29+02:00",
-      "enlace": "https://www.abc.es/economia/guia-financiera/mejores-hipotecas-para-funcionarios-e-interinos-20261007060011-nt.html"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 10,
+    "antiguedad_minima_min": 7,
     "detalle": [
       {
         "medio": "RTVE",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2333273,
+        "antiguedad_min": 2333865,
         "descartados_por_gancho": 0
       },
       {
@@ -92,35 +92,35 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 500",
+        "error": "HTTP 403",
         "antiguedad_min": null
       },
       {
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 135,
+        "items": 84,
         "error": null,
-        "antiguedad_min": 48,
-        "descartados_por_gancho": 7
+        "antiguedad_min": 35,
+        "descartados_por_gancho": 5
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 134,
+        "items": 129,
         "error": null,
-        "antiguedad_min": 123,
-        "descartados_por_gancho": 18
+        "antiguedad_min": 40,
+        "descartados_por_gancho": 14
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 25,
+        "items": 24,
         "error": null,
-        "antiguedad_min": 10,
-        "descartados_por_gancho": 0
+        "antiguedad_min": 7,
+        "descartados_por_gancho": 1
       }
     ]
   }
