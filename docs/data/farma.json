@@ -2,7 +2,7 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "portadas",
-  "generado": "2026-11-17T02:36:37+02:00",
+  "generado": "2026-11-17T10:44:01+02:00",
   "titulares": [
     {
       "titular": "29N: Diariofarma lanza un comparador de los programas sanitarios de los partidos",
@@ -14,13 +14,13 @@
       "enlace": "https://diariofarma.com/2026/11/16/29n-diariofarma-lanza-un-comparador-de-los-programas-sanitarios-de-los-partidos"
     },
     {
-      "titular": "Elecciones 29-N: El PSOE apuesta por los fármacos innovadores y genéricos en su programa electoral",
+      "titular": "Así ha avanzado la agenda normativa del sector farmacéutico durante esta legislatura: tres hitos y una Estrategia",
       "medios": [
         "El Global"
       ],
       "consenso": 1,
-      "fecha": "2026-11-16T19:05:17+02:00",
-      "enlace": "https://elglobalfarma.com/politica/psoe-farmacos-estrategicos-genericos-biosimilares-elecciones/"
+      "fecha": "2026-11-17T10:40:47+02:00",
+      "enlace": "https://elglobalfarma.com/industria/agenda-normativa-sector-farmaceutico-legislatura/"
     },
     {
       "titular": "Garamendi: \"La sanidad privada es uno de los motores de la innovación en España\"",
@@ -41,13 +41,13 @@
       "enlace": "https://diariofarma.com/2026/11/16/vox-plantea-restringir-la-asistencia-a-extranjeros-irregulares-y-reforzar-el-sns"
     },
     {
-      "titular": "El porqué de las siete grandes peticiones de la Farmacia a los políticos de cara a las elecciones del 29-N",
+      "titular": "Hartmann presenta el nuevo Veroval Fusion, el tensiómetro de brazo sin cables para una medición más cómoda, rápida y precisa",
       "medios": [
         "El Global"
       ],
       "consenso": 1,
-      "fecha": "2026-11-16T18:42:16+02:00",
-      "enlace": "https://elglobalfarma.com/farmacia/porque-grandes-peticiones-farmacia-politicos/"
+      "fecha": "2026-11-17T10:12:24+02:00",
+      "enlace": "https://elglobalfarma.com/farmacia/autocuidado/hartmann-veroval-fusion-tensiometro-brazo-cables-medicion-comoda-rapida-precisa/"
     },
     {
       "titular": "Matute: \"Poner recursos públicos y privados al servicio de la salud no es privatizar, es eficiencia\"",
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 122,
+    "antiguedad_minima_min": 3,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 122,
+        "antiguedad_min": 609,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 451,
+        "antiguedad_min": 3,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 248,
+        "antiguedad_min": 278,
         "descartados_por_gancho": 0
       },
       {
