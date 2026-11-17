@@ -1,65 +1,9 @@
 {
   "pantalla": "generales",
   "titulo": "Titulares",
-  "modo": "ultimas",
-  "generado": "2026-11-16T18:50:51+02:00",
+  "modo": "portadas",
+  "generado": "2026-11-17T02:36:26+02:00",
   "titulares": [
-    {
-      "titular": "Ceuta, Canarias... El efecto llamada que vuelve a colapsar las costas españolas",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-16T18:43:40+02:00",
-      "enlace": "https://www.abc.es/espana/ceuta-canarias-efecto-llamada-vuelva-colapsar-costas-20261116132639-nt.html"
-    },
-    {
-      "titular": "Condenados el actor Luis Lorenzo y su expareja a 5 y 9 años de cárcel por detención ilegal y trato denigrante contra la tía de ella",
-      "medios": [
-        "El País",
-        "ABC"
-      ],
-      "consenso": 2,
-      "fecha": "2026-11-16T18:42:19+02:00",
-      "enlace": "https://www.abc.es/gente/condenados-luis-lorenzo-expareja-anos-carcel-delitos-20261116142025-nt.html"
-    },
-    {
-      "titular": "Señalan la fecha para el nuevo juicio contra Lindsay Clancy, la mujer acusada de matar a sus tres hijos en EE.UU.",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-16T18:35:25+02:00",
-      "enlace": "https://www.abc.es/internacional/senalan-fecha-nuevo-juicio-lindsay-clancy-mujer-20261116165153-nt.html"
-    },
-    {
-      "titular": "'El Ruso' no viajaba en los trenes de Rodalies que han registrado Mossos y Guardia Civil",
-      "medios": [
-        "La Vanguardia",
-        "ABC"
-      ],
-      "consenso": 2,
-      "fecha": "2026-11-16T18:20:15+02:00",
-      "enlace": "https://www.abc.es/espana/cataluna/despliegue-policial-ante-posible-avistamiento-ruso-barcelona-20261116131115-nt.html"
-    },
-    {
-      "titular": "El Gobierno británico investigará los comentarios “atroces” de Russell Brand desde prisión, en los que niega su culpabilidad",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-16T18:15:39+02:00",
-      "enlace": "https://elpais.com/gente/2026-11-16/el-gobierno-britanico-investigara-los-comentarios-atroces-de-russell-brand-desde-prision-en-los-que-niega-su-culpabilidad.html"
-    },
-    {
-      "titular": "Las ciudades turísticas reivindican su papel de motor cultural",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-16T18:10:19+02:00",
-      "enlace": "https://www.lavanguardia.com/local/barcelona/20261116/11685616/ciudades-turisticas-reivindican-papel-motor-cultural.html"
-    },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
       "medios": [
@@ -68,6 +12,62 @@
       "consenso": 1,
       "fecha": "2022-06-10T01:05:00+02:00",
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
+    },
+    {
+      "titular": "Una soltera carga duramente contra Pedro Sánchez y provoca un tenso momento en su cita: «Es un sinvergüenza»",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-17T02:21:54+02:00",
+      "enlace": "https://www.abc.es/play/television/noticias/soltera-carga-duramente-pedro-sanchez-provoca-tenso-20261116213541-nt.html"
+    },
+    {
+      "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
+      "medios": [
+        "RTVE"
+      ],
+      "consenso": 1,
+      "fecha": "2022-06-10T00:03:00+02:00",
+      "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
+    },
+    {
+      "titular": "Frente Amplio busca desmarcarse del PSOE con un programa que blinda la vivienda y estimula la redistribución de la riqueza",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-16T21:02:13+02:00",
+      "enlace": "https://elpais.com/espana/elecciones-generales/2026-11-16/frente-amplio-busca-desmarcarse-del-psoe-con-un-programa-que-blinda-la-vivienda-y-estimula-la-redistribucion-de-la-riqueza.html"
+    },
+    {
+      "titular": "Trump avala que Huang vuelva al mando de Nvidia, pese a su relación con una espía china",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-16T17:57:31+02:00",
+      "enlace": "https://www.lavanguardia.com/economia/20261116/11685735/trump-avala-huang-vuelva-mando-nvidia-pese-relacion-espia-china.html"
+    },
+    {
+      "titular": "¿Se puede sacar dinero de una cuenta antes de que muera el titular para evitar a Hacienda?",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-17T02:18:49+02:00",
+      "enlace": "https://www.abc.es/economia/cuentas-corrientes/puede-sacar-dinero-cuenta-muera-titular-evitar-20261116011756-nt.html"
+    },
+    {
+      "titular": "Isak Andic nunca consultó al notario sobre desheredar a Jonathan",
+      "medios": [
+        "El País",
+        "La Vanguardia",
+        "ABC"
+      ],
+      "consenso": 3,
+      "fecha": "2026-11-16T22:25:14+02:00",
+      "enlace": "https://www.abc.es/espana/cataluna/isak-andic-nunca-consulto-notario-sobre-desheredar-20261116142625-nt.html"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 7,
+    "antiguedad_minima_min": 14,
     "detalle": [
       {
         "medio": "RTVE",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2333865,
+        "antiguedad_min": 2334331,
         "descartados_por_gancho": 0
       },
       {
@@ -92,35 +92,35 @@
         "url": "https://efe.com/feed/",
         "ok": false,
         "items": 0,
-        "error": "HTTP 403",
+        "error": "HTTP 500",
         "antiguedad_min": null
       },
       {
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 84,
+        "items": 148,
         "error": null,
-        "antiguedad_min": 35,
+        "antiguedad_min": 78,
         "descartados_por_gancho": 5
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 129,
+        "items": 135,
         "error": null,
-        "antiguedad_min": 40,
-        "descartados_por_gancho": 14
+        "antiguedad_min": 52,
+        "descartados_por_gancho": 11
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 24,
+        "items": 23,
         "error": null,
-        "antiguedad_min": 7,
-        "descartados_por_gancho": 1
+        "antiguedad_min": 14,
+        "descartados_por_gancho": 2
       }
     ]
   }
