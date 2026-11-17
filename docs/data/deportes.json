@@ -1,17 +1,26 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "portadas",
-  "generado": "2026-11-17T10:43:55+02:00",
+  "modo": "ultimas",
+  "generado": "2026-11-17T20:01:57+02:00",
   "titulares": [
     {
-      "titular": "Estalla el 'caso Cikusa': se rompe el sueño de los dos hermanos en el Barça",
+      "titular": "LaLiga aclara que la sentencia del Tribunal Supremo no afecta al proyecto Impulso con CVC",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-17T08:05:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/balonmano/20261117/1004251809/hay-caso-cikusa-rompe-sueno-dos-hermanos-barca.html"
+      "fecha": "2026-11-17T19:50:44+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/20261117/1004252274/laliga-aclara-sentencia-tribunal-supremo-no-afecta-proyecto-impulso-cvc.html"
+    },
+    {
+      "titular": "La candidatura de Diallo a la FIFA coge carrerilla a un día de expirar el plazo",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-17T19:43:59+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/20261117/1004252263/diallo.html"
     },
     {
       "titular": "Detenido un exentrenador nipón por presunto abuso sexual a nadadoras menores de 10 años",
@@ -23,15 +32,6 @@
       "enlace": "https://www.marca.com/natacion/2026/11/11/detenido-exentrenador-nipon-presunto-abuso-sexual-nadadoras-menores-10-anos.html"
     },
     {
-      "titular": "Bombazo del Barça, que ficha a Killian Hayes: en EE.UU. lo dan por hecho",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-17T07:29:30+02:00",
-      "enlace": "https://www.mundodeportivo.com/baloncesto/nba/20261117/1004251935/bombazo-barca-ficha-killian-hayes-ee-uu-dan-hecho.html"
-    },
-    {
       "titular": "El 'nuevo Diomande': \"Nuestra forma de jugar se parece bastante\"",
       "medios": [
         "Marca"
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/bundesliga/2026/11/11/nusa-viste-diomande-nuestra-forma-jugar-parece.html"
     },
     {
-      "titular": "España quiere aprovecharse del ciclón Fermín",
-      "medios": [
-        "Marca"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-11T13:53:06+02:00",
-      "enlace": "https://www.marca.com/futbol/seleccion/2026/11/11/espana-quiere-aprovecharse-ciclon-fermin.html"
-    },
-    {
-      "titular": "Lamine Yamal siempre tira del carro",
+      "titular": "\"Lloré mucho esa noche, fue top-3 peores momentos de mi vida\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-17T08:00:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261117/1004251773/lamine-yamal-tira-carro.html"
+      "fecha": "2026-11-17T19:43:46+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261117/1004252242/vicky-lopez-sobre-no-jugar-final-champions-2025.html"
     },
     {
-      "titular": "La denuncia del atleta paralímpico Alberto Ávila: \"Un acosador amenaza con reventarme y asesinar a mi madre\"",
+      "titular": "Míriam Nogueras (Junts): \"Mi padre murió cuando yo estaba embarazada de 7 meses de mi primer hijo. Se acababa de jubilar\"",
       "medios": [
-        "Marca"
+        "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-11T13:47:09+02:00",
-      "enlace": "https://www.marca.com/paralimpicos/2026/11/11/denuncia-atleta-paralimpico-alberto-avila-acosador-amenaza-reventarme-asesinar-mi-madre.html"
+      "fecha": "2026-11-17T19:43:26+02:00",
+      "enlace": "https://www.mundodeportivo.com/actualidad/20261117/1004252270/miriam-nogueras-candidata-junts-mi-padre-murio-embarazada-7-meses-mi-primer-hijo-jubilo-cabo-poco-murio-rompio-todos-mi-hay-dct.html"
+    },
+    {
+      "titular": "¿Ducati en el próximo Dakar 2027?",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-17T19:41:52+02:00",
+      "enlace": "https://www.mundodeportivo.com/solomoto/20261117/1004246309/ducati-proximo-dakar-2027.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 22,
+    "antiguedad_minima_min": 11,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 78,
         "error": null,
-        "antiguedad_min": 8434,
+        "antiguedad_min": 8992,
         "descartados_por_gancho": 6
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 127,
+        "items": 130,
         "error": null,
-        "antiguedad_min": 22,
-        "descartados_por_gancho": 8
+        "antiguedad_min": 11,
+        "descartados_por_gancho": 7
       },
       {
         "medio": "Sport",
