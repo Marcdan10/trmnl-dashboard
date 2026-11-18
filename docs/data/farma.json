@@ -1,18 +1,9 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "ultimas",
-  "generado": "2026-11-17T20:02:03+02:00",
+  "modo": "portadas",
+  "generado": "2026-11-18T03:05:48+02:00",
   "titulares": [
-    {
-      "titular": "La unidad móvil del Cofrm alcanza en Cartagena el ecuador de su recorrido",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-17T19:42:17+02:00",
-      "enlace": "https://diariofarma.com/2026/11/17/la-unidad-movil-del-cofrm-alcanza-en-cartagena-el-ecuador-de-su-recorrido"
-    },
     {
       "titular": "Sanidad abre una consulta pública para regular la información que recibirá el Nodo SNSFarma",
       "medios": [
@@ -24,22 +15,22 @@
       "enlace": "https://elglobalfarma.com/politica/sanidad-abre-consulta-publica-regular-informacion-nodo-snsfarma/"
     },
     {
-      "titular": "El nuevo presidente de los estudiantes de Medicina: \"El Grado debe adaptarse a la realidad del hospital\"",
+      "titular": "RedETS adapta sus métodos al nuevo marco de evaluación de tecnologías sanitarias",
       "medios": [
-        "Redacción Médica"
+        "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-11-17T19:07:04+02:00",
-      "enlace": "https://www.redaccionmedica.com/formacion/estudiantes/20261117/el-nuevo-presidente-de-los-estudiantes-medicina-grado-debe-adaptarse-la-realidad-del-hospital/365648_0.html"
+      "fecha": "2026-11-17T21:53:31+02:00",
+      "enlace": "https://diariofarma.com/2026/11/17/redets-adapta-sus-metodos-al-nuevo-marco-de-evaluacion-de-tecnologias-sanitarias"
     },
     {
-      "titular": "Medicina de precisión y cirugía robótica, la llave de bóveda que aspira a plantar cara al cáncer de pulmón",
+      "titular": "Javier Murillo: \"He dedicado mi vida al seguro de salud, que esconde valores profundos de confianza y protección para las personas\"",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-11-17T18:45:19+02:00",
-      "enlace": "https://www.redaccionmedica.com/innovacion/20261117/medicina-de-precision-cirugia-robotica-la-llave-boveda-que-aspira-plantar-cara-al-cancer-pulmon/365637_0.html"
+      "fecha": "2026-11-17T17:07:04+02:00",
+      "enlace": "https://www.redaccionmedica.com/empresas/sanidad-privada/20261117/javier-murillo-he-dedicado-mi-vida-al-seguro-de-salud-que-esconde-valores-profundos-confianza-proteccion-para-las-personas/365493_0.html"
     },
     {
       "titular": "Convenio de Farmacia: el 1,5% que separa a patronal y sindicatos en la negociación salarial",
@@ -51,6 +42,15 @@
       "enlace": "https://elglobalfarma.com/farmacia/convenio-farmacia-patronal-sindicatos-negociacion-salarial/"
     },
     {
+      "titular": "Los protagonistas del Sector Privado de la Sanidad, en la galería de imágenes de los I Premios Minerva",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-17T17:06:47+02:00",
+      "enlace": "https://www.redaccionmedica.com/empresas/sanidad-privada/20261117/los-protagonistas-del-sector-privado-de-la-sanidad-en-galeria-imagenes-los-premios-minerva/365286_3.html"
+    },
+    {
       "titular": "FIR 2027: guía para subsanar errores en las listas de admitidos de Sanidad",
       "medios": [
         "El Global"
@@ -60,13 +60,13 @@
       "enlace": "https://elglobalfarma.com/farmacia/fir-2027-guia-subsanar-errores-listas-admitidos/"
     },
     {
-      "titular": "La Ifpma insta a los aspirantes a la OMS a revisar su papel en precios y patentes",
+      "titular": "Nace ‘FollowER’ para ordenar el paso de pediatría a adultos en enfermedades raras",
       "medios": [
         "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-11-17T19:11:12+02:00",
-      "enlace": "https://diariofarma.com/2026/11/17/la-ifpma-insta-a-los-aspirantes-a-la-oms-a-revisar-su-papel-en-precios-y-patentes"
+      "fecha": "2026-11-17T20:04:39+02:00",
+      "enlace": "https://diariofarma.com/2026/11/17/nace-follower-para-ordenar-el-paso-de-pediatria-a-adultos-en-enfermedades-raras-dentro-del-sns"
     }
   ],
   "salud": {
@@ -77,7 +77,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 19,
+    "antiguedad_minima_min": 312,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -85,7 +85,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 19,
+        "antiguedad_min": 312,
         "descartados_por_gancho": 0
       },
       {
@@ -94,7 +94,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 38,
+        "antiguedad_min": 461,
         "descartados_por_gancho": 0
       },
       {
@@ -103,7 +103,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 54,
+        "antiguedad_min": 478,
         "descartados_por_gancho": 0
       },
       {

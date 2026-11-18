@@ -1,26 +1,17 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "ultimas",
-  "generado": "2026-11-17T20:01:57+02:00",
+  "modo": "portadas",
+  "generado": "2026-11-18T03:05:44+02:00",
   "titulares": [
     {
-      "titular": "LaLiga aclara que la sentencia del Tribunal Supremo no afecta al proyecto Impulso con CVC",
+      "titular": "La NFL, a por el Spotify Camp Nou",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-17T19:50:44+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/20261117/1004252274/laliga-aclara-sentencia-tribunal-supremo-no-afecta-proyecto-impulso-cvc.html"
-    },
-    {
-      "titular": "La candidatura de Diallo a la FIFA coge carrerilla a un día de expirar el plazo",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-17T19:43:59+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/20261117/1004252263/diallo.html"
+      "fecha": "2026-11-18T01:02:19+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261118/1004252312/nfl-spotify-camp-nou.html"
     },
     {
       "titular": "Detenido un exentrenador nipón por presunto abuso sexual a nadadoras menores de 10 años",
@@ -32,6 +23,15 @@
       "enlace": "https://www.marca.com/natacion/2026/11/11/detenido-exentrenador-nipon-presunto-abuso-sexual-nadadoras-menores-10-anos.html"
     },
     {
+      "titular": "86-89: Hifi corta la racha de victorias del Barça",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-17T23:55:40+02:00",
+      "enlace": "https://www.mundodeportivo.com/baloncesto/euroliga/20261117/1004252346/xx.html"
+    },
+    {
       "titular": "El 'nuevo Diomande': \"Nuestra forma de jugar se parece bastante\"",
       "medios": [
         "Marca"
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/bundesliga/2026/11/11/nusa-viste-diomande-nuestra-forma-jugar-parece.html"
     },
     {
-      "titular": "\"Lloré mucho esa noche, fue top-3 peores momentos de mi vida\"",
+      "titular": "Los detalles de la visita de Mendes a Barcelona: despachó con Lamine y trató el futuro de Balde",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-17T19:43:46+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261117/1004252242/vicky-lopez-sobre-no-jugar-final-champions-2025.html"
+      "fecha": "2026-11-17T20:40:34+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261117/1004252294/jorge-mendes-despacho-lamine-yamal-hablo-balde-futuro.html"
     },
     {
-      "titular": "Míriam Nogueras (Junts): \"Mi padre murió cuando yo estaba embarazada de 7 meses de mi primer hijo. Se acababa de jubilar\"",
+      "titular": "España quiere aprovecharse del ciclón Fermín",
       "medios": [
-        "Mundo Deportivo"
+        "Marca"
       ],
       "consenso": 1,
-      "fecha": "2026-11-17T19:43:26+02:00",
-      "enlace": "https://www.mundodeportivo.com/actualidad/20261117/1004252270/miriam-nogueras-candidata-junts-mi-padre-murio-embarazada-7-meses-mi-primer-hijo-jubilo-cabo-poco-murio-rompio-todos-mi-hay-dct.html"
+      "fecha": "2026-11-11T13:53:06+02:00",
+      "enlace": "https://www.marca.com/futbol/seleccion/2026/11/11/espana-quiere-aprovecharse-ciclon-fermin.html"
     },
     {
-      "titular": "¿Ducati en el próximo Dakar 2027?",
+      "titular": "Sorteo temible para España: todas las selecciones clasificadas para cuartos y las que ascienden",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-17T19:41:52+02:00",
-      "enlace": "https://www.mundodeportivo.com/solomoto/20261117/1004246309/ducati-proximo-dakar-2027.html"
+      "fecha": "2026-11-18T00:02:25+02:00",
+      "enlace": "https://www.mundodeportivo.com/seleccion-espanola/20261117/1004252364/sorteo-temible-espana-todas-selecciones-clasificadas-cuartos-ascienden.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 11,
+    "antiguedad_minima_min": 105,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 78,
         "error": null,
-        "antiguedad_min": 8992,
+        "antiguedad_min": 9416,
         "descartados_por_gancho": 6
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 130,
+        "items": 133,
         "error": null,
-        "antiguedad_min": 11,
-        "descartados_por_gancho": 7
+        "antiguedad_min": 105,
+        "descartados_por_gancho": 6
       },
       {
         "medio": "Sport",
