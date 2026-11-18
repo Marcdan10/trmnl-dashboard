@@ -2,8 +2,35 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "portadas",
-  "generado": "2026-11-18T03:05:48+02:00",
+  "generado": "2026-11-18T10:47:00+02:00",
   "titulares": [
+    {
+      "titular": "RedETS adapta sus métodos al nuevo marco de evaluación de tecnologías sanitarias",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-17T21:53:31+02:00",
+      "enlace": "https://diariofarma.com/2026/11/17/redets-adapta-sus-metodos-al-nuevo-marco-de-evaluacion-de-tecnologias-sanitarias"
+    },
+    {
+      "titular": "El momento de vender tu farmacia: las conversaciones que ya están teniendo quienes piensan hacerlo en los próximos años",
+      "medios": [
+        "El Global"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-18T10:13:27+02:00",
+      "enlace": "https://elglobalfarma.com/farmacia/farmaconsulting-vender-farmacia-conversaciones/"
+    },
+    {
+      "titular": "El perfil sociosanitario lidera las listas de Frente Amplio en su defensa de la sanidad pública",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-18T06:00:00+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/20261118/el-perfil-sociosanitario-lidera-las-listas-de-frente-amplio-en-su-defensa-la-sanidad-publica/365656_0.html"
+    },
     {
       "titular": "Sanidad abre una consulta pública para regular la información que recibirá el Nodo SNSFarma",
       "medios": [
@@ -15,22 +42,13 @@
       "enlace": "https://elglobalfarma.com/politica/sanidad-abre-consulta-publica-regular-informacion-nodo-snsfarma/"
     },
     {
-      "titular": "RedETS adapta sus métodos al nuevo marco de evaluación de tecnologías sanitarias",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-17T21:53:31+02:00",
-      "enlace": "https://diariofarma.com/2026/11/17/redets-adapta-sus-metodos-al-nuevo-marco-de-evaluacion-de-tecnologias-sanitarias"
-    },
-    {
-      "titular": "Javier Murillo: \"He dedicado mi vida al seguro de salud, que esconde valores profundos de confianza y protección para las personas\"",
+      "titular": "Cuando acertar no es suficiente",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-11-17T17:07:04+02:00",
-      "enlace": "https://www.redaccionmedica.com/empresas/sanidad-privada/20261117/javier-murillo-he-dedicado-mi-vida-al-seguro-de-salud-que-esconde-valores-profundos-confianza-proteccion-para-las-personas/365493_0.html"
+      "fecha": "2026-11-18T06:05:00+02:00",
+      "enlace": "https://www.redaccionmedica.com/opinion/20261118/cuando-acertar-no-es-suficiente/365274_12.html"
     },
     {
       "titular": "Convenio de Farmacia: el 1,5% que separa a patronal y sindicatos en la negociación salarial",
@@ -40,24 +58,6 @@
       "consenso": 1,
       "fecha": "2026-11-17T17:29:21+02:00",
       "enlace": "https://elglobalfarma.com/farmacia/convenio-farmacia-patronal-sindicatos-negociacion-salarial/"
-    },
-    {
-      "titular": "Los protagonistas del Sector Privado de la Sanidad, en la galería de imágenes de los I Premios Minerva",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-17T17:06:47+02:00",
-      "enlace": "https://www.redaccionmedica.com/empresas/sanidad-privada/20261117/los-protagonistas-del-sector-privado-de-la-sanidad-en-galeria-imagenes-los-premios-minerva/365286_3.html"
-    },
-    {
-      "titular": "FIR 2027: guía para subsanar errores en las listas de admitidos de Sanidad",
-      "medios": [
-        "El Global"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-17T14:18:32+02:00",
-      "enlace": "https://elglobalfarma.com/farmacia/fir-2027-guia-subsanar-errores-listas-admitidos/"
     },
     {
       "titular": "Nace ‘FollowER’ para ordenar el paso de pediatría a adultos en enfermedades raras",
@@ -77,7 +77,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 312,
+    "antiguedad_minima_min": 32,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -85,7 +85,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 312,
+        "antiguedad_min": 773,
         "descartados_por_gancho": 0
       },
       {
@@ -94,7 +94,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 461,
+        "antiguedad_min": 33,
         "descartados_por_gancho": 0
       },
       {
@@ -103,7 +103,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 478,
+        "antiguedad_min": 32,
         "descartados_por_gancho": 0
       },
       {
