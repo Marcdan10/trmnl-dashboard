@@ -1,26 +1,17 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "ultimas",
-  "generado": "2026-11-19T16:38:42+02:00",
+  "modo": "portadas",
+  "generado": "2026-11-20T00:32:02+02:00",
   "titulares": [
     {
-      "titular": "Duro revés para el Unicaja: Pantzar, fuera seis semanas",
+      "titular": "6-0: Goleada del Barça y billete a cuartos para olvidar el bache",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-19T16:25:11+02:00",
-      "enlace": "https://www.mundodeportivo.com/baloncesto/acb/20261119/1004252998/duro-reves-unicaja-pantzar-fuera-seis-semanas.html"
-    },
-    {
-      "titular": "El fútbol asiático reconoce a Kang-in Lee con uno de los galardones más importantes",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-19T16:18:50+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20261119/1004252995/futbol-asiatico-reconoce-kang-in-lee-galardones-importantes.html"
+      "fecha": "2026-11-19T23:55:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261119/1004253158/6-0-goleada-barca-billete-cuartos-olvidar-bache.html"
     },
     {
       "titular": "Valverde redondea con un buen tanto la 'Manita' de la Uruguay de Forlán",
@@ -32,6 +23,15 @@
       "enlace": "https://www.marca.com/futbol/cronica/2026/11/18/valverde-redondea-buen-tanto-manita-uruguay-forlan.html"
     },
     {
+      "titular": "Primer gol de Aitana este curso y triplete de Pina, 'Pichichi' de la Champions",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-19T22:46:11+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261119/1004253143/primer-gol-aitana-temporada-pina-iguala-cinco-europeos-graham.html"
+    },
+    {
       "titular": "Show de Julián, Nico Paz y Mastantuono, en la paliza de Argentina",
       "medios": [
         "Marca"
@@ -41,31 +41,32 @@
       "enlace": "https://www.marca.com/futbol/cronica/2026/11/18/show-julian-nico-paz-sendos-dobletes-paliza-argentina.html"
     },
     {
-      "titular": "Sato, premiado en Asia y pendiente de su futuro en Valencia",
+      "titular": "Así quedan la clasificación de la Champions femenina y las opciones de Barça y Madrid",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-19T16:14:37+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/valencia/20261119/1004252993/sato-premiado-asia-pendiente-futuro-valencia.html"
+      "fecha": "2026-11-19T23:53:13+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261119/1004253150/asi-quedan-clasificacion-champions-femenina-opciones-barca-madrid.html"
     },
     {
-      "titular": "Ni se caen ni molestan: los auriculares deportivos más cómodos para entrenar sin distracciones",
+      "titular": "Carambola final de Jódar en Turín: Alcaraz evita a Zverev en semifinales de las ATP Finals",
       "medios": [
+        "Marca",
         "Mundo Deportivo"
       ],
-      "consenso": 1,
-      "fecha": "2026-11-19T16:01:43+02:00",
-      "enlace": "https://www.mundodeportivo.com/elrecomendador/tecnologia/20261119/1004252469/caen-molestan-auriculares-deportivos-mas-comodos-entrenar-distracciones-mkt-alie.html"
+      "consenso": 2,
+      "fecha": "2026-11-19T17:19:16+02:00",
+      "enlace": "https://www.mundodeportivo.com/tenis/20261119/1004253018/carambola-final-jodar-turin-alcaraz-evita-zverev-semifinales.html"
     },
     {
-      "titular": "Aleksandre Topuria, sobre el combate de Ilia en UFC Freedom 250: \"Hice lo correcto\"",
+      "titular": "Espart se ha ganado un contrato nuevo en nueve partidos",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-19T16:00:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/ufc/20261119/1004252852/aleksandre-topuria-sobre-combate-ilia-ufc-freedom-250-hice-correcto-parar-pelea-tome-decision-rechistar.html"
+      "fecha": "2026-11-19T07:00:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261119/1004252771/espart-ganado-contrato-nuevo-nueve-partidos.html"
     }
   ],
   "salud": {
@@ -75,7 +76,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 13,
+    "antiguedad_minima_min": 3,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +84,7 @@
         "ok": true,
         "items": 68,
         "error": null,
-        "antiguedad_min": 2229,
+        "antiguedad_min": 2703,
         "descartados_por_gancho": 9
       },
       {
@@ -99,9 +100,9 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 133,
+        "items": 134,
         "error": null,
-        "antiguedad_min": 13,
+        "antiguedad_min": 3,
         "descartados_por_gancho": 5
       },
       {
