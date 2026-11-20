@@ -2,61 +2,61 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-11-20T14:24:16+02:00",
+  "generado": "2026-11-20T22:37:36+02:00",
   "titulares": [
     {
-      "titular": "Directo | Seguimos las mejores ofertas de Black Friday en Amazon, minuto a minuto",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-20T14:13:00+02:00",
-      "enlace": "https://elpais.com/escaparate/ofertas-y-descuentos/mejores-ofertas-semana-black-friday-2026-en-directo.html"
-    },
-    {
-      "titular": "Frustran la implantación de la primera célula en España de la organización ciberterrorista NoName057(16)",
+      "titular": "La UE y el Reino Unido sellan su acercamiento para empezar a revertir el Brexit",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-11-20T14:04:24+02:00",
-      "enlace": "https://www.abc.es/espana/castilla-leon/frustran-implantacion-primera-celula-espana-organizacion-ciberterrorista-20261120121909-nt.html"
+      "fecha": "2026-11-20T22:27:22+02:00",
+      "enlace": "https://www.abc.es/internacional/ue-vuelca-atraer-regreso-reino-unido-decada-20261120140613-nt.html"
     },
     {
-      "titular": "Madrid se blinda por Navidad: hasta 800 policías municipales, control de aforos y drones",
+      "titular": "Feijóo promete acabar con el negocio de las mafias y reforzar las fronteras: «España no está condenada al sanchismo»",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-11-20T14:04:09+02:00",
-      "enlace": "https://www.abc.es/espana/madrid/madrid-blinda-navidad-800-policias-municipales-control-20261120125047-nt.html"
+      "fecha": "2026-11-20T22:22:16+02:00",
+      "enlace": "https://www.abc.es/espana/canarias/feijoo-promete-acabar-negocio-mafias-migratorias-reforzar-20261120202904-nt.html"
     },
     {
-      "titular": "La Audiencia deja en libertad al millonario propalestino Chambers tras los errores de traducción en la reclamación de EE UU",
+      "titular": "Sánchez se cobra la revancha y gana a Feijóo en Galicia: “Votemos en homenaje a Ramón Sampedro”",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-11-20T13:57:12+02:00",
-      "enlace": "https://elpais.com/espana/2026-11-20/la-audiencia-deja-en-libertad-al-millonario-propalestino-chambers-tras-los-errores-de-traduccion-en-la-reclamacion-de-ee-uu.html"
+      "fecha": "2026-11-20T22:09:42+02:00",
+      "enlace": "https://elpais.com/espana/elecciones-generales/2026-11-20/sanchez-se-toma-la-revancha-en-galicia-y-esgrime-contra-feijoo-el-derecho-a-la-eutanasia-votemos-en-homenaje-a-ramon-sampedro.html"
     },
     {
-      "titular": "Hablan las ‘no madres’ de más de 50 años: “Siempre sentí rechazo a tener hijos y no me arrepiento”",
+      "titular": "Montero y Rufián sacan músculo en Madrid en un acto con un duro discurso contra PSOE y Frente Amplio",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-20T22:07:34+02:00",
+      "enlace": "https://elpais.com/espana/elecciones-generales/2026-11-20/montero-y-rufian-sacan-musculo-en-madrid-en-un-acto-con-un-duro-discurso-contra-psoe-y-frente-amplio.html"
+    },
+    {
+      "titular": "La policía francesa tendrá menos restricciones para disparar",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-11-20T13:49:45+02:00",
-      "enlace": "https://www.lavanguardia.com/vivo/longevity/20261120/11688288/hablan-madres-mas-50-anos-siempre-senti-rechazo-hijos-me-arrepiento-he-sentido-instinto-he-tenido-ganas.html"
+      "fecha": "2026-11-20T21:51:44+02:00",
+      "enlace": "https://www.lavanguardia.com/internacional/20261120/11689501/policia-francesa-tendra-restricciones-disparar.html"
     },
     {
-      "titular": "Jordi Cabrafiga deja la dirección general de Leitat",
+      "titular": "Trump defiende su “fantástica” relación con Putin y dice que busca una “vía diplomática” con Ucrania",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-11-20T13:45:08+02:00",
-      "enlace": "https://www.lavanguardia.com/economia/20261120/11689124/jordi-cabrafiga-deja-direccion-general-leitat.html"
+      "fecha": "2026-11-20T21:34:40+02:00",
+      "enlace": "https://www.lavanguardia.com/internacional/20261120/11689497/trump-defiende-fantastica-relacion-putin-dice-busca-diplomatica-ucrania.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 11,
+    "antiguedad_minima_min": 10,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2339359,
+        "antiguedad_min": 2339852,
         "descartados_por_gancho": 0
       },
       {
@@ -97,28 +97,28 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 160,
+        "items": 157,
         "error": null,
-        "antiguedad_min": 11,
-        "descartados_por_gancho": 4
+        "antiguedad_min": 27,
+        "descartados_por_gancho": 5
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 143,
+        "items": 140,
         "error": null,
-        "antiguedad_min": 34,
-        "descartados_por_gancho": 15
+        "antiguedad_min": 45,
+        "descartados_por_gancho": 14
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 24,
+        "items": 23,
         "error": null,
-        "antiguedad_min": 19,
-        "descartados_por_gancho": 1
+        "antiguedad_min": 10,
+        "descartados_por_gancho": 2
       }
     ]
   }

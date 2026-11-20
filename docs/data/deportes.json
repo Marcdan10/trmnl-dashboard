@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-11-20T14:24:20+02:00",
+  "generado": "2026-11-20T22:37:41+02:00",
   "titulares": [
     {
-      "titular": "Cambio de última hora en Italia para la Final a 8 de la Copa Davis",
+      "titular": "\"Parecía que sin Nielsen se acababa el mundo, pero Sergey y Hallgrimsson están haciendo un temporadón impresionante\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-20T13:58:27+02:00",
-      "enlace": "https://www.mundodeportivo.com/tenis/copa-davis/20261120/1004253361/cambio-ultima-hora-italia-final-8-copa-davis.html"
+      "fecha": "2026-11-20T22:12:57+02:00",
+      "enlace": "https://www.mundodeportivo.com/balonmano/20261120/1004253481/bidasoa-barca.html"
     },
     {
-      "titular": "Experto en eficiencia energética: \"Un radiador de 2.000 W encendido seis horas al día durante un mes son 90 euros\"",
+      "titular": "Claudia Rodríguez: “Tengo la corazonada de que este año ganaremos la Champions”",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-20T13:56:29+02:00",
-      "enlace": "https://www.mundodeportivo.com/actualidad/20261120/1004253359/experto-eficiencia-energetica-radiador-2-000-w-encendido-seis-horas-dia-mes-son-90-euros-tres-radiadores-potencia-equivalen-270-euros-factura-luz-dct.html"
+      "fecha": "2026-11-20T21:25:07+02:00",
+      "enlace": "https://www.mundodeportivo.com/ocio/20261120/1004253511/claudia-rodriguez-corazonada-ano-ganaremos-champions.html"
     },
     {
       "titular": "La UEFA multa a Inglaterra por los cánticos anticatólicos de sus aficionados en Madrid",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/2026/11/20/primera-estrella-victima-epidemia-gta-6-amenaza-deportistas-cazada-mbeumo.html"
     },
     {
-      "titular": "Las Aprilia plantan cara a un Marc Márquez que parte sin complicarse la vida en Portimao",
+      "titular": "Athletic Club - Espanyol, en directo",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-20T13:53:41+02:00",
-      "enlace": "https://www.mundodeportivo.com/motor/motogp/20261120/1004253355/aprilia-planta-cara-marc-marquez-parte-complicarse-vida-portimao.html"
+      "fecha": "2026-11-20T21:18:55+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/laliga/20261120/1004251447/athletic-club-espanyol-directo-laliga-ea-sports-primera-division.html"
     },
     {
-      "titular": "Así son los sets de sartenes con las mejores ofertas anticipadas del Black Friday 2026",
+      "titular": "FC Andorra - Leganés, en directo",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-20T13:45:04+02:00",
-      "enlace": "https://www.mundodeportivo.com/elrecomendador/ofertas/20261120/1004252644/asi-son-sets-sartenes-mejores-ofertas-anticipadas-black-friday-2026-acero-inoxidable-aluminio-forjado-mas-mkt-alie.html"
+      "fecha": "2026-11-20T21:00:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/liga-segunda-division/20261120/1004251453/fc-andorra-leganes-directo-laliga-hypermotion-segunda-division.html"
     },
     {
-      "titular": "\"El Atlético es uno de los mejores equipos de Europa\"",
+      "titular": "Barça - Estrella Roja, en directo",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-20T13:44:59+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20261120/1004253351/atletico-mejores-equipos-europa.html"
+      "fecha": "2026-11-20T20:59:28+02:00",
+      "enlace": "https://www.mundodeportivo.com/baloncesto/euroliga/20261120/1004253497/barcelona-estrella-roja-partido-baloncesto-hoy-en-directo-euroliga-ext-pau.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 25,
+    "antiguedad_minima_min": 24,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 72,
         "error": null,
-        "antiguedad_min": 277,
+        "antiguedad_min": 770,
         "descartados_por_gancho": 4
       },
       {
@@ -99,9 +99,9 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 134,
+        "items": 133,
         "error": null,
-        "antiguedad_min": 25,
+        "antiguedad_min": 24,
         "descartados_por_gancho": 8
       },
       {
