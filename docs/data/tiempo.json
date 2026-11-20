@@ -1,47 +1,7 @@
 {
   "ciudad": "Barcelona",
-  "generado": "2026-11-19T22:32:08",
+  "generado": "2026-11-20T03:49:37",
   "horas": [
-    {
-      "hora": "23",
-      "temp": 16,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "luna"
-    },
-    {
-      "hora": "00",
-      "temp": 16,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "luna"
-    },
-    {
-      "hora": "01",
-      "temp": 16,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "luna"
-    },
-    {
-      "hora": "02",
-      "temp": 15,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "luna"
-    },
-    {
-      "hora": "03",
-      "temp": 15,
-      "prob": 0,
-      "mm": 0,
-      "mostrar_prob": false,
-      "icono": "luna"
-    },
     {
       "hora": "04",
       "temp": 15,
@@ -60,7 +20,7 @@
     },
     {
       "hora": "06",
-      "temp": 14,
+      "temp": 15,
       "prob": 0,
       "mm": 0,
       "mostrar_prob": false,
@@ -97,19 +57,49 @@
       "mm": 0,
       "mostrar_prob": false,
       "icono": "nube"
-    }
-  ],
-  "dias": [
+    },
     {
-      "etiqueta": "vie 20",
-      "max": 19,
-      "min": 13,
+      "hora": "11",
+      "temp": 16,
       "prob": 0,
       "mm": 0,
       "mostrar_prob": false,
-      "destacar": false,
       "icono": "nube"
     },
+    {
+      "hora": "12",
+      "temp": 17,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "nube"
+    },
+    {
+      "hora": "13",
+      "temp": 18,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "nube"
+    },
+    {
+      "hora": "14",
+      "temp": 19,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "nube"
+    },
+    {
+      "hora": "15",
+      "temp": 19,
+      "prob": 0,
+      "mm": 0,
+      "mostrar_prob": false,
+      "icono": "nube"
+    }
+  ],
+  "dias": [
     {
       "etiqueta": "sáb 21",
       "max": 18,
@@ -169,6 +159,16 @@
       "mostrar_prob": true,
       "destacar": false,
       "icono": "nube"
+    },
+    {
+      "etiqueta": "vie 27",
+      "max": 14,
+      "min": 5,
+      "prob": 13,
+      "mm": 0,
+      "mostrar_prob": true,
+      "destacar": false,
+      "icono": "sol"
     }
   ],
   "aviso": {

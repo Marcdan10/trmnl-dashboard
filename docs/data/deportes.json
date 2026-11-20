@@ -2,7 +2,7 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-11-20T00:32:02+02:00",
+  "generado": "2026-11-20T05:49:31+02:00",
   "titulares": [
     {
       "titular": "6-0: Goleada del Barça y billete a cuartos para olvidar el bache",
@@ -23,13 +23,13 @@
       "enlace": "https://www.marca.com/futbol/cronica/2026/11/18/valverde-redondea-buen-tanto-manita-uruguay-forlan.html"
     },
     {
-      "titular": "Primer gol de Aitana este curso y triplete de Pina, 'Pichichi' de la Champions",
+      "titular": "El 1x1 del Barça ante el Servette",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-19T22:46:11+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261119/1004253143/primer-gol-aitana-temporada-pina-iguala-cinco-europeos-graham.html"
+      "fecha": "2026-11-20T00:14:53+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261119/1004253166/1x1-barca-servette.html"
     },
     {
       "titular": "Show de Julián, Nico Paz y Mastantuono, en la paliza de Argentina",
@@ -41,13 +41,13 @@
       "enlace": "https://www.marca.com/futbol/cronica/2026/11/18/show-julian-nico-paz-sendos-dobletes-paliza-argentina.html"
     },
     {
-      "titular": "Así quedan la clasificación de la Champions femenina y las opciones de Barça y Madrid",
+      "titular": "Primer gol de Aitana este curso y triplete de Pina, 'Pichichi' de la Champions",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-19T23:53:13+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261119/1004253150/asi-quedan-clasificacion-champions-femenina-opciones-barca-madrid.html"
+      "fecha": "2026-11-19T22:46:11+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261119/1004253143/primer-gol-aitana-temporada-pina-iguala-cinco-europeos-graham.html"
     },
     {
       "titular": "Carambola final de Jódar en Turín: Alcaraz evita a Zverev en semifinales de las ATP Finals",
@@ -60,13 +60,13 @@
       "enlace": "https://www.mundodeportivo.com/tenis/20261119/1004253018/carambola-final-jodar-turin-alcaraz-evita-zverev-semifinales.html"
     },
     {
-      "titular": "Espart se ha ganado un contrato nuevo en nueve partidos",
+      "titular": "'Fichajes' de otoño para Flick",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-19T07:00:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261119/1004252771/espart-ganado-contrato-nuevo-nueve-partidos.html"
+      "fecha": "2026-11-20T01:30:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261120/1004253123/fichajes-otono-flick.html"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 3,
+    "antiguedad_minima_min": 245,
     "detalle": [
       {
         "medio": "Marca",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 68,
         "error": null,
-        "antiguedad_min": 2703,
+        "antiguedad_min": 3020,
         "descartados_por_gancho": 9
       },
       {
@@ -100,9 +100,9 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 134,
+        "items": 135,
         "error": null,
-        "antiguedad_min": 3,
+        "antiguedad_min": 245,
         "descartados_por_gancho": 5
       },
       {
