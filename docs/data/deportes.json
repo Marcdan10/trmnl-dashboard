@@ -2,16 +2,16 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-11-21T03:55:04+02:00",
+  "generado": "2026-11-21T11:03:37+02:00",
   "titulares": [
     {
-      "titular": "0-1: Un gol de Roberto dedicado al lesionado Cala tumba al Athletic",
+      "titular": "La intrahistoria del verano en que no se fichó un central",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-21T00:03:53+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/athletic-bilbao/20261120/1004253520/athletic-partido.html"
+      "fecha": "2026-11-21T00:30:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261120/1004253461/intrahistoria-verano-no-ficho-central.html"
     },
     {
       "titular": "La UEFA multa a Inglaterra por los cánticos anticatólicos de sus aficionados en Madrid",
@@ -23,13 +23,13 @@
       "enlace": "https://www.marca.com/futbol/nations-league/2026/11/20/uefa-multa-inglaterra-canticos-anticatolicos-aficionados-madrid.html"
     },
     {
-      "titular": "El 1x1 del Espanyol en San Mamés",
+      "titular": "Antonelli pilla en fuera de juego a todos, pero su sanción le entrega el puesto de pole a Verstappen",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-20T23:58:22+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/rcd-espanyol/20261120/1004253516/1x1-espanyol-athletic-club.html"
+      "fecha": "2026-11-21T07:26:51+02:00",
+      "enlace": "https://www.mundodeportivo.com/motor/f1/20261121/1004253609/kimi-antonelli-pilla-fuera-juego-todos-sancion-le-entrega-puesto-pole-verstappen.html"
     },
     {
       "titular": "La primera estrella víctima de la epidemia del GTA 6 que amenaza a los deportistas: la cazada a Mbeumo",
@@ -41,13 +41,13 @@
       "enlace": "https://www.marca.com/futbol/2026/11/20/primera-estrella-victima-epidemia-gta-6-amenaza-deportistas-cazada-mbeumo.html"
     },
     {
-      "titular": "Fortuño silenció San Mamés con un paradón antológico",
+      "titular": "Año 1 en el nuevo Spotify Camp Nou",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-20T22:57:45+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/rcd-espanyol/20261120/1004253535/inaki-williams-cantaba-gol-fortuno-silencia-san-mames-paradon-antologico.html"
+      "fecha": "2026-11-21T06:50:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261121/1004253551/ano-1-nuevo-spotify-camp-nou.html"
     },
     {
       "titular": "El botín de más de un millón y medio de dólares que acumula Zverev en las ATP Finals de Turín",
@@ -59,13 +59,13 @@
       "enlace": "https://www.marca.com/tenis/copa-masters/2026/11/20/botin-millon-medio-dolares-acumula-zverev-atp-finals-turin.html"
     },
     {
-      "titular": "La intrahistoria del verano en que no se fichó un central",
+      "titular": "¡Noche monstruosa de Aday Mara!",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-21T00:30:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261120/1004253461/intrahistoria-verano-no-ficho-central.html"
+      "fecha": "2026-11-21T07:43:50+02:00",
+      "enlace": "https://www.mundodeportivo.com/baloncesto/nba/20261121/1004253610/aday-mara-monstruo-freno-doble-doble-22-puntos-16-rebotes-historia-nba.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 150,
+    "antiguedad_minima_min": 8,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 72,
         "error": null,
-        "antiguedad_min": 1087,
+        "antiguedad_min": 1516,
         "descartados_por_gancho": 4
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 136,
+        "items": 128,
         "error": null,
-        "antiguedad_min": 150,
-        "descartados_por_gancho": 7
+        "antiguedad_min": 8,
+        "descartados_por_gancho": 8
       },
       {
         "medio": "Sport",
