@@ -1,63 +1,9 @@
 {
   "pantalla": "generales",
   "titulo": "Titulares",
-  "modo": "ultimas",
-  "generado": "2026-11-20T22:37:36+02:00",
+  "modo": "portadas",
+  "generado": "2026-11-21T03:55:01+02:00",
   "titulares": [
-    {
-      "titular": "La UE y el Reino Unido sellan su acercamiento para empezar a revertir el Brexit",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-20T22:27:22+02:00",
-      "enlace": "https://www.abc.es/internacional/ue-vuelca-atraer-regreso-reino-unido-decada-20261120140613-nt.html"
-    },
-    {
-      "titular": "Feijóo promete acabar con el negocio de las mafias y reforzar las fronteras: «España no está condenada al sanchismo»",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-20T22:22:16+02:00",
-      "enlace": "https://www.abc.es/espana/canarias/feijoo-promete-acabar-negocio-mafias-migratorias-reforzar-20261120202904-nt.html"
-    },
-    {
-      "titular": "Sánchez se cobra la revancha y gana a Feijóo en Galicia: “Votemos en homenaje a Ramón Sampedro”",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-20T22:09:42+02:00",
-      "enlace": "https://elpais.com/espana/elecciones-generales/2026-11-20/sanchez-se-toma-la-revancha-en-galicia-y-esgrime-contra-feijoo-el-derecho-a-la-eutanasia-votemos-en-homenaje-a-ramon-sampedro.html"
-    },
-    {
-      "titular": "Montero y Rufián sacan músculo en Madrid en un acto con un duro discurso contra PSOE y Frente Amplio",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-20T22:07:34+02:00",
-      "enlace": "https://elpais.com/espana/elecciones-generales/2026-11-20/montero-y-rufian-sacan-musculo-en-madrid-en-un-acto-con-un-duro-discurso-contra-psoe-y-frente-amplio.html"
-    },
-    {
-      "titular": "La policía francesa tendrá menos restricciones para disparar",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-20T21:51:44+02:00",
-      "enlace": "https://www.lavanguardia.com/internacional/20261120/11689501/policia-francesa-tendra-restricciones-disparar.html"
-    },
-    {
-      "titular": "Trump defiende su “fantástica” relación con Putin y dice que busca una “vía diplomática” con Ucrania",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-20T21:34:40+02:00",
-      "enlace": "https://www.lavanguardia.com/internacional/20261120/11689497/trump-defiende-fantastica-relacion-putin-dice-busca-diplomatica-ucrania.html"
-    },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
       "medios": [
@@ -66,6 +12,60 @@
       "consenso": 1,
       "fecha": "2022-06-10T01:05:00+02:00",
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
+    },
+    {
+      "titular": "La distancia entre el PP y el PSOE se estrecha al mínimo pese a la victoria de Feijóo en el debate",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-20T15:26:52+02:00",
+      "enlace": "https://elpais.com/espana/elecciones-generales/2026-11-20/la-distancia-entre-el-pp-y-el-psoe-se-estrecha-al-minimo-pese-a-la-victoria-de-feijoo-en-el-debate.html"
+    },
+    {
+      "titular": "El PP se muestra eufórico tras el cara a cara y la Moncloa justifica su estrategia",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-20T20:20:08+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20261120/11689455/pp-muestra-euforico-cara-cara-moncloa-justifica-estrategia.html"
+    },
+    {
+      "titular": "Pedro Rollán: «Viendo los sumarios, creo que siete comisiones de investigación en el Senado han sido pocas»",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-21T03:31:28+02:00",
+      "enlace": "https://www.abc.es/espana/pedro-rollan-viendo-sumarios-creo-siete-comisiones-20261121023031-nt.html"
+    },
+    {
+      "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
+      "medios": [
+        "RTVE"
+      ],
+      "consenso": 1,
+      "fecha": "2022-06-10T00:03:00+02:00",
+      "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
+    },
+    {
+      "titular": "Feijóo ganó el cara a cara contra Sánchez por 10 puntos, según el sondeo de 40dB. para EL PAÍS y la SER",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-20T15:49:03+02:00",
+      "enlace": "https://elpais.com/espana/elecciones-generales/2026-11-20/feijoo-gano-el-cara-a-cara-contra-sanchez-por-10-puntos-segun-el-sondeo-de-40db-para-el-pais-y-la-ser.html"
+    },
+    {
+      "titular": "Inmigración: faltan 750.000 viviendas y cada vez somos más. ¿Cómo lo solucionan los partidos?",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-21T03:30:56+02:00",
+      "enlace": "https://www.abc.es/espana/inmigracion-vivienda-faltan-750000-viviendas-vez-proponen-20261121023024-nt.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 10,
+    "antiguedad_minima_min": 23,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2339852,
+        "antiguedad_min": 2340170,
         "descartados_por_gancho": 0
       },
       {
@@ -97,28 +97,28 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 157,
+        "items": 156,
         "error": null,
-        "antiguedad_min": 27,
+        "antiguedad_min": 130,
         "descartados_por_gancho": 5
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 140,
+        "items": 134,
         "error": null,
-        "antiguedad_min": 45,
-        "descartados_por_gancho": 14
+        "antiguedad_min": 145,
+        "descartados_por_gancho": 13
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 23,
+        "items": 24,
         "error": null,
-        "antiguedad_min": 10,
-        "descartados_por_gancho": 2
+        "antiguedad_min": 23,
+        "descartados_por_gancho": 1
       }
     ]
   }

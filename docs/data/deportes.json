@@ -1,26 +1,17 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "ultimas",
-  "generado": "2026-11-20T22:37:41+02:00",
+  "modo": "portadas",
+  "generado": "2026-11-21T03:55:04+02:00",
   "titulares": [
     {
-      "titular": "\"Parecía que sin Nielsen se acababa el mundo, pero Sergey y Hallgrimsson están haciendo un temporadón impresionante\"",
+      "titular": "0-1: Un gol de Roberto dedicado al lesionado Cala tumba al Athletic",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-20T22:12:57+02:00",
-      "enlace": "https://www.mundodeportivo.com/balonmano/20261120/1004253481/bidasoa-barca.html"
-    },
-    {
-      "titular": "Claudia Rodríguez: “Tengo la corazonada de que este año ganaremos la Champions”",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-20T21:25:07+02:00",
-      "enlace": "https://www.mundodeportivo.com/ocio/20261120/1004253511/claudia-rodriguez-corazonada-ano-ganaremos-champions.html"
+      "fecha": "2026-11-21T00:03:53+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/athletic-bilbao/20261120/1004253520/athletic-partido.html"
     },
     {
       "titular": "La UEFA multa a Inglaterra por los cánticos anticatólicos de sus aficionados en Madrid",
@@ -32,6 +23,15 @@
       "enlace": "https://www.marca.com/futbol/nations-league/2026/11/20/uefa-multa-inglaterra-canticos-anticatolicos-aficionados-madrid.html"
     },
     {
+      "titular": "El 1x1 del Espanyol en San Mamés",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-20T23:58:22+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/rcd-espanyol/20261120/1004253516/1x1-espanyol-athletic-club.html"
+    },
+    {
       "titular": "La primera estrella víctima de la epidemia del GTA 6 que amenaza a los deportistas: la cazada a Mbeumo",
       "medios": [
         "Marca"
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/2026/11/20/primera-estrella-victima-epidemia-gta-6-amenaza-deportistas-cazada-mbeumo.html"
     },
     {
-      "titular": "Athletic Club - Espanyol, en directo",
+      "titular": "Fortuño silenció San Mamés con un paradón antológico",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-20T21:18:55+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/laliga/20261120/1004251447/athletic-club-espanyol-directo-laliga-ea-sports-primera-division.html"
+      "fecha": "2026-11-20T22:57:45+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/rcd-espanyol/20261120/1004253535/inaki-williams-cantaba-gol-fortuno-silencia-san-mames-paradon-antologico.html"
     },
     {
-      "titular": "FC Andorra - Leganés, en directo",
+      "titular": "El botín de más de un millón y medio de dólares que acumula Zverev en las ATP Finals de Turín",
       "medios": [
-        "Mundo Deportivo"
+        "Marca"
       ],
       "consenso": 1,
-      "fecha": "2026-11-20T21:00:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/liga-segunda-division/20261120/1004251453/fc-andorra-leganes-directo-laliga-hypermotion-segunda-division.html"
+      "fecha": "2026-11-20T09:30:10+02:00",
+      "enlace": "https://www.marca.com/tenis/copa-masters/2026/11/20/botin-millon-medio-dolares-acumula-zverev-atp-finals-turin.html"
     },
     {
-      "titular": "Barça - Estrella Roja, en directo",
+      "titular": "La intrahistoria del verano en que no se fichó un central",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-20T20:59:28+02:00",
-      "enlace": "https://www.mundodeportivo.com/baloncesto/euroliga/20261120/1004253497/barcelona-estrella-roja-partido-baloncesto-hoy-en-directo-euroliga-ext-pau.html"
+      "fecha": "2026-11-21T00:30:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261120/1004253461/intrahistoria-verano-no-ficho-central.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 24,
+    "antiguedad_minima_min": 150,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 72,
         "error": null,
-        "antiguedad_min": 770,
+        "antiguedad_min": 1087,
         "descartados_por_gancho": 4
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 133,
+        "items": 136,
         "error": null,
-        "antiguedad_min": 24,
-        "descartados_por_gancho": 8
+        "antiguedad_min": 150,
+        "descartados_por_gancho": 7
       },
       {
         "medio": "Sport",
