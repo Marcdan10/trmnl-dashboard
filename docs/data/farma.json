@@ -1,17 +1,26 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "portadas",
-  "generado": "2026-11-21T11:03:43+02:00",
+  "modo": "ultimas",
+  "generado": "2026-11-21T18:53:08+02:00",
   "titulares": [
     {
-      "titular": "Los aspirantes a Formación Sanitaria Especializada conocerán su baremo de méritos tras el examen",
+      "titular": "Recertificación de la competencia profesional: una iniciativa para garantizar la viabilidad del sistema sanitario",
       "medios": [
-        "Diariofarma"
+        "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-11-20T14:51:10+02:00",
-      "enlace": "https://diariofarma.com/2026/11/20/los-aspirantes-a-formacion-sanitaria-especializada-conoceran-su-baremo-tras-el-examen"
+      "fecha": "2026-11-21T18:14:46+02:00",
+      "enlace": "https://www.redaccionmedica.com/opinion/20261121/recertificacion-de-la-competencia-profesional-una-iniciativa-para-garantizar-viabilidad-del-sistema-sanitario/366301_12.html"
+    },
+    {
+      "titular": "La vacuna española contra la tuberculosis busca ser universal: \"Queremos que sea la mejor para el mundo\"",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-21T17:52:52+02:00",
+      "enlace": "https://www.redaccionmedica.com/empresas/industria-farmaceutica/20261121/la-vacuna-espanola-contra-la-tuberculosis-busca-ser-universal-queremos-que-sea-mejor-para-el-mundo/365687_0.html"
     },
     {
       "titular": "La innovación y los pacientes no esperan a las urnas",
@@ -23,22 +32,13 @@
       "enlace": "https://elglobalfarma.com/opinion/editorial/acceso-innovacion-farmaceutica-elecciones-cipm/"
     },
     {
-      "titular": "La ECOE en Medicina se modernizará en 2028: evaluación única de comunicación y desglose del juicio clínico",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-20T19:21:22+02:00",
-      "enlace": "https://www.redaccionmedica.com/formacion/estudiantes/20261120/la-ecoe-en-medicina-se-modernizara-evaluacion-unica-de-comunicacion-desglose-del-juicio-clinico/366176_0.html"
-    },
-    {
-      "titular": "La FH española mejora en integración con respecto a una Europa que pide más recursos",
+      "titular": "Los aspirantes a Formación Sanitaria Especializada conocerán su baremo de méritos tras el examen",
       "medios": [
         "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-11-20T13:11:29+02:00",
-      "enlace": "https://diariofarma.com/2026/11/20/la-fh-espanola-mejora-en-integracion-con-respecto-a-una-europa-que-demanda-mas-recursos"
+      "fecha": "2026-11-20T14:51:10+02:00",
+      "enlace": "https://diariofarma.com/2026/11/20/los-aspirantes-a-formacion-sanitaria-especializada-conoceran-su-baremo-tras-el-examen"
     },
     {
       "titular": "Solo el 28% de los medicamentos innovadores logra compensar la inversión en I+D realizada por la compañía",
@@ -50,22 +50,22 @@
       "enlace": "https://elglobalfarma.com/industria/medicamentos-innovadores-retorno-economico-positivo/"
     },
     {
-      "titular": "Mucho lugar común y pocas reformas de fondo para la sanidad pública",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-20T10:31:13+02:00",
-      "enlace": "https://www.redaccionmedica.com/opinion/20261120/mucho-lugar-comun-pocas-reformas-de-fondo-para-la-sanidad-publica/366118_14.html"
-    },
-    {
-      "titular": "Fefac pide concretar apoyos a la farmacia rural en la nueva ley catalana",
+      "titular": "La FH española mejora en integración con respecto a una Europa que pide más recursos",
       "medios": [
         "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-11-20T12:31:01+02:00",
-      "enlace": "https://diariofarma.com/2026/11/20/fefac-pide-concretar-apoyos-a-la-farmacia-rural-en-la-nueva-ley-catalana"
+      "fecha": "2026-11-20T13:11:29+02:00",
+      "enlace": "https://diariofarma.com/2026/11/20/la-fh-espanola-mejora-en-integracion-con-respecto-a-una-europa-que-demanda-mas-recursos"
+    },
+    {
+      "titular": "De informado a activo: los pacientes quieren participar en el diseño del espacio de datos de salud",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-21T17:33:59+02:00",
+      "enlace": "https://www.redaccionmedica.com/profesionales/derecho-sanitario/20261121/de-informado-activo-los-pacientes-quieren-participar-en-el-diseno-del-espacio-de-datos-salud/366143_0.html"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 921,
+    "antiguedad_minima_min": 38,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 1212,
+        "antiguedad_min": 1681,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 9,
         "error": null,
-        "antiguedad_min": 1199,
+        "antiguedad_min": 1669,
         "descartados_por_gancho": 1
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 921,
+        "antiguedad_min": 38,
         "descartados_por_gancho": 0
       },
       {

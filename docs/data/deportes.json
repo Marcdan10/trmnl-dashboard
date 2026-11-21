@@ -1,17 +1,26 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "portadas",
-  "generado": "2026-11-21T11:03:37+02:00",
+  "modo": "ultimas",
+  "generado": "2026-11-21T18:53:02+02:00",
   "titulares": [
     {
-      "titular": "La intrahistoria del verano en que no se fichó un central",
+      "titular": "El FIATC Girona, a por su primer triunfo a domicilio en el regreso a casa de Moncho",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-21T00:30:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261120/1004253461/intrahistoria-verano-no-ficho-central.html"
+      "fecha": "2026-11-21T18:25:45+02:00",
+      "enlace": "https://www.mundodeportivo.com/baloncesto/acb/20261121/1004253772/fiatc-girona-primer-triunfo-domicilio-regreso-casa-moncho.html"
+    },
+    {
+      "titular": "3-0: En esta Serie A no hay otro líder que el Lazio",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-21T18:23:48+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/serie-a/20261121/1004253777/serie-no-hay-lider-lazio.html"
     },
     {
       "titular": "La UEFA multa a Inglaterra por los cánticos anticatólicos de sus aficionados en Madrid",
@@ -23,15 +32,6 @@
       "enlace": "https://www.marca.com/futbol/nations-league/2026/11/20/uefa-multa-inglaterra-canticos-anticatolicos-aficionados-madrid.html"
     },
     {
-      "titular": "Antonelli pilla en fuera de juego a todos, pero su sanción le entrega el puesto de pole a Verstappen",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-21T07:26:51+02:00",
-      "enlace": "https://www.mundodeportivo.com/motor/f1/20261121/1004253609/kimi-antonelli-pilla-fuera-juego-todos-sancion-le-entrega-puesto-pole-verstappen.html"
-    },
-    {
       "titular": "La primera estrella víctima de la epidemia del GTA 6 que amenaza a los deportistas: la cazada a Mbeumo",
       "medios": [
         "Marca"
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/2026/11/20/primera-estrella-victima-epidemia-gta-6-amenaza-deportistas-cazada-mbeumo.html"
     },
     {
-      "titular": "Año 1 en el nuevo Spotify Camp Nou",
+      "titular": "El Asisa Joventut desafía al invicto Real Madrid en un choque con sabor a récord",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-21T06:50:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261121/1004253551/ano-1-nuevo-spotify-camp-nou.html"
+      "fecha": "2026-11-21T18:15:18+02:00",
+      "enlace": "https://www.mundodeportivo.com/baloncesto/acb/20261121/1004253771/asisa-joventut-desafia-invicto-real-madrid-choque-sabor-record.html"
     },
     {
-      "titular": "El botín de más de un millón y medio de dólares que acumula Zverev en las ATP Finals de Turín",
-      "medios": [
-        "Marca"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-20T09:30:10+02:00",
-      "enlace": "https://www.marca.com/tenis/copa-masters/2026/11/20/botin-millon-medio-dolares-acumula-zverev-atp-finals-turin.html"
-    },
-    {
-      "titular": "¡Noche monstruosa de Aday Mara!",
+      "titular": "Alcaraz, finalista en las ATP Finals de Turín: historia, horario, ranking y euros",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-21T07:43:50+02:00",
-      "enlace": "https://www.mundodeportivo.com/baloncesto/nba/20261121/1004253610/aday-mara-monstruo-freno-doble-doble-22-puntos-16-rebotes-historia-nba.html"
+      "fecha": "2026-11-21T18:11:34+02:00",
+      "enlace": "https://www.mundodeportivo.com/tenis/20261121/1004253768/alcaraz-finalista-atp-finals-turin-historia-horario-ranking-euros.html"
+    },
+    {
+      "titular": "Jacobo Ramón, MVP, abre el triunfo del Como de Cesc Fàbregas, cuarto",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-21T18:05:01+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/serie-a/20261121/1004253759/jacobo-ramon-abre-triunfo-cesc-fabregas-cuarto.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 8,
+    "antiguedad_minima_min": 27,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 72,
         "error": null,
-        "antiguedad_min": 1516,
+        "antiguedad_min": 1985,
         "descartados_por_gancho": 4
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 128,
+        "items": 138,
         "error": null,
-        "antiguedad_min": 8,
-        "descartados_por_gancho": 8
+        "antiguedad_min": 27,
+        "descartados_por_gancho": 7
       },
       {
         "medio": "Sport",
