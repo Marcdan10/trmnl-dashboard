@@ -2,25 +2,43 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "ultimas",
-  "generado": "2026-11-21T18:53:08+02:00",
+  "generado": "2026-11-21T23:58:35+02:00",
   "titulares": [
     {
-      "titular": "Recertificación de la competencia profesional: una iniciativa para garantizar la viabilidad del sistema sanitario",
+      "titular": "El COFM y la Policía Nacional detallan claves para reforzar la seguridad en farmacias",
       "medios": [
-        "Redacción Médica"
+        "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-11-21T18:14:46+02:00",
-      "enlace": "https://www.redaccionmedica.com/opinion/20261121/recertificacion-de-la-competencia-profesional-una-iniciativa-para-garantizar-viabilidad-del-sistema-sanitario/366301_12.html"
+      "fecha": "2026-11-21T20:12:36+02:00",
+      "enlace": "https://diariofarma.com/2026/11/21/el-cofm-y-la-policia-nacional-detallan-claves-para-reforzar-la-seguridad-en-farmacias"
     },
     {
-      "titular": "La vacuna española contra la tuberculosis busca ser universal: \"Queremos que sea la mejor para el mundo\"",
+      "titular": "Expertos reclaman más innovación biomédica e IA para frenar la caída de ensayos en la UE",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-21T19:43:28+02:00",
+      "enlace": "https://diariofarma.com/2026/11/21/expertos-reclaman-mas-innovacion-biomedica-e-ia-para-frenar-la-caida-de-ensayos-en-la-ue"
+    },
+    {
+      "titular": "Stephannie, la médica colombiana que aterrizó en España en busca de una vida mejor: \"Salimos con muchísima experiencia de la carrera\"",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-11-21T17:52:52+02:00",
-      "enlace": "https://www.redaccionmedica.com/empresas/industria-farmaceutica/20261121/la-vacuna-espanola-contra-la-tuberculosis-busca-ser-universal-queremos-que-sea-mejor-para-el-mundo/365687_0.html"
+      "fecha": "2026-11-21T19:10:24+02:00",
+      "enlace": "https://www.redaccionmedica.com/profesionales/medicina/20261121/stephannie-la-medica-colombiana-que-aterrizo-en-espana-busca-de-una-vida-mejor-salimos-con-muchisima-experiencia-carrera/365222_0.html"
+    },
+    {
+      "titular": "La sanidad privada acelera su apuesta por la anestesia verde: la sostenibilidad como palanca para revisar 'viejos' procesos",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-21T19:04:17+02:00",
+      "enlace": "https://www.redaccionmedica.com/empresas/sanidad-privada/20261121/la-sanidad-privada-acelera-su-apuesta-por-la-anestesia-verde-sostenibilidad-como-palanca-para-revisar-viejos-procesos/364938_0.html"
     },
     {
       "titular": "La innovación y los pacientes no esperan a las urnas",
@@ -32,15 +50,6 @@
       "enlace": "https://elglobalfarma.com/opinion/editorial/acceso-innovacion-farmaceutica-elecciones-cipm/"
     },
     {
-      "titular": "Los aspirantes a Formación Sanitaria Especializada conocerán su baremo de méritos tras el examen",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-20T14:51:10+02:00",
-      "enlace": "https://diariofarma.com/2026/11/20/los-aspirantes-a-formacion-sanitaria-especializada-conoceran-su-baremo-tras-el-examen"
-    },
-    {
       "titular": "Solo el 28% de los medicamentos innovadores logra compensar la inversión en I+D realizada por la compañía",
       "medios": [
         "El Global"
@@ -50,22 +59,13 @@
       "enlace": "https://elglobalfarma.com/industria/medicamentos-innovadores-retorno-economico-positivo/"
     },
     {
-      "titular": "La FH española mejora en integración con respecto a una Europa que pide más recursos",
+      "titular": "Sanidad abre la selección de entidades españolas para cinco acciones EU4Health",
       "medios": [
         "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-11-20T13:11:29+02:00",
-      "enlace": "https://diariofarma.com/2026/11/20/la-fh-espanola-mejora-en-integracion-con-respecto-a-una-europa-que-demanda-mas-recursos"
-    },
-    {
-      "titular": "De informado a activo: los pacientes quieren participar en el diseño del espacio de datos de salud",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-21T17:33:59+02:00",
-      "enlace": "https://www.redaccionmedica.com/profesionales/derecho-sanitario/20261121/de-informado-activo-los-pacientes-quieren-participar-en-el-diseno-del-espacio-de-datos-salud/366143_0.html"
+      "fecha": "2026-11-21T19:05:55+02:00",
+      "enlace": "https://diariofarma.com/2026/11/21/sanidad-abre-la-seleccion-de-entidades-espanolas-para-cinco-acciones-conjuntas-eu4health"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 38,
+    "antiguedad_minima_min": 225,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 1681,
+        "antiguedad_min": 225,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 9,
         "error": null,
-        "antiguedad_min": 1669,
+        "antiguedad_min": 1974,
         "descartados_por_gancho": 1
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 38,
+        "antiguedad_min": 288,
         "descartados_por_gancho": 0
       },
       {

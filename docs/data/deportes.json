@@ -2,25 +2,25 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "ultimas",
-  "generado": "2026-11-21T18:53:02+02:00",
+  "generado": "2026-11-21T23:58:29+02:00",
   "titulares": [
     {
-      "titular": "El FIATC Girona, a por su primer triunfo a domicilio en el regreso a casa de Moncho",
+      "titular": "Belletti actualiza el estado de Hamza y asegura que el equipo va \"por el buen camino\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-21T18:25:45+02:00",
-      "enlace": "https://www.mundodeportivo.com/baloncesto/acb/20261121/1004253772/fiatc-girona-primer-triunfo-domicilio-regreso-casa-moncho.html"
+      "fecha": "2026-11-21T23:27:03+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261121/1004253873/belletti-actualiza-hamza-asegura-equipo-buen-camino.html"
     },
     {
-      "titular": "3-0: En esta Serie A no hay otro líder que el Lazio",
+      "titular": "El bicampeón Zverev gana y sella con Alcaraz una final de invictos en Turín",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-21T18:23:48+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/serie-a/20261121/1004253777/serie-no-hay-lider-lazio.html"
+      "fecha": "2026-11-21T23:12:36+02:00",
+      "enlace": "https://www.mundodeportivo.com/tenis/20261121/1004253876/bicampeon-zverev-gana-sella-alcaraz-final-invictos-turin.html"
     },
     {
       "titular": "La UEFA multa a Inglaterra por los cánticos anticatólicos de sus aficionados en Madrid",
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/2026/11/20/primera-estrella-victima-epidemia-gta-6-amenaza-deportistas-cazada-mbeumo.html"
     },
     {
-      "titular": "El Asisa Joventut desafía al invicto Real Madrid en un choque con sabor a récord",
+      "titular": "25-42: El Barça impone su ley para ser líder en solitario",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-21T18:15:18+02:00",
-      "enlace": "https://www.mundodeportivo.com/baloncesto/acb/20261121/1004253771/asisa-joventut-desafia-invicto-real-madrid-choque-sabor-record.html"
+      "fecha": "2026-11-21T23:05:08+02:00",
+      "enlace": "https://www.mundodeportivo.com/balonmano/20261121/1004253852/barca-impone-ley-lider-solitario.html"
     },
     {
-      "titular": "Alcaraz, finalista en las ATP Finals de Turín: historia, horario, ranking y euros",
+      "titular": "90-86: El Kids&Us Manresa sigue en racha",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-21T18:11:34+02:00",
-      "enlace": "https://www.mundodeportivo.com/tenis/20261121/1004253768/alcaraz-finalista-atp-finals-turin-historia-horario-ranking-euros.html"
+      "fecha": "2026-11-21T23:04:58+02:00",
+      "enlace": "https://www.mundodeportivo.com/baloncesto/acb/20261121/1004253877/90-86-kids-us-manresa-sigue-racha.html"
     },
     {
-      "titular": "Jacobo Ramón, MVP, abre el triunfo del Como de Cesc Fàbregas, cuarto",
+      "titular": "El espectacular 'look' de Laura Escanes en la noche de la música en Barcelona",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-21T18:05:01+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/serie-a/20261121/1004253759/jacobo-ramon-abre-triunfo-cesc-fabregas-cuarto.html"
+      "fecha": "2026-11-21T22:55:24+02:00",
+      "enlace": "https://www.mundodeportivo.com/elotromundo/gente/20261121/1004253868/espectacular-look-laura-escanes-noche-musica-barcelona-galeria-dct.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 27,
+    "antiguedad_minima_min": 31,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 72,
         "error": null,
-        "antiguedad_min": 1985,
+        "antiguedad_min": 2291,
         "descartados_por_gancho": 4
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 138,
+        "items": 141,
         "error": null,
-        "antiguedad_min": 27,
-        "descartados_por_gancho": 7
+        "antiguedad_min": 31,
+        "descartados_por_gancho": 6
       },
       {
         "medio": "Sport",

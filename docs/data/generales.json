@@ -2,61 +2,61 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "ultimas",
-  "generado": "2026-11-21T18:52:56+02:00",
+  "generado": "2026-11-21T23:58:24+02:00",
   "titulares": [
     {
-      "titular": "Muere Paolo Bulgari, el joyero que llevó el lujo italiano al mundo, a los 89 años",
+      "titular": "Real Madrid - Celta en directo | Carlos Espí culmina la remontada",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-11-21T18:47:24+02:00",
-      "enlace": "https://elpais.com/gente/2026-11-21/muere-paolo-bulgari-presidente-de-la-firma-de-joyas-italiana-bvlgari-a-los-89-anos.html"
+      "fecha": "2026-11-21T23:54:39+02:00",
+      "enlace": "https://elpais.com/deportes/futbol/2026-11-21/real-madrid-celta-en-directo-el-partido-de-la-liga-en-vivo.html"
     },
     {
-      "titular": "Márquez se cae cuando acariciaba su décimo Mundial",
+      "titular": "Alcaraz se levanta a lo grande y jugará ante Zverev por el título de maestro",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-11-21T18:47:06+02:00",
-      "enlace": "https://www.abc.es/deportes/motos/marquez-cae-acariciaba-decimo-mundial-20261121161027-nt.html"
-    },
-    {
-      "titular": "Alcaraz, finalista contra toda lógica: sufrir, levantarse y remontar a Shelton",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-21T18:35:27+02:00",
-      "enlace": "https://elpais.com/deportes/tenis/2026-11-21/alcaraz-finalista-contra-toda-logica-sufrir-levantarse-y-remontar-a-shelton.html"
-    },
-    {
-      "titular": "Alcaraz se levanta a lo grande para jugar su segunda final consecutiva en las Finales ATP",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-21T18:15:33+02:00",
+      "fecha": "2026-11-21T23:52:32+02:00",
       "enlace": "https://www.abc.es/deportes/tenis/alcaraz-levanta-grande-jugara-segunda-final-consecutiva-20261121165314-nt.html"
     },
     {
-      "titular": "Bono pide a Felipe González que no vote en blanco: “El PSOE te debe mucho, pero tú más al PSOE”",
+      "titular": "Madrid enciende su Navidad desde el Pasaje de la Luz al mundo",
       "medios": [
-        "La Vanguardia"
+        "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-11-21T17:41:10+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20261121/11689938/bono-pide-felipe-gonzalez-vote-blanco-psoe-te-debe-mas-psoe.html"
+      "fecha": "2026-11-21T23:50:34+02:00",
+      "enlace": "https://www.abc.es/espana/madrid/madrid-enciende-navidad-pasaje-luz-mundo-20261121203519-nt.html"
     },
     {
-      "titular": "Oltra y Baldoví piden el voto a Compromís-FV: “Nos jugamos la vida; nadie puede quedarse en casa”",
+      "titular": "Raphael suspende un concierto en A Coruña a última hora por una indisposición",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-21T23:46:34+02:00",
+      "enlace": "https://elpais.com/cultura/2026-11-21/raphael-suspende-un-concierto-en-a-coruna-a-ultima-hora-por-una-indisposicion.html"
+    },
+    {
+      "titular": "La COP31 mantiene el bloqueo y alarga la prórroga en un ambiente de decepción",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-11-21T17:37:46+02:00",
-      "enlace": "https://www.lavanguardia.com/local/valencia/20261121/11689932/oltra-baldovi-piden-voto-compromis-fv-jugamos-vida-nadie-quedarse-casa.html"
+      "fecha": "2026-11-21T22:25:36+02:00",
+      "enlace": "https://www.lavanguardia.com/vida/20261121/11690033/cop31-mantiene-bloqueo-alarga-prorroga-visos-acuerdo.html"
+    },
+    {
+      "titular": "Fallecen dos trabajadores al caer a un foso en una empresa aceitera de Morón",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-21T22:19:54+02:00",
+      "enlace": "https://www.lavanguardia.com/sucesos/20261121/11690035/fallecen-dos-trabajadores-caer-foso-empresa-aceitera-moron.html"
     },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 5,
+    "antiguedad_minima_min": 3,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2341067,
+        "antiguedad_min": 2341373,
         "descartados_por_gancho": 0
       },
       {
@@ -97,28 +97,28 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 153,
+        "items": 155,
         "error": null,
-        "antiguedad_min": 5,
+        "antiguedad_min": 3,
         "descartados_por_gancho": 5
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 126,
+        "items": 129,
         "error": null,
-        "antiguedad_min": 71,
-        "descartados_por_gancho": 16
+        "antiguedad_min": 92,
+        "descartados_por_gancho": 14
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 23,
+        "items": 22,
         "error": null,
         "antiguedad_min": 5,
-        "descartados_por_gancho": 2
+        "descartados_por_gancho": 3
       }
     ]
   }
