@@ -1,26 +1,17 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "ultimas",
-  "generado": "2026-11-22T19:16:16+02:00",
+  "modo": "portadas",
+  "generado": "2026-11-23T00:39:10+02:00",
   "titulares": [
     {
-      "titular": "Bruno Fernandes enciende el ambiente antes del debut de Pochettino en el United",
+      "titular": "Alcaraz hace historia arrasando en Turín: nuevo campeón invicto de las ATP Finals",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-22T18:55:52+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/premier-league/20261122/1004254179/bruno-fernandes-enciende-ambiente-debut-pochettino-quisiera-dinero-no-estaria.html"
-    },
-    {
-      "titular": "Liverpool - Manchester United, en directo",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-22T18:55:03+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/premier-league/20261122/1004252412/liverpool-manchester-united-directo-premier-league.html"
+      "fecha": "2026-11-22T21:17:19+02:00",
+      "enlace": "https://www.mundodeportivo.com/tenis/20261122/1004254211/alcaraz-historia-arrasando-turin-nuevo-campeon-atp-finals.html"
     },
     {
       "titular": "La UEFA multa a Inglaterra por los cánticos anticatólicos de sus aficionados en Madrid",
@@ -32,6 +23,15 @@
       "enlace": "https://www.marca.com/futbol/nations-league/2026/11/20/uefa-multa-inglaterra-canticos-anticatolicos-aficionados-madrid.html"
     },
     {
+      "titular": "Marc Márquez, campeón del mundo por décima vez y ya es el más laureado de la historia moderna en MotoGP",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-22T15:51:37+02:00",
+      "enlace": "https://www.mundodeportivo.com/motor/motogp/20261122/1004254106/marc-marquez-campeon-mundo-motogp-decima-vez-laureado-historia-motogp.html"
+    },
+    {
       "titular": "La primera estrella víctima de la epidemia del GTA 6 que amenaza a los deportistas: la cazada a Mbeumo",
       "medios": [
         "Marca"
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/2026/11/20/primera-estrella-victima-epidemia-gta-6-amenaza-deportistas-cazada-mbeumo.html"
     },
     {
-      "titular": "Eric: \"El Barça de la segunda parte es el que queremos ver siempre\"",
+      "titular": "Remontada épica de un Barça de dos caras",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-22T18:49:32+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261122/1004254172/eric-barca-segunda-parte-queremos-ver-siempre.html"
+      "fecha": "2026-11-22T17:02:44+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261122/1004254088/cronica-barca-villarreal.html"
     },
     {
-      "titular": "Barça - Athletic Club, en directo",
+      "titular": "El botín de más de un millón y medio de dólares que acumula Zverev en las ATP Finals de Turín",
       "medios": [
-        "Mundo Deportivo"
+        "Marca"
       ],
       "consenso": 1,
-      "fecha": "2026-11-22T18:47:42+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261122/1004254013/barca-athletic-club-directo-liga-f-futbol-femenino.html"
+      "fecha": "2026-11-20T09:30:10+02:00",
+      "enlace": "https://www.marca.com/tenis/copa-masters/2026/11/20/botin-millon-medio-dolares-acumula-zverev-atp-finals-turin.html"
     },
     {
-      "titular": "El Augsburgo gana al Mainz a balón parado y rompe su mala racha",
+      "titular": "Roberto Gómez señala a Mourinho: \"Lo único que tiene que hacer es poner de titular a Vinicius\"",
       "medios": [
-        "Mundo Deportivo"
+        "Marca"
       ],
       "consenso": 1,
-      "fecha": "2026-11-22T18:45:36+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/bundesliga/20261122/1004254115/augsburgo-gana-mainz-balon-parado-rompe-mala-racha.html"
+      "fecha": "2026-11-20T09:24:51+02:00",
+      "enlace": "https://www.marca.com/radio/2026/11/20/roberto-gomez-senala-mourinho-unico-poner-titular-vinicius.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 20,
+    "antiguedad_minima_min": 23,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 72,
         "error": null,
-        "antiguedad_min": 3449,
+        "antiguedad_min": 3772,
         "descartados_por_gancho": 4
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 133,
+        "items": 151,
         "error": null,
-        "antiguedad_min": 20,
-        "descartados_por_gancho": 9
+        "antiguedad_min": 23,
+        "descartados_por_gancho": 2
       },
       {
         "medio": "Sport",

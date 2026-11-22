@@ -1,44 +1,17 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "ultimas",
-  "generado": "2026-11-22T19:16:22+02:00",
+  "modo": "portadas",
+  "generado": "2026-11-23T00:39:17+02:00",
   "titulares": [
     {
-      "titular": "Torres Assiego (URJC) alerta sobre el factor geopolítico y la IA: “Una cosa es gobernar la inteligencia artificial y una cosa es regularla”",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-22T19:01:20+02:00",
-      "enlace": "https://www.redaccionmedica.com/profesionales/derecho-sanitario/20261122/torres-assiego-urjc-alerta-sobre-el-factor-geopolitico-la-ia-una-cosa-es-gobernar-inteligencia-artificial-una-regularla/366270_0.html"
-    },
-    {
-      "titular": "Vilella (Asisa): “La RC de los seguros médicos debe revisarse para un escenario con varios responsables”",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-22T18:59:39+02:00",
-      "enlace": "https://www.redaccionmedica.com/profesionales/derecho-sanitario/20261122/vilella-asisa-la-rc-de-los-seguros-medicos-debe-revisarse-para-un-escenario-con-varios-responsables/366220_0.html"
-    },
-    {
-      "titular": "Sanidad de Castilla-La Mancha apuesta por la atención sociosanitaria en enfermedades raras",
+      "titular": "La Aemps destaca los avances contra las resistencias y prepara la certificación de los PROA",
       "medios": [
         "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-11-22T18:13:10+02:00",
-      "enlace": "https://diariofarma.com/2026/11/22/sanidad-de-castilla-la-mancha-apuesta-por-la-atencion-sociosanitaria-en-enfermedades-raras"
-    },
-    {
-      "titular": "Qué une a PP y Vox en sanidad: tarjeta única, listas de espera y paliativos; la farmacia no tanto",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-22T18:04:49+02:00",
-      "enlace": "https://diariofarma.com/2026/11/22/que-une-ya-pp-y-vox-en-sanidad-tarjeta-unica-listas-de-espera-y-paliativos-la-farmacia-no-tanto"
+      "fecha": "2026-11-22T20:50:47+02:00",
+      "enlace": "https://diariofarma.com/2026/11/22/la-aemps-destaca-los-avances-contra-las-resistencias-y-prepara-la-certificacion-de-los-proa"
     },
     {
       "titular": "La innovación y los pacientes no esperan a las urnas",
@@ -50,6 +23,24 @@
       "enlace": "https://elglobalfarma.com/opinion/editorial/acceso-innovacion-farmaceutica-elecciones-cipm/"
     },
     {
+      "titular": "Del Estatuto Marco a listas de espera: los programas sanitarios de cada partido para el 29N, al detalle",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-22T19:15:19+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20261122/del-estatuto-marco-listas-de-espera-los-programas-sanitarios-cada-partido-para-el-al-detalle/365755_0.html"
+    },
+    {
+      "titular": "“El Ministerio ha puesto las bases de reformas que irán más allá de esta legislatura”",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-22T20:02:27+02:00",
+      "enlace": "https://diariofarma.com/2026/11/22/el-ministerio-ha-puesto-las-bases-de-reformas-que-iran-mas-alla-de-esta-legislatura"
+    },
+    {
       "titular": "Solo el 28% de los medicamentos innovadores logra compensar la inversión en I+D realizada por la compañía",
       "medios": [
         "El Global"
@@ -59,13 +50,22 @@
       "enlace": "https://elglobalfarma.com/industria/medicamentos-innovadores-retorno-economico-positivo/"
     },
     {
-      "titular": "La salud al otro lado de la pantalla",
+      "titular": "La norma de fármacos para animales que mira a su final con criba europea y dudas en la política española",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-11-22T18:42:31+02:00",
-      "enlace": "https://www.redaccionmedica.com/opinion/20261122/la-salud-al-otro-lado-de-la-pantalla/366304_12.html"
+      "fecha": "2026-11-22T17:27:29+02:00",
+      "enlace": "https://www.redaccionmedica.com/salud-animal/20261122/la-norma-de-farmacos-para-animales-que-mira-su-final-con-criba-europea-dudas-en-la-politica-espanola/366016_0.html"
+    },
+    {
+      "titular": "La Efpia plantea un reembolso provisional mientras se negocia el precio definitivo",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-22T19:11:41+02:00",
+      "enlace": "https://diariofarma.com/2026/11/22/la-efpia-pide-fijar-precio-tras-la-autorizacion-ema-para-dar-acceso-desde-el-dia-uno"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 14,
+    "antiguedad_minima_min": 228,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 63,
+        "antiguedad_min": 228,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 9,
         "error": null,
-        "antiguedad_min": 3132,
+        "antiguedad_min": 3455,
         "descartados_por_gancho": 1
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 29,
         "error": null,
-        "antiguedad_min": 14,
+        "antiguedad_min": 323,
         "descartados_por_gancho": 1
       },
       {

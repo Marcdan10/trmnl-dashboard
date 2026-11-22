@@ -1,65 +1,9 @@
 {
   "pantalla": "generales",
   "titulo": "Titulares",
-  "modo": "ultimas",
-  "generado": "2026-11-22T19:16:11+02:00",
+  "modo": "portadas",
+  "generado": "2026-11-23T00:39:06+02:00",
   "titulares": [
-    {
-      "titular": "Alexander Zverev - Carlos Alcaraz en directo, la final de las ATP Finals en vivo",
-      "medios": [
-        "El País",
-        "La Vanguardia"
-      ],
-      "consenso": 2,
-      "fecha": "2026-11-22T19:08:46+02:00",
-      "enlace": "https://elpais.com/deportes/tenis/2026-11-22/alexander-zverev-carlos-alcaraz-en-directo-la-final-de-las-atp-finals-en-vivo.html"
-    },
-    {
-      "titular": "Alcaraz busca ante Zverev su primer título de la Copa de Maestros",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-22T19:07:27+02:00",
-      "enlace": "https://www.abc.es/deportes/tenis/alcaraz-zverev-sigue-directo-final-copa-maestros-20261122173545-di.html"
-    },
-    {
-      "titular": "Hansi Flick: “Siempre pasa lo mismo con este árbitro”",
-      "medios": [
-        "El País",
-        "La Vanguardia"
-      ],
-      "consenso": 2,
-      "fecha": "2026-11-22T18:57:59+02:00",
-      "enlace": "https://elpais.com/deportes/futbol/2026-11-22/hansi-flick-siempre-pasa-lo-mismo-con-este-arbitro.html"
-    },
-    {
-      "titular": "Centenares de viajeros atrapados en la T4 de Barajas por una avería del tren que une con la Terminal Satélite",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-22T18:52:35+02:00",
-      "enlace": "https://www.abc.es/espana/madrid/centenares-viajeros-atrapados-averia-tren-une-terminal-20261122134839-nt.html"
-    },
-    {
-      "titular": "Fuertes vientos en Tarragona y caída de las temperaturas en el Mediterráneo",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-22T18:32:14+02:00",
-      "enlace": "https://www.lavanguardia.com/vida/20261122/11690517/lunes-clima-tiempo-meteorologia-viento-tarragona.html"
-    },
-    {
-      "titular": "Brilla Pedri; gracias De la Fuente",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-22T18:22:27+02:00",
-      "enlace": "https://www.lavanguardia.com/deportes/fc-barcelona/20261122/11690523/pedri-brilla-gracas-de-la-fuente-barcelona-villarreal.html"
-    },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
       "medios": [
@@ -68,6 +12,60 @@
       "consenso": 1,
       "fecha": "2022-06-10T01:05:00+02:00",
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
+    },
+    {
+      "titular": "¿Se ha movido el voto útil? Las opciones de izquierda y derecha en cada provincia con las últimas encuestas",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-21T06:30:01+02:00",
+      "enlace": "https://elpais.com/espana/elecciones-generales/2026-11-21/se-ha-movido-el-voto-util-las-opciones-de-izquierda-y-derecha-en-cada-provincia-con-las-ultimas-encuestas.html"
+    },
+    {
+      "titular": "La derecha suma mayoría absoluta mientras el PSOE se acerca al PP",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-22T01:00:00+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20261122/11689982/derecha-suma-mayoria-absoluta-psoe-acerca-pp.html"
+    },
+    {
+      "titular": "El Atlético vuelve a brillar lejos de casa",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-23T00:06:57+02:00",
+      "enlace": "https://www.abc.es/deportes/atletico-madrid/cronica-getafe-atletico-20261122094725-nt.html"
+    },
+    {
+      "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
+      "medios": [
+        "RTVE"
+      ],
+      "consenso": 1,
+      "fecha": "2022-06-10T00:03:00+02:00",
+      "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
+    },
+    {
+      "titular": "¿Cómo se mueven las encuestas? Lo que dice nuestro promedio",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-22T18:30:32+02:00",
+      "enlace": "https://elpais.com/espana/elecciones-generales/2026-11-14/que-dice-el-promedio-de-encuestas-consulta-todos-los-sondeos-en-tiempo-real.html"
+    },
+    {
+      "titular": "La mayoría quiere que el nuevo gobierno se centre en la vivienda",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-22T01:00:00+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20261122/11690020/mayoria-quiere-nuevo-gobierno-centre-vivienda.html"
     }
   ],
   "salud": {
@@ -76,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 7,
+    "antiguedad_minima_min": 22,
     "detalle": [
       {
         "medio": "RTVE",
@@ -84,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2342531,
+        "antiguedad_min": 2342854,
         "descartados_por_gancho": 0
       },
       {
@@ -101,26 +99,26 @@
         "ok": true,
         "items": 143,
         "error": null,
-        "antiguedad_min": 7,
+        "antiguedad_min": 22,
         "descartados_por_gancho": 8
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 136,
+        "items": 138,
         "error": null,
-        "antiguedad_min": 43,
-        "descartados_por_gancho": 19
+        "antiguedad_min": 125,
+        "descartados_por_gancho": 16
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 25,
+        "items": 24,
         "error": null,
-        "antiguedad_min": 8,
-        "descartados_por_gancho": 0
+        "antiguedad_min": 32,
+        "descartados_por_gancho": 1
       }
     ]
   }
