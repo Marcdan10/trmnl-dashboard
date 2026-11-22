@@ -1,17 +1,44 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "portadas",
-  "generado": "2026-11-22T11:23:46+02:00",
+  "modo": "ultimas",
+  "generado": "2026-11-22T19:16:22+02:00",
   "titulares": [
     {
-      "titular": "El COFM y la Policía Nacional detallan claves para reforzar la seguridad en farmacias",
+      "titular": "Torres Assiego (URJC) alerta sobre el factor geopolítico y la IA: “Una cosa es gobernar la inteligencia artificial y una cosa es regularla”",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-22T19:01:20+02:00",
+      "enlace": "https://www.redaccionmedica.com/profesionales/derecho-sanitario/20261122/torres-assiego-urjc-alerta-sobre-el-factor-geopolitico-la-ia-una-cosa-es-gobernar-inteligencia-artificial-una-regularla/366270_0.html"
+    },
+    {
+      "titular": "Vilella (Asisa): “La RC de los seguros médicos debe revisarse para un escenario con varios responsables”",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-22T18:59:39+02:00",
+      "enlace": "https://www.redaccionmedica.com/profesionales/derecho-sanitario/20261122/vilella-asisa-la-rc-de-los-seguros-medicos-debe-revisarse-para-un-escenario-con-varios-responsables/366220_0.html"
+    },
+    {
+      "titular": "Sanidad de Castilla-La Mancha apuesta por la atención sociosanitaria en enfermedades raras",
       "medios": [
         "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-11-21T20:12:36+02:00",
-      "enlace": "https://diariofarma.com/2026/11/21/el-cofm-y-la-policia-nacional-detallan-claves-para-reforzar-la-seguridad-en-farmacias"
+      "fecha": "2026-11-22T18:13:10+02:00",
+      "enlace": "https://diariofarma.com/2026/11/22/sanidad-de-castilla-la-mancha-apuesta-por-la-atencion-sociosanitaria-en-enfermedades-raras"
+    },
+    {
+      "titular": "Qué une a PP y Vox en sanidad: tarjeta única, listas de espera y paliativos; la farmacia no tanto",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-22T18:04:49+02:00",
+      "enlace": "https://diariofarma.com/2026/11/22/que-une-ya-pp-y-vox-en-sanidad-tarjeta-unica-listas-de-espera-y-paliativos-la-farmacia-no-tanto"
     },
     {
       "titular": "La innovación y los pacientes no esperan a las urnas",
@@ -23,24 +50,6 @@
       "enlace": "https://elglobalfarma.com/opinion/editorial/acceso-innovacion-farmaceutica-elecciones-cipm/"
     },
     {
-      "titular": "De cobrar 1.400 euros como enfermera en Barcelona a ahorrar 2.000 al mes: \"Ahora siento que tengo muchísimo prestigio social\"",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-22T11:03:40+02:00",
-      "enlace": "https://www.redaccionmedica.com/profesionales/enfermeria/20261122/de-cobrar-euros-como-enfermera-en-barcelona-ahorrar-al-mes-ahora-siento-que-tengo-muchisimo-prestigio-social/364755_0.html"
-    },
-    {
-      "titular": "Expertos reclaman más innovación biomédica e IA para frenar la caída de ensayos en la UE",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-21T19:43:28+02:00",
-      "enlace": "https://diariofarma.com/2026/11/21/expertos-reclaman-mas-innovacion-biomedica-e-ia-para-frenar-la-caida-de-ensayos-en-la-ue"
-    },
-    {
       "titular": "Solo el 28% de los medicamentos innovadores logra compensar la inversión en I+D realizada por la compañía",
       "medios": [
         "El Global"
@@ -50,22 +59,13 @@
       "enlace": "https://elglobalfarma.com/industria/medicamentos-innovadores-retorno-economico-positivo/"
     },
     {
-      "titular": "La vacuna española contra la tuberculosis busca ser universal: \"Queremos que sea la mejor para el mundo\"",
+      "titular": "La salud al otro lado de la pantalla",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-11-21T17:52:52+02:00",
-      "enlace": "https://www.redaccionmedica.com/empresas/industria-farmaceutica/20261121/la-vacuna-espanola-contra-la-tuberculosis-busca-ser-universal-queremos-que-sea-mejor-para-el-mundo/365687_0.html"
-    },
-    {
-      "titular": "Sanidad abre la selección de entidades españolas para cinco acciones EU4Health",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-21T19:05:55+02:00",
-      "enlace": "https://diariofarma.com/2026/11/21/sanidad-abre-la-seleccion-de-entidades-espanolas-para-cinco-acciones-conjuntas-eu4health"
+      "fecha": "2026-11-22T18:42:31+02:00",
+      "enlace": "https://www.redaccionmedica.com/opinion/20261122/la-salud-al-otro-lado-de-la-pantalla/366304_12.html"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 20,
+    "antiguedad_minima_min": 14,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 911,
+        "antiguedad_min": 63,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 9,
         "error": null,
-        "antiguedad_min": 2659,
+        "antiguedad_min": 3132,
         "descartados_por_gancho": 1
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 29,
         "error": null,
-        "antiguedad_min": 20,
+        "antiguedad_min": 14,
         "descartados_por_gancho": 1
       },
       {
