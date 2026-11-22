@@ -1,8 +1,8 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "ultimas",
-  "generado": "2026-11-21T23:58:35+02:00",
+  "modo": "portadas",
+  "generado": "2026-11-22T03:57:11+02:00",
   "titulares": [
     {
       "titular": "El COFM y la Policía Nacional detallan claves para reforzar la seguridad en farmacias",
@@ -14,22 +14,13 @@
       "enlace": "https://diariofarma.com/2026/11/21/el-cofm-y-la-policia-nacional-detallan-claves-para-reforzar-la-seguridad-en-farmacias"
     },
     {
-      "titular": "Expertos reclaman más innovación biomédica e IA para frenar la caída de ensayos en la UE",
+      "titular": "La innovación y los pacientes no esperan a las urnas",
       "medios": [
-        "Diariofarma"
+        "El Global"
       ],
       "consenso": 1,
-      "fecha": "2026-11-21T19:43:28+02:00",
-      "enlace": "https://diariofarma.com/2026/11/21/expertos-reclaman-mas-innovacion-biomedica-e-ia-para-frenar-la-caida-de-ensayos-en-la-ue"
-    },
-    {
-      "titular": "Stephannie, la médica colombiana que aterrizó en España en busca de una vida mejor: \"Salimos con muchísima experiencia de la carrera\"",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-21T19:10:24+02:00",
-      "enlace": "https://www.redaccionmedica.com/profesionales/medicina/20261121/stephannie-la-medica-colombiana-que-aterrizo-en-espana-busca-de-una-vida-mejor-salimos-con-muchisima-experiencia-carrera/365222_0.html"
+      "fecha": "2026-11-20T15:03:48+02:00",
+      "enlace": "https://elglobalfarma.com/opinion/editorial/acceso-innovacion-farmaceutica-elecciones-cipm/"
     },
     {
       "titular": "La sanidad privada acelera su apuesta por la anestesia verde: la sostenibilidad como palanca para revisar 'viejos' procesos",
@@ -41,13 +32,13 @@
       "enlace": "https://www.redaccionmedica.com/empresas/sanidad-privada/20261121/la-sanidad-privada-acelera-su-apuesta-por-la-anestesia-verde-sostenibilidad-como-palanca-para-revisar-viejos-procesos/364938_0.html"
     },
     {
-      "titular": "La innovación y los pacientes no esperan a las urnas",
+      "titular": "Expertos reclaman más innovación biomédica e IA para frenar la caída de ensayos en la UE",
       "medios": [
-        "El Global"
+        "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-11-20T15:03:48+02:00",
-      "enlace": "https://elglobalfarma.com/opinion/editorial/acceso-innovacion-farmaceutica-elecciones-cipm/"
+      "fecha": "2026-11-21T19:43:28+02:00",
+      "enlace": "https://diariofarma.com/2026/11/21/expertos-reclaman-mas-innovacion-biomedica-e-ia-para-frenar-la-caida-de-ensayos-en-la-ue"
     },
     {
       "titular": "Solo el 28% de los medicamentos innovadores logra compensar la inversión en I+D realizada por la compañía",
@@ -57,6 +48,15 @@
       "consenso": 1,
       "fecha": "2026-11-20T14:46:11+02:00",
       "enlace": "https://elglobalfarma.com/industria/medicamentos-innovadores-retorno-economico-positivo/"
+    },
+    {
+      "titular": "La vacuna española contra la tuberculosis busca ser universal: \"Queremos que sea la mejor para el mundo\"",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-21T17:52:52+02:00",
+      "enlace": "https://www.redaccionmedica.com/empresas/industria-farmaceutica/20261121/la-vacuna-espanola-contra-la-tuberculosis-busca-ser-universal-queremos-que-sea-mejor-para-el-mundo/365687_0.html"
     },
     {
       "titular": "Sanidad abre la selección de entidades españolas para cinco acciones EU4Health",
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 225,
+    "antiguedad_minima_min": 464,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 225,
+        "antiguedad_min": 464,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 9,
         "error": null,
-        "antiguedad_min": 1974,
+        "antiguedad_min": 2213,
         "descartados_por_gancho": 1
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 288,
+        "antiguedad_min": 526,
         "descartados_por_gancho": 0
       },
       {

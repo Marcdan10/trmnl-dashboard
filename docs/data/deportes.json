@@ -1,26 +1,17 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "ultimas",
-  "generado": "2026-11-21T23:58:29+02:00",
+  "modo": "portadas",
+  "generado": "2026-11-22T03:57:04+02:00",
   "titulares": [
     {
-      "titular": "Belletti actualiza el estado de Hamza y asegura que el equipo va \"por el buen camino\"",
+      "titular": "Espí acude otra vez al rescate del Madrid",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-21T23:27:03+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261121/1004253873/belletti-actualiza-hamza-asegura-equipo-buen-camino.html"
-    },
-    {
-      "titular": "El bicampeón Zverev gana y sella con Alcaraz una final de invictos en Turín",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-21T23:12:36+02:00",
-      "enlace": "https://www.mundodeportivo.com/tenis/20261121/1004253876/bicampeon-zverev-gana-sella-alcaraz-final-invictos-turin.html"
+      "fecha": "2026-11-22T00:08:16+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20261121/1004253893/espi-acude-vez-rescate-madrid.html"
     },
     {
       "titular": "La UEFA multa a Inglaterra por los cánticos anticatólicos de sus aficionados en Madrid",
@@ -32,6 +23,15 @@
       "enlace": "https://www.marca.com/futbol/nations-league/2026/11/20/uefa-multa-inglaterra-canticos-anticatolicos-aficionados-madrid.html"
     },
     {
+      "titular": "Así queda la clasificación de LaLiga EA Sports tras el triunfo del Real Madrid sobre el Celta",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-22T00:20:51+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/laliga/20261121/1004253896/asi-queda-clasificacion-laliga-ea-sports-triunfo-real-madrid-sobre-celta.html"
+    },
+    {
       "titular": "La primera estrella víctima de la epidemia del GTA 6 que amenaza a los deportistas: la cazada a Mbeumo",
       "medios": [
         "Marca"
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/2026/11/20/primera-estrella-victima-epidemia-gta-6-amenaza-deportistas-cazada-mbeumo.html"
     },
     {
-      "titular": "25-42: El Barça impone su ley para ser líder en solitario",
+      "titular": "Joan Laporta: \"Este será el año, el equipo lo tiene claro\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-21T23:05:08+02:00",
-      "enlace": "https://www.mundodeportivo.com/balonmano/20261121/1004253852/barca-impone-ley-lider-solitario.html"
+      "fecha": "2026-11-21T21:49:04+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261121/1004253849/joan-laporta-sera-ano-equipo-claro.html"
     },
     {
-      "titular": "90-86: El Kids&Us Manresa sigue en racha",
+      "titular": "El botín de más de un millón y medio de dólares que acumula Zverev en las ATP Finals de Turín",
       "medios": [
-        "Mundo Deportivo"
+        "Marca"
       ],
       "consenso": 1,
-      "fecha": "2026-11-21T23:04:58+02:00",
-      "enlace": "https://www.mundodeportivo.com/baloncesto/acb/20261121/1004253877/90-86-kids-us-manresa-sigue-racha.html"
+      "fecha": "2026-11-20T09:30:10+02:00",
+      "enlace": "https://www.marca.com/tenis/copa-masters/2026/11/20/botin-millon-medio-dolares-acumula-zverev-atp-finals-turin.html"
     },
     {
-      "titular": "El espectacular 'look' de Laura Escanes en la noche de la música en Barcelona",
+      "titular": "El 1x1 del Real Madrid ante el Celta",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-21T22:55:24+02:00",
-      "enlace": "https://www.mundodeportivo.com/elotromundo/gente/20261121/1004253868/espectacular-look-laura-escanes-noche-musica-barcelona-galeria-dct.html"
+      "fecha": "2026-11-22T00:38:26+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20261121/1004253885/1x1-real-madrid-celta.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 31,
+    "antiguedad_minima_min": 152,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 72,
         "error": null,
-        "antiguedad_min": 2291,
+        "antiguedad_min": 2529,
         "descartados_por_gancho": 4
       },
       {
@@ -99,9 +99,9 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 141,
+        "items": 139,
         "error": null,
-        "antiguedad_min": 31,
+        "antiguedad_min": 152,
         "descartados_por_gancho": 6
       },
       {
