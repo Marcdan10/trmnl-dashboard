@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-11-22T03:57:01+02:00",
+  "generado": "2026-11-22T11:23:35+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -14,13 +14,13 @@
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
     },
     {
-      "titular": "La distancia entre el PP y el PSOE se estrecha al mínimo pese a la victoria de Feijóo en el debate",
+      "titular": "¿Se ha movido el voto útil? Las opciones de izquierda y derecha en cada provincia con las últimas encuestas",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-11-20T15:26:52+02:00",
-      "enlace": "https://elpais.com/espana/elecciones-generales/2026-11-20/la-distancia-entre-el-pp-y-el-psoe-se-estrecha-al-minimo-pese-a-la-victoria-de-feijoo-en-el-debate.html"
+      "fecha": "2026-11-21T06:30:01+02:00",
+      "enlace": "https://elpais.com/espana/elecciones-generales/2026-11-21/se-ha-movido-el-voto-util-las-opciones-de-izquierda-y-derecha-en-cada-provincia-con-las-ultimas-encuestas.html"
     },
     {
       "titular": "La derecha suma mayoría absoluta mientras el PSOE se acerca al PP",
@@ -32,13 +32,13 @@
       "enlace": "https://www.lavanguardia.com/politica/20261122/11689982/derecha-suma-mayoria-absoluta-psoe-acerca-pp.html"
     },
     {
-      "titular": "Espí se vuelve a poner la capa de superhéroe y culmina otra remontada del Madrid",
+      "titular": "José F. Peláez: «Feijóo encuentra su mejor versión»",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-11-22T03:41:58+02:00",
-      "enlace": "https://www.abc.es/deportes/real-madrid/espi-vuelve-poner-capa-superheroe-culmina-remontada-20261121230434-nt.html"
+      "fecha": "2026-11-22T11:11:02+02:00",
+      "enlace": "https://www.abc.es/espana/feijoo-encuentra-mejor-version-20261121200105-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -59,13 +59,13 @@
       "enlace": "https://elpais.com/espana/elecciones-generales/2026-11-14/que-dice-el-promedio-de-encuestas-consulta-todos-los-sondeos-en-tiempo-real.html"
     },
     {
-      "titular": "La mayoría quiere que el nuevo gobierno se centre en la vivienda",
+      "titular": "Las razones demoscópicas del cambio",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-11-22T01:00:00+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20261122/11690020/mayoria-quiere-nuevo-gobierno-centre-vivienda.html"
+      "fecha": "2026-11-22T07:00:00+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20261122/11690003/razones-demoscopicas-cambio.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 15,
+    "antiguedad_minima_min": 12,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2341611,
+        "antiguedad_min": 2342058,
         "descartados_por_gancho": 0
       },
       {
@@ -97,28 +97,28 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 156,
+        "items": 141,
         "error": null,
-        "antiguedad_min": 128,
-        "descartados_por_gancho": 5
+        "antiguedad_min": 21,
+        "descartados_por_gancho": 11
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 132,
+        "items": 126,
         "error": null,
-        "antiguedad_min": 147,
-        "descartados_por_gancho": 13
+        "antiguedad_min": 83,
+        "descartados_por_gancho": 19
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 23,
+        "items": 24,
         "error": null,
-        "antiguedad_min": 15,
-        "descartados_por_gancho": 2
+        "antiguedad_min": 12,
+        "descartados_por_gancho": 1
       }
     ]
   }

@@ -2,16 +2,16 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-11-22T03:57:04+02:00",
+  "generado": "2026-11-22T11:23:40+02:00",
   "titulares": [
     {
-      "titular": "Espí acude otra vez al rescate del Madrid",
+      "titular": "Barça-Villarreal: Un regreso exigente",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-22T00:08:16+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20261121/1004253893/espi-acude-vez-rescate-madrid.html"
+      "fecha": "2026-11-22T08:00:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261122/1004253901/barca-villarreal-regreso-exigente.html"
     },
     {
       "titular": "La UEFA multa a Inglaterra por los cánticos anticatólicos de sus aficionados en Madrid",
@@ -23,13 +23,13 @@
       "enlace": "https://www.marca.com/futbol/nations-league/2026/11/20/uefa-multa-inglaterra-canticos-anticatolicos-aficionados-madrid.html"
     },
     {
-      "titular": "Así queda la clasificación de LaLiga EA Sports tras el triunfo del Real Madrid sobre el Celta",
+      "titular": "Iñigo Pérez buscará revertir su mal balance ante el Barça con la buena racha del Villarreal",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-22T00:20:51+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/laliga/20261121/1004253896/asi-queda-clasificacion-laliga-ea-sports-triunfo-real-madrid-sobre-celta.html"
+      "fecha": "2026-11-22T08:00:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261122/1004253766/inigo-perez-buscara-revertir-mal-balance-barca-buena-racha-villarreal.html"
     },
     {
       "titular": "La primera estrella víctima de la epidemia del GTA 6 que amenaza a los deportistas: la cazada a Mbeumo",
@@ -41,13 +41,13 @@
       "enlace": "https://www.marca.com/futbol/2026/11/20/primera-estrella-victima-epidemia-gta-6-amenaza-deportistas-cazada-mbeumo.html"
     },
     {
-      "titular": "Joan Laporta: \"Este será el año, el equipo lo tiene claro\"",
+      "titular": "Verstappen gana una carrera de infarto y locura en Las Vegas; Sainz, remontada heroica",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-21T21:49:04+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261121/1004253849/joan-laporta-sera-ano-equipo-claro.html"
+      "fecha": "2026-11-22T07:49:26+02:00",
+      "enlace": "https://www.mundodeportivo.com/motor/f1/20261122/1004253984/verstappen-gana-carrera-infarto-locura-vegas-sainz-remontada-heroica.html"
     },
     {
       "titular": "El botín de más de un millón y medio de dólares que acumula Zverev en las ATP Finals de Turín",
@@ -59,13 +59,13 @@
       "enlace": "https://www.marca.com/tenis/copa-masters/2026/11/20/botin-millon-medio-dolares-acumula-zverev-atp-finals-turin.html"
     },
     {
-      "titular": "El 1x1 del Real Madrid ante el Celta",
+      "titular": "Roberto Gómez señala a Mourinho: \"Lo único que tiene que hacer es poner de titular a Vinicius\"",
       "medios": [
-        "Mundo Deportivo"
+        "Marca"
       ],
       "consenso": 1,
-      "fecha": "2026-11-22T00:38:26+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20261121/1004253885/1x1-real-madrid-celta.html"
+      "fecha": "2026-11-20T09:24:51+02:00",
+      "enlace": "https://www.marca.com/radio/2026/11/20/roberto-gomez-senala-mourinho-unico-poner-titular-vinicius.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 152,
+    "antiguedad_minima_min": 53,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 72,
         "error": null,
-        "antiguedad_min": 2529,
+        "antiguedad_min": 2976,
         "descartados_por_gancho": 4
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 139,
+        "items": 137,
         "error": null,
-        "antiguedad_min": 152,
-        "descartados_por_gancho": 6
+        "antiguedad_min": 53,
+        "descartados_por_gancho": 8
       },
       {
         "medio": "Sport",
