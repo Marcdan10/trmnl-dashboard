@@ -1,9 +1,63 @@
 {
   "pantalla": "generales",
   "titulo": "Titulares",
-  "modo": "portadas",
-  "generado": "2026-11-23T05:25:36+02:00",
+  "modo": "ultimas",
+  "generado": "2026-11-23T15:26:03+02:00",
   "titulares": [
+    {
+      "titular": "Ucrania reivindica el hundimiento de un buque de guerra ruso frente a Libia",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-23T15:22:37+02:00",
+      "enlace": "https://www.abc.es/internacional/zelenski-reivindica-ataque-drones-corbeta-rusia-anclada-20261123090950-nt.html"
+    },
+    {
+      "titular": "Armenia y Estados Unidos empiezan las obras de la Ruta Trump, el corredor que unirá Azerbaiyán con su enclave de Najicheván",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-23T15:18:58+02:00",
+      "enlace": "https://elpais.com/internacional/2026-11-23/armenia-y-estados-unidos-empiezan-las-obras-de-la-ruta-trump-el-corredor-que-unira-azerbaiyan-con-su-enclave-de-najichevan.html"
+    },
+    {
+      "titular": "Marc Márquez lo celebra en Madrid: «La clave es no tener miedo al fracaso»",
+      "medios": [
+        "ABC"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-23T15:17:03+02:00",
+      "enlace": "https://www.abc.es/deportes/marc-marquez-celebra-madrid-clave-tener-miedo-20261123140459-nt.html"
+    },
+    {
+      "titular": "El padre y la hija detenidos por el ICE en Seattle son solicitantes de asilo y se dirigían a un bautizo",
+      "medios": [
+        "El País"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-23T15:13:43+02:00",
+      "enlace": "https://elpais.com/us/migracion/2026-11-23/el-padre-y-la-hija-detenidos-por-el-ice-en-seattle-son-solicitantes-de-asilo-segun-la-abogada.html"
+    },
+    {
+      "titular": "La CE investiga a Coca-Cola EP por restricciones al comercio de sus bebidas",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-23T14:51:33+02:00",
+      "enlace": "https://www.lavanguardia.com/dinero/20261123/11691267/ce-investiga-coca-cola-ep-restricciones-comercio-bebidas.html"
+    },
+    {
+      "titular": "La intrahistoria del lanzamiento de penalti que Lamine Yamal falló ante el Villarreal",
+      "medios": [
+        "La Vanguardia"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-23T14:45:10+02:00",
+      "enlace": "https://www.lavanguardia.com/deportes/futbol/20261123/11691248/intrahistoria-lanzamiento-penalti-lamine-yamal-villarreal-fallado-conversacion-raphinha.html"
+    },
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
       "medios": [
@@ -12,60 +66,6 @@
       "consenso": 1,
       "fecha": "2022-06-10T01:05:00+02:00",
       "enlace": "http://www.rtve.es/noticias/20220610/tres-muertos-tres-heridos-nuevo-tiroteo-masivo-estados-unidos/2372502.shtml"
-    },
-    {
-      "titular": "¿Se ha movido el voto útil? Las opciones de izquierda y derecha en cada provincia con las últimas encuestas",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-21T06:30:01+02:00",
-      "enlace": "https://elpais.com/espana/elecciones-generales/2026-11-21/se-ha-movido-el-voto-util-las-opciones-de-izquierda-y-derecha-en-cada-provincia-con-las-ultimas-encuestas.html"
-    },
-    {
-      "titular": "La derecha suma mayoría absoluta mientras el PSOE se acerca al PP",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-22T01:00:00+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20261122/11689982/derecha-suma-mayoria-absoluta-psoe-acerca-pp.html"
-    },
-    {
-      "titular": "Alcaraz ya tiene su obra maestra",
-      "medios": [
-        "ABC"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-23T03:45:23+02:00",
-      "enlace": "https://www.abc.es/deportes/tenis/alcaraz-obra-maestra-20261122201829-nt.html"
-    },
-    {
-      "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
-      "medios": [
-        "RTVE"
-      ],
-      "consenso": 1,
-      "fecha": "2022-06-10T00:03:00+02:00",
-      "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
-    },
-    {
-      "titular": "¿Cómo se mueven las encuestas? Lo que dice nuestro promedio",
-      "medios": [
-        "El País"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-22T18:30:32+02:00",
-      "enlace": "https://elpais.com/espana/elecciones-generales/2026-11-14/que-dice-el-promedio-de-encuestas-consulta-todos-los-sondeos-en-tiempo-real.html"
-    },
-    {
-      "titular": "La mayoría quiere que el nuevo gobierno se centre en la vivienda",
-      "medios": [
-        "La Vanguardia"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-22T01:00:00+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20261122/11690020/mayoria-quiere-nuevo-gobierno-centre-vivienda.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 100,
+    "antiguedad_minima_min": 3,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2343140,
+        "antiguedad_min": 2343740,
         "descartados_por_gancho": 0
       },
       {
@@ -97,28 +97,28 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 141,
+        "items": 144,
         "error": null,
-        "antiguedad_min": 309,
+        "antiguedad_min": 7,
         "descartados_por_gancho": 8
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 139,
+        "items": 130,
         "error": null,
-        "antiguedad_min": 235,
-        "descartados_por_gancho": 14
+        "antiguedad_min": 34,
+        "descartados_por_gancho": 17
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 24,
+        "items": 25,
         "error": null,
-        "antiguedad_min": 100,
-        "descartados_por_gancho": 1
+        "antiguedad_min": 3,
+        "descartados_por_gancho": 0
       }
     ]
   }
