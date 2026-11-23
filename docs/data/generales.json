@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-11-23T00:39:06+02:00",
+  "generado": "2026-11-23T05:25:36+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -32,13 +32,13 @@
       "enlace": "https://www.lavanguardia.com/politica/20261122/11689982/derecha-suma-mayoria-absoluta-psoe-acerca-pp.html"
     },
     {
-      "titular": "El Atlético vuelve a brillar lejos de casa",
+      "titular": "Alcaraz ya tiene su obra maestra",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-11-23T00:06:57+02:00",
-      "enlace": "https://www.abc.es/deportes/atletico-madrid/cronica-getafe-atletico-20261122094725-nt.html"
+      "fecha": "2026-11-23T03:45:23+02:00",
+      "enlace": "https://www.abc.es/deportes/tenis/alcaraz-obra-maestra-20261122201829-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 22,
+    "antiguedad_minima_min": 100,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2342854,
+        "antiguedad_min": 2343140,
         "descartados_por_gancho": 0
       },
       {
@@ -97,19 +97,19 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 143,
+        "items": 141,
         "error": null,
-        "antiguedad_min": 22,
+        "antiguedad_min": 309,
         "descartados_por_gancho": 8
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 138,
+        "items": 139,
         "error": null,
-        "antiguedad_min": 125,
-        "descartados_por_gancho": 16
+        "antiguedad_min": 235,
+        "descartados_por_gancho": 14
       },
       {
         "medio": "ABC",
@@ -117,7 +117,7 @@
         "ok": true,
         "items": 24,
         "error": null,
-        "antiguedad_min": 32,
+        "antiguedad_min": 100,
         "descartados_por_gancho": 1
       }
     ]
