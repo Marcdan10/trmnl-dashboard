@@ -1,17 +1,26 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "portadas",
-  "generado": "2026-11-24T03:06:33+02:00",
+  "modo": "ultimas",
+  "generado": "2026-11-24T13:19:01+02:00",
   "titulares": [
     {
-      "titular": "Buenas noticias para Flick con Rodri",
+      "titular": "El cambio físico de Ester Muñoz a sus 41 años: \"Estoy mejor que hace una década\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-23T21:34:12+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261123/1004254644/buenas-noticias-flick-rodri.html"
+      "fecha": "2026-11-24T13:00:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/running/20261124/1004254839/ester-munoz-41-anos-mejor-10-anos-ejercicio-fuerza-7-manana-adelgace-empece-lentillas-me-deje-color-natural-pelo-rtn-dct.html"
+    },
+    {
+      "titular": "James Akinjo, base del MoraBanc, cuatro semanas de baja por lesión",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-24T12:55:34+02:00",
+      "enlace": "https://www.mundodeportivo.com/baloncesto/acb/20261124/1004254857/james-akinjo-base-morabanc-cuatro-semanas-baja-lesion.html"
     },
     {
       "titular": "La UEFA multa a Inglaterra por los cánticos anticatólicos de sus aficionados en Madrid",
@@ -23,15 +32,6 @@
       "enlace": "https://www.marca.com/futbol/nations-league/2026/11/20/uefa-multa-inglaterra-canticos-anticatolicos-aficionados-madrid.html"
     },
     {
-      "titular": "Lamine Yamal, baja ante el Sabah por molestias en el tobillo derecho",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-23T11:27:31+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261123/1004254389/lamine-yamal-baja-sabah-molestias-tobillo-derecho.html"
-    },
-    {
       "titular": "La primera estrella víctima de la epidemia del GTA 6 que amenaza a los deportistas: la cazada a Mbeumo",
       "medios": [
         "Marca"
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/2026/11/20/primera-estrella-victima-epidemia-gta-6-amenaza-deportistas-cazada-mbeumo.html"
     },
     {
-      "titular": "Javier Tebas podría emprender acciones contra Florentino Pérez",
+      "titular": "Así quedó la cara de Mapi León tras la goleada al Palace",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-23T23:20:51+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/20261123/1004254673/javier-tebas-emprender-acciones-florentino-perez.html"
+      "fecha": "2026-11-24T12:47:10+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/femenino/20261124/1004254855/asi-quedo-cara-mapi-leon-goleada-palace.html"
     },
     {
-      "titular": "El botín de más de un millón y medio de dólares que acumula Zverev en las ATP Finals de Turín",
-      "medios": [
-        "Marca"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-20T09:30:10+02:00",
-      "enlace": "https://www.marca.com/tenis/copa-masters/2026/11/20/botin-millon-medio-dolares-acumula-zverev-atp-finals-turin.html"
-    },
-    {
-      "titular": "Nuevas imágenes de una impactante primera equipación del Barça 2027-28",
+      "titular": "Martina Klein presenta en Barcelona las claves para decorar tu casa esta Navidad",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-24T00:49:01+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261123/1004254708/nuevas-imagenes-impactante-primera-equipacion-barca-2027-28.html"
+      "fecha": "2026-11-24T12:44:19+02:00",
+      "enlace": "https://www.mundodeportivo.com/ocio/20261124/1004254845/martina-klein-presenta-barcelona-claves-decorar-casa-navidad.html"
+    },
+    {
+      "titular": "Sofía Suescun arrasa en redes con sus 'looks' de noche: \"Simplemente una diva\"",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-24T12:35:46+02:00",
+      "enlace": "https://www.mundodeportivo.com/elotromundo/gente/20261124/1004254847/sofia-suescun-arrasa-redes-looks-noche-simplemente-diva-galeria-dct.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 99,
+    "antiguedad_minima_min": 19,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 72,
         "error": null,
-        "antiguedad_min": 5359,
+        "antiguedad_min": 5971,
         "descartados_por_gancho": 4
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 150,
+        "items": 132,
         "error": null,
-        "antiguedad_min": 99,
-        "descartados_por_gancho": 4
+        "antiguedad_min": 19,
+        "descartados_por_gancho": 9
       },
       {
         "medio": "Sport",
