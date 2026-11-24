@@ -1,26 +1,17 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "ultimas",
-  "generado": "2026-11-23T15:26:08+02:00",
+  "modo": "portadas",
+  "generado": "2026-11-24T03:06:33+02:00",
   "titulares": [
     {
-      "titular": "La Peña Barcelonista de Bakú, anfritriona de los 500 culés que animarán al Barça",
+      "titular": "Buenas noticias para Flick con Rodri",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-23T14:55:20+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261123/1004254488/pena-barcelonista-baku-anfritriona-500-cules-animaran-barca.html"
-    },
-    {
-      "titular": "José Pablo López desmiente que Feijóo haya confirmado su asistencia a RTVE",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-23T14:51:02+02:00",
-      "enlace": "https://www.mundodeportivo.com/elotromundo/television/20261123/1004254476/jose-pablo-lopez-desmiente-alberto-nunez-feijoo-haya-confirmado-asistencia-hora-1-rtve-dct.html"
+      "fecha": "2026-11-23T21:34:12+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261123/1004254644/buenas-noticias-flick-rodri.html"
     },
     {
       "titular": "La UEFA multa a Inglaterra por los cánticos anticatólicos de sus aficionados en Madrid",
@@ -32,6 +23,15 @@
       "enlace": "https://www.marca.com/futbol/nations-league/2026/11/20/uefa-multa-inglaterra-canticos-anticatolicos-aficionados-madrid.html"
     },
     {
+      "titular": "Lamine Yamal, baja ante el Sabah por molestias en el tobillo derecho",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-23T11:27:31+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261123/1004254389/lamine-yamal-baja-sabah-molestias-tobillo-derecho.html"
+    },
+    {
       "titular": "La primera estrella víctima de la epidemia del GTA 6 que amenaza a los deportistas: la cazada a Mbeumo",
       "medios": [
         "Marca"
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/futbol/2026/11/20/primera-estrella-victima-epidemia-gta-6-amenaza-deportistas-cazada-mbeumo.html"
     },
     {
-      "titular": "Las bicicletas de Marc Márquez: de sus primeras MTB Specialized a su nueva gravel radical de Mondraker",
+      "titular": "Javier Tebas podría emprender acciones contra Florentino Pérez",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-23T14:49:39+02:00",
-      "enlace": "https://www.mundodeportivo.com/solobici/20261123/1004254479/bicicletas-marc-marquez-coleccion.html"
+      "fecha": "2026-11-23T23:20:51+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/20261123/1004254673/javier-tebas-emprender-acciones-florentino-perez.html"
     },
     {
-      "titular": "Charles Leclerc, sobre Hamilton: \"Esto no puede seguir así. Es inaceptable\"",
+      "titular": "El botín de más de un millón y medio de dólares que acumula Zverev en las ATP Finals de Turín",
       "medios": [
-        "Mundo Deportivo"
+        "Marca"
       ],
       "consenso": 1,
-      "fecha": "2026-11-23T14:47:59+02:00",
-      "enlace": "https://www.mundodeportivo.com/motor/f1/20261123/1004254469/leclerc-declara-mea-culpa-choque-hamilton-vegas-me-siento-avergonzado-equipo.html"
+      "fecha": "2026-11-20T09:30:10+02:00",
+      "enlace": "https://www.marca.com/tenis/copa-masters/2026/11/20/botin-millon-medio-dolares-acumula-zverev-atp-finals-turin.html"
     },
     {
-      "titular": "El Real Jaén, rival del Valencia en la segunda ronda de Copa",
+      "titular": "Nuevas imágenes de una impactante primera equipación del Barça 2027-28",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-23T14:46:00+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/copa-del-rey/20261123/1004254484/real-jaen-rival-valencia-segunda-ronda-copa.html"
+      "fecha": "2026-11-24T00:49:01+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261123/1004254708/nuevas-imagenes-impactante-primera-equipacion-barca-2027-28.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 30,
+    "antiguedad_minima_min": 99,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 72,
         "error": null,
-        "antiguedad_min": 4658,
+        "antiguedad_min": 5359,
         "descartados_por_gancho": 4
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 151,
+        "items": 150,
         "error": null,
-        "antiguedad_min": 30,
-        "descartados_por_gancho": 2
+        "antiguedad_min": 99,
+        "descartados_por_gancho": 4
       },
       {
         "medio": "Sport",

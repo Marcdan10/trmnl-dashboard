@@ -1,44 +1,35 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "ultimas",
-  "generado": "2026-11-23T15:26:14+02:00",
+  "modo": "portadas",
+  "generado": "2026-11-24T03:06:37+02:00",
   "titulares": [
     {
-      "titular": "La IA redefine el futuro de Radiología: \"El reto es aprovecharla para ser mejores médicos\"",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-23T15:19:01+02:00",
-      "enlace": "https://www.redaccionmedica.com/profesionales/sociedades-cientificas/20261123/la-ia-redefine-el-futuro-de-radiologia-el-reto-es-aprovecharla-para-ser-mejores-medicos/366355_0.html"
-    },
-    {
-      "titular": "El proyecto de reactivación de la carrera profesional en el Sescam avanza entre dudas y críticas: financiación y pago retroactivo",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-23T15:10:10+02:00",
-      "enlace": "https://www.redaccionmedica.com/autonomias/castilla-mancha/20261123/el-proyecto-de-reactivacion-la-carrera-profesional-en-el-sescam-avanza-entre-dudas-criticas-financiacion-pago-retroactivo/366309_0.html"
-    },
-    {
-      "titular": "Aragón impulsa la participación de pacientes en las decisiones de investigación del cáncer",
+      "titular": "Bruselas elige un dispositivo para la degeneración macular como tercer producto JCA",
       "medios": [
         "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-11-23T14:43:05+02:00",
-      "enlace": "https://diariofarma.com/2026/11/23/aragon-impulsa-la-participacion-de-pacientes-en-las-decisiones-de-investigacion-del-cancer"
+      "fecha": "2026-11-23T22:35:45+02:00",
+      "enlace": "https://diariofarma.com/2026/11/23/bruselas-elige-un-dispositivo-para-la-degeneracion-macular-como-tercer-producto-jca"
     },
     {
-      "titular": "La Eurocámara afronta este miércoles la votación definitiva del paquete farmacéutico",
+      "titular": "Del autogobierno al gasto sanitario: los programas sanitarios de los partidos nacionalistas y regionalistas para el 29N",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-23T19:14:33+02:00",
+      "enlace": "https://www.redaccionmedica.com/autonomias/20261123/del-autogobierno-al-gasto-sanitario-los-programas-sanitarios-de-partidos-nacionalistas-regionalistas-para-el/366344_0.html"
+    },
+    {
+      "titular": "Canarias se suma al acuerdo nacional para el fraccionamiento industrial de plasma",
       "medios": [
         "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-11-23T13:20:02+02:00",
-      "enlace": "https://diariofarma.com/2026/11/23/la-eurocamara-afronta-este-miercoles-la-votacion-definitiva-del-paquete-farmaceutico"
+      "fecha": "2026-11-23T20:35:42+02:00",
+      "enlace": "https://diariofarma.com/2026/11/23/canarias-se-suma-al-acuerdo-nacional-para-el-fraccionamiento-industrial-de-plasma"
     },
     {
       "titular": "La EFPIA propone un reembolso provisional a los fármacos innovadores para ganar agilidad",
@@ -50,6 +41,15 @@
       "enlace": "https://elglobalfarma.com/industria/efpia-reembolso-provisional-medicamentos-innovadores/"
     },
     {
+      "titular": "Calvo (Junts): \"Cataluña puede hacer efectivo el A1 enfermero y asignarle un presupuesto\"",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-23T16:41:58+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/20261123/calvo-junts-aprobar-nuevas-prestaciones-en-madrid-sin-los-recursos-necesarios-es-estrangular-la-sanidad-catalana/366367_0.html"
+    },
+    {
       "titular": "La Fundación Cofares reúne al sector farmacéutico en su XXXI Concierto Benéfico de Navidad",
       "medios": [
         "El Global"
@@ -59,24 +59,26 @@
       "enlace": "https://elglobalfarma.com/farmacia/fundacion-cofares-sector-farmaceutico-concierto-benefico-navidad/"
     },
     {
-      "titular": "Azcón fichará 135 médicos extra para la Primaria aragonesa si el PP gana las elecciones",
+      "titular": "Javier Padilla plantea vincular la I+D pública al acceso equitativo a medicamentos",
       "medios": [
-        "Redacción Médica"
+        "Diariofarma",
+        "El Global"
       ],
-      "consenso": 1,
-      "fecha": "2026-11-23T15:06:48+02:00",
-      "enlace": "https://www.redaccionmedica.com/autonomias/20261123/azcon-fichara-medicos-extra-para-la-primaria-aragonesa-si-el-pp-gana-las-elecciones/366340_0.html"
+      "consenso": 2,
+      "fecha": "2026-11-23T18:56:00+02:00",
+      "enlace": "https://diariofarma.com/2026/11/23/javier-padilla-plantea-vincular-la-id-publica-al-acceso-equitativo-a-medicamentos"
     }
   ],
   "salud": {
     "feeds_totales": 7,
-    "feeds_ok": 4,
+    "feeds_ok": 3,
     "feeds_caidos": [
       "PMFarma",
       "AEMPS",
-      "EMA"
+      "EMA",
+      "FiercePharma"
     ],
-    "antiguedad_minima_min": 7,
+    "antiguedad_minima_min": 270,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +86,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 43,
+        "antiguedad_min": 270,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +95,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 218,
+        "antiguedad_min": 610,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +104,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 7,
+        "antiguedad_min": 358,
         "descartados_por_gancho": 0
       },
       {
@@ -132,11 +134,10 @@
       {
         "medio": "FiercePharma",
         "url": "https://www.fiercepharma.com/rss/xml",
-        "ok": true,
+        "ok": false,
         "items": 0,
-        "error": null,
-        "antiguedad_min": null,
-        "descartados_por_gancho": 0
+        "error": "HTTP 403",
+        "antiguedad_min": null
       }
     ]
   }
