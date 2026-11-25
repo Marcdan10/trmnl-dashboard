@@ -1,26 +1,17 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "ultimas",
-  "generado": "2026-11-24T23:25:57+02:00",
+  "modo": "portadas",
+  "generado": "2026-11-25T06:26:15+02:00",
   "titulares": [
     {
-      "titular": "¡Viktor Gyökeres anota con un zapatazo!",
+      "titular": "5-1: Dulce remontada del Real Madrid ante el PSV para seguir con el pleno",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-24T22:51:09+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/champions-league/20261124/1004253188/arsenal-borussia-dortmund-directo-sigue-partido-champions-league-vivo.html"
-    },
-    {
-      "titular": "Perisic adelanta al PSV con un penalti de VAR",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-24T22:47:07+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20261124/1004255096/perisic-adelanta-psv-penalti-var.html"
+      "fecha": "2026-11-24T23:57:04+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20261124/1004255067/real-madrid-psv.html"
     },
     {
       "titular": "Rufián y Figo reavivan su enfrentamiento en las redes sociales: \"Suelta ya mi brazo, pesetas\"",
@@ -32,6 +23,15 @@
       "enlace": "https://www.marca.com/tiramillas/politica/2026/11/24/suelta-mi-brazo-pesetas-rufian-figo-reavivan-enfrentamiento-redes-sociales.html"
     },
     {
+      "titular": "El 1x1 del Real Madrid ante el PSV",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-24T23:57:55+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20261124/1004255068/1x1-real-madrid-psv.html"
+    },
+    {
       "titular": "La presunta llamada entre un árbitro del TAS y el presidente de Senegal antes del fallo",
       "medios": [
         "Marca"
@@ -41,31 +41,32 @@
       "enlace": "https://www.marca.com/futbol/copa-africa/2026/11/24/marruecos-senala-presunta-llamada-arbitro-tas-presidente-senegal-fallo.html"
     },
     {
-      "titular": "Esther y Alain dejaron Barcelona para vivir en Cerdeña: \"Cobraba entre 3.000 y 6.000 euros al mes y me costaba vivir como quería. Ahora con 1.500 nos sobra para ahorrar\"",
+      "titular": "Bellingham: \"A veces es más importante hacer las cosas fáciles muy bien\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-24T22:45:20+02:00",
-      "enlace": "https://www.mundodeportivo.com/tressesenta/20261124/1004255097/esther-alain-dejaron-barcelona-vivir-cerdena-cobraba-3-000-6-000-euros-mes-me-costaba-vivir-queria-cobro-1-500-2-000-sobra-ahorrar-dct.html"
+      "fecha": "2026-11-25T00:52:29+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-madrid/20261124/1004255133/bellingham-veces-mas-importante-cosas-faciles.html"
     },
     {
-      "titular": "34-36: El Granollers se reencuentra con el triunfo en Rumanía",
+      "titular": "La 'lucha política' de las influencers: la opinión de Laura Escanes y la reacción de María Pombo y Laura Matamoros",
       "medios": [
-        "Mundo Deportivo"
+        "Marca"
       ],
       "consenso": 1,
-      "fecha": "2026-11-24T22:17:07+02:00",
-      "enlace": "https://www.mundodeportivo.com/balonmano/20261124/1004255094/34-36-granollers-reencuentra-triunfo-rumania.html"
+      "fecha": "2026-11-24T13:27:52+02:00",
+      "enlace": "https://www.marca.com/tiramillas/sociedad/2026/11/24/lucha-politica-influencers-opinion-laura-escanes-reaccion-maria-pombo-laura-matamoros.html"
     },
     {
-      "titular": "Llega mañana miércoles a ALDI un indispensable para el hogar: solo 12,99 euros",
+      "titular": "Ferran Torres compra las oficinas del Valencia por cerca de siete millones",
       "medios": [
+        "Marca",
         "Mundo Deportivo"
       ],
-      "consenso": 1,
-      "fecha": "2026-11-24T22:17:02+02:00",
-      "enlace": "https://www.mundodeportivo.com/actualidad/20261124/1004255093/llega-manana-miercoles-25-noviembre-aldi-indispensable-hogar-12-99-euros-dct.html"
+      "consenso": 2,
+      "fecha": "2026-11-24T12:06:19+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/valencia/20261124/1004254844/ferran-torres-compra-oficinas-valencia-cerca-siete-millones.html"
     }
   ],
   "salud": {
@@ -75,7 +76,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 34,
+    "antiguedad_minima_min": 312,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +84,7 @@
         "ok": true,
         "items": 74,
         "error": null,
-        "antiguedad_min": 560,
+        "antiguedad_min": 981,
         "descartados_por_gancho": 1
       },
       {
@@ -99,10 +100,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 142,
+        "items": 146,
         "error": null,
-        "antiguedad_min": 34,
-        "descartados_por_gancho": 8
+        "antiguedad_min": 312,
+        "descartados_por_gancho": 7
       },
       {
         "medio": "Sport",

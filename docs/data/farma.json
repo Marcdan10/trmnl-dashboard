@@ -1,8 +1,8 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "ultimas",
-  "generado": "2026-11-24T23:26:02+02:00",
+  "modo": "portadas",
+  "generado": "2026-11-25T06:26:21+02:00",
   "titulares": [
     {
       "titular": "De la farmacia pública al copago cero: las propuestas del bloque nacionalista-regionalista",
@@ -14,33 +14,6 @@
       "enlace": "https://diariofarma.com/2026/11/24/de-la-farmacia-publica-al-copago-cero-las-propuestas-del-bloque-nacionalista-regionalista-para-el-29n"
     },
     {
-      "titular": "El Foro de Innovación de la SEFH reconoce soluciones de red oncológica y accesibilidad",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-24T19:47:53+02:00",
-      "enlace": "https://diariofarma.com/2026/11/24/el-foro-de-innovacion-de-la-sefh-reconoce-soluciones-de-red-oncologica-y-accesibilidad"
-    },
-    {
-      "titular": "\"Trabajaremos para conseguir la plena implantación de la Enfermería Geriátrica en Andalucía\"",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-24T18:35:25+02:00",
-      "enlace": "https://www.redaccionmedica.com/autonomias/andalucia/20261124/trabajaremos-para-conseguir-la-plena-implantacion-de-enfermeria-geriatrica-en-andalucia/366494_0.html"
-    },
-    {
-      "titular": "Preocupación decanal por la homologación masiva en Medicina: \"Deben hacer la ECOE, como nuestros alumnos\"",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-24T18:04:56+02:00",
-      "enlace": "https://www.redaccionmedica.com/formacion/estudiantes/20261124/preocupacion-decanal-por-la-homologacion-masiva-en-medicina-deben-hacer-ecoe-como-nuestros-alumnos/366508_0.html"
-    },
-    {
       "titular": "La Fundación PharmaMar distingue a referentes nacionales e internacionales que están redefiniendo la investigación en cáncer",
       "medios": [
         "El Global"
@@ -50,6 +23,24 @@
       "enlace": "https://elglobalfarma.com/industria/fundacion-pharmamar-referentes-nacionales-internacionales-investigacion-cancer/"
     },
     {
+      "titular": "Colau (Frente Amplio): \"Las guardias de 24 horas van a desaparecer por insalubres para pacientes y profesionales\"",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-24T15:52:29+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/20261124/colau-frente-amplio-las-guardias-de-horas-van-desaparecer-por-insalubres-para-pacientes-profesionales/366469_0.html"
+    },
+    {
+      "titular": "El Foro de Innovación de la SEFH reconoce soluciones de red oncológica y accesibilidad",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-24T19:47:53+02:00",
+      "enlace": "https://diariofarma.com/2026/11/24/el-foro-de-innovacion-de-la-sefh-reconoce-soluciones-de-red-oncologica-y-accesibilidad"
+    },
+    {
       "titular": "Mes de la Salud Masculina: el 45% de los hombres no realiza prácticas de autocuidado por falta de información",
       "medios": [
         "El Global"
@@ -57,6 +48,15 @@
       "consenso": 1,
       "fecha": "2026-11-24T14:27:44+02:00",
       "enlace": "https://elglobalfarma.com/farmacia/autocuidado/mes-salud-masculina-hombres-autocuidado-falta-informacion/"
+    },
+    {
+      "titular": "El nuevo convenio de farmacias, más cerca de firmarse al rebajar exigencias de sueldo (pero no libranzas)",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-24T14:17:54+02:00",
+      "enlace": "https://www.redaccionmedica.com/profesionales/farmacia/20261124/el-nuevo-convenio-de-farmacias-mas-cerca-firmarse-al-rebajar-exigencias-sueldo-pero-no-libranzas/366478_0.html"
     },
     {
       "titular": "Autonomía del paciente: la verdadera clave para medir el valor de la innovación",
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 160,
+    "antiguedad_minima_min": 580,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 160,
+        "antiguedad_min": 580,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 512,
+        "antiguedad_min": 933,
         "descartados_por_gancho": 0
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 290,
+        "antiguedad_min": 710,
         "descartados_por_gancho": 0
       },
       {
