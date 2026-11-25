@@ -1,36 +1,17 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "ultimas",
-  "generado": "2026-11-25T16:46:35+02:00",
+  "modo": "portadas",
+  "generado": "2026-11-26T01:26:33+02:00",
   "titulares": [
     {
-      "titular": "Preguntan a Albiol lo que más le indigna y las redes no dan crédito: \"¿Es broma, no?\"",
+      "titular": "Goleada exótica del Barça de las rotaciones",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-25T16:19:44+02:00",
-      "enlace": "https://www.mundodeportivo.com/actualidad/20261125/1004255368/preguntan-albiol-mas-le-indigna-redes-no-dan-credito-broma-no-elecciones-dct.html"
-    },
-    {
-      "titular": "Cesc se pronuncia sobre la opción de entrenar al Barça",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-25T16:17:35+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261125/1004255404/cesc-pronuncia-sobre-opcion-entrenar-barca.html"
-    },
-    {
-      "titular": "Alonso, sobre ser padre: \"Muchas noches me pregunto si me estoy perdiendo momentos importantes\"",
-      "medios": [
-        "Marca",
-        "Mundo Deportivo"
-      ],
-      "consenso": 2,
-      "fecha": "2026-11-25T15:58:17+02:00",
-      "enlace": "https://www.mundodeportivo.com/motor/f1/20261125/1004255392/fernando-alonso-sobre-padre-muchas-noches-ano-me-he-preguntado-me-perdiendo-momentos-importantes.html"
+      "fecha": "2026-11-25T21:33:37+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261125/1004255470/cronica-sabah-barcelona.html"
     },
     {
       "titular": "Una cuestión de estado: \"No se soportan\"",
@@ -42,31 +23,50 @@
       "enlace": "https://www.marca.com/motor/formula1/gp-qatar/2026/11/25/hamilton-leclerc-cuestion.html"
     },
     {
-      "titular": "RTVE mueve ficha con Jesús Cintora y cambia la programación de La 1 este viernes",
+      "titular": "El siguiente paso que dará el Barça ante la sanción a Fermín",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-25T16:05:52+02:00",
-      "enlace": "https://www.mundodeportivo.com/elotromundo/television/20261125/1004255402/rtve-mueve-ficha-jesus-cintora-cambia-programacion-1-viernes-dct.html"
+      "fecha": "2026-11-25T17:28:19+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261125/1004255417/siguiente-paso-dara-barca-sancion-fermin.html"
     },
     {
-      "titular": "Black Friday 2026 en relojes deportivos para 'runners': Suunto y Garmin tienen ofertas de hasta el 40%",
+      "titular": "Experta en hipotecas explica los dos miedos existentes a la hora de comprar una vivienda: “El FOMO y el FOOP”",
       "medios": [
-        "Mundo Deportivo"
+        "Marca"
       ],
       "consenso": 1,
-      "fecha": "2026-11-25T16:02:03+02:00",
-      "enlace": "https://www.mundodeportivo.com/elrecomendador/ofertas/20261125/1004255283/black-friday-garmin-suunto-relojes-deportivos-runners-ofertas.html"
+      "fecha": "2026-11-25T14:11:21+02:00",
+      "enlace": "https://www.marca.com/tiramillas/economia/2026/11/25/montse-cespedosa-experta-hipotecas-explica-dos-miedos-existentes-hora-comprar-vivienda-fomo-foop.html"
     },
     {
-      "titular": "El Sevilla FC recuerda a Maradona en el sexto aniversario de su muerte",
+      "titular": "Arteta se 'Saka' un nuevo 'cañón'",
+      "medios": [
+        "Marca"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-25T14:00:58+02:00",
+      "enlace": "https://www.marca.com/futbol/champions-league/2026/11/25/arteta-saka-nuevo-canon-convirtio-madueke-diferente.html"
+    },
+    {
+      "titular": "2-0: El Atlético resucita en Champions a costa de los vikingos",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-25T15:59:09+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/sevilla/20261125/1004255399/sevilla-fc-recuerda-maradona-sexto-aniversario-muerte.html"
+      "fecha": "2026-11-25T23:52:16+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/atletico-madrid/20261125/1004255561/cronica-atletico-viking.html"
+    },
+    {
+      "titular": "Alonso, sobre ser padre: \"Muchas noches de este año me he preguntado si me estoy perdiendo momentos importantes\"",
+      "medios": [
+        "Marca",
+        "Mundo Deportivo"
+      ],
+      "consenso": 2,
+      "fecha": "2026-11-25T15:58:17+02:00",
+      "enlace": "https://www.mundodeportivo.com/motor/f1/20261125/1004255392/fernando-alonso-sobre-padre-muchas-noches-ano-me-he-preguntado-me-perdiendo-momentos-importantes.html"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 26,
+    "antiguedad_minima_min": 37,
     "detalle": [
       {
         "medio": "Marca",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 71,
         "error": null,
-        "antiguedad_min": 131,
+        "antiguedad_min": 651,
         "descartados_por_gancho": 7
       },
       {
@@ -100,10 +100,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 139,
+        "items": 141,
         "error": null,
-        "antiguedad_min": 26,
-        "descartados_por_gancho": 9
+        "antiguedad_min": 37,
+        "descartados_por_gancho": 7
       },
       {
         "medio": "Sport",

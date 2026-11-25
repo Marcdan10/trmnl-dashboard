@@ -1,62 +1,54 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "ultimas",
-  "generado": "2026-11-25T16:46:38+02:00",
+  "modo": "portadas",
+  "generado": "2026-11-26T01:26:37+02:00",
   "titulares": [
     {
-      "titular": "\"La Medicina Interna es cada vez más importante ante el envejecimiento, la cronicidad y la pluripatología\"",
+      "titular": "España, único país del mundo que celebra el Día de la Gestión Sanitaria",
       "medios": [
+        "Diariofarma",
         "Redacción Médica"
       ],
-      "consenso": 1,
-      "fecha": "2026-11-25T16:25:00+02:00",
-      "enlace": "https://www.redaccionmedica.com/profesionales/sociedades-cientificas/20261125/la-medicina-interna-es-cada-vez-mas-importante-ante-el-envejecimiento-la-cronicidad-pluripatologia/366645_0.html"
+      "consenso": 2,
+      "fecha": "2026-11-25T21:35:13+02:00",
+      "enlace": "https://diariofarma.com/2026/11/25/espana-unico-pais-del-mundo-que-celebra-el-dia-de-la-gestion-sanitaria"
     },
     {
-      "titular": "Más longevidad, pero menos peso sanitario sobre el PIB: el retrato de España según la OCDE y Bruselas",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-25T16:13:06+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/sanidad-hoy/20261125/mas-longevidad-pero-menos-peso-sanitario-sobre-el-pib-retrato-de-espana-segun-la-ocde-bruselas/366636_0.html"
-    },
-    {
-      "titular": "Europa culmina la reforma farmacéutica y fija las nuevas reglas contra el desabastecimiento",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-25T15:51:47+02:00",
-      "enlace": "https://diariofarma.com/2026/11/25/europa-culmina-la-reforma-farmaceutica-y-fija-las-nuevas-reglas-contra-el-desabastecimiento"
-    },
-    {
-      "titular": "El Parlamento Europeo culmina la reforma farmacéutica con nueve años de protección regulatoria de base",
+      "titular": "La EFPIA considera que la reforma farmacéutica se queda corta: «Se ha desaprovechado la oportunidad de ayudar a Europa a ser competitiva»",
       "medios": [
         "El Global"
       ],
       "consenso": 1,
-      "fecha": "2026-11-25T14:28:37+02:00",
-      "enlace": "https://elglobalfarma.com/politica/parlamento-europeo-aprobacion-definitiva-reforma-farmaceutica/"
+      "fecha": "2026-11-25T18:09:46+02:00",
+      "enlace": "https://elglobalfarma.com/industria/efpia-reforma-farmaceutica-europa-competitiva/"
     },
     {
-      "titular": "La Aemps actualiza el trámite para autorizar formatos fraccionados de uso veterinario",
+      "titular": "La paradoja de los médicos sin MIR: las autonomías avalan el grupo que los analiza, pero advierten que los \"necesitan\"",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-25T19:20:50+02:00",
+      "enlace": "https://www.redaccionmedica.com/autonomias/20261125/la-paradoja-de-los-medicos-sin-mir-las-autonomias-avalan-el-grupo-que-analiza-pero-advierten-necesitan/365111_0.html"
+    },
+    {
+      "titular": "Medicamentos baratos, suministro seguro: cómo evitar ahorros que salen caros",
       "medios": [
         "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-11-25T14:12:54+02:00",
-      "enlace": "https://diariofarma.com/2026/11/25/la-aemps-actualiza-el-tramite-para-autorizar-formatos-fraccionados-de-uso-veterinario"
+      "fecha": "2026-11-25T18:57:00+02:00",
+      "enlace": "https://diariofarma.com/2026/11/25/medicamentos-baratos-suministro-seguro-como-evitar-ahorros-que-salen-caros"
     },
     {
-      "titular": "«No se puede improvisar»: Europa revisa sus deberes en clave de Preparación y Respuesta ante una futura pandemia",
+      "titular": "La Eurocámara reivindica la producción farmacéutica europea: «Es imposible competir con países como China e India»",
       "medios": [
         "El Global"
       ],
       "consenso": 1,
-      "fecha": "2026-11-25T14:05:38+02:00",
-      "enlace": "https://elglobalfarma.com/politica/europa-revisa-deberes-preparacion-respuesta-futura-pandemia/"
+      "fecha": "2026-11-25T18:09:26+02:00",
+      "enlace": "https://elglobalfarma.com/politica/eurocamara-produccion-farmaceutica-europea-competitividad/"
     },
     {
       "titular": "Alianza médica por una homologación de títulos extranjeros sin automatización europea: \"No puede haber atajos\"",
@@ -66,18 +58,26 @@
       "consenso": 1,
       "fecha": "2026-11-25T16:07:16+02:00",
       "enlace": "https://www.redaccionmedica.com/profesionales/medicina/20261125/alianza-medica-por-una-homologacion-de-titulos-extranjeros-sin-automatizacion-europea-no-puede-haber-atajos/365930_0.html"
+    },
+    {
+      "titular": "La transparencia en experimentación animal crece un 126 % tras diez años de acuerdo en España",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-25T18:23:24+02:00",
+      "enlace": "https://diariofarma.com/2026/11/25/la-transparencia-en-experimentacion-animal-crece-un-126-tras-diez-anos-de-acuerdo-en-espana"
     }
   ],
   "salud": {
     "feeds_totales": 7,
-    "feeds_ok": 3,
+    "feeds_ok": 4,
     "feeds_caidos": [
       "PMFarma",
       "AEMPS",
-      "EMA",
-      "FiercePharma"
+      "EMA"
     ],
-    "antiguedad_minima_min": 21,
+    "antiguedad_minima_min": 231,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -85,7 +85,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 54,
+        "antiguedad_min": 231,
         "descartados_por_gancho": 0
       },
       {
@@ -94,7 +94,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 137,
+        "antiguedad_min": 436,
         "descartados_por_gancho": 0
       },
       {
@@ -103,7 +103,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 21,
+        "antiguedad_min": 266,
         "descartados_por_gancho": 0
       },
       {
@@ -133,10 +133,11 @@
       {
         "medio": "FiercePharma",
         "url": "https://www.fiercepharma.com/rss/xml",
-        "ok": false,
+        "ok": true,
         "items": 0,
-        "error": "HTTP 403",
-        "antiguedad_min": null
+        "error": null,
+        "antiguedad_min": null,
+        "descartados_por_gancho": 0
       }
     ]
   }
