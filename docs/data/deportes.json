@@ -2,7 +2,7 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-11-26T01:26:33+02:00",
+  "generado": "2026-11-26T07:17:02+02:00",
   "titulares": [
     {
       "titular": "Goleada exótica del Barça de las rotaciones",
@@ -76,7 +76,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 37,
+    "antiguedad_minima_min": 342,
     "detalle": [
       {
         "medio": "Marca",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 71,
         "error": null,
-        "antiguedad_min": 651,
+        "antiguedad_min": 1002,
         "descartados_por_gancho": 7
       },
       {
@@ -100,9 +100,9 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 141,
+        "items": 142,
         "error": null,
-        "antiguedad_min": 37,
+        "antiguedad_min": 342,
         "descartados_por_gancho": 7
       },
       {

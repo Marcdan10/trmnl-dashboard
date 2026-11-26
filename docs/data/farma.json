@@ -2,15 +2,14 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "portadas",
-  "generado": "2026-11-26T01:26:37+02:00",
+  "generado": "2026-11-26T07:17:07+02:00",
   "titulares": [
     {
       "titular": "España, único país del mundo que celebra el Día de la Gestión Sanitaria",
       "medios": [
-        "Diariofarma",
-        "Redacción Médica"
+        "Diariofarma"
       ],
-      "consenso": 2,
+      "consenso": 1,
       "fecha": "2026-11-25T21:35:13+02:00",
       "enlace": "https://diariofarma.com/2026/11/25/espana-unico-pais-del-mundo-que-celebra-el-dia-de-la-gestion-sanitaria"
     },
@@ -24,13 +23,13 @@
       "enlace": "https://elglobalfarma.com/industria/efpia-reforma-farmaceutica-europa-competitiva/"
     },
     {
-      "titular": "La paradoja de los médicos sin MIR: las autonomías avalan el grupo que los analiza, pero advierten que los \"necesitan\"",
+      "titular": "Sandra Palau: \"Uno de cada tres pacientes llega desnutrido al sistema sanitario\"",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-11-25T19:20:50+02:00",
-      "enlace": "https://www.redaccionmedica.com/autonomias/20261125/la-paradoja-de-los-medicos-sin-mir-las-autonomias-avalan-el-grupo-que-analiza-pero-advierten-necesitan/365111_0.html"
+      "fecha": "2026-11-26T06:00:00+02:00",
+      "enlace": "https://www.redaccionmedica.com/nutricion/20261126/sandra-palau-uno-de-cada-tres-pacientes-llega-desnutrido-al-sistema-sanitario/365552_0.html"
     },
     {
       "titular": "Medicamentos baratos, suministro seguro: cómo evitar ahorros que salen caros",
@@ -51,13 +50,13 @@
       "enlace": "https://elglobalfarma.com/politica/eurocamara-produccion-farmaceutica-europea-competitividad/"
     },
     {
-      "titular": "Alianza médica por una homologación de títulos extranjeros sin automatización europea: \"No puede haber atajos\"",
+      "titular": "Xavier Magraner, jefe de la delegación de Redacción Médica en Cataluña",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-11-25T16:07:16+02:00",
-      "enlace": "https://www.redaccionmedica.com/profesionales/medicina/20261125/alianza-medica-por-una-homologacion-de-titulos-extranjeros-sin-automatizacion-europea-no-puede-haber-atajos/365930_0.html"
+      "fecha": "2026-11-26T06:05:00+02:00",
+      "enlace": "https://www.redaccionmedica.com/autonomias/catalunya/20261126/xavier-magraner-jefe-de-la-delegacion-redaccion-medica-en-cataluna/366600_0.html"
     },
     {
       "titular": "La transparencia en experimentación animal crece un 126 % tras diez años de acuerdo en España",
@@ -77,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 231,
+    "antiguedad_minima_min": 67,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -85,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 231,
+        "antiguedad_min": 581,
         "descartados_por_gancho": 0
       },
       {
@@ -94,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 436,
+        "antiguedad_min": 787,
         "descartados_por_gancho": 0
       },
       {
@@ -103,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 266,
+        "antiguedad_min": 67,
         "descartados_por_gancho": 0
       },
       {
