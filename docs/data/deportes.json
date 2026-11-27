@@ -2,7 +2,7 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-11-27T02:14:25+02:00",
+  "generado": "2026-11-27T10:53:50+02:00",
   "titulares": [
     {
       "titular": "Gordon confidencial: un inglés de otra época",
@@ -41,15 +41,6 @@
       "enlace": "https://www.marca.com/combates-ufc/2026/11/26/mcgregor-anuncia-regreso-rodilla-punto-cuerpo-pleno-rendimiento.html"
     },
     {
-      "titular": "35-28: 'Punch' final del Barça con resultado engañoso ante el GOG en la Champions",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-26T23:20:40+02:00",
-      "enlace": "https://www.mundodeportivo.com/balonmano/20261126/1004255997/barca.html"
-    },
-    {
       "titular": "Marc Márquez: \"Me piden ya el undécimo... quiero saborear Valencia\"",
       "medios": [
         "Marca"
@@ -59,13 +50,22 @@
       "enlace": "https://www.marca.com/motor/motogp/gp-valencia/2026/11/26/marc-marquez-me-piden-undecimo-quiero-saborear-valencia.html"
     },
     {
-      "titular": "2-1: Injusta derrota de la Real en Londres tras un penalti y expulsión polémicos",
+      "titular": "Àlex Campos, el central acunado por Belletti que quiere convertirse en un líder",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-27T00:00:37+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/real-sociedad/20261126/1004256027/2-1-injusta-derrota-real-londres-penalti-expulsion-polemicos.html"
+      "fecha": "2026-11-27T07:15:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261127/1004255835/alex-campos-central-acunado-belletti-quiere-convertirse-lider.html"
+    },
+    {
+      "titular": "Aitana incendia Instagram: llega su colaboración soñada con un artista de más de 20 millones de oyentes mensuales",
+      "medios": [
+        "Marca"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-26T14:48:41+02:00",
+      "enlace": "https://www.marca.com/tiramillas/musica/2026/11/26/aitana-incendia-instagram-colaboracion-internacional-esperada-artista-20-millones-oyentes-mensuales-vez-cerca.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 39,
+    "antiguedad_minima_min": 52,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 61,
         "error": null,
-        "antiguedad_min": 648,
+        "antiguedad_min": 1168,
         "descartados_por_gancho": 9
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 140,
+        "items": 136,
         "error": null,
-        "antiguedad_min": 39,
-        "descartados_por_gancho": 7
+        "antiguedad_min": 52,
+        "descartados_por_gancho": 8
       },
       {
         "medio": "Sport",

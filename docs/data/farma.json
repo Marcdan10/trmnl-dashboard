@@ -2,7 +2,7 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "portadas",
-  "generado": "2026-11-27T02:14:28+02:00",
+  "generado": "2026-11-27T10:53:56+02:00",
   "titulares": [
     {
       "titular": "Biosim plantea revisar los modelos de compra pública para anticipar y evitar sus riesgos",
@@ -14,22 +14,22 @@
       "enlace": "https://diariofarma.com/2026/11/26/biosim-plantea-revisar-los-modelos-de-compra-publica-para-anticipar-y-evitar-sus-riesgos"
     },
     {
-      "titular": "Convenio de farmacia: la patronal y los sindicatos llegan a un acuerdo tras dos años de negociaciones",
+      "titular": "Del bloqueo en el SIMA al acuerdo: así han sido los últimos meses de negociación del convenio de farmacia",
       "medios": [
         "El Global"
       ],
       "consenso": 1,
-      "fecha": "2026-11-26T14:53:25+02:00",
-      "enlace": "https://elglobalfarma.com/farmacia/convenio-farmacia-acuerdo-pacto-negociaciones/"
+      "fecha": "2026-11-27T09:48:00+02:00",
+      "enlace": "https://elglobalfarma.com/farmacia/convenio-farmacia-ultimos-meses-negociacion/"
     },
     {
-      "titular": "Jara: \"El gran reto de la sanidad es la sostenibilidad social y organizativa\"",
+      "titular": "El debate contrapone la sanidad universal de PSOE y Frente Amplio al plan gestor del PP y a la prioridad nacional de Vox",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-11-26T21:38:02+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/20261126/jara-el-gran-reto-de-la-sanidad-es-sostenibilidad-social-organizativa/366878_0.html"
+      "fecha": "2026-11-27T00:54:31+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/20261126/el-debate-contrapone-la-sanidad-universal-de-psoe-frente-amplio-al-plan-gestor-del-pp-prioridad-nacional-vox/366948_0.html"
     },
     {
       "titular": "“Nos jugamos mantener la confrontación o trabajar para recuperar el consenso del SNS”",
@@ -41,22 +41,22 @@
       "enlace": "https://diariofarma.com/2026/11/26/nos-jugamos-mantener-la-confrontacion-o-trabajar-para-recuperar-el-consenso-del-sns"
     },
     {
-      "titular": "La colaboración entre farmacias logra hasta un 96% de adherencia en pacientes trasplantados",
+      "titular": "Farmaindustria y Cataluña refuerzan su colaboración para garantizar una promoción responsable de los medicamentos",
       "medios": [
         "El Global"
       ],
       "consenso": 1,
-      "fecha": "2026-11-26T14:19:31+02:00",
-      "enlace": "https://elglobalfarma.com/farmacia/colaboracion-farmacias-adherencia-pacientes-trasplantados/"
+      "fecha": "2026-11-27T09:39:52+02:00",
+      "enlace": "https://elglobalfarma.com/industria/farmaindustria-cataluna-colaboracion-garantizar-promocion-responsable-medicamentos/"
     },
     {
-      "titular": "Fotogalería de los asistentes a la primera jornada del XVIII Encuentro Global de Directivos de la Salud",
+      "titular": "La industria farmacéutica pone deberes al futuro Gobierno: \"No actuar también tiene consecuencias\"",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-11-26T21:38:34+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/20261126/fotogaleria-los-rostros-de-la-sanidad-se-citan-en-el-xviii-encuentro-global-directivos-salud/366852_3.html"
+      "fecha": "2026-11-27T06:00:00+02:00",
+      "enlace": "https://www.redaccionmedica.com/empresas/industria-farmaceutica/20261127/la-industria-farmaceutica-pone-deberes-al-futuro-gobierno-no-actuar-tambien-tiene-consecuencias/366809_0.html"
     },
     {
       "titular": "Valencia reconoce la labor de la farmacia comunitaria frente a la violencia de género",
@@ -70,14 +70,13 @@
   ],
   "salud": {
     "feeds_totales": 7,
-    "feeds_ok": 3,
+    "feeds_ok": 4,
     "feeds_caidos": [
       "PMFarma",
       "AEMPS",
-      "EMA",
-      "FiercePharma"
+      "EMA"
     ],
-    "antiguedad_minima_min": 79,
+    "antiguedad_minima_min": 12,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -85,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 267,
+        "antiguedad_min": 787,
         "descartados_por_gancho": 0
       },
       {
@@ -94,7 +93,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 681,
+        "antiguedad_min": 65,
         "descartados_por_gancho": 0
       },
       {
@@ -103,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 79,
+        "antiguedad_min": 12,
         "descartados_por_gancho": 0
       },
       {
@@ -133,10 +132,11 @@
       {
         "medio": "FiercePharma",
         "url": "https://www.fiercepharma.com/rss/xml",
-        "ok": false,
+        "ok": true,
         "items": 0,
-        "error": "HTTP 403",
-        "antiguedad_min": null
+        "error": null,
+        "antiguedad_min": null,
+        "descartados_por_gancho": 0
       }
     ]
   }

@@ -2,7 +2,7 @@
   "pantalla": "generales",
   "titulo": "Titulares",
   "modo": "portadas",
-  "generado": "2026-11-27T02:14:21+02:00",
+  "generado": "2026-11-27T10:53:46+02:00",
   "titulares": [
     {
       "titular": "Tres muertos y tres heridos en un nuevo tiroteo masivo en Estados Unidos",
@@ -23,22 +23,22 @@
       "enlace": "https://elpais.com/espana/elecciones-generales/2026-11-25/comparador-de-los-programas-electorales-para-las-elecciones-generales-del-29-n.html"
     },
     {
-      "titular": "Feijóo dice que si no gobierna dimitirá y reta a Sánchez a comprometerse a lo mismo",
+      "titular": "El tándem Sánchez-Colau contrarresta la ofensiva de Feijóo y Abascal",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-11-27T00:56:45+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20261126/11693699/elecciones-generales-29n-campana-electoral-debate-a-cuatro-rtve-ultima-hora-hoy-en-directo.html"
+      "fecha": "2026-11-27T01:55:23+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20261127/11694443/debate-trincheras-refuerza-division-izquierda-derecha-santiago.html"
     },
     {
-      "titular": "Feijóo y Abascal presentan la alternativa al sanchismo en un debate que deja todo igual",
+      "titular": "Abascal y «los juegos del hambre» de la vivienda, el minuto de oro de un debate a cuatro que supera en audiencia al cara a cara",
       "medios": [
         "ABC"
       ],
       "consenso": 1,
-      "fecha": "2026-11-27T02:02:04+02:00",
-      "enlace": "https://www.abc.es/espana/pp-vox-consolidan-alternativa-sanchez-tres-dias-20261126000318-nt.html"
+      "fecha": "2026-11-27T10:49:10+02:00",
+      "enlace": "https://www.abc.es/play/television/noticias/debate-cuatro-candidatos-supera-cara-cara-arrasa-20261127084251-nt.html"
     },
     {
       "titular": "Ucrania - Rusia, última hora de la guerra | Zelenski anuncia nuevas sanciones contra Putin y sus principales aliados en el Kremlin",
@@ -50,22 +50,22 @@
       "enlace": "http://www.rtve.es/noticias/20220610/ucrania-rusia-ultima-hora-guerra-zelenski-anuncia-nuevas-sanciones-contra-putin-principales-aliados-kremlin/2372402.shtml"
     },
     {
-      "titular": "Voto útil con todas las encuestas: Las opciones de izquierda y derecha en cada provincia",
+      "titular": "Lea todas las entrevistas a los candidatos a las elecciones del 29-N",
       "medios": [
         "El País"
       ],
       "consenso": 1,
-      "fecha": "2026-11-21T06:30:01+02:00",
-      "enlace": "https://elpais.com/espana/elecciones-generales/2026-11-21/se-ha-movido-el-voto-util-las-opciones-de-izquierda-y-derecha-en-cada-provincia-con-las-ultimas-encuestas.html"
+      "fecha": "2026-11-26T10:50:31+02:00",
+      "enlace": "https://elpais.com/espana/elecciones-generales/2026-11-20/lea-todas-las-entrevistas-a-los-candidatos-a-las-elecciones-del-29-n.html"
     },
     {
-      "titular": "“Y usted calladita”, tres palabras de Feijóo en el debate a cuatro que darán de que hablar",
+      "titular": "María Casado cambia los tacones por el zapato plano y Sánchez vuelve al traje azul",
       "medios": [
         "La Vanguardia"
       ],
       "consenso": 1,
-      "fecha": "2026-11-27T01:35:20+02:00",
-      "enlace": "https://www.lavanguardia.com/politica/20261127/11694436/calladita-tres-palabras-feijoo-debate-daran-hablar.html"
+      "fecha": "2026-11-27T01:33:09+02:00",
+      "enlace": "https://www.lavanguardia.com/politica/20261127/11694433/maria-casado-cambia-tacones-zapato-plano-sanchez-vuelve-traje-azul.html"
     }
   ],
   "salud": {
@@ -74,7 +74,7 @@
     "feeds_caidos": [
       "EFE"
     ],
-    "antiguedad_minima_min": 12,
+    "antiguedad_minima_min": 4,
     "detalle": [
       {
         "medio": "RTVE",
@@ -82,7 +82,7 @@
         "ok": true,
         "items": 40,
         "error": null,
-        "antiguedad_min": 2348709,
+        "antiguedad_min": 2349228,
         "descartados_por_gancho": 0
       },
       {
@@ -97,28 +97,28 @@
         "medio": "El País",
         "url": "https://feeds.elpais.com/mrss-s/pages/ep/site/elpais.com/portada",
         "ok": true,
-        "items": 126,
+        "items": 92,
         "error": null,
-        "antiguedad_min": 102,
-        "descartados_por_gancho": 5
+        "antiguedad_min": 90,
+        "descartados_por_gancho": 6
       },
       {
         "medio": "La Vanguardia",
         "url": "https://www.lavanguardia.com/rss/home.xml",
         "ok": true,
-        "items": 137,
+        "items": 146,
         "error": null,
-        "antiguedad_min": 39,
-        "descartados_por_gancho": 14
+        "antiguedad_min": 87,
+        "descartados_por_gancho": 15
       },
       {
         "medio": "ABC",
         "url": "https://www.abc.es/rss/2.0/portada/",
         "ok": true,
-        "items": 23,
+        "items": 25,
         "error": null,
-        "antiguedad_min": 12,
-        "descartados_por_gancho": 2
+        "antiguedad_min": 4,
+        "descartados_por_gancho": 0
       }
     ]
   }
