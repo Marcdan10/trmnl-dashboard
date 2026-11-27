@@ -1,35 +1,17 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "ultimas",
-  "generado": "2026-11-26T17:33:27+02:00",
+  "modo": "portadas",
+  "generado": "2026-11-27T02:14:28+02:00",
   "titulares": [
     {
-      "titular": "La evaluación adicional en la homologación, \"ambigua\" para los médicos: \"Se debería exigir una ECOE a todos\"",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-26T17:14:55+02:00",
-      "enlace": "https://www.redaccionmedica.com/profesionales/medicina/20261126/la-evaluacion-adicional-en-la-homologacion-ambigua-para-los-medicos-se-deberia-exigir-una-ecoe-todos/366801_0.html"
-    },
-    {
-      "titular": "La Ortopedia apuesta por la IA y la robótica: \"El paciente quiere funcionar y ser funcional\"",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-26T16:08:40+02:00",
-      "enlace": "https://www.redaccionmedica.com/profesionales/20261126/la-ortopedia-apuesta-por-la-ia-robotica-el-paciente-quiere-funcionar-ser-funcional/366772_0.html"
-    },
-    {
-      "titular": "Acuerdo entre FEFE y los sindicatos para el XXVI Convenio de Oficinas de Farmacia",
+      "titular": "Biosim plantea revisar los modelos de compra pública para anticipar y evitar sus riesgos",
       "medios": [
         "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-11-26T15:01:57+02:00",
-      "enlace": "https://diariofarma.com/2026/11/26/acuerdo-entre-fefe-y-los-sindicatos-para-el-xxvi-convenio-de-oficinas-de-farmacia"
+      "fecha": "2026-11-26T21:46:35+02:00",
+      "enlace": "https://diariofarma.com/2026/11/26/biosim-plantea-revisar-los-modelos-de-compra-publica-para-anticipar-y-evitar-sus-riesgos"
     },
     {
       "titular": "Convenio de farmacia: la patronal y los sindicatos llegan a un acuerdo tras dos años de negociaciones",
@@ -41,6 +23,24 @@
       "enlace": "https://elglobalfarma.com/farmacia/convenio-farmacia-acuerdo-pacto-negociaciones/"
     },
     {
+      "titular": "Jara: \"El gran reto de la sanidad es la sostenibilidad social y organizativa\"",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-26T21:38:02+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/20261126/jara-el-gran-reto-de-la-sanidad-es-sostenibilidad-social-organizativa/366878_0.html"
+    },
+    {
+      "titular": "“Nos jugamos mantener la confrontación o trabajar para recuperar el consenso del SNS”",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-26T20:11:53+02:00",
+      "enlace": "https://diariofarma.com/2026/11/26/nos-jugamos-mantener-la-confrontacion-o-trabajar-para-recuperar-el-consenso-del-sns"
+    },
+    {
       "titular": "La colaboración entre farmacias logra hasta un 96% de adherencia en pacientes trasplantados",
       "medios": [
         "El Global"
@@ -50,22 +50,22 @@
       "enlace": "https://elglobalfarma.com/farmacia/colaboracion-farmacias-adherencia-pacientes-trasplantados/"
     },
     {
-      "titular": "Los partidos discrepan sobre cómo retomar la Ley del Medicamento para la nueva legislatura",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-26T14:02:15+02:00",
-      "enlace": "https://diariofarma.com/2026/11/26/los-partidos-discrepan-sobre-como-retomar-la-ley-del-medicamento-para-la-nueva-legislatura"
-    },
-    {
-      "titular": "Cooperar para converger en salud",
+      "titular": "Fotogalería de los asistentes a la primera jornada del XVIII Encuentro Global de Directivos de la Salud",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-11-26T15:00:17+02:00",
-      "enlace": "https://www.redaccionmedica.com/opinion/20261126/cooperar-para-converger-en-salud/366561_12.html"
+      "fecha": "2026-11-26T21:38:34+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/20261126/fotogaleria-los-rostros-de-la-sanidad-se-citan-en-el-xviii-encuentro-global-directivos-salud/366852_3.html"
+    },
+    {
+      "titular": "Valencia reconoce la labor de la farmacia comunitaria frente a la violencia de género",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-26T19:09:04+02:00",
+      "enlace": "https://diariofarma.com/2026/11/26/valencia-reconoce-la-labor-de-la-farmacia-comunitaria-frente-a-la-violencia-de-genero"
     }
   ],
   "salud": {
@@ -77,7 +77,7 @@
       "EMA",
       "FiercePharma"
     ],
-    "antiguedad_minima_min": 18,
+    "antiguedad_minima_min": 79,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -85,7 +85,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 151,
+        "antiguedad_min": 267,
         "descartados_por_gancho": 0
       },
       {
@@ -94,7 +94,7 @@
         "ok": true,
         "items": 10,
         "error": null,
-        "antiguedad_min": 159,
+        "antiguedad_min": 681,
         "descartados_por_gancho": 0
       },
       {
@@ -103,7 +103,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 18,
+        "antiguedad_min": 79,
         "descartados_por_gancho": 0
       },
       {

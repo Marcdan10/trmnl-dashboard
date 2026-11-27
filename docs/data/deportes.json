@@ -1,26 +1,17 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "ultimas",
-  "generado": "2026-11-26T17:33:21+02:00",
+  "modo": "portadas",
+  "generado": "2026-11-27T02:14:25+02:00",
   "titulares": [
     {
-      "titular": "Emotiva despedida de Loren: “Me hubiera gustado estabilizar al Málaga en Primera”",
+      "titular": "Gordon confidencial: un inglés de otra época",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-26T17:25:38+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/malaga/20261126/1004255871/emotiva-despedida-loren-me-hubiera-gustado-estabilizar-malaga-primera.html"
-    },
-    {
-      "titular": "Ya es oficial: Alcaraz cede el paso a Mérida y Jódar, solo jugaría el dobles de Copa Davis",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-26T17:22:32+02:00",
-      "enlace": "https://www.mundodeportivo.com/tenis/copa-davis/20261126/1004255736/oficial-alcaraz-no-juega-partida-espana-austria-copa-davis.html"
+      "fecha": "2026-11-27T01:30:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261127/1004255978/gordon-confidencial-ingles-epoca.html"
     },
     {
       "titular": "La reina Letizia juega a la boccia en la Zarzuela con 'El Langui'",
@@ -32,6 +23,15 @@
       "enlace": "https://www.marca.com/paralimpicos/2026/11/26/reina-letizia-juega-boccia-zarzuela-langui.html"
     },
     {
+      "titular": "1-0: Mérida hace olvidar a Alcaraz poniendo a España a tiro de semifinales",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-26T19:50:51+02:00",
+      "enlace": "https://www.mundodeportivo.com/tenis/copa-davis/20261126/1004255943/1-0-merida-olvidar-alcaraz-poniendo-espana-tiro-semifinales.html"
+    },
+    {
       "titular": "McGregor anuncia su regreso: \"La rodilla está a punto y el cuerpo a pleno rendimiento\"",
       "medios": [
         "Marca"
@@ -41,31 +41,31 @@
       "enlace": "https://www.marca.com/combates-ufc/2026/11/26/mcgregor-anuncia-regreso-rodilla-punto-cuerpo-pleno-rendimiento.html"
     },
     {
-      "titular": "Ni la más cara llega a 350 euros: las tres cámaras DJI con mejor sensor para grabar de noche están en oferta",
+      "titular": "35-28: 'Punch' final del Barça con resultado engañoso ante el GOG en la Champions",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-26T16:59:53+02:00",
-      "enlace": "https://www.mundodeportivo.com/elrecomendador/ofertas/20261126/1004255202/grabar-vertical-recortar-noche-ruido-traen-camaras-dji-bajan-400-euros-black-friday-mkt-alie.html"
+      "fecha": "2026-11-26T23:20:40+02:00",
+      "enlace": "https://www.mundodeportivo.com/balonmano/20261126/1004255997/barca.html"
     },
     {
-      "titular": "La inesperada oferta de Pedro Sánchez a Jorge Javier Vázquez: \"Quiero que tú y yo lo hagamos juntos\"",
+      "titular": "Marc Márquez: \"Me piden ya el undécimo... quiero saborear Valencia\"",
       "medios": [
-        "Mundo Deportivo"
+        "Marca"
       ],
       "consenso": 1,
-      "fecha": "2026-11-26T16:57:17+02:00",
-      "enlace": "https://www.mundodeportivo.com/elotromundo/television/20261126/1004255861/inesperada-oferta-pedro-sanchez-jorge-javier-vazquez-quiero-hagamos-elecciones-dct.html"
+      "fecha": "2026-11-26T14:59:10+02:00",
+      "enlace": "https://www.marca.com/motor/motogp/gp-valencia/2026/11/26/marc-marquez-me-piden-undecimo-quiero-saborear-valencia.html"
     },
     {
-      "titular": "Desastre final de Zverev en la Copa Davis",
+      "titular": "2-1: Injusta derrota de la Real en Londres tras un penalti y expulsión polémicos",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-26T16:46:02+02:00",
-      "enlace": "https://www.mundodeportivo.com/tenis/copa-davis/20261126/1004255854/desastre-final-zverev-copa-davis.html"
+      "fecha": "2026-11-27T00:00:37+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/real-sociedad/20261126/1004256027/2-1-injusta-derrota-real-londres-penalti-expulsion-polemicos.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 7,
+    "antiguedad_minima_min": 39,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 61,
         "error": null,
-        "antiguedad_min": 127,
+        "antiguedad_min": 648,
         "descartados_por_gancho": 9
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 138,
+        "items": 140,
         "error": null,
-        "antiguedad_min": 7,
-        "descartados_por_gancho": 6
+        "antiguedad_min": 39,
+        "descartados_por_gancho": 7
       },
       {
         "medio": "Sport",
