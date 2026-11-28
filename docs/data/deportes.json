@@ -1,26 +1,17 @@
 {
   "pantalla": "deportes",
   "titulo": "Deportes",
-  "modo": "ultimas",
-  "generado": "2026-11-27T20:37:48+02:00",
+  "modo": "portadas",
+  "generado": "2026-11-28T03:45:05+02:00",
   "titulares": [
     {
-      "titular": "Alsina, sobre las elecciones del 29N: \"He ido a votar con el sentimiento de que nada está escrito\"",
+      "titular": "Así será el nuevo Museu del Barça",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-27T20:26:52+02:00",
-      "enlace": "https://www.mundodeportivo.com/elotromundo/television/20261127/1004256365/carlos-alsina-sobre-elecciones-29n-he-ido-votar-sentimiento-escrito-dct.html"
-    },
-    {
-      "titular": "Así es 'Honesty House', el nuevo programa al estilo 'tentaciones' de Telecinco",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-27T20:17:52+02:00",
-      "enlace": "https://www.mundodeportivo.com/elotromundo/television/20261127/1004256358/asi-honesty-house-nuevo-programa-estilo-tentaciones-telecinco-dct.html"
+      "fecha": "2026-11-28T01:30:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261128/1004256263/asi-sera-nuevo-museu-barca.html"
     },
     {
       "titular": "La reina Letizia juega a la boccia en la Zarzuela con 'El Langui'",
@@ -32,6 +23,15 @@
       "enlace": "https://www.marca.com/paralimpicos/2026/11/26/reina-letizia-juega-boccia-zarzuela-langui.html"
     },
     {
+      "titular": "Así gestó Márquez el anuncio de la retirada de MotoGP al más puro estilo 'Love Actually'",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-27T15:13:04+02:00",
+      "enlace": "https://www.mundodeportivo.com/motor/motogp/20261127/1004256256/asi-gesto-marc-marquez-anuncio-retirada-motogp-puro-estilo-love-actually.html"
+    },
+    {
       "titular": "McGregor anuncia su regreso: \"La rodilla está a punto y el cuerpo a pleno rendimiento\"",
       "medios": [
         "Marca"
@@ -41,6 +41,24 @@
       "enlace": "https://www.marca.com/combates-ufc/2026/11/26/mcgregor-anuncia-regreso-rodilla-punto-cuerpo-pleno-rendimiento.html"
     },
     {
+      "titular": "Vitor Roque, crítico sobre su etapa en el Barça: \"Apenas me hablaban\"",
+      "medios": [
+        "Mundo Deportivo"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-28T01:07:21+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261128/1004256479/vitor-roque-critico-sobre-etapa-barca-apenas-me-hablaban.html"
+    },
+    {
+      "titular": "Marc Márquez: \"Me piden ya el undécimo... quiero saborear Valencia\"",
+      "medios": [
+        "Marca"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-26T14:59:10+02:00",
+      "enlace": "https://www.marca.com/motor/motogp/gp-valencia/2026/11/26/marc-marquez-me-piden-undecimo-quiero-saborear-valencia.html"
+    },
+    {
       "titular": "La respuesta de Dani Olmo sobre su futuro que encantará a los barcelonistas",
       "medios": [
         "Mundo Deportivo"
@@ -48,24 +66,6 @@
       "consenso": 1,
       "fecha": "2026-11-27T20:11:28+02:00",
       "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261127/1004256353/respuesta-dani-olmo-sobre-futuro-encantara-barcelonistas.html"
-    },
-    {
-      "titular": "Crítica unánime sobre la nueva miniserie de siete episodios que acaba de llegar a Netflix y es Top 5 de España",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-27T20:03:14+02:00",
-      "enlace": "https://www.mundodeportivo.com/elotromundo/television/20261127/1004256355/critica-unanime-sobre-nueva-miniserie-siete-episodios-acaba-llegar-netflix-top-5-espana-tvp-dct.html"
-    },
-    {
-      "titular": "Edu Galán: \"El mejor político de este país es Sánchez. Cualquier consultor que no lo vea, es alguien abducido por su ideología\"",
-      "medios": [
-        "Mundo Deportivo"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-27T19:59:45+02:00",
-      "enlace": "https://www.mundodeportivo.com/elotromundo/television/20261127/1004256354/edu-galan-mejor-politico-hay-pais-calle-pedro-sanchez-cosa-te-guste-mas-consultor-politico-no-vea-alguien-abducido-ideologia-dct.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 10,
+    "antiguedad_minima_min": 42,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 61,
         "error": null,
-        "antiguedad_min": 1752,
+        "antiguedad_min": 2179,
         "descartados_por_gancho": 9
       },
       {
@@ -99,9 +99,9 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 142,
+        "items": 140,
         "error": null,
-        "antiguedad_min": 10,
+        "antiguedad_min": 42,
         "descartados_por_gancho": 5
       },
       {

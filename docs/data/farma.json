@@ -1,27 +1,9 @@
 {
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
-  "modo": "ultimas",
-  "generado": "2026-11-27T20:37:53+02:00",
+  "modo": "portadas",
+  "generado": "2026-11-28T03:45:11+02:00",
   "titulares": [
-    {
-      "titular": "Una puerta abierta al 'delicado' aumento de permisos por la muerte de mascotas: \"La negociación es compleja\"",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-27T18:49:24+02:00",
-      "enlace": "https://www.redaccionmedica.com/salud-animal/20261127/una-puerta-abierta-al-delicado-aumento-de-permisos-por-la-muerte-mascotas-la-negociacion-es-compleja/366610_0.html"
-    },
-    {
-      "titular": "¿Quién gobernará la sanidad en 2040? Los algoritmos predecirán, los ciudadanos exigirán y los directivos estarán obligados a decidir",
-      "medios": [
-        "Redacción Médica"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-27T18:48:04+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/20261127/quien-gobernara-la-sanidad-en-los-algoritmos-predeciran-los-ciudadanos-exigiran-directivos-estaran-obligados-decidir/366890_0.html"
-    },
     {
       "titular": "Recops suma 340.000 productos comunicados y 1.700 empresas antes del cierre del plazo",
       "medios": [
@@ -30,15 +12,6 @@
       "consenso": 1,
       "fecha": "2026-11-27T18:23:50+02:00",
       "enlace": "https://diariofarma.com/2026/11/27/recops-suma-340-000-productos-comunicados-y-1-700-empresas-antes-del-cierre-del-plazo"
-    },
-    {
-      "titular": "La directora de la EMA insta a combatir la desinformación vacunal desde la empatía",
-      "medios": [
-        "Diariofarma"
-      ],
-      "consenso": 1,
-      "fecha": "2026-11-27T18:14:55+02:00",
-      "enlace": "https://diariofarma.com/2026/11/27/la-directora-de-la-ema-insta-a-combatir-la-desinformacion-vacunal-desde-la-empatia"
     },
     {
       "titular": "La reserva estratégica no termina en el almacén",
@@ -50,6 +23,24 @@
       "enlace": "https://elglobalfarma.com/opinion/editorial/carta-del-editor/la-reserva-estrategica-no-termina-en-el-almacen/"
     },
     {
+      "titular": "¿Quién gobernará la sanidad en 2040? Los algoritmos predecirán, los ciudadanos exigirán y los directivos estarán obligados a decidir",
+      "medios": [
+        "Redacción Médica"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-27T18:48:04+02:00",
+      "enlace": "https://www.redaccionmedica.com/politica/20261127/quien-gobernara-la-sanidad-en-los-algoritmos-predeciran-los-ciudadanos-exigiran-directivos-estaran-obligados-decidir/366890_0.html"
+    },
+    {
+      "titular": "La directora de la EMA insta a combatir la desinformación vacunal desde la empatía",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-27T18:14:55+02:00",
+      "enlace": "https://diariofarma.com/2026/11/27/la-directora-de-la-ema-insta-a-combatir-la-desinformacion-vacunal-desde-la-empatia"
+    },
+    {
       "titular": "Por fin, un convenio para la farmacia",
       "medios": [
         "El Global"
@@ -59,13 +50,22 @@
       "enlace": "https://elglobalfarma.com/opinion/editorial/por-fin-un-convenio-farmacia/"
     },
     {
-      "titular": "La Aemps advierte sobre el riesgo de daño hepático de un medicamento para la esclerosis múltiple",
+      "titular": "Una declaración de más: el reglamento del aborto y la conciencia del médico",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-11-27T18:47:37+02:00",
-      "enlace": "https://www.redaccionmedica.com/empresas/industria-farmaceutica/20261127/la-aemps-advierte-sobre-el-riesgo-de-dano-hepatico-un-medicamento-para-la-esclerosis-multiple/367132_0.html"
+      "fecha": "2026-11-27T15:27:37+02:00",
+      "enlace": "https://www.redaccionmedica.com/opinion/20261127/una-declaracion-de-mas-el-reglamento-del-aborto-la-conciencia-medico/367069_12.html"
+    },
+    {
+      "titular": "Las elecciones del 29N someten a examen el modelo de gestión y financiación sanitaria",
+      "medios": [
+        "Diariofarma"
+      ],
+      "consenso": 1,
+      "fecha": "2026-11-27T18:01:02+02:00",
+      "enlace": "https://diariofarma.com/2026/11/27/las-elecciones-del-29n-someten-a-examen-el-modelo-de-gestion-y-financiacion-sanitaria"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 108,
+    "antiguedad_minima_min": 535,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 133,
+        "antiguedad_min": 561,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 9,
         "error": null,
-        "antiguedad_min": 332,
+        "antiguedad_min": 759,
         "descartados_por_gancho": 1
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 108,
+        "antiguedad_min": 535,
         "descartados_por_gancho": 0
       },
       {
