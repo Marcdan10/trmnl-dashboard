@@ -2,7 +2,7 @@
   "pantalla": "deportes",
   "titulo": "Deportes",
   "modo": "portadas",
-  "generado": "2026-11-28T03:45:05+02:00",
+  "generado": "2026-11-28T11:41:34+02:00",
   "titulares": [
     {
       "titular": "Así será el nuevo Museu del Barça",
@@ -23,13 +23,13 @@
       "enlace": "https://www.marca.com/paralimpicos/2026/11/26/reina-letizia-juega-boccia-zarzuela-langui.html"
     },
     {
-      "titular": "Así gestó Márquez el anuncio de la retirada de MotoGP al más puro estilo 'Love Actually'",
+      "titular": "El Barça dejará visitar el vestuario del primer equipo en el Spotify Camp Nou",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-27T15:13:04+02:00",
-      "enlace": "https://www.mundodeportivo.com/motor/motogp/20261127/1004256256/asi-gesto-marc-marquez-anuncio-retirada-motogp-puro-estilo-love-actually.html"
+      "fecha": "2026-11-28T06:00:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261128/1004256271/barca-dejara-visitar-vestuario-primer-equipo-spotify-camp-nou.html"
     },
     {
       "titular": "McGregor anuncia su regreso: \"La rodilla está a punto y el cuerpo a pleno rendimiento\"",
@@ -41,13 +41,13 @@
       "enlace": "https://www.marca.com/combates-ufc/2026/11/26/mcgregor-anuncia-regreso-rodilla-punto-cuerpo-pleno-rendimiento.html"
     },
     {
-      "titular": "Vitor Roque, crítico sobre su etapa en el Barça: \"Apenas me hablaban\"",
+      "titular": "Casadó: \"A los laterales ya les he dicho qué es lo que desquicia a Lamine\"",
       "medios": [
         "Mundo Deportivo"
       ],
       "consenso": 1,
-      "fecha": "2026-11-28T01:07:21+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261128/1004256479/vitor-roque-critico-sobre-etapa-barca-apenas-me-hablaban.html"
+      "fecha": "2026-11-28T07:30:00+02:00",
+      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261128/1004256317/casado-laterales-les-he-dicho-desquicia-lamine.html"
     },
     {
       "titular": "Marc Márquez: \"Me piden ya el undécimo... quiero saborear Valencia\"",
@@ -59,13 +59,13 @@
       "enlace": "https://www.marca.com/motor/motogp/gp-valencia/2026/11/26/marc-marquez-me-piden-undecimo-quiero-saborear-valencia.html"
     },
     {
-      "titular": "La respuesta de Dani Olmo sobre su futuro que encantará a los barcelonistas",
+      "titular": "Aitana incendia Instagram: llega su colaboración soñada con un artista de más de 20 millones de oyentes mensuales",
       "medios": [
-        "Mundo Deportivo"
+        "Marca"
       ],
       "consenso": 1,
-      "fecha": "2026-11-27T20:11:28+02:00",
-      "enlace": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261127/1004256353/respuesta-dani-olmo-sobre-futuro-encantara-barcelonistas.html"
+      "fecha": "2026-11-26T14:48:41+02:00",
+      "enlace": "https://www.marca.com/tiramillas/musica/2026/11/26/aitana-incendia-instagram-colaboracion-internacional-esperada-artista-20-millones-oyentes-mensuales-vez-cerca.html"
     }
   ],
   "salud": {
@@ -75,7 +75,7 @@
       "Sport",
       "NBA"
     ],
-    "antiguedad_minima_min": 42,
+    "antiguedad_minima_min": 19,
     "detalle": [
       {
         "medio": "Marca",
@@ -83,7 +83,7 @@
         "ok": true,
         "items": 61,
         "error": null,
-        "antiguedad_min": 2179,
+        "antiguedad_min": 2655,
         "descartados_por_gancho": 9
       },
       {
@@ -99,10 +99,10 @@
         "medio": "Mundo Deportivo",
         "url": "https://www.mundodeportivo.com/rss/home.xml",
         "ok": true,
-        "items": 140,
+        "items": 138,
         "error": null,
-        "antiguedad_min": 42,
-        "descartados_por_gancho": 5
+        "antiguedad_min": 19,
+        "descartados_por_gancho": 7
       },
       {
         "medio": "Sport",

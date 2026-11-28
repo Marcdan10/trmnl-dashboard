@@ -2,16 +2,16 @@
   "pantalla": "farma",
   "titulo": "Farma y sanidad",
   "modo": "portadas",
-  "generado": "2026-11-28T03:45:11+02:00",
+  "generado": "2026-11-28T11:41:41+02:00",
   "titulares": [
     {
-      "titular": "Recops suma 340.000 productos comunicados y 1.700 empresas antes del cierre del plazo",
+      "titular": "España renueva su convenio para financiar el consorcio europeo Openscreen-Eric",
       "medios": [
         "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-11-27T18:23:50+02:00",
-      "enlace": "https://diariofarma.com/2026/11/27/recops-suma-340-000-productos-comunicados-y-1-700-empresas-antes-del-cierre-del-plazo"
+      "fecha": "2026-11-28T11:22:09+02:00",
+      "enlace": "https://diariofarma.com/2026/11/28/espana-renueva-su-convenio-para-financiar-el-consorcio-europeo-eu-openscreen-eric"
     },
     {
       "titular": "La reserva estratégica no termina en el almacén",
@@ -23,22 +23,22 @@
       "enlace": "https://elglobalfarma.com/opinion/editorial/carta-del-editor/la-reserva-estrategica-no-termina-en-el-almacen/"
     },
     {
-      "titular": "¿Quién gobernará la sanidad en 2040? Los algoritmos predecirán, los ciudadanos exigirán y los directivos estarán obligados a decidir",
+      "titular": "El MIR 2027 encara su recta final: planificación semanal y tres filtros para no bloquearte",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-11-27T18:48:04+02:00",
-      "enlace": "https://www.redaccionmedica.com/politica/20261127/quien-gobernara-la-sanidad-en-los-algoritmos-predeciran-los-ciudadanos-exigiran-directivos-estaran-obligados-decidir/366890_0.html"
+      "fecha": "2026-11-28T10:54:39+02:00",
+      "enlace": "https://www.redaccionmedica.com/formacion/mir/20261128/el-mir-encara-su-recta-final-planificacion-semanal-tres-filtros-para-no-bloquearte/366669_0.html"
     },
     {
-      "titular": "La directora de la EMA insta a combatir la desinformación vacunal desde la empatía",
+      "titular": "Recops suma 340.000 productos comunicados y 1.700 empresas antes del cierre del plazo",
       "medios": [
         "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-11-27T18:14:55+02:00",
-      "enlace": "https://diariofarma.com/2026/11/27/la-directora-de-la-ema-insta-a-combatir-la-desinformacion-vacunal-desde-la-empatia"
+      "fecha": "2026-11-27T18:23:50+02:00",
+      "enlace": "https://diariofarma.com/2026/11/27/recops-suma-340-000-productos-comunicados-y-1-700-empresas-antes-del-cierre-del-plazo"
     },
     {
       "titular": "Por fin, un convenio para la farmacia",
@@ -50,22 +50,22 @@
       "enlace": "https://elglobalfarma.com/opinion/editorial/por-fin-un-convenio-farmacia/"
     },
     {
-      "titular": "Una declaración de más: el reglamento del aborto y la conciencia del médico",
+      "titular": "Dormir bien es un desafío: apnea e insomnio",
       "medios": [
         "Redacción Médica"
       ],
       "consenso": 1,
-      "fecha": "2026-11-27T15:27:37+02:00",
-      "enlace": "https://www.redaccionmedica.com/opinion/20261127/una-declaracion-de-mas-el-reglamento-del-aborto-la-conciencia-medico/367069_12.html"
+      "fecha": "2026-11-28T10:58:12+02:00",
+      "enlace": "https://www.redaccionmedica.com/opinion/20261128/dormir-bien-es-un-desafio-apnea-insomnio/366587_12.html"
     },
     {
-      "titular": "Las elecciones del 29N someten a examen el modelo de gestión y financiación sanitaria",
+      "titular": "La directora de la EMA insta a combatir la desinformación vacunal desde la empatía",
       "medios": [
         "Diariofarma"
       ],
       "consenso": 1,
-      "fecha": "2026-11-27T18:01:02+02:00",
-      "enlace": "https://diariofarma.com/2026/11/27/las-elecciones-del-29n-someten-a-examen-el-modelo-de-gestion-y-financiacion-sanitaria"
+      "fecha": "2026-11-27T18:14:55+02:00",
+      "enlace": "https://diariofarma.com/2026/11/27/la-directora-de-la-ema-insta-a-combatir-la-desinformacion-vacunal-desde-la-empatia"
     }
   ],
   "salud": {
@@ -76,7 +76,7 @@
       "AEMPS",
       "EMA"
     ],
-    "antiguedad_minima_min": 535,
+    "antiguedad_minima_min": 19,
     "detalle": [
       {
         "medio": "Diariofarma",
@@ -84,7 +84,7 @@
         "ok": true,
         "items": 35,
         "error": null,
-        "antiguedad_min": 561,
+        "antiguedad_min": 19,
         "descartados_por_gancho": 0
       },
       {
@@ -93,7 +93,7 @@
         "ok": true,
         "items": 9,
         "error": null,
-        "antiguedad_min": 759,
+        "antiguedad_min": 1236,
         "descartados_por_gancho": 1
       },
       {
@@ -102,7 +102,7 @@
         "ok": true,
         "items": 30,
         "error": null,
-        "antiguedad_min": 535,
+        "antiguedad_min": 43,
         "descartados_por_gancho": 0
       },
       {
